@@ -1,0 +1,2520 @@
+Business Responsibility and Sustainability Report (BRSR)
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of the listed entity
+1.
+Corporate Identity Number (CIN) of the Company
+L72400TG2017PLC117649
+2.
+Name of the Listed Entity
+KFin Technologies Limited
+3.
+Year of incorporation
+2017
+4.
+Registered office address
+Selenium, Tower B, Plot No- 31 & 32, Financial District, 
+Nanakramguda, Serilingampally, Hyderabad, Rangareddi 
+500032, Telangana, India
+5.
+Corporate address
+Selenium, Tower B, Plot No- 31 & 32, Financial District, 
+Nanakramguda, Serilingampally, Hyderabad, Rangareddi- 
+500032, Telangana, India
+6.
+E-mail
+compliance.corp@kfintech.com
+7.
+Telephone
++91 40 7961 5565
+8.
+Website
+www.kfintech.com
+9.
+Financial year for which reporting is being done
+1st April, 2022 to 31st March, 2023
+10.
+Name of the Stock Exchange(s) where shares 
+are listed
+BSE Limited (BSE) & National Stock Exchange of India Limited 
+(NSE)
+11.
+Paid-up Capital
+` 1,692,286,990 divided into:
+a)	
+169,228,699 Equity Shares of face value ` 10 each and
+b)	
+1,000 Preference Shares of face value ` 200 each 
+12.
+Name and contact details (telephone, email address) 
+of the person who may be contacted in case of any 
+queries on the BRSR report
+Mr. Vivek Narayan Mathur
+Chief Financial Officer 
++91 40 7961 5565
+compliance.corp@kfintech.com
+13.
+Reporting boundary - Are the disclosures under this 
+report made on a standalone basis (i.e., only for 
+the entity) or on a consolidated basis (i.e., for the 
+entity and all the entities which form a part of its 
+consolidated financial statements, taken together)
+The disclosures made in this report are made on Standalone 
+basis and pertain only to KFin Technologies Limited. 
+II.	
+Products/services
+14.	 Details of business activities (accounting for 90% of the turnover):
+S. No Description of Main 
+Activity
+Description of Business Activity
+% of Turnover 
+of The Entity
+1.
+Fund Administrator and 
+Qualified Registrar and 
+Transfer Agent
+Technology driven financial services platform providing comprehensive 
+services and solutions to the capital markets ecosystem including asset 
+managers and corporate issuers across asset classes in India and other 
+global locations. We are also a Central Recordkeeping Agency for the 
+National Pension Scheme in India 
+94%
+15.	 Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. No Product/Service
+Description of Business Activity
+NIC Code
+% of total Turnover contributed
+1.
+Service
+Fund Administrator and Qualified 
+Registrar and Transfer Agent
+62099
+94%
+96
+KFin Technologies Limited
+III.	 Operations
+16.	 Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of offices
+Total
+National
+NA
+182 (Front Offices), two middle offices and two back offices
+186
+International
+NA
+1
+1
+17.	 Markets served by the entity:
+a.	
+Number of locations
+Locations
+Number
+National (No. of States)
+27
+International (No. of Countries)
+11
+b.	
+What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+Exports contribute a total of 8.80% of the total turnover.
+c.	
+A brief type of customers
+	
+The Company is a fund administrator and qualified registrar and transfer agent service provider. As such, the Company serves 
+various types of customers across different sectors. Some of the key customer segments of the Company are:
+	
+i.	
+Mutual Funds: KFin Technologies provides registrar and transfer agent services and other value added digital solutions 
+to mutual funds. Mutual fund companies outsource their investor servicing activities, such as record-keeping, transaction 
+processing, and customer support, to KFin Technologies.
+	
+ii.	
+Alternative Investment Funds: It caters to AIFs by offering comprehensive investor servicing solutions. These services 
+include handling investor onboarding, investor inquiries, managing fund distribution, maintaining investor records, fund 
+administration and facilitating various transactions.
+	
+iii.	
+Corporates: It works with corporates to provide them with end-to-end shareholder services. This involves managing 
+the entire lifecycle of a shareholder, including share transfers, dividend payments, and handling corporate actions like 
+buy-backs, open offers, bonus issues, etc. In addition, it also offers other value added services as a platform offering like 
+conducting e-AGM, e-Voting, etc.
+	
+iv.	
+Pension Subcribers: It has a registration to act as Central Recordkeeping Agency (“CRA”) with the Pension Fund 
+Regulatory and Development Authority. The key activities of CRA are Issue & dispatch of unique Permanent Retirement 
+Account Number, receive instructions from subscribers through CRA System / NPSCAN, monitor subscribers’ contributions 
+and instructions and transmit the information to the relevant Pension Fund Managers, providing various subscriber 
+maintenance services, interact and coordinate with other NPS stakeholders etc. .
+IV.	 Employees
+18.	 Details as at the end of Financial Year:
+a.	
+Employees and workers including differently abled
+S. No. Particulars
+Total 
+(A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+EMPLOYEES
+1.
+Permanent (D)
+5,127
+3,879
+76%
+1,248
+26%
+2.
+Other than Permanent (E)
+513
+340
+68%
+173
+34%
+3.
+Total employees (D + E)
+5,640
+4,219
+75%
+1,421
+25%
+CORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTS
+97
+Annual Report 2022-23
+	
+*The Company does not employ any workers as it’s a service-based company.
+b.	
+Differently abled employees and workers
+S. No Particulars
+Total 
+(A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+DIFFERENTLY ABLED EMPLOYEES
+1.
+Permanent (D)
+5
+5
+100%
+Nil
+0%
+2.
+Other than Permanent (E)
+9
+6
+66.67%
+3
+33.33%
+3.
+Total differently abled employees (D + E)
+14
+11
+78.57%
+3
+21.43%
+19.	 Participation/Inclusion/Representation of women
+Total
+(A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+9
+1
+11%
+Key Management Personnel
+3
+1
+33.33%
+20.	 Turnover rate for permanent employees and workers
+FY 2022-23
+FY 2021-22
+FY 2020-21
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees (%) 
+33%
+42%
+35%
+39%
+48%
+41%
+23%
+26%
+24%
+V.	
+Holding, Subsidiary and Associate Companies (including joint ventures)
+21.	 (a)	 Names of holding / subsidiary / associate companies / joint ventures
+S. No. Name of the holding / subsidiary / 
+associate companies / joint ventures
+Indicate whether 
+holding/ Subsidiary/ 
+Associate/ Joint 
+Venture
+% Of 
+shares held 
+by listed 
+entity
+Does the entity indicated 
+at column A, participate in 
+the Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+1
+KFin Services Private Limited
+Wholly-owned subsidiary
+100%
+No
+2
+KFin Technologies (Bahrain) W.L.L.
+Wholly-owned subsidiary
+100%
+No
+3
+KFin Technologies (Malaysia) SDN. BHD
+Wholly-owned subsidiary
+100%
+No
+4
+Hexagram Fintech Private Limited
+Wholly-owned subsidiary
+100%
+No
+5
+Hexagram Fintech SDN. BHD.
+Wholly-owned stepdown 
+subsidiary
+100%
+No
+6
+KFin Global Technologies (IFSC) Limited
+Wholly-owned subsidiary
+100%
+No
+7
+Fintech Products and Solutions India 
+Private Limited
+Associate
+25.63%
+No
+VI.	 CSR Details
+22.	 i.	
+Whether CSR is applicable as per section 135 of Companies Act, 2013: Yes
+	
+ii.	
+Turnover: ` 6,247.09 million as on March 31, 2022
+	
+iii.	
+Net Worth: ` 6,186.98 million* as on March 31, 2022
+	
+* excludes capital reserve, capital redemption reserves and share based payment reserves.
+98
+KFin Technologies Limited
+VII.	 Transparency and Disclosures Compliances
+23.	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on 
+Responsible Business Conduct:
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance 
+Redressal 
+Mechanism in 
+Place (Yes/No)
+FY 2022-23
+FY 2021-22
+(If Yes, then 
+provide web-link 
+for grievance 
+redress policy)
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending resolution 
+at close of the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending resolution 
+at close of the year
+Remarks
+Communities Yes. The company has a CSR committee and established an internal system to actively monitor the execution 
+of their Corporate Social Responsibility (CSR) projects and address the needs and concerns of the beneficiary 
+community. 
+Investors 
+(other than 
+shareholders)
+Not Applicable. The Company has no borrowings and has only shareholders which include both individual 
+and entities.
+Shareholder
+Yes. The investors can reach out to the Head of Investor Relations either through post or can email 
+their concerns on investorrelations@kfintech.com. Details are available on the Company’s website 
+ttps://investor.kfintech.com/.
+Further, the shareholders can reach write to/ contact the Registrars or Share Transfer Agents on 
+investor@bigshareonline.com. They can alternatively call them and can access their website for any queries. 
+Details are available on the Company’s website https://investor.kfintech.com/.
+Employees
+Yes
+3
+0
+N.A.
+3
+0
+N.A.
+Customers
+Yes. The Company conducts regular meetings with its customers at various levels to gain insights into their 
+requirements, gather feedback, and receive suggestions. These meetings are scheduled at predetermined 
+intervals. 
+Value Chain 
+Partners
+Yes. The Company maintains regular interactions with key stakeholders in its value chain. The company 
+facilitates effective communication through dedicated digital platforms, enabling them to understand any 
+grievances, receive feedback, and address their concerns.
+Other (please 
+specify)
+Not Applicable.
+24.	 Overview of the entity’s material responsible business conduct issues
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters 
+that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or mitigate the risk 
+along-with its financial implications, as per the following format
+CORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTS
+99
+Annual Report 2022-23
+S. No. Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying 
+the risk / opportunity
+In case of risk, approach 
+to adapt or mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate 
+Positive 
+or 
+negative implications)
+1. 
+Carbon 
+Footprint 
+and Climate 
+Change
+Risk and 
+Opportunity
+High energy consumption 
+by 
+the 
+company's 
+operations 
+and 
+data 
+centers may contribute to 
+greenhouse gas emissions, 
+which can have a negative 
+impact on the environment, 
+exacerbate climate change, 
+resource 
+depletion 
+and 
+increased pollution.
+Shift to renewable energy 
+sources for powering data 
+centers and other facilities, 
+reducing carbon emissions 
+and energy consumption. 
+Implement energy-efficient 
+technologies, 
+such 
+as 
+efficient cooling systems 
+and server virtualization, 
+to 
+minimize 
+energy 
+consumption.
+Energy efficiency measures 
+can reduce operational 
+costs by lowering energy 
+consumption and related 
+expenses.
+2.
+Electronic 
+Waste
+Risk
+The disposal of electronic
+waste generated by the
+company's operations, such
+as outdated IT equipment,
+can 
+have 
+adverse
+environmental effects if not
+managed properly.
+The Company has approved 
+& well established Waste 
+Management 
+Policy 
+(e-waste), 
+wherein, 
+we 
+engaged vendors who has 
+the capability for proper 
+disposal of e-waste.
+Investment 
+in 
+disposal 
+practices followed. 
+3. 
+Data Privacy 
+and Security
+Risk
+As a QRTA, the Company 
+handles sensitive customer 
+data. 
+Ensuring 
+robust 
+data privacy and security 
+measures 
+is 
+crucial 
+to 
+maintaining customer trust 
+and complying with relevant 
+regulations.
+Strengthen data protection 
+measures, 
+including 
+encryption, access controls, 
+and 
+employee 
+training 
+programs, to mitigate the 
+risk of data breaches.
+Increased 
+investment 
+in robust controls can 
+enhance the company's 
+reputation, customer trust, 
+and client acquisition.
+4.
+Workforce 
+Diversity and 
+Inclusion
+Opportunity
+Promoting 
+diversity 
+and 
+inclusion 
+within 
+the 
+company 
+can 
+enhance 
+innovation, 
+productivity, 
+and 
+overall 
+business 
+performance. 
+Failing 
+to 
+address these issues may 
+lead to reputational damage 
+and hinder talent acquisition 
+and retention.
+Implement 
+initiatives 
+to foster a diverse and 
+inclusive workplace, such 
+as recruitment strategies, 
+employee resource groups, 
+and training programs.
+None.
+5. 
+Employee 
+Well-being
+Risk and 
+Opportunity
+Providing a safe and healthy 
+work environment, work-
+life balance, and employee 
+development opportunities 
+are essential for employee 
+satisfaction, 
+productivity, 
+and overall organizational 
+success.
+Prioritize employee well-
+being through initiatives like 
+flexible work arrangements, 
+mental health support, and 
+professional 
+development 
+opportunities.
+Improving 
+employee 
+well-being and creating 
+an 
+inclusive 
+work 
+environment can enhance 
+productivity, 
+reduce 
+turnover, and attract top 
+talent.
+100
+KFin Technologies Limited
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURE
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting the 
+NGRBC Principles and Core Elements.
+Disclosure Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+Policy and Management Process 
+1.	
+(a)	
+Whether your entity’s policy/policies 
+cover each principle and its core 
+elements of the NGRBCs. (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+	
+(b)	
+Has the policy been approved by the 
+Board? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+	
+(c)	
+Web Link of the Policies, 
+if available
+1.	
+Code of Conduct for Directors and Senior Management - https://investor.
+kfintech.com/wp-content/uploads/2022/07/KFintech_Code-of-Conduct-
+for-Directors-and-Senior-Management.pdf
+2.	
+Corporate Social Responsibility (CSR) Policy - https://investor.kfintech.
+com/wp-content/uploads/2022/11/KFintech_CSR-Policy.pdf
+3.	
+Policy on Board Diversity - https://investor.kfintech.com/wp-content/
+uploads/2022/07/KFintech_Policy-on-Board-Diversity.pdf
+4.	
+Whistle Blower and Vigil Mechanism Policy - https://investor.kfintech.
+com/wp-content/uploads/2022/07/KFintech_Whistle-Blower-and-Vigil-
+Mechanism-Policy.pdf
+5.	
+Information Security Policy - https://investor.kfintech.com/wp-content/
+uploads/2022/11/Information-Security-Policy.pdf
+2.	
+Whether the entity has translated the policy 
+into procedures
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+3.	
+Do the enlisted policies extend to your value 
+chain partners? (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+N.A.
+Y
+Y
+4.	
+Name of the national and international 
+codes/certifications/labels/ standards (e.g. 
+Forest 
+Stewardship 
+Council, 
+Fairtrade, 
+Rainforest Alliance, Trustea) standards (e.g. 
+SA 8000, OHSAS, ISO, BIS) adopted by your 
+entity and mapped to each principle.
+While there are no specific national or international standards mandated for 
+the formulated policies, the policies of KFin Technologies Limited comply with 
+relevant regulatory requirements, wherever applicable. The Information Security 
+Management system policies align with the ISO/IEC 27001:2013 standards. The 
+Company has renewed its ISO 9001:2015 certification for its state-of-the-art 
+Quality Management System. Also it has renewed its SOC 1 Type 2 certification 
+for FY 2022-23 to reflects its commitment to maintain the highest standard of 
+data security and operational excellence.
+5.	
+Specific commitments, goals, and targets 
+set by the entity with defined timelines, if 
+any.
+The Company thrives on technology to digitise and drive automations across 
+most of its processes to ensure operational efficiencies and delivery excellence. 
+As such, our goal is to invest in new products and digital platforms for different 
+asset classes to drive paperless transactions.
+We have been actively taking conscious efforts to replace our existing equipment 
+systems across infrastructure with energy efficient equipment.
+6.	
+Performance of the entity against the 
+specific commitments, goals and targets 
+along-with reasons in case the same are 
+not met.
+The Company has active steering committees for strategic functions which 
+meet on a periodic basis to review and discuss internal control, processes and 
+governance. 
+CORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTS
+101
+Annual Report 2022-23
+Disclosure Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+Government Leadership and oversight
+7.	
+Statement by director responsible for the 
+business responsibility report, highlighting 
+ESG 
+related 
+challenges, 
+targets 
+and 
+achievements (listed entity has flexibility 
+regarding the placement of this disclosure)
+Refer to the message of Mr. Sreekanth Nadella (CEO and MD) in the Annual 
+Report
+8.	
+Details of the highest authority responsible 
+for implementation and oversight of the 
+Business Responsibility policy (ies).
+Mr. Sreekanth Nadella, CEO and MD
+9.	
+Does the entity have a specified Committee 
+of the Board/ Director responsible for 
+decision making on sustainability related 
+issues? (Yes / No). If yes, provide details.
+The Company has Corporate Social Responsibility Committee, for details refer 
+to the Corporate Governance Report in the Annual Report 
+10.	 Details of review of NGRBCs by the Company:
+Subject for review
+ 
+Indicate whether review was 
+undertaken by the Director/Committee 
+of the Board/Any other Committee
+Frequency 
+(Annually/ Half-yearly/ Quarterly/ Any 
+other – please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above 
+policies and follow up action
+Board and its committees periodically review the policies and evaluate the performance of 
+the Company against the NGRBC principles to the extent applicable and possible.
+Compliance 
+with 
+statutory 
+requirements of relevance to 
+the principles and rectification 
+of any non – compliance
+The Company follows strict compliance practices which ensure that statutory requirements 
+are complied with at all times. 
+11.	 Has the entity carried out independent assessment/ evaluation of the working of its policies by an 
+external agency? (Yes/No). If yes, provide the name of the agency.
+	
+The Company conducts external audits periodically to comply with regulatory and statutory requirements. However, it has not 
+yet conducted a specific independent audit on the National Guidelines on Responsible Business Conduct principles.
+12.	 If answer to question (1) above is “No” i.e., not all Principles are covered by a policy, reasons to be 
+stated: 
+	
+Not applicable
+102
+KFin Technologies Limited
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core Elements with key 
+processes and decisions. The information sought is categorized as “Essential” and “Leadership”. While the essential indicators are 
+expected to be disclosed by every entity that is mandated to file this report, the leadership indicators may be voluntarily disclosed by 
+entities which aspire to progress to a higher level in their quest to be socially, environmentally and ethically responsible.
+PRINCIPLE 1 Businesses should conduct and govern themselves with integrity, and in a manner that is 
+Ethical, Transparent and Accountable.
+ESSENTIAL INDICATORS
+1.	
+Percentage coverage by training and awareness programmes on any of the principles during the 
+financial year:
+	
+The Company has the plan in place to provide the above training in the financial year 2023-24; however 
+the Company provides training related to code of conduct which, inter-alia, includes some of human 
+rights, compliance, etc.
+2.	
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in 
+proceedings (by the entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial 
+institutions, in the financial year, in the following format (Note: the entity shall make disclosures on the 
+basis of materiality as specified in Regulation 30 of SEBI (Listing Obligations and Disclosure Obligations) 
+Regulations, 2015 and as disclosed on the entity’s website):
+Monetary
+Name of the regulatory 
+/ enforcement agencies 
+/ judicial institutions
+NGRBC Principle
+Amount (₹)
+Brief of the 
+Case
+Has an appeal 
+been preferred? 
+(Yes/No)
+Penalty/Fine
+N.A.
+N.A.
+N.A.
+N.A.
+N.A.
+Settlement
+SEBI
+ 
+` 9.12 million
+See note below
+No
+Compounding Fee
+N.A.
+N.A. 
+N.A.
+N.A.
+N.A.
+Non-Monetary
+Name of the 
+regulatory/ 
+enforcement agencies/
+judicial institutions
+NGRBC Principle
+Brief of the 
+case
+Has an appeal been preferred? 
+(Yes/No)
+Imprisonment
+N.A.
+N.A.
+N.A.
+N.A.
+Punishment
+N.A.
+N.A.
+N.A.
+N.A.
+	
+Note: The Company received a Show Cause Notice (“SCN”) from SEBI related to its issuer services business. SEBI pointed out 
+certain observations. It was an industry issue due to various regulatory changes brought in by SEBI in short period of time. To 
+conclude the matter early, KFintech decided to settle the matter with SEBI and move on. Accordingly, SEBI issued a settlement 
+order dated November 4, 2022 (“the Order”). It is to be noted that the Order issued by the SEBI clearly states that the proposal 
+of KFintech to settle the matter was without admitting or denying the findings of fact and conclusions of law, through a 
+settlement order.
+CORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTS
+103
+Annual Report 2022-23
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where 
+monetary or non-monetary action has been appealed.
+	
+None
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if 
+available, provide a web-link to the policy.
+	
+The Company has a Code of conduct and Business Ethics Policy in place with states that, no employee within the organization 
+shall be involved in offering or receiving any bribe. The Company monitors these incidents. The Company also takes into 
+consideration that its vendors and suppliers are not involved in any corruption and bribery activities.
+	
+The policy also states that employees are not allowed to exchange gifts unless it is approved from the Head of Human 
+Resource. Gifts which are exchanged with clients are documented in a Gift Register by the Human Resource Department.
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any 
+law enforcement agency for the charges of bribery/ corruption:
+	
+None
+6.	
+Details of complaints regarding conflict of interest:
+FY 2022-23
+FY 2021-22
+Number
+Remark
+Number
+Remark
+Number of complaints received in relation to 
+issues of Conflict of Interest of the Directors
+Not Applicable
+Number of complaints received in relation to 
+issues of Conflict of Interest of the KMPs
+Not Applicable
+7.	
+Provide details of any corrective action taken or underway on issues related to fines / penalties / 
+action taken by regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and 
+conflicts of interest.
+	
+Not Applicable.
+LEADERSHIP INDICATORS
+1.	
+Awareness programmes conducted for value chain partners on any of the principles during the financial 
+year.
+	
+None
+2.	
+Does the entity have processes in place to avoid/ manage conflict of interests involving members of the 
+Board? (Yes/No) If yes, provide details of the same.
+	
+Yes, the organization has a policy for Code of Conduct For Directors and Senior Management, which states that all the 
+members of the board shall exercise their duties objectively and constructively, upholding the ethics of the organization. The 
+Company further expects each director to safeguard the interests of all the stakeholders by balancing conflicting interests 
+amongst stakeholder and themselves.
+	
+This policy reflects KFintech’s strict adherence to maintain good faith in order to achieve benefits of its members, employees, 
+shareholders, community and the environment.
+104
+KFin Technologies Limited
+PRINCIPLE 2 Businesses should provide goods and services in a manner that is sustainable and safe
+ESSENTIAL INDICATORS
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the 
+environmental and social impacts of product and processes to total R&D and capex investments made 
+by the entity, respectively.
+	
+None, considering the nature of business that the Company is into.
+2.	
+(a)	 Does the entity have procedures in place for sustainable sourcing? - Yes
+	
+(b)	 If yes, what percentage of inputs were sourced sustainably?
+	
+	
+KFin Technologies Limited sources most of its electronic devices such as laptops, servers, desktops, etc. from partners who 
+are sourcing their products sustainably.
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing 
+at the end of life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other 
+waste.
+Type of Product
+Process
+Plastics
+Plastic waste is collected and handed over to municipal/ government agencies for its recycle/ disposal. 
+E waste
+In compliance with the Waste Management Policy adopted by the Company and done through 
+approved recyclers. 
+Hazardous Waste
+Not Applicable. No hazardous waste is generated due to the nature of business. 
+Other Waste
+In compliance with the Waste Management Policy adopted by the Company and done through 
+approved recyclers.
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If 
+yes, whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan 
+submitted to Pollution Control Boards? If not, provide steps taken to address the same.
+	
+Not Applicable
+LEADERSHIP INDICATORS
+1.	
+Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for 
+manufacturing industry) or for its services (for service industry)? If yes, provide details in the following 
+format?
+	
+Not applicable owing to the nature of business.
+2.	
+If there are any significant social or environmental concerns and/or risks arising from production or 
+disposal of your products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or 
+through any other means, briefly describe the same along-with action taken to mitigate the same.
+	
+Not applicable.
+3.	
+Percentage of recycled or reused input material to total material (by value) used in production (for 
+manufacturing industry) or providing services (for service industry).
+	
+Not applicable.
+4.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, 
+recycled, and safely disposed, as per the following format:
+	
+Not applicable
+5.	
+Reclaimed products and their packaging materials (as percentage of products sold) for each product 
+category.
+	
+Not applicable.
+CORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTS
+105
+Annual Report 2022-23
+PRINCIPLE 3 Businesses should respect and promote the well-being of all employees, including those in 
+their value chains
+ESSENTIAL INDICATORS
+1.	
+(a)	 Details of measures for the well-being of employees:
+% of Employees covered
+Category
+Total
+(A)
+Health insurance 
+care facilities
+Accident 
+insurance
+Maternity 
+Benefits
+Paternity 
+benefits
+Day care facilities
+No. (B)
+(B/A) %
+No. (C)
+(C/A) %
+No. (D)
+(D/A) %
+No. (E)
+(E/A) %
+No. (F)
+(F/A) %
+Permanent Employees
+Male
+3,879
+3,879
+100%
+3,879
+100%
+-
+0%
+3,879
+100%
+3,879
+100%
+Female
+1,248
+1,248
+100%
+1,248
+100%
+1,248
+100%
+-
+0%
+1,248
+100%
+Total
+5,127
+5,127
+100%
+5,127
+100%
+1,248
+24%
+3,879
+76%
+5,127
+100%
+Other than Permanent Employees
+Male
+339
+339
+100%
+339
+100%
+-
+0%
+-
+0%
+-
+0%
+Female
+174
+174
+100%
+174
+100%
+174
+100%
+-
+0%
+-
+0%
+Total
+513
+513
+100%
+513
+100%
+174
+34%
+-
+0%
+-
+0%
+	
+(b)	 Details of measures for the well-being of workers:
+	
+	
+The company does not employ any workers.
+2.	
+Details of retirement benefits, for Current FY and Previous Financial Year.
+Benefits
+FY 2022-23
+FY 2021-22
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+PF
+100%
+N.A.
+Yes 
+100% 
+N.A.
+Yes 
+Gratuity
+100%
+N.A.
+Yes
+100%
+N.A.
+Yes
+ESI
+52%
+N.A.
+Yes
+58%. 
+N.A.
+Yes
+Others (please 
+Specify)
+N.A.
+N.A.
+N.A.
+N.A.
+N.A.
+N.A.
+3.	
+Accessibility of Workplace-
+	
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the 
+requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the 
+entity in this regard.
+	
+Yes, the premises/offices of the entity are accessible to differently abled employees and workers, as per the requirements of the 
+Rights of Persons with Disabilities Act, 2016
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 
+2016? If so, provide a web-link to the policy.
+	
+Yes, the entity has a Code of Conduct policy which mandates all the employees to conduct themselves with a high degree 
+of professional ethics, fairness and transparency. The organization does not discriminate any employee on the basis of caste, 
+creed, race, gender or sexual identity.
+106
+KFin Technologies Limited
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave.
+Permanent employees
+Return to Work Rate
+Retention Rate
+Male
+100.00%
+80.65%
+Female
+99.31%
+70.14%
+Total
+99.66%
+75.40%
+	
+*The company does not have any permanent workers.
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of 
+employees and workers? If yes, give details of the mechanism in brief.
+If yes, give details of the mechanism in brief (Yes/No)
+Permanent workers
+Not Applicable
+Other than Permanent workers
+Not Applicable
+Permanent Employees
+Yes, Employees can report any incident about workplace issues like financial and auditing 
+concerns, Sexual harassment, theft, substance abuse, ethics violation, Workplace violence 
+unsafe conditions etc by visiting www.convercent.com/report. The platform helps the 
+Company to keep a track of the grievances raised by employees around multiple issues 
+and resolve them in a timely manner. 
+Other than permanent Employees
+7.	
+Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+	
+The Company does not have any employee’s association. However, the company acknowledges and respects the right to 
+freedom of association, and it does not discourage or impede collective bargaining.	
+8.	
+Details of training given to employees and workers:
+Category
+FY 2022-23
+FY 2021-22
+Total
+(A)
+On health and 
+safety/ wellness 
+measures
+On skill 
+upgradation
+Total (D)
+On health and 
+safety/ wellness 
+measures
+On skill 
+upgradation
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D) No. (F)
+% (F/D)
+Employees
+Male
+3,879
+990
+25.5%
+2,625
+67.70%
+4,033
+The Company started maintaing the 
+respective datasets starting from 
+FY 2022-23
+Female
+1,248
+350
+28%
+922
+73.90%
+1,301
+Total
+5,127
+1,340
+26.1%
+3,547
+69.20%
+5,334
+9.	
+Details of performance and career development reviews of employees:
+Category
+FY 2022-23
+FY 2021-22
+Total (A)
+No.(B)
+% (B/A)
+Total(C)
+No.(D)
+% (D/C)
+Permanent Employees
+Male
+3,879
+3,542
+91%
+4,033
+3,021
+75%
+Female
+1,248
+1,120
+90%
+1,301
+909
+70%
+Total
+5,127
+4,662
+91% 
+5,334
+3,930 
+73%
+10.	 Health and safety management system:
+	
+(a)	 Whether an occupational health and safety management system has been implemented by the 
+entity? (Yes/ No). If yes, the coverage of such a system?
+	
+	
+There are no significant occupational health and safety risks associated with the operations considering the nature of 
+business. However, the Company is committed to provide safe working conditions to all employees at all times and 
+ensures effectiveness of the same.
+CORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTS
+107
+Annual Report 2022-23
+	
+(b)	 What are the processes used to identify work-related hazards and assess risks on a routine and 
+non-routine basis by the entity?
+	
+	
+Regular fire drills are conducted at the company's operating premises to assess and mitigate risks. Employees receive first 
+aid training to effectively identify and handle any unforeseen situations. Additionally, employees provide feedback on 
+various safety and health considerations, ensuring a collaborative approach towards maintaining a secure and healthy 
+work environment.
+	
+(c)	 Whether you have processes for workers to report the work-related hazards and to remove 
+themselves from such risks. (Y/N)
+	
+	
+Due to the nature of the business, employees are not exposed to any occupational hazards. However, the company 
+still conducts fire drills and provides trainings to ensure that employees are equipped with strategies to safely remove 
+themselves from any potential hazards.
+	
+(d)	 Do the employees/ workers of the entity have access to non-occupational medical and healthcare 
+services? (Yes/ No)
+	
+	
+Yes
+11.	 Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category
+FY 2022-23
+FY 2021-22
+Lost Time Injury Frequency Rate (LTIFR) (per one million-person hours worked)
+Permanent 
+Employees
+None
+None
+Total recordable work-related injuries
+None
+None
+No. of fatalities
+None
+None
+High consequence work-related injury or ill-health (excluding fatalities)
+None
+None
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace.
+	
+Ensuring a safe and healthy workplace is inevitable for KFintech. We have implemented various measures to achieve this goal. 
+Here are some common measures taken by KFintech to ensure a safe and healthy workplace: 
+	
+1.	
+Safety Policies and Procedures: KFintech establishes comprehensive EHS policy and SOPs that outline guidelines and 
+protocols for employees to follow. These policies cover areas such as security, access control, emergency response and 
+reporting to ensure the safety of employees. 
+	
+2.	
+Risk Assessments: Regular risk assessments are conducted to identify potential threats in the workplace. This involves 
+evaluating the workplace environment, equipment, and processes  to employee health and safety.  Accordingly, 
+KFintech has covered risk assessment under crises management and business continuity program in Admin manual. 
+	
+3.	
+Safety Equipment and Facilities: KFintech provide necessary safety equipment and facilities to protect employees. This 
+may include personal protective equipment like gloves and advanced equipment for technicians. Entities also ensure the 
+availability of safety features in the workplace, such as firefighting sprinklers, fire extinguishers, emergency exits, and 
+properly maintained equipment. 
+	
+4.	
+Incident Reporting and Investigation: Entities establish clear procedures for employees to report incidents, accidents, 
+and near-misses, named as root cause analysis (RCA). This encourages a proactive approach to safety and allows the 
+entity to investigate the causes, identify trends, and take corrective actions to prevent similar incidents in the future. 
+	
+Implementing these measures, KFintech demonstrates their commitment to providing a safe and healthy workplace, fostering 
+employee well-being, and minimizing risks to employees' health and safety. 
+13.	 Number of Complaints on the following made by employees and workers:
+FY 2022-23
+FY 2021-22
+Filed during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Working Conditions
+0
+0
+None
+0
+0
+None
+Health & Safety
+0
+0
+None
+0
+0
+None
+108
+KFin Technologies Limited
+14.	 Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory 
+authorities or third parties)
+Health and safety practices
+None. There were no assessments conducted during the year on these lines.
+Working Conditions
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) 
+and on significant risks / concerns arising from assessments of health & safety practices and working 
+conditions.
+	
+Being a service-based industry, there were no safety related incidents reported.
+LEADERSHIP INDICATORS
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of death of 
+Employees (Y/N)
+	
+Yes.
+2.	
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and 
+deposited by the value chain partners.
+	
+The company ensures that any applicable statutory payments related to transactions within its scope are deducted and 
+deposited in compliance with regulatory requirements. This process is also subject to review during both internal and statutory 
+audits. The company expects its partners in the value chain to adhere to business responsibility principles and uphold the values 
+of transparency and accountability.
+3.	
+Provide the number of employees / workers having suffered high consequence work- related injury / 
+ill-health / fatalities (as reported in Q11 of Essential Indicators above), who have been are rehabilitated 
+and placed in suitable employment or whose family members have been placed in suitable employment:
+Total no. of affected employees/ 
+workers
+No. of employees/workers that are rehabilitated 
+and placed in suitable employment or whose family 
+members have been placed in suitable employment
+FY 2022-23
+FY 2021-22
+FY 2022-23
+FY 2021-22
+Employees
+Nil
+Nil
+Nil
+Nil
+4.	
+Does the entity provide transition assistance programs to facilitate continued employability and the 
+management of career endings resulting from retirement or termination of employment? (Yes/ No)
+	
+Yes
+5.	
+Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such partners) that were assessed
+Health and safety practices
+None. No assessments were conducted in the reporting period. 
+Working Conditions
+6.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns 
+arising from assessments of health and safety practices and working conditions of value chain partners.
+	
+Not Applicable.
+CORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTS
+109
+Annual Report 2022-23
+PRINCIPLE 4 Businesses should respect the interests of and be responsive to all its stakeholders
+ESSENTIAL INDICATORS
+1.	
+Describe the processes for identifying key stakeholder groups of the entity.
+	
+Any individual or group of individuals or institution that adds value to the business chain of the Corporation is identified as a 
+core or key stakeholder. This inter alia includes employees, shareholders and investors, customers, channel partners and key 
+partners, regulators, lenders, research analysts, communities and suppliers amongst others.
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each 
+stakeholder group.
+Sr. 
+No
+Stakeholder 
+Group
+Whether identified 
+as Vulnerable and 
+Marginalized Group
+Channels of 
+communication
+Frequency of 
+engagement
+Purpose and Scope of engagement
+1
+Shareholders
+No
+Email, Newspaper 
+advertisements, 
+Meetings
+Annually / Half Yearly 
+/ Quarterly / Need 
+basis
+Financial and Business performance
+2
+Clients
+No
+Email, Mobile Apps, 
+Surveys, Websites, Face 
+to face meetings
+Annually / Half 
+Yearly / Quarterly / 
+Monthly/ Weekly/ 
+Need basis
+Service delivery and feedback
+3
+Employees
+No
+Internal communications Frequently
+Team building, Townhalls, career growth, 
+skill development trainings, safe workplace
+4
+Communities
+Yes
+Meeting, Newspaper, 
+Notices
+As and when needed Implementation of CSR activities promoting 
+education, preventive health care and 
+sanitation, and Ecological balance and 
+animal welfare. 
+5
+Government
+No
+Meeting, Newspaper, 
+Notices
+As and when needed Industry representations, and meetings
+LEADERSHIP INDICATORS
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, 
+and social topics or if consultation is delegated, how is feedback from such consultations provided to 
+the Board.
+	
+The organization strongly values maintaining ongoing engagement with its primary stakeholders to enhance communication 
+regarding its performance and strategy. As part of this commitment, the company actively seeks opportunities to interact with key 
+stakeholders to gain insights into their perspectives, concerns, grievances, and suggestions regarding the environmental, social, 
+and governance (ESG) material issues. The exchange of ideas and information between stakeholders, company management, 
+and board members, as well as interactions with officials, occurs through a diverse range of engagement channels.
+2.	
+Whether stakeholder consultation is used to support the identification and management of 
+environmental, and social topics (Yes / No). If so, provide details of instances as to how the inputs 
+received from stakeholders on these topics were incorporated into policies and activities of the entity.
+	
+Yes, the Company identifies the CSR activities in active engagement with the key stakeholder groups.
+3.	
+Provide details of instances of engagement with, and actions taken to, address the concerns of 
+vulnerable/ marginalized stakeholder groups.
+	
+The company engages with vulnerable and marginalized stakeholders through various CSR projects: -
+	
+Project 1: Jinnaram Tribal School develops and enhances Skills by providing computer lab with complete set up along with 
+internet connections, Provided digital boards, RO installation, courtyard upliftment and CCTV coverage and sports equipment 
+for Cricket and Basketball
+	
+Project 2: Telangana Tribal Welfare Residential Degree College for Women (“TTWRDC”) in Rajanna Sircilla district for the Fine 
+Arts college, provides fashion designing material, interior design equipment, PHOTOGRAPHY EQUIPMETS, Books related to 
+Fine Arts; CCTV, Complete Computer lab set up, courtyard upliftment, Laptops, Air Conditioners etc.
+	
+Project 3: Telangana Tribal Welfare Degree College for Women has provided Inclinators to 15 Women colleges.
+110
+KFin Technologies Limited
+PRINCIPLE 5 Businesses should respect and promote human rights
+ESSENTIAL INDICATORS
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the 
+entity, in the following format:
+Category
+FY 2022-23
+FY 2021-22
+Total (A)
+No. of employees/
+worker s covered (B)
+%
+(B / A)
+Total (C)
+No. of employees/
+workers covered (D) 
+%
+(D / C)
+Employees
+Permanent
+5,127
+5,127
+100%
+5,334
+5,334
+100%
+Other than permanent
+513
+0
+0%
+618
+0
+0%
+Total Employees
+5,640
+5,127
+91%
+5,952
+5,334
+90%
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+Category
+FY 2022-23 
+ 
+FY 2021-22 
+Total (A)
+Equal to Minimum 
+Wage
+More than 
+Minimum Wage
+Total (D)
+Equal to Minimum 
+Wage
+More than 
+Minimum Wage
+No.
+(B)
+%
+ (B /A)
+No.
+(C)
+%
+(C /A)
+No.
+(E)
+%
+(E/D)
+No.
+(F)
+%
+(F/D)
+Employees
+Permanent
+Male
+3,879
+164
+4.23%
+3,715
+95.74%
+4,033
+81
+2.01%
+3,952
+97.99%
+Female
+1,248
+81
+6.49%
+1,167
+93.39%
+1,301
+47
+3.61%
+1,254
+96.39%
+Other than Permanent
+Male
+339
+209
+61.65%
+130
+38.35%
+435
+253
+58.16%
+182
+41.84%
+Female
+174
+116
+66.67%
+58
+33.33%
+183
+126
+68.85%
+57
+31.15%
+3.	
+Details of remuneration/salary/wages, in the following format:
+Male
+Female
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+Board of Directors (BoD)*
+8
+3.67 million
+1
+2.25 million
+Key Managerial Personnel**
+1
+16.47 million
+1
+1.93 million
+Employees other than BoD and KMP
+3,877
+0.3 million
+1,247
+0.2 million
+Workers
+N.A.
+N.A.
+N.A.
+N.A.
+	
+* BoD includes MD and eight other Non-Executive Directors
+	
+** MD is included in BOD
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or 
+issues caused or contributed to by the business? (Yes/No)
+	
+Yes. The Human Resource department is responsible for addressing human rights impact or issues caused or contributed to by 
+the business
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues
+	
+Yes, Employees can report any incident about human rights issues by visiting www.convercent.com/report.
+CORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTS
+111
+Annual Report 2022-23
+6.	
+Number of Complaints on the following made by employees and workers:
+FY 2022-23
+FY 2021-22
+Filed during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Sexual Harassment
+1
+Nil
+NA
+Nil
+Nil
+N.A.
+Discrimination	 at workplace
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Child Labour
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Forced Labour/Involuntary 
+Labour
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Wages
+Nil 
+Nil 
+NA
+ Nil
+Nil
+NA
+Other Human Rights 
+related issues
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+7.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment 
+cases.
+	
+Yes. We have a reporting mechanism in place where employees can report any incidents about discrimination and harassment 
+by visiting www.convercent.com/report. We also have a POSH policy in place to prevent cases of sexual harassments. Any 
+employee or aggrieved women may file a written complaint of harassment to an Internal committee to address the issues of 
+harassment.
+	
+Weblink: https://www.kfintech.com/wp-content/uploads/2021/06/KFin-PoSH-Policy-v1.1_updated.pdf.
+8.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No): 
+No, the same is being implemented in current financial year.
+9.	
+Assessments for the year:
+% of your plants and offices that were assessed (by entity or 
+statutory authorities or third parties)
+Child labour
+None
+Forced/involuntary labour
+Sexual harassment
+Discrimination at workplace
+Wages
+Others – please specify
+10.	 Provide details of any corrective actions taken or underway to address significant risks / concerns 
+arising from the assessments at Question 9 above.
+	
+Not applicable.
+LEADERSHIP INDICATORS
+1.	
+Details of a business process being modified / introduced as a result of addressing human rights 
+grievances/complaints.
+	
+The organization has not encountered any instances of complaints or grievances related to human rights violations.
+2.	
+Details of the scope and coverage of any Human rights due-diligence conducted.
+	
+The organization has established a Code of Conduct to guarantee the adherence and respect for all human rights protocols. 
+This ensures that proper protocols are in place and diligently followed.
+112
+KFin Technologies Limited
+3.	
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the 
+Rights of Persons with Disabilities Act, 2016?
+	
+Yes, the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of Persons with 
+Disabilities Act, 2016.
+4.	
+Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such 
+partners) that were assessed
+Sexual Harassment
+None
+Discrimination at workplace
+Child Labour
+Forced Labour/Involuntary Labour
+Wages
+Others – please specify
+5.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns 
+arising from the assessments at Question 4 above.
+	
+Not applicable.
+CORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTS
+113
+Annual Report 2022-23
+PRINCIPLE 6 Businesses should respect and make efforts to protect and restore the environment
+ESSENTIAL INDICATORS
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following 
+format:
+Parameter
+FY 2022-23
+FY 2021-22
+Total electricity consumption (A) (GJ)
+12,577.39 
+13,925.72 
+Total fuel consumption (B) (GJ)
+100.35 
+111.15 
+Energy consumption through other sources (C) (GJ)
+0
+0
+Total energy consumption (A+B+C) (GJ)
+12,677.74 
+14,036.87 
+Energy intensity per rupee of turnover
+(Total energy consumption/ turnover in rupees)
+` 1.79 GJ per million
+` 2.24 GJ per million
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.: No
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, 
+Achieve and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets 
+set under the PAT scheme have been achieved. In case targets have not been achieved, provide the 
+remedial action taken, if any.
+	
+No.
+3.	
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+Water withdrawal by source (in kilolitres)
+i.	
+Surface Water
+ -
+-
+ii.	
+Groundwater
+4,475.8
+2,553.6
+iii.	
+Third Party Water
+2,983.8
+1,702.4
+iv.	
+Seawater/Desalinated Water
+-
+-
+v.	
+Others
+-
+-
+Total Volume of water withdrawal (in kilolitres) 
+(i + ii +iii + iv + v)
+7,459.6
+4,255.9
+Total volume of water consumption (in kilolitres)
+7,459.6
+4,255.9
+Water intensity per rupee of turnover
+` 1.03 kl per million
+` 0.68 kl per million
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.: No
+4.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its 
+coverage and implementation.
+	
+Owing to the nature of business, the Company does not release any untreated effluent and is in complete compliance with 
+regulations. The company recycles its wastewater post treatment for flushing purposes.
+5.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following 
+format:
+	
+Owing to the nature of business, the Company does not have major air emissions as such and hence not monitoring currently.
+114
+KFin Technologies Limited
+6.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the 
+following format:
+Parameter
+Unit
+FY 2022-23 
+FY 2021-22
+Total Scope 1 emissions
+(Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of 
+CO2 equivalent
+24.80 
+27.48 
+Total Scope 2 emissions
+(Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of 
+CO2 equivalent
+2,829.80
+3,133.20
+Total Scope 1 and Scope 2 emissions 
+per rupee of turnover
+` 0.40 metric tonne 
+per million
+` 0.51 metric tonne 
+per million
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.: No
+7.	
+Does the entity have any project related to reducing Greenhouse Gas emission? If yes, then provide 
+details.
+	
+None
+8.	
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+NA
+NA
+E-waste (B)
+10.80
+0
+Bio-medical waste (C)
+NA
+NA
+Construction and demolition waste (D)
+35.16
+7.20
+Battery waste (E)
+2.72
+0
+Radioactive waste (F)
+NA
+NA
+Other Hazardous waste. Please specify, if any. (G)
+NA
+NA
+Other Non-hazardous waste generated (Paper)* (H) 
+68.13
+26.76
+Total (A+B + C + D + E + F + G + H)
+116.81
+33.96
+	
+*Paper waste is considered as “Non-hazardous (H)” and the increase over FY 2021-22 was attributed to the exercise of one-time clean-up of 
+paper waste piled up from COVID-19 period. Also, additional paper waste was generated owing to one-time impact on account of change of 
+the Company brand logo and subsequent one-time impact on account of change in name of the Company from “KFin Technologies Private 
+Limited” to “KFin Technologies Limited”.
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery 
+operations (in metric tonnes)
+Category of waste
+FY 2022-23
+FY 2021-22
+(i)	
+Recycled
+81.65
+26.76
+(ii)	
+Re-used
+NA
+NA
+(iii)	 Other recovery operations
+NA
+NA
+Total
+81.65
+26.76
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+FY 2022-23
+FY 2021-22
+(i)	
+Incineration
+NA
+NA
+(ii)	
+Landfilling
+NA
+NA
+(iii)	 Other disposal operations
+35.16
+7.20
+Total
+35.16
+7.20
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency: No
+CORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTS
+115
+Annual Report 2022-23
+9.	
+Briefly describe the waste management practices adopted in your establishments. Describe the strategy 
+adopted by your company to reduce usage of hazardous and toxic chemicals in your products and 
+processes and the practices adopted to manage such wastes.
+	
+The Company has effective systems in place to ensure the effective and proper disposal of wastes. No hazardous and toxic 
+chemicals were generated owing to the nature of business.
+10.	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, 
+wildlife sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation 
+zones etc.) where environmental approvals / clearances are required, please specify details in the 
+following format:
+	
+The entity does not have any operations or offices in ecologically sensitive areas.
+11.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable 
+laws, in the current financial year:
+	
+Not applicable, as no impact assessments were undertaken in FY 2023
+12.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such 
+as the Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) 
+Act, Environment protection act and rules thereunder (Y/N). If not, provide details of all such non-
+compliances, in the following format:
+	
+Yes, the entity is compliant with all the applicable environmental law/ regulations/ guidelines based on its nature of business.
+LEADERSHIP INDICATORS
+1.	
+Provide break-up of the total energy consumed (in Joules or multiples) from renewable and non-
+renewable sources, in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+From renewable sources
+Total electricity consumption (A)
+-
+-
+Total fuel consumption (B)
+-
+-
+Energy consumption through other sources (C)
+-
+-
+Total energy consumed from renewable sources (A+B+C)
+-
+-
+From non-renewable sources
+Total electricity consumption (D) (GJ)
+12,577.39
+13,925.72 
+Total fuel consumption (E) (GJ)
+100.35 
+111.15 
+Energy consumption through other sources (F)
+-
+-
+Total energy consumed from non-renewable sources (D+E+F)
+12,677.74 
+14,036.87 
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.: No
+2.	
+Provide the following details related to water discharged:
+	
+Given the nature of business, since water consumption is limited to office use, waste water treatment process is not being 
+carried out in the operating premises.
+3.	
+Water withdrawal, consumption and discharge in areas of water stress (in kilolitres):
+	
+For each facility / plant located in areas of water stress, provide the following information:
+	
+(i)	
+Name of the area
+	
+(ii)	 Nature of operations
+	
+(iii)	 Water withdrawal, consumption and discharge in the following format:
+	
+Not Applicable as none of the offices are located in water stressed areas and owing to the nature of business.
+116
+KFin Technologies Limited
+4.	
+Please provide details of total Scope 3 emissions & its intensity, in the following format:
+	
+The Company is yet to formulate its GHG inventory for Scope 3 emissions and is not tracking as of now.
+5.	
+With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, 
+provide details of significant direct & indirect impact of the entity on biodiversity in such areas along-
+with prevention and remediation activities.
+	
+Not Applicable.
+6.	
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to 
+improve resource efficiency, or reduce impact due to emissions / effluent discharge / waste generated, 
+please provide details of the same as well as outcome of such initiatives, as per the following format:
+Sr. 
+No
+Initiative undertaken
+Details of the initiative (Web-link, if any, may 
+be provided along-with summary)
+Outcome of the initiative
+1
+Sewage Treatment Plant (STP)
+Total water discharged is treated and reused for 
+internal purposes.
+Reduced water consumption. 
+2
+Sensor based Urinals
+To reduce water consumption in our day-to-day 
+operations sensor-based urinals were implemented. 
+Reduced water consumption. 
+3
+Occupancy Sensor
+Reduce the energy consumption in unused space. 
+Improved energy efficiency 
+and GHG emission
+4
+Re-shifting of equipment
+Additional cooling requirements are reduced
+Improved energy efficiency 
+and GHG emission
+5
+Replacement of CFL with LED
+Energy efficiency initiative
+Improved energy efficiency 
+and GHG emission
+6
+Adopted VRV in new projects
+Energy efficiency initiative
+Improved energy efficiency 
+and GHG emission
+7
+Vendor selection based on waste 
+recycling/disposal certificate. 
+Safe disposal/recycle of waste
+Improved recycling of waste.
+7.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/ 
+web link.
+	
+Yes, the Company has business continuity and disaster management plan as per the regulatory requirements. The Company 
+has a disaster recovery site in Bengaluru, Karnataka built to ensure business continuity across all our critical functions in 
+the event of a disaster which is connected on a real time basis, ensuring continuous availability and data replication and 
+redundancy.
+8.	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. 
+What mitigation or adaptation measures have been taken by the entity in this regard.
+	
+There are no reportable adverse impacts on the environment due to the business activities.
+9.	
+Percentage of value chain partners (by value of business done with such partners) that were assessed 
+for environmental impacts.
+	
+None.
+CORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTS
+117
+Annual Report 2022-23
+PRINCIPLE 7 Businesses, when engaging in influencing public and regulatory policy, should do so in a 
+manner that is responsible and transparent
+ESSENTIAL INDICATORS
+1.	
+(a)	 Number of affiliations with trade and industry chambers/ associations.
+	
+	
+The Company has one affiliation.
+	
+(b)	 List the top 10 trade and industry chambers/ associations (determined based on the total members 
+of such a body) the entity is a member of/ affiliated to
+S. No.
+Name of the trade and industry chambers/ 
+associations
+Reach of trade and industry chambers/ associations 
+(State/National)
+1
+Registrar Association of India
+National
+2.	
+Provide details of corrective action taken or underway on any issues related to anti- competitive 
+conduct by the entity, based on adverse orders from regulatory authorities.
+	
+No such adverse orders from regulatory authorities were reported in the reporting period. KFintech believes in fair competition 
+by following the highest governance standards and processes and does not indulge into any unfair business or trade practices.
+LEADERSHIP INDICATORS
+1.	
+Details of public policy positions advocated by the entity.
+	
+The Company engages in advocacy for industry-related policies by collaborating with industry associations such as the Registrar 
+Association of India. Within the Company, there are designated officials who are authorized to communicate with industrial 
+bodies and handle government affairs. Through this association, the Company has actively represented and worked towards 
+implementing beneficial and inclusive development policies for the entire industry.
+118
+KFin Technologies Limited
+PRINCIPLE 8 Business should promote inclusive growth and equitable development
+ESSENTIAL INDICATORS
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable 
+laws, in the current financial year.
+	
+None
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being 
+undertaken by your entity, in the following format:
+	
+Not applicable.
+3.	
+Describe the mechanisms to receive and redress grievances of the community.
+	
+Grievances of the community are received and resolved by the CSR Committee which works closely with them on various CSR 
+projects.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY 2022-23
+FY 2021-22
+Directly sourced from MSMEs/ small producers
+40
+30
+Sourced directly from within the district and neighbouring districts
+20
+10
+LEADERSHIP INDICATORS
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact 
+Assessments (Reference: Question 1 of Essential Indicators above):
+	
+Not applicable.
+2.	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational 
+districts as identified by government bodies.
+	
+None
+3.	
+(a)	 Do you have a preferential procurement policy where you give preference to purchase from 
+suppliers comprising marginalized /vulnerable groups? (Yes/No)
+	
+	
+No
+	
+(b)	 From which marginalized /vulnerable groups do you procure?
+	
+	
+Not applicable
+	
+(c)	 What percentage of total procurement (by value) does it constitute?
+	
+	
+Not applicable
+4.	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your 
+entity (in the current financial year), based on traditional knowledge:
+	
+Not applicable.
+5.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property 
+related disputes wherein usage of traditional knowledge is involved.
+	
+Not applicable.
+6.	
+Details of beneficiaries
+	
+The details is provided in the CSR Report forming part of the Annual Report.
+CORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTS
+119
+Annual Report 2022-23
+PRINCIPLE 9 Businesses should engage with and provide value to their consumers in a responsible manner
+ESSENTIAL INDICATORS
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+The Company provides services to the investors of its clients. Such investors have multiple channels to raise complaints, 
+including through SEBI Scores, direct email, phone, or by submitting their complaint at our branch office or Investor Service 
+Centre (ISC). Once a complaint is received, our team promptly contacts the investor to understand their grievance, if necessary. 
+The team takes every effort to resolve the issue as quickly as possible, adhering to the prescribed turnaround time (TAT) set by 
+SEBI. The resolution is also effectively communicated to the investors.
+2.	
+Turnover of products and/ services as a percentage of turnover from all products/service that carry 
+information about Environmental and social parameters relevant to the product, Safe and responsible 
+usage and Recycling and/or safe disposal.
+	
+Not Applicable.
+3.	
+Number of consumer complaints in respect of the following:
+FY 2022-23
+Remarks
+FY 2021-22
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Data privacy
+Nil
+Nil
+N.A
+Nil
+Nil
+N.A
+Advertising
+Nil
+Nil
+N.A
+Nil
+Nil
+N.A
+Cyber-security
+Nil
+Nil
+N.A
+Nil
+Nil
+N.A
+Delivery of essential 
+services
+Nil
+Nil
+N.A
+Nil
+Nil
+N.A
+Restrictive Trade Practices
+Nil
+Nil
+N.A
+Nil
+Nil
+N.A
+Unfair Trade Practices
+Nil
+Nil
+N.A
+Nil
+Nil
+N.A
+Others
+11,170
+67
+The complaints are 
+primarily related to 
+the investor’s services 
+in the ordinary 
+course of its business
+Nil
+Nil
+N.A
+4.	
+Details of instances of product recalls on account of safety issues:
+	
+Not Applicable.
+5.	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) 
+If available, provide a web-link of the policy.
+	
+Yes, KFintech has implemented a robust security framework for Information & Cyber Security that aligns with industry standards 
+like ISO 27001:2013 for Information Security Management Systems. We have meticulously developed Policies and Procedure 
+documents in accordance with the requirements of this standard, which have been approved by management. These policies 
+and procedures undergo regular review, at least once a year, and are promptly updated whenever there are any changes in 
+the established processes. A comprehensive version history is maintained to effectively track and document any modifications 
+made. The Policy on Information Security can be accessed at Information-Security-Policy.pdf (kfintech.com). The Company has 
+BitSight score of 800.
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and 
+delivery of essential services; cyber security and data privacy of customers; re-occurrence of instances 
+of product recalls; penalty / action taken by regulatory authorities on safety of products / services.
+	
+Not Applicable.
+120
+KFin Technologies Limited
+LEADERSHIP INDICATORS
+1.	
+Channels / platforms where information on products and services of the entity can be accessed (provide 
+web link, if available).
+	
+Information related to the various services provided by the Company are available on the Company’s website, 
+https://www.kfintech.com/. In addition, the Company makes use of multiple social media and digital platforms to spread 
+awareness about its services.
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or 
+services.
+	
+Not applicable owing to the nature of business.
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.
+	
+The company informs the customers in event of any disruption/discontinuation of essential services via Emails and SMS.
+4.	
+Does the entity display product information on the product over and above what is mandated as per 
+local laws? (Yes/No/Not Applicable) If yes, provide details in brief. Did your entity carry out any survey with 
+regard to consumer satisfaction relating to the major products / services of the entity, significant locations 
+of operation of the entity or the entity as a whole? (Yes/No)
+	
+The company provides information about services as mandated by legal requirement. Distributors and Investors are encouraged 
+to rate the Company’s services on satisfaction levels.
+5.	
+Provide the following information relating to data breaches:
+	
+a.	
+Number of instances of data breaches along-with impact – None
+	
+b.	
+Percentage of data breaches involving personally identifiable information of customers – Not applicable.
+CORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTS
+121
+Annual Report 2022-23

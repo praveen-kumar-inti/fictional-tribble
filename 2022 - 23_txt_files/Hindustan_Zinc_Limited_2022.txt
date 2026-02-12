@@ -1,0 +1,5988 @@
+ 
+ 
+ 
+ 
+ 
+HZL/2023-SECY/ 
+ 
+July 29, 2023 
+ 
+ 
+ 
+BSE Limited 
+ 
+National Stock Exchange of India Limited         
+P.J. Towers, Dalal Street, 
+ 
+“Exchange Plaza”  
+Mumbai - 400001 
+ 
+Bandra-Kurla Complex,  
+ 
+ 
+Mumbai – 400051 
+Kind Attn: - General Manager, 
+ 
+Kind Attn:- Head - Listing & Corporate 
+Dept. of Corporate Services 
+ 
+Communications 
+ 
+ 
+ 
+Scrip Code: 500188 
+ 
+Trading Symbol: HINDZINC-EQ 
+ 
+Dear Sir/Ma’am,   
+ 
+Sub: - Business Responsibility and Sustainability Report (“BRSR”) for the Financial Year 2022-23 
+ 
+Pursuant to Regulation 34 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 
+(“Listing Regulations”), as amended from time to time, we are enclosing herewith Business 
+Responsibility and Sustainability Report (“BRSR”) for the Financial Year 2022-23 prepared as per the 
+format prescribed as per SEBI Circular dated May 10, 2021, which forms a part of the Integrated Annual 
+Report. 
+ 
+We request you to please take the above on record. 
+ 
+Thanking You, 
+ 
+Yours Faithfully, 
+ 
+For Hindustan Zinc Limited 
+ 
+ 
+ 
+Rajendra Pandwal 
+Company Secretary & Compliance Officer 
+ 
+Encl: As above 
+ 
+Rajendra 
+Pandwal
+Digitally signed by 
+Rajendra Pandwal 
+Date: 2023.07.29 
+10:45:36 +05'30'
+STATUTORY REPORTS
+259
+HINDUSTAN ZINC LIMITED
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING
+CEO STATEMENT
+Sustainability has always been at the forefront of Hindustan Zinc's vision and mission. The global ramifications of climate 
+change highlight the susceptibility of our planet to global warming. This, in turn, is encouraging organisations worldwide to 
+focus consciously on implementing impactful climate actions.
+In line with this global shift, we, at Hindustan Zinc, have dedicated ourselves to achieving long-term, sustainable business 
+growth, while prioritising safety, minimal environmental impact, human rights and community benefits. We are actively pursuing 
+an ambitious sustainability journey guided by our Sustainability Goals 2025, with a vision of 'Zero Harm, Zero Waste, Zero 
+Discharge'. The goals we have consciously set for 2025 encompass the critical areas of climate change, water stewardship, 
+circular economy, biodiversity conservation, zero harm, social impact, diversity in workforce, and responsible sourcing.
+We firmly believe that these goals will enable us to meet the expectations of all our stakeholders and attain tangible outcomes. 
+We are working continually on our long-term objective to achieve net-zero emissions by 2050 or sooner, in accordance with 
+the business ambition for 1.5°C campaign led by the Science Based Targets initiative (SBTi).
+It is our endeavour to ensure comprehensive coverage of Environmental, Social and Governance (ESG) aspects across our 
+business. For this purpose, we have established a three-tier sustainability governance framework, which allows us to set both 
+short-term and long-term goals, and enables systematic monitoring of performance at all levels. The framework provides 
+clear roadmaps to promote energy efficiency, minimise our carbon footprint, and ensure effective water management and 
+biodiversity protection. It also aids our efforts in the areas of corporate social responsibility (CSR), supply chain, occupational 
+health and safety, communications, and finance.
+Our sustainability framework is built on four pillars: Responsible Stewardship, Strong Relationships, Value Creation, and 
+Strategic Communications. With clear alignment to our sustainability goals, it is designed to drive our future growth while 
+benefitting the communities and the environment beyond our operational boundaries.
+Climate change being critical to our sustainability journey, we have identified renewable energy (RE) as an important area of 
+focus at Hindustan Zinc. We are on the path to increase our renewable energy portfolio by signing power delivery agreement 
+(PDA) for 450 MW of RE. At the same time, we are working towards reduction in emissions across our operations through the 
+adoption of low carbon fuels, battery-operated electrical vehicles and by improving energy efficiency.
+To support our green endeavours, we have decided to invest US$ 1 bn in the next few years to make our operations more 
+environment-friendly. We are also working towards full compliance with the Global Industry Standards on Tailings Management 
+(GISTM) by the fiscal year 2024-25.
+Our investments in water conservation have emerged as another major engine of sustainable development at Hindustan Zinc. 
+These investments have already helped us achieve a water-positive status of 2.41 times, and we are on track to become a 
+5 times water-positive company.
+In recent years, we have concertedly focussed our efforts towards achieving zero waste in the organisation by adopting 
+a well-articulated '4R' strategy – Reduce, Reuse, Recycle, and Reclaim. We believe this is essential to ensuring a cleaner 
+environment not just for the organisation but also for the communities around our operations.
+At Hindustan Zinc, we also remain invested in proactive management of our impact on biodiversity and strive to protect the 
+ecosystems in which we operate. Our 3-year engagement with the International Union for Conservation of Nature (IUCN) is 
+an important step in this direction.
+Further, with the implementation of a sustainable sourcing policy, we have successfully expanded the ambit of our sustainable 
+development framework to cover our business partners. We believe this will help foster a culture of responsible sourcing 
+among all our stakeholders – a key imperative for inclusive sustainable future development.
+Over the years, we have significantly augmented our CSR outreach in line with our strong thrust on driving a positive social 
+impact among the communities surrounding our operations. Our CSR initiatives are in line with both the United Nations' 
+Sustainable Development Goals (UN SDGs) and our national development objectives. We are working concertedly in the areas 
+of education, sustainable livelihood, community asset creation, environmental and safety initiatives, women's empowerment, 
+health, water and sanitation, as well as sports and culture. To ensure that our social initiatives are relevant and impactful, we 
+periodically evaluate the needs of our communities and analyse the outcomes achieved. This helps us refine our future plans 
+and strategies, and enables a more meaningful engagement with the communities.
+In addition to our steadfast commitment to sustainability, we have taken significant steps to ensure transparency and 
+accountability in our endeavours. To this end, we have published reports on the Task Force on Climate Related Financial 
+Disclosures (TCFD), Integrated Reports, and Sustainability Reports. These disclosures serve as a testament to our unwavering 
+dedication to transparently communicate our sustainability efforts, responsible business practices, and progress.
+Business Responsibility & Sustainability Reporting
+260
+INTEGRATED ANNUAL REPORT FY 2022-23
+I.	
+DETAILS OF THE LISTED ENTITY
+1
+Corporate Identity Number (CIN) of 
+the Listed Entity
+L27204RJ1966PLC001208
+2
+Name of the Listed Entity
+Hindustan Zinc Limited
+3
+Year of incorporation
+1966
+4
+Registered office address
+Yashad Bhavan, Udaipur, Rajasthan 313004 - India
+5
+Corporate address
+Yashad Bhavan, Udaipur, Rajasthan 313004 - India
+6
+E-mail
+Hzl.ir@vedanta.co.in
+7
+Telephone
++91-294-6604000-02
+8
+Website
+www.hzlindia.com
+9
+Financial year for which 
+reporting is being done
+April 01, 2022 to March 31, 2023
+10
+Name of the Stock Exchange(s) where 
+shares are listed
+Bombay Stock Exchange Limited (BSE) and National Stock Exchange of 
+India Limited (NSE)
+11
+Paid-up capital
+` 845.06 crore
+12
+Name and contact details of the person 
+who may be contacted in case of any 
+queries on the BRSR report
+Mr. Rajendra Pandwal
+Company Secretary & Compliance Officer
+Telephone Number: +91 294-6604015
+Email Address - rajendra.pandwal@vedanta.co.in
+13
+Reporting boundary
+Disclosures made in this report are on a consolidated basis which covers 
+all Company’s operating locations. During the year, two wholly owned 
+subsidiaries (Private Limited Company), namely Hindustan Zinc Fertilisers 
+Private Limited and Zinc India Foundation – Section 8 Company were 
+incorporated. As on March 31, 2023, Company has four wholly owned 
+subsidiary companies.
+II.	 PRODUCTS/SERVICES
+14.	 Details of business activities (accounting for 90% of the turnover):
+S. 
+No.
+Description of Main Activity
+Description of Business Activity
+% of Turnover of the entity
+1
+Manufacturing
+Metal & Metal products
+95%
+15.	 Products/services sold by the entity (accounting for 90% of the entity’s turnover):
+S. 
+No.
+Product/Service
+NIC Code
+% of total Turnover 
+contributed
+1
+Zinc
+27204
+71%
+2
+Lead
+27209
+11%
+3
+Silver
+27205
+13%
+GENERAL DISCLOSURES
+A
+SECTION
+While these initiatives have given a strong impetus to our sustainability efforts, it will be our endeavour, going forward, to 
+further scale up our ESG performance, in order to drive long-term growth while making a positive impact on the environment 
+and society. I am confident that we, at Hindustan Zinc, can achieve a harmonious balance between economic progress and 
+environmental stewardship, ensuring a sustainable and thriving planet for all.
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	 Arun Misra  
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	 CEO & Whole-time Director
+STATUTORY REPORTS
+261
+HINDUSTAN ZINC LIMITED
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING
+III.	 OPERATIONS
+16.	 Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of offices
+Total
+National*
+14
+5
+19
+International
+0
+0
+0
+	
+*Only operating locations considered
+17.	 Markets served by the entity:
+	
+a.	
+Number of locations:
+Location
+Number
+National (No. of States)
+Pan India
+International (No. of Countries)
+Internationally
+	
+b.	
+What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+	
+The contribution of exports is 29% of the total turnover of the entity.
+	
+c.	
+A brief on types of customers
+	
+	
+Our Company has B2B customers across various industries including galvanisers, battery manufacturers, pipe 
+industry, jewellery makers, steel industry and traders. We were effectively able to reach out to MSME customers with 
+live London Metal Exchange (LME) benchmarked prices and quantity as low as 1 tonne delivery for zinc and lead 
+metals through our e-commerce portals.
+18.	 Details as at the end of financial year:
+	
+a.	
+Employees and Workers (including differently abled):
+S. 
+No.
+Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+EMPLOYEES*
+1.
+Permanent (D)
+2,566
+2,067
+80.6%
+499
+19.4%
+2.
+Other than Permanent (E)
+9
+7
+77.8%
+2
+22.2%
+3.
+Total Employees (D + E)
+2,575
+2,074
+80.5%
+501
+19.5%
+WORKERS**
+4.
+Permanent (F)
+897
+879
+98.0%
+18
+2.0%
+5.
+Other than Permanent (G)
+19,724
+19,490
+98.8%
+234
+1.2%
+6.
+Total Workers (F + G)
+20,621
+20,369
+98.8%
+252
+1.2%
+	
+	
+*Permanent Employees means Executive
+	
+	
+**Permanent Workers means Non-executive
+	
+	
+**Other than Permanent Workers means business partner employees
+262
+INTEGRATED ANNUAL REPORT FY 2022-23
+	
+b.	
+Differently abled Employees and Workers:
+S.
+No.
+Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+DIFFERENTLY ABLED EMPLOYEES*
+1.
+Permanent (D)
+2
+2
+100%
+0
+0%
+2.
+Other than Permanent (E)
+0
+0
+0%
+0
+0%
+3.
+Total differently abled Employees (D + E)
+2
+2
+100%
+0
+0%
+DIFFERENTLY ABLED WORKERS**
+4.
+Permanent (F)
+11
+11
+100%
+0
+0%
+5.
+Other than permanent (G)
+13
+13
+100%
+0
+0%
+6.
+Total differently abled Workers (F + G)
+24
+24
+100%
+0
+0%
+	
+	
+*Permanent Employees means Executive
+	
+	
+**Permanent Workers means Non-executive
+	
+	
+**Other than Permanent Workers means business partner employees
+19.	 Participation/inclusion/representation of women
+Total
+(A)
+No. and percentage of Females
+No. (B)
+% (B/A)
+Board of Directors
+9
+4
+44.44%
+Key Management Personnel
+3
+0
+0%
+20.	 Turnover rate for permanent employees and workers
+	
+(Disclose trends for the past 3 years)
+FY 2022-23
+(Turnover rate in 
+the current year)
+FY 2021-22
+(Turnover rate in 
+the previous year)
+FY 2020-21
+(Turnover rate in the prior 
+to previous year)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+17%
+19%
+17%
+17%
+26%
+18%
+19%
+22%
+19%
+Permanent Workers*
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+	
+*There is no hiring in permanent workers
+IV.	 HOLDING, SUBSIDIARY AND ASSOCIATE COMPANIES (INCLUDING JOINT VENTURES)
+21.	 (a) Names of holding/subsidiary/associate companies/joint ventures
+S.
+No.
+Name of the holding/subsidiary/
+associate companies/joint ventures (A)
+Indicate whether holding/
+subsidiary/associate/joint
+venture
+% of shares 
+held by 
+listed 
+entity
+Does the entity indicated at 
+column A, participate in the 
+Business Responsibility initiatives 
+of the listed entity? (Yes/No)
+1
+Vedanta Limited
+Immediate Holding Company
+64.92
+No
+2
+Hindustan Zinc Alloys Private Limited*
+Wholly Owned Subsidiary
+100
+No
+3 
+Vedanta Zinc Football & Sports Foundation
+Wholly Owned Subsidiary – 
+Section 8 Company
+100
+Yes
+4 
+Zinc India Foundation 
+Wholly Owned Subsidiary –  
+Section 8 Company
+100
+Yes
+5 
+Hindustan Zinc Fertilisers Private Limited*
+Wholly Owned Subsidiary 
+Company
+100
+No
+6
+Madanpur South Coal Company Limited**
+Joint Venture
+17.62
+No
+	
+*Hindustan Zinc Alloys Private Limited & Hindustan Zinc Fertilisers Private Limited are under project phase
+	
+**No activity or mining asset in this Company
+STATUTORY REPORTS
+263
+HINDUSTAN ZINC LIMITED
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING
+V.	 CSR DETAILS
+22.	(i)	 Whether CSR is applicable as per section 135 of the Companies Act, 2013: Yes
+	
+	
+	 Turnover (in `) - 34,097.86 crore
+	
+	
+	
+Net worth (in `) - 12,932.61 crore
+VI.	 TRANSPARENCY AND DISCLOSURES COMPLIANCES
+23.	Complaints/grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+Stakeholder group 
+from whom complaint 
+is received
+Grievance redressal 
+mechanism in place (Yes/
+No)
+(If Yes, then provide 
+web-link for grievance 
+redressal policy)
+FY 2022-23
+FY 2021-22
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the 
+year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the 
+year
+Remarks
+Communities
+Yes
+Grievance Mechanisms 
+Technical Standard
+85
+19
+Employment, 
+Environment & 
+CSR related
+36
+0
+Environment & 
+CSR related
+Investors 
+(other than 
+shareholders)
+Yes
+Hindustan Zinc Contact 
+Details
+0
+0
+-
+0
+0
+-
+Shareholders
+Yes
+Contact Details
+105
+0
+Dividend & 
+Share
+23
+0
+Dividend & 
+Share
+Employees 
+and Workers
+Yes
+Business Ethics Code of 
+Conduct
+HZL Whistle Blower Policy
+5
+0
+Sexual 
+Harassment
+1
+0
+Sexual 
+Harassment
+Customers
+Yes
+https://
+vedantametalbazaar.
+moglix.com/
+45
+4
+Customer 
+grievances on 
+varied issues
+46
+0
+All were 
+quality-related 
+complaints
+Value Chain
+Partners
+Yes
+Supplier Code of Conduct
+HZL Whistle Blower Policy
+Vendor Grievance 
+Redressal Portal
+96
+1
+Supplier 
+and service 
+provider 
+grievances on 
+varied issues
+0
+0
+-
+Other (please 
+specify)
+-
+-
+-
+-
+-
+-
+-
+264
+INTEGRATED ANNUAL REPORT FY 2022-23
+24.	Overview of the entity’s material responsible business conduct issues
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or 
+mitigate the risk along with its financial implications, as per the following format:
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk/
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative
+implications)
+Environmental
+1
+Water 
+Management
+Risk
+Our operational activities involve 
+processes in which water is an 
+indispensable input, both for 
+extraction and processing & 
+smelting.
+Thus, it is even more important 
+for us to strive to reduce water 
+use and increase reutilisation 
+throughout the value chain.
+According to our climate 
+change assessment, climate 
+change may result in increase 
+in extreme weather events and 
+subsequent resource shortages. 
+Our operations are located in 
+Rajasthan, which is one of the 
+designated water-stressed 
+regions in the country based on 
+WRI’s Aqueduct tool. There is a 
+high probability of experiencing 
+situations of drought and extreme 
+heat waves. Since water is a critical 
+input to our business, these factors 
+have the potential to disrupt 
+operations, to impact productivity 
+of staff as well as our revenues and 
+logistics.
+Water conservation is particularly 
+important for us as we operate in a 
+water-stressed region. We are 2.41 
+times water-positive and are well on 
+the path to be 5 times Water Positive 
+Company and reducing the water 
+consumption by 25% by 2025 from base 
+year 2020. Company has taken several 
+initiatives to reduce its dependencies 
+on fresh water and greater availability of 
+water for the communities surrounding 
+our sites:
+•	
+Increasing efficiency in water usage 
+and exploring less water-intensive 
+technologies
+•	
+Strengthening water recycling and 
+installation of zero liquid discharge 
+(ZLD) across all plants
+•	
+Using alternative water sources to 
+reduce dependency on freshwater 
+using treated water from sewage 
+treatment plant
+•	
+Replenish water within local 
+watersheds and rainwater 
+harvesting
+•	
+Water risk assessment using 
+WBCSD’s India Water Tool, WRI 
+Aqueduct and GEMI local water 
+tools
+Negative
+2
+Tailings 
+Management
+Risk
+The monitoring and management 
+of tailings storage facilities (TSFs) 
+plays a significant role in reducing 
+environmental impact on our local 
+stakeholders.
+Tailings dam failure can lead to 
+loss of life, injuries and damages 
+to the environment, as well as can 
+impact our Company’s reputation. 
+It can also entail significant 
+financial costs/losses and 
+stoppages in production.
+Failing of tailings dams can cause 
+huge environmental impact. Hence, 
+we accord top priority to managing 
+them responsibly.
+•	
+All the Company’s tailings facilities 
+are designed and constructed to 
+the highest engineering standards 
+and best-in-class benchmarked 
+practices
+•	
+External and internal inspection 
+and monitoring of the TSFs to 
+review the integrity/stability of 
+our TSF structures and their 
+associated management practices
+Negative
+STATUTORY REPORTS
+265
+HINDUSTAN ZINC LIMITED
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk/
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative
+implications)
+Environmental
+•	
+Effectiveness of reclaim water 
+system
+•	
+Collection and recycling of 
+supernatant water
+•	
+Conducting periodic TSF risk 
+assessment and developing 
+mitigation plans to minimise 
+associated risks
+•	
+Surveillance of tailings storage 
+facility
+•	
+Effectiveness of emergency 
+planning and response
+•	
+Utilisation of tailings in backfilling
+•	
+Replacement of wet tailing 
+disposal with dry tailing disposal
+•	
+Dam break analysis and 
+emergency preparedness
+•	
+Company introduced a novel, 
+satellite-based Interferometric 
+Synthetic Aperture Radar (InSAR) 
+monitoring technique to provide 
+early warning of surface ground 
+movements
+•	
+We aim to be fully compliant with 
+the Global Industry Standards on 
+Tailings Management (GISTM) by 
+FY 2024-25
+3
+Air Emissions 
+& Quality
+Risk
+Failure to comply with emission 
+norms could lead to negative/
+inevitable long-term impact on 
+the environment and society, 
+with imposition of levies/fines, 
+escalation in costs related to 
+monitoring and reporting, among 
+others.
+Large-scale air emissions can cause 
+serious impact on the environment 
+and local communities. We 
+continuously work towards reducing 
+air emissions.
+•	
+Well-designed state-of-the-art air 
+pollution control devices (APCD) 
+are in place
+•	
+Effective fugitive emission 
+management
+•	
+Continuous monitoring and 
+reporting
+Negative
+266
+INTEGRATED ANNUAL REPORT FY 2022-23
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk/
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative
+implications)
+Environmental
+4
+Climate 
+Change & 
+Decarbonisation
+Risk
+We are an energy-intensive 
+industry due to the nature 
+of our operational activities, 
+logistics and transportation 
+processes. That is why we seek 
+new technologies and progress 
+regarding sustainable energy 
+generation. This can impact 
+the overall market value of the 
+products in the geographies with 
+restrictions, thus impacting our 
+revenues.
+As a result, we keep track of all 
+transition risks and changes in 
+regional Climate Change Policy.
+As per the physical risk 
+assessment for the timeline 
+2030 and 2050, Hindustan Zinc 
+is likely to face natural disasters 
+like droughts, heat waves and 
+increase in extreme weather 
+conditions. These would impose 
+challenges to mining operations. 
+Climate change may cause or 
+result in increase in extreme 
+weather events and subsequent 
+resource shortages, impacting 
+overall cost of acquisition of 
+resources from alternative 
+sources.
+The rising challenges of climate 
+change and resource scarcity have put 
+us on a path of transformation to a low 
+carbon economy. Our strategies for 
+mitigating these risks include:
+•	
+Reducing fossil fuel-based energy 
+use in our operations by using 
+innovative energy-efficiency 
+technologies and process 
+optimisation
+•	
+Shifting to renewables and/or low-
+carbon solutions where possible
+•	
+The Company has committed 
+for net-zero carbon emissions by 
+2050 or sooner and is planning 
+to increase RE power portfolio by 
+addition of 450 MW renewable 
+energy by 2026
+•	
+Replace diesel-fuelled 
+transportation vehicles 
+with electric vehicles. We 
+have introduced India’s first 
+underground mining electric 
+vehicle
+•	
+Introduced LNG-powered trucks 
+and electric trucks for upstream 
+and downstream transportation
+•	
+Business partners also introduced 
+electric vehicles, several forklifts, 
+towing vehicles, passenger 
+vehicles introduced
+•	
+100% RE power consumption at 
+Pantnagar Metal Plant
+•	
+Use of biomass (5%) in power plant
+•	
+Climate change risk assessment 
+based on TCFD guidelines
+Negative
+Opportunity •	
+Use of decarbonised electricity may result in lower Levelised Cost of 
+Energy (LCOE)
+•	
+New market opportunities due to expected growth in solar PV panels 
+and energy storage systems using Zn, Pb and Ag
+•	
+Decarbonised metals may give differentiator and may command 
+premium well before 2030
+Positive
+STATUTORY REPORTS
+267
+HINDUSTAN ZINC LIMITED
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk/
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative
+implications)
+Environmental
+5
+Biodiversity & 
+Ecosystems
+Risk
+Biodiversity provides many 
+ecosystem services. If improperly 
+managed, mining, smelting and 
+exploration activities have the 
+potential to negatively affect 
+biodiversity and ecosystem 
+services. Impact could be loss 
+of protected species and habitat 
+fragmentation. Such risks could 
+affect our social licence to 
+operate as well as our reputation.
+We work to proactively manage our 
+impact on biodiversity and strive to 
+protect the ecosystems in which we 
+operate.
+•	
+Three-year engagement with IUCN
+•	
+Biodiversity risk assessment
+•	
+Implementation of project 
+with respect to Biodiversity 
+Management Plan in alignment 
+with global standard practices
+•	
+Miyawaki Afforestation at DSC, 
+DZS and CLZS
+•	
+Restoration of Jarofix Yard at CLZS 
+using Mycorrhiza technology
+Negative
+6
+Circularity &  
+Waste 
+Management
+Risk
+Waste generated from our 
+operations poses challenge to us 
+in terms of increasing our cost of 
+production, challenge in terms 
+of its storage and risk of non-
+compliance.
+•	
+At Hindustan Zinc, we believe in 
+Zero Waste and have designed 
+a comprehensive approach in 
+managing waste generated. 
+We have aligned our waste 
+management practices to ‘4R’ 
+strategy – Reduce, Reuse, Recycle 
+and Reclaim
+•	
+Gainful utilisation of waste in terms 
+of recovering minor metals and 
+using waste in other industries 
+(cement, road construction, etc.)
+•	
+Commissioning of Fumer plant will 
+be resulting in 100% elimination 
+of Jarosite waste from one of the 
+hydro zinc smelter
+Negative
+268
+INTEGRATED ANNUAL REPORT FY 2022-23
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk/
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative
+implications)
+Social
+7
+Health, Safety 
+& Well-being
+Risk
+Hindustan Zinc’s mining and 
+smelting operations involve 
+various procedures that can have 
+significant consequences on the 
+workers and the environment.
+Failure to ensure health and 
+safety could result in increased 
+cost of litigation, reduce 
+availability of manpower, 
+reduced employee morale, 
+or even threaten the viability 
+of operations in worst-case 
+scenarios.
+•	
+Implementation of critical 
+control management as per 
+ICMM guidelines with support 
+of DuPont
+•	
+Digitalisation of fatal and 
+serious injury prevention plan
+•	
+Mining mate competency 
+enhancement programme
+•	
+Deploying IoT-based solutions
+•	
+Implementation of learnings 
+from fatalities/HIPO in past 10 
+years
+•	
+Emergency response plan at 
+all locations
+It is our constant endeavour to make 
+our workplace free of fatalities,  
+injuries and occupational diseases.
+•	
+Identifying, understanding, 
+controlling and eliminating the 
+risks associated with hazards 
+at workplace, including man-
+machine interactions, molten 
+metal handling, fall of ground, 
+underground fire, etc.
+•	
+Implementation of critical risk 
+management to ensure all 
+identified critical control are being 
+monitored and effective on ground
+•	
+Implementing engineering solution 
+to avoid manual intervention
+•	
+Horizontal implementation of all 
+fatality/HIPO recommendations
+•	
+Structured skill improvement/
+competency enhancement 
+programme for employees and 
+business partner
+•	
+Exposure monitoring for better 
+and timely controls
+•	
+The Company partnered with a 
+globally recognised industrial 
+hygiene service company, 
+to develop a sustainable 
+industrial hygiene programme 
+to reduce potential health risks 
+by recognising, evaluating and 
+controlling occupational health 
+hazards and occupational 
+exposures
+Negative
+STATUTORY REPORTS
+269
+HINDUSTAN ZINC LIMITED
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk/
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative
+implications)
+Social
+8
+Diversity, 
+Equal 
+Opportunity & 
+Inclusion
+Risk
+People are our core assets and 
+responsible for organisational 
+success. By establishing a culture 
+of safety, employee engagement 
+and support for diverse groups 
+in our workforce, we have been 
+able to deliver in the top quartile 
+of the business performance. 
+We are an employer of choice 
+and a company that continues to 
+attract, develop and retain talent 
+across all the levels.
+Diversity is a business imperative 
+for us and we firmly believe that 
+healthy diversity mix is more likely 
+to have financial returns above 
+industry median. Strategically, we 
+focus on having a strong 
+representation of women across 
+levels and women currently 
+constitute 19.5% of the strength 
+in the executive cadre.
+Simultaneously, we have 
+successfully onboarded 
+Transgenders in front-end roles.
+We have flagship programmes for 
+identification and development 
+of diverse workgroups such as 
+V-Build, V-Lead, ACT-UP, She-
+Leads, V-Aspire which focus on 
+technical & behavioural aspects 
+of individuals.
+While we see opportunity in diverse 
+workgroups, there are apparent risks. 
+The workplace has to be inclusive, 
+safe, secure, free of discrimination, 
+harassment and bullying.
+•	
+Mitigation: Policy on Prevention 
+of Sexual Harassment, Anti-
+discrimination Policy, Internal 
+Complaint Committee
+•	
+Grievance Redressal Committee, 
+Women Councils are in place 
+which are channels to directly 
+approach for any grievance, 
+complaint, or suggestion
+•	
+Sensitisation and awareness 
+on these policies, external and 
+internal pulse surveys are taken 
+care at central as well as IBU 
+level to ensure mitigation of the 
+mentioned risks
+Negative
+270
+INTEGRATED ANNUAL REPORT FY 2022-23
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk/
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative
+implications)
+Social
+9
+Talent 
+Attraction & 
+Retention
+Risk
+A high-quality talent pipeline 
+paves the way for organisation 
+excellence. Our talent 
+management framework is 
+conceptualised and implemented 
+to maximise individual 
+contribution by developing 
+existing skills & experience. We 
+believe in deploying best-in-class 
+talent management practices that 
+boost performance and help in 
+building our brand to attract and 
+retain talent.
+We continuously work with a 
+focussed approach to get the 
+right people in the right jobs, 
+developing them and creating a 
+great work environment, which 
+in turn will build the foundation 
+for an exceptionally talented and 
+successful organisation.
+The core operations at Hindustan 
+Zinc including mining, smelting & 
+refinery require workforce with 
+niche skills. Attrition in this talent 
+pool is considered as a threat to 
+the business deliverables.
+Mitigation Plan: Talent 
+identification platforms, high 
+visibility role, well-defined career 
+path, training & development, 
+competitive remuneration, ring 
+fencing
+We build and leverage the talent 
+through a robust framework, as 
+mentioned below:
+•	
+Attraction and Acquisition - 
+Empanelment of premier institutes 
+across the country to tap the best 
+talent, unique drives for attracting 
+best talent from diverse work 
+groups, etc.
+•	
+Promoting Young Talent - Right 
+MIP, building the talent pipeline 
+through succession planning
+•	
+Capability Building - Ensuring 
+that we have people with the 
+right skills which are niche skills 
+in mining and smelting. Also 
+acquiring new skills at par with 
+external requirements and be 
+agile with both internal & external 
+developments. We ensure the 
+development of our people on 
+technical & behavioural aspects 
+through customised interventions
+•	
+Driving Diversity - DEI is a 
+business imperative and our 
+objective is to achieve gender 
+parity across all levels starting 
+from the Board
+•	
+Performance Management - 
+Cascading organisations goals to 
+the last line to ensure that entire 
+workforce is aligned to achieve the 
+business targets
+Negative
+STATUTORY REPORTS
+271
+HINDUSTAN ZINC LIMITED
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk/
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative
+implications)
+Social
+10
+Community 
+Engagement 
+and 
+Development
+Risk
+Communities are identified as 
+foremost stakeholder group. 
+Stakeholders especially 
+communities may get impacted at 
+the socio-cultural and economic 
+level due to our business 
+operations. Deficit of trust and 
+relationship with the earmarked 
+stakeholders may not only impede 
+the progress on initiatives for 
+furthering our societal impact but 
+may also lead to consequential loss 
+of reputation, brand and business 
+continuity.
+Mismatch between expectations of 
+community and actions deployed 
+or lack of awareness or poor 
+deployment of engagement 
+initiatives may lead to discontented 
+communities.
+A proactive and sustained 
+approach towards consultation 
+with stakeholders including 
+communities is critical to 
+strengthen the engagement levels 
+and sustained interactions and 
+engagement platforms would lead 
+to presenting our commitment to 
+driving value for both communities 
+and organisation.
+We also are cognisant that each 
+location has a different cultural 
+and economic significance, which 
+influences the expectations local 
+communities have from us. Hence, 
+community engagement for 
+sustainable integrated land use 
+planning, the training of community 
+persons in specialised skills, 
+importance to cultural values and 
+its integration into the relationship, 
+empowering and bringing women 
+in leadership by focussing on 
+equality, overall developing the 
+assets within the community and 
+intensely educating them thereby 
+making self-sustained communities’ 
+local employment, local sourcing is 
+one of the most important aspect 
+for us to build a trust and uplift their 
+standard of living.
+•	
+Proactive and sustained 
+engagement platforms like 
+“Community Connect”, 
+“Community Leadership 
+Connect” shall ensure two-way 
+communication network and 
+strengthen the trust element. 
+Our approaches towards 
+strengthening Social Performance 
+Steering Committees (SPSC) at 
+business locations with active 
+involvement of the functional 
+leaders across Hindustan Zinc is 
+key to monitoring the grievances 
+and its resolution, key risks and 
+its mitigation and creating strong 
+relationships with the stakeholder 
+base. Thereby, reducing the 
+collective risks and immediately 
+addressing the grievances and 
+feedbacks received from the 
+communities
+•	
+Engagement of senior 
+management at village level 
+across all BUs on a regular 
+basis for discussing village 
+level development and ensure 
+resolution of concerns/grievances, 
+if any
+•	
+Model village as a strategic 
+approach is being adopted 
+to strengthen the village 
+infrastructure in discussion 
+with the villages and its elected 
+members
+•	
+Assessing the community need 
+and impact derived of our 
+interventions including perception 
+studies aid us in learning the 
+insights and further help us draw 
+inferences and future action plans
+Negative
+272
+INTEGRATED ANNUAL REPORT FY 2022-23
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk/
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative
+implications)
+Governance
+11
+Data Privacy & 
+Cyber Security
+Risk
+Risk of leakage of personal 
+information of stakeholder 
+and organisation’s business 
+critical information and also 
+non-adherence to legal and 
+statutory compliances may lead 
+to financial/reputational loss.
+Unavailability of business 
+critical systems or change in 
+integrity of system/data due to 
+cybersecurity incident may lead 
+to wrong business decision and/
+or business loss.
+•	
+Implementation of right set 
+of policies, procedures and 
+practices for IT operations and 
+their effective communication and 
+enforcement to all stakeholders
+•	
+Structured and comprehensive 
+approach for data governance 
+through its life cycle including 
+policies, procedures and 
+deployment of best-in-class tools 
+and technologies
+•	
+Comprehensive Vulnerability 
+Management programme to 
+proactively identify vulnerabilities 
+in technology systems/landscape 
+and remediate them in a timely 
+manner
+•	
+Effective management of accesses 
+to all systems, including privilege 
+access management
+•	
+Periodically conduct Business 
+Impact Assessment for all 
+business-critical system and 
+deploy effective Business 
+Continuity and Disaster Recovery 
+Plan
+•	
+Company has adopted a globally 
+recognised ISO frameworks 
+for various domains of its IT 
+operations and has been certified 
+on an integrated ISO certification 
+including ISO 27001, 27701, 
+31000 and 22301
+•	
+Company has also implemented a 
+very comprehensive programme 
+for Vulnerability Management, 
+Data Governance and Cyber 
+Security Awareness across all 
+its stakeholders. Company has 
+defined a set of Risk Controls 
+Matrix in line with ISO and 
+Sarbanes-Oxley Compliance 
+framework to regularly and 
+proactively review and monitor all 
+its IT processes
+Negative
+STATUTORY REPORTS
+273
+HINDUSTAN ZINC LIMITED
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+Policy and management processes
+1.	
+a.	 Whether your entity’s 
+policy/policies cover 
+each principle and its 
+core elements of the 
+NGRBCs. (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+	
+b.	 Has the policy been 
+approved by the 
+Board? (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+	
+c.	 Web Link of the 
+Policies, if available
+Anti-Bribery 
+& Anti-
+Corruption 
+Policy
+Business 
+Ethics Code 
+of Conduct
+Supplier 
+Code of 
+Conduct
+Sustainable 
+Sourcing Policy
+Human Rights 
+Policy
+Health 
+Safety & 
+Environment 
+Policy
+Policy on 
+Diversity 
+Equity and 
+Inclusion
+Stakeholder 
+Engagement 
+Standard
+Human Rights 
+Policy
+Health Safety 
+& Environment 
+Policy
+Business 
+Ethics 
+Code of 
+Conduct
+CSR Policy
+Customer 
+Delight Policy 
+2.	
+Whether the entity has 
+translated the policy into 
+procedures. (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+3.	
+Do the enlisted policies 
+extend to your value 
+chain partners? (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+4.	
+Name of the national 
+and international codes/
+certifications/labels/
+standards (e.g. Forest 
+Stewardship Council, 
+Fairtrade, Rainforest 
+Alliance, Trustea) 
+standards (e.g. SA 
+8000, OHSAS, ISO, BIS) 
+adopted by your entity 
+and mapped to each 
+principle.
+ISO 31000
+(Risk 
+Management 
+System)
+ISO 37301 
+(Compliance 
+Management 
+System)
+ISO 9001 
+(Quality 
+Management 
+System)
+ISO 14001 
+(Environmental 
+Management 
+System)
+ISO 45001 
+(Occupational 
+Health and
+Safety (OH&S) 
+Management
+System)
+ISO 22301
+(Business 
+Continuity 
+Management 
+System & 
+Disaster 
+Recovery 
+System)
+SA 8000 
+(Social 
+Accountability 
+Standards)
+SA 8000 
+(Social 
+Accountability 
+Standards)
+ISO 14001
+(Environmental 
+Management 
+System)
+ISO 50001 
+(Energy 
+Management 
+System)
+Environment 
+Product 
+Declaration 
+(EPD) for Zinc 
+Product
+-
+SA 8000 
+(Social 
+Accountability 
+Standards)
+ISO 27001
+ISO 9001
+(Quality 
+Management 
+System)
+ISO 27000 
+(Information 
+Security 
+Management 
+System)
+Environment 
+Product 
+Declaration 
+(EPD) for Zinc 
+Product
+5.	
+Specific commitments, 
+goals and targets set by 
+the entity with defined 
+timelines, if any.
+Hindustan Zinc is built on inherently sustainable principles. We believe in driving long-term sustainable economic development and value 
+creation for our stakeholders by protecting the health and safety of our people and community, minimising the environmental impact of our 
+operations, respecting human rights and sharing benefits with the community.
+We have taken a holistic view in setting our sustainability goals for 2025, aligning them with UN Sustainable Development Goals. Following a 
+formal materiality analysis process and extensive internal and external stakeholder dialogue, In 2020, we identified the high priority material 
+issues and subsequently set ambitious sustainability goals for 2025.
+Sustainability Goals 2025
+•	 Goal 1:	 o	 Achieving Net-Zero Emissions by 2050 or sooner.
+	
+	
+o	 0.5 mn tCO2e GHG emission savings in our operations in 2025 from base year 2017
+	
+	
+o	  Reduction in non GHG emission (SOx and NOx emission) by 17% by 2025 base year of 2020
+•	 Goal 2:	 o	 Become 5x water-positive Company and achieve 25% reduction in freshwater by 2025
+	
+	
+o	 Complete transition from wet tailing to dry tailing disposal by 2025
+•	 Goal 3: 	 o 	 3x Increase in gainful utilisation of smelting process waste
+•	 Goal 4: 	 o 	 Positively impacting 1 million lives through social, economic and environmental initiatives by 2025
+•	 Goal 5:	 o	 Protect and enhance biodiversity throughout the life cycle
+	
+	
+o	 1 million Plantation drive by 2025
+	
+	
+o	 Achieve No Net Deforestation through compensatory afforestation whenever applicable in mining sites, throughout the life cycle
+•	 Goal 6:	 o 	 Inclusive and diverse workplace with 30% diversity by 2025
+•	 Goal 7: 	 o 	 Zero work-related fatalities and 50% reduction in Total Recordable Injury Frequency Rate (TRIFR) by 2025
+•	 Goal 8: 	 o 	 100% Responsible Sourcing in the supply chain by 2025
+MANAGEMENT AND PROCESS DISCLOSURES
+B
+SECTION
+274
+INTEGRATED ANNUAL REPORT FY 2022-23
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+Policy and management processes
+6.	
+Performance of the entity 
+against the specific 
+commitments, goals 
+and targets along with  
+reasons in case the same 
+are not met.
+Goals
+Action taken
+Performance KPI’s
+Status
+Goal 1
+•	
+PDA signed for 450 MW renewable energy
+•	
+100% RE power consumption at Pantnagar Metal Plant
+•	
+Turbine revamping
+•	
+Use of biomass in power plants
+•	
+Energy-efficiency programmes/ISO 50001 certification
+•	
+Switching to electric mobility
+•	
+Alternate fuel use for transportation
+0.34 mn tCO2e GHG emission 
+savings (68% achieved)
+10.66% emission intensity 
+decrease on y-o-y basis
+On Track
+Goal 2
+•	
+Utilisation of STP-treated water
+•	
+Maintaining zero discharge across sites
+•	
+Water recycling through integrated waste water treatment facilities  
+ETP/RO/MEE/MVR plants
+•	
+Dry tailing plant
+•	
+Rainwater harvesting
+•	
+Water risk assessment
+9.41% reduction in freshwater 
+withdrawal in FY 2022-23 
+compared with FY 2019-20 
+(baseline)
+Water recycling at 41.95% in 
+FY 2022-23
+On Track
+Goal 3
+•	
+100% utilisation of Jarosite in Cement from DZS
+•	
+Jarofix utilisation in road construction
+•	
+Metal recovery from waste
+31.01% recycling and reuse 
+of total waste (mines and 
+smelters) in FY 2022-23
+On Track
+Goal 4
+•	
+Outreach 237 villages; ~1.72 million beneficiaries through sustained 
+CSR initiatives
+•	
+Enhancing the local economy by sustainable livelihood practices
+•	
+Improving quality of life of communities including the lifecycle 
+approach in education sphere and developing model villages
+•	
+Promoting community-led microenterprises
+1.7 million lives impacted
+Achieved
+Goal 5
+•	
+Three years engagement with IUCN
+	
+o	 IBAT assessment
+	
+o	 Ecosystem service review
+	
+o	 1st season biodiversity assessment
+•	
+Miyawaki afforestation
+•	
+Restoration of Jarofix Yard
+•	
+1 million plantation drive
+•	
+Wildlife conservation plan
+3.4 lakhs increase in 
+plantation from FY 2019-20
+On Track
+Goal 6
+•	
+Improving Diversity - Gender, sexual orientation, specially abled, 
+regional diversity - Transgenders onboarded in front end role (3 nos.)
+•	
+Sensitisation workshop for Diversity and Inclusion (16 session 600+ 
+employees covered)
+•	
+Rolled out various women professional development programmes
+•	
+Effective employee engagement programme
+Gender diversity increased 
+from 14.4% in FY 2019-20 to 
+19.5% in FY 2022-23
+On Track
+Goal 7
+•	
+Critical Risk Management/FSIPP (Fatality & Serious Injury  
+Prevention Programme)
+•	
+Community of practice: Structural Integrity
+•	
+Infrastructure and automation
+•	
+Safety governance structure for business partners
+•	
+Elimination of high-risk manual activities
+•	
+Industrial Hygiene - QLEA and QNEA
+•	
+Strengthening of emergency preparedness
+7 Fatalities
+TRIFR decreased by 27% in 
+FY 2022-23 from base year 
+FY 2019-20
+Off Track
+Goal 8
+Incorporating ESG into the commercial process
+•	
+ESG questionnaire in Pre-qualification criteria
+•	
+Suppliers due diligence
+•	
+Standard ESG expectations in the contracts
+•	
+Single use plastic, MSA declaration in RFQ
+•	
+Incorporating subcontractor approval during RFQ
+•	
+Launched vendor grievance through ROBOS portal
+•	
+Conducted webinar for ESG, COC, Ethics, Labour law
+39.30% sourced directly 
+from within the district and 
+neighbouring districts in  
+FY 2022-23. 70.45% of 
+total supplier by value (total 
+235 suppliers) have been 
+assessed by third party for 
+sustainable sourcing and ESG 
+criteria in FY 2022-23
+On Track
+STATUTORY REPORTS
+275
+HINDUSTAN ZINC LIMITED
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+Governance, leadership and oversight
+7.	
+Statement by Director responsible for the business responsibility report, highlighting ESG-related challenges, targets and achievements
+	
+Mr. Arun Misra, CEO & Whole-time Director is responsible for Business Responsibility and Sustainability Report. Please refer to page 259 of the 
+Integrated Annual Report FY 2022-23 for CEO statement covering ESG risk, challenges, highlights and achievements.
+8.	
+Details of the highest 
+authority responsible 
+for implementation 
+and oversight 
+of the Business 
+Responsibility Policy 
+(ies).
+Mr. Arun Misra, CEO & Whole-time Director who is also the member of Board-level Sustainability and ESG Committee is 
+responsible for the implementation and oversight of the Business Responsibility and Sustainability Policy (ies)
+9.	
+Does the entity have a 
+specified Committee 
+of the Board/Director 
+responsible for 
+decision-making on 
+sustainability-related 
+issues? (Yes/No). If 
+yes, provide details.
+Yes, the Company has Board-level Sustainability and ESG Committee in place for decision-making on sustainability-related issues.
+The Sustainability and ESG Committee, chaired by Independent Director, is responsible for providing oversight and in 
+formulating our sustainability strategy including topics such as climate change, environment, safety, transparent disclosures 
+besides setting long-term goals and targets. The Committee is responsible for:
+•	
+Periodically review the Company’s stakeholder base and their material interests
+•	
+Review and approve any reporting on sustainability aspects to the public or government agencies
+•	
+Implement industry best practices and standards, to ensure that the Company’s sustainability strategy minimises 
+environmental impact and creates shared value in the long-term for stakeholders
+•	
+Manage risks in all forms, by applying controls and testing their effectiveness against environmental risks and 
+opportunities, social impacts and activities related to stakeholder engagement
+The Committee also plays a key strategic role in all business decisions to ensure workplace safety, eliminating any potential 
+damage to the environment, enhancing a commitment towards stakeholders and maintaining Hindustan Zinc's reputation as 
+one of leading sustainable metal & mining Company.
+Committee Composition
+Mr. Akhilesh Joshi - Non-Executive - Independent Director - Chairperson (DIN : 01920024)
+Mr. Arun Misra - Executive Director - Member (DIN : 01835605)
+Ms. Nirupama Kotru - Non-Executive - Nominee Director - Member (DIN : 09204338)
+Ms. Veena Kumari Dermal - Non-Executive - Nominee Director - Member (DIN : 08890469)
+ESG risk and mitigation are also reassured by Audit and Risk Committee
+10.
+Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether review was undertaken by Director/Committee of the Board/Any other Committee
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above 
+policies and follow-up action
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Compliance with statutory 
+requirements of relevance 
+to the principles and, 
+rectification of any non-
+compliances
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Subject for Review
+Frequency (Annually/Half yearly/Quarterly/Any other – please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above 
+policies and follow-up action
+H
+H
+H
+H
+H
+H
+H
+H
+H
+Compliance with statutory 
+requirements of relevance 
+to the principles and, 
+rectification of any non-
+compliances
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+The Company is in compliance with regulations as applicable, except to the extent of non-compliances as already 
+disclosed.
+11
+Has the entity carried out 
+independent assessment/
+evaluation of the working of 
+its policies by an external 
+agency? (Yes/No). If yes, 
+provide name of the agency.
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Yes, apart from internal audits, audits like Vedanta Sustainability Assurance Programme (VSAP) and ISO certification 
+surveillance/renewal audit from independent auditors are conducted annually, to ensure the integrity of the 
+implementation process. The VSAP is a sustainability risk assurance tool, used to assess the compliance of all our units 
+with the Vedanta Sustainability Framework. The assurance model has various modules, covering environment, health, 
+safety, community and human rights elements. The assurance system works on the premise of tracking corrective and 
+preventive actions by each of our businesses and commissioning periodic formal audits by external experts. Based 
+on the gap assessment, our businesses undertake management plans and corrective actions, with periodic review, 
+evaluation and documentation. This aids in identifying the improvement areas and promotes cross-functional working 
+environment.
+276
+INTEGRATED ANNUAL REPORT FY 2022-23
+The National Guidelines for Responsible Business Conduct (NGRBC) as prescribed by the Ministry of Corporate Affairs 
+advocates nine principles referred as P1-P9 as given below:
+P1
+Businesses should conduct and govern themselves with integrity in a manner that is ethical, transparent 
+and accountable
+P2
+Businesses should provide goods and services in a manner that is sustainable and safe
+P3
+Businesses should respect and promote the well-being of all employees, including those in their value chains
+P4
+Businesses should respect the interests of and be responsive towards all its stakeholders
+P5
+Businesses should respect and promote human rights
+P6
+Businesses should respect, protect and make efforts to restore the environment
+P7
+Businesses when engaging in influencing public and regulatory policy, should do so in a manner that is responsible 
+and transparent
+P8
+Businesses should promote inclusive growth and equitable development
+P9
+Businesses should engage with and provide value to their consumers in a responsible manner
+PRINCIPLE-WISE PERFORMANCE DISCLOSURE
+C
+SECTION
+BUSINESSES SHOULD CONDUCT AND GOVERN THEMSELVES WITH INTEGRITY AND IN A 
+MANNER THAT IS ETHICAL, TRANSPARENT AND ACCOUNTABLE
+PRINCIPLE 1
+Essential Indicators
+1.	 Percentage coverage by training and awareness programmes on any of the principles during the financial year:
+S. 
+no.
+Segment
+Total number 
+of training and 
+awareness 
+programmes held
+Topics/principles covered under the training
+%age of persons in 
+respective category 
+covered by the 
+awareness programmes
+1
+Board of  
+Directors
+5
+•	
+Overview of mining, smelting, power, marketing, 
+ESG, fertiliser project, risk management, etc.
+•	
+On site visit to mining and smelting complex
+•	
+ESG Risk Awareness Training
+•	
+Two Risk Awareness training
+•	
+Board Familiarization Programme
+100%
+2
+Key  
+Managerial  
+Personnel
+11
+•	
+Overview of mining, smelting, power, marketing, 
+ESG, fertiliser project, risk management, etc.
+•	
+On site visit to mining and smelting complex
+•	
+Risk Awareness Training
+•	
+Business Ethics and Code of Conduct covering 
+insider trading
+•	
+Training on LCA, LME responsible sourcing 
+guidelines, net-zero SBTi targets, materiality 
+assessment, TNFD guidelines, SBTN, etc.
+100%
+3
+Employees  
+other  
+than  
+BoD and  
+KMPs
+447
+•	
+Business Ethics
+•	
+Code of Conduct
+•	
+Insider Trading
+•	
+ESG, Technical/Behavioural training
+97%
+4
+Workers
+2,968
+Health, Safety, Environment Behavioural Upskilling
+88%
+STATUTORY REPORTS
+277
+HINDUSTAN ZINC LIMITED
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING
+2.	 Details of fines/penalties/punishment/award/compounding fees/settlement amount paid in proceedings (by the 
+entity or by Directors/KMPs) with regulators/law enforcement agencies/judicial institutions, in the financial year, in 
+the following format (Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30 
+of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+Monetary
+NGRBC  
+Principle
+Name of the regulatory/enforcement 
+agencies/judicial institutions
+Amount  
+(In `)
+Brief of  
+the Case
+Has an appeal been 
+preferred? (Yes/No)
+Penalty/Fine
+NIL
+ NIL
+ NIL
+ NIL
+ NIL
+Settlement
+NIL
+ NIL
+ NIL
+ NIL
+ NIL
+Compounding fee
+NIL
+ NIL
+ NIL
+ NIL
+ NIL
+Non-Monetary
+NGRBC  
+Principle
+Name of the regulatory/enforcement 
+agencies/judicial institutions
+Brief of the Case
+Has an appeal been 
+preferred? (Yes/No)
+Imprisonment
+NIL
+ NIL
+ NIL
+ NIL
+Punishment
+NIL
+ NIL
+ NIL
+ NIL
+3.	 Of the instances disclosed in Question 2 above, details of the appeal/revision preferred in cases where 
+monetary or non-monetary action has been appealed:
+Case Details
+Name of the regulatory/enforcement agencies/judicial institutions
+Not Applicable 
+4.	 Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide a 
+web-link to the policy.
+	
+Company has adopted the anti-corruption or anti-bribery policy. The policy has been developed in alignment with 
+Company’s code of conduct, including whistle blower policy bound by various laws including Indian Prevention of 
+Corruption Act, UK Bribery Act and Foreign Corrupt Practices Act, etc. The policy reiterates Hindustan Zinc’s stance of 
+zero tolerance towards fraud, bribery and corrupt practices. The policy facilitates ethical decision-making and reinforces 
+Company’s culture of transparency in all its dealings. This policy applies to all employees and business partners of 
+Company and sets out conduct that must be always adhered to.
+	
+The policy can be accessed at 
+https://www.hzlindia.com/wp-content/uploads/Anti-Bribery-and-Anti-Corruption-Policy-21.01.2022.pdf
+5.	 Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/corruption:
+FY 2022-23
+FY 2021-22
+Directors
+NIL
+NIL
+KMPs
+NIL
+NIL
+Employees
+NIL
+NIL
+Workers
+NIL
+NIL
+6.	 Details of complaints with regard to conflict of interest:
+FY 2022-23
+FY 2021-22
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to 
+issues of Conflict of Interest of the Directors
+NIL
+Not applicable
+NIL
+Not applicable
+Number of complaints received in relation to 
+issues of Conflict of Interest of the KMPs
+NIL
+Not applicable
+NIL
+Not applicable
+7.	
+Provide details of any corrective action taken or underway on issues related to fines/penalties/action taken by 
+regulators/law enforcement agencies/judicial institutions, on cases of corruption and conflicts of interest.
+	
+There were no fines/penalties/action taken by regulators/law enforcement agencies/judicial institutions, on cases of 
+corruption and conflicts of interest. Hence, there is no corrective action.
+	
+The Company ensures that necessary policies, processes, systems and monitoring mechanism are put in place to ensure 
+compliances. The policies are regularly reviewed to update them with best practices adopted globally. The implementation 
+of these policies is ensured through regular training, communication and awareness building sessions. As part of the risk 
+assessment methodology, all sites are regularly assessed for risks related to corruption, environment, and social aspects.
+278
+INTEGRATED ANNUAL REPORT FY 2022-23
+Leadership Indicators
+1.	 Awareness programmes conducted for value chain partners on any of the principles during the financial year:
+Total number 
+of awareness held
+Topics/principles covered 
+under the training
+% age of value chain partners covered (by value 
+of business done with such partners) under the 
+awareness programmes
+122
+ARIBA training, Supplier code of 
+conduct, ESG awareness, Labour law, 
+Health Safety and Environment, etc.
+(P1 to P6)
+•	
+100% partners for Supplier Code of Conduct, ESG, 
+Labour law, Health, Safety Environment training
+•	
+100% of new suppliers given training on  
+ARIBA portal
+2.	 Does the entity have processes in place to avoid/manage conflict of interests involving members of the Board? 
+(Yes/No) If yes, provide details of the same.
+	
+Yes. The Company has a policy on Business Ethics & Code of Conduct. Ethical conduct of business, at our Company, 
+encompasses all its stakeholders, right from our Board members, top management and employees to our partners, 
+contractors, shareholders and others. The Code of Conduct is pillared on the ethos of trust, mutual respect, professionalism, 
+responsibility, accountability and transparency in communication. It is also aligned with the Indian Prevention of 
+Corruption Act, Foreign Corrupt Practices Act and UK Bribery Act. The Code guides our behaviour, while helping us in 
+the promotion of honest and ethical conduct, along with ethical handling of any conflicts of interest, complete and timely 
+disclosures, among others. Our Company is committed to conducting business with responsibility and integrity.
+	
+Our Company’s daily conduct reflects the core values and purpose which are integral to the brand and reputation. The 
+Code ensures that the actions and policies are not only in compliance with applicable laws and regulations, but also 
+in line with the highest standards of business ethics and integrity. On an annual basis, all the Board members provide 
+directorship disclosures for the entities in which they are Directors/interested. Intimations are being sent separately in 
+case of any changes in the annual disclosures already submitted.
+	
+The policy is placed on the Company’s website 
+https://www.hzlindia.com/wp-content/uploads/HZL-BUSINESS-ETHICS-CODE-OF-CONDUCT-22.04.2022.pdf
+BUSINESSES SHOULD PROVIDE GOODS AND SERVICES IN A MANNER THAT IS 
+SUSTAINABLE AND SAFE
+PRINCIPLE 2
+Essential Indicators
+1.	 Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental 
+and social impacts of product and processes to total R&D and capex investments made by the entity, respectively:
+Current  
+Financial Year
+Previous  
+Financial Year
+Details of improvements in environmental and social impacts
+R&D*
+100%
+100%
+All R&D Investments are focussed at sustainable technologies development, 
+metal recovery and waste utilisation. Among the various investments we 
+have initiated in this regard is in the development of technology for mill 
+tailings and various waste recycling projects to reduce our environmental 
+footprint. We have also identified and replaced one of the hazardous reagent 
+used in mineral flotation by non-hazardous environment-friendly reagent. 
+In an endorsement of its progress on its circularisation goal, the Company 
+has been granted US patents for two of its sustainability technologies, 
+developed in-house by our R&D centre – ZnTech (formerly known as 
+Central Research and Development Laboratory). US10844551B2 for 
+manufacturing Paver Blocks from process waste and US10919924B2 for 
+the method of production of Potassium Antimony Tartrate (PAT) by utilising 
+Antimony bearing residues. Both these technologies are aimed at creating 
+value from waste, that can be utilised within Company’s operations and 
+support local entrepreneurs and communities.
+Capex# 10%
+12%
+Fumer project, Solar Power, Sewage Treatment Plant (STP), Tailing Dam 
+Strengthening, Dry Tailing Plant (DTP), Zero Liquid Discharge (ZLD) plants, 
+Tail Gas Treatment (TGT) plants, Jarofix yard capping, Fire Hydrant System, 
+CPP turbine revamping for efficiency, improvement, bag filters installation 
+for curbing fugitive emissions, etc.
+	
+* Total R&D expenditure is considered including salaries, material cost, R&M, etc.
+	
+* % R&D calculated as ESG R&D/Total R&D expenditure
+	
+# % CAPEX calculated as CAPEX related to ESG/Total CAPEX expenditure
+STATUTORY REPORTS
+279
+HINDUSTAN ZINC LIMITED
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING
+2.	 A.	 Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+	
+	
+Yes. The Company conducts business in a manner that improves welfare, health and safety of workers across our 
+supply chain, ensures compliance with the law and adherence to ethical standards of governance and sustainability. 
+To achieve this vision, we have put in place a Sustainable Sourcing policy that aligns our goals with our valued 
+business partners and promote a culture of responsibility towards sustainability in all our stakeholders. The policy 
+applies to all our immediate business partners including service and supply partners (“business partner/(s)”) based 
+on fundamental requirement of adherence to the Supplier’s Code of Conduct, which embodies our commitment to 
+internationally recognised standards on five core principles – Labour and Human Rights, Occupational Health and 
+Safety, Environmental Sustainability, Business Integrity and Governance. We may require our business partners to 
+provide information, complete training and perform other activities in connection with this policy before, during or 
+after supply of goods or performance of services. We are committed to working with our business partners through 
+collaborations and improvement in their process for responsible procurement based on global best practices.
+	
+	
+To ensure responsible sourcing of minerals, including when sourcing from CAHRA (Conflict-Affected and High-Risk 
+Area), Hindustan Zinc has established effective internal management of due diligence system to identify, assess and 
+manage potential risks associated with our mineral supply chains. Through this, Hindustan Zinc identifies potential 
+red flags, triggering enhanced due diligence in its mineral supply chains. Where red flags are identified, we undertake 
+enhanced due diligence to map the factual circumstances of the presence of risks, including serious human rights 
+abuses; risks associated with the contracting of public or private security forces; direct or indirect support to non-
+state armed groups; money laundering; non-payment of taxes, fees and royalties due to governments; bribery; and 
+fraudulent misrepresentation of the origin of the materials. We also map out risk management plans, including a 
+feedback/grievance mechanism, to ensure prevention and quick mitigation of identified risks.
+	
+B.	 If yes, what percentage of inputs were sourced sustainably?
+	
+	
+70.45% of total supplies by value (total 235 nos. suppliers) have been assessed by a third party for sustainable 
+sourcing and ESG criteria. The Company has plans to enhance the assessment and diligence process for GHG 
+emissions and natural resources, water management practices, social practices, etc. in the upcoming year.
+3.	 Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, 
+for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+	
+The Company is in the business of mineral extraction and processing. Our final product – Lead, Zinc and Silver is used as 
+a raw material for many industries and can be recycled and reused multiple times. The minerals are converted into ingot 
+which are supplied to customers without any packaging. Company has recently started producing HZDA, a Die-Casting 
+alloy which is a premix of Zn, Al, Mg/Cu in certain ratio to get best output of end product at customer’s side. Readily 
+available premix saves the energy, time and cost to the customers. Thus, customer does not need to re-melt the zinc ingot 
+to make an alloy, they can directly use the premix for their end product.
+ 	
+However, the procedures are in place for managing all kinds of wastes generated during the manufacturing of finished 
+goods. We are using technology and innovation to reduce-reuse-recycle waste and restore natural systems, including 
+land rehabilitation through top-soil cultivation. Company also prioritises the repurposing of end-of-life mines as part of 
+a broader remit to support local communities. Company is also exploring technologies to extract the valuable residual 
+metals and minerals. New chemicals are enabling the Company to optimise the mining process, minimise wastage 
+through the leaching process and significantly enhancing recoveries.
+4.	 Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes/No). If yes, whether the 
+waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control 
+Boards? If not, provide steps taken to address the same.
+	
+No, it is not applicable for our product/product packaging. However, EPR is applicable for the plastic being received 
+as packaging material for imported material goods. These materials are unwrapped in our stores and sent for further 
+recycling, waste collection plan is in-line with the Extended Producer Responsibility (EPR) plan submitted to Pollution 
+Control Board.
+280
+INTEGRATED ANNUAL REPORT FY 2022-23
+Leadership Indicators
+1.	 Has the entity conducted Life Cycle Perspective/Assessments (LCA) for any of its products (for manufacturing 
+industry) or for its services (for service industry)? If yes, provide details in the following format?
+NIC Code
+Name of  
+Product/
+Service
+% of total 
+Turnover  
+contributed
+Boundary 
+for which the 
+Life Cycle 
+Perspective/
+Assessment 
+was conducted
+Whether 
+conducted by 
+independent 
+external 
+agency  
+(Yes/No)
+Results communicated in public 
+domain (Yes/No) If yes, provide the 
+web-link
+Zinc - 27204
+Lead - 27209
+Silver - 27205
+Zinc,  
+Lead and  
+Silver
+95%
+Cradle to Grave
+Yes, through 
+the third party
+Sustainability Development Report 
+2017-18
+Results are shared as part of Zinc 
+Environment product declaration (EPD)
+2.	 If there are any significant social or environmental concerns and/or risks arising from production or disposal of your 
+products/services, as identified in the Life Cycle Perspective/Assessments (LCA) or through any other means, briefly 
+describe the same along with action taken to mitigate the same.
+	
+Company conducted Life Cycle Assessment (LCA) study as per ISO 14040/44 standard, using the approach of “cradle to 
+grave” for their Zinc, Lead and Silver products. The study established the baseline impact of ‘1 tonne of Zinc, Lead and 
+Silver Production’ for facilities of Hindustan Zinc Limited. The system boundary for this study is a cradle to grave system.
+	
+As per the results there are no significant social/environmental concerns or risks arising from our manufacturing process. 
+Following with the recommendations from the above study for which we have worked on:
+	
+•	
+Identifying all potential areas for improvement and direct efforts so as to reduce the impact, or otherwise minimise 
+as far as possible, getting the consequent environmental improvement and compare with the benchmark and best 
+available technologies
+	
+•	
+Optimisation and improvement of the production processes, end-of-life scenarios, etc.
+	
+•	
+Stimulating the generation of information on the life cycle performance of materials to support both reductions 
+in the footprint of the upstream activities to harvest the materials, as well as more sustainable applications of 
+materials in products
+	
+•	
+Objectively analysing different future scenarios and possible alternatives and their implications and impact 
+on the life cycle
+	
+•	
+Third party standards and rating schemes that are trying to improve the environmental footprint of product and 
+building systems
+	
+A set of life cycle environmental impact indicators such as Abiotic Depletion of Fossil Elements, Acidification Potential, 
+Eutrophication Potential, Global Warming Potential, Ozone Layer Depletion Potential, Photochemical Ozone Creation 
+Potential, Primary Energy Demand and Blue Water Consumption were considered. While comparing the results, it was 
+found that Company's results are at par with the world average data.
+	
+Electricity consumption contributes to major environmental impact in the value chain of zinc. Company relies on captive 
+thermal power plant, it is imperative to improve the captive power plant efficiency. Energy-efficiency projects such as 
+revamping of all the turbines, improvement of cellhouse efficiency, other projects like installation of variable frequency 
+drives across operations, switching from high-speed diesel to piped natural gas, have contributed to energy savings in 
+our operations. We have signed power delivery agreements (PDAs) of 200 MW & 250 MW renewable energy. We are 
+using biomass along with coal in our captive power plants. Electric vehicles have been introduced in our underground 
+mining & smelter operations. With all these initiatives and supply of RE round-the-clock with these PDAs, we will be 
+able to source about 50% of our electrical energy requirement from renewable energy and to reduce Global Warming 
+Potential, Acidification Potential and Blue Water Potential significantly below world average data.
+	
+Water consumption was also identified as major environmental impact in the value chain of zinc. Company has 
+commissioned India’s 1st dry tailing plant at Zawar mines which recirculates more than 80% of the process water present 
+in tailings. We have zero liquid discharge (ZLD) plants at all smelters which recycles processed water, which is then reused 
+in operations. We have also set out plans to commission the ZLD plants at all our units and remain committed to principles 
+of water conservation and zero discharge. Rainwater harvesting facility has been introduced in Rampura Agucha mines. 
+We have set Sustainability Goal to reduce fresh water consumption by 25% by 2025.
+STATUTORY REPORTS
+281
+HINDUSTAN ZINC LIMITED
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING
+3.	 Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing 
+industry) or providing services (for service industry):
+	
+Nil. We are primary manufacturer of non-ferrous metals.
+Indicate input material
+Recycled or reused input material to total material
+FY 2022-23
+FY 2021-22
+No such material used
+NIL
+NIL
+4.	 Of the products and packaging reclaimed at end of life of products, amount (in MT) reused, recycled and safely 
+disposed, as per the following format:
+	
+Not applicable
+5.	 Reclaimed products and their packaging materials (as percentage of products sold) for each product category:
+Indicate product  
+category
+Reclaimed products and their packaging materials as % of total products sold in 
+respective category
+Not Applicable
+BUSINESSES SHOULD RESPECT AND PROMOTE THE WELL-BEING OF ALL EMPLOYEES, 
+INCLUDING THOSE IN THEIR VALUE CHAINS
+PRINCIPLE 3
+Essential Indicators
+1.	 a.	
+Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total 
+(A)
+Health insurance
+Accident insurance
+Maternity benefits
+Paternity Benefits
+Day Care facilities
+Number 
+(B)
+% (B/A)
+Number 
+(C)
+% (C/A)
+Number 
+(D)
+% (D/A)
+Number 
+(E)
+% (E/A)
+Number 
+(F)
+% (F/A)
+Permanent employees
+Male
+2,067
+2,067
+100%
+2,067
+100%
+NA
+NA
+2,067
+100% 
+2,067
+100%
+Female
+499
+499
+100%
+499
+100%
+499
+100%
+NA
+NA
+499
+100%
+Total
+2,566
+2,566
+100%
+2,566
+100%
+499
+19.4%
+2,067
+80.6%
+2,566
+100%
+Other than Permanent employees
+Male
+7
+7
+100%
+7
+100%
+NA
+NA
+NA 
+NA 
+7
+100%
+Female
+2
+2
+100%
+2 
+100%
+2 
+100%
+NA
+NA
+2 
+100%
+Total
+9
+9
+100%
+9 
+100%
+2 
+22.2%
+NA 
+NA 
+9 
+100%
+	
+b.	 Details of measures for the well-being of workers:
+Category
+% of workers covered by
+Total 
+(A)
+Health insurance
+Accident insurance
+Maternity benefits
+Paternity Benefits
+Day Care facilities
+Number 
+(B)
+% (B/A)
+Number 
+(C)
+% (C/A)
+Number 
+(D)
+% (D/A)
+Number 
+(E)
+% (E/A)
+Number 
+(F)
+% (F/A)
+Permanent workers
+Male
+879
+879
+100%
+879
+100%
+NA
+NA
+NA
+NA 
+879
+100%
+Female
+18
+18
+100%
+18
+100%
+18
+100%
+NA
+NA
+18
+100%
+Total
+897
+897
+100%
+897
+100%
+18
+2%
+-
+-
+897
+100%
+Other than Permanent workers
+Male
+19,490
+19,490
+100%
+19,490
+100%
+NA
+NA
+NA
+NA
+19,490
+100%
+Female
+234
+234
+100%
+234
+100%
+227
+100%
+NA
+NA
+234
+100%
+Total
+19,724
+19,724
+100%
+19,724
+100%
+227
+100%
+NA
+NA
+19,724
+100%
+282
+INTEGRATED ANNUAL REPORT FY 2022-23
+2.	 Details of retirement benefits, for Current FY and previous financial year:
+Benefits
+FY 2022-23
+FY 2021-22
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+PF
+99.8%
+100%
+Y
+99.77%
+100%
+Y
+Gratuity
+99.8%
+NA
+Y
+99.77%
+NA
+Y
+ESI
+NA
+NA
+NA
+NA
+NA
+NA
+Others – medical, 
+term life & accidental 
+coverage
+100%
+-
+NA
+100%
+-
+NA
+3.	 Accessibility of workplaces:
+	
+Our Company recognises the value of a diverse workforce. We are committed to providing equal opportunities in 
+employment and create an inclusive workplace and work culture in which all employees are treated with respect and 
+dignity. Company proactively work towards ensuring that its workforce is comprised of people with benchmark disability, 
+subject to applicable regulations, qualifications and merit of the individual. This Equal Opportunity Policy is in accordance 
+with the provisions of The Rights of Persons with Disabilities Act, 2016.
+	
+Inclusive infrastructure facilities are available at our premises. Few of them are:
+	
+•	
+Elevators with braille inscribed for person with visual impairment
+	
+•	
+Ramp for mobility impaired person with disability
+	
+•	
+Touchless entry for person with disability
+	
+•	
+Text to speech software for visually impaired
+	
+•	
+Training on Indian sign language to employees to assist them in communication with deaf & mute
+4.	 Does the entity have an equal opportunity policy as per the rights of persons with disabilities Act, 2016? If so, provide 
+a web-link to the policy.
+	
+Yes. The Company has adopted an Equal Opportunity Policy in accordance with the provisions of The Rights of Persons 
+with Disabilities Act, 2016 and the rules framed thereunder and provides a framework, which is committed towards the 
+empowerment of persons with disabilities. Company is committed to providing equal employment opportunities, without 
+any discrimination on the grounds of disability.
+	
+We are guided by our Code of Conduct Policy which clearly specifies that we have zero tolerance policy against 
+discrimination – HZL Business Ethics and Code of Conduct
+	
+We promote an inclusive work culture of creating a supportive professional environment that promotes trust, empathy 
+and mutual respect. Our policy on Diversity, Equality and Inclusion has been developed in line with our commitment –
+Diversity-Inclusion-Policy.pdf
+5.	 Return to work and retention rates of permanent employees and workers that took parental leave:
+Permanent employees
+Permanent workers
+Gender
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+100%
+95%
+NA
+NA
+Female
+100%
+100%
+NA
+NA
+Total
+100%
+100%
+NA
+NA
+STATUTORY REPORTS
+283
+HINDUSTAN ZINC LIMITED
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING
+6.	 Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+worker? If yes, give details of the mechanism in brief.
+Yes/No (If Yes, then give details of the mechanism in brief)
+Permanent Workers
+Grievance Redressal Committees: Across locations are institutionalised for redressal 
+of complaints from internal as well as external stakeholders.
+Joint Consultation Committee: A joint committee with equal representation from 
+the management and workers meet at regular frequency ensuring grievances of 
+workers are timely redressed.
+Hindustan Zinc Worker’s Federation & Executive Committee Meet: The General 
+Secretary along with the federation representatives meet Hindustan Zinc Executive 
+members to redress the grievances at larger forum which requires intervention from 
+EXCO.
+Sampark: CEO townhall is an open forum where employees as well as workers can 
+share the grievances directly with CEO.
+Visible Felt Leadership Drive: Every leader is mandated to interact once in a month 
+with workforce. This redresses the grievances related to safe working environment 
+on the spot.
+The policy encourages external stakeholders such as vendors, customers and 
+business partners, etc. to have the opportunity to submit ‘Complaints’.
+The Vigil Mechanism provides adequate safeguards against victimisation of any person 
+who avail the mechanism as well as provides for direct access to the Chairperson of 
+the Audit Committee. The designated email id for lodging the complaints under Vigil 
+Mechanism or Whistle Blower is hzl.whistleblower@vedanta.co.in and has also provided 
+dedicated phone number. The same is also available on the website of the Company. 
+Toll free number: 000-800-100-1681.
+Other than Permanent Workers
+Permanent Employees
+Other than Permanent 
+Employees
+7.	
+Membership of employees and workers in association(s) or unions recognised by the listed entity:
+Category
+FY 2022-23
+FY 2021-22
+Total 
+employees/ 
+workers in 
+respective 
+category (A)
+No. of employees/
+workers in respective 
+category, who are 
+part of Association(s) 
+or Union (B)
+%  
+(B/A)
+Total 
+employees/ 
+workers in 
+respective 
+category (C)
+No. of employees/
+workers in respective 
+category, who are 
+part of Association(s) 
+or Union (D)
+%  
+(D/C)
+Total Permanent Employees
+2,566
+0
+0%
+2,487
+0
+0%
+-	
+Male
+2,067
+0
+0%
+2,096
+0
+0%
+-	
+Female
+499
+0
+0%
+391
+0
+0%
+Total Permanent Workers*
+897
+897
+100%
+1,013
+1,013
+100%
+-	
+Male
+879
+879
+100%
+992
+992
+100%
+-	
+Female
+18
+18
+100%
+21
+21
+100%
+	
+*Non-executives are Members of Unions
+8.	 Details of training given to employees and workers:
+FY 2022-23
+FY 2021-22
+Total (A)
+On Health and 
+safety measures
+On Skill
+upgradation
+Total (D)
+On Health and 
+safety measures
+On Skill 
+upgradation
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees*
+Male
+2,067
+1,557
+75%
+1,953
+94%
+2,096
+1,877
+90%
+1,877
+90%
+Female
+499
+362
+73%
+486
+97%
+391
+369
+94%
+369
+94%
+Total
+2,566
+1,919
+75%
+2,439
+95%
+2,487
+2,246
+90%
+2,246
+90%
+Workers**
+Male
+19,490
+17,385
+89%
+6,155
+32%
+19,414
+11,885
+61%
+2,739
+14%
+Female
+234
+Total
+19,724
+17,385
+88%
+6,155
+31%
+19,414
+11,885
+61%
+2,739
+14%
+	
+* Covers only Executive employees
+	
+ ** This covers other than permanent workers, i.e., Business Partner employees. Data separately not tracked for male and female
+284
+INTEGRATED ANNUAL REPORT FY 2022-23
+9.	 Details of performance and career development reviews of employees and workers:
+Category
+FY 2022-23
+FY 2021-22
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C)
+Employees*
+Male
+2,074
+2,074
+100%
+2,096
+2,096
+100%
+Female
+501
+501
+100%
+391
+391
+100%
+Total
+2,575
+2,575
+100%
+2,487
+2,487
+100%
+Workers
+Male
+NA
+NA
+NA
+NA
+NA
+NA
+Female
+NA
+NA
+NA
+NA
+NA
+NA
+Total
+NA
+NA
+NA
+NA
+NA
+NA
+	
+*Only Executive employees covered
+10.	 Health and safety management system:
+	
+a.	
+Whether an occupational health and safety management system has been implemented by the entity?  
+(Yes/No). If yes, the coverage of such system?
+	
+	
+•	
+Yes, we have established Integrated Management System (IMS) in line with requirement of ISO 9001, ISO 14001, 
+ISO 45001 and Vedanta Sustainability Framework (VSF) across all sites
+	
+	
+• 	
+We have HSE Policy and has been implemented for both executive as well as business partners
+	
+	
+•	
+Vedanta Sustainability Framework (VSF) is aligned with International Finance Corporation (IFC), International 
+Council on Mining and Metals (ICMM), United Nations Global Compact (UNGC) principles, standards and 
+guidelines to confirm congruence. It includes policies, management standards, technical standards, performance 
+standards and guidance notes on all sustainability aspects including occupational health & safety
+	
+	
+•	
+Hindustan Zinc’s flagship programme for achieving safety excellence, Aarohan, has been running since 2013. 
+We have partnered with DuPont to enhance our safety culture and inculcate a behaviour and habit of safety 
+among our workforce. Our endeavours help us work towards enhancing our safety standards and processes, to 
+minimise the health and safety risks across all our operations
+	
+	
+•	
+We have initiated Critical Risk Management (CRM) programme to identify, verify and ensure healthiness of critical 
+controls for identified high risk
+	
+b.	 What are the processes used to identify work-related hazards and assess risks on a routine and non-routine 
+basis by the entity?
+	
+	
+Process:
+	
+	
+We follow Vedanta standard (GN 07: Risk Assessment) and the Indian Standard 15656 for Hazard Identification 
+& Risk Assessment (HIRA). Based on the requirement, we do qualitative, semi-quantitative and quantitative type 
+risk assessment by using different risk assessment tools like HAZAN, HAZOP, QRA, PHA, SIL, etc. All the sites 
+of Hindustan Zinc have their HIRA registers which are updated at regular intervals. We provide training to all our 
+employees on risk assessment techniques. 
+	
+	
+For all routine activities, proper risk assessment has been conducted and Standard Operating Procedures (SOPs) are 
+developed. These SOPs are reviewed periodically. All non-routine activities are covered under Permit to Work (PTW)
+system which requires risk assessment prior to starting any job. Job Safety Analysis (JSA), Take 5 and controls are 
+identified and placed before issuing any work permit for non-routine job.
+	
+	
+We have identified 28 high risks activities and developed SOPs for all the identified risk for the effective management. 
+Regular update and follow-up on implementation of these SOPs is being done. All the past incidents, near miss 
+reported by the employees, work area inspection, contractor, field safety audits, etc. are evaluated and analysed for 
+the root cause. Once identified as a risk, these are added into the HIRA register.
+	
+	
+Governance:
+	
+	
+Hindustan Zinc Corporate Safety Council which is the apex body of Company is responsible for implementing 
+risk assessment of all routine & non-routine activities by conducting risk assessment {i.e., HAZOP study, 
+PHA, Hazard Identification & Risk Assessment (HIRA), etc.} for existing system and implementation of 
+recommendations of assessment.
+STATUTORY REPORTS
+285
+HINDUSTAN ZINC LIMITED
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING
+	
+	
+Capacity building:
+	
+	
+Many drives are taken across the units to create awareness on identification of high-risk activities like work at 
+height, confined space, fall of ground, electrocution, etc. and training on its standards. We acknowledge the fact that 
+operations free from risks on health have the potential to escalate productivity also. Hence, we have processes in 
+place to manage and monitor health risks of employees, right from the time of their first interaction with the Company. 
+We are having OH&S management system (as per the requirement of ISO 45001 for managing OH&S risks related 
+to our activities, with HIRA in place for all activities and for every significant risk, appropriate control measures 
+are implemented as per control measures hierarchy i.e., elimination, substitution, engineering, administration and 
+personal protective equipment (PPE).
+	
+c.	
+Whether you have processes for workers to report the work-related hazards and to remove themselves from 
+such risks? (Y/N)
+	
+	
+•	
+Yes, we have digital platform to report any work-related hazards and is accessible to both executives and 
+business partners. Apart from web portal, we also have mobile app available for ease of reporting
+	
+	
+•	
+Moreover, each site has suggestion boxes where employees, workers and business partners can report 
+grievances and suggestions for improving the safety performance. Employees and workers can also report 
+incidents and inaction on the safety incident through a formal whistle blower portal, the details of which are 
+displayed at each site
+	
+	
+•	
+The reported incidents are discussed by the PIT & Central Safety Committee, which is equally represented by 
+Union members, workmen and executive involvement for discussion of safety issue. The meetings are conducted 
+monthly to review the incidents
+	
+	
+•	
+SAMPARK/Safety townhall which is chaired by Hindustan Zinc CEO are being conducted where employees and 
+business partners can raise safety-related issues and can give suggestions for safety improvement
+	
+d.	 Do the employees/workers of the entity have access to non-occupational medical and healthcare services? (Yes/No)
+	
+	
+Yes. All employees of the Company are covered under the Company's medical and healthcare services. To safeguard 
+and support them from uncertainties and during unfortunate times or distress.
+	
+	
+We care for our employees’ and our business partners’ health and well-being and provide them with well-equipped 
+hospitals across locations. We have some of the best medical insurance and accident coverage policies to help 
+employees deal with medical emergencies. Periodic health check-ups and awareness sessions for all employees 
+are conducted regularly. Not only the physical well-being, but the mental well-being of our employees is also taken 
+care of. We conduct several programmes across locations to help employees deal with stress and maintain a healthy 
+work-life balance. We also have in place stress reduction and mental health programme in place.
+	
+	
+We have introduced ‘Group Term Life Insurance’ policy with a coverage limit of 5 times of fixed salary of each 
+executive up to a maximum of free cover limit i.e. ` 5.5 crore This policy portrays our value of care and commitment 
+to the triple bottom line. 
+11.	 Details of safety-related incidents, in the following format:
+Safety Incident/Number
+Category
+FY 2022-23
+FY 2021-22
+Lost Time Injury Frequency Rate (LTIFR)  
+(per one mn-person hours worked) *
+Employees
+0.83
+0.94
+Workers
+0.68
+0.79
+Total recordable work-related injuries (Nos.) *
+Employees
+10
+12
+Workers
+117
+128
+No. of fatalities
+Employees
+1
+0
+Workers
+6
+4
+High consequence work-related injury or ill-health 
+(excluding fatalities)
+Employees
+0
+0
+Workers
+0
+0
+	
+* Reported as per ICMM guidelines
+286
+INTEGRATED ANNUAL REPORT FY 2022-23
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace.
+	
+•	
+We have launched Employee Well-being and Assistance Programme, aimed at improving productivity through 
+stress management
+	
+•	
+Programme focusses on year-round engagement with employees, with thrust on building resilience and mindfulness 
+as strategies for stress management which fosters mental health
+	
+•	
+It includes round-the-year programmes and app-based stress management learning opportunities to engage multi-
+generational workforces
+	
+•	
+The services include 24X7 psychological counselling for employees and their dependents which are 
+completely confidential
+	
+•	
+As part of our efforts to upskill our contractual workers, we include our business partners in various safety training 
+programmes such as induction safety training, on-the-job safety training, safety townhalls and field safety audits. We 
+conduct regular trainings for contract workforce on SOP and trade skills. There is endeavour to continuously upgrade 
+the digital touchpoints for our business partners through project RuBaRu and other initiatives
+	
+•	
+We have a digital platform to capture maximum leading indicators and all the lagging indicators, with the objective 
+of ensuring transparency and improving the analytics of data being reported by our employees. Our digital platform 
+has helped us in capturing safety-related observations for intelligent analysis, tracking closure, reduction of manual 
+data capturing and reduction of error due to human intervention and limitations
+	
+•	
+The project RuBaRu aims to establish a safe and productive environment at our job sites by improving the 
+execution capability of our business partners. The project focusses on four key areas, namely: a) Health, Safety and 
+Environment (HSE) commitment for safe operations and strengthening our safety culture, b) Skill enhancement for 
+continuous performance improvement, c) Management-in-place to ensure that our business partners have the right 
+organisation structure, complete with right talent in right positions, d) Asset optimisation to maximise all aspects of 
+our critical equipment
+	
+Please see responses above in Question 10 for more details.
+13.	 Number of complaints on the following made by employees and workers:
+FY 2022-23
+FY 2021-22
+Filed during 
+the year
+Pending resolution 
+at the end of year
+Remarks
+Filed during 
+the year
+Pending resolution 
+at the end of year
+Remarks
+Working Conditions
+506
+47
+Continuous 
+and under 
+progress
+267
+3
+-
+Health & Safety
+690
+70
+296
+3
+-
+14.	 Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory authorities or third 
+parties)
+Health and safety 
+practices
+100% (every site is ISO 45001:2018 certified)
+HSE is also very important part of VSAP Module assessment and all units are participating in 
+VSAP which is organised through third party
+Working conditions
+100%
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant 
+risks/concerns arising from assessments of health & safety practices and working conditions.
+	
+Despite promoting a culture of safety and wellbeing, we are deeply saddened by 2 fatal incidents and 7 loss of lives 
+that took place during this year. We have carried out detailed investigations of the incidents to learn and deploy the 
+learnings across Company to prevent re-occurrences. Lesson learned and its horizontal deployment is underway to avoid 
+reoccurrence across the locations.
+STATUTORY REPORTS
+287
+HINDUSTAN ZINC LIMITED
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING
+Fatal Incident
+Management Plan and Mitigation Measure
+Zawar Mine – 1 Contract Employee
+While IP was entering the cage at 250 mRL 
+shaft inset, a rock piece of size approx.  
+13cm x 9cm x 8cm fell down from shaft and 
+after deflection from cage hit IP’s helmet.
+•	
+Interlocking done so that the skip movement is automatically 
+stopped when cage is operated
+•	
+Installation of an automated system that detect skip overfilling
+•	
+Conducted risk assessment to check the surrounding area of cage 
+landing including condition of penthouse, wire mesh condition and 
+other places where there is hazard of rock falling from height
+CLZS – 1 employee & 5 contract employees
+The sulphuric acid tank ST-02 capacity 
+5,000 MT at CLZS, Hydro 2 unit suddenly got 
+ruptured and collapsed.
+•	
+Tank wall thickness to be measured twice a year to get better trend 
+of erosion and reduce the tank loading as per thickness
+•	
+Modify and reposition the acid inlet nozzle (away from shell) to 
+decrease hydrogen grooving
+•	
+Plant to be interlocked with tank level (in no case SOL exceeds) 
+and acid feed shall stop
+•	
+Remote control operated field isolation valve (away from 
+the influence of the acid leakage) to be installed to facilitate 
+loading and unloading
+•	
+CCTV monitoring in all acid storage tanks/dykes/loading & 
+unloading areas
+•	
+Acid storage control room and driver rest room to be relocated 
+away from the storage tanks
+Leadership Indicators
+1.	 Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees (Y/N) 
+(B) Workers (Y/N)?
+	
+Yes. For executives to safeguard and support them from uncertainties and during unfortunate times or distress, we have 
+‘Group Term Life Insurance’ policy with a coverage limit of 5 times of fixed salary of each employee up to a maximum of 
+free cover limit i.e. ` 5.5 crore. This policy portrays our value of care and commitment to the triple bottom line. For Non- 
+executives personal accident policy had been obtained. There is a benevolent fund for the worker in case of death.
+2.	 Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by 
+the value chain partners.
+	
+The entity ensures adherence to statutory compliances related to workers such as timely wage payment by 7th of every 
+month, provident fund by 15th of every month. In case of non-compliances, stringent actions are taken against defaulter 
+business partner. Company has partnered with external agency as its outsourced partner to ensure all Labour Law 
+related compliances to wage and PF.
+3.	 Provide the number of employees/workers having suffered high consequence work-related injury/ill-health/
+fatalities (as reported in Q11 of essential indicators above), who have been/are rehabilitated and placed in suitable 
+employment or whose family members have been placed in suitable employment:
+Total no. of affected employees/workers 
+(No. of fatalities)
+No. of employees/workers that are 
+rehabilitated and placed in suitable 
+employment or whose family members 
+have been placed in suitable employment
+FY 2022-23
+FY 2021-22
+FY 2022-23
+FY 2021-22
+Employees
+1
+0
+0
+0
+Workers
+6
+4
+3
+0
+4.	 Does the entity provide transition assistance programmes to facilitate continued employability and the management 
+of career endings resulting from retirement or termination of employment? (Yes/No)
+	
+Yes, some of the highly qualified employees are retained as advisors post their superannuation. During the employment, 
+several skill upgradation programmes are imparted to employees to facilitate continued employability.
+288
+INTEGRATED ANNUAL REPORT FY 2022-23
+5.	 Details on assessment of value chain partners:
+% of value chain partners (by value of business done 
+with such partners) that were assessed
+Health and safety practices
+70.45%
+Working conditions
+70.45%
+6.	 Provide details of any corrective actions taken or underway to address significant risks/concerns arising from 
+assessments of health and safety practices and working conditions of value chain partners.
+	
+During the assessment, we have not identified any of such risks in our vendors, covered 235 vendors in assessment. 
+Apart from due diligence, we have also conducted contractor field safety audit during the year, we have covered 136 
+business partners and achieved 97% corrective and preventive action closure. These observations were made in the 
+categories like procedures, tools and equipment, plant upkeep, PPE and positions of people. We conducted a need 
+assessment and a baseline across our earmarked region to revalidate as well as re-assess the needs and revision in our 
+identified stakeholder groups.
+BUSINESSES SHOULD RESPECT THE INTERESTS OF AND BE RESPONSIVE TO ALL 
+ITS STAKEHOLDERS
+PRINCIPLE 4
+Essential Indicators
+1.	 Describe the processes for identifying key stakeholder groups of the entity.
+	
+Persons or groups that are directly or indirectly affected by a project as well as those that may have interests in a 
+project and/or the ability to influence its outcome, either positively or negatively. This inter alia includes customers, 
+suppliers, communities, government regulators, shareholders and employees. That said, identification of stakeholders 
+is an ongoing process. We proactively engage with our stakeholders on a regular basis. For long-term ongoing projects, 
+stakeholders are identified before initiation of the project, basis the geographical area of the project as well as through 
+the baseline and need assessment that is conducted.
+	
+For any new proposed project or expansion, we map and engage with all such stakeholders on a proactive basis, 
+particularly through our CSR activities. Further, we have stakeholder management processes in place at all our locations. 
+Our stakeholder identification and prioritisation process is based on inclusivity, materiality and responsiveness. Our 
+primary stakeholder groups are identified and prioritised based on their influence, dependency and impact. Grievance 
+redressal is an important aspect of our stakeholder engagement process. We have a Grievance Committee, chaired by 
+the respective unit heads, to review the grievances on a periodic basis.
+2.	 List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalised 
+Group  
+(Yes/No)
+Channels of Communication (Email, SMS, 
+Newspaper, Pamphlets, Advertisement, 
+Community Meetings, Notice Board, 
+Website, Others)
+Frequency of 
+engagement 
+(Annually/Half 
+yearly/Quarterly/
+others – please 
+specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Customers
+No
+•	 Intuitive Vedanta Metal Bazaar (Moglix) 
+platform for continuous engagement and 
+feedback
+•	 Periodic connects with key customers 
+by senior executives and at times by top 
+management
+•	 Biennial customer satisfaction survey
+•	 Forum for quick customer query 
+resolution
+•	 Frequent customer visits to understand 
+their needs and give technical support
+•	 Ongoing/
+Need basis
+•	 Understanding of their needs 
+helps in determining product 
+quality & pricing
+•	 Product innovation and 
+development is guided by 
+customer requirements
+•	 Reduction in environmental 
+and social impacts of 
+products to help customers 
+meet their Sustainability 
+Goals
+STATUTORY REPORTS
+289
+HINDUSTAN ZINC LIMITED
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalised 
+Group  
+(Yes/No)
+Channels of Communication (Email, SMS, 
+Newspaper, Pamphlets, Advertisement, 
+Community Meetings, Notice Board, 
+Website, Others)
+Frequency of 
+engagement 
+(Annually/Half 
+yearly/Quarterly/
+others – please 
+specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Suppliers
+No
+•	 Contract negotiations, supplier code of 
+conduct, policies & standards
+•	 Regular supplier meetings, physical 
+workshops at site location
+•	 Vendor due diligence and pre-
+qualification meetings
+•	 On-site quality audits of critical suppliers
+•	 Supplier sustainability desktop 
+assessment
+•	 Vendor grievance mechanism portal for 
+speedy resolution of supplier query
+•	 Physical meetings, webinars for supplier 
+engagement
+•	 Tracking of suggestions from business 
+partners for possible implementation
+•	 Ongoing/
+Need basis
+•	 Critical to ensure operational 
+efficiency through timely 
+supplies & logistical 
+efficiency
+•	 Vital to our goals of 
+sustainability and 
+responsible sourcing
+•	 Safety of workers and 
+workplace
+Communities
+Yes
+•	 CSR initiatives & interventions
+•	 Robust grievance mechanism 
+through strategic Social Performance 
+Committees
+•	 Leadership community connect
+•	 Community meetings
+•	 Impact assessment survey as well as 
+perception studies
+•	 Communication via newsletters, leaflets, 
+social, print and electronic media, etc.
+•	 Ongoing/
+Need basis
+•	 Community engagement 
+leads to understanding 
+of vital social aspects for 
+sustainable development of 
+community also resulting in 
+overall business growth and 
+sustainability as well
+•	 To have focussed approach 
+towards improving economic 
+well-being and quality of life 
+of the community
+•	 Reduction in environmental 
+and social impacts that may 
+affect communities
+•	 During such discussions, 
+initiatives leading to overall 
+community growth and 
+development are taken up 
+and basis the same strategy 
+to implement such initiatives 
+is designed
+290
+INTEGRATED ANNUAL REPORT FY 2022-23
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalised 
+Group  
+(Yes/No)
+Channels of Communication (Email, SMS, 
+Newspaper, Pamphlets, Advertisement, 
+Community Meetings, Notice Board, 
+Website, Others)
+Frequency of 
+engagement 
+(Annually/Half 
+yearly/Quarterly/
+others – please 
+specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Government
+No
+•	 Advocacy through various Industry 
+Associations on policy matters through 
+technical representations
+•	 Advocacy through state/central mines 
+departments & MOEFCC
+•	 Regular engagement with regulators, 
+local administration, inspection bodies, 
+political leadership, etc.
+•	 Partnerships in government’s social 
+welfare programmes
+•	 Regulatory and legal compliances
+•	 Periodic/Need 
+basis
+•	 Contribution of our business 
+to nation-building through 
+taxes, royalties and 
+employment
+•	 Alignment and partnership 
+with government for 
+sustainable CSR initiatives 
+thereby creating a multiplier 
+impact by generating such 
+opportunities
+•	 Meeting the compliance 
+requirements as per the 
+statutes
+•	 Policy advocacy on subjects 
+relevant to the Company 
+in our core business of 
+exploration, mining and 
+smelting
+•	 Community engagement 
+through social & cultural 
+platforms
+Shareholders
+No
+•	 Annual General Shareholders 
+Meetings; Financial results declaration 
+(quarterly) and earnings call with senior 
+management
+•	 Investor relations events; one-on-one 
+investor meetings, investor conferences, 
+NDRs
+•	 Disclosure tools, including Annual 
+Reports, Sustainability Reports, Tax 
+Transparency Reports and Investor 
+Presentations
+•	 Complaints and grievance management
+•	 Annual, 
+Quarterly,  
+Ongoing basis
+•	 Shareholder support 
+and feedback on 
+operations provides 
+continuous guidance for 
+the management and 
+governance
+•	 Keeping communications 
+channels open with analysts 
+and investor community and 
+helps to connect them with 
+management
+•	 ESG concerns are of 
+importance to shareholders
+STATUTORY REPORTS
+291
+HINDUSTAN ZINC LIMITED
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalised 
+Group  
+(Yes/No)
+Channels of Communication (Email, SMS, 
+Newspaper, Pamphlets, Advertisement, 
+Community Meetings, Notice Board, 
+Website, Others)
+Frequency of 
+engagement 
+(Annually/Half 
+yearly/Quarterly/
+others – please 
+specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Employee 
+& Business 
+Partners 
+Employees
+No
+•	 Emails as part of the official HR 
+communication handle of Hindustan 
+Zinc, which also ensures transparency
+•	 Mentorship programmes for new hires 
+until the first 6 months of their training 
+with senior leaders
+•	 Sampark - Monthly townhall meetings 
+with the CEO
+•	 Location townhall with location heads, 
+along with constant pulse checks by HR 
+teams
+•	 Communication of behavioural, 
+motivational and many other aspects 
+through flyers in the office space e.g. 
+– promoting positive work culture, 
+camaraderie and more
+•	 Focus group discussions with a specific 
+group of employees by leaders
+•	 One-on-one discussion with managers
+•	 Grievance handling portals to raise 
+concerns
+•	 Company website for significant 
+communications
+•	 In-person gatherings with families for 
+festivals and events to improve sense 
+of belongingness, enhance positive 
+atmosphere and thus develop a healthy 
+community
+•	 Awareness of employee benefit policies 
+to employees via regular connects
+•	 Annual employee surveys, both internal 
+and external
+•	 An ongoing 
+task. We also 
+bring forward 
+need-based 
+strategic 
+interventions to 
+implement 
+required tasks
+•	 To improve employee 
+experience, monitor 
+organisational health and 
+provide a better quality of life 
+at workplace
+•	 Motivate employees to 
+perform above and beyond 
+their roles and improve the 
+levels of trust and loyalty 
+within the Company. As 
+a result, high levels of 
+engagement will lead 
+to increased employee 
+retention, performance and 
+innovation
+•	 Annual employee surveys 
+show us a clear picture of 
+how employees navigate 
+their experience and assess 
+areas of improvement
+•	 All these would make 
+employees feel energised 
+at their work and maintain 
+positive mental health, which 
+is also critical to performance 
+and driving value
+•	 Also, to help senior leadership 
+interact directly with 
+employees to understand 
+needs and requirements on 
+grassroots level
+•	 Our engagement model 
+is made to touch all the 8 
+dimensions of wellbeing 
+along with an additional 
+dimension this year, the 
+Career Wellbeing. Employee 
+engagement at Hindustan 
+Zinc also includes enhancing 
+opportunities for growth to 
+our employees, work-life 
+improvements and many 
+more
+NGOs
+No
+•	 CSR initiatives
+•	 Regular review meetings
+•	 Events at the field & community meetings
+•	 Capacity building programmes and 
+stakeholder meetings
+•	 Third party assessments
+•	 Email
+•	 Notice boards
+•	 Websites
+•	 Communication via newsletters, leaflets, 
+social, print and electronic media, etc.
+Monthly
+To onboard & engage 
+experts in the field for 
+effective implementation 
+of the CSR programmes as 
+well as to regularly discuss & 
+share updates to strengthen 
+the existing programmes 
+implemented
+292
+INTEGRATED ANNUAL REPORT FY 2022-23
+Leadership Indicators
+1.	 Provide the processes for consultation between stakeholders and the Board on economic, environmental and social 
+topics or if consultation is delegated, how is feedback from such consultations provided to the Board.
+	
+Consultation with the stakeholders is a continuous process. It is led by leadership from the front through regular 
+engagements at various platforms. Each of our units are having their stakeholder engagement plan and unit heads are 
+responsible for regular engagement with various relevant stakeholders, based on feedback various interactions are 
+being planned with CEO and outcome of these interactions are being presented to the Board by CEO during the quarterly 
+the Board meetings.
+	
+There is continuous dialogue with the community stakeholders which are reviewed at business unit levels at our 
+Social Performance Committee Meetings and at the CSR Committee level. Also, every three years through the third-
+party engagement, impact, baseline and need assessment, feedback from the stakeholders is taken and same is being 
+presented to Board CSR Committee.
+	
+We have established the Board-level ESG and Sustainability Committee. Periodic review of the Company's stakeholder 
+base and their material interests is the part of roles and responsibility of the Board. During the year in consultation with 
+stakeholders, we have reassessed our material issues.
+	
+On an annual basis, shareholders through Annual General Meeting platform gets an opportunity to interact with all 
+the Board members.
+2.	 Whether stakeholder consultation is used to support the identification and management of environmental and social 
+topics (Yes/No)? If so, provide details of instances as to how the inputs received from stakeholders on these topics 
+were incorporated into policies and activities of the entity.
+	
+Yes, during the materiality assessment, we identify the material topics and take the various initiatives to mitigate the risk 
+due to those issues and to maintain healthy relationships with our stakeholders. Material topics were shortlisted and 
+prioritised based on their impact on our stakeholders and our business. We ensure that we take inputs received from 
+stakeholders and integrate them into our processes and policies. We have framed our Sustainability Goals 2025 on 
+material topics from our stakeholder consultations. We also take stakeholder’s input through public consultation prior to 
+establishing any greenfield/brownfield projects.
+3.	 Provide details of instances of engagement with and actions taken to, address the concerns of vulnerable/marginalised 
+stakeholder groups.
+	
+The Company identifies the disadvantaged, vulnerable and marginalised stakeholders on an ongoing basis. A 
+comprehensive stakeholder management and grievance mechanism exist at all our locations.
+	
+Please refer to the CSR section on page no. 142 of our Integrated Annual Report FY 2022-23 for more details.
+BUSINESSES SHOULD RESPECT AND PROMOTE HUMAN RIGHTS
+PRINCIPLE 5
+Essential Indicators
+1.	 Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the 
+following format: 
+Category
+FY 2022-23
+FY 2021-22
+Total (A)
+No. of employees/
+workers covered (B)
+% (B/A)
+Total (C)
+No. of employees/
+workers covered (D)
+% (D/C)
+Employees
+Permanent
+2,566
+2,277
+89%
+2,487
+1,975
+79%
+Other - permanent
+9
+5
+56%
+Total Employees
+2,575
+2,282
+89%
+2,487
+1,975
+79%
+Workers*
+Permanent
+-
+-
+-
+-
+-
+-
+Other - permanent
+878
+878
+100%
+880
+878
+99.77%
+Total Workers
+878
+878
+100%
+880
+878
+99.77%
+	
+* All Security personnel are accounted here
+STATUTORY REPORTS
+293
+HINDUSTAN ZINC LIMITED
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING
+2.	 Details of minimum wages paid to employees and workers, in the following format:
+Category
+FY 2022-23
+FY 2021-22
+Total (A)
+Equal Minimum 
+Wage
+More than 
+Minimum Wage
+Total (D)
+Equal Minimum 
+Wage
+More than Minimum 
+Wage
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Permanent
+2,566
+-
+-
+2,566 
+100%
+2,479
+-
+2,479
+100%
+Male
+2,067
+-
+-
+2,067
+100%
+2,089
+-
+2,089
+100%
+Female
+499
+-
+-
+499
+100%
+390
+-
+390
+100%
+Other than 
+Permanent
+9
+-
+-
+9
+100%
+8
+-
+8
+100%
+Male
+7
+-
+-
+7
+100%
+7
+-
+7
+100%
+Female
+2
+-
+-
+2
+100%
+1
+-
+1
+100%
+Workers
+Permanent
+897
+-
+-
+897
+100%
+1013
+-
+1,013
+100%
+Male
+879
+-
+-
+879
+100%
+992
+-
+992
+100%
+Female
+18
+-
+-
+18 
+100%
+21
+-
+21
+100%
+Other than 
+Permanent
+19,724
+-
+-
+19,724
+100%
+19,414
+-
+19,414
+100%
+Male
+19,490
+-
+-
+19,490
+100%
+19,228
+-
+19,228
+100%
+Female
+234
+-
+-
+234 
+100%
+186
+-
+186
+100%
+3.	 Details of remuneration/salary/wages, in the following format:
+Male
+Female
+Number
+Median remuneration/salary/
+wages of respective category
+Number
+Median remuneration/salary/
+wages of respective category
+Board of Directors (BoD) 
+(Whole-time Directors)
+1
+` 947.5 Lakhs
+0
+0
+Key Managerial Personnel
+2
+` 194.8 Lakhs
+0
+0
+Employees other than BoD 
+and KMP
+1,772
+` 14.7 Lakhs
+331
+` 9.6 Lakhs
+Workers
+878
+` 22.5 Lakhs
+18
+` 16.9 Lakhs
+4.	 Do you have a focal point (individual/committee) responsible for addressing human rights impacts or issues caused 
+or contributed to by the business? (Yes/No)
+	
+Yes. The Company has Internal Complaints Committee to address the issues relating to human rights impacts or issues 
+caused or contributed to by the business. Upholding employees fundamental rights is at the heart of Company’s 
+business operations.
+5.	 Describe the internal mechanisms in place to redress grievances related to human rights issues.
+	
+The Company considers human rights as one of its fundamental and core values and strives to support, protect and 
+promote human rights to ensure that fair and ethical business and employment practices are followed. Hindustan Zinc has 
+defined a technical standard (TS-04) for handling all types of grievances including the grievances related to human rights.
+	
+Every unit has a Grievance Redressal Committee and a grievances handling procedure is defined at all units wherein 
+any employee/worker/stakeholders can register any kind of grievance. The grievance can be captured through various 
+means. Also, grievance boxes are available at conspicuous places where the person can post their grievance and the 
+Committee takes it up as per the procedure.
+	
+Company has the whistle blower policy in place and aims to protect the confidentiality and anonymity of the complainant 
+to the fullest extent possible with an objective to conduct an adequate review and consequence.
+	
+Company respects the dignity of all employees working for the Company irrespective of their gender or hierarchy and 
+expect responsible conduct and behaviour on the part of all employees at all levels. Providing for a safe and congenial 
+work environment to all employees is an integral part of the Company’s employment policy.
+294
+INTEGRATED ANNUAL REPORT FY 2022-23
+6.	 Number of complaints on the following made by employees and workers:
+FY 2022-23
+FY 2021-22
+Filed 
+during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Filed 
+during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Sexual Harassment
+5
+0
+-
+1
+0
+-
+Discrimination	at Workplace
+0
+0
+-
+0
+0
+-
+Child Labour
+0
+0
+-
+0
+0
+-
+Forced Labour/Involuntary Labour
+0
+0
+-
+0
+0
+-
+Wages
+0
+0
+-
+0
+0
+-
+Other Human Rights related issues
+0
+0
+-
+0
+0
+-
+7.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment case:
+	
+The Company is committed to providing equal opportunities to all individuals and is intolerant towards discrimination 
+and/or harassment based on race, religion, colour, age, sexual orientation, national origin, gender identification, political 
+affiliation and political beliefs, minority or vulnerable groups.
+	
+The Company has adopted Diversity & Inclusion Policy and the objective of the policy is to ensure that the Company 
+continues to be an employer for all diversity groups to create and foster an open culture of inclusion for all its stakeholders; 
+and to create an environment, which has zero tolerance for discrimination.
+	
+Company also has a policy on prevention, prohibition and redressal of sexual harassment of women at the workplace 
+and has an Internal Complaints Committee (ICC) in compliance with the Sexual Harassment of Women at Workplace 
+(Prevention, Prohibition and Redressal) Act, 2013. Members of the Corporation’s ICC are responsible for conducting 
+enquiries pertaining to such complaints.
+	
+Hindustan Zinc follows several mechanisms to prevent adverse consequences to the complainant in discrimination and 
+harassment cases:
+	
+•	
+Confidentiality: Keeping the complaint and its details confidential helps to protect the complainant’s privacy and 
+prevent retaliation. The organisation ensures protection of aggrieved women by taking appropriate steps such as 
+change of workplace or leaves, etc. as prescribed by the law.
+	
+•	
+Non-retaliation policy: At Hindustan Zinc, Human Rights Policy and Prevention of Sexual Harrassment Policy is 
+established to ensure the prohibition of retaliation against an employee who reports discrimination or harassment.
+	
+•	
+Investigation: An investigation conducted to determine whether the complaint has merit and to identify any witnesses 
+or evidence to support the complaint.
+	
+•	
+Remedial actions: If the investigation finds that discrimination or harassment has occurred, remedial actions are 
+taken to address the situation. It includes disciplinary action against the perpetrator, training to employees and 
+managers and change/amendment/modification in policies and procedures.
+	
+•	
+Support and counselling: Support and counselling to the complainant to help them to cope with the emotional 
+impact of the situation.
+8.	 Do human rights requirements form part of your business agreements and contracts?
+	
+(Yes/No)
+	
+Yes, Human Rights forms the part of the business agreements.
+	
+1.	
+Onboarding/selection – Applicable certificates, MSA compliance, Labour Laws including statutory requirements 
+such as child labour, forced and compulsory labour are asked during onboarding of suppliers
+	
+2.	
+ESG expectations – An ESG expectations document is floated to vendors stating Company's expectations which is a 
+self-declaration from vendors and a part of the contracting document
+	
+3.	
+Company’s code of conduct is also accepted by the vendors and signed as a part of the contract
+	
+4.	
+Due diligence – Desktop assessment and on-site assessment of vendors is done for risk mapping of selected existing 
+vendors by a third party appointed for the same
+STATUTORY REPORTS
+295
+HINDUSTAN ZINC LIMITED
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING
+9.	 Assessments for the year:
+	
+During the year we conducted an extensive assessment on our current readiness and compliance in human rights rules 
+and policies across the Company. Conducted the assessment in respective locations for:
+	
+A.	 Identifying the risk areas
+	
+B.	 Formulating the mitigation plan for those highlighted areas
+	
+We used the Global Compact Self-Assessment Tool. Developed by the Danish Institute for Human Rights, the 
+Confederation of Danish Industries, the Ministry of Economic and Business Affairs and the Danish Investment Fund 
+for Developing Countries – the tool gives an assessment of our performance against 5 key categories – Management, 
+Human Rights, Labour, Environment and Anti-corruption.
+% of your plants and offices that were assessed  
+(by entity or statutory authorities or third parties)
+Child labour
+100%
+Forced/involuntary labour 
+100% 
+Sexual harassment 
+100% 
+Discrimination at workplace 
+100% 
+Wages 
+-
+Others – please specify 
+-
+10	 Provide details of any corrective actions taken or underway to address significant risks/concerns arising from the 
+assessments at question 9 above.
+	
+Appropriate actions taken under the purview of law and Company cases in case of Sexual Harassment
+Leadership Indicators
+1.	
+Details of a business process being modified/introduced as a result of addressing human rights grievances/complaints:
+	
+No complaints were received during the reporting year except five cases of sexual harassment which is resolved. The 
+Company is of the belief that it has upheld the basic principles of human rights in all its dealings. The Company regularly 
+creates awareness among its employees on the Code of Conduct through various training programmes as well.
+	
+Hindustan Zinc follows several mechanisms to address Human rights grievances/complaints, it includes:
+	
+•	
+Due diligence processes: Hindustan Zinc complied Human Rights Due Diligence to identify and assess potential 
+human rights risks in its operations and supply chains. It involves mapping of its supply chains, engagement with 
+stakeholders and risk assessments to identify and address human rights grievances.
+	
+•	
+Complaints mechanisms: To address human rights grievances, complaints mechanisms are in place that allow 
+stakeholders to report grievances and provide feedback and the complaints are reviewed by Grievance Committee 
+on periodic basis.
+	
+•	
+Supplier management: Hindustan Zinc also ensures compliance of human rights issues at suppliers/vendor. To 
+ensure this, supplier has to follow compliance of Hindustan Zinc codes of conduct, periodic audits are also conducted 
+to ensure that suppliers are meeting human rights standards.
+	
+•	
+Human rights policies: At Hindustan Zinc, Human Rights policy is developed to ensure its commitment to respecting 
+human rights and providing guidance to employees on how to identify and address human rights risks.
+	
+•	
+Training and awareness: To ensure that employees understand the importance of human rights and how to 
+address grievances at Hindustan Zinc, training and awareness programmes are conducted for employees/workers, 
+stakeholders on human right issues.
+	
+•	
+Collaboration and engagement: Hindustan Zinc also has collaboration with stakeholders, including NGOs, civil 
+society organisations and human rights experts, to identify and address human rights risks and grievances.
+2.	 Details of the scope and coverage of any human rights due-diligence conducted:
+	
+We encourage suppliers/business partners/joint ventures to adopt principles and practices comparable to our own. Our 
+due diligence process covers own operations, joint ventures and activities related to our business. It is undertaken 
+through inductions, screenings, inspections and audits. For any of our new projects or significant changes to existing 
+operations, human rights at Hindustan Zinc, upholding people’s fundamental rights is central in our everyday business 
+operations. At a minimum, the Company will comply with all applicable local, state and national laws regarding human 
+rights and workers’ rights where the Company does business. All our businesses are compliant with applicable regulations, 
+strive to uphold all labour rights and are aligned with national and international regulations. The clauses of the Code of 
+296
+INTEGRATED ANNUAL REPORT FY 2022-23
+Conduct are extended to all business partners. All units are required to evaluate human rights aspects covering forced 
+and compulsory labour, child labour, slavery, human trafficking, freedom of association or collective bargaining, etc., 
+into their assessments (through social impact assessments). Our significant suppliers and contractors generally include 
+well-reputed and well-governed organisations, with robust human rights and fair practice mechanisms. Human rights are 
+an important part of the supplier onboarding process and all suppliers are required to commit to our Supplier Code of 
+Conduct, which includes human rights provisions. We also conduct basic due diligence in the pre-qualification process, 
+including for human rights issues, on all direct suppliers before contracting with them. We track human rights compliance 
+at every step of any activity – right from document verification at registration, to screening and inspections for vendors/
+suppliers. Any concerns identified during the due diligence process are addressed through corrective and preventive 
+action planning. Further, any concerns raised by interested parties on any of our key suppliers are promptly addressed 
+by undertaking an independent assessment.
+3.	 Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of 
+Persons with Disabilities Act, 2016?
+	
+The office of the Company has ramps for easy movement of differently abled visitors. All the offices have infrastructure 
+for differently abled visitors.
+	
+• 	
+Inclusive infrastructure facilities are available at our premises. Few of them are:
+	
+	
+o	
+Elevators with braille inscribed for person with visual impairment
+	
+	
+o	
+Ramp for mobility impaired person with disability
+	
+	
+o	
+Touchless entry for person with disability
+	
+•	
+Text to speech software for visually impaired
+	
+•	
+Training on Indian sign language to employees to assist them in communication with deaf & mute
+	
+•	
+Wheelchair accessible restrooms are available in the office at the ground floor
+4.	 Details on assessment of value chain partners: 
+% of value chain partners (by value of business 
+done with such partners) that were assessed
+Sexual Harassment
+70.45% of total supplies by value (total 235 nos. 
+suppliers) have been assessed by a third party for 
+sustainable sourcing and ESG criteria
+Discrimination at Workplace
+Child Labour
+Forced Labour/Involuntary Labour Wages
+Others – Please Specify
+5.	 Provide details of any corrective actions taken or underway to address significant risks/concerns arising from the 
+assessments at question 4 above.
+	
+During the assessment, we have not identified any of such risks in our vendors.
+BUSINESSES SHOULD RESPECT AND MAKE EFFORTS TO PROTECT AND RESTORE 
+THE ENVIRONMENT
+PRINCIPLE 6
+Essential Indicators
+1.	 Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+Total electricity consumption (A)
+6,211,728 GJ
+2,271,856 GJ
+Total fuel consumption (B)
+35,568,909 GJ
+43,582,451 GJ
+Energy consumption through other sources (C)
+1,056,581 GJ
+1,044,886 GJ
+Total energy consumption (A+B+C)
+42,837,219 GJ
+46,899,193 GJ
+Energy intensity per rupee of turnover (Total energy 
+consumption/turnover in rupees)
+0.000126 
+0.000159
+Energy intensity (optional) – the relevant metric may be selected 
+by the entity (Total energy consumption/tonne of metal)
+41.53
+48.46
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+Yes, assurance activity has been carried out by Ernst and Young (E&Y).
+STATUTORY REPORTS
+297
+HINDUSTAN ZINC LIMITED
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING
+2.	 Does the entity have any sites/facilities identified as designated consumers (DCs) under the Performance, Achieve 
+and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme 
+have been achieved. In case targets have not been achieved, provide the remedial action taken, if any.
+	
+Zinc and mining sector were incorporated under PAT scheme through the gazette notification by Ministry of Power on 
+“Notification for New Energy Intensive Sectors under PAT Scheme” vide dated January 03, 2022. The targets are yet 
+to be assigned.
+3.	 Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+Water withdrawal by source (in kilolitres)
+(i)	
+Surface water
+14,226,150
+13,728,928
+(ii)	
+Groundwater
+ 3,870,510
+3,048,092
+(iii)	 Third party water
+8,570,662
+9,522,980
+(iv)	 Seawater/desalinated water
+-
+-
+(v)	
+Others
+-
+-
+Total volume of water withdrawal
+(in kilolitres) (i + ii + iii + iv + v)
+26,667,322
+26,300,000
+Total volume of water consumption (in kilolitres)
+ 25,457,583
+24,701,063
+Water intensity per rupee of turnover (Water consumed/
+turnover)
+0.0000747
+0.0000839
+Water intensity (optional) – the relevant metric may be selected 
+by the entity (Water consumed/tonne of metal)
+24.67
+25.52
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+Yes, assurance activity has been carried out by Ernst and Young (E&Y).
+4.	 Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation.
+	
+Yes, all our units are maintaining zero discharge. Effluent generated at our smelters is treated in Effluent Treatment Plant 
+(ETP) followed by two stages RO plant. The treated effluents conform to the prescribed standards and recycled in the 
+process. Further, to strengthen Zero Liquid Discharge (ZLD) and improved water recovery using upgraded technology by 
+installation of Multiple Effect Evaporator (MEE)/Mechanical Vapour Recompression (MVR).
+5.	 Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Unit
+FY 2022-23
+FY 2021-22
+NOx
+MT
+4,851
+6,145
+SOx
+MT
+17,247
+22,006
+Particulate matter (PM)
+MT
+1,048
+963
+Persistent organic pollutants (POP)
+-
+-
+-
+Volatile organic compounds (VOC)
+-
+-
+-
+Hazardous air pollutants (HAP)
+-
+-
+-
+Others – please specify
+-
+-
+-
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+Yes, assurance activity has been carried out by Ernst and Young (E&Y).
+298
+INTEGRATED ANNUAL REPORT FY 2022-23
+6.	 Provide details of greenhouse gas emissions (scope 1 and scope 2 emissions) & its intensity, in the following format:
+Parameter
+Unit
+FY 2022-23
+FY 2021-22
+Total Scope 1 emissions (Break-up of the 
+GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, 
+NF3, if available)
+MT of CO2 
+equivalent
+3,444,672
+4,320,181
+Total Scope 2 emissions (Break-up of the 
+GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, 
+NF3, if available)
+MT of CO2 
+equivalent
+1,135,622
+491,403
+Total Scope 1 and Scope 2 emissions per 
+rupee of turnover
+0.0000134
+0.0000163
+Total Scope 1 and Scope 2 emission 
+intensity (optional)– the relevant metric 
+may be selected by the entity (Scope1+2 
+emissions/tonne of metal)
+4.44
+4.97
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+Yes, assurance activity has been carried out by Ernst and Young (E&Y).
+7.	
+Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details.
+	
+Company’s Efforts towards Decarbonisation are as under:
+	
+•	
+We have set a long-term target to reach net-zero emission by 2050, in line with the Business Ambition for 1.5° C 
+campaign led by the Science Based Targets initiative. We have an interim target to reduce our GHG Emissions by 14% 
+by 2026
+	
+•	
+We have conducted a climate change risk assessment – aligned with TCFD guidelines for all of our sites to identify 
+potential risks and accordingly implement adaptation and mitigation plans
+	
+•	
+Company has signed the power delivery agreement for 200 MW & 250 MW, this will help the Company to move 
+towards green energy
+	
+•	
+Moreover, we have initiated a process to convert all our mining equipment to battery-operated electric vehicles (EVs) 
+in a phased manner 
+	
+•	
+We have signed a memorandum of understanding with global manufacturers to introduce battery-powered service 
+equipment, frontline fleet and utility vehicles in underground mining
+	
+•	
+In order to make our system more energy-efficient, turbine revamping, cell house efficiency improvement, VFD 
+installation, etc. are few such projects
+	
+•	
+We have initiated biomass utilisation in our captive power plants as substitute to coal and used 71,176 MT 
+during the year
+	
+•	
+All Units are certified to ISO 50001 Energy Management System
+	
+For more details, please refer to the Environment chapter on page no. 132 of Integrated Annual Report FY 2022-23.
+STATUTORY REPORTS
+299
+HINDUSTAN ZINC LIMITED
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING
+8.	 Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+Total Waste Generated  (in MT)
+Plastic waste (A)
+37.80
+34.48
+E-waste (B)
+48.4
+37.4
+Bio-medical waste (C)
+1.26
+1.22
+Construction and demolition waste (D)
+ 28
+14
+Battery waste (E)
+189.9
+70
+Radioactive waste (F)
+-
+-
+Other Hazardous waste. Please specify, if any. (G) (other than 
+above mentioned Hazardous Waste)
+ETP Sludge, Purification Cake, Anode Mud, Cooler cake, 
+dross, etc.
+116,836.6
+106,553
+Other Non-hazardous waste generated (H). Please specify, if 
+any. (Excluding plastic waste, construction waste) Jarosite, 
+Overburden, Tailings
+20,961,131.70
+19,748,668
+Total (A + B + C + D + E + F + G + H)
+21,078,273.66
+19,855,378
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery 
+operations (in MT)
+Category of waste
+(i)	
+Recycled
+681,382
+634,339
+(ii)	
+Re-used
+5,856,896
+5,542,340
+(iii)	 Other recovery operations
+-
+-
+Total
+6,538,277
+6,176,679
+For each category of waste generated, total waste disposed by nature of disposal method (in MT)
+Category of waste
+(i)	
+Incineration
+-
+-
+(ii)	
+Landfilling
+-
+-
+(iii)	 Other disposal operations
+13,535,451.74
+14,038,281
+Total
+13,535,451.74
+14,038,281
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+Yes, assurance activity has been carried out by Ernst and Young (E&Y).
+9.	 Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by 
+the Company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices 
+adopted to manage such wastes.
+	
+We have in place a Resource Use and Waste Management Technical Standard and the supporting guidance notes which 
+augment us to mitigate the environmental impacts of our products and process. The Company believes in Zero Waste 
+and has aligned waste management practices to ‘4-R Policy” Reduce, Reuse, Recycle and Reclaim in our operations. 
+Company is taking various initiatives and has adopted state-of-the-art technologies to reduce the waste generation, 
+reuse of waste, recovery, of metal from waste and disposal of remaining waste in environmentally sound manner. With 
+the commissioning of Fumer plant, there will be complete elimination of Jarosite generation from one of the Hydro Zinc 
+Smelter and generated slag will be 100% utilised in cement industries, for effective metal recovery, a second ancillary 
+plant commissioned for treatment of process residues at Chanderiya Lead-Zinc Smelter; a project to recover sodium 
+sulphate crystal from RO Reject commissioned at Dariba Zinc Smelter; gainfully utilised waste such as Jarosite, Jarofix, 
+slag and fly ash in cement manufacturing and road construction, also tailings used in back-filling voids in mines through 
+Paste fill/Hydrofill.
+300
+INTEGRATED ANNUAL REPORT FY 2022-23
+10.	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones, etc.) where environmental 
+approvals/clearances are required, please specify details in the following format:
+	
+There is no Ecological sensitive area like Protected Areas, National Parks, Wildlife Sanctuaries, Bio-Sphere Reserves, 
+Wild-Life Corridors, etc. situated in core/buffer zone (10 km area) of any of the operating site.
+S.
+No.
+Location of 
+operations/offices
+Type of
+operations
+Whether the conditions of environmental approval/
+clearance are being complied with? (Y/N) If no, the reasons 
+thereof and corrective action taken, if any
+Not applicable
+11.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the 
+current financial year:
+Name and brief details of project
+EIA
+Notification 
+No.
+Date
+Whether 
+conducted by 
+independent 
+external 
+agency
+(Yes/No)
+Results 
+communicated 
+in public 
+domain
+(Yes/No)
+Relevant Web link
+Expansion in Existing CLZS Complex 
+[Expansion in Hydro Smelter Unit 
+by adding 1 Induction Furnace, 1 
+Slab Casting Line & Integration of 
+RZO Unit in Hydro-II, Change in 
+Product Mix in Pyro Unit on total 
+metal basis and Installation of 1 Lead 
+Refinery, Expansion of CPP through 
+Modernisation, Recovery of Minor 
+Metals & Installation 4 DG Sets] at 
+village: Putholi, Ajoliya Ka Khera & 
+Biliya, Tehsil: Gangrar & Chittorgarh, 
+District: Chittorgarh (Rajasthan)
+S.O. 1533 
+(E)
+September 
+14, 2006
+Yes
+Yes Public 
+hearing held 
+on: July 20, 
+2022
+https://environment 
+clearance.nic.in/ 
+onlinesearchnewrk. 
+aspx?autoid=44182& 
+proposal_no=IA/RJ/ 
+IND1/408023/2022& 
+typep=EC
+12.	 Is the entity compliant with the applicable environmental law/regulations/guidelines in India; such as the water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment Protection Act 
+and rules thereunder (Y/N). If not, provide details of all such non-compliances, in the following format:
+S. 
+No.
+Specify the law/regulation/
+guidelines which was not 
+complied with
+Provide details 
+of the non- 
+compliance
+Any fines/penalties/action taken by 
+regulatory agencies such as pollution 
+control Boards or by courts
+Corrective action 
+taken, if any
+Nil
+Leadership Indicators
+1.	 Provide break-up of the total energy consumed (in Joules or multiples) from renewable and non-renewable sources, 
+in the following format:
+Parameter
+FY 2022-23
+ (in GJ)
+FY 2021-22
+ (in GJ)
+From renewable sources
+Total electricity consumption (A)
+1,212,105
+1,044,886
+Total fuel consumption (B)
+930,739
+201,779
+Energy consumption through other sources (C)
+-
+-
+Total energy consumed from renewable sources (A+B+C)
+2,142,844
+1,246,665
+From non-renewable sources
+Total electricity consumption (D)
+6,056,204
+2,271,856
+Total fuel consumption (E)
+34,638,170
+43,380,672
+Energy consumption through other sources (F)
+-
+-
+Total energy consumed from non-renewable sources (D+E+F)
+40,694,374
+45,652,528
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+Yes, assurance activity has been carried out by Ernst and Young (E&Y).
+STATUTORY REPORTS
+301
+HINDUSTAN ZINC LIMITED
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING
+2.	 Provide the following details related to water discharged:
+	
+Not applicable as we are maintaining zero liquid discharge across all sites.
+Parameter
+FY 2022-23
+FY 2021-22
+Water discharge by destination and level of treatment (in kilolitres)
+(i)	
+To Surface water
+Nil
+Nil
+	
+-	
+No treatment
+	
+-	
+With treatment – please specify level of treatment
+(ii)	
+To Groundwater
+-
+-
+	
+-	
+No treatment
+	
+-	
+With treatment – please specify level of treatment
+(iii)	 To Seawater
+-
+-
+	
+-	
+No treatment
+	
+-	
+With treatment – please specify level of treatment
+(iv)	 Sent to third-parties
+-
+-
+	
+-	
+No treatment
+	
+-	
+With treatment – please specify level of treatment
+(v)	
+Others
+-
+-
+	
+-	
+No treatment
+	
+-	
+With treatment – please specify level of treatment
+Total water discharged (in kilolitres)
+-
+-
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+Yes, assurance activity has been carried out by Ernst and Young (E&Y).
+3.	 Water withdrawal, consumption and discharge in areas of water stress (in kilolitres):
+	
+For each facility/plant located in areas of water stress, provide the following information:
+	
+(i)	 Name of the area – Rampura Agucha Mine, Kayad Mine, Sindesar Khurd Mine, Rajpura Dariba Mine, Zawar Mine, 
+Dariba Smelter Complex, Chanderiya Smelting Complex, Debari Smelter Complex
+	
+(ii)	 Nature of operations – Except for the refining plant in Pantnagar, Uttarakhand, all our mining and smelting operations 
+are in the state of Rajasthan. All our sites, which contribute to about 99% of all our water withdrawals are in the state 
+of Rajasthan which falls under water-stressed region as per the WRI’s Aqueduct Country level water risk atlas
+	
+(iii)	 Water withdrawal, consumption and discharge in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+Water withdrawal by source (in kilolitres)
+(i)	
+Surface water
+14,211,922
+13,705,762
+(ii)	
+Groundwater
+3,830,702
+3,016,201.5
+(iii)	 Third party water (Treated sewage water)
+8,570,662
+9,522,980
+(iv)	 Seawater/desalinated water
+-
+-
+(v)	
+Others
+-
+-
+Total volume of water withdrawal (in kilolitres)
+26,613,286
+26,244,943
+Total volume of water consumption (in kilolitres)*
+25,405,113
+24,646,227
+Water intensity per rupee of turnover  
+(Water consumed/turnover)
+0.0000745
+0.000837
+Water intensity (optional) – the relevant metric may be 
+selected by the entity (Water consumed/finished good (MT))
+24.62
+25.46
+*Water used in Community Township and CSR Activities is not included in consumption
+302
+INTEGRATED ANNUAL REPORT FY 2022-23
+Parameter
+FY 2022-23
+FY 2021-22
+Water discharge by destination and level of treatment (in kilolitres)
+(i)	
+Into Surface water
+0
+Nil
+	
+-	
+No treatment
+NA
+NA
+	
+-	
+With treatment – please specify level of treatment
+NA
+NA
+(ii)	
+Into Groundwater
+0
+0
+	
+-	
+No treatment
+NA
+NA
+	
+-	
+With treatment – please specify level of treatment
+NA
+NA
+(iii)	 Into Seawater
+0
+0
+	
+-	
+No treatment
+NA
+NA
+	
+-	
+With treatment – please specify level of treatment
+NA
+NA
+(iv)	 Sent to third-parties
+0
+0
+	
+-	
+No treatment
+NA
+NA
+	
+-	
+With treatment – please specify level of treatment
+NA
+NA
+(v)	
+Others
+0
+0
+	
+-	
+No treatment
+NA
+NA
+	
+-	
+With treatment – please specify level of treatment
+NA
+NA
+Total water discharged (in kilolitres)
+0
+0
+	
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+	
+Yes, assurance activity has been carried out by Ernst and Young (E&Y).
+4.	 Please provide details of total scope 3 emissions and its intensity, in the following format:
+Parameter
+Unit
+FY 2022-23
+FY 2021-22
+Total Scope 3 emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+MT of CO2  
+equivalent
+4,162,188
+4,012,094
+Total Scope 3 emissions per rupee of turnover
+0.0000122
+0.0000136
+Total Scope 3 emission intensity (optional) – the relevant 
+metric may be selected by the entity (Total scope 3/tonne  
+of metal)
+4.03
+4.15
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+Yes, assurance activity has been carried out by Ernst and Young (E&Y).
+5.	 With respect to the ecologically sensitive areas reported at Question 10 of essential Indicators above, provide 
+details of significant direct & indirect impact of the entity on biodiversity in such areas along with prevention and 
+remediation activities.
+	
+There is no Ecological sensitive area like Protected Areas, National Parks, Wildlife Sanctuaries, Biosphere Reserves, 
+Wild-Life corridors, etc. situated in core/buffer zone (10 km area) of any of the operating site.
+STATUTORY REPORTS
+303
+HINDUSTAN ZINC LIMITED
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING
+6.	 If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource 
+efficiency, or reduce impact due to emissions/effluent discharge/waste generated, please provide details of the same 
+as well as outcome of such initiatives, as per the following format:
+S. 
+No.
+Initiative 
+undertaken
+Details of the initiative (Web-link, if any, may be provided 
+along with summary)
+Outcome of the initiative
+1
+STP at 
+Udaipur
+Company commissioned a 20 MLD STP in Udaipur in 2014 
+under a public-private partnership, which is the first of its 
+kind in Rajasthan. Further, Hindustan Zinc and Udaipur 
+Smart City Limited signed an agreement in June 2017 to 
+extend the sewage treatment capacity by another 40 MLD.
+25 MLD has been commissioned in January 2019. Another 
+15 MLD commissioned in FY 2020-21 taking the total to  
+60 MLD.
+The replacement of fresh water for 
+operations by STP treated water has 
+led to increased availability of fresh 
+water for the community.
+Nearly 36% of total water withdrawal 
+was satisfied with treated sewage.
+2
+Dry Tailing 
+Plant
+India’s first Dry Tailing Plant was set up at the Zawar 
+Mines in Rajasthan. The dry tailing technology is based on 
+separating water from tailings slurry, which is generated 
+in the beneficiation process. Company repurposes tailings 
+materials and waste rock as backfill to stabilise our 
+underground mining operations, while the remaining tailings 
+are then placed in a specially-designed tailings storage to 
+minimise the environmental, social and economic risks.
+We externally review the integrity/stability of our dam 
+structures and their associated management practices by 
+global experts.
+Key benefits of the dry tailing 
+technology include recirculation 
+of more than 80% of the process 
+water present in tailings, a faster 
+rehabilitation and restoration of 
+storage site at mine closure and 
+ensuring re-availability of water for 
+further use.
+3
+Rainwater 
+Harvesting 
+Structure
+Company executed groundwater recharge intervention 
+project across Hurda, Shahpura, Kotri and Jahazpur blocks 
+of Bhilwara district. We were able to complete the desilting 
+of ponds, repairing, strengthening and increasing the 
+height of damaged embankments and construction of 358 
+recharge shafts for effective groundwater recharge, in 83 
+ponds.
+>8.7 MCM/annum total groundwater 
+recharge potential created.
+4
+Paste fill
+Instead of conventional hydraulic filling, Company chose 
+to use the paste fill technology. This technology ensured 
+fast filling and practically no bleeding water in the stopes. 
+The other benefits of paste fill technology have been water 
+conservation, better stope stability, surface integrity in 
+mines and more recycling of tailings.
+•	 Metal recovery from secondary 
+stopes
+•	 It reduces cement consumptions 
+with increase in uses of fly ash
+•	 It reduces water consumption as 
+paste solids content is high (77-
+79% solids)
+•	 Nearly, 39% of tailings used 
+in paste fill plant and this also 
+helped in improving the stability 
+of tailing dam
+5
+Ancillary 
+Plant
+It treats residues produced during smelting process leading 
+to in-house production of few key consumables and by-
+products, in collaboration with the Company’s central R&D 
+team. Few projects were successfully executed including 
+production of copper sulphate and zinc sulphate from PF 
+cake as well as production of potassium antimony tartrate 
+from antimony dust.
+•	 It treats different kinds of 
+residues, namely copper dross, 
+purification waste cake, antimony 
+dust/slag and raw zinc oxide
+•	 This has also enabled in 
+improvement of metal recoveries 
+of lead, copper and silver
+304
+INTEGRATED ANNUAL REPORT FY 2022-23
+S. 
+No.
+Initiative 
+undertaken
+Details of the initiative (Web-link, if any, may be provided 
+along with summary)
+Outcome of the initiative
+6
+Jarofix Yard 
+Restoration
+Company follows the principle of reducing the waste, 
+quantitatively as well as qualitatively and performing 
+recovery and recycle. The last priority is disposal in landfills. 
+Company used Mycorrhiza technology for rejuvenation and 
+reclamation of wasteland into productive land by increasing 
+the green cover, enhance biodiversity and control fugitive 
+dust emission and restoring site. It also makes plants less 
+vulnerable to environmental stresses and by optimum use of 
+water resources.
+Development of green belt in an 
+area of 6.25 Hectare (10,000 plants).
+Provides overall stability to waste 
+dump and dump failure due to 
+heavy rains – ensuring safe and 
+stable dump.
+7
+Solar Plant
+Company has installed 40.42 MW of solar power project  
+by utilising its waste lands without disturbing any  
+productive land.
+40.42 MW of renewable power 
+capacity
+8
+Resource 
+Efficiency
+Company has been able to bring improvement in its metal 
+recovery from beneficiation plant through digitalisation.
+Advanced control opportunity for grinding and flotation 
+circuit:
+To address the difficulty in flotation process plants coming 
+from the constantly changing feed characteristics, Advance 
+Process Control (APC) system was introduced to maintain 
+a stabilised circuit operation while optimising the process 
+performance to maximise recovery. Three APCs were 
+implemented for grinding & flotation operation (lead and 
+zinc) in mills at Rampura Agucha and SK Mines.
+•	 Pb recovery improved by 0.9% 
+while also moving concentrate 
+grade distribution on higher side
+•	 Zn recovery improved by 0.9% 
+while narrowing concentrate 
+grade distribution around target
+9
+Fumer Plant
+In the existing zinc hydro metallurgical process, Jarosite is 
+generated which is treated with lime & cement and disposed 
+in Jarofix Yard. In the proposed Fumer plant, a clean slag 
+will be produced and utilised in cement manufacturing and 
+goethite cake produced will be treated with lime & cement 
+and disposed in captive secured landfill.
+•	 Production of usable clean slag 
+and elimination of Jarosite waste
+•	 Elimination of recurring land for 
+storage of Jarofix
+•	 Power generation from waste 
+heat recovery
+•	 Increased recovery of Zinc, Lead, 
+Silver, Copper and Sulphur
+•	 Saving of Cement and Lime
+10
+Jarofix/
+Jarosite 
+Utilisation 
+in Cement 
+and Road 
+construction
+Jarosite is waste produced in the hydrometallurgy process 
+of zinc extraction, necessitating additional investment for 
+its stabilisation and disposal. In collaboration with IIT-R, 
+Company conducted a feasibility study to utilise Jarosite 
+in construction-related works, using Jarosite in concrete, 
+mortar and paver blocks as 10% - 15% replacement of 
+cement. The study showed positive results and encouraged 
+us to conduct field trials.
+Company has been granted permission by Rajasthan State 
+Pollution Control Board for gainful utilisation of Jarofix waste 
+for Road Construction/Highway Construction (embankment).
+Company also partnered with few Government agencies 
+like NCCBM, NEERI and CRRI for the utilisation of jarosite in 
+cement and road construction.
+•	 Jarosite used in Cement 
+Construction in FY 2022-23 – 
+111,266 MT
+•	 Jarofix used in road construction 
+in FY 2022-23 – 140,820 MT
+STATUTORY REPORTS
+305
+HINDUSTAN ZINC LIMITED
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING
+S. 
+No.
+Initiative 
+undertaken
+Details of the initiative (Web-link, if any, may be provided 
+along with summary)
+Outcome of the initiative
+11
+Closure of 
+SLF at Vizag
+Company’s Vizag closure and capping was first project in 
+the entire country in which a slurry pond was stabilised, 
+closed and capped as per the CPCB Guidelines due to 
+introduction of superior geotechnical concepts and material 
+science knowledge.
+•	 Nearly 56,000 sqm (6 Ha.) of 
+the plan area at site has been 
+stabilised and capped as per 
+CPCB guidelines
+•	 Aligned to our site closure 
+management standard
+12
+Miyawaki at 
+DZS
+Miyawaki technique helps to build dense and native forests. 
+The approach is supposed to ensure that plant growth is 10 
+times faster and the resulting plantation is 30 times denser 
+than usual. It involves planting dozens of native species in 
+the same area and becomes self-sustaining after the first 
+three years.
+•	 1 Acre (0.4 Ha.) area in Debari 
+colony has been converted 
+to green land through this 
+technique with nearly 50 types 
+of native species and 8,000 
+plantation
+•	 Miyawaki afforestation 
+completed at DSC and CLZS. 
+12,000 Indigenous Plants and 
+6,500 native seeds in the area of 
+1 hectare at each of the location 
+to create a self-sustaining forest 
+in the span of 3 years
+13
+450 MW 
+Renewable 
+power
+Hindustan Zinc has signed power delivery agreement for 
+450 MW Renewable Energy and it will contribute towards 
+transitioning to green energy and reduce carbon emissions.
+It will contribute towards 
+transitioning to green energy 
+and reduce 2.7 mn tCO2e carbon 
+emissions by 2026
+7.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/web link.
+	
+•	
+All our operating sites are having emergency preparedness plan (including disasters) along with responsibilities in 
+place covering all the risk associated with the operational activities to mitigate and handle the emergency. Emergency 
+scenarios, mock drills, rescue team and training are regularly being carried out for making the system more robust 
+and to check the healthiness of the emergency response procedure.
+	
+•	
+We have Incident Management Committee to investigate all the incidents (safety, environment, process) and 
+learnings are being shared across all the locations for horizontal deployment and based on the recommendations 
+suitable changes are being made in emergency response plan also.
+	
+•	
+Stand downs are being conducted at shop floor to communicate the learnings from all such incidents. Regular 
+trainings and awareness programme are being conducted at sites. Unit leadership regularly review the emergency 
+preparedness and contingency planning at their sites. We have a standalone standard on emergency preparedness 
+and contingency planning and uniformly applies to all the sites of the Company.
+8.	 Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation 
+or adaptation measures have been taken by the entity in this regard?
+	
+There has been no adverse impact to the environment arising from the value chain of the entity.
+9.	 Percentage of value chain partners (by value of business done with such partners) that were assessed for 
+environmental impacts:
+	
+70.45% of partners by value (235 existing partners) were evaluated on ESG criteria in FY 2022-23, also 119 new 
+onboarded partners has pre-assessed basis ESG criteria i.e. ISO14001/18001/SA8000 and equivalent standard.
+306
+INTEGRATED ANNUAL REPORT FY 2022-23
+BUSINESSES, WHEN ENGAGING IN INFLUENCING PUBLIC AND REGULATORY POLICY, 
+SHOULD DO SO IN A MANNER THAT IS RESPONSIBLE AND TRANSPARENT
+PRINCIPLE 7
+Essential Indicators
+1.	 a.	
+Number of affiliations with trade and industry chambers/associations:
+	
+	
+14
+	
+b.	 List the top 10 trade and industry chambers/associations (determined based on the total members of  such body) 
+the entity is a member of/affiliated to:
+S.  
+No.
+Name of the trade and industry chambers/associations
+Reach of trade and industry chambers/
+associations (State/National)
+1
+Federation of Indian Mineral Industries
+National
+2
+Confederation of Indian Industry
+National & State
+3
+Federation of Indian Chambers of Commerce & Industry
+National & State
+4
+Indian Chamber of Commerce
+National
+5
+Associated Chambers of Commerce and Industry of India
+National
+6
+India Lead Zinc Development Association
+National
+7
+Udaipur Chambers of Commerce
+State
+8
+Gujmin Industry Association of Gujarat
+National
+9
+UN Global Compact Network - INDIA
+National
+10
+Mining Engineers Association of India
+National
+2.	 Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the entity, 
+based on adverse orders from regulatory authorities.
+Name of authority
+Brief of the case
+Corrective action taken
+NIL
+NA
+NA
+Leadership Indicators
+1.	 Details of public policy positions advocated by the entity:
+S. 
+No.
+Public policy 
+if advocated 
+able
+Method resorted 
+for such 
+advocacy
+Whether information 
+available in public 
+domain? (Yes/No)
+Frequency of Review by Board 
+(Annually/Half yearly/Quarterly/
+Others - please specify)
+Web Link, if 
+available
+NA
+NA
+NA
+NA
+NA
+	
+No public policy positions advocated by the Company
+BUSINESSES SHOULD PROMOTE INCLUSIVE GROWTH AND EQUITABLE DEVELOPMENT
+PRINCIPLE 8
+Essential Indicators
+1.	 Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the 
+current financial year: 
+Name and brief
+details of project
+SIA Notification 
+No.
+Date  of 
+notification
+Whether conducted by 
+independent external 
+agency (Yes/No)
+Results communicated 
+in  public domain  
+(Yes/No)
+Relevant 
+Web link
+-
+NIL
+NA
+NA
+NA
+NA
+2.	 Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by 
+your entity, in the following format:
+S.
+No.
+Name of Project for 
+which R&R is ongoing
+State
+District
+No. of Project Affected 
+Families (PAFs)
+% of PAFs 
+covered by R&R
+Amounts paid to PAFs 
+in FY (In `)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+STATUTORY REPORTS
+307
+HINDUSTAN ZINC LIMITED
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING
+3.	 Describe the mechanisms to receive and redress grievances of the community.
+	
+Aligning with Vedanta Technical Standards (TS-04), structured grievance mechanisms is adhered to for receiving and 
+resolving grievances. In line with sustainability strategy of establishing strong relationships with stakeholders and 
+adhering to the IFC, ICMM, OECD and UNEP Standards for responsible stewardship, UN Global Compact (UNGC) 
+Principles & Vedanta Technical standards, Company has set up a robust Grievance Redressal Mechanism. Regular 
+monitoring and reviewing of the mechanism established is undertaken at various platforms. To further strengthen it, 
+effective stakeholder engagement is a continuous process taken up to reduce the grievances of the stakeholders. 
+Proactive and sustained engagement platforms like “Community Connect”, “Community Leadership Connect” established 
+to ensure two-way communication network and strengthen the trust element thereby reducing the grievances.
+	
+A grievance box has been placed outside the plant main gate for stakeholders to share their grievances in written form 
+in the local language. All grievances are required to be resolved in maximum 15 days, failing which they are escalated to 
+the senior management for its resolution and closure. Also, at each Company location, we have well established Social 
+Performance Steering Committee, consisting representatives of major functions and chaired by Social Performance 
+Manager, through which all grievances are raised and discussed for the timely resolution of the same and thereby 
+reduction in the collective risk involved. Our approaches towards strengthening Social Performance Steering Committees 
+(SPSC) at business locations with active involvement of the functional leaders across the Board is key to monitoring the 
+grievances and its resolution, key risks and its mitigation and creating strong relationships with the stakeholder base. 
+Thereby, reducing the collective risks and immediately addressing the grievances and feedbacks received from the 
+communities. Engagement of senior management at village level across all BUs on a regular basis for discussing village-
+level development and ensure resolution of concerns/grievances, if any.
+4.	 Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY 2022-23
+FY 2021-22
+Directly sourced from MSMEs/small producers
+12.05%
+ 12.77%
+Sourced directly from within the district and neighbouring districts
+39.30%
+40.52%
+Leadership Indicators
+1.	 Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments 
+(Reference: Question 1 of Essential Indicators above):
+Details of negative social impact identified
+Corrective action taken
+NIL
+NA
+2.	 Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as 
+identified by government bodies:
+S. No.
+State
+Aspirational District
+Amount spent (In `)
+1
+Uttarakhand
+Udham Singh Nagar
+2,095,115
+3.	 (a)	 Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising 
+marginalised/vulnerable groups? (Yes/No)
+	
+	
+(a)	 From which marginalised/vulnerable groups do you procure?
+	
+	
+(b)	 What percentage of total procurement (by value) does it constitute?
+	
+	
+No, Company does not have a preferential procurement policy. However, Company strives to procure locally which 
+makes up 56.42% of the overall procurement spent (Rajasthan & Uttarakhand State based).
+4.	 Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the 
+current financial year), based on traditional knowledge:
+S.  
+No.
+Intellectual Property based on 
+traditional knowledge
+Owned/Acquired  
+(Yes/No)
+Benefit shared  
+(Yes/No)
+Basis of calculating 
+benefit share
+NA
+NA
+NA
+NA
+308
+INTEGRATED ANNUAL REPORT FY 2022-23
+5.	 Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes 
+wherein usage of traditional knowledge is involved.
+Name of authority
+Brief of the Case
+Corrective action taken
+NIL
+Nil
+Nil
+6.	 Details of beneficiaries of CSR Projects:
+S. 
+No.
+CSR Project
+No. of persons benefitted  
+from CSR Projects
+% of beneficiaries from vulnerable 
+and marginalised groups
+1
+Khushi Anganwadi & Nandghar 
+Programme including Child Care Services
+240,843
+ 100%
+2
+Community Asset Creation
+76,903
+ 100%
+3
+Swasthya Sewa
+207,978
+ 100%
+4
+Drinking Water
+229,125
+ 100%
+5
+Scholarship
+111
+ 100%
+6
+Company-Run Schools
+1,696
+ 100%
+7
+Shiksha Sambal
+8,389
+ 100%
+8
+Jeevan Tarang
+639
+ 100%
+9
+Unchi Udaan
+125
+ 100%
+10
+Zinc Kaushal
+1,771
+ 100%
+11
+Samadhan
+34,357
+ 100%
+12
+Sakhi
+27,160
+ 100%
+13
+Sports
+28,396
+ 100%
+14
+Digitisation
+18,323
+ 100%
+15
+Culture Programmes
+382,094
+100%
+16
+Environment
+444,066
+100%
+17
+Safety
+28,000
+100%
+18
+ Total
+1,729,976
+PRINCIPLE 9
+BUSINESSES SHOULD ENGAGE WITH AND PROVIDE VALUE TO THEIR CONSUMERS IN A 
+RESPONSIBLE MANNER
+PRINCIPLE 9
+Essential Indicators
+1.	 Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+Vedanta Metal Bazaar portal is one-stop portal for the customers from buying the product to raising concerns or 
+complaints, etc. Customers can raise their concerns or feedback on the portal. An automatic ticket will be raised and 
+customers can monitor the progress of the complaint https://vedantametalbazaar.moglix.com/#/login.
+2.	 Turnover of products and/services as a percentage of turnover from all products/service that carry information about:
+As a percentage to total turnover
+Environmental and social parameters relevant to the product 
+100%
+Safe and responsible usage 
+100%
+Recycling and/or safe disposal 
+NA
+STATUTORY REPORTS
+309
+HINDUSTAN ZINC LIMITED
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORTING
+3.	 Number of consumer complaints in respect to the following:
+FY 2022-23
+Remarks
+FY 2021-22
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution 
+at end of 
+year
+Received 
+during the 
+year
+Pending 
+resolution 
+at end of 
+year
+Data privacy
+45
+4
+The given 
+number is of 
+formal complaints 
+logged by 
+customers in the 
+Company’s portal 
+related to quality
+46
+0
+The given number 
+is of formal 
+complaints logged 
+by customers in 
+the Company’s 
+portal related to 
+quality
+Advertising
+Cyber-security
+Delivery of essential services
+Restrictive Trade Practices
+Unfair Trade Practices
+Other
+4.	 Details of instances of product recalls on account of safety issues:
+Number
+Reasons for recall
+Voluntary recalls
+NA
+NA
+Forced recalls
+NA
+NA
+5.	 Does the entity have a framework/policy on cybersecurity and risks related to data privacy? (Yes/No) If available, 
+provide a web-link of the policy.
+	
+Company has adopted an Integrated Management Framework and therefore all policies are defined incorporating various 
+applicable frameworks and domains pertaining to Information Security, Risk Management, Disaster Recovery & Business 
+Continuity Management and Data Privacy.
+	
+Under Enterprise Risk Management (ERM) framework, Company has established a robust Information Security 
+Management Framework which includes Policies, Standard Operating Procedures (SOP), Technology Standards and has 
+set up an effective Security Assessments & Audit Process for prevention of cyber-attacks and strengthening the overall 
+Information Security Posture of Company's Technology Landscape.
+	
+Company’s Information Security Framework is cohesive and comprehensive and takes following aspects as an input:
+	
+•	
+Globally-recognised Information Security Management Frameworks and Standards
+	
+•	
+Applicable Regulatory Requirements
+	
+•	
+Risk Assessment and Risk Control Matrix defined under Risk Management Process
+	
+•	
+Information Security Objectives aligned to Business Objectives
+	
+•	
+Prevailing Best Practices
+	
+•	
+Security Threat Intelligence
+	
+Based on this framework, information security strategy, long-term roadmap and annual information security plan is 
+prepared. This Information Security Framework is reviewed annually by Company Information Security Organisation 
+in consultation with external expert agencies to incorporate applicable regulatory requirements, prevailing industry 
+knowledge and considering newer threats and risks.
+	
+Company is compliant to ISO 27001 framework and is certified as per defined Statement of Applicability (SOA) since 
+year 2018. Certification is applicable to all Infrastructure & Applications under the purview of Information Technology & 
+Operational Technology functions across all sites of the Company.
+	
+Subsequently, Company has taken an integrated approach to implement an integrated framework covering various 
+domains of Information Security, Disaster Recovery & Business Continuity Management, Risk Management and Data 
+Privacy Management. Under this approach, Company has achieved an Integrated ISO Certification consisting of ISO 
+27001 (Information Security), ISO 22301 (DR & BCP), ISO 31000 (Risk Management) and ISO 27701 (Privacy Management) 
+in the year 2021. Company has also adopted a proven process of Third-Party Risk Management (TPRM) for all its key 
+business partners (vendors/suppliers/service partners).
+310
+INTEGRATED ANNUAL REPORT FY 2022-23
+	
+All the policies and procedure enforced in the Company environment are all inclusive to manage the Information Security 
+and Data Governance aspects. All these policies are reviewed annually by competent personnel in Information Security 
+Function. All the approved and enforced policies are made available to all employees and business partners over 
+Hindustan Zinc Intranet Portal.
+6.	 Provide details of any corrective actions taken or underway on issues relating to advertising and delivery of essential 
+services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty/action 
+taken by regulatory authorities on safety of products/services.
+	
+No corrective actions are underway relating to cyber security and data privacy as there are no customer complaints and 
+no penalties/regulatory action has been levied or taken on the above mentioned parameters.
+Leadership Indicators
+1.	 Channels/platforms where information on products and services of the entity can be accessed (provide web 
+link, if available):
+	
+We provide products and services related information on our website. It has all the factsheets about each product we sell. 
+Vedanta metal bazaar portal also consists of all the required information on products and services we offer:
+	
+https://www.hzlindia.com/bussiness/products-2/products/
+	
+https://www.hzlindia.com/prodfactsheet/
+	
+https://vedantametalbazaar.moglix.com/#/login
+2.	 Steps taken to inform and educate consumers about safe and responsible usage of products and/or services:
+	
+All the customers are provided with the Safety Data Sheet (SDS), that has all the relevant information about the product 
+and its usages. And we continuously engage with the customers to ensure safe and responsible usage of our products. We 
+also conduct studies on our product applications in various sectors to come up with value-added products and improved 
+services for the relevant customers. Hindustan Zinc has published its 1st Environmental Product Declaration (EPD) for Zinc 
+Products, which can be accessed by anyone.  
+	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services:
+	
+Mechanisms in place are regular interaction with sales & marketing team through telephone, e-mail, meetings and 
+seminars. The Company also shares regular communication to customers via circulars and notifications.
+3.	 Does the entity display product information on the product over and above what is mandated as per local laws? 
+(Yes/No/Not Applicable) If yes, provide details in brief. Did your entity carry out any survey with regard to consumer 
+satisfaction relating to the major products/services of the entity, significant locations of operation of the entity or the 
+entity as a whole? (Yes/No)
+	
+Yes, product label carries all required information, like product grade, date of production, origin of product (made in India), 
+product weight details. Yes, Hindustan Zinc carries out customer satisfaction survey every two years to understand the 
+customer satisfaction levels with our service.
+4.	 Provide the following information relating to data breaches:
+	
+a.	
+Number of instances of data breaches along with impact – Nil
+	
+b.	 Percentage of data breaches involving personally identifiable information of customers – Not Applicable

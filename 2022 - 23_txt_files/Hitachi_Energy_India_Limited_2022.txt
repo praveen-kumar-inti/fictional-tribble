@@ -1,0 +1,3956 @@
+ 
+ 
+ 
+ 
+ 
+Hitachi Energy India Limited 
+(Formerly known as ABB Power Products and Systems India Limited) 
+Registered and Corporate Office: 
+8th Floor, Brigade Opus, 70/401,  
+Kodigehalli Main Road, Bengaluru – 560 092,  
+Phone: 080 68473700 
+CIN: L31904KA2019PLC121597 
+www.hitachienergy.com/in 
+ 
+ 
+July 19, 2023 
+ 
+BSE Limited 
+ 
+ 
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, 
+Mumbai 400 001 
+(Atten: DCS Listing) 
+National Stock Exchange of India Limited 
+Exchange Plaza, 5th Floor, Plot No. C/1, G Block, 
+Bandra-Kurla Complex, Bandra (E), 
+Mumbai 400 051 
+(Atten: Manager Listing Department) 
+ 
+Ref: BSE Scrip Code: 543187, NSE Scrip Symbol: POWERINDIA 
+ 
+Dear Sirs, 
+ 
+Subject: Business Responsibility and Sustainability Report  
+ 
+Pursuant to Regulations 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations & Disclosure 
+Requirements) Regulations 2015 (“Listing Regulations”), we are submitting herewith copy of the Business Responsibility 
+and Sustainability Report for the Financial Year 2022-23, which forms an integral part of the Annual Report 2022-23, 
+submitted to the Exchanges vide letter dated July 19, 2023.  
+ 
+We request you to take this on record and to treat the same is in compliance with the applicable provisions of the Listing 
+Regulations. 
+ 
+Thanking you, 
+ 
+Yours faithfully, 
+ 
+For Hitachi Energy India Limited  
+(Formerly known as ABB Power Products and Systems India Limited 
+ 
+ 
+ 
+ 
+ 
+Poovanna Ammatanda 
+General Counsel and Company Secretary 
+ 
+Encl: as above 
+ 
+ 
+Ammatanda 
+Chinnappa 
+Poovanna
+Digitally signed by 
+Ammatanda Chinnappa 
+Poovanna 
+Date: 2023.07.19 22:25:26 
++05'30'
+1
+	
+	
+HITACHI ENERGY INDIA LIMITED |
+ANNUAL REPORT 2022–23
+Business Responsibility & 
+Sustainability Report
+SECTION A: GENERAL DISCLOSURES
+1.	
+Details of the listed entity 
+Particulars
+Response
+1.
+Corporate Identity Number (CIN) of the Listed Entity 
+L31904KA2019PLC121597
+2.
+Name of the Listed Entity 
+Hitachi Energy India Limited  
+(Formerly known as ABB Power Products and Systems India Limited)
+3.
+ Year of incorporation 
+2019 (February 19, 2019)
+4.
+ Registered office address 
+8th Floor, Brigade Opus, 70/401, Kodigehalli Main Road, Bengaluru-560092
+5.
+ Corporate address 
+8th Floor, Brigade Opus, 70/401, Kodigehalli Main Road, Bengaluru-560092
+6.
+ E-mail 
+investors@hitachienergy.com 
+(For investors) 
+poovanna.ammatanda@hitachienergy.com 
+(email id of Compliance Officer and Nodal Officer)
+7.
+Telephone 
+080-68473700
+8.
+Website 
+https://www.hitachienergy.com/in/en
+9.
+Financial year for which reporting is being done 
+FY 2022-23  
+(April 01, 2022 to March 31, 2023)
+10.
+Name of the Stock Exchange(s) where shares are listed 
+BSE Limited (BSE) and National Stock Exchange of India Limited (NSE)
+11.
+Paid-up Capital 
+₹ 8,47,63,350  divided into 4,23,81,675 Equity shares of ₹ 2  each
+12.
+Name and contact details (telephone, email address) of  
+the person who may be contacted in case of any queries  
+on the BRSR report 
+Mukesh Arora 
+(Telephone: 080-68473719) 
+Email: mukesh.arora1@hitachienergy.com
+13.
+Reporting boundary - Are the disclosures under this report 
+made on a standalone basis (i.e. only for the entity) or on 
+a consolidated basis (i.e. for the entity and all the entities 
+which forms a part of its consolidated financial statements, 
+taken together). 
+Standalone basis (Consolidated reporting is not applicable)
+2.	
+Products/ services 
+14.	
+Details of business activities (accounting for 90 percent of the entity’s turnover): 
+S. No.
+Description of Main Activity
+Description of Business Activity
+% of Turnover of the entity
+I
+Sale of products
+Design, manufacturing/configuration & supply of system, 
+equipment, devices and accessories products
+79 %
+II
+Execution of contracts for 
+projects and services
+Project and service engineering, installation, commissioning and 
+support
+15.9 %
+15.	
+Products / Services sold by the entity (accounting for 90 percent of the entity’s turnover): 
+S. No.
+Product / Service
+NIC Code
+% of total Turnover contributed
+I
+Manufacture of electric motors, generators, transformers and electricity 
+distribution and control apparatus
+271
+79 %
+II
+Projects and services of related manufactured electrical equipment. 
+279
+15.9 %
+3.	
+Operations 
+16. 
+Number of locations where plants and/or operations/offices of the entity are situated: 
+Location 
+Number of plants
+Number of offices
+Total
+National 
+81
+112
+19
+International
+-
+3
+3
+1 8 manufacturing locations that contain 19 factories
+211 sales offices and 7 sales touch points across India 
+2
+| HITACHI ENERGY INDIA LIMITED	
+ANNUAL REPORT 2022–23
+17.	
+Markets served by the entity: 
+a.	
+Number of locations 
+Locations 
+Number 
+National (No. of States) 
+All states & Union Territories
+International (No. of Countries) 
+70+ countries
+b.	
+What is the contribution of exports as a percentage of the total turnover of the entity?
+26.6 percent 
+c.	
+A brief on types of customers 
+The Company serves a wide range of customers – Public & Private Power & Energy Utilities, Industries, 
+Transportation, and Infrastructure companies. These include EPCs (Engineering, Procurement & Construction) 
+& OEMs (Original Equipment Manufacturer) operating in the above segments.
+4.	
+Employees 
+18.	
+Details as at the end of the Financial Year: 
+a.	
+Employees and workers (including differently abled):
+S. No.
+Particulars
+Total 
+(A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+EMPLOYEES
+I
+Permanent (D) 
+1765
+1614
+91%
+151
+9%
+II
+Other than Permanent (E) 
+64
+44
+69%
+20
+31%
+III
+Total employees (D + E) 
+1829
+1658
+91%
+171
+9%
+WORKERS
+IV
+Permanent (F) 
+558
+554
+99%
+4
+1%
+V
+Other than Permanent (G) 
+552
+521
+94%
+31
+6%
+VI
+Total employees (F + G) 
+1110
+1075
+97%
+35
+3%
+b.	
+Differently abled employees and workers:
+S. No.
+Particulars
+Total 
+(A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+DIFFERENTLY ABLED EMPLOYEES
+I
+Permanent (D) 
+1
+1
+100%
+0
+0
+II
+Other than Permanent (E) 
+0
+0
+0
+0
+0
+III
+Total employees (D + E) 
+1
+1
+100%
+0
+0
+DIFFERENTLY ABLED WORKERS
+IV
+Permanent (F) 
+9
+8
+89%
+1
+11%
+V
+Other than Permanent (G) 
+0
+0
+0
+0
+0
+VI
+Total employees (F + G) 
+9
+8
+89%
+1
+11%
+19.	
+Participation / Inclusion / Representation of women 
+Particulars
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors 
+6
+2
+33
+Key Management Personnel 
+3
+0
+0
+20.	
+Turnover rate for permanent employees and workers  
+(Disclose trends for the past 3 years)
+Particulars
+Turnover rate in the current FY
+FY 2022-23 
+April 2022 and Mar 2023
+FP 2021-22 
+Jan 2021 and Mar 2022
+FY 2020 
+Jan 2020 - Dec 2020
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+11.2%
+21.02%
+12.0%
+9.1%
+13.8%
+9.4%
+4.8%
+7.1%
+5.0%
+Permanent Workers
+0.2%
+0.0%
+0.2%
+4.1%
+20.0%
+4.2%
+3.9%
+0.0%
+3.9%
+3
+	
+	
+HITACHI ENERGY INDIA LIMITED |
+ANNUAL REPORT 2022–23
+5.	
+Holding, Subsidiary and Associate Companies (including joint ventures) 
+21.	
+(a) Names of holding/ subsidiary / associate companies / joint ventures
+S. No.
+Name of the holding/ subsidiary / associate 
+companies / joint ventures (A)
+Indicate whether 
+holding/ Subsidiary/ 
+Associate/ Joint 
+Venture
+% of shares held by 
+the listed entity
+Does the entity indicated at column 
+A, participate in the Business 
+Responsibility initiatives of the listed 
+entity? (Yes/No)
+I
+Hitachi Energy Ltd (formerly known as Hitachi 
+ABB Power Grids Ltd)
+Holding
+75%
+No
+II
+ABB Asea Brown Boveri Ltd
+Holding
+NIL
+No
+III
+ABB Ltd
+Holding
+NIL
+No
+IV
+ABB Switzerland Ltd
+Holding
+NIL
+No
+6.	
+CSR Details 
+22.	
+(i) Whether CSR is applicable as per section 135 of the Companies Act, 2013: (Yes / No) - Yes
+	
+(ii) Turnover (in ₹): 4,483.65 Crores (As on March 31, 2023)
+	
+(iii) Net worth (in ₹): 1,215.31 Crores (As on March 31, 2023)
+7.	
+Transparency and Disclosures Compliances 
+23.	
+Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on 
+Responsible Business Conduct: 
+Stakeholder 
+group from whom 
+the complaint is 
+received
+Grievance 
+Redressal 
+Mechanism in 
+Place 
+(Yes/No) (If Yes, 
+then provide 
+web-link for the 
+grievance redress 
+policy)
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 – March 31, 2022 
+Previous Financial Period
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+the close of 
+the year
+Remarks
+Number of 
+complaints filed 
+during the year
+Number of 
+complaints 
+pending 
+resolution at 
+the close of the 
+year
+Remarks
+Communities
+Yes 
+https://www.
+hitachienergy.com/
+in/en/contact-us
+NIL
+NIL
+NIL
+NIL
+Investors (other than 
+shareholder)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Shareholders 
+https://scores.gov.
+in/scores/Welcome.
+html
+3
+NIL
+NIL
+12
+NIL
+NIL
+Employees and 
+workers 
+0
+0
+0
+0
+Customers 
+523
+83
+763
+91
+Value Chain Partners 
+NA
+NA
+NA
+NA
+Others (please specify)
+NA
+NA
+NA
+NA
+24.	
+Overview of the entity’s material responsible business conduct issues 
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and 
+social matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to 
+adapt or mitigate the risk along-with its financial implications, as per the following format.
+S. No. Material issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying the risk / 
+opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial implications 
+of the risk or 
+opportunity (Indicate 
+positive or negative 
+implications)
+I
+Safe, healthy, and 
+secure operations
+Risk
+Control of hazards and risks at 
+workplace(s) by implementing controls 
+effectively to ensure these hazards and 
+risks do not cause harm to employees 
+and workers.
+Safety is our licence to operate. 
+Fostering 
+safe 
+working 
+environments to protect our 
+people, 
+preserve 
+business 
+continuity 
+and 
+operate 
+effectively in our modern world. 
+HSE Management system has 
+been implemented as per ISO 
+14001 & 45001 and certified.
+Negative
+4
+| HITACHI ENERGY INDIA LIMITED	
+ANNUAL REPORT 2022–23
+II
+Climate change 
+and carbon 
+neutrality
+Opportunity
+Energy 
+efficiency, 
+increasing 
+use 
+of non-fossil fuel, use of renewable 
+energy, efficient use of water and 
+recycling of materials.
+NA
+Positive
+III
+Resource 
+efficiency and 
+circular economy
+Opportunity
+Reducing the use of resources through 
+circular economy.
+Opportunity to minimize the use of 
+water, materials, pollution, and waste in 
+our operations and throughout the life 
+cycle of our solutions through a circular 
+mindset.
+NA
+Positive
+IV
+Sustainable 
+products, 
+services, and 
+solutions
+Opportunity
+Increasing digitalization to extend the 
+life cycle of our solutions.
+NA
+Positive
+V
+Responsible 
+Sourcing
+Risk
+Managing sourcing of materials across 
+the supply chain and complying with 
+regulatory and customer requirements 
+regarding the prohibition and restriction 
+of substances, including hazardous 
+substances and responsible sourcing 
+of conflict minerals.
+Integrating sustainable practices 
+into supply chain procedures.
+Follow the OECD (Organization 
+for Economic Co-operation and 
+Development) due diligence 
+guidance and be involved in 
+relevant trade associations in 
+order to define and improve 
+best practices and encourage 
+responsible sourcing.
+Negative
+VI
+Well-being of 
+employees
+Opportunity
+Health is top priority and needs to be 
+lived everywhere, well beyond the walls 
+of our home, offices, and factories.
+The Company provides training to all 
+employees in resilience.
+The Company prepares for the new 
+norms by “powering the way it works”.
+The Company prioritizes health and 
+well-being in all sites and makes the 
+healthy choice, the easy choice.
+NA
+Positive
+VII
+Diversity
+Opportunity
+The Company believes in integrating 
+diversity and inclusion into all our 
+practices and policies and foster female 
+acceleration through our Female Talent 
+Development Program.
+The 
+Company’s 
+sustainability 
+2030 
+targets 
+include 
+increasing 
+female 
+diversity from 5.8 percent to 8-10 percent 
+by 2025.
+NA
+Positive
+VIII
+Human Rights 
+and labor 
+conditions
+Risk
+Identification, evaluation and managing 
+Human Rights risks in its operation and 
+supply chain and its consequences.
+Human Rights policy and 
+control standard is in place to 
+evaluate Human Rights risks 
+at all levels of operations.
+Supplier 
+Sustainability 
+Development Program (SSDP) 
+is a supplier engagement 
+initiative, to uphold human 
+rights and decent working 
+conditions.
+Negative
+IX
+Integrity and anti-
+corruption
+Risk
+Hitachi Energy behaves in an ethical, 
+legal and responsible way. Lack of 
+adherence can have consequences 
+i.e.  reputational damage with the 
+top line adverse effect; unattractive 
+employer for top talent; regulatory fines 
+and penalties etc.
+Hitachi 
+Energy 
+India 
+has 
+has a very stringent policy 
+on 
+integrity 
+that 
+applies 
+to all. The Hitachi Energy 
+Code of Conduct provides a 
+framework for employees and 
+stakeholders to put business 
+principles into practice with 
+utmost integrity. The Company 
+regularly evaluates culture of 
+integrity, and non-compliance 
+is strictly acted upon.
+Negative
+X
+Developing our 
+people
+Opportunity
+Cultivating 
+life-long 
+learning 
+and 
+creating inclusive learning opportunities, 
+the Company fosters innovation.
+NA
+Positive
+5
+	
+	
+HITACHI ENERGY INDIA LIMITED |
+ANNUAL REPORT 2022–23
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES 
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting 
+the NGRBC Principles and Core Elements.
+Disclosure Questions 
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes 
+I. a. Whether your entity’s policy/policies cover each principle 
+and its core elements of the NGRBCs. (Yes/No) 
+Yes
+b. Has the policy been approved by the Board? (Yes/No) 
+Yes, few of the policies have been approved by the Board and other policies of Hitachi 
+Energy Group are adopted by the Company.
+c. Web Link of the Policies, if available 
+Please refer to the section on ‘Links to the Company Policies and Programs’ section at 
+the end of this Report.
+II. Whether the entity has translated the policy into 
+procedures. (Yes / No) 
+Yes.
+III. Do the enlisted policies extend to your value chain 
+partners? (Yes/No) 
+Yes, the policies are available to value chain partners through the Company’s web page.
+IV. Name of the national and international codes/
+certifications/labels/ standards (e.g. Forest Stewardship 
+Council, Fairtrade, Rainforest Alliance, Trustea) standards 
+(e.g. SA 8000, OHSAS, ISO, BIS) adopted by your entity 
+and mapped to each principle. 
+The following management systems have been implemented.
+ISO 9001: 2015 Quality Management System
+ISO 14001: 2015 Environment Management System
+ISO 45001: 2018 Occupational Health & Safety Management System.
+V. Specific commitments, goals and targets set by the entity 
+with defined timelines, if any. 
+Sustainability 2030 is a strategic plan for sustainability where Hitachi Energy summarizes 
+the main commitments to act and drive business in a sustainable way. Based around 
+four pillars: Planet, People, Peace and Partnerships, our strategy draws from the UN’s 
+Sustainable Development Goals (SDGs), where each pillar has corresponding targets that 
+drives its business to contribute social, environmental and economic value.
+VI. Performance of the entity against the specific 
+commitments, goals and targets along-with reasons in 
+case the same are not met.
+By 2030, the Company aims to achieve carbon-neutrality in its own operations. The 
+Company is targeting to reduce carbon emissions by 50% along the value chain.
+The Company continues the use of 100% fossil-free electricity in its own operations. The 
+Company has reduced more than 42% of carbon emission as compared to previous year.
+Governance, leadership and oversight
+VII. Statement by director responsible for the business responsibility report, highlighting ESG related challenges, targets and achievements 
+(listed entity has flexibility regarding the placement of this disclosure) 
+Hitachi Energy has placed sustainability at the heart of its purpose. The Company has a committee on Environment, Social and Governance (ESG) 
+with an objective to assist the Board of Directors of the Company in fulfilling its oversight responsibilities in relation to the Hitachi Energy’s objectives, 
+policies, and practices pertaining to ESG. The committee oversees the effectiveness of sustainability programs and provides inputs related to matters of 
+ESG and corporate responsibility.
+A sustainability plan aligned with a net-zero emissions future is integral to its business, growth and long-term success. Through Sustainability 2030, 
+Hitachi Energy has defined its strategy, which combines innovative solutions with a diverse and inclusive Company culture, to contribute to a more 
+sustainable society – aligned with the UN’s Sustainable Development Goals (SDGs). Now is the time for all stakeholders to collaborate and solve the 
+challenges of its time. Together with its customers and partners, the Company is co-creating and deploying flexible and resilient energy systems at 
+scale, which are sustainable, efficient, safe and secure.
+The Company’s ESG targets are aligned with the four pillars of Sustainability 2030 plan: Planet, People, Peace and Partnerships.
+ESG targets
+Planet
+Carbon-neutral in our own operations
+↓ 50% CO2 emissions along the value chain
+↓ 50% waste disposed 
+↓ 25% freshwater use
+↓ 25% hazardous substances and chemicals
+People
+•	
+Zero harm
+•	
+Top quartile health absence rates
+•	
+Life-long learning culture
+•	
+Increase female diversity from 5.8% in 2019 to 8-10% by 2025 t0 16-18% by 2030
+Peace
+•	
+Zero incidents of corruption and bribery
+Partnerships
+•	
+Increase involvement in multi-stakeholder partnerships
+To achieve carbon-neutrality in its own operations, first step is to invest in fossil-free electricity and energy efficiency, ensuring its facilities are as 
+efficient as possible.
+The Company has continued to use 100% fossil-free electricity in its own operations, showing fast progress in achieving its Sustainability 2030 target of 
+becoming carbon-neutral in own operations.
+Replacing diesel generators with solar panels to power its site offices is an example of commitment towards carbon-neutral goals across the value 
+chain. As part of a carbon-neutral initiative, the Company has introduced rooftop solar for the electrification of a project site office at 4 more project 
+sites and at its factory in Maneja in this financial year. The Company has switched over to clean piped natural gas from high-speed diesel for ovens & 
+dryers at manufacturing facilities. 
+Social, 
+Governance
+Environment
+6
+| HITACHI ENERGY INDIA LIMITED	
+ANNUAL REPORT 2022–23
+VIII. Details of the highest authority responsible for 
+implementation and oversight of the Business 
+Responsibility policy (ies). 
+Nuguri Venu, Managing Director & CEO
+IX. Does the entity have a specified Committee of the 
+Board/ Director responsible for decision making on 
+sustainability related issues? (Yes / No). If yes, provide 
+details. 
+Yes, Environmental, Social and Governance (ESG) Committee (constituted w.e.f. 
+October 22, 2021)
+Composition of Committee: 
+Ms. Nishi Vasudeva* (DIN:03016991) 
+Chairperson of Committee - Independent Director (Non-Executive Director)
+Ms. Akila Krishnakumar (DIN:06629992) 
+Member of Committee - Independent Director (Non-Executive Director)
+Mr. Achim Michael Braun (DIN:08596097) 
+Member of the Committee - Non-Executive Director and Chairman of the Company
+Mr. Nuguri Venu (DIN:07032076) 
+Member of Committee - Executive Director (Managing Director and CEO)
+*Ms. Nishi Vasudeva (DIN: 03016991) has resigned from the position of Independent Director and Ms. Meena Ganesh (DIN: 00528252)  has been appointed as Additional Director 
+in the capacity of Independent Director of the Company effective from May 24, 2023. Pursuant to this, the Committee has been reconstituted by inducting Ms. Meena Ganesh as 
+Chairperson of the Committee.
+X. Details of Review of NGRBCs by the Company: 
+Subject for review
+Indicate whether review was undertaken by Director/ 
+Committee of the Board / Any other Committee
+Frequency
+(Annually/ Half yearly/ Quarterly / Any other - please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7 P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against the 
+above policies and follow 
+up action
+Yes
+On a need basis
+Compliance with 
+statutory requirements 
+of relevance to 
+the principles, and 
+rectification of any non-
+compliances
+The Company is in compliance with all the applicable 
+statutory requirements.
+On a need basis
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+XI. Has the entity carried out independent Assessment 
+/ evaluation of the working of its policies by an external 
+agency? Yes/No. If yes, provide name of agency.
+No
+XII. If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated:
+Not Applicable
+Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity does not consider the Principles material to its 
+business (Yes/No) 
+The entity is not at a stage where it is in a position to 
+formulate and implement the policies on specified principles 
+(Yes/No) 
+The entity does not have the financial or/human and 
+technical resources available for the task (Yes/No) 
+It is planned to be done in the next financial year (Yes/No) 
+Any other reason (please specify) 
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE 
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core Elements with key 
+processes and decisions. The information sought is categorized as “Essential” and “Leadership”. While the essential indicators are 
+expected to be disclosed by every entity that is mandated to file this report, the leadership indicators may be voluntarily disclosed 
+by entities which aspire to progress to a higher level in their quest to be socially, environmentally and ethically responsible. 
+PRINCIPLE 1: Businesses should conduct and govern themselves with integrity, and in a manner 
+that is Ethical, Transparent and Accountable.
+Integrity, transparency and accountability
+The Company’s Code of Conduct is the framework that explains the behavior, the Company expects of every employee and 
+stakeholder who work with it. The Company’s Code of Conduct provides a framework to put business principles into practice 
+with utmost integrity. It is a breach of the Company’s Code of Conduct to fail to report a violation or suspected violation that 
+employees know about or to refuse to cooperate with the investigation of a suspected violation. Each employee is responsible 
+for ensuring that his or her conduct and the conduct of anyone reporting to the employee fully comply with all applicable laws 
+and the Company’s Code of Conduct. Hitachi Energy has developed and implemented a systematic approach designed to 
+prevent, detect and resolve any potential integrity concerns. This is supported by tools and processes and a zero-tolerance 
+policy for any violations.
+7
+	
+	
+HITACHI ENERGY INDIA LIMITED |
+ANNUAL REPORT 2022–23
+The Company’s integrity program has created an environment where all its employees can open about identifying risks, asking 
+questions, and raising concerns. This is in line with the Group using a systematic approach, designed to foster a culture of 
+integrity and compliance. This is carried out through leadership and business accountability, supported by strong tools and 
+processes, and a zero-tolerance policy for violations. As a part of the integrity program, employees of the Company are not just 
+encouraged but are required to speak up and to report any suspected or observed violations of the law, the Company’s Code 
+of Conduct, or if they are asked to do something that might be a violation. They are to report on any of their concerns initially to 
+their direct manager or country head of integrity or country human resources manager, or alternatively, through country specific 
+business ethics hotline numbers and e-mail which is routed to the Office of Special Investigations (OSI). The Company’s OSI 
+along with the integrity team then work towards investigation, and resolution of issues reported there in. The Company has 
+multiple reporting channels available to all its employees/stakeholders and this includes a business ethics hotline and an email 
+id that is available for employees to report integrity and compliance concerns or seek guidance. There is a web-based reporting 
+system available for employee/ stakeholders reporting (How do I report | Hitachi Energy - https://www.hitachienergy.com/about-
+us/integrity/reporting-channels/how-do-i-report). All reports received are subjected to appropriate investigation, follow up, and 
+brought to full closure; systematic process and tracking system and the Company enforces a rigorous non-retaliation policy. 
+The Company’s Anti-Corruption Policy is stated explicitly in the Corporate Regulations on Bribery and Anti-Corruption and 
+emphasizes key components that are essential for ensuring strict compliance to anti-bribery laws but also refraining from 
+corruption. The Company enforces a rigorous zero-tolerance policy against any involvement in bribery or corruption and has 
+put in place robust policies to prevent bribery such as on gifts, entertainment and expenses, charitable contributions and 
+representatives, and measures to ensure ethical supply chains. 
+The Company also ensures continuous compliance with competition and antitrust laws. The Company’s Code of Conduct 
+requires the Company to compete fairly, safeguard confidential information and be mindful of antitrust risks. The Company’s 
+behavior within its teams, with customers, other business partners and in the communities where it operates, are guided by 
+its business principles - respect, responsibility and determination - in compliance with antitrust requirements. The Anti-Trust 
+Guidance Notes aims to address practical business situations and provide rules and guidance for all Company employees on 
+how to conduct themselves in order to comply with antitrust requirements. The Company has an Internal Complaints Committee 
+for the prevention of sexual harassment as a part of the Sexual Harassment of Women at Workplace (Prevention, Prohibition and 
+Redressal) Act, 2013 that aims to provide protection against sexual harassment of women in the workplace and for prevention 
+and redressal of complaints of sexual harassment and for matters connected there with or incidentals thereto. The Company has 
+Internal Complaints Committee at each location and establishments (all locations where more than 10 women are employed).
+Essential indicators
+1. Percentage coverage by training and awareness programmes on any of the Principles during the financial year: 
+Segment
+Total number of training and 
+awareness programmes held
+Topics / principles covered under the training and  
+its impact
+% age of persons in 
+respective category 
+covered by the 
+awareness programmes
+Board of 
+Directors
+1. (Familiarized at regular 
+intervals, in each board  
+meeting / leadership  
+discussion as specified in  
+the next column)
+Independent Directors of the Company at the time of their appointment 
+are familiarized on the Company’s Core Values, Code of Conduct 
+including the purpose and the business it operates in.
+At each meeting of the Board/ Audit Committee, members also deliberate 
+on key integrity matters that helps to reflect and focus on key strategies. 
+As a part of Board, Audit, CSR and ESG, agenda members also discuss 
+various sustainable initiatives of the Company, including regulatory and 
+economic trends in the country.
+Executive and Non-Executive Directors being part of Hitachi Energy 
+group, also undergo familiarization on various topics like integrity, 
+sustainability, Human Rights, diversity and inclusion etc. at a group 
+leadership level.
+As a result of all the above awareness, strong brand and governance 
+framework is put in place, which is helping us to become a more 
+focused, successful and value-creating Company.
+100%
+1
+Hitachi Group Ethics & Compliance training
+100%
+Key Managerial 
+Personnel
+1
+Hitachi Group Ethics & Compliance annual e-learning
+100%
+Employees 
+other than  
+BOD and KMP
+1
+Hitachi Group Ethics & Compliance annual e-learning
+89%
+Workers
+19
+Integrity Training
+100% 
+8
+| HITACHI ENERGY INDIA LIMITED	
+ANNUAL REPORT 2022–23
+2. 
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by 
+the entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial 
+year, in the following format (Note: the entity shall make disclosures on the basis of materiality as specified in 
+Regulation 30 of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on the 
+entity’s website): 
+Monetary
+Particulars
+NGRBC Principle
+Name of the regulatory / 
+enforcement agencies/ 
+judicial institutions
+Amount in ₹
+Brief of the case
+Has an appeal been 
+preferred? Yes/No
+Penalty/Fine
+NIL
+NIL
+NIL
+NIL
+NIL
+Settlement
+NIL
+NIL
+NIL
+NIL
+NIL
+Compounding
+NIL
+NIL
+NIL
+NIL
+NIL
+Non-Monetary
+Imprisonment 
+NIL
+NIL
+NIL
+NIL
+NIL
+Punishment 
+NIL
+NIL
+NIL
+NIL
+NIL
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary 
+or non-monetary action has been appealed. 
+Case details
+Name of the regulatory/ enforcement agencies/ judicial institutions
+NA
+NA
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide 
+a web-link to the policy. 
+Hitachi Energy’s Anti-corruption policy is stated explicitly in its Corporate Regulation PGR-LI-02 on Anti-Bribery and 
+Anti-Corruption and emphasizes key components which are essential to ensuring a strict compliance to anti-bribery 
+laws but also refraining from corruption because it’s the right thing to do.
+https://www.hitachienergy.com/about-us/integrity/commitment
+Hitachi Energy Limited is certified for ISO:37001:2016 for Anti-bribery management systems. 
+5.	
+Number of Directors/ KMPs/ employees/ workers against whom disciplinary action was taken by any law 
+enforcement agency for the charges of bribery/ corruption: 
+Particulars
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 – March 31, 2022 
+Previous Financial Period
+Directors
+NIL
+NIL
+KMPs
+NIL
+NIL
+Employees
+NIL
+NIL
+Workers
+NIL
+NIL
+6. 
+Details of complaints with regard to conflict of interest: 
+Particulars
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 – March 31, 2022 
+Previous Financial Period
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to issue of conflict of Interest  
+of the Directors
+NIL
+-
+NIL
+-
+Number of complaints received in relation to issue of conflict of Interest  
+of the KMPs
+NIL
+-
+NIL
+-
+7. 
+Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by 
+regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest. 
+Not applicable
+Leadership Indicators
+1.	
+Awareness programmes conducted for value chain partners on any of the Principles during the financial year: 
+The Supplier Sustainability Development Program (SSDP) is supplier engagement to uphold human rights and decent 
+working conditions, ensure safe and environmentally sound operations and comply with relevant regulatory requirements 
+in supply chain. Sustainable and compliant suppliers reduce risk of disruption and negative brand impact. Additionally, 
+suppliers experience operational benefits like improved on-time delivery,  reduced  machine breakdown, increased 
+productivity and overall reduction in cost of manufacturing, thus becoming more efficient and effective.
+9
+	
+	
+HITACHI ENERGY INDIA LIMITED |
+ANNUAL REPORT 2022–23
+During financial year 2022-23, the Company has trained and assessed 14 high risk supplier partners on SSDP. Additionally, 
+during this period, the Company has trained and developed 7 of its internal people on SSDP, who have been certified by 
+Bureau Veritas as a lead assessor and are able to conduct the supplier assessments independently.
+Total number of awareness 
+programmes held
+Topics / principles covered under the 
+training
+% age of value chain partners covered (by value of business done 
+with such partners) under the awareness programmes
+NIL
+2.	
+Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? 
+(Yes/No) If Yes, provide details of the same. 
+Yes, the Company has in place a Code of Conduct for Directors and Senior Management and Company level Code of 
+Conduct and Related party transaction policy to report any conflict of interest beforehand. Further, conflict of interest can 
+also be flagged by any person through whistle blower mechanism.
+There is an Integrity Team to handle any instance of conflict of interest reported related to any employee, Directors and 
+Management and outsiders, if required. 
+PRINCIPLE 2: Businesses should provide goods and services in a manner that is sustainable 
+and safe
+Hitachi Energy India strives to have a life-cycle perspective when managing environmental aspects and impact. This means 
+looking beyond the environmental impact from its own operations to include its supply chain, the use of its products, and the 
+end of their lives. Environmental considerations are constantly made to reduce environmental impact and risks over the lifespan 
+of its solutions. Life-cycle Assessments (LCAs) and risks as well as collaboration with and feedback from customers are used as 
+input for improving the environmental performance of its products, systems, and services.
+For decades, sulfur hexafluoride (SF6) has been the norm in the electrification industry due to its excellent insultation and 
+switching capabilities. However, it has high Global Warming Potential (GWP), and its life-cycle management requires careful 
+handling. As part of its commitment to reduce emissions and enable a sustainable energy future, Hitachi Energy has invested in 
+eco-efficient alternative solutions like EconiQ™ and enhanced SF6 life-cycle management striving for zero leaks. The Company 
+will improve SF6 management through the implementation of a new SF6 management standard. 
+The Company has implemented Environment Management System at all manufacturing & project sites as per ISO 14001:2015 
+and certified by accredited third party. Environmental impacts are assessed for all processes and mitigation measures are in place. 
+Essential Indicators
+1. 
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the 
+environmental and social impacts of product and processes to total R&D and capex investments made by the 
+entity, respectively. 
+The Company’s R&D activities are carried out in the global R&D and technology centers as well as R&D embedded in 
+the local businesses, leveraging its local competence for creating social, environmental, and economic value, globally. 
+Development of new products, features, localized products, and solutions secure as well as create additional revenue with 
+increased number of customer engagements and installed bases.
+The R&D projects are run by Hitachi Energy Switzerland Ltd (which owns intellectual properties and technologies globally) 
+and the Company gets reimbursement of the cost by Hitachi Energy Switzerland Ltd. Therefore, there is no direct expense 
+incurred by the Company on these activities. 
+The Company is carrying out production-based R&D with use of Ester Oil against mineral for Transformer which provides 
+including biodegradability, higher flash point, higher thermal conductivity, lower calorific value and higher temperature 
+stability thus making transformers more environmentally friendly. 
+The Company has invested in Capex for upgrading and modernizing its production facilities to meet the customer and market 
+needs and support the Company’s carbon neutrality program. During the year under review, the Company has completed 
+major capex on upgrading thermic fluid heaters from Diesel to piped natural gas. A project was completed to bring the canal 
+surface water for production facilities to stop extracting the ground water. One of its facilities, Halol switched over to surface 
+water from ground water. This has decreased the water consumption by 15% as surface water is found to be of good quality 
+and has reduced RO plant operations. R&D teams are working on Digitalization of product’s use and monitoring. 
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 – March 31, 2022 
+Previous Financial Period
+Details of improvements in environmental and social 
+impacts
+R&D
+NA
+NA
+R&D projects are executed by Hitachi Energy 
+Switzerland Ltd and implemented globally
+Capex
+65,00,000
+NA
+Switch over from Diesel to PNG and water reduction 
+projects
+10
+| HITACHI ENERGY INDIA LIMITED	
+ANNUAL REPORT 2022–23
+2.a. 	 Does the entity have procedures in place for sustainable sourcing? (Yes/No) 
+Yes. The Company has set procedures to select suppliers, contractors and service providers based on their competence 
+and capability to undertake tasks and in compliance with the Hitachi Energy Supplier Code of Conduct which includes 
+health & safety, environment, ethics & integrity, human rights, working conditions among others. As a guiding principle, the 
+Company prefers to do business with compliant and sustainable suppliers. The Company has set procedures in place for 
+sustainable transportation as well. At the time of qualifying to become Company’s supplier, the vendor is assessed across 
+sustainability matrix.
+Supplier Sustainability Development Program (SSDP), Responsible Mineral Sourcing, Produce Material compliance, 
+partnering with EcoVadis to conduct sustainability performance assessments of suppliers and reinforce a sustainable 
+supply chain are some of the measures taken to ensure sustainable sourcing across the business supply chains.
+Supplier sustainability development program – Overview
+Supplier
+selection
+Corrective 
+Actions?
+1st CAP
+Closure
+Audit
+Supplier
+training &
+preparation
+Supplier
+Sustainability
+Assessment
+CAP
+Closed?
+2nd CAP
+Closure
+Audit
+CAP
+Closed?
+Block
+Supplier
+Monitor
+Performance
+Yes
+No
+Yes
+No
+Yes
+No
+Hitachi Energy power transformer sources the commodity’s raw materials from reputed and established global and local 
+suppliers which are engaged in long term business partnership ensuring the sustainability of the raw materials. Hitachi 
+energy Transformer follows global standards 1LAA 000048 and instructions for approving the suppliers for control of 
+hazardous substances / materials and follow corresponding safety guidelines. The Company has established process of 
+securing the yearly volume with close follow up by global commodity supply chain organization across globe.
+b.	
+If yes, what percentage of inputs were sourced sustainably? 
+In transformer business, the major components include transformer oil, electric steel, copper, insulation material which 
+comprises 80% of the total input which are sourced sustainably. 
+In high voltage products, 100% products are sourced from the suppliers who are sustainable and follow sustainable 
+practices. Suppliers are onboarded only after getting qualified through the Supplier Sustainability Development Program 
+(SSDP). Subsequently, suppliers also undergo assessment from Hitachi Energy. 
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of 
+life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste. 
+Hitachi Energy India manufactures the transformer using biodegradable and environmentally friendly material which are 
+recyclable, reusable or disposable with specific processes. Solid insulation made from naturally occurring cellulose are 
+biodegradable as well as recyclable. Electrical Magnetic steel is recycled in multiple electrical applications in industry. 
+Manufacturing processes used for manufacturing transformers are also designed to be safe and environmentally friendly. 
+At the end of the life of the transformer, the qualified 3rd party agencies are involved in handling the transformer components 
+and ensuring the laid down recycling / disposal treatments. 
+Product manual specifically mentions to follow the local legislation or Hitachi Energy guideline whichever is stringent for 
+disposal of the product. Recovery of SF6 gas is to be done before disposal of the product containing SF6 gas. 
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether 
+the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution 
+Control Boards? If not, provide steps taken to address the same. 
+Hitachi Energy India is not in business of producing plastic packaging material thus Extended Producer Responsibility 
+(EPR) requirements are not applicable. However, whatever plastic waste that gets generated during manufacturing is 
+collected and disposed off to state pollution control board approved recyclers. 
+Leadership Indicators 
+1.	
+Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing 
+industry) or for its services (for service industry)? If yes, provide details in the following format? 
+To understand the environmental impact of its products over their lifecycle, Hitachi Energy has performed LCAs for most 
+of its major products. Hitachi Energy has internal capabilities to do LCAs as per ISO 14040 and ISO 14044. 
+11
+	
+	
+HITACHI ENERGY INDIA LIMITED |
+ANNUAL REPORT 2022–23
+The LCAs are done and results are owned by Hitachi Energy Switzerland Ltd. The learnings are deployed as improvement.
+NIC  
+Code
+Name of Product / Service
+% of total  
+Turnover 
+contributed
+Boundary for which the 
+Life Cycle Perspective 
+/ Assessment was 
+conducted
+Whether conducted by 
+independent external 
+agency (Yes/No)
+Results communicated 
+in public domain  
+(Yes/No). If yes, provide 
+the web-link.
+27102
+Transformer including Distribution 
+Transformer / Power Transformer 
+and Traction Transformer
+80% of transformer 
+business unit
+For end user of the 
+product
+No
+No
+2. 
+If there are any significant social or environmental concerns and/or risks arising from production or disposal of 
+your products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other 
+means, briefly describe the same along-with action taken to mitigate the same.
+Life-cycle Assessments (LCAs) and risks as well as collaboration with and feedback from customers are used as input for 
+improving the environmental performance of its products, systems, and services.
+Manufacturing processes are environment friendly, however the LCA assessment are being done internally and the impacts 
+will be reviewed for social and environmental concerns.
+Name of Product / Service
+Description of the risk / concern
+Action Taken
+Transformers including Power / Distribution  
+and Traction transformer 
+End of life disposal of Product
+Decommissioning guidelines prepared
+Instrument Transformers 
+Oil Spillage – Land Contamination / Water 
+Pollution 
+Preventive maintenance program in place, oil 
+collection trays, spill kit and safe disposal
+Circuit Breakers 
+SF6 Leakage – Global Warming 
+SF6 Management system with mass balance 
+leakage sensors. 
+Gas Insulated & Hybrid Switchgear 
+SF6 Leakage – Global Warming 
+SF6 Management system with mass balance 
+leakage sensors. 
+3.	
+Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing 
+industry) or providing services (for service industry). 
+Hitachi Energy India manufactures and delivers transformers to customers and for them, the transformers are large capital 
+assets and high level of product reliability requirements. Hence, the raw material used are prime grade complying with the 
+guaranteed parameters, and therefore Company has limited scope of use of recycled material. However, the Company 
+makes strong efforts to ensure minimum waste of raw material during production. SF6 gas from its products is recovered 
+and reused before the disposal of the product. 
+Indicate input material
+Recycled or re-used input material to total material
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 – March 31, 2022 
+Previous Financial Period
+NA
+4.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, 
+and safely disposed, as per the following format: 
+Most of the products are packed in wooden packing cases and delivered at customer site. Few specific materials are 
+packed in plastic and delivered along with wooden packing case. At the site, these become the customer’s property, 
+hence disposed by the customer to authorized recycler. Pollution Control Board authorization for the private customers for 
+safe and responsible disposal is checked. 
+Particulars
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 – March 31, 2022 
+Previous Financial Period
+Re-Used 
+Recycled 
+Safely Disposed 
+Re-Used
+Recycled 
+Safely Disposed 
+Plastics (including packaging) 
+-
+-
+-
+-
+-
+-
+E-waste 
+-
+-
+-
+-
+-
+-
+Hazardous waste
+-
+-
+-
+-
+-
+-
+Other waste
+-
+-
+-
+-
+-
+-
+5.	
+Reclaimed products and their packaging materials (as percentage of products sold) for each product category. 
+Indicate product category 
+Reclaimed products and their packaging materials as %  
+of total products sold in respective category 
+NIL
+NIL
+12
+| HITACHI ENERGY INDIA LIMITED	
+ANNUAL REPORT 2022–23
+PRINCIPLE 3: Businesses should respect and promote the well-being of all employees, including those in 
+their value chains 
+People well-being
+The Company continues to attract top talent due to its inclusive culture and the immense opportunities available for nurturing 
+their talent. The people strategy is aligned with the Company’s overall ambition to be a pioneering technology leader. This 
+requires a stable work environment in a growing market by maximizing the potential of the Company’s workforce. To ensure that 
+the Company continues to attract top talent, multiple employer branding initiatives were launched not limiting to career fairs, 
+recruitment drives, university connect programmes and internship opportunities. During the year, the Company has consistently 
+set a clear path to learn and adapt to perform better in the changing market situation with its enhanced performance management 
+and talent strategy, focusing on building a healthy pipeline by attracting, assessing and developing talent. In addition, persistent 
+attention to provide an inclusive environment to promote diversity in gender, age and culture, including opportunities for global 
+mobility, also form a part of the proactive plan to manage talent in key function areas. The Company’s competency has been 
+aligned with the business strategy. The Company recognized exceptional performance and behavior in line with organizational 
+values through its rewards and recognition programme. There was continuous focus on improving the diversity in the workforce 
+throughout the year. A diversity outreach programme was also launched to encourage rehiring of performers who may have left 
+their career for various reasons. The entire approach to wellbeing was based on increasing diversity, promoting inclusion and 
+recognizing performance. Multiple awareness sessions on health and wellbeing were organized in different office locations and 
+factories to create awareness. Annual medical check-ups and camps were set up through the year to promote physical wellbeing.
+Career development and opportunities
+Keeping a strong focus on talent pipeline development, The Company has embarked on a ‘Develop & Grow’ journey this year, 
+with the objective of enabling a powerful talent ecosystem that helps build and develop capabilities for the future. The Company 
+has built a new paradigm of ‘hybrid jobs’ that combine technology, domain and industry experience. This enables us to attract 
+skillsets that complement its growth paradigm. The Company is also reskilling its workforce through structured learning paths 
+and offering them a new-age skill identity through various talent assessments & customized learning to bridge skill gaps. The 
+Company continues to enable internal talent growth and development by offering open dialogues, having regular performance 
+and development reviews including structured feedback, knowledge transfer and other opportunities for enriching their career. 
+Talent redeployment has been encouraged by providing avenues for internal mobility through talent rotation when any new 
+opportunity of hire arises. Adding to this, opportunities to work on different projects locally and across geographies / businesses 
+have also been provided. 
+The Company encourages its employees to progress within the organization as opportunities arise. The organization has a 
+strong talent management process to evaluate the best of talent, encourage and provide career development opportunities 
+for promising employees through individual career development plans. Developing leaders internally continues to be a priority 
+for the Company & with that in mind, succession plans are developed for all critical roles in the organization post talent risk 
+assessments and engagement study.
+Essential Indicators
+1.	
+a. Details of measures for the well-being of employees: 
+Category
+% of employees covered by
+Total  
+(A)
+Health insurance
+Accident insurance
+Maternity benefits
+Paternity Benefits
+Day Care facilities
+Number 
+(B)
+%  
+(B / A)
+Number 
+(C)
+% 
+ (C / A)
+Number 
+(D)
+%  
+(D / A)
+Number 
+(E)
+%  
+(E / A)
+Number  
+(F)
+%  
+(F / A)
+Permanent employees 
+Male 
+1614
+1614
+100%
+1614
+100%
+NA
+NA
+1614
+100%
+153
+9%
+Female 
+151
+151
+100%
+151
+100%
+151
+100%
+NA
+NA
+21
+14%
+Total 
+1765
+1765
+100%
+1765
+100%
+151
+100%
+1614
+100%
+174
+10%
+Other than Permanent employees 
+Male 
+44
+44
+100%
+44
+100%
+NA
+NA
+44
+100%
+5
+11%
+Female 
+20
+20
+100%
+20
+100%
+20
+100%
+NA
+NA
+0
+0
+Total 
+64
+64
+100%
+64
+100%
+20
+100%
+44
+100%
+5
+8%
+13
+	
+	
+HITACHI ENERGY INDIA LIMITED |
+ANNUAL REPORT 2022–23
+1.	
+b. Details of measures for the well-being of workers:
+Category 
+% of workers covered by
+Total  
+(A)
+Health insurance
+Accident insurance
+Maternity benefits
+Paternity Benefits
+Day Care facilities
+Number 
+(B)
+%  
+(B / A)
+Number 
+(C)
+%  
+(C / A)
+Number 
+(D)
+%  
+(D / A)
+Number 
+(E)
+%  
+(E / A)
+Number  
+(F)
+%  
+(F / A)
+Permanent employees 
+Male 
+554
+554
+100%
+554
+100%
+NA
+NA
+554
+100%
+37
+7%
+Female 
+4
+4
+100%
+4
+100%
+4
+100%
+NA
+NA
+2
+50%
+Total 
+558
+558
+100%
+558
+100%
+4
+100%
+554
+100%
+39
+7%
+Other than Permanent employees 
+Male 
+521
+521
+100%
+521
+100%
+NA
+NA
+521
+100%
+20
+4%
+Female 
+31
+31
+100%
+31
+100%
+31
+100%
+NA
+NA
+0
+0
+Total 
+552
+552
+100%
+552
+100%
+31
+100%
+521
+100%
+20
+4%
+2. 
+Details of retirement benefits, for current FY and Previous Financial Period:
+Particulars
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 – March 31, 2022 
+Previous Financial Period
+No. of employee 
+covered as a % of 
+total employees
+No. of workers 
+covered as a %  
+of total workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+No. of employee 
+covered as a % of 
+total employees
+No. of workers 
+covered as a %  
+of total workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+PF
+100%
+100%
+Y
+100%
+100%
+Y
+Gratuity
+100%
+100%
+Y
+100%
+100%
+Y
+ESI
+3%
+0%
+Y
+4%
+0%
+Y
+Others-Superannuation
+23%
+0%
+Y
+30%
+0%
+Y
+Note: 
+•	
+There are 75 employees covered under ESI 
+•	
+Superannuation is an optional retirement benefit for employees and 535 employees have availed the scheme.
+•	
+Superannuation & Gratuity is deposited with respective trusts. 
+3.	
+Accessibility of workplaces
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the requirements 
+of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard.
+Yes, the premises / offices of the entity is accessible to differently abled employees and workers
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, 
+provide a web-link to the policy.
+The Company encourages diversity through global policy of Diversity 360 which involves inclusion. The Company does 
+not have a policy in specific for disabled employees.
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent employees
+Permanent workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+100%
+100%
+100%
+100%
+Female
+100%
+100%
+100%
+100%
+Total
+100%
+100%
+100%
+100%
+126 employees have availed maternity/ paternity leaves and 100% of them have resumed work.
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+worker? If yes, give details of the mechanism in brief. 
+Yes, there are multiple ways, the employees can report their concerns/ grievances. The employees may use the Ethics 
+helpline/dedicated email id, inform the Immediate reporting manager/ HR representative for the function or the country 
+Integrity officer, Internal committee – Prevention of Sexual Harassment (POSH) etc.
+The Grievances received are thoroughly examined and enquires are undertaken in the given time frame to resolve the same.
+14
+| HITACHI ENERGY INDIA LIMITED	
+ANNUAL REPORT 2022–23
+Particulars
+Yes/No 
+(If Yes, then give details of the mechanism in brief)
+Permanent workers
+POSH policy, Ethics Global email
+Other than permanent workers
+POSH policy, Ethics Global email
+Permanent employees
+POSH policy, Ethics Global email
+Other than permanent employees
+POSH policy, Ethics Global email
+7.	
+Membership of employees and workers in association(s) or Unions recognised by the listed entity: 
+Particulars
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 – March 31, 2022 
+Previous Financial Period
+Total employees 
+/ workers in 
+respective category 
+(A)
+No. of employees / 
+workers in respective 
+category, who are part 
+of association(s) or  
+Unions (B)
+%  
+(B/A)
+Total employees 
+/ workers in 
+respective category 
+(C)
+No. of employees 
+/ workers in 
+respective category, 
+who are part of 
+association(s) or 
+Unions (D)
+%  
+(C/D)
+Total permanent employees
+1765
+0
+0
+0
+0
+0
+-Male
+1614
+0
+0
+0
+0
+0
+-Female
+151
+0
+0
+0
+0
+0
+Total permanent workers
+558
+558
+100%
+561
+561
+100
+-Male
+554
+554
+100%
+557
+557
+100
+-Female
+4
+4
+100%
+4
+4
+100
+8.	
+Details of training given to employees and workers: 
+Yes, all the Company employees underwent training on health & safety measures. 
+Particulars
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 – March 31, 2022 
+Previous Financial Period
+Total (A)
+On health and safety 
+measures*
+On skill upgradation
+Total  
+(D)
+On health and safety 
+measures*
+On skill upgradation#
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Male
+1614
+1614
+100%
+1614
+100%
+1578
+100%
+1188
+75.3
+Female
+151
+151
+100%
+151
+100%
+166
+100%
+129
+77.7
+Total
+1765
+1765
+100%
+1765
+100%
+1744
+100%
+1317
+75.5
+Workers
+Male
+554
+554
+100%
+554
+100%
+557
+100%
+343
+61.7
+Female
+4
+4
+100%
+4
+100%
+4
+100%
+4
+100
+Total
+558
+558
+100%
+558
+100%
+561
+100%
+347
+61.8
+*Regular programs on health & safety measures are conducted for all employees and workers. 
+#Skill upgradation programs are conducted on a periodical basis.
+#The casual/contractual employees are subjected to skill-based training depending on the work and job roles. Training matrix is designed 
+based on their job risk profiles. As and when required, refresher trainings are provided to upgrade skills based on any changes in the work/
+job profiles of employees.
+9.	
+Details of performance and career development reviews of employees and worker: 
+Particulars
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 – March 31, 2022 
+Previous Financial Period
+Total (A)
+No. (B)
+% (B/A)
+Total (C )
+No. (D)
+% (D/C)
+Employees
+-Male
+1614
+1366
+85%
+1846
+1409
+76.33%
+-Female
+151
+109
+72%
+179
+106
+59.22%
+Total
+1765
+1475
+84%
+2025
+1515
+74.81%
+Workers
+-Male
+-
+-
+-
+-
+-
+-
+-Female
+-
+-
+-
+-
+-
+-
+Total
+-
+-
+-
+-
+-
+-
+Above numbers for employees are based on the Annual Salary Revision eligibility of the financial year. 
+15
+	
+	
+HITACHI ENERGY INDIA LIMITED |
+ANNUAL REPORT 2022–23
+At Hitachi Energy India, Non-Management Staff (NMS) are also eligible for meritorious increment /promotion according 
+to practice of respective location in addition to normal increment. This practice differs based on the location and terms 
+agreed with the Union. Details given below:
+1.	
+Peenya:	
+Appraisal period  April to March 
+	
+	
+Each workman eligible for promotion after every 3rd year  
+2.	
+Mysore:	
+Appraisal period  January to December 
+	
+	
+All NMS eligible for promotion once in 4 years. 
+3.	
+Maneja:	
+Appraisal period April to March 
+	
+	
+35% of total strength eligible for promotion & 15% for increment every year. 
+10.	
+Health and safety management system: 
+a.	
+Whether an occupational health and safety management system has been implemented by the entity? 
+(Yes/ No). If yes, the coverage such system? 
+Yes, occupational health & safety management system has been implemented as per ISO 45001:2018 and certified. 
+b.	
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine 
+basis by the entity? 
+Activity based risk assessment (ABRA) is conducted for all activities which present a risk to HSE. As part of ABRA, 
+hazards are identified for the activity and risks are assessed. All hazards are reported by the Company and contract 
+employees to their line managers and entered in the global HSE/SA MIS system. 
+c.	
+Whether you have processes for workers to report the work-related hazards and to remove themselves from 
+such risks. (Y/N) 
+Yes
+d.	
+Do the employees/ worker of the entity have access to non-occupational medical and healthcare services? 
+(Yes/ No) 
+Yes
+11.	
+Details of safety related incidents, in the following format: 
+Safety Incident / Number
+Category
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 – March 31, 2022 
+Previous Financial Period
+Lost Time Injury Frequency Rate (LTIFR) (per one 
+Million-person hours worked)
+Employees
+0.08
+0
+Workers
+0.72
+0.3
+Total recordable work-related injuries
+Employees
+1
+1
+Workers
+14
+10
+No. of fatalities
+Employees
+0
+0
+Workers
+0
+0
+High consequence work-related injury or ill-health 
+(excluding fatalities)
+Employees
+0
+0
+Workers
+0
+0
+12.	
+Describe the measures taken by the entity to ensure a safe and healthy workplace. 
+As an organization, the Company has established a very strong focus on safety and have helped its employees stay 
+healthy – both, physically and mentally. Its targets for 2030 include zero harm – through rigorous risk assessments and 
+training – and top-quartile health absence rates. The following measures were taken amongst others to ensure a safe and 
+healthy workplace:
+•	
+HSE Management system has been implemented as per ISO 14001 & 45001 and continual improvements are done.
+•	
+Activity based risk assessment is conducted for all activities which present a risk to HSE. Activity Based Risk 
+Assessments (ABRA) are reviewed when there is an identified control failure (e.g., incident, audit or inspection or 
+should significant change occur (e.g., to the task, process, substances, resources, or technology) that may affect 
+the hazards and risks.
+•	
+HSE training - Training plans are developed based on the assessment of the current level of competence and 
+awareness. Trainings are in consideration of individual capabilities and cultural aspects. All trainings shall consider 
+the differing levels of responsibility, risks, ability, language skills and literacy. All relevant staff and persons working 
+on behalf of the Company shall participate in trainings as defined in the training plan.
+•	
+The Life Saving Rules (LSRs) apply to all employees and contractors regardless of work location or their role. 
+Life-saving rules – eLearning is mandatory for Hitachi Energy employees.
+16
+| HITACHI ENERGY INDIA LIMITED	
+ANNUAL REPORT 2022–23
+•	
+During the year under review, 9 electrical safety awareness programs were organized for employees and contractors 
+who perform an electrical work. 230 employees were trained, assessed & certified in these programs. 
+•	
+Hazards and control measures are communicated before start of the activity and monitored to ensure that controls 
+are implemented. All hazards are reported by the Company and contractor employees to their line managers and 
+entered in the global HSE/SA MIS system. Responsible managers are aware of their top five risks and, considering 
+these in conjunction with their top five incident categories, develop appropriate campaigns or action plans for 
+reducing the risks and managing those areas for improvement.
+•	
+All machinery and equipment used by Company personnel and contractors for work being performed by or on behalf 
+of Company must be suitable and fit for the intended purpose and use. The frequency for inspection of machinery 
+and equipment is determined by assessment of the risks in the use of that equipment, the environment in which the 
+equipment is used or operates and the manufacturers’ recommended schedule.
+•	
+Internal & external audits are carried out to check the adequacy of systems, procedures, and controls that are implemented. 
+•	
+Management reviews the status of the HSE Management System with regard to suitability, effectiveness and 
+adequacy and opportunities for improvement.
+13.	
+Number of Complaints on the following made by employees and workers: 
+Particulars
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 – March 31, 2022 
+Previous Financial Period
+Filed during  
+the year
+Pending resolution 
+at the end of year
+Remarks
+Filed during  
+the year
+Pending resolution 
+at the end of year
+Remarks
+Working conditions
+0
+0
+0
+0
+Health & Safety
+0
+0
+0
+0
+14.	
+Assessments for the year:
+Particulars
+% of your plants and offices that were assessed (by entity 
+or statutory authorities or third parties)
+Health and safety practices
+100 %
+Working conditions
+100 %
+15.	
+Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on 
+significant risks / concerns arising from assessments of health & safety practices and working conditions. 
+Many corrective actions but not limited to the following were taken to address safety related incidents and on significant 
+risks / concerns arising from assessments of health & safety practices and working conditions.
+•	
+All incidents are investigated as per the classification and corrective actions implemented to prevent its recurrence.
+•	
+Life-saving rules – eLearning training is made mandatory for all employees. 10 life-saving rules focus on eradicating 
+fatal and life-changing injuries resulting from its most critical risk activities. 
+•	
+Preparation of a Lift plan in case of all critical lift as per the mechanical lifting standard. The mechanical lifting 
+standard to have more clarity added around when Lift Plans are required. 
+•	
+Ensuring barrier/exclusion zones are sufficient, if unable, add alternate controls to provide safety redundancy. Clear 
+and effective communication between crane operator & signaler to be validated (visual, signals, radio, etc…)
+•	
+Standard vehicle inspection checklist is introduced to ensure entry of healthy vehicles into the facility.
+•	
+Mandatory electrical competency training for all contract workers working in switchyard irrespective of the work 
+they perform.
+•	
+Proper work planning when working on weekend / holidays. The approval must take care of High-risk activities 
+planned and supervision available.
+•	
+Even though every activity is controlled by an ABRA but since ABRA is often performed in advance before the actual 
+activity is started. The Stop! Take 5 addresses things that can change or be different just before, or during, the 
+activity, e.g., weather conditions, work area, location of activity, personnel available, etc.
+•	
+Country Level Health Survey was conducted with an aim to collect relevant information pertaining to Occupational 
+Health and Industrial Hygiene. The outcome shall be used to design various initiatives to improve working 
+environment. 
+•	
+Training of employees and workers to enhance their knowledge and consultation with employees to increase their 
+participation in risk management. 
+17
+	
+	
+HITACHI ENERGY INDIA LIMITED |
+ANNUAL REPORT 2022–23
+Leadership Indicators
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees 
+(Y/N) (B) Workers (Y/N). 
+(A)	Employees – Yes
+(B)	Workers – Yes
+2.	
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited 
+by the value chain partners. 
+Periodic compliance audit of the Company’s value chain partners is done for ensuring that the statutory dues are paid 
+properly. Awareness sessions are also being conducted on latest practices. 
+3.	
+Provide the number of employees / workers having suffered high consequence work-related injury / ill-health / 
+fatalities (as reported in Q11 of Essential Indicators above), who have been rehabilitated and placed in suitable 
+employment or whose family members have been placed in suitable employment:
+None of the employee /workers have suffered high consequence work-related injury / ill-health / fatalities in current and 
+previous financial year who require rehabilitation.
+Particulars
+Total Number of affected Employees /  
+Workers
+No. of employees/workers that are rehabilitated and placed 
+in suitable employment or whose family members have 
+been placed in suitable employment
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 - March 31, 2022 
+Previous Financial Period
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 - March 31, 2022 
+Previous Financial Period
+Employee
+0
+0
+NIL
+NIL
+Workers
+0
+0
+NIL
+NIL
+4.	
+Does the entity provide transition assistance programs to facilitate continued employability and the management 
+of career endings resulting from retirement or termination of employment? (Yes/ No) 
+No
+5.	
+Details on assessment of value chain partners:
+Particulars
+% of value chain partners (by value of business done with 
+such partners) that were assessed
+Health and Safety Practice
+100%
+Working Condition
+100%
+6. 
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from 
+assessments of health and safety practices and working conditions of value chain partners. 
+The responsible manager ensures compliance regarding all legal country, state or local regulations. Value chain partners/
+contract workers are trained and authorized to perform the assigned task and ensured each worker adheres to all 
+applicable HSE rules and site procedures of the Company. 
+PRINCIPLE 4: Businesses should respect the interests of and be responsive to all 
+its stakeholders
+Essential Indicators
+Sustainability performance forms an important basis for the Company’s dialogue with its stakeholders. A comprehensive dialogue 
+with key stakeholders and its inputs and feedback enabled Hitachi Energy to revisit its materiality matrix and develop the next 
+level 2030 objectives. The Sustainability 2030 Objectives are established by the Group and the legal entity has incorporated the 
+same along with the local objectives.
+The Company had dialogues with various Government entities central and state with regards to policy and presentation on the 
+Company’s innovative sustainable solutions such as electric vehicle charging and “Make-in-India”, smart cities, sustainable 
+mobility solutions, energy efficiency, efficiency upgradation in the railways sector, renewable energy, growth developments & 
+technology keeping the climate change, job skilling, etc. The Company also carried out its Supplier Sustainable Development 
+Program (SSDP) across chosen vendors.
+The Supplier Sustainability Development Program (SSDP) is supplier engagement to uphold human rights and decent working 
+conditions, ensure safe and environmentally sound operations and comply with relevant regulatory requirements in supply chain. 
+18
+| HITACHI ENERGY INDIA LIMITED	
+ANNUAL REPORT 2022–23
+Sustainable and compliant suppliers reduce risk of disruption and negative brand impact. Additionally, suppliers experience 
+operational benefits like improved on-time delivery, reduced machine breakdown, increased productivity, and overall reduction 
+in cost of manufacturing, thus becoming more efficient and effective. In the year 2022-23, as a part of supplier sustainability 
+development program, the Company assessed 10 suppliers within India. Further, the Company has been able to reduce the risk 
+level of 13 suppliers open since past years.
+As a part of continuous improvement in supplier sustainability, the Company has introduced a program to monitor and improve 
+greenhouse gases emissions originating in the Company’s suppliers. In this direction, the Company has collaborated with its 
+third-party service providers M/s Bureau Veritas, to provide training to its key suppliers to identify, measure and monitor the 
+emission levels within their area of manufacturing. The pilot program is planned to be implemented within Q1 of 2023-24 and full 
+implementation to be completed by Q4 2023-24.
+The Company during the period also organized several customer engagement events to bring the Company’s technologies 
+closer to the customers. The Company organized multiple customer connect programs on HSE/SA, to hear to the voice of the 
+customer to further improve the performance and to include the inputs of the customer into the strategy of the Company.
+1.	
+Describe the processes for identifying key stakeholder groups of the entity. 
+Leadership teams across businesses and functions review various audiences - primary to tertiary - to identify
+- those that we have most interactions and exchanges
+- those whom we impact economically and socially, and vice versa
+- with whom we create value and enable the energy transition
+- communities and those whom we can support
+These groups have been classified broadly as our key stakeholders, as listed below.
+2. 
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder 
+group. 
+Stakeholder 
+group
+Whether identified 
+as Vulnerable 
+& Marginalized 
+Group (Yes/No)
+Channels of Communication  
+(Email, SMS, Newspaper, Pamphlets, 
+Advertisement, Community Meetings, 
+Notice Board, Website), Other
+Frequency of 
+engagement (Annually/ 
+Half yearly/ Quarterly/ 
+Others-please specify)
+Purpose and scope of engagement 
+including key topics and concerns 
+raised during such engagement
+Business
+Customers
+No
+Emails
+Meetings, Trainings Webinars 
+Ad hoc
+Knowledge sharing
+Presentation of innovative sustainable 
+solutions
+Suppliers
+No
+Development programs 
+Meetings & Emails
+Annual Ongoing
+Supplier Sustainable Development 
+program
+Investors
+No
+Email, newspaper advertisement, 
+Boards’ report, quarterly financials, 
+annual financials, website, analyst 
+call, annual general meeting
+Annual, quarterly and  
+on a need basis
+Welfare of investors by management of 
+business operations in best possible 
+way, timely identification of risks and its 
+mitigation and imbibed with principles of 
+integrity and sustainability in all aspects 
+of the Company
+Business performance
+Annual general meeting, Analysts call
+Employees
+No
+HSE & Sustainability Programs & 
+trainings 
+Townhalls
+Employee welfare programs 
+Emails
+Ongoing
+Communication & feedback
+Competitors
+No
+Seminars
+Industry events
+& Associations
+Event based
+Networking & knowledge sharing
+Government
+Government and 
+regulators
+No
+Meetings
+Need based
+Presentation of innovative sustainable 
+solutions
+Legislators and 
+the law
+No
+Meetings
+Need based
+Compliances
+Trade bodies
+No
+Seminars & conferences
+Event based
+Networking & knowledge sharing
+19
+	
+	
+HITACHI ENERGY INDIA LIMITED |
+ANNUAL REPORT 2022–23
+Civil society
+International 
+organizations
+No
+Meetings
+Ad hoc
+Partner for Sustainability programs
+Local 
+communities
+Yes
+Community Meetings
+Ongoing
+Engagement for CSR activities
+Academia 
+and scientific 
+community
+No
+Seminars Meetings, Campus connect 
+programs
+Ad hoc
+R&D and educational partnerships
+Media
+No
+Meetings, Press Release, and events 
+Quarterly
+Thought leadership, Communication & 
+branding
+NGOs and 
+civil society 
+organizations, 
+trade unions
+No
+Interactions & Meetings
+Ad hoc
+Implementation of CSR projects
+Employee welfare
+Leadership Indicators
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, and 
+social topics or if consultation is delegated, how is feedback from such consultations provided to the Board. 
+Investors - Annual general meeting and analysts call.
+2. 
+Whether stakeholder consultation is used to support the identification and management of environmental, and 
+social topics (Yes / No). If so, provide details of instances as to how the inputs received from stakeholders on these 
+topics were incorporated into policies and activities of the entity. 
+Not applicable
+3.	
+Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ 
+marginalized stakeholder groups. 
+Yes. the Company has identified vulnerable/ marginalized stakeholder groups and is providing support to the beneficiaries 
+through CSR projects.
+PRINCIPLE 5: Businesses should respect and promote human rights
+The Company’s values are rooted in respect, including respect for the human rights of every single person who works for or with 
+us. Respecting and promoting human rights in its business activities is one of its priorities in its community’s impact area. Hitachi 
+Energy India recognizes that respect for human rights is a basic requirement and that failure to do so can cause harm to people 
+and adversely affect business, with potential legal, financial and reputational consequences. 
+The Company follows its Human Rights Policy and a Social Policy to respect human rights and to avoid causing or contributing 
+to adverse human rights impacts through own activities. The policy draws on the Universal Declaration of human rights, the 
+International Labour Organization (ILO) core conventions on labor standards, United Nations Global Compact (UNGC), the 
+Organisation for Economic Co-operation and Development (OECD) Guidelines for Multinational Enterprises, UN Sustainable 
+Development Goals (SDG) and the Social Accountability (SA) 8000 standard. All employees have access to the human rights 
+e-learning, which describes the human rights principles and risks for the Company. The Company has made a provision that 
+employees shall report any human rights risk or violation that might occur during projects, services and operations of the 
+Company. Human Rights performance are being monitored based on relevant indicators to evaluate and to prevent human rights 
+impacts in all of the Company’s operations and workplaces. The Company’s Human Rights and Social Policies specifically refer 
+to the ILO core conventions as the minimum to be achieved, with respect to non-discrimination, prohibition of child and enforced 
+labor, freedom of association and the right to engage in collective bargaining. The United Nations (UN) guiding principles are 
+central to the Company’s human rights training. A global awareness-raising program for all, on understanding how the Company 
+can potentially impact human rights, the importance of due diligence and how the Company is embedding human rights in 
+business processes, a global capacity building program is under way. 
+During the year under review, the Company has not received any grievances related to human rights. The Company seeks to 
+raise its standards, and increase its understanding, and mitigation of human rights risks.
+20
+| HITACHI ENERGY INDIA LIMITED	
+ANNUAL REPORT 2022–23
+Essential Indicators
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in 
+the following format: 
+Particulars
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 – March 31, 2022 
+Previous Financial Period
+Total  
+(A)
+No. of employees / 
+workers covered (B)
+% 
+(B/A)
+Total  
+(C)
+No. of employees / 
+workers covered (D)
+% 
+(C/D)
+Employees
+Permanent
+1765
+1765
+100%
+Employees were given induction training on policies before starting 
+their work
+Other than permanent
+64
+64
+100%
+Total employees
+1829
+1829
+100%
+All the employees were covered
+Workers
+Permanent 
+558
+558
+100%
+Workers were given induction training on policies before starting  
+their work
+Other than permanent
+552
+552
+100%
+Total workers
+1110
+1110
+100%
+All the employees were covered
+2.	
+Details of minimum wages paid to employees and workers, in the following format: 
+Particulars
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 – March 31, 2022 
+Previous Financial Period
+Total (A)
+Equal to  
+Minimum wage
+More than  
+minimum wage
+Total (D)
+Equal to  
+Minimum wage
+More than  
+minimum wage
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No . (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Permanent
+Male
+1614
+0
+0
+1614
+100%
+1706 - Minimum wages paid, as per the respective state 
+provisions and same is followed for female employees
+Female
+151
+0
+0
+151
+100%
+Other than Permanent
+Male
+44
+0
+0
+44
+100%
+38 - Minimum wages paid, as per the respective state 
+provisions and same is followed for female employees
+Female
+20
+0
+0
+20
+100%
+Workers
+Permanent
+Male
+554
+0
+0
+554
+100%
+561 - Minimum wages paid, as per the respective state 
+provisions and same is followed for female employees
+Female
+4
+0
+0
+4
+100%
+Other than Permanent
+Male
+521
+0
+0
+521
+100%
+661 - Minimum wages paid, as per the respective state 
+provisions and same is followed for female employees
+Female
+31
+0
+0
+31
+100%
+3.	
+Details of remuneration/salary/wages, in the following format: 
+Particulars
+Male
+Female
+Number
+Median remuneration / salary / 
+wages of respective category
+Number
+Median remuneration / salary / 
+wages of respective category
+Board of Directors (BOD)
+2 
+27,826,249.89
+ 2
+ 4,585,000
+Key managerial personnel (KMP)
+3
+13,352,568.93
+0
+NA 
+Employees other than BOD and KMP
+1885
+968,525
+199
+753,598
+Workers
+602
+1,061,042
+6
+856,259.48
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues 
+caused or contributed to by the business? (Yes/No) 
+Yes
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues. 
+– The Company has Internal committees for redressal of various grievances.
+21
+	
+	
+HITACHI ENERGY INDIA LIMITED |
+ANNUAL REPORT 2022–23
+6.	
+Number of Complaints on the following made by employees and workers: 
+Particulars
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 – March 31, 2022 
+Previous Financial Period
+Filed during 
+year
+Pending resolution  
+at the end of the year
+Remarks
+Filed during 
+year
+Pending resolution  
+at the end of the year
+Remarks
+Sexual harassment
+0
+0
+0
+0
+Discrimination at workplace
+0
+0
+0
+0
+Child labour
+0
+0
+0
+0
+Forced labour / Involuntary labour
+0
+0
+0
+0
+Wages
+0
+0
+0
+0
+Other human rights related issues
+0
+0
+0
+0
+7.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases. 
+Policies are made and awareness have been given to employees on the same.
+8.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No) 
+Yes
+9.	
+Assessments for the year: 
+Particulars
+% of your plants and offices that were assessed (by entity or statutory 
+authorities or third parties)
+Child labour
+100%
+Forced/Involuntary labour
+100%
+Sexual harassment
+100%
+Discrimination at workplace
+100%
+Wages
+100%
+Others-please specify
+   -
+10. 
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 9 above. 
+Not applicable
+Leadership Indictors
+1. 
+Details of a business process being modified / introduced as a result of addressing human rights grievances/
+complaints. 
+No such incidents/requirements so far.
+2.	
+Details of the scope and coverage of any Human rights due-diligence conducted. 
+3. 
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of 
+Persons with Disabilities Act, 2016? 
+Provisions are available.
+4.	
+Details on assessment of value chain partners: 
+Particulars
+% of value chain partners (by value of business done with such partners) 
+that were assessed
+Sexual harassment
+100%
+Discrimination at workplace
+100%
+Child labour
+100%
+Forced Labour / Involuntary labour
+100%
+Wages
+100%
+Others-please specify
+100%
+5. 
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 4 above. 
+No such risk/ concerns.
+22
+| HITACHI ENERGY INDIA LIMITED	
+ANNUAL REPORT 2022–23
+PRINCIPLE 6: Businesses should respect and make efforts to protect 
+and restore the environment  
+Hitachi Energy is a global technology leader that is advancing a sustainable energy future for all. The Company serves customers in 
+the utility, industry and infrastructure sectors with innovative solutions and services across the value chain. Together with customers 
+and partners, the Company pioneers technologies and enable the digital transformation required to accelerate the energy transition 
+towards a carbon-neutral future. Hitachi Energy is advancing the world’s energy system to become more sustainable, flexible and 
+secure whilst balancing social, environmental and economic values.
+To meet the changing needs of a growing population and limit global warming to 1.5 degrees, large-scale volumes of variable energy 
+generated from renewable sources need to be efficiently integrated into the world’s energy system. To facilitate the deployment of 
+technology at the scale and speed required, the Company believes that it must adapt and adopt new business models and collaborate 
+with all stakeholders to support sustainable, flexible and secure energy systems such as power grids. As more renewable power sources 
+join to gradually replace carbon-based energy, the Company needs to ensure that its grids remain resilient, and become more flexible as 
+they adapt to fast-changing demands and increasing decentralization. Only through effective digitalization of all elements of the energy 
+value chain can this be delivered. While making energy more accessible, affordable, and sustainable, the Company also needs better 
+energy efficiency at all stages of distribution and a reduced environmental footprint throughout the life cycle of all components.
+Sustainability 2030 is a strategic plan for sustainability where Hitachi Energy summarizes the main commitments to act and drive 
+business in a sustainable way. Based around four pillars: Planet, People, Peace and Partnerships. 
+Looking ahead, Hitachi Energy is continuing to invest in its journey towards carbon-neutrality by further increasing energy 
+efficiency, as well as electrifying its own operations.
+Together with customers, partners, and key stakeholders, Hitachi Energy is contributing to accelerating the energy transition to 
+ensure a sustainable energy future for all.
+Essential Indicators
+1.	
+Details of total energy consumption (in Giga Joules) and energy intensity, in the following format: 
+Parameter
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 – March 31, 2022 
+Previous Financial Period
+Total electricity consumption (A)
+1,78,298
+2,14,957
+Total fuel consumption (B)**
+2,15,061
+2,80,262*
+Energy consumption through other sources (C)
+12,510
+26
+Total energy consumption (A+B+C)
+4,05,869
+4,95,245
+Energy intensity per rupee of turnover (Total energy consumption/turnover 
+in rupees)
+0.000009
+0.00001
+Energy intensity (optional) – the relevant metric may be selected by the entity
+* Corrected fuel consumption (Conversion factor updated) 
+** Fuel consumption does not include the fuels consumed from fleet operations. 
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency. 
+Yes, GHG (Green House Gas) emission assessment done by DNV in 2021 (for the financial year January 01, 2020 to 
+December 31, 2020).
+2. 
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve 
+and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme 
+have been achieved. In case targets have not been achieved, provide the remedial action taken, if any. 
+Not applicable
+3.	
+Provide details of the following disclosures related to water, in the following format: 
+Parameter
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 – March 31, 2022 
+Previous Financial Period
+Water withdrawal by source (in kiloliters)
+(i)	 Surface water
+2,41,069
+2,27,099
+(ii)	 Groundwater
+1,92,164
+2,51,160
+(iii)	 Third party water
+6,030
+14,427
+(iv)	Sea water / desalinated water
+0
+0
+(v)	 Others
+0
+0
+23
+	
+	
+HITACHI ENERGY INDIA LIMITED |
+ANNUAL REPORT 2022–23
+Parameter
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 – March 31, 2022 
+Previous Financial Period
+Total volume of water withdrawal (in kiloliters) (i + ii + iii + iv + v)
+4,39,263
+4,92,686
+Total volume of water consumption (in kiloliters)
+2,43,032
+2,90,479
+Water intensity per rupee of turnover (Water consumed / turnover)
+0.0000054
+0.0000059
+Water intensity (optional) – the relevant metric may be selected by the entity
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) 
+If yes, name of the external agency. 
+No
+4.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation. 
+Yes. The Company has taken various initiatives for water conservation to reduce freshwater consumption and installed efficient 
+wastewater treatment systems at its manufacturing sites. In line with Zero Liquid Discharge approach, many of it’s units are 
+recycling treated wastewater for gardening as well as flushing purpose. The focus is to reduce wastewater economically and 
+produce clean water that is suitable for reuse (e.g., irrigation), thereby saving money and being environment friendly.
+5.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format: 
+Parameter
+Please 
+specify unit
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 – March 31, 2022 
+Previous Financial Period
+NOx
+PPM
+Complied
+Complied
+SOx
+PPM
+Complied
+Complied
+Particulate matter (PM)
+µg/m3
+Complied
+Complied
+Persistent organic pollutants (POP)
+NA
+NA
+Volatile organic compounds (VOC)
+µg/m3
+Complied
+NA
+Hazardous air pollutant (HAP)
+NA
+NA
+Others – please specify 
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency.
+Yes, Environment assessment done by Pollution Control Board approved Laboratory in respective states. 
+6.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following 
+format: 
+Parameter
+Please specify unit
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 – March 31, 2022 
+Previous Financial Period
+Total Scope 1 emissions  
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available)
+Metric tonnes of  
+CO2 equivalent
+25,083
+31,338
+Total Scope 2 emissions  
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available)
+Metric tonnes of  
+CO2 equivalent
+107
+23,763
+Total Scope 1 and Scope 2 emissions per rupee of 
+turnover
+0.0000006
+0.0000011
+Total Scope 1 and Scope 2 emission intensity 
+(optional) – the relevant metric may be selected by 
+the entity
+-
+-
+Note: Total scope 2 emissions are calculated considering International Renewable Energy Certification (I-REC) procured 
+for electricity consumed.
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency.
+Yes, GHG (Green House Gas) emission assessment done by DNV in 2021 (for the financial year January 01, 2020 to 
+December 31, 2020).
+7.	
+Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details. 
+By 2030, Hitachi Energy aims to achieve carbon-neutrality in its own operations. Hitachi Energy is targeting to reduce 
+carbon emissions by 50% along the value chain and reducing waste – along with its use of precious resources, like water. 
+24
+| HITACHI ENERGY INDIA LIMITED	
+ANNUAL REPORT 2022–23
+The Company continues to maintain 100% fossil free electricity consumption in its own operations. By achieving 100% 
+fossil-free electricity in its own operations, the Company have reduced its CO2 equivalent emissions by more than 42% 
+compared to previous year. 
+The Company did this through projects generating own fossil-free electricity, such as installing solar roof panels, switching 
+electricity contracts to green tariffs, buying International Renewable Energy Certificates (IRECs), and signing Power 
+Purchase Agreements (PPA). 
+To increase its share of renewable energy, 938KW of solar panel installations at Maneja is in progress and out of which 292 
+KW is commissioned & operational. The Company introduced rooftop solar for the electrification of a project site office 
+previous year and installed roof top solar at 4 more project sites in this financial year. 
+The Company continued to maintain focus on remaining parts of the operations – where fossil fuel is directly used. To 
+substitute HSD fuel with environment friendly PNG, projects were implemented in Thermic fluid heaters/Thermo-Pac 
+boilers and completed in PT F2, IT & Traction factory. 
+The Company is continuing to invest in its journey towards carbon-neutrality by further increasing energy efficiency, as 
+well as electrifying its own operations.
+The Company’s ambition extends beyond carbon-neutrality. The Company is working to reduce waste – along with its 
+consumption of precious resources, like freshwater. The Company will support SDG 12 (Responsible Consumption and 
+Production) and SDG 6 (Clean Water and Sanitation). The Company will minimize the use of water, materials, pollution, and 
+waste in its operations and throughout the life cycle of its solutions through a circular mindset.
+8.	
+Provide details related to waste management by the entity, in the following format: 
+Parameter
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 – March 31, 2022 
+Previous Financial Period
+Total Waste generated (in metric tonnes)
+Plastic waste (A) 
+117.0
+100.2
+E-waste (B) 
+14.19
+15.69
+Bio-medical waste (C) 
+0.046
+0.44
+Construction and demolition waste (D) 
+0.0
+0.01
+Battery waste (E) 
+14.57
+3.19
+Radioactive waste (F) 
+0.00
+0.00
+Other Hazardous waste. Please specify, if any. (G) 
+(Used Oil, Resin, oily quartz & papers, glass wool, discarded containers)
+314.34
+373
+Other Non-hazardous waste generated (H). Please specify, if any.  
+(Ferrous - MS & SS) & Nonferrous (Copper, Aluminum) Wood waste & dust) 
+(Break-up by composition i.e. by materials relevant to the sector) 
+7676.62
+7479
+Total (A+B + C + D + E + F + G + H) 
+8136.77
+7972
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations (in metric tonnes) 
+Category of waste 
+(i) Recycled 
+0
+0
+(ii) Re-used 
+0
+0
+(iii) Other recovery operations 
+0
+0
+Total 
+0
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes) 
+Category of waste 
+(i) Incineration 
+91.2
+70
+(ii) Landfilling 
+3335.4
+3410
+(iii) Other disposal operations 
+4692.2
+4491
+Total 
+8118.8
+7971
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency. 
+No, Periodic audits are done by DNV as per ISO 14001: 2015.
+9.	
+Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted 
+by your Company to reduce usage of hazardous and toxic chemicals in your products and processes and the 
+practices adopted to manage such wastes. 
+Managing waste from its own operations has been the Company’s priority and has been continuously improved through 
+the Company management system standard for waste management.
+25
+	
+	
+HITACHI ENERGY INDIA LIMITED |
+ANNUAL REPORT 2022–23
+Integration of sustainability considerations in Research & Development (R&D) gate models to ensure that Health, Safety, 
+and Environment are considered and understood when assessing R&D projects. 
+Reducing generations of waste and waste that are sent for final disposal remains the Company’s focal area. Waste 
+reduction is incorporated in the product design stage to ensure waste minimization in manufacturing process. Source 
+segregation of waste, in-house recycling of packaging materials and reuse continues to add more value to waste and 
+reduces the quantum of non-recyclable wastes that are sent to landfills. All wastes are sent to relevant Pollution Control 
+Board (PCB) authorized recyclers. Waste disposal is increased due to one-time waste of a power capacitor factory which 
+is relocated from Peenya to Doddaballapur in Bangalore. 
+10. 
+If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife 
+sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where 
+environmental approvals / clearances are required, please specify details in the following format: 
+Not applicable 
+S. No.
+Location of 
+operations / offices
+Type of operations
+Whether the conditions of environmental approval / clearance are being complied 
+with? (Y/N) 
+If no, the reasons thereof and corrective action taken, if any.
+11.	
+Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the 
+current financial year: 
+Not applicable
+Name and brief details  
+of project
+EIA Notification 
+No.
+Date
+Whether conducted by 
+independent external agency 
+(Yes / No)
+Results communicated in 
+public domain 
+(Yes / No)
+Relevant  
+Web link
+12.	
+Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment Protection Act 
+and Rules thereunder (Y/N). If not, provide details of all such non-compliances, in the following format: 
+Yes, the Company has complied with the applicable environmental laws/ regulations/ guidelines in India.
+S. No.
+Specify the law / regulation / guidelines 
+which was not complied with
+Provide details of the 
+non-compliance
+Any fines / penalties / action taken by 
+regulatory agencies such as pollution 
+control boards or by courts
+Corrective action 
+taken if any
+Leadership Indicators
+1.	
+Provide break-up of the total energy consumed (in Joules or it’s multiples) from renewable and non-renewable 
+sources, in the following format: 
+Parameter 
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 – March 31, 2022 
+Previous Financial Period
+From renewable sources 
+Total electricity consumption (A) # 
+1,77,853.65
+1,07,218
+Total fuel consumption (B) 
+0
+0
+Energy consumption through other sources (C) 
+2.65
+0
+Total energy consumed from renewable sources (A+B+C) 
+1,77,856.30
+1,07,218
+From non-renewable sources 
+Total electricity consumption (D) 
+464
+1,07,739
+Total fuel consumption (E)* 
+2,15,061
+2,80,262
+Energy consumption through other sources (F) 
+12,448
+26
+Total energy consumed from non-renewable sources (D+E+F) 
+2,27,973
+3,88,051
+# Total electricity consumption from renewable source consists of renewable energy from solar power, PPAs with third party & purchasing 
+of International Renewable Energy Certificates (I-RECs).
+*Fuel consumption does not include the fuels consumed from fleet operations. 
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency. 
+Yes, GHG (Green House Gas) emission assessment done by DNV in 2021 (for the financial year January 01, 2020 to 
+December 31, 2020).
+26
+| HITACHI ENERGY INDIA LIMITED	
+ANNUAL REPORT 2022–23
+2.	
+Provide the following details related to water discharged: 
+Parameter 
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 – March 31, 2022 
+Previous Financial Period
+Water discharge by destination and level of treatment (in kilolitres) 
+(i)	 To Surface water 
+1,33,995
+23,915
+- No treatment 
+0
+0
+- With treatment - please specify level of treatment* 
+1,33,995
+23,915
+(ii)	 To Groundwater 
+0
+0
+- No treatment 
+0
+0
+- With treatment - please specify level of treatment 
+0
+0
+(iii)	To Seawater 
+0
+0
+- No treatment 
+0
+0
+- With treatment - please specify level of treatment 
+0
+0
+(iv)	Sent to third - parties 
+0
+0
+- No treatment 
+0
+0
+- With treatment - please specify level of treatment 
+0
+0
+(v)	 Others 
+62,336
+1,78,291
+- No treatment 
+0
+0
+- With treatment – please specify level of treatment* 
+62,336
+1,78,291
+Total water discharged (in kilolitres) 
+ 1,96,331
+2,02,206
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of 
+the external agency. 
+*Water treatment is done before discharge of water to meet quality requirements as per conditions of consent to operate. 
+3.	
+Water withdrawal, consumption and discharge in areas of water stress (in kilolitres): 
+For each facility / plant located in areas of water stress, provide the following information: 
+(i)	
+Name of the area:
+1)	
+Maneja Village, Vadodara (Semi Critical) * 
+2)	
+Peenya Industrial Area, Bangalore Urban (Over exploited) *
+(ii)	
+Nature of operations: 
+1) 	
+Manufacturing of Transformers, Bushings & Breakers
+2) 	
+Manufacturing of control panels, sub-station automation system & grid automation products
+(iii)	
+Water withdrawal, consumption and discharge in the following format: 
+Parameter 
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 - March 31, 2022 
+Previous Financial Period
+Water withdrawal by source (in kilolitres) 
+(i)	 Surface water 
+0
+0
+(ii)	 Groundwater 
+1,77,462
+2,20,561
+(iii)	 Third party water 
+858
+565.6
+(iv)	Seawater / desalinated water 
+0
+0
+(v)	 Others 
+0
+0
+Total volume of water withdrawal (in kilolitres) 
+1,78,320
+2,21,126.6
+Total volume of water consumption (in kilolitres) 
+1,09,328
+1,35,050
+Water intensity per rupee of turnover (Water consumed / turnover) 
+-
+-
+Water intensity (optional) – the relevant metric may be selected by the entity 
+Water discharge by destination and level of treatment (in kilolitres) 
+(i)	 Into Surface water 
+6,756
+11,946
+- No treatment 
+0
+0
+- With treatment - please specify level of treatment
+6,756
+11,946
+(ii)	 Into Groundwater 
+0
+0
+- No treatment 
+0
+0
+- With treatment - please specify level of treatment 
+0
+0
+27
+	
+	
+HITACHI ENERGY INDIA LIMITED |
+ANNUAL REPORT 2022–23
+Parameter 
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 - March 31, 2022 
+Previous Financial Period
+(iii)	Into Seawater 
+0
+0
+- No treatment 
+0
+0
+- With treatment - please specify level of treatment
+0
+0
+(iv)	Sent to third-parties 
+0
+0
+- No treatment 
+0
+0
+- With treatment - please specify level of treatment
+0
+0
+(v)	 Others 
+62,236
+74,130
+- No treatment 
+0
+0
+- With treatment - please specify level of treatment
+62,236
+74,130
+Total water discharged (in kilolitres) 
+68,992
+86,076
+*As per Block wise Ground Water Resource Assessment -2020 by Central Ground Water Board
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency. 
+No
+4.	
+Please provide details of total Scope 3 emissions & its intensity, in the following format: 
+The Company has developed the criteria for measurement and calculation of emissions of relevant categories as per GHG 
+protocol guidance. The scope 3 emission of significant categories shall be reported from FY 2023-24 onwards.
+Parameter 
+Unit 
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 - March 31, 2022 
+Previous Financial Period
+Total Scope 3 emissions  
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, 
+NF3, if available) 
+Metric tonnes of 
+CO2 equivalent 
+-
+-
+Total Scope 3 emissions per rupee of turnover 
+-
+-
+Total Scope 3 emission intensity (optional) – the relevant 
+metric may be selected by the entity 
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency. 
+No
+5.	
+With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide 
+details of significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and 
+remediation activities. 
+Not applicable
+6. 
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource 
+efficiency, or reduce impact due to emissions / effluent discharge / waste generated, please provide details of the 
+same as well as outcome of such initiatives, as per the following format: 
+S. No.
+Initiative undertaken
+Details of the initiative (Web-link, if any,  
+may be provided along-with summary)
+Outcome of the initiative
+1
+Switch over to PNG (Piped Natural Gas) from HSD 
+(High Speed Diesel) for heating
+No
+CO2 emission reduction
+2
+Switched over to Surface water from ground water 
+at Halol
+No
+Reduction in water 
+consumption
+3
+Installed VFDs in Air handling units
+No
+Energy saving
+4
+Increased the capacity of solar installation
+No
+CO2 emission reduction
+7.	
+Does the entity have a Business Continuity and Disaster Management Plan? Give details in 100 words/ web link. 
+Yes, Business Continuity Planning (BCP) is a part of Hitachi Energy’s organizational resilience program. It is designed to 
+reduce the impact of a business interruption which could occur due to a range of events ranging from financial, natural 
+causes or man-made events. It helps business unit/function to respond effectively to the disruption and restore its essential 
+services and mission critical processes as quickly as possible to ensure timely recovery. It provides a reference tool for 
+the actions required during or immediately following an emergency or incident that threatens to disrupt business unit/ 
+functions normal business activities.
+28
+| HITACHI ENERGY INDIA LIMITED	
+ANNUAL REPORT 2022–23
+The key objectives of this business continuity plan are to:
+•	
+Identify advanced preparations and procedures that will enable Business Unit/Function to respond quickly to 
+disruptive incidents and ensure continuity of critical business functions.
+•	
+Reduce employee injury or loss of life, and minimize damage and losses
+•	
+Have documented plans and procedures to ensure effective execution of recovery strategies for critical business 
+functions.
+•	
+Reduce and mitigate disruptions to business operations.
+•	
+Identify teams which would need to respond to incidents and define specific responsibilities.
+•	
+Quantify the impact of incidents in terms of monetary, time, operations, and work force.
+•	
+Recover quickly from an emergency and resume full operations.
+Steps
+Key Business Processes & Recovery Priorities
+List all the key processes and sub processes that must be maintained or quickly restored in the event of a disruptive incident. It 
+provides a high-level description for each of the process and assigns a priority (criticality) ranking to each of them. 
+Risk assessment
+Risk Assessment (RA) is one of the main parts of the BCP system. The RA process involves identification, analysis, and 
+evaluation of all possible risks, hazards, and threats to the operating environment, and defines likelihood / impact of disruptive 
+events caused by such threats.
+Once the risks have been identified, their impact on different aspects of operations are gauged. Those risks which affect 
+mission-critical operations should be handled first. The following strategy is used to handle risks:
+•	
+Prevent – Risks which are of high probability with high impact. These risks must be attended first by using mitigation, 
+prevention or any other strategy to lessen or avoid its impact.
+•	
+Accept – Risks which have low probability and low impact. Nothing specific needs to be done for such risks, but the 
+organization should be vigilant. If a back-up strategy is put in place for such a risk, all the better.
+•	
+Contain – Risks which have a high probability of occurring but having low impact on operations. Use mitigation strategies 
+to minimize impact of the risk on business operations.
+•	
+Plan – Low probability but high impact events. Though this may be once in a lifetime event, its impact could be disastrous. 
+The business should plan the steps to be taken if such a risk occurs. Once the steps to be taken are in place, production 
+can be resumed in the shortest possible time with the least loss.
+Business Impact Analysis
+The Business Impact Analysis (BIA) identifies and prioritizes the mission-critical business processes and key functions, disruption 
+related operational impacts, and the resources (internal and external) required to recover critical operations.
+A properly executed BIA will guide in reducing the overall operational and financial impacts, reduce potential losses, and enhance 
+the business operations.
+Business Continuity Strategy
+Business Continuity Plan describes the strategy devised to maintain business continuity in the event of a disruption to operations. 
+This strategy will be invoked when the primary facility(ies) are somehow be damaged or inaccessible, and business critical 
+operations are interrupted.
+Recovery Priorities
+The strategy is to recover critical business functions at an alternate site location (if an off-site strategy has been put into effect 
+to provide recovery service). Critical business functions are the most critical for immediate recovery at the secondary location.
+8. 
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What 
+mitigation or adaptation measures have been taken by the entity in this regard. 
+Not available
+9.	
+Percentage of value chain partners (by value of business done with such partners) that were assessed for 
+environmental impacts. 
+Not available
+29
+	
+	
+HITACHI ENERGY INDIA LIMITED |
+ANNUAL REPORT 2022–23
+PRINCIPLE 7: Businesses, when engaging in influencing public and regulatory policy, 
+should do so in a manner that is responsible and transparent
+ 
+The Company is operating in a dynamic, competitive, and regulated environment, making the operations and compliance 
+more complex. 
+The Company is committed to follow the law of the land and has a policy of zero tolerance to non-compliance which is an 
+integral part of its culture and operating philosophy. To support, streamline and adapt quickly with the ever-changing policy 
+framework, the Company have key industry memberships as given below:
+Essential Indicators
+1.      a.  Number of affiliations with trade and industry Chambers/ Associations - 4
+         b.  List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) the 
+entity is a member of/ affiliated to. 
+S. No.
+Name of the trade and industry Chambers/ Associations
+Reach of trade and industry Chambers / 
+Associations (State/ National)
+1
+Confederation of Indian Industries
+State & National
+2
+Indian Electrical and Electronics Manufacturers’ Association
+National
+3
+Sweden Chamber of Commerce India
+National
+4
+Central Board of Irrigation and Power
+National
+2.	
+Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the 
+entity, based on adverse orders from regulatory authorities. 
+Not applicable since the Company has not received any adverse order from regulatory authorities towards issues related 
+to anti-competitive conduct.
+Name of authority
+Brief of the case
+Corrective action taken
+-
+-
+-
+-
+Leadership Indicators
+1.	
+Details of public policy positions advocated by the entity:
+S. No.
+Public policy advocated
+Method resorted 
+for such advocacy
+Whether information 
+available in public 
+domain (Yes/No)
+Frequency of Review by Board 
+Annually/ Half yearly/ Quarterly 
+/ Others - please specify)
+Web Link, if available
+1
+Electrification of public transport 
+and development of urban 
+infrastructure
+CII Karnataka 
+Industry forum
+-
+-
+-
+PRINCIPLE 8: Businesses should promote inclusive growth and 
+equitable development
+ 
+The Company’s Social Policy focuses on society, human rights, children and young workers, freedom of engagement, health 
+and safety, harassment and disciplinary practices, employee consultation, equality of opportunity working hours, compensation, 
+suppliers, community involvement and business ethics. 
+The policy is drawn principally on six sources: 
+1.	
+The Universal Declaration of Human Rights 
+2.	
+The UN Guiding Principles on Business and Human Rights 
+3.	
+The International Labour Organization’s Declaration on Fundamental Principles and Rights at work 
+4.	
+The OECD Guidelines for Multinational Enterprises 
+5.	
+The Global Sullivan Principles and 
+6.	
+The Social Accountability 8000 (SA 8000) standard 
+30
+| HITACHI ENERGY INDIA LIMITED	
+ANNUAL REPORT 2022–23
+The Company has its Corporate Social Responsibility (CSR) policy and framework for action along with clear focal areas against 
+which community engagement projects are taken up predominantly in and around its factory locations.
+The details of beneficiaries of CSR Projects are given in response to clause 6 of Leadership indicators.
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the 
+current financial year. 
+Not applicable
+Name and brief details  
+of project
+S. No.ification 
+No.
+Date of 
+notification
+Whether conducted by independent 
+external agency (Yes/No)
+Results communicated in 
+public domain (Yes/no)
+Relevant 
+web link
+NA
+NA
+NA
+NA
+NA
+NA
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by 
+your entity, in the following format: 
+Not applicable
+S. No. Name of Project for which R&R is ongoing
+State
+District No. of Project Affected Families (PAFs)
+% of PAFs covered by R&R
+NA
+NA
+NA
+NA
+NA
+NA
+3.	
+Describe the mechanisms to receive and redress grievances of the community. 
+The Company is committed to sustainable and inclusive development of the community’s social capital through active 
+engagement. Social surveys are organized through NGO partners to receive the grievances of community, if any. CSR 
+projects are identified and implemented in the following focus areas:
+•	
+Promote gender equality and empowering of women in engineering workforce
+•	
+Endorse education, employability & healthcare 
+•	
+Social impact projects to collaborate with communities to provide innovative off-grid solutions to improve access to 
+electricity in the country, especially in rural areas for its development 
+•	
+Support national disaster management and other government initiatives 
+•	
+Aid in sustainable development goals
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+Particulars
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Jan 1, 2021 - March 31, 2022 
+Previous Financial Period
+Directly sourced from MSMEs/small producers
+90%
+90%
+Sourced directly from within the district and neighboring districts
+80%
+80%
+Leadership Indicators
+1. 
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments 
+(Reference: Question 1 of Essential Indicators above): 
+Not applicable
+Details of negative social impact identified
+Corrective action taken
+-
+-
+2.	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as 
+identified by government bodies: 
+S. No.
+State
+Aspirational district
+Amount spent (In ₹)
+1
+Karnataka
+Bangalore, Mandya, Chickballapur, Chamrajnagar
+13.70
+2
+Gujarat
+Vadodara
+19.47
+3
+Tamil Nadu
+Chennai
+8.08
+4
+Telangana
+Warangal
+3.00
+5
+Uttarakhand
+Roorkee
+3.00
+6
+West Bengal
+Kharagpur
+4.00
+31
+	
+	
+HITACHI ENERGY INDIA LIMITED |
+ANNUAL REPORT 2022–23
+3.	
+(a)  Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising 
+marginalized /vulnerable groups? (Yes/No) - No
+	
+(b)  From which marginalized /vulnerable groups do you procure? - Not Applicable
+	
+(c)  What percentage of total procurement (by value) does it constitute? - Not Applicable
+4. 
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the 
+current financial year), based on traditional knowledge: 
+Not applicable
+S. No.
+Intellectual property based on 
+traditional knowledge
+Owned/Acquired  
+(Yes/No)
+Benefit shared  
+(Yes/No)
+Basis of calculating  
+benefit share
+-
+-
+-
+-
+5.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related 
+disputes wherein usage of traditional knowledge is involved 
+Not applicable
+Name of authority
+Brief of the case
+Corrective action taken
+-
+-
+-
+6. 
+Details of beneficiaries of CSR Projects: 
+S. No.
+CSR project
+No of persons benefitted from CSR 
+projects
+% of beneficiaries from vulnerable 
+and marginalized groups
+1
+Women in Manufacturing, Engineering – empowering 
+Girl students
+200
+Not applicable
+2
+Ambulance service- providing mobile physiotherapy 
+services for disabled.
+About 100
+3
+Mobile Deep freeze devices for transporting vaccines, 
+immunization kits 
+15 villages 
+4
+Urban Green cover development under Vadodara 
+Municipal Corporation
+General public at Vadodara
+5
+Green initiatives at Traffic medians
+General public on Bellary Road, Bengaluru
+6
+Development of 1.5km access road to villagers
+Local villages for commuting
+7
+Sustainable Public Mobility at IIT Madras
+Students’ community year after year
+8
+Smart Electric Grid – Laboratory at NIT Warangal
+Students’ community year after year
+9
+Smart & Sustainable Community at IIT Roorkee
+Students’ community year after year
+10
+New Energy Resources- at IIT Kharagpur
+Students’ community year after year
+11
+Smart & Sustainable assets at BVM College
+Students’ community year after year
+PRINCIPLE 9: Businesses should engage with and provide value to their consumers in a 
+responsible manner
+Essential Indicators
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback. 
+The Company customers have following channels through which complaints can be sent and following mechanism is in 
+place to respond to the same:
+i)	
+Customers can place the complaints through:
+a.	
+Contact Center
+b.	
+Through Email / Letter to the concerned area sales office or project management/order handling or through 
+the EPC/OEM/Distributor from which they have purchased the finished product.
+ii)	
+Upon receipt of the complaint, the sales team or the factory team who has received the complaint, will raise a ticket 
+in the system through Customer Compliant Resolution Process (CCRP) tool. The progress of these CCRP tickets are 
+tracked monthly.
+iii)	
+Customers, if not satisfied with pace of resolution or the resolution itself, can also request for an escalation matrix.
+iv)	
+Transactional NPS (Net Promoter Score) is used to track the customer feedback and analyzed to take corrective 
+actions, if necessary.
+v)	
+High severity customer complaints are monitored on monthly basis at management meetings.
+vi)	
+Feedbacks from customer visits are monitored at various steering committee levels.
+32
+| HITACHI ENERGY INDIA LIMITED	
+ANNUAL REPORT 2022–23
+2.	
+Turnover of products and/ services as a percentage of turnover from all products / service that carry information about: 
+The product manual provides information on Environmental and Social parameters wherever it is relevant to the product. 
+For products installed in the field, the Company can offer lifecycle management solutions through its service operations. 
+This will support decision-making for customers to manage and maintain their assets, including when it is time for upgrades 
+and decommissioning of assets. The Company is expanding its solutions for product end-of-life management, which have 
+already contributed to large amounts of recycled material in certain markets. One of the key pillars of its service strategy 
+is extending the life of its customers’ electrical infrastructure.
+Particulars
+As a percentage of total turnover
+Environmental and social parameters relevant to the product
+-
+Safe and responsible usage
+-
+Recycling and/or safe disposal
+-
+3.	
+Number of consumer complaints in respect of the following 
+Particulars
+April 1, 2022 - March 31, 2023 
+Current Financial Year
+Remarks
+Jan 1, 2021 - March 31, 2022 
+Previous Financial Period
+Remarks
+Received during  
+the year
+Pending resolution 
+at end of year
+Received during  
+the year
+Pending resolution 
+at end of year
+Data privacy
+None
+None
+None
+None
+Advertising
+None
+None
+None
+None
+Cyber-security
+None
+None
+None
+None
+Delivery of essential services
+None
+None
+None
+None
+Restrictive trade practices
+None
+None
+None
+None
+Unfair trade practices
+None
+None
+None
+None
+Other
+-
+-
+-
+-
+4.	
+Details of instances of product recalls on account of safety issues: 
+Particulars
+Number
+Reason for recall
+Voluntary recalls
+NIL
+NA
+Forced recalls
+NIL
+NA
+5.	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, 
+provide a web-link of the policy. 
+Yes, the link is as follows - https://www.hitachienergy.com/offering/solutions/cybersecurity 
+The Company is certified for ISO/IEC: 27001:2013 for information security management systems. 
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of 
+essential services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; 
+penalty / action taken by regulatory authorities on safety of products/ services. 
+No action taken or underway on issues relating to data privacy of customer.
+Leadership Indicators
+1.	
+Channels / platforms where information on products and services of the entity can be accessed (provide web link, 
+if available). 
+-	
+Yes, Web Link is as follows: https://www.hitachienergy.com/offering
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services. 
+The Company provides the following to inform and educate consumers about safe and responsible usage of products 
+and/or services. 
+-	
+Product operational Manual 
+-	
+Customer training on product, if required
+-	
+Factory Acceptance Test (FAT) confirmation
+-	
+On site commissioning support 
+-	
+On-site Service support to the customer
+33
+	
+	
+HITACHI ENERGY INDIA LIMITED |
+ANNUAL REPORT 2022–23
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services. 
+The Company manages with product life cycle management process like;
+•	
+EOL – End Of Life policy or 
+•	
+LTB – Last Time Buy policy
+4.	
+Does the entity display product information on the product over and above what is mandated as per local laws? 
+(Yes/No/Not Applicable) If yes, provide details in brief. Did your entity carry out any survey with regard to consumer 
+satisfaction relating to the major products / services of the entity, significant locations of operation of the entity or 
+the entity as a whole? (Yes/No) 
+Product safety is a critical component of each of its solutions and is exemplified as part of management system, which 
+contains a standard specifically for HSE requirements during product R&D. Each R&D project is accompanied by a project 
+specific HSE plan, requiring assessment of HSE risks, opportunities, and aspects. Additionally, all products are provided 
+with safety manuals, which include information concerning the safe use of products. Overall, product safety and design 
+programs allow us to incorporate safety by design and offer more value with less HSE & Sustainability impact.
+On packing box, the Company prints “FRAGILE MARK” & Glass symbol for upside done indication, Umbrella mark and 
+don’t stack, Don’t stamp marking.
+Yes. The Net Promoter Score (NPS) survey methodology is adopted to understand how the Company is perceived by its 
+customers. The surveys are administered online through a web-based application at planned intervals.
+5.	
+Provide the following information relating to data breaches: 
+a.	
+Number of instances of data breaches along-with impact - None
+b. 	
+Percentage of data breaches involving personally identifiable information of customers - Not Applicable
+34
+| HITACHI ENERGY INDIA LIMITED	
+ANNUAL REPORT 2022–23
+Health, Safety, Environment and Sustainability Policy:
+https://www.hitachienergy.com/content/dam/web/home/local-india/documents/sustainability/hse-and-sustainability-policy-
+with-signature.pdf
+Social Policy:
+https://www.hitachienergy.com/content/dam/web/home/local-india/documents/sustainability/social-policy_.pdf
+Human Rights Policy:
+https://www.hitachienergy.com/content/dam/web/home/local-india/documents/sustainability/human-rights-policy_.pdf
+Corporate Social Responsibility Policy (Company): 
+https://www.hitachienergy.com/in/en/investor-relations/corporate-governance
+Sexual harassment of women at the workplace Policy (Company):
+https://www.hitachienergy.com/in/en/investor-relations/corporate-governance
+Code of Conduct (Company):
+https://www.hitachienergy.com/about-us/integrity/standards/code-of-conduct
+Supplier Code of Conduct (Hitachi Energy Group):
+https://www.hitachienergy.com/about-us/supplying/supplier-code-of-conduct
+Sustainability development goals:
+https://www.hitachienergy.com/in/en/sustainability/sustainability-overview#our-commitment
+Corporate Governance (Company):
+ https://www.hitachienergy.com/in/en/investor-relations/corporate-governance#policies 
+Integrity Program (Hitachi Energy Group):
+https://www.hitachienergy.com/in/en/about-us/integrity
+Hitachi Energy Whistleblower - Protection Policy (Company): 
+https://www.hitachienergy.com/in/en/about-us/integrity/reporting-channels/whistleblower-protection-policy
+Links to the Company Policies 
+and Programs section
+Please scan the QR code to view all Hitachi 
+Energy India’s polices and programs

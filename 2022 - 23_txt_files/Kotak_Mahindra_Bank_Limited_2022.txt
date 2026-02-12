@@ -1,0 +1,5635 @@
+BRSR
+Section A: General Disclosures
+335
+Financial Statements
+Acceler@ting change
+Statutory Reports
+Financial Highlights
+Business Responsibility and Sustainability Report
+SECTION A: GENERAL DISCLOSURES
+I.	
+DETAILS OF THE LISTED ENTITY
+1
+Corporate Identity Number (CIN) of the Company
+L65110MH1985PLC038137
+2
+Name of the Company
+Kotak Mahindra Bank Limited
+3
+Year of incorporation
+21st November, 1985
+4
+Registered office address
+27BKC, C-27, G-Block, Bandra Kurla Complex, Bandra East, Mumbai 400051
+5
+Corporate address
+27BKC, C-27, G-Block, Bandra Kurla Complex, Bandra East, Mumbai 400051
+6
+E-mail
+esg.connect@kotak.com
+7
+Telephone
+(022)-61661615
+8
+Website
+https://www.kotak.com
+9
+Financial year for which reporting is being done
+FY 2022-23
+10
+Name of the Stock Exchange(s) where shares are listed
+Bombay Stock Exchange (BSE) and National Stock Exchange (NSE)
+11
+Paid-up Capital
+` 1,493.3 crore*
+12
+Name and contact details (telephone, email address) of the 
+person who may be contacted in case of any queries on 
+the BRSR report
+Ms. Chaitanya Kommukuri
+esg.connect@kotak.com
+13
+Reporting boundary
+Bank on a standalone basis
+	
+* This is the sum of equity and preferential shares.
+II.	
+PRODUCTS/SERVICES
+	
+14.	
+Details of business activities (accounting for 90% of the turnover):
+S. 
+No.
+Description of Main Activity
+Description of Business Activity
+ Percentage of Turnover of the entity
+1
+Treasury, BMU and 
+Corporate Centre
+Money market, forex market, derivatives and investments and 
+primary dealership of Government securities and Balance 
+Sheet Management unit (BMU) responsible for Asset Liability 
+Management and Corporate Centre which primarily comprises of 
+support functions.
+16
+2
+Corporate/Wholesale 
+Banking
+Wholesale borrowings and lending’s and other related services 
+to the corporate sector which are not included under retail 
+banking.
+41
+3
+Retail Banking
+It includes:
+Lending - Commercial vehicle finance, personal loans, home 
+loans, agriculture finance, other loans/services and exposures 
+which fulfill the four criteria for retail exposures laid down 
+in Basel Committee on Banking Supervision document 
+'International Convergence of Capital Measurement and Capital 
+Standards: A Revised Framework.'
+Branch banking - Retail borrowings covering savings, current, 
+term deposit accounts and Branch Banking network/services, 
+including the distribution of financial products.
+Credit cards - Receivables/loans relating to the credit card 
+business.
+43
+4
+Other Banking business
+Any other banking business not classified above.
+-
+	
+15.	
+Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. 
+No.
+Product/Service
+NIC Code
+% of total Turnover contributed
+1
+Monetary intermediation of commercial banks, saving banks, postal 
+savings bank and discount houses
+64191
+100%
+336
+III.	
+OPERATIONS
+ 
+16. 
+Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of offices
+Total
+National
+1,780  
+(branches)
+172  
+Corporate offices
+1,952
+International
+0
+2*
+2
+	
+	
+* Located in DIFC, Dubai and GIFT City, Gujarat
+	
+17.	
+Markets served by the entity:
+	
+	
+a.	
+Number of locations
+Locations
+Number
+National (No. of States)
+27
+International (No. of Countries)
+2
+	
+	
+b.	
+What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+	
+	
+Kotak Mahindra Bank does not export any products/services. Thus, this question is not applicable.
+	
+	
+c.	
+A brief on types of customers
+	
+	
+	
+We cater to a wide range of customers across our business activities such as consumer banking, commercial banking, wholesale banking, 
+custodial services, private banking and asset recovery. More details can be found in our Business Overview section. Customers who 
+access these services could be individuals, corporates, government entities, trusts and societies, sole proprietorship and partnership 
+concerns, etc.
+IV.	
+EMPLOYEES
+	
+18.	
+Details as at the end of Financial Year:
+	
+	
+a.	
+Employees and workers (including differently abled):
+S.
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+EMPLOYEES
+1.
+Permanent (D)
+56,115
+41,505
+73.96%
+14,610
+26.03%
+2.
+Other than Permanent (E)
+17,366
+12,588
+72.48%
+4,778
+27.51%
+3.
+Total employees (D + E)
+73,481
+54,093
+73.61%
+19,388
+26.39%
+	
+	
+b.	
+Differently abled Employees and workers:
+S.
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+DIFFERENTLY ABLED EMPLOYEES
+1.
+Permanent (D)
+12
+12
+100%
+0
+0
+2.
+Other than Permanent (E)
+0
+0
+0
+0
+0
+3.
+Total differently abled employees (D+ E)
+12
+12
+100%
+0
+0
+	
+19.	
+Participation/Inclusion/Representation of women1
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B/A)
+Board of Directors
+12
+2
+16.67%
+Key Management Personnel*
+6
+2
+33.33%
+	
+	
+*The bank has 6 KMPs of which four are also covered in the Board of Directors
+1     GRI 405-1
+BRSR
+Section A: General Disclosures
+337
+Financial Statements
+Acceler@ting change
+Statutory Reports
+Financial Highlights
+	
+20.	
+Turnover rate for permanent employees and workers
+	
+	
+(Disclose trends for the past 3 years)
+FY 2022-23
+FY 2021-22
+FY 2020-21
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent employees
+Please refer to the turnover data in the ESG data tables section
+V.	
+HOLDING, SUBSIDIARY AND ASSOCIATE COMPANIES (INCLUDING JOINT VENTURES)
+	
+21.	
+(a) 	
+Names of holding/subsidiary/associate companies/joint ventures:
+S. 
+No.
+Name of the holding /subsidiary/associate companies/joint 
+ventures (A)
+Indicate whether 
+holding/ Subsidiary/ 
+Associate/ Joint Venture
+Percentage of 
+shares held by 
+listed entity*
+Does the entity indicated 
+at column A, participate in 
+the Business Responsibility 
+initiatives of the listed entity? 
+(Yes/No)
+1
+Kotak Mahindra Capital Company Limited
+Subsidiary
+100%
+Yes, these entities contribute 
+to the Group’s voluntary 
+disclosures on Business 
+Responsibility while some 
+of them also have their own 
+public disclosures on their 
+websites. It is to be noted 
+that BRSR boundary is limited 
+to the bank on a standalone 
+basis.
+2
+Kotak Investment Advisors Limited
+Subsidiary
+100%
+3
+Kotak Mahindra, Inc.
+Subsidiary
+100%
+4
+Kotak Mahindra (International) Limited
+Subsidiary
+100%
+5
+Kotak Securities Limited
+Subsidiary
+100%
+6
+Kotak Mahindra Prime Limited
+Subsidiary
+100%
+7
+Kotak Mahindra Asset Management Company Limited
+Subsidiary
+100%
+8
+Kotak Mahindra Trustee Company Limited
+Subsidiary
+100%
+9
+Kotak Mahindra Investments Limited
+Subsidiary
+100%
+10
+Kotak Mahindra Pension Fund Limited
+Subsidiary
+100%
+11
+Kotak Infrastructure Debt Fund Limited
+Subsidiary
+100%
+12
+Kotak Mahindra Trusteeship Services Limited
+Subsidiary
+100%
+13
+Kotak Mahindra Life Insurance Company Limited
+Subsidiary
+100%
+14
+Kotak Mahindra (UK) Limited
+Subsidiary
+100%
+15
+Kotak Mahindra Financial Services Limited
+Subsidiary
+100%
+16
+Kotak Mahindra General Insurance Company Limited
+Subsidiary
+100%
+17
+BSS Microfinance Limited
+Subsidiary
+100%
+18
+Kotak Mahindra Asset Management (Singapore) Pte. Limited
+Subsidiary
+100%
+19
+IVY Products Intermediaries Limited
+Subsidiary
+100%
+20
+Infina Finance Private Limited
+Associates
+100%
+No
+21
+Phoenix ARC Private Limited
+Associates
+100%
+	
+* Percentage of Shareholding includes direct and indirect holdings through subsidiaries
+VI.	
+CSR DETAILS
+	
+22.	
+(i) 	
+Whether CSR is applicable as per section 135 of Companies Act, 2013: Yes
+	
+	
+(ii)	
+Turnover* (in ) : ` 41,333.90 crore
+	
+	
+(iii)	
+Net worth (in ): ` 82,794.81 crore
+	
+* Turnover for the bank is total income
+338
+VII.	
+Transparency and Disclosures Compliances
+	
+23.	
+Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business Conduct:
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance Redressal 
+Mechanism in Place 
+(Yes/No)
+(If Yes, then provide 
+web-link for 
+grievance redress 
+policy)
+FY 2022-23
+FY 2021-22
+Number of 
+complaints 
+filed 
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed 
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the 
+year
+Remarks
+Local 
+Communities
+Yes
+E-mail at Kotak 
+Corporate Social 
+Responsibility  
+(https://www.kotak.
+com/en/customer-
+service/contact-us/
+email-us.html)
+0
+0
+0
+0
+Community 
+grievances are 
+received through 
+our NGO partners.
+Investors and
+Shareholders
+Yes
+E-mail at 
+Institutional 
+Investors/Retail 
+Investors (https://
+www.kotak.com/
+en/investor-
+relations.html)
+35
+0
+49
+2
+Pending 
+grievances solved 
+on 19th April, 2022
+Employees 
+and workers
+Yes. The internal 
+mechanisms are 
+highlighted in 
+Employee code of 
+conduct. https://
+www.kotak.
+com/content/
+dam/Kotak/
+investor-relation/
+governance/
+Policies/
+code_of_conduct_
+employee-2972021.
+pdf
+71
+18
+Including 56 
+POSH cases and 
+15 other cases.
+40
+8
+Including POSH 
+cases. Out of the 
+pending cases 
+4 were closed in 
+April, 2022
+Customers
+Yes
+E-mail here as per 
+product/service
+(https://www.kotak.
+com/en/customer-
+service/grievance-
+redressal.html)
+2,35,655
+11,218
+These exclude 
+complaints 
+redressed in zero 
+and one day
+1,98,146
+8,195
+These exclude 
+complaints 
+redressed in zero 
+and one day
+Value Chain 
+Partners
+0
+0
+Vendors route 
+their grievances 
+through the 
+business team 
+that they engage 
+with, there 
+have been no 
+substantial 
+grievances 
+reported in this 
+reporting period
+0
+0
+Vendors route 
+their grievances 
+through the 
+business team 
+that they engage 
+with, there 
+have been no 
+substantial 
+grievances 
+reported in this 
+reporting period
+Other (please 
+specify)
+NA
+	
+24.	
+Overview of the entity’s material responsible business conduct issues
+	
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters that 
+present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or mitigate the risk along-with its 
+financial implications, as per the following format:
+	
+	
+Please refer to the ‘Stakeholder engagement and materiality assessment’ section on page 48-49 for details of our material topics. The risks, 
+opportunities and management of the topics have been discussed at length in the respective sections wherein the material topics have been 
+covered.
+BRSR
+Section B: Management And Process Disclosures
+339
+Financial Statements
+Acceler@ting change
+Statutory Reports
+Financial Highlights
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting the NGRBC Principles and 
+Core Elements.
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and Management Processes
+1
+a. 	 Whether your entity’s policy/policies cover each principle and its core elements of the 
+NGRBCs. (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+b. 	 Has the policy been approved by the Board? (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+c. 	 Web Link of the Policies, if available
+Policies | Investor Relations - Kotak Mahindra 
+Bank Banking Policies (https://www.kotak.com/
+en/investor-relations/governance/policies.html, 
+https://www.kotak.com/en/customer-service/
+important-customer-information/banking-
+policies.html.)
+2
+Whether the entity has translated the policy into procedures. (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+3
+Do the enlisted policies extend to your value-chain partners? (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+4
+Name of the national and international codes/certifications/ labels/ standards (e.g., Forest 
+Stewardship Council, Fairtrade, Rainforest Alliance, Trustee) standards (e.g., SA 8000, OHSAS, 
+ISO, BIS) adopted by your entity and mapped to each principle.
+ISO 45001:2018 and ISO 27001: 2022
+5
+Specific commitments, goals and targets set by the entity with defined timelines, if any.
+We aspire to have women represent at least a 
+third of our workforce
+6
+Performance of the entity against the specific commitments, goals, and targets alongwith 
+reasons in case the same are not met.
+Please refer to the ESG Data Tables on page 364
+Governance, leadership and oversight
+7. 
+Statement by director responsible for the business responsibility report, highlighting ESG related 
+challenges, targets and achievements (listed entity has flexibility regarding the placement of this 
+disclosure)
+Message from Uday Kotak
+8.
+Details of the highest authority responsible for implementation and oversight of the Business 
+Responsibility policy (ies).
+CSR and ESG committee of the Board
+9.
+Does the entity have a specified Committee of the Board/ Director responsible for decision 
+making on sustainability related issues? (Yes/No). If yes, provide details.
+Yes. Board level CSR and ESG Committee
+Mr. Prakash Apte (Non-Executive Chairman, 
+Independent)
+Mr. C. Jayaram (Non-Executive Director)
+Mr. Dipak Gupta (Joint Managing Director)
+Mr. C. S. Rajan (Non-Executive Director, 
+Independent)
+10.	  Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether review was undertaken by 
+Director/Committee of the Board/Any other 
+Committee
+Frequency (Annually/ Half yearly/ 
+Quarterly/Any other, please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above policies and follow up action
+Board Committee
+Annually
+Compliance with statutory requirements of relevance to the 
+principles, and rectification of any non-compliances
+Board Committee
+Annually
+11.	  Has the entity carried out independent assessment/ evaluation of the working of its policies by an 
+external agency? (Yes/No). If yes, provide name of the agency
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+No
+12.	  If answer to question (1) above is “No”, i.e., not all Principles are covered by a policy, reasons to be stated:
+Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity does not consider the Principles material to its business (Yes/No)
+Not Applicable
+The entity is not at a stage where it is in a position to formulate and implement the policies on 
+specified principles (Yes/No)
+The entity does not have the financial or/human and technical resources available for the task (Yes/
+No)
+It is planned to be done in the next financial year (Yes/No)
+Any other reason (please specify)
+340
+Sr. 
+No.
+Principle No. and Definition
+List of Policies
+1
+Principle 1: Businesses should conduct and 
+govern themselves with integrity in a manner 
+that is ethical, transparent and accountable
+Business Responsibility Policy; Code of Bank’s Commitment to Customers; Code of Conduct 
+(Directors); Code of Conduct (Employees); Code of Fair Disclosure of UPSI; Compliance Policy; 
+KYC and Anti-Money Laundering (AML) Policy, ESG Policy Framework; Enterprise-wide Risk 
+Management Framework; Fraud Risk Management Policy; Policy for Determination of Materiality 
+of Events or Information; Policy on Dealing with Related Party Transactions; Stress Testing Policy; 
+Whistle Blower Policy; Vigilance Policy; Compensation Policy; Compensation Policy for Executive 
+Directors
+2
+Principle 2: Businesses should provide goods 
+and services in a manner that is sustainable 
+and safe
+Privacy Policy; Information Security and Cyber Security Policy; Apex Information Technology 
+Policy; Operational Risk Management Policy
+3
+Principle 3: Businesses should respect and 
+promote the well-being of all employees, 
+including those in their value chain
+Code of Conduct (Employees); Diversity Inclusion and Equity Statement; Employee Volunteering 
+Policy; Health, Safety and Welfare at Work-Place Policy; New Mother Benefit Policy; Pandemic 
+Benevolent Policy; Whistle Blower Policy; Training Policy
+4
+Principle 4: Businesses should respect the 
+interests of and be responsive towards all its 
+stakeholders
+Board Diversity Policy; Corporate Responsibility Policy; Diversity Inclusion and Equity Statement; 
+Grievance Redressal Policy; Whistle Blower Policy
+5
+Principle 5: Businesses should respect and 
+promote human rights
+Diversity, Inclusion and Equity Statement; Equal Employment Opportunity Policy; Human Rights 
+and Anti-discrimination Policy; Policy on Sexual Harassment of Women
+6
+Principle 6: Businesses should respect, protect 
+and make efforts to restore the environment
+ESG Management Systems Plan (EMSP); ESG Policy Framework; Environment Policy
+7
+Principle 7: Businesses when engaging in 
+influencing public and regulatory policy, should 
+do so in a manner that is responsible and 
+transparent
+ESG Policy Framework; Compliance Policy
+8
+Principle 8: Businesses should promote 
+inclusive growth and equitable development
+Corporate Social Responsibility Policy; ESG Policy Framework; Employee Volunteering Policy
+9
+Principle 9: Businesses should engage with 
+and provide value to their consumers in a 
+responsible manner
+Collection of Dues and Repossession of Security Policy; Code of Conduct for Conduct for 
+Collection of Dues - Credit Cards; Fair Practice Code (Bank); Fair Practice Code for Credit Card 
+Operations; Fair Practice Code for Lenders; Fair Practice Code: Microfinance Loans; Customer’s 
+Compensation Policy; Information Security and Cyber Security Policy
+BRSR
+Section C: Principle Wise Performance
+341
+Financial Statements
+Acceler@ting change
+Statutory Reports
+Financial Highlights
+SECTION C: PRINCIPLE-WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core Elements with key processes and decisions. 
+The information sought is categorized as “Essential” and “Leadership”. While the essential indicators are expected to be disclosed by every entity that is 
+mandated to file this report, the leadership indicators may be voluntarily disclosed by entities which aspire to progress to a higher level in their quest to be 
+socially, environmentally and ethically responsible.
+PRINCIPLE 1: BUSINESSES SHOULD CONDUCT AND GOVERN THEMSELVES WITH INTEGRITY, AND IN A MANNER THAT IS 
+ETHICAL, TRANSPARENT AND ACCOUNTABLE.
+Essential Indicators
+1. 
+Percentage coverage by training and awareness programmes on any of the Principles during the financial year:
+Segment
+Total number 
+of training and 
+awareness 
+programmes held
+Topics/ principles covered under the training and its impact
+Percentage of persons 
+in respective category 
+covered	by the awareness 
+programmes **
+Board of Directors
+13
+Sessions on Strategy, Risk Management,
+Compliance, Human Resource management, ESG, Corporate Social 
+Responsibility, Financial Inclusion, Customer protection, Financial 
+Outlook, Cyber Security Awareness, Wholesale Banking Business and 
+Consumer Banking Business
+100%
+Key Managerial 
+Personnel
+12
+Sessions on Strategy, Risk Management,
+Compliance, Human Resource management, ESG, Corporate Social 
+Responsibility, Financial Inclusion, Customer protection, Financial 
+Outlook, Wholesale Banking Business and Consumer Banking Business
+100%
+Employees other 
+than BoD and 
+KMPs
+8,295*
+Functional skills and knowledge programmes, programmes pertaining 
+to skill upgradation, managerial or leadership capability training, culture 
+building, digital technologies and compliance-related trainings.
+92.68%
+	
+* This number includes 1,534 unique digital learning modules and 6,761 instructor-led training programmes
+	
+** This represents employees who have attended any of the training programmes on any of the NGRBC principles
+2. 
+Details of fines/penalties/punishment/ award/compounding fees/settlement amount paid in proceedings (by the entity or by directors/KMPs) 
+with regulators/law enforcement agencies/judicial institutions, in the financial year, in the following format (Note: the entity shall make 
+disclosures on the basis of materiality as specified in Regulation 30 of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 
+and as disclosed on the entity’s website):
+	
+There have been no such cases during the reporting period.
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/Revision preferred in cases where monetary or non-monetary action has 
+been appealed.
+ 	
+Not applicable as there have been no such cases
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide a web-link to the policy.
+	
+Yes, our anti-corruption and anti-bribery guidelines are covered as a part of our Employee Code of Conduct. This Code is applicable to all employees 
+(including overseas bank representative offices and overseas branches), whole-time Directors of Kotak Mahindra Bank Limited and its subsidiaries 
+and affiliate companies, whether permanent, part-time and on fixed term contract. The coverage of these guidelines includes aspects related to 
+cash or gifts to an individual or relatives or associates, non-monetary favours, false political or charitable donations amongst others. Please find 
+further details at: Employee Code of Conduct
+5. 
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement agency for the charges 
+of bribery/ corruption:
+	
+No such cases have been reported in the current and previous reporting period.
+6.	
+Details of complaints with regard to conflict of interest:
+	
+No such cases have been reported in the current and previous reporting period against any BODs or KMPs.
+7. 
+ Provide details of any corrective action taken or underway on issues related to fines/penalties/action taken by regulators/law enforcement 
+agencies/judicial institutions, on cases of corruption and conflicts of interest.
+	
+As there have been no cases, this is not applicable. Further, we have well-defined processes to ensure compliance with corruption and conflict of 
+interest-linked policies and regulations.
+342
+Leadership Indicators
+1. 
+Awareness programmes conducted for value-chain partners on any of the Principles during the financial year:
+Total number of awareness programmes held
+Topics/Principles covered under 
+the training
+Percentage of value-chain partners covered (by value of 
+business done with such partners) under the awareness 
+programmes
+The majority of our outsourced vendors are required to adhere to a code of conduct for service providers, which is incorporated as part of the 
+standard service contract with the objective of creating awareness on ESG and articulating our expectations form our vendors on ESG. Select 
+critical vendors have also undergone training.
+2.	
+Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? (Yes/No). If Yes, provide details 
+of the same.
+	
+Yes, we have implemented processes to avoid/manage conflict of interests involving members of the Board. The details are mentioned below:
+	
+i.	
+Every Director on the Board is required to make disclosure of his/her interest or concern in other entities (under Section 184 of the Companies 
+Act, 2013 as also the parties to which such Director is related to (as under Section 2(76) of the Companies Act, 2013 and other laws applicable 
+to us). Such disclosure is required to be made as and when a Director attends first Board Meeting after his/her appointment on the Board and 
+thereafter at every first Board Meeting held in a financial year as well as within 30 days from any change in the disclosure previously given by 
+such Director.
+	
+ii.	
+Director, if interested or concerned in any transaction(s) or arrangement(s) to be entered into by the Bank, does not participate in the discussion 
+and passing of the resolution thereon.
+	
+iii.	
+We have also put in place necessary mechanisms and have formulated a Policy on Dealing with Related Party Transactions, keeping in view the 
+requirements under Regulation 23 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 and the provisions of the 
+Companies Act, 2013. This Policy provides a framework to ensure proper identification, approval and reporting of Related Party Transactions. 
+Such transactions would be appropriate only if they are in our and our members best interest.
+	
+iv.	
+All transactions with Related Parties of the Bank are previously approved by the Audit Committee of the Bank. The Audit Committee also grants 
+Omnibus Approval for Related Party Transactions of a recurring nature. Related Party Transactions, if not in the ordinary course or not at arm’s 
+length, are placed before the Board (based on the Audit Committee’s recommendation) for its consideration and approval. If such transactions 
+(which are placed before the Board of Directors) breach the threshold limits prescribed under Section 188 of the Companies Act, 2013 or if 
+any transaction with a Related Party is material in nature as prescribed under Regulation 23 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, such transactions are also put up before the shareholders for their consideration and approval.
+	
+v.	
+At the Audit Committee, only the Independent Directors who are members of the Audit Committee, consider and approve the transactions with 
+related parties. At the Board, only those Directors who are not parties to the transaction(s) or arrangement(s) in subject or those who are not 
+interested or concerned therein, participate to consider them. The interested Directors neither remain present nor do they vote on the resolution 
+of Related Party Transaction. While seeking Shareholders’ approval, no Related Party of the Bank, whether party to a particular transaction or 
+not, votes to approve such transaction.
+	
+vi.	
+In terms of Regulation 20 of the Banking Regulation Act, 1949, we do not extend any loans or advances on the security of our own shares, or 
+commit to grant any loan or advance to or on behalf of our Directors, any firm in which a Director is interested as partner, manager, employee or 
+guarantor, or any company or its subsidiary or holding company where Director of the Bank is a Director, Managing agent, manager, employee 
+or guarantor or in which he holds substantial interest (as defined in Section 20 of the Banking Regulation Act, 1949), or any individual in respect 
+of whom a Director of the Bank is a partner or guarantor.
+PRINCIPLE 2: BUSINESSES SHOULD PROVIDE GOODS AND SERVICES IN A MANNER THAT IS SUSTAINABLE AND SAFE
+Essential Indicators
+1.	
+Percentage of Research and development and capital expenditure (capex) investments in specific technologies to improve the environmental 
+and social impacts of product and processes to total Research and development and capex investments made by the entity, respectively.
+	
+As we are a financial services company, capital expenditure and Research and development expenses are not directed towards technologies that 
+improve environmental and social impacts. We are in the midst of a mindset shift and have moved in part from the physical world to the ‘phygital’ 
+(physical enabled by digital) one. We are now leap frogging to ‘digical’( digital first supported by physical) and are evaluating AI enabled technologies. 
+We have begun to proactively look for opportunities to direct our capital to finance assets that may have positive impact on the environment and 
+communities.
+2.	
+a. 	
+Does the entity have procedures in place for sustainable sourcing?
+	
+	
+Kotak Mahindra Bank’s Code of Conduct covers aspects on Human Rights, Health and Safety, Operational Eco-efficiency, etc., and indicates 
+applicability to the Bank’s vendors. Besides this, a focused Code of Conduct for service providers forms part of the service agreements with 
+outsourced vendors.
+	
+b. 	
+If yes, what percentage of inputs were sourced sustainably?
+	
+	
+As a financial services organisation, our direct consumption of consumables and input materials is limited. We strive to improve energy 
+efficiency, use cleaner sources of energy, and reduce paper consumption to a minimum. We expect our vendors to comply with our Code of 
+Conduct for service providers which includes aspects on Human Rights, Health and Safety, Operational Eco-efficiency, etc. All Service contracts 
+that were signed and renewed in FY 2022-23 include the Code of Conduct for service providers as an annexure.
+BRSR
+Section C: Principle Wise Performance
+343
+Financial Statements
+Acceler@ting change
+Statutory Reports
+Financial Highlights
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, for (a) plastics (including 
+packaging) (b) e-waste (c) hazardous waste and (d) other waste.
+	
+We have on-boarded authorised waste management vendors to recycle our e-waste. We have also installed Organic Waste Composters (OWCs) 
+across six of our corporate offices to convert our wet waste generated to manure. This manure is then utilised for captive use as well as for donation 
+to our employees and surrounding housing societies. We also have a buyback policy for small batteries. Please find further details of our approach 
+to waste management on page 61 of the ‘Managing our environmental footprint’ section.
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes/No). If yes, whether the waste collection plan is 
+in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control Boards? If not, provide steps taken to address the 
+same.
+	
+No. As we are a financial services company, Extended Producer Responsibility (EPR) is not applicable to our activities.
+Leadership Indicators
+1.	
+Has the entity conducted Life Cycle Perspective/Assessments (LCA) for any of its products (for manufacturing industry) or for its services (for 
+service industry)? If yes, provide details in the following format?
+NIC 
+Code
+Name of 
+Product/Service
+Percentage of 
+total Turnover 
+contributed
+Boundary for which the Life 
+cycle Perspective/Assessment 
+was conducted
+Whether conducted by 
+independent external agency 
+(Yes/No)
+Results communicated in 
+public domain (Yes/No) If yes, 
+provide the web-link.
+ Not Applicable
+2. 
+If there are any significant social or environmental concerns and/or risks arising from production or disposal of your products/services, as 
+identified in the Life Cycle Perspective/Assessments (LCA) or through any other means, briefly describe the same along-with action taken to 
+mitigate the same.
+Name of Product/Service
+ Description of the risk/ concern
+Actions Taken
+ Not Applicable
+3.	
+Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing industry) or providing services 
+(for service industry).
+Indicate input material
+Recycled or re-used input material to 
+total material
+FY 2022-23
+FY 2021-22
+ Not Applicable
+4.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, and safely disposed, as per the 
+following format:
+FY 2022-23
+FY 2021-22
+Re-used
+Recycled
+Safely 
+Disposed
+Re-used
+Recycled
+Safely 
+Disposed
+Plastics (including packaging)
+Not Applicable
+E-waste
+Hazardous waste
+Other waste
+5.	
+Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
+Indicate product category
+Reclaimed products and their packaging materials as percentage of total 
+products sold in respective category
+Not Applicable
+344
+PRINCIPLE 3: BUSINESSES SHOULD RESPECT AND PROMOTE THE WELL-BEING OF ALL EMPLOYEES, INCLUDING THOSE IN 
+THEIR VALUE CHAINS
+Essential Indicators
+1.	
+a. 	
+Details of measures for the well-being of employees:
+Category
+ Percentage of employees covered by
+Total 
+(A)
+Health insurance*
+Accident
+Maternity Benefits
+Paternity Benefits
+Day Care facilities**
+Number  
+(B)
+%  
+(B/A)
+Number  
+(C)
+%  
+(C/A)
+Number  
+(D)
+%  
+(D/A)
+Number  
+(E)
+%  
+(E/A)
+Number 
+(F)
+%  
+(F/A)
+Permanent Employees
+Male
+41,505
+41,505
+100%
+41,505
+100%
+0
+0
+41,505
+100%
+0
+0
+Female
+14,610
+14,610
+100%
+14,610
+100%
+14,610
+100%
+0
+0
+0
+0
+Total
+56,115
+56,115
+100%
+56,115
+100%
+14,610
+26.04%
+41,505
+73.96%
+0
+0
+Other than Permanent Employees
+Male
+12,588
+0
+0
+12,588
+100%
+0
+0
+12,588
+100%
+0
+0
+Female
+4,778
+0
+0
+4,778
+100%
+4,778
+100%
+0
+0
+0
+0
+Total
+17,366
+0
+0
+17,366
+100%
+4,778
+27.51%
+12,588
+72.49%
+0
+0
+ 
+*The number includes 18% employees whose coverage would commence upon confirmation in FY 2023-24. All employees joining the organisation from April '23 onwards 
+are provided with health insurance cover from their date of joining.
+	
+**We have instituted a Day Care Policy effective 1st April, 2023 that facilitates access to crèche facilities, which can be availed by permanent female employees and single 
+male employees for their children up to age of 6.
+2. 
+Details of retirement benefits, for Current FY and Previous Financial Year2
+Benefits
+FY 2022-23
+FY 2021-22
+No. of employees 
+covered as a 
+percentage of total 
+employees
+No. of workers 
+covered as a 
+percentage of 
+total workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+No. of employees 
+covered as a 
+percentage of 
+total employees
+No. of workers 
+covered as a 
+percentage of 
+total workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+PF*
+99.63%
+0
+Y
+99.6%
+0
+Y
+Gratuity**
+76.37%
+0
+Y
+72.1%
+0
+Y
+ESI
+0
+0
+N
+0
+0
+N
+Others, please specify
+NA
+NA
+NA
+NA
+NA
+NA
+	
+*PF is not applicable for some employees who have joined our workforce during an acquisition as per their employment contracts.
+ 
+**Employees under fixed-term contract are excluded from Gratuity, if their employment is for the fixed period below the gratuity eligibility limits.
+3.	
+Accessibility of workplaces
+ 
+Are the premises/offices of the entity accessible to differently abled employees and workers, as per the requirements of the Rights of Persons 
+with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard.
+	
+We have equipped three of our largest offices with disability friendly infrastructure. These offices have a combined capacity to house more than 
+6,000 employees. In addition, to enable our employees and customers who are Persons with Disability (PwD) to access our branches and ATMs, we 
+have installed ramps across our premises. More than 600 branches and 870 ATMs have disability friendly entrances.
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide a web-link to the policy?
+	
+Yes, we have an Equal Employment Opportunity Policy which is aligned to the Rights of Persons with Disabilities Act, 2016. Our commitment to equal 
+opportunity is also articulated in the Code of Conduct.
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave3.
+Permanent employees
+Gender
+Return to work rate
+Retention rate
+Male
+100%
+63.50%
+Female
+100%
+58.26%
+Total
+100%
+62.12%
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and workers? If yes, give details of 
+the mechanism in brief.
+Yes/No (If Yes, then give details of the mechanism in brief)
+Permanent Employees
+Yes, we have three key modes through which employees can raise grievances—an in-house online portal, 
+WhatsApp-based chat services and email.
+Other than Permanent Employees
+Our non-permanent employees can reach us through the same modes described above
+2     GRI 201-3
+3     GRI 401-3
+BRSR
+Section C: Principle Wise Performance
+345
+Financial Statements
+Acceler@ting change
+Statutory Reports
+Financial Highlights
+7.	
+Membership of employees and worker in association(s) or Unions recognized by the listed entity:
+Category
+FY 2022-23
+FY 2021-22
+Total 
+employees/ 
+workers in 
+respective 
+category(A)
+No. of employees / 
+workers in 
+respective category, 
+who are part of 
+association(s) or 
+Union (B)
+% (B/A)
+Total 
+employees 
+/ workers in 
+respective 
+category (C )
+No. of employees / 
+workers in respective 
+category, who are part 
+of association(s) or 
+Union (D)
+% (D/C)
+Total Permanent Employees
+56,115
+1,522
+2.71%
+48,842
+1,694
+3.47%
+- Male
+41,505
+1,120
+2.70%
+36,201
+1,266
+3.50%
+- Female
+14,610
+402
+2.75%
+12,641
+428
+3.39%
+8.	
+Details of training given to employees and workers:
+Category
+FY 2022-23
+FY 2021-22*
+Total 
+(A)
+On Health and 
+Safety Measures
+On Skills 
+upgradation
+Total (D)
+On Health and 
+Safety Measures
+On Skills 
+upgradation
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Male
+54,093
+15,647
+28.93%
+49,941
+92.32%
+48,406
+9,865
+20.38%
+48,401
+99.99%
+Female
+19,388
+6,515
+33.60%
+18,160
+93.67%
+17,148
+3,530
+20.59%
+17,104
+99.74%
+Total
+73,481
+22,162
+30.16%
+68,101
+92.68%
+65,554
+13,395
+20.43%
+65,505
+99.93%
+ 
+*In FY 2021-22, the data also covered the training details of those employees who had exited the organisation during the year. In FY 2022-23, we have only considered 
+training data for employees onboard as on 31st March 2023.
+9.	
+Details of performance and career development reviews of employees and worker*:
+Category
+FY 2022-23
+FY 2021-22
+Total (A)
+No. (B)W
+% (B/A)
+No. (C)
+Total (D)
+% (C/A)
+Employees
+Male
+41,505
+32,091
+77.32%
+36,201
+27,876
+77.00%
+Female
+14,610
+11,471
+78.51%
+12,641
+9,320
+73.73%
+Total
+56,115
+43,562
+77.63%
+48,842
+37,196
+76.16%
+ 
+*All employees who are eligible for performance appraisal underwent career development reviews. Employees on probation are not eligible for performance review.
+10.	
+Health and safety management system:
+	
+a.	
+Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No). If yes, the coverage such 
+system?
+	
+	
+Yes, we have instituted an occupational health and safety management system. We have implemented this system across six of our large 
+corporate offices.
+	
+b.	
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by the entity?
+	
+	
+Our OHSMS manual serves as a comprehensive guide that outlines the governance framework and an action plan for conducting audits by 
+the oversight team. It also provides guidelines on the reporting frequency and overall management of the system. The manual also clearly 
+defines the scope and responsibilities of the teams tasked with overseeing the OHSMS. A monitoring plan has been established that takes into 
+account factors including parameters measured, locations, scope and the methods used. The senior management is responsible for overseeing 
+the evaluation of OHS performance and determining its effectiveness. In line with ISO 45000:2018 standard, a Hazard Identification and Risk 
+Assessment (HIRA)exercise is conducted where all the work-related hazards are identified and risks on a routine and non-routine basis are 
+assessed, and along with these their mitigation measures are tabulated. The non-routine jobs are maintenance activities and extension of 
+the premises etc. HIRA is reviewed annually and is revised, if required, in light of any incident. The updated documents are circulated to all our 
+premises to ensure that the feedback gathered in the exercise serves as a preventive measure.
+	
+	
+At the ISO 45001:2018 certified premises, we adopted an process that includes, but is not limited to, how the work is organised, social factors, 
+leadership and organisational culture, activities and situations, past relevant incidents, potential emergency situations, actual and proposed 
+changes irrespective of the level and nature and changes in knowledge of and information about hazards. The Occupational Health & Safety 
+(OH&S) Management Representative (HMR) ensures that hazard identification is conducted by persons with competence in relevant hazard 
+identification methodologies and techniques and appropriate knowledge of the work activity4. All jobs performed at our premises are supervised 
+by the HMR. They ensure proper work permits are requested and granted prior to the job being undertaken, and also note and report work 
+related hazards, if any. 'Toolbox talks' for routine and non-routine jobs are delivered to vendors undertaking work at our premises, as required 
+which cover safety instructions and detailed processes to be followed to protect themselves from injuries or ill health and an OHSMS Hazard 
+Identification Checklist is maintained. The methodology and criteria for the assessment of Occupational Health & Safety (OH&S) risks are 
+4     GRI 403-2
+346
+defined with respect to their scope, nature and timing to ensure they are proactive rather than reactive and are used in a systematic way. 
+Employees are also encouraged to report any hazardous situations by either calling a designated helpline or writing to a location specific 
+helpdesk to enable timely and appropriate action.
+	
+c.	
+Whether you have processes for workers to report the work-related hazards and to remove themselves from such risks.
+	
+	
+Yes, we have processes in place for our employees to report on work-related hazards and enable them to remove themselves from such risks.
+	
+d.	
+Do the employees/ worker of the entity have access to non-occupational medical and healthcare services?
+	
+	
+Yes, we provide our employees with access to non-occupational medical and healthcare services.
+11.	
+Details of safety related incidents5, in the following format:
+Safety Incident/Number
+Category
+FY 2022-23
+FY 2021-22*
+Lost Time Injury Frequency Rate (LTIFR) (per one million-person hours worked)
+Employees
+0
+NA
+Total recordable work-related injuries
+Employees
+0**
+15
+No. of fatalities
+Employees
+0**
+6
+High consequence work-related injury or ill-health (excluding fatalities)
+Employees
+0
+NA
+	
+* The cause of all the fatalities and injuries were road accidents while travelling to work.
+ 
+**For FY 2022-23, the organisation has revised the boundary to injuries/fatalities caused due to the nature of the work or is directly related to the performance of work-
+related tasks.
+12.	
+Describe the measures taken by the entity to ensure a safe and healthy workplace
+	
+We have adopted a holistic approach towards safeguarding the health and well-being of our employees. We launched the Annual Health Screening 
+Policy for all our employees above 40 years of age or above certain employee grades. We have also tied up with some of the largest healthcare 
+providers in the country to conduct various tests covered under this Policy. In FY 2022-23, many of our employees availed benefits under this 
+Policy. We also facilitate various health and wellness programmes such as online yoga, meditation and Zumba sessions. We have also introduced 
+doctor consultation, nutritionist consultation and emotional assistance programmes and discounts on pharmacy at select premises. Doctors and 
+nutritionists were also available on call and in-house.
+	
+Our Emotional Assistance Programme (EAP) continued to support and guide our employees and their family members. In FY 2022-23, we saw 
+employees increasingly availing our EAP services. Themed sessions were conducted on topics ranging from dealing with depression, anxiety, stress 
+to conflict management.
+13.	
+Number of Complaints on the following made by employees and workers:
+FY 2022-23
+FY 2021-22
+Filed during the 
+year
+Pending 
+resolution at 
+the end of year
+Remarks
+Filed during the 
+year
+Pending 
+resolution at the 
+end of year
+Remarks
+Working Conditions
+0
+0
+0
+0
+Health and Safety
+0
+0
+0
+0
+14.	
+Assessments for the year:
+ Percentage of your plants and offices that were assessed (by entity or statutory authorities or third parties)
+Health and safety practices
+Six of our corporate offices (0.3% of our total branches and offices) were assessed, housing 11,000+ 
+employees, which form 15% of our bank’s workforce
+Working Conditions
+15. 
+Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant risks/concerns arising 
+from assessments of health and safety practices and working conditions.
+	
+We follow an OHS system in line with the ISO 45001:2018 that subjects our system to continual improvement. Consequently, HIRA is catalogued and 
+addressed by the relevant teams, which is updated on an annual basis or with the findings due to incidents, if any.
+Leadership Indicators
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees- Yes (B) Workers- NA
+	
+We continue to implement a Pandemic Benevolent Policy which outlines our initiatives to financially support the families of the employees deceased 
+between 1st April 2020 until 31st March 2022, primarily due to the COVID-19 pandemic, up to two years after their demise. However, it was also 
+applicable for deaths occurred due to any other reasons while being in employment with Kotak during the said period. We also provide term life 
+insurance, health insurance and group personal accident insurance to all our employees. Further details of the policy can be found on page 67 of 
+‘Empowering our employees’ section.
+2.	
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by the value-chain partners.
+	
+We communicate our expectation to our business partners and vendors through our service agreements which outlines the need to be in compliance 
+with all relevant regulations. Compliance is tracked on a monthly basis.
+5     GRI 403-9, GRI 403-10
+BRSR
+Section C: Principle Wise Performance
+347
+Financial Statements
+Acceler@ting change
+Statutory Reports
+Financial Highlights
+3.	
+Provide the number of employees/workers having suffered high consequence work-related injury/-ill-health/fatalities (as reported in Q11 of 
+Essential Indicators above), who have been rehabilitated and placed in suitable employment or whose family members have been placed in 
+suitable employment:
+Total no. of affected employees/ workers
+No. of employees/workers that are 
+rehabilitated and placed in suitable 
+employment or whose family 
+members have been placed in suitable 
+employment
+FY 2022-23*
+FY 2021-22**
+FY 2022-23*
+FY 2021-22**
+Employees
+0
+6
+0
+6
+ 
+*For FY 2022-23, the organisation has revised the boundary to injuries/fatalities caused due to the nature of the work or is directly related to the performance of work-
+related tasks.
+ 
+** The cause of all the fatalities and injuries were road accidents while travelling to work. We have extended required support for medical expenses to these employees.
+4.	
+Does the entity provide transition assistance programme s to facilitate continued employability and the management of career endings resulting 
+from retirement or termination of employment?
+	
+Yes, we provide transition assistance programmes by offering future skills trainings such as digital and leadership programmes to our employees 
+who are nearing superannuation.
+5.	
+Details on the assessment of value-chain partners:
+	
+We expect all our value-chain partners to comply with our Code of Conduct, applicable human rights standards and maintain sound health and safety 
+practices. As per the Bank’s ESG Management Systems Plan, we undertake ESG evaluations of our customers as part of the credit procedures, for 
+some eligible transactions.
+6. 
+Provide details of any corrective actions taken or underway to address significant risks/concerns arising from assessments of health and safety 
+practices and working conditions of value-chain partners.
+	
+No corrective actions were required on these parameters.
+PRINCIPLE 4: BUSINESSES SHOULD RESPECT THE INTERESTS OF AND BE RESPONSIVE TO ALL ITS STAKEHOLDERS
+Essential Indicators
+1.	
+Describe the processes for identifying key stakeholder groups of the entity.
+	
+We have instituted a stakeholder engagement strategy which outlines our process for the identification of seven stakeholder groups that are  perceived 
+to be the most important for our business. This strategy is tailored for each stakeholder group when engaging with them in accordance with their 
+needs and expectations.
+2. 
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.
+Stakeholder 
+group
+Whether identified 
+as Vulnerable 
+and Marginalized 
+Group (Yes/No)
+Channels of communication (E-mails, 
+SMS, Newspapers, Pamphlets, 
+Advertisement, Community meetings, 
+Notices Board, Website)
+Frequency of engagement 
+(Annually/ Half yearly/ 
+Quarterly/others)- Please 
+specify
+Purpose and scope of engagement 
+including key topics and concerns 
+raised during such engagements
+Investors and 
+Shareholders
+No
+•	
+E-mails
+•	
+Letters
+•	
+Earning calls
+•	
+Meetings/ Conferences
+•	
+Investor Grievance Cell
+•	
+Media
+•	
+Website
+•	
+Annual and Quarterly 
+Investor
+	
+Meets
+•	
+Need-based
+•	
+Financial results
+•	
+Key business developments
+•	
+Shareholder returns and 
+dividends
+•	
+Issues related to share 
+issuances and transfer
+•	
+Climate change
+•	
+Diversity and Inclusion
+Customers 
+and Clients
+No
+•	
+One-on-one interactions
+•	
+Focus group discussions
+•	
+Customer meets
+•	
+Customer satisfaction surveys
+•	
+Customer helpline
+•	
+Customer grievance cell
+•	
+Social Media channels
+•	
+Website
+•	
+Periodic structured 
+feedback meetings
+•	
+Ongoing
+•	
+Need-based
+•	
+Needs of customers
+•	
+Customer experience and 
+service quality
+•	
+Product features and benefits
+•	
+Technology interface for banking 
+experience
+•	
+Cybersecurity and Fraud 
+protection
+•	
+ESG initiatives and disclosures
+348
+Stakeholder 
+group
+Whether identified 
+as Vulnerable 
+and Marginalized 
+Group (Yes/No)
+Channels of communication (E-mails, 
+SMS, Newspapers, Pamphlets, 
+Advertisement, Community meetings, 
+Notices Board, Website)
+Frequency of engagement 
+(Annually/ Half yearly/ 
+Quarterly/others)- Please 
+specify
+Purpose and scope of engagement 
+including key topics and concerns 
+raised during such engagements
+Employees
+No
+•	
+Induction programme
+•	
+E-mails
+•	
+Town halls
+•	
+Skip-level meetings
+•	
+Leadership meetings
+•	
+Employee engagement initiatives
+•	
+Rewards and recognition 
+programmes
+•	
+Employee grievance cell
+•	
+Employee portal
+•	
+HR helpdesk
+•	
+Employee satisfaction surveys
+•	
+Employee volunteering initiatives
+•	
+Ongoing
+•	
+Need-based
+•	
+Policies and procedures
+•	
+Diversity and Inclusion
+•	
+Performance appraisal and 
+rewards
+•	
+Training and career development
+•	
+Work environment
+•	
+Health and wellness
+•	
+Safety and security
+•	
+Community development
+•	
+Employee volunteering
+•	
+Cybersecurity
+Government 
+and Regulatory 
+Bodies
+No
+•	
+Regulatory filings
+•	
+Compliance Statements
+•	
+Meetings
+•	
+Letters
+•	
+E-mails
+•	
+Industry associations
+•	
+Need-based
+•	
+License request and renewal
+•	
+Compliance with filings and 
+other regulatory requirements
+•	
+Participation in government 
+financial sector plans and 
+programmes
+•	
+Consultations sought by 
+regulatory bodies and industry 
+associations
+Vendors and 
+Business 
+Associates
+No
+•	
+Meetings
+•	
+E-mails
+•	
+Letters
+•	
+Supplier and business associates’ 
+performance reviews
+•	
+Awareness programmes
+•	
+Ongoing
+•	
+Need-based
+•	
+Product/Service/ Technology 
+quality and support
+•	
+Contract commercial and 
+technical terms and conditions
+•	
+Supplier and business 
+associates’ statutory 
+compliances
+•	
+ESG, Code of Conduct for service 
+providers
+Communities 
+and NGO’s
+Yes
+•	
+Community development initiatives 
+including need-based local 
+interventions identified by Kotak 
+Mahindra Bank’s employees
+•	
+Funding support
+•	
+Proposals and requests for new 
+initiatives
+•	
+Impact assessment surveys
+•	
+Need-based
+•	
+Community development needs
+•	
+Financial Inclusion
+•	
+Financial infrastructure
+•	
+Human and organisational 
+support
+Leadership Indicators
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social topics or if consultation 
+is delegated, how is feedback from such consultations provided to the Board.
+	
+There are identified teams who actively engage with designated stakeholder groups. The feedback received from each stakeholder group is relayed 
+to the respective Board-level Committees. These Committees discuss the feedback received from the stakeholders and suitable actions are taken 
+towards enhancing our practices.
+2. 
+Whether stakeholder consultation is used to support the identification and management of environmental, and social topics (Yes/No). If so, 
+provide details of instances as to how the inputs received from stakeholders on these topics were incorporated into policies and activities of 
+the entity.
+	
+Yes, stakeholder consultation is used to support the identification and management of environmental and social topics. For instance, we engage with 
+our investors and stakeholders on ESG topics they consider critical for us as a Bank and provide necessary public disclosures on our ESG performance. 
+We have also instituted an ESG policy framework that outlines our commitment on each of the focus areas identified by us. We also encourage our 
+employees and customers to follow environmental-friendly practices by leveraging technology. We have instituted diversity and inclusion, equal 
+opportunities and other employee related policies and practices to promote a fair workplace. Our Code of Conduct for service providers our business 
+associates and vendors to address ESG topics in their operations. In order to create awareness about ESG amongst the communities, we implement 
+various programmes that not only focus on their upliftment but also enhance their practices to be more environmentally conscious. Please refer 
+page 368-369 of this Report for further details.
+3.	
+Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/marginalized stakeholder groups.
+	
+We believe that financial literacy is a vital step in educating our customers and the community on the effective usage of our banking services. 
+During the financial year, we organised 1,986 financial literacy camps through our rural branches. On a regular basis, we also conduct various 
+digital campaigns to educate our customers and the community. For further details on our financial inclusion efforts, please refer page 54-55 of 
+‘Sustainability at Kotak’ section in this Report.
+	
+We also conduct various need-based community programmes through our identified CSR focus areas which include education and livelihood, 
+healthcare, environment and sustainable development and sports. For further details on our CSR programmes, please refer page 70-75 of ‘Supporting 
+our Communities’ section in this Report.
+BRSR
+Section C: Principle Wise Performance
+349
+Financial Statements
+Acceler@ting change
+Statutory Reports
+Financial Highlights
+PRINCIPLE 5: BUSINESSES SHOULD RESPECT AND PROMOTE HUMAN RIGHTS
+Essential Indicators
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the following format:
+Category
+FY 2022-23*
+FY 2021-22
+Total (A)
+No. employees/
+workers covered 
+(B)
+% (B/A)
+Total ( C)
+No. employees/
+workers covered 
+(D)
+% (D/C)
+Employees
+Permanent
+56,115
+50,996
+90.88%
+48,866
+40,424
+82.72%
+Other permanent
+17,366
+14,144
+81.45%
+17,584
+14,135
+80.39%
+Total Employees
+73,481
+65,140
+88.65%
+66,450
+54,559
+82.11%
+	
+*Our Code of Conduct consists of elements on human rights. Hence, Code of Conduct and PoSH training coverage has been considered in the above table.
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+Category
+FY 2022-23
+FY 2021-22
+Total (A)
+Equal to Minimum 
+Wage
+More than Minimum 
+Wage
+Total (D)
+Equal to Minimum 
+Wage
+More than Minimum 
+Wage
+No. (B)
+% (B/A)
+No ( C )
+% (C /A)
+No. (E )
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Permanent
+56,115
+7,008
+12.49%
+49,107
+87.51%
+47,148
+6,928
+14.69%
+40,220
+85.31%
+Male
+41,505
+4,934
+11.89%
+36,571
+88.11%
+34,935
+4,869
+13.94%
+30,066
+86.06%
+Female
+14,610
+2,074
+14.20%
+12,536
+85.80%
+12,213
+2,059
+16.86%
+10,154
+83.14%
+Other than Permanent
+17,366
+9,037
+52.04%
+8,329
+47.96%
+17,582
+8,651
+49.20%
+8,931
+50.80%
+Male
+12,588
+6,229
+49.48%
+6,359
+50.52%
+12,345
+5,536
+44.84%
+6,809
+55.16%
+Female
+4,778
+2,808
+58.77%
+1,970
+41.23%
+5,237
+3,115
+59.48%
+2,122
+40.52%
+3.	
+Details of remuneration/salary/wages, in the following format:
+Male
+Female
+Number
+Median remuneration/salary/wages 
+of respective category*
+Number
+Median remuneration/salary/wages 
+of respective category*
+Board of Directors
+ 10
+ ` 0.43 crore
+2
+1.75 crore
+Key Managerial Personnel
+ 4
+` 3.4 crore
+2
+2.31 crore
+Employees other than BoD and KMP
+ 41,501
+ ` 5.02 lakhs
+14,608
+4.09 lakhs
+ 
+*The figures represent fixed component and does not include variable components of the compensation
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused or contributed to by the 
+business? (Yes/No)
+	
+Yes, our Human Resources function is responsible for the oversight of human rights issues as articulated in the Human Rights and Anti-discrimination 
+Policy. Further details of the policy are found in 'List of Policies' in the Annexures.
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues:
+	
+Our Whistleblower mechanism which is accessible to our internal stakeholders can also be used to escalate any violation of human rights or business 
+ethics by any employee across management grades on the digital platform. This safeguards the confidentiality of the whistle blower’s identity and 
+appropriate action against the investigation subject.
+350
+6.	
+Number of Complaints on the following made by employees and workers:
+FY 2022-23
+FY 2021-22
+Filed during the 
+year
+Pending 
+resolution at 
+the end of the 
+year
+Remarks
+Filed during the 
+year
+Pending 
+resolution at the 
+end of the year
+Remarks
+Sexual Harassment
+56
+14
+7 pending cases 
+of FY 2021-22 
+resolved in FY 
+2022-23.
+33
+7
+8 pending cases 
+of FY 2020-21 
+resolved in FY 
+2021-22
+Discrimination6 at 
+workplace #
+-
+-
+-
+7
+1
+Six cases were 
+resolved in FY 
+2021-22
+Child Labour #
+-
+-
+-
+-
+-
+-
+Forced Labour/Involuntary 
+Labour #
+-
+-
+-
+-
+-
+-
+Wages#
+-
+-
+-
+-
+-
+-
+Other human rights related 
+issues#
+-
+-
+-
+-
+-
+-
+	
+Assurance undertaken by Price Waterhouse Chartered Accountants LLP for indicators marked with #
+7.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	
+We have a robust Code of Conduct for our employees that includes clauses on Anonymity and Confidentiality to ensure employees can freely raise their 
+concerns without hesitation. We also make provisions to enable employees to raise anonymous complaints and have zero tolerance for workplace 
+retaliation:
+	
+Õ	
+Anonymity and Confidentiality: All complaints and related investigations are treated with extreme confidentiality and are treated sensitively 
+as per applicable laws and regulations. Reports may be made available to the Business Head or Human Resources team and other control 
+functions anonymously to the extent permitted by applicable laws and regulations. The final action is recorded and maintained for any future 
+reference.
+	
+Õ	
+Workplace Retaliation: We do not engage in or tolerate retaliation of any kind against anyone for providing information in good faith about 
+suspected unethical or illegal conduct. This also extends to activities including fraud, securities law or regulatory violations, possible violations 
+of policies including Code of Conduct and other inappropriate workplace behavior. If an employee has been retaliated against, she or he can 
+report the incident to the Human Resources team and also report on our Employee Portal (Kotak Worklife).
+8.	
+Do human rights requirements form part of your business agreements and contracts?
+	
+Yes, vendor contracts include human rights requirements.
+9.	
+Assessments for the year:
+Percentage of your plants and offices that were assessed (by entity or statutory authorities or third-parties)
+Child labour
+As we are a financial services company, we undertake proactive measures to safeguard human rights, we have 
+however not undertaken a dedicated human rights assessment.
+Forced/involuntary labour
+Sexual harassment
+Discrimination at workplace
+Wages
+Others, please specify
+10. 
+Provide details of any corrective actions taken or underway to address significant risks/concerns arising from the assessments at Question 9 
+above.
+	
+Not Applicable
+Leadership Indicators
+1. 
+Details of a business process being modified/introduced as a result of addressing human rights grievances/complaints.
+ 	
+We respect human rights of all our stakeholders and ensure adherence with laws safeguarding these universal rights. We have instituted a Human 
+Rights and Anti-Discrimination policy that outlines our commitment to the national and international laws.
+2.	
+Details of the scope and coverage of any human rights due-diligence conducted.
+	
+We have not conducted any human rights due diligence.
+3.	
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of Persons with Disabilities Act, 
+2016?
+	
+Yes, three of our largest corporate offices are equipped with disability friendly equipment. In addition, to enable our employees and customers Persons 
+with Disability (PwD) to access our branches and ATMs, we have installed ramps across our premises. Around 600 branches and 870 ATMs have 
+disability friendly entrances.
+6     GRI 406-1
+BRSR
+Section C: Principle Wise Performance
+351
+Financial Statements
+Acceler@ting change
+Statutory Reports
+Financial Highlights
+4.	
+Details on assessment of value-chain partners:
+Percentage of value-chain partners (by value of business done with such partners) assessed
+Sexual Harassment
+We have not undertaken an assessment of value-chain partners.
+Discrimination at workplace
+Child Labour
+Forced Labour/Involuntary Labour
+Wages
+Others, please specify
+5.	
+Provide details of any corrective actions taken or underway to address significant risks/concerns arising from the assessments at Question 4 
+above.
+	
+Not Applicable
+PRINCIPLE 6: BUSINESSES SHOULD RESPECT AND MAKE EFFORTS TO PROTECT AND RESTORE THE ENVIRONMENT
+Essential Indicators
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter (in GJ)
+FY 2022-23**
+FY 2021-22**
+Total electricity consumption (A)
+3,52,223*
+2,88,932
+Total fuel consumption (B)
+9,309*
+4,025
+Energy consumption through other sources (C )
+12,585*
+12,994
+Total energy consumption (A+B+C)
+3,74,117*
+3,05,952
+Energy intensity per rupee of turnover (Total energy consumption/turnover in crore rupees)
+9.05
+9.16
+Energy intensity (optional)—the relevant metric may be selected by the entity (GJ/FTE)
+5.09*
+4.6
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the 
+external agency. Yes, assurance undertaken by Price Waterhouse Chartered Accountants LLP for the indicator marked by*
+	
+** This data also includes energy consumed at Bank premises shared with a few subsidiaries
+2. 
+Does the entity have any sites/facilities identified as designated consumers (DCs) under the Performance, Achieve and Trade (PAT) Scheme of 
+the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme have been achieved. In case targets have not been 
+achieved, provide the remedial action taken, if any.
+	
+This is not applicable to us as we do not have any sites or facilities identified as designated consumers (DCs).
+3.	
+ Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 2022-23**
+FY 2021-22**
+Water withdrawal by source (in kilolitres)
+(i) 	 Surface water
+-
+-
+(ii) 	 Groundwater
+15,909.6
+12,115.40
+(iii) 	Third party water
+85,813.5
+43,605.37
+(iv) 	Seawater/desalinated water
+-
+-
+(v) 	 Others
+21,089.7
+2,97,181
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+1,22,812.8*
+3,52,902
+Total volume of water consumption (in kilolitres)
+1,22,812.8*
+3,52,902
+Water intensity per rupee of turnover (Kiloliters/turnover in crore rupees)
+2.97
+10.57
+Water intensity (optional)—the relevant metric may be selected by the entity
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the 
+external agency. Yes, assurance undertaken by Price Waterhouse Chartered Accountants LLP for the indicator marked by*
+	
+** This data also includes water consumed at Bank premises that are shared with a few subsidiaries.
+4.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and implementation.
+	
+We do not have a zero liquid discharge policy, but have taken initiatives to minimise water discharge. These initiatives include the installation of low-
+flow plumbing fixtures to reduce water consumption at select large offices.
+352
+5.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+	
+As a financial services company, air emissions from our operations are not significant. We monitor our GHG emissions, which have been disclosed 
+on page 352 and 354 under principle 6, of BRSR.
+Parameter
+Please specify unit
+FY 2022-23
+FY 2021-22
+NOx
+0
+0
+SOx
+0
+0
+Particulate matter (PM)
+0
+0
+Persistent organic pollutants (POP)
+0
+0
+Volatile organic compounds (VOC)
+0
+0
+Hazardous air pollutants (HAP)
+0
+0
+Others, please specify
+0
+0
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the 
+external agency. Not Applicable
+6.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) and its intensity, in the following format:
+Parameter
+Unit
+FY 2022-23*
+FY 2021-22
+Total Scope 1 emissions  
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+tCO2e
+11,890
+7,308
+Total Scope 2 emissions  
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+tCO2e
+69,466
+63,405
+Total Scope 1 and Scope 2 emissions per rupee of turnover
+tCO2e /` crore
+1.97
+2.1
+Total Scope 1 and Scope 2 emission intensity  
+(optional)—the relevant metric may be selected by the entity
+tCO2e/FTE
+1.11
+1.06
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the 
+external agency. Yes, assurance undertaken by Price Waterhouse Chartered Accountants LLP for the indicator marked by*
+7.	
+Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details.
+	
+Yes, we undertake initiatives to reduce our GHG emissions. These include use of environment friendly gas for refrigerant, i.e., R134A and achieving 
+LEED certifications for nine buildings. In a LEED certified building, energy savings are expected to range between 20 to 30% and water savings between 
+30 to 50% as per the LEED framework. Such buildings are also designed to experience enhanced air quality, excellent daylighting, which helps in 
+maintaining the health and well-being of its occupants, and enhancing safety and conservation of scarce natural resources. For further details on 
+initiatives, please refer to ‘Managing our Environment Footprint’ section of this Report.
+8.	
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+1.4
+0.53
+E-waste (B)
+19.4
+4.81
+Bio-medical waste (C)
+0.0
+-
+Construction and demolition waste (D)
+17.6
+24
+Battery waste (E)
+2.1
+1.35
+Radioactive waste (F)
+0
+-
+Other Hazardous waste. Please specify, if any. (G)
+0.2
+2.07
+Other Non-hazardous waste generated (H). Please specify, if any. (Break-up by composition, i.e., by 
+materials relevant to the sector)\
+147.3
+71.98
+Total (A+B + C + D + E + F + G + H)
+188.1*
+104.75
+For each category of waste generated, total waste recovered through recycling, re-using or other 
+recovery operations (in metric tonnes)
+Category of waste
+(i)	 Recycled
+169.2
+68.55
+(ii)	 Re-used
+0
+9.74
+(iii)	 Other recovery operations
+0
+-
+Total
+169.2*
+78.29
+BRSR
+Section C: Principle Wise Performance
+353
+Financial Statements
+Acceler@ting change
+Statutory Reports
+Financial Highlights
+Parameter
+FY 2022-23
+FY 2021-22
+For each category of waste generated, total waste disposed by nature of disposal method (in metric 
+tonnes)
+Category of waste
+(i)	 Incineration
+17.3
+1.45
+(ii)	 Landfilling
+1.6
+25.01
+(iii)	 Other disposal operations
+0
+-
+Total
+18.9*
+26.46
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the 
+external agency. Yes, assurance undertaken by Price Waterhouse Chartered Accountants LLP for the indicator marked by*
+9.	
+Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by your company to reduce 
+usage of hazardous and toxic chemicals in your products and processes and the practices adopted to manage such wastes.
+	
+Since we operate in the service industry, our waste mainly includes stationery waste and organic waste (generated through our canteen). Other 
+categories of waste monitored include e-waste, construction waste, plastic as well as scrap metal. Hazardous waste generated from our operations 
+is negligible and includes used oil from fuel based generators. We collect and safely dispose all the hazardous waste including bio-medical waste 
+through authorised waste management agencies and attempt to reuse and recycle most of the waste generated. We also undertake various initiatives 
+during the year to reduce our waste.
+10. 
+If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, biosphere reserves, 
+wetlands, biodiversity hotspots, forests, coastal regulation zones, etc.) where environmental approvals/clearances are required, please specify 
+details in the following format:
+S. 
+No.
+Location of operations/
+offices
+Type of operations
+Whether the conditions of environmental approval/clearance are being complied with? 
+(Y/N) If no, the reasons thereof and corrective action taken, if any.
+We do not have any operations or offices in ecologically sensitive areas.
+11. 
+Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the current financial year:
+Name and brief details 
+of project
+EIA Notification 
+No.
+Date
+Whether conducted by independent 
+external agency (Yes/No)
+Results communicated in 
+public domain (Yes/No)
+Relevant Web 
+link
+We did not undertake any projects that required an EIA
+12.	
+Is the entity compliant with the applicable environmental law/regulations/guidelines in India; such as the Water (Prevention and Control of 
+Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and rules thereunder (Y/N). If not, provide details of 
+all such non-compliances, in the following format:
+S. 
+No.
+Specify the law/regulation/guidelines 
+that were not complied with
+Provide details of 
+the non- compliance
+Any fines/penalties/action taken by regulatory agencies 
+such as pollution control boards or by courts
+Corrective action 
+taken, if any
+We are in compliance with all applicable environmental law/ regulations/ guidelines in India
+Leadership Indicators
+1.	
+Provide break-up of the total energy consumed (in Joules or multiples) from renewable and non-renewable sources, in the following format:
+Parameter (in GJ)
+FY 2022-23**
+FY 2021-22
+From renewable sources
+Total electricity consumption (A)
+12,585*
+12,994
+Total fuel consumption (B)
+-
+-
+Energy consumption through other sources (C)
+-
+-
+Total energy consumed from renewable sources (A+B+C)
+12,585
+12,994
+From non-renewable sources
+Total electricity consumption (D)
+3,52,223*
+2,88,932
+Total fuel consumption (E)
+9,309*
+4,024
+Energy consumption through other sources (F)
+-
+-
+Total energy consumed from non-renewable sources (D+E+F)
+3,61,532
+2,92,956
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the 
+external agency. Yes, assurance undertaken by Price Waterhouse Chartered Accountants LLP, for indicators marked by *
+	
+**This data also includes energy consumed at Bank premises shared with a few subsidiaries
+2.	
+Provide the following details related to water discharged:
+	
+We currently do not monitor the amount of water discharged.
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the 
+external agency. Not Applicable
+354
+3.	
+Water withdrawal, consumption and discharge in areas of water stress (in kilolitres):
+	
+For each facility/plant located in areas of water stress, provide the following information:
+	
+(i)	
+Name of the area
+	
+(ii)	
+Nature of operations
+	
+(iii)	
+Water withdrawal, consumption and discharge in the following format: As we are a financial services company, this is not applicable to our activities.
+	
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of 
+the external agency. Not applicable
+4.	
+Please provide details of total Scope 3 emissions and its intensity, in the following format:
+Parameter
+Unit
+FY 2022-23*
+FY 2021-22
+Total Scope 3 emissions  
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+tCO2e
+73,842.9**
+51,570.12
+Total Scope 3 emissions per rupee of turnover
+tCO2e/` crore
+1.79
+1.7
+Total Scope 3 emission intensity  
+(optional) — the relevant metric may be selected by the entity
+tCO2e/FTE
+1.01
+0.78
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the 
+external agency. Yes, assurance undertaken by Price Waterhouse Chartered Accountants LLP for the indicator marked by*
+	
+** The increase in scope 3 emissions has been on account of business travel, which went up post the pandemic and due to expenses towards capital goods; A major 
+portion of emissions from capital goods are due to expenditure on purchase of IT goods, electronic equipment and the vehicles procured
+5. 
+With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide details of significant direct and 
+indirect impact of the entity on biodiversity in such areas along-with prevention and remediation activities.
+	
+Not Applicable
+6. 
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource efficiency, or reduce impact 
+due to emissions/effluent discharge/waste generated, please provide details of the same as well as outcome of such initiatives, as per the 
+following format:
+Sr. 
+No
+Initiative undertaken
+Details of the initiative  
+(Web-link, if any, may be provided along-with summary)
+Outcome of the initiative
+1
+Digital visiting cards
+Use of QR codes instead of visiting cards has been implemented 
+for the leadership team at Kotak members
+Outcome has not been measured in FY 
+2022-23
+2
+AI-based module for air 
+conditioning
+It monitors the energy consumption by ACs and efficiently 
+manages the cooling process to reduce energy wastages
+Reduced electricity consumption by 
+25% has been installed at 100 branches
+7.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/web link.
+	
+We have a Business Continuity Management (BCM) Policy that provides guidance for proactively identifying and mitigating risks that may cause 
+disruption to business, to minimise the impact of disruption, and to ensure continuity of key products and services at acceptable levels. It is reviewed 
+annually for its continual improvement. Critical Units in the Bank have a Business Continuity Plan (BCP), which prescribes procedures to ensure 
+continuity and recovery of processes at agreed time limits. BCP of Critical Units is tested half yearly and the results are communicated periodically. 
+These results are also submitted to the regulator.
+8. 
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation or adaptation measures 
+have been taken by the entity in this regard?
+	
+We have instituted an EMSP to review, monitor and mitigate any adverse impacts to the environment arising from our borrower’s business activities. 
+This plan is based on the IFC guidance and other ESG evaluation frameworks. It sets out the criteria for due diligence and evaluation of borrowers 
+from an ESG perspective. These borrowers are then categorised on the basis of their business activities and their social and environmental impact. 
+Based on the categorisation, an evaluation is undertaken for capital expenditure and working capital loans above a certain size and tenure, against 
+the ESG criteria. We have also introduced a Vendor Code of Conduct that articulates our expectations on our vendors ESG performance.
+9.	
+Percentage of value-chain partners (by value of business done with such partners) that were assessed for environmental impacts.
+	
+Currently, we do not assess environmental impacts for our value-chain partners. However, we encourage our value-chain partners to proactively 
+align their business operations to environmental best-practices. We have implemented a code of conduct for all our outsourced vendors, which is 
+incorporated as part of the standard service contract with the objective of creating awareness on ESG and articulating our expectations form our 
+vendors on ESG.
+BRSR
+Section C: Principle Wise Performance
+355
+Financial Statements
+Acceler@ting change
+Statutory Reports
+Financial Highlights
+PRINCIPLE 7: BUSINESSES, WHEN ENGAGING IN INFLUENCING PUBLIC AND REGULATORY POLICY, SHOULD DO SO IN A 
+MANNER THAT IS RESPONSIBLE AND TRANSPARENT.
+Essential Indicators 
+1. 
+a. 
+Number of affiliations with trade and industry chambers/associations. 10
+	
+b.	
+List the top 10 trade and industry chambers/associations (determined based on the total members of such body) the entity is a member 
+of/affiliated to7.
+S. No.
+Name of the trade and industry chambers/associations
+Reach of trade and industry chambers/ associations (State/National)
+1
+The Advertising Standards Council of India
+National
+2
+Council for Fair Business Practices
+National
+3
+Bombay Chamber of Commerce and Industry
+State
+4
+Confederation of Indian Industry
+National
+5
+Data Security Council of India
+National
+6
+Indian Institute of Banking and Finance
+National
+7
+Foreign Exchange Dealers Association of India
+National
+8
+Indian Banks’ Association
+National
+9
+Primary Dealers Association of India
+National
+10
+The Institute of Internal Auditors India
+National
+2.	
+Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the entity, based on adverse 
+orders from regulatory authorities:
+Name of authority
+Brief of the case
+Corrective action taken
+No issues related to anti-competitive conduct were identified during FY 2022-23, hence, no corrective action undertaken.
+Leadership Indicators 
+1.	
+Details of public policy positions advocated by the entity:
+S. 
+No.
+Public policy advocated
+Method resorted for such 
+advocacy
+Whether 
+information 
+available in public 
+domain? (Yes/No)
+Frequency of Review	
+by Board (Annually/ Half 
+yearly/ Quarterly/
+Others, please specify)
+Web Link, if available
+Mobilising private capital 
+for Climate solutions
+Climate Finance Leadership 
+Initiative (CFLI) India
+Yes
+Half yearly
+https://www.bloomberg.com/cfli/
+mobilizing-investment/india/
+PRINCIPLE 8: BUSINESSES SHOULD PROMOTE INCLUSIVE GROWTH AND EQUITABLE DEVELOPMENT.
+Essential Indicators 
+1. 
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the current financial year8.
+Name and brief details of the project
+SIA 
+Notification 
+No.
+Date of 
+Notification
+Whether conducted 
+by independent 
+external agency 
+(Yes/No)
+Results 
+communicated 
+in public domain 
+(Yes/No)
+Relevant web link
+Karo Trust: Our healthcare project 
+implemented by KARO Trust provided 
+financial support to 144 unique 
+patients suffering from Ewing’s 
+Sarcoma, Aplastic anaemia and 
+diseases that require a bone marrow 
+transplant.
+CSR Project 
+Unique ID 26
+Yes
+Yes
+https://www.kotak.com/en/about-us/
+corporate-responsibility/csr/project.html
+Wockhardt: Our healthcare project 
+implemented by Wockhardt Foundation 
+supported 6 Mobile Medical Vans 
+(MMVs) operating in the urban slums 
+of Hyderabad. 85% of those who 
+availed the service reported a reduction 
+in their average monthly healthcare 
+expenditure.
+CSR Project 
+Unique ID 66
+Yes
+Yes
+https://www.kotak.com/en/about-us/
+corporate-responsibility/csr/project.html
+7     GRI 2-28
+8     GRI 413-1
+356
+Name and brief details of the project
+SIA 
+Notification 
+No.
+Date of 
+Notification
+Whether conducted 
+by independent 
+external agency 
+(Yes/No)
+Results 
+communicated 
+in public domain 
+(Yes/No)
+Relevant web link
+Borderless World Foundation: Our 
+healthcare project implemented by 
+Borderless World Foundation provided 
+five critical care ambulances to the 
+army in J&K, with the aim to increase 
+accessibility and availability to 
+healthcare facilities.
+CSR Project 
+Unique ID 33
+Yes
+Yes
+https://www.kotak.com/en/about-us/
+corporate-responsibility/csr/project.html
+COVID-19 Relief: Our healthcare 
+project implemented as a direct 
+project focused on providing COVID-19 
+supplies to frontline workers across 17 
+Hospitals, two Municipal Corporation 
+Offices, and Police Department, in 
+Mumbai, Solapur, Pune, Nashik, Surat 
+and Chennai.
+CSR Project 
+Unique ID 38
+Yes
+Yes
+https://www.kotak.com/en/about-us/
+corporate-responsibility/csr/project.html
+Pratham Education Foundation: 
+Our education and livelihood project 
+implemented by Pratham Education 
+Foundation undertook a vocational 
+training project in Beauty, Healthcare 
+and Hospitality courses, reaching 
+5,224 beneficiaries across four states- 
+Maharashtra, Andhra Pradesh, Odisha 
+and Rajasthan.
+CSR Project 
+Unique ID 03
+Yes
+Yes
+https://www.kotak.com/en/about-us/
+corporate-responsibility/csr/project.html
+Head Held High: Our education and 
+livelihood project implemented by 
+Head Held High indicated that 75% 
+of the candidates joined the Make 
+India Capable Programme to upgrade 
+their skills to align with well-paying 
+employment opportunities in the 
+industry.
+CSR Project 
+Unique ID 11
+Yes
+Yes
+https://www.kotak.com/en/about-us/
+corporate-responsibility/csr/project.html
+IIMPACT: In our education and 
+livelihood project implemented by 
+IIMPACT, approximately 92% of the 
+students are gradually doing better 
+in their regular academic sessions. 
+98% of the parents reported that the 
+project moderately bridges the gap 
+in providing education services in the 
+community.
+CSR Project 
+Unique ID 50
+Yes
+Yes
+https://www.kotak.com/en/about-us/
+corporate-responsibility/csr/project.html
+Disha Foundation: Our education and 
+livelihood project implemented by 
+Disha constructed the third floor by 
+leveraging learning-disability-focused 
+design principles. 12 children were 
+enrolled in the centre after it was 
+opened
+CSR Project 
+Unique ID 17
+Yes
+Yes
+https://www.kotak.com/en/about-us/
+corporate-responsibility/csr/project.html
+IIM Bangalore: Our education and 
+livelihood project implemented by 
+IIM Bangalore highlighted that 92% 
+of the respondents found the seed 
+funding very helpful in starting and 
+running their businesses. 100% of 
+the respondents stated that the 
+Women Startup Program gave them 
+the motivation to move from ideation 
+to actual product, facilitated future 
+funding rounds, and provided better 
+market linkages.
+CSR Project 
+Unique ID 22
+Yes
+Yes
+https://www.kotak.com/en/about-us/
+corporate-responsibility/csr/project.html
+BRSR
+Section C: Principle Wise Performance
+357
+Financial Statements
+Acceler@ting change
+Statutory Reports
+Financial Highlights
+Name and brief details of the project
+SIA 
+Notification 
+No.
+Date of 
+Notification
+Whether conducted 
+by independent 
+external agency 
+(Yes/No)
+Results 
+communicated 
+in public domain 
+(Yes/No)
+Relevant web link
+Parivaar Education Society: Our 
+education and livelihood project 
+implemented by Parivaar Education 
+Society indicated that regular 
+attendance in formal school increased 
+from 65% to 93% as far as before 
+and after project implementation is 
+concerned.
+CSR Project 
+Unique ID 49
+Yes
+Yes
+https://www.kotak.com/en/about-us/
+corporate-responsibility/csr/project.html
+Kotak Education Foundation: Our 
+education and livelihood project 
+implemented by Kotak Education 
+Foundation focussed on bringing 
+about a holistic development of KEF 
+partners schools and also livelihood 
+opportunities to youths from 
+underprivileged backgrounds.
+CSR Project 
+Unique ID 01
+Yes
+Yes
+https://www.kotak.com/en/about-us/
+corporate-responsibility/csr/project.html
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your entity, in the 
+following format:
+	
+Essential Indicators 
+S. 
+No.
+Name of project for 
+which R&R is ongoing
+State
+District
+No. of projects affected Families 
+(PAFs)
+Percentage of PAFs 
+covered by R&R
+Amounts paid to PAFs in the FY 
+(in `)
+1
+Kotak Mahindra Bank did not undertake any projects that require Rehabilitation and Resettlement.
+3.	
+Describe the mechanisms to receive and redress grievances of the community.
+	
+Our NGO partners are responsible for addressing the queries/grievances/complaints raised or route it to us on a case-to-case basis. We have also 
+established a grievance redressal mechanism, which is available on our website. Also, the MoUs signed with NGO partners have mention of the 
+channel (email) on which the grievance can be reported.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY 2022-23
+FY 2021-22
+Directly sourced from MSMEs/small producers
+59%
+40.50%
+Sourced directly from within the district and neighbouring districts
+Not Applicable since our operations are present PAN India
+Leadership Indicators
+1. 
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments (Reference: Question 1 
+of Essential Indicators above):
+Details of negative social impact identified
+Corrective Action Taken
+ We have not identified any negative impacts through the SIAs conducted.
+2. 
+Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as identified by government 
+bodies:
+S. no.
+State
+Aspirational District
+Amount spent* (in `)
+1
+Bihar
+Purnia
+36 lakh
+#
+2
+Jharkhand
+Pakur
+21 lakh
+#
+3
+Jharkhand
+Ranchi
+40 lakh
+4
+Karnataka
+Raichur
+9 lakh
+5
+Odisha
+Kandhamal
+39 lakh
+#
+6
+Gujarat
+Dahod
+77 lakh**
+7
+Madhya Pradesh
+Khandwa
+31 lakh**
+ 
+Amount spent is estimated for the regions, as the CSR programmes span larger geographic regions and are spread over multiple years.
+ 
+# Spent from FY23 CSR project as well as spent from Unspent CSR Account of FY2021-22
+ 
+** Spent from Kotak Mahindra Bank Limited Unspent CSR Account of previous FYs
+358
+3.	
+a.	
+Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising marginalized /vulnerable 
+groups? No. As a financial services organisation, we do not require substantial input materials for our business.
+	
+b.	
+From which marginalized /vulnerable groups do you procure? Not Applicable
+	
+c.	
+What percentage of total procurement (by value) does it constitute? Not applicable
+4. 
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the current financial year), 
+based on traditional knowledge:
+S. 
+No.
+Intellectual Property based on traditional 
+knowledge
+Owned/Acquired (Yes/No)
+Benefit shared (Yes/No)
+Basis of calculating benefit share
+Not Applicable
+5.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes wherein usage of 
+traditional knowledge is involved.
+Name of authority
+Brief of the Case
+Corrective action taken
+Not Applicable
+6. 
+Details of beneficiaries of CSR Projects:
+S. 
+No.
+CSR Project
+No. of persons benefitted 
+from CSR Projects
+Percentage of beneficiaries from vulnerable 
+and marginalized groups
+1
+Khan Academy India
+1,55,229
+While our CSR projects largely target people 
+from marginalised and/or underprivileged 
+communities, beneficiary categorisation for 
+individual projects has not been tracked.
+2
+Ratna Nidhi Charitable Trust
+44,996
+3
+Environmentalist Foundation of India
+26,000
+4
+DLS - Digital Learning Solution Project
+12,448
+5
+Umang- Communicative English Project
+12,369
+6
+N M Sadguru Water and Development Foundation (NM Sadguru)
+10,386
+7
+Health Project
+8,995
+8
+The Ganga Foundation
+6,069
+9
+Model School Project
+6,063
+10
+IIMPACT
+5,002
+11
+Doctors For You
+3,762
+12
+Pratham Education Foundation (Pratham)
+3,587
+13
+Indian Dental Association
+2,675
+14
+IT for Change (ITfC)
+2,454
+15
+All India Institute of Local Self Government - AIILSG
+2,207
+16
+Kotak Education Foundation (KEF) Unnati - Livelihood Project
+1,939
+17
+Aditya Birla Education Trust
+1,599
+18
+Excel- Scholarship Project
+1,575
+19
+Vidya Bhawan Society
+1,500
+20
+KC Mahindra Education Trust (KCMET)
+1,481
+21
+TATA Steel Foundation (TSF)
+1,126
+22
+Sarthak Education Trust
+966
+23
+LEAD-School Leadership Development Project
+431
+24
+Indian Institute of Science
+401
+25
+Parivar Education Society
+400
+26
+CanKids...KidsCan
+396
+27
+Cuddles Foundation
+386
+28
+Head Held High Foundation (HHH)
+360
+29
+Youth4Jobs Foundation
+355
+30
+Indian Institute of Management Bangalore
+274
+31
+Nana Palkar Smruti Samiti
+259
+32
+Deeds Public Charitable Trust
+235
+33
+CanSupport
+220
+34
+Cohesion Foundation Trust
+215
+35
+Inspire Institute of Sport (IIS)
+177
+BRSR
+Section C: Principle Wise Performance
+359
+Financial Statements
+Acceler@ting change
+Statutory Reports
+Financial Highlights
+S. 
+No.
+CSR Project
+No. of persons benefitted 
+from CSR Projects
+Percentage of beneficiaries from vulnerable 
+and marginalized groups
+36
+KARO Trust
+95
+While our CSR projects largely target people 
+from marginalised and/or underprivileged 
+communities, beneficiary categorisation for 
+individual projects has not been tracked.
+37
+Vivekananda Kendra Vidyalayas Arunachal Pradesh Trust 
+(VKVAPT)
+60
+38
+SOPAN
+52
+39
+OCA Foundation
+26
+40
+Nirmaan Project
+Given the nature of the projects, the number 
+of beneficiaries of these projects cannot be 
+determined on an individual basis
+41
+Borderless World Foundation
+42
+Vidhi Centre for Legal Policy (Vidhi)
+43
+The Mahindra United World College of India
+44
+Buddy4study India Foundation
+45
+BAIF Institute for Sustainable Livelihoods and Development (BAIF 
+Livelihoods)
+46
+Shroffs Foundation Trust
+47
+United Way Bengaluru
+48
+Ramakrishna Mission
+49
+Institute of Neurosciences Kolkata
+50
+C.B.C.I Society for Medical Education
+51
+Spherule Foundation
+52
+Kotak IITM Save Energy Mission
+53
+Development of Humane Action (DHAN) Foundation
+54
+Watershed Organisation Trust (WOTR)
+55
+Centre For Collective Development (CCD)
+56
+Nature Forever Society (NFS)
+57
+Centre for Environmental Research and Education (CERE)
+58
+KIIT TBI
+59
+Veterinary Van Project
+60
+Pullela Gopichand Badminton Foundation (PGBF)
+PRINCIPLE 9: BUSINESSES SHOULD ENGAGE WITH AND PROVIDE VALUE TO THEIR CONSUMERS IN A RESPONSIBLE MANNER
+Essential Indicators 
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+We have instituted a grievance redressal policy consisting of a robust multi-channel customer grievance redressal mechanism. We also have a 
+complaint-handling protocol that guides our customer-facing employees to efficiently categorise and capture complaints. We are also committed 
+to resolving complaints in a timely manner, and we train our Consumer Banking staff on complaint management. We also leverage our social media 
+channels to address grievances. In addition, a ‘Do it Yourself’ (DIY) help centre has been launched to enable our customers to raise complaints on 
+the mobile banking application. We encourage them to share their grievances through e-mails, letters, faxes, or branch visits. We have revamped our 
+grievance redressal systems to focus on improving our resolution TAT and quality of responses, which led to a reduction in the number of complaints. 
+For further details, please refer to page 78 of ‘Generating value for our customers’ section.
+2.	
+Turnover of products and/services as a percentage of turnover from all products/service that carry information about:
+As a percentage to total turnover
+Environmental and 
+social parameters 
+relevant to the product
+Not Applicable. We are conscious of the environmental and social impacts of our products and services and strive to 
+maximise value for all our stakeholders by making positive contributions to the community and developing systems to 
+maximise positive societal and environmental impacts of our financing decisions. Over 1,700 proposals were screened 
+through EMSP.
+Safe and responsible 
+usage
+100%. Financial institutions are evaluated on product stewardship and transparency, including efforts to mitigate potential 
+reputational and regulatory risks arising from unethical lending practices or mis-selling financial products to consumers.
+Recycling and/or safe 
+disposal
+NA
+360
+3.	
+Number of consumer complaints in respect of the following:
+FY 2022-23
+Remarks
+FY 2021-22
+Remarks
+Received 
+during the 
+year*
+Pending 
+resolution at 
+end of year
+Received 
+during the year
+Pending 
+resolution at 
+end of year
+Data privacy
+-
+-
+-
+-
+Advertising
+-
+-
+-
+-
+Cyber-security
+-
+-
+-
+-
+Delivery of essential 
+Services#
+1,768
+44
+The number of 
+complaints reported 
+excludes complaints 
+redressed in zero 
+and one day.
+2,501
+18
+Restrictive Trade Practices
+-
+-
+-
+-
+Unfair Trade Practices
+-
+-
+-
+-
+Other
+-
+-
+-
+-
+ 
+* The complaint categories are predefined internally and we currently do not have specific categories for advertising, Restrictive Trade Practices and Unfair Trade Practices. 
+Total number of all customer complaints can be found on page 338 under section A of the BRSR disclosure.
+ 
+Assurance undertaken by Price Waterhouse Chartered Accountants LLP for indicators marked with #
+4.	
+Details of instances of product recalls on account of safety issues:
+ 
+Number
+Reasons for recall
+Voluntary recalls
+Not Applicable
+Forced recalls
+5.	
+Does the entity have a framework/policy on cyber security and risks related to data privacy? (Yes/No) If available, provide a web-link of the 
+policy.
+	
+Yes, we have a policy on cybersecurity. The details of the cybersecurity policy can be found in the annexures on page 363. In addition, the policy 
+can be found here (https://www.kotak.com/en/privacy-policy.html#:~:text=We%20may%20use%20the%20Customer,for%20creation%20of%20
+Statistical%20Information%2C).
+	
+For further details, please refer to pages 81-83 of the ‘Ethics and governance’ section.
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential services; cyber 
+security and data privacy of customers; re-occurrence of instances of product recalls; penalty/action taken by regulatory authorities on safety of 
+products/services.
+	
+No breaches reported during FY 2022-23.
+Leadership Indicators
+1.	
+Channels/platforms where information on products and services of the entity can be accessed (provide web link, if available).
+	
+Information about our products and services are available on our website https://www.kotak.com/en/home.html
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.
+	
+We carry out financial literacy and investor education programmes with an emphasis on expanding the knowledge of our customers and communities. 
+Our goal is to create awareness among our existing and potential consumers with the requisite know how to make informed financial decisions and 
+protect their data. We believe that financial literacy is a vital step in educating our customers on the effective usage of our banking services. During 
+the financial year, we organised verified 1,986 financial literacy camps through our rural branches. We also conduct various digital campaigns to 
+educate our customers on a regular basis.
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.
+	
+We proactively communicate with our customers through e-mail, SMS, WhatsApp, website, push notifications, Mobile app details regarding the 
+potential and ongoing disruption of essential services. We have also established Relationship Management teams at our branches and a Customer 
+Contact Centre with a team of Virtual Relationship Managers, who regularly connect with our customers telephonically and through digital modes. 
+This practice ensures transparent information is provided to our customers about our financial products and services to enable an overall seamless 
+customer experience.
+BRSR
+Section C: Principle Wise Performance
+361
+Financial Statements
+Acceler@ting change
+Statutory Reports
+Financial Highlights
+4.	
+Does the entity display product information on the product over and above what is mandated as per local laws? (Yes/No/Not Applicable) If yes, 
+provide details in brief. Did your entity carry out any survey with regard to consumer satisfaction relating to the major products/services of the 
+entity, significant locations of operation of the entity or the entity as a whole? (Yes/No)
+	
+Yes, we recognise the importance of adequate, clear and transparent information being provided to our customers to enable informed decision 
+making. We also train our employees to practice ethical lending practices and refrain from mis-selling of financial products to our consumers.
+	
+Yes, we track Net Promoter Score (NPS) at two levels- Relationship NPS (R-NPS) and Transaction NPS (T-NPS). This helps us understand our 
+customers’ perception of the Bank as a whole. For further details please refer to page 77 of ‘Generating value for our customers’ section.
+5.	
+Provide the following information relating to data breaches:
+	
+a.	
+The number of instances of data breaches along with the impact
+	
+	
+Zero substantiated instances of data breaches reported.
+	
+b.	
+Percentage of data breaches involving personally identifiable information of customers
+	
+	
+0%.
+Sr. No Name of the Policy
+Description of/Link to the Policy
+1
+Board Diversity Policy
+https://www.kotak.com/content/dam/Kotak/investor-relation/governance/Policies/board-diversity-policy.pdf  
+2
+Code of Bank’s Commitment to
+Customers
+https://www.kotak.com/content/dam/Kotak/Customer-Service/Important-Customer-Information/Banking-
+Codes-Standards-Board-of-India/Individuals-Customers/english.pdf   
+3
+Code of Conduct (Directors)
+https://www.kotak.com/content/dam/Kotak/investor-relation/governance/Policies/code_of_conduct_
+directors.pdf  
+4
+Code of Conduct (Employees)
+https://www.kotak.com/content/dam/Kotak/investor-relation/governance/Policies/code_of_conduct_
+employee-2972021.pdf 
+5
+Code of Conduct for Conduct for
+Collection of Dues - Credit Cards
+https://www.kotak.com/content/dam/Kotak/Customer-Service/Important-Customer-Information/Code-of-
+Conduct/code-of-conduct-for-collection-of-dues-credit-cards.pdf 
+6
+Code of Fair Disclosure of UPSI
+https://www.kotak.com/content/dam/Kotak/investor-relation/governance/Policies/code_of_fair_disclosure_
+of_UPSI.pdf   
+7
+Collection of Dues and 
+Repossession of
+Security Policy
+https://www.kotak.com/content/dam/Kotak/Customer-Service/Important-Customer-Information/Banking-
+Policies/policy-on-collection-of-dues-and-repossession-of-Security.pdf   
+8
+Compliance Policy
+The policy describes the compliance culture, function, risk and elucidates our approach to ensuring 
+compliance. The Chief Compliance Officer and the compliance team have the responsibility to ensure the 
+effectiveness and integrity of the compliance process with appropriate and robust monitoring of the adherence 
+to the Policy.
+9
+Compensation Policy
+https://www.kotak.com/content/dam/Kotak/investor-relation/governance/Policies/compensation-policy-kmbl.
+pdf   
+10
+Compensation Policy for Non-
+Executive Directors
+https://www.kotak.com/content/dam/Kotak/investor-relation/governance/Policies/compensation-policy-ned-
+final.pdf 
+11
+Corporate Social Responsibility 
+Policy
+https://www.kotak.com/en/about-us/corporate-responsibility.html 
+12
+Customer’s Compensation Policy https://www.kotak.com/content/dam/Kotak/Customer-Service/Important-Customer-Information/Banking-
+Policies/customer-compensation-policy.pdf   
+13
+Diversity, Inclusion and Equity 
+Statement
+This policy articulates our commitment to creating a diverse workforce and an inclusive workplace where all 
+employees, are treated with respect and dignity. To this end, we are committed to providing equal opportunities 
+to all in employment, without any discrimination on the grounds of age, disability, gender, marriage, civil 
+partnership, maternity, race, ethnicity, social and indigenous origin, nationality, colour, religion or belief, sexual 
+orientation, socio-economic status of an individual or other basis prohibited by law. The policy also details our 
+commitment to providing a safe, healthy and conducive work environment for our employees.
+14
+ESG Management Systems Plan 
+(EMSP)
+Please find details on page 52 of ‘Sustainability at Kotak’ section of this Report
+15
+ESG Policy Framework
+https://www.kotak.com/content/dam/Kotak/investor-relation/governance/Policies/ESG-framework-2022.pdf  
+16
+Employee Volunteering Policy
+This policy provides a framework that enables and inspires our employees to utilise their time and skills 
+in socially impactful volunteering activities. Our employees can enrol with social sector organisations or 
+opportunities available on the Kotak Work Life Mobile App or Portal.
+17
+Enterprise-wide Risk Management 
+(ERM)Framework
+Details of our ERM framework have been elucidated on page 325 of the Management's discussion and 
+analysis section of this Report.
+18
+Environment Policy
+Our Environment Policy elucidates our commitment to sound environmental management in line with national 
+and local environmental regulations. It also covers our approach to manage our environmental impact through 
+resource efficiency measures, waste management and transitioning our operations to a low-carbon economy. 
+The policy also focuses on creating employee and stakeholder awareness on environmental management.
+19
+Equal Employment Opportunity 
+Policy
+This policy is aligned with the Rights of Persons with Disabilities Act, 2016, and covers all our employees 
+(current and prospective employees), including persons with disability, persons with benchmark disability 
+and persons with disability having high support needs. The policy articulates our commitment to providing 
+equal opportunities to all in employment, without any discrimination on the grounds of age, disability, gender, 
+marriage and civil partnership, maternity, race, ethnic, social, and indigenous origin, nationality, colour, religion 
+or belief, sexual orientation, socioeconomic status of an individual or other basis prohibited by law.
+20
+Fair Practice Code (Bank)
+https://www.kotak.com/content/dam/Kotak/Customer-Service/Important-Customer-Information/Code-of-
+Conduct/fair-practice-code.pdf  
+21
+Fair Practice Code for Credit Card
+Operations
+https://www.kotak.com/content/dam/Kotak/Customer-Service/Important-Customer-Information/Code-of-
+Conduct/fair-practice-code-for-credit-card-operations.pdf 
+22
+Fair Practice Code for Lenders
+https://www.kotak.com/content/dam/Kotak/Customer-Service/Important-Customer-Information/Code-of-
+Conduct/fair-practice-code-for-lenders.pdf 
+23
+Fair Practice Code: Microfinance
+Loans
+https://www.kotak.com/content/dam/Kotak/Customer-Service/Important-Customer-Information/Code-of-
+Conduct/Fair-Practice-Code-Microfinance-Loans.pdf 
+L I S T  O F  P O L I C I E S
+362
+Sr. No Name of the Policy
+Description of/Link to the Policy
+24
+Fraud Risk Management Policy
+The aim of this policy is to help the field functionaries strengthen their precautionary measures, which would 
+make the supervision and internal control mechanism more focused and effective. The policy defines the 
+fraud-prone areas of the business, fraud risk control measures, and the classification and reporting of fraud 
+cases, investigation, follow-up and closure mechanism.
+25
+Grievance Redressal Policy
+https://www.kotak.com/content/dam/Kotak/Customer-Service/Important-Customer-Information/Banking-
+Policies/policy-for-grievance-redressal.pdf 
+26
+Health, Safety and Welfare at 
+Work-Place Policy
+This policy governs health and safety practices in the workplace and documents our commitment to comply 
+with laws concerning occupational health and safety. The scope of the policy covers all employees and 
+partners working at our premises. We also have an Occupational, Health and Safety Management System 
+Manual detailed on page 66-67 of the ‘Empowering our employees’ section of this Report.
+27
+Human Rights and Anti-
+discrimination Policy
+This policy communicates our commitment towards respecting human rights and condemning any violations 
+in this regard. The policy supports freedom of association, right to collective bargaining, equal remuneration, 
+no discrimination, and other related human rights. This policy conforms to the requirements set forth in 
+the UN Guiding Principles on Business and Human Rights and complements Kotak’s Code of Conduct for 
+employees. The policy expects all our value-chain partners, including business partners, suppliers, vendors, 
+and contractors to reciprocate our commitment to human rights. This policy is applicable at every level of 
+the organisation and to every aspect of the workplace environment and employment relationship, including 
+recruitment, selection, promotion, transfers, training, salaries, benefits, and termination. It also covers fair 
+wages, decent working hours, and performance evaluations.
+28
+Information Security and Cyber 
+Security Policy
+This policy institutes the Cyber Security Framework based on industry best practices and regulatory guidelines. 
+As a part of the cyber resilience framework, a Cyber Crisis Management Plan (CCMP) has been established 
+to effectively respond to a cyber-crisis. The policy details the Cyber Crisis Management Task Force structure, 
+Cyber Crisis Management Life Cycle, protocol to activate the CCMP, incident classification, containment, 
+investigation and recovery. The policy also stipulates Cyber Crisis Management Awareness programmes to be 
+undertaken for employees.
+29
+Apex Information Technology 
+Policy
+This Information Technology Policy provides guidelines for effective management of the Bank’s Information 
+Technology systems. The policy is based on the international Standard and Framework ISO IEC 20000, ITIL 
+V-3, COBIT 4.1 and ISO 27001 and Indian regulations. The policy ensures integrity, reliability and availability 
+of the IT systems along with IT Change Management. It specifically articulates process to identify, record, 
+perform impact analysis, prioritise, classify, resolve, escalate and close all incidents. The policy also specifies 
+training of employees of IT security and requires all employees and third parties to comply with the policy.
+30
+KYC and Anti-Money Laundering 
+(AML) Policy
+The objective of this Board-approved policy is to have in place adequate policies, practices and procedures 
+that promote high ethical and professionals and prevent us from being used, intentionally or unintentionally 
+by criminal elements. The KYC standards and AML measures enable us to understand our customers or 
+beneficial owners and their financial dealings, which in turn helps us to manage our risks prudently. The 
+policy lists guidelines to conduct our customer due diligence process (CDD), Non-face-to-face CDD, risk 
+assessments to identify, assess and take effective measures to avoid terrorist financing and identify, review 
+and monitor politically exposed persons.
+31
+New Mother Benefit Policy
+Please find details on page 67 of ‘Empowering our employees’ section of this Report.
+32
+Operational Risk Management 
+Policy
+The policy guides governance and reporting structure for operational risk management. It establishes a 
+proactive operational risk management culture, which includes identifying, preventing, reducing, avoiding or 
+transferring operational risk inherent to the business.
+33
+Pandemic Benevolent Policy
+Please find details on page 346 of BRSR section of this Report.
+34
+Policy for Determination 
+of Materiality of Events or 
+Information
+https://www.kotak.com/content/dam/Kotak/investor-relation/governance/Policies/KMBL_materiality_policy1.
+pdf 
+35
+Policy on Dealing with Related 
+Party Transactions
+https://www.kotak.com/content/dam/Kotak/investor-relation/governance/Policies/dealing_with_related_
+party_transactions.pdf 
+36
+Policy on Sexual Harassment of 
+Women (POSH)
+Please find details on page 69 of ‘Empowering our employees’ section of this Report.
+37
+Privacy Notice (for EU Users)
+https://www.kotak.com/en/privacy-policy/privacy-notice.html 
+38
+Privacy Policy
+https://www.kotak.com/en/privacy-policy.html 
+39
+Stress Testing Policy
+Details of our stress testing policy have been elucidated on page 332 of the Management's discussion and 
+analysis section of this Report.
+40
+Whistle Blower Policy
+https://www.kotak.com/content/dam/Kotak/investor-relation/governance/Policies/whistle_blower_policy.pdf 
+41
+Vigilance Policy
+The policy covers primarily two types of vigilance: preventive and detective vigilance. The Vigilance Committee 
+is responsible for instituting the anti-corruption measures.
+42
+Training Policy
+This policy articulates our philosophy on learning with the objective of assimilating and upskilling our 
+employees and creating future talent pipeline. The policy covers training and processes related to cost of
+training, categories of training, nomination procedure, process of approval, booking of training expense, 
+settlement of expense and process of cancellation. The policy also describes the process enabling employees 
+to undertake external learning and certification programmes.
+363
+Financial Statements
+Acceler@ting change
+Statutory Reports
+Financial Highlights
+Annexures 
+List of Policies
+E S G  D A T A  T A B L E S
+WORKFORCE BREAKDOWN1
+The boundary for FY 2022-23 includes employees based out of international locations, which were not part of the disclosures in FY 2021-
+22. There are 97 employees in the international locations including Bank and subsidiaries (64 male and 33 female).
+Kotak Mahindra Bank: Workforce Breakdown for FY 2022-23
+Category
+ 
+Number
+Percentage
+Male
+Female
+Male
+Female
+Senior management
+284
+29
+90.7%
+9.3%
+Middle management
+5,437
+1,222
+81.6%
+18.4%
+Junior employees
+34,658
+12,956
+72.8%
+27.2%
+Fixed-term contractual employees
+12,588
+4,778
+72.5%
+27.5%
+Other employees
+1,126
+402
+73.7%
+26.3%
+Total full-time employees
+54,093
+19,387
+73.6%
+26.4%
+Other part-time employees
+-
+1
+-
+100.0%
+Total employees
+54,093
+19,388
+73.6%
+26.4%
+Kotak Mahindra Group: Workforce Breakdown for FY 2022-23*
+Category
+ 
+Number
+Percentage
+Male
+Female
+Male
+Female
+Senior management
+472
+43
+91.7%
+8.3%
+Middle management
+9,304
+1,940
+82.7%
+17.3%
+Junior employees
+50,423
+16,638
+75.2%
+24.8%
+Fixed-term contractual employees
+17,418
+5,550
+75.8%
+24.2%
+Other employees 
+1,127
+402
+73.7%
+26.3%
+Total full-time employees
+78,744
+24,573
+76.2%
+23.8%
+Part-time employees of Insurance companies
+13,752
+9,122
+60.1%
+39.9%
+Other part-time employees
+-
+2
+-
+100.0%
+Total employees
+92,496
+33,697
+73.3%
+26.7%
+*Some of the board members hold positions on the board of more than one company among the Bank and its subsidiaries. Therefore, board diversity cannot 
+be depicted by consolidation of directors in a single list at a Group level.
+Kotak Mahindra Bank: Age-Wise Composition of Employees for FY 2022-23
+Category
+Number
+Percentage
+<30 years
+30-50 years
+>50 years
+<30 years
+30-50 years
+>50 years
+Senior management
+-
+203
+110
+-
+64.9%
+35.1%
+Middle management
+127
+6,275
+257
+1.9%
+94.2%
+3.9%
+Junior employees
+25,796
+21,719
+99
+54.2%
+45.6%
+0.2%
+Fixed-term contractual employees
+12,233
+5,095
+38
+70.4%
+29.3%
+0.2%
+Other employees
+24
+404
+1,100
+1.6%
+26.4%
+72.0%
+Total full-time employees
+38,180
+33,696
+1,604
+52.0%
+45.9%
+2.2%
+Part-time employees
+-
+1
+-
+-
+100.0%
+-
+Total employees
+38,180
+33,697
+1,604
+52.0%
+45.9%
+2.2%
+1GRI 2-7, GRI 405-1
+364
+Kotak Mahindra Group: Age-Wise Composition of Employees for FY 2022-23*
+Category
+Number
+Percentage
+<30 years
+30-50 years
+>50 years
+<30 years
+30-50 years
+>50 years
+Senior management
+-
+341
+174
+-
+66.2%
+33.8%
+Middle management
+618
+10,122
+504
+5.5%
+90.0%
+4.5%
+Junior employees
+36,667
+30,201
+193
+54.7%
+45.0%
+0.3%
+Fixed-term contractual employees
+16,061
+6,847
+60
+69.9%
+29.8%
+0.3%
+Other employees
+24
+404
+1,101
+1.6%
+26.4%
+72.0%
+Total full-time employees
+53,370
+47,915
+2,032
+51.7%
+46.4%
+2.0%
+Part-time employees of Insurance 
+companies
+2,644
+10,837
+9,393
+11.6%
+47.4%
+41.1%
+Other part-time employees
+-
+2
+-
+-
+100.0%
+-
+Total employees
+56,014
+58,754
+11,425
+44.4%
+46.6%
+9.1%
+* Some of the board members hold positions on the board of more than one company among the Bank and its subsidiaries. Therefore, board diversity cannot 
+be depicted by consolidation of directors in a single list at a Group level.
+NEW JOINEES2
+The hire rates have been calculated with the formula: No. of persons who joined the organisation in the FY *100 / Total number of 
+headcount as on 31st March, 2023. The new joinee rate for international subsidiaries is very low compared to the group as a whole and 
+hence is not being disclosed separately.
+Kotak Mahindra Bank: New Joinees by gender for FY 2022-23
+Category
+ 
+Number
+Rate
+Male
+Female
+Male
+Female
+Senior management
+23
+-
+8.1%
+-
+Middle management
+1,319
+301
+24.3%
+24.6%
+Junior employees
+21,837
+8,201
+63.0%
+63.3%
+Fixed-term contractual employees
+10,423
+4,602
+82.8%
+96.3%
+Other employees 
+5
+-
+0.4%
+-
+Part-time employees
+-
+-
+-
+-
+Total employees
+33,607
+13,104
+62.1%
+67.6%
+Kotak Mahindra Group: New Joinees by gender for FY 2022- 23
+Category
+ 
+Number
+Rate
+Male
+Female
+Male
+Female
+Senior management
+37
+4
+7.8%
+9.3%
+Middle management
+2,225
+494
+23.9%
+25.5%
+Junior employees
+33,799
+10,418
+67.0%
+62.6%
+Fixed-term contractual employees
+14,146
+5,196
+81.2%
+93.6%
+Other employees 
+5
+-
+0.4%
+-
+Part-time employees
+-
+-
+-
+-
+Total employees
+50,212
+16,112
+54.3%
+47.8%
+2GRI 401-1
+365
+Financial Statements
+Acceler@ting change
+Statutory Reports
+Financial Highlights
+Annexures 
+ESG Data Tables
+Kotak Mahindra Bank: New Joinees by age for FY 2022-23
+Category
+Number
+Rate
+<30 years
+30-50 years
+>50 years
+<30 years
+30-50 years
+>50 years
+Senior management
+-
+21
+2
+-
+10.3%
+1.8%
+Middle management
+73
+1,538
+9
+57.5%
+24.5%
+3.5%
+Junior employees
+20,089
+9,947
+2
+77.9%
+45.8%
+2.0%
+Fixed-term contractual employees
+11,916
+3,105
+4
+97.4%
+60.9%
+10.5%
+Other employees
+2
+3
+-
+8.3%
+0.7%
+-
+Part-time employees
+-
+-
+-
+-
+-
+-
+Total employees
+32,080
+14,614
+17
+84.0%
+43.4%
+1.1%
+Kotak Mahindra Group: New Joinees by age for FY 2022-23
+Category
+Number
+Rate
+<30 years
+30-50 years
+>50 years
+<30 years
+30-50 years
+>50 years
+Senior management
+-
+37
+4
+-
+10.9%
+2.3%
+Middle management
+247
+2,449
+23
+40.0%
+24.2%
+4.6%
+Junior employees
+30,296
+13,914
+7
+82.6%
+46.1%
+3.6%
+Fixed-term contractual employees
+15,180
+4,153
+9
+94.5%
+60.7%
+15.0%
+Other employees 
+2
+3
+-
+8.3%
+0.7%
+-
+Part-time employees
+-
+-
+-
+-
+-
+-
+Total employees
+45,725
+20,556
+43
+81.6%
+35.0%
+0.4%
+WORKFORCE TURNOVER DATA3
+Turnover also includes attrition on account of death, superannuation, disciplinary action and non-regrettable exits by employees with low 
+performance. The turnover rates have been calculated with the formula: No. of persons who have left the employment of the entity in the 
+FY *100)/Average no. of persons employed in the category. In line with the BRSR guidance, Average number of persons employed in a category 
+has been calculated as (Persons employed in the category at the beginning of FY + Persons employed in the category at the end of FY)/2. 
+The turnover rate for international subsidiaries is very low compared to the group as a whole and hence is not being disclosed separately. 
+Kotak Mahindra Bank: Permanent Employee Turnover *
+Category
+FY 2020-21
+FY 2021-22
+FY 2022-23
+Male 
+(No.)
+Male 
+(Rate)
+Female 
+(No.)
+Female 
+(Rate)
+Male 
+(No.)
+Male 
+(Rate)
+Female 
+(No.)
+Female 
+(Rate)
+Male 
+(No.)
+Male 
+(Rate)
+Female 
+(No.)
+Female 
+(Rate)
+Senior management
+16
+6.6%
+3
+8.1%
+33
+13.1%
+4
+11.3%
+26
+9.6%
+6
+19.0%
+Middle management
+334
+9.6%
+72
+11.3%
+759
+18.5%
+147
+17.6%
+998
+20.0%
+217
+19.6%
+Junior employees
+8,560
+32.5%
+2,881
+31.3%
+12,075
+43.1%
+4,430
+43.3%
+16,435
+50.7%
+6,274
+51.9%
+Other employees 
+200
+12.9%
+35
+7.3%
+178
+13.1%
+40
+9.0%
+142
+11.8%
+23
+5.5%
+*Permanent employee turnover rate inclusive of turnover on account of death, superannuation, disciplinary action and non-regrettable exits by employees with 
+low performance for FY 21, FY 22 and FY 23 are 28.8% (male -28.9%, female-28.8%), 39.0% (male -38.7%, female-40.0%) , 45.9% (male -45.3%, female-47.8%) 
+respectively.
+ Turnover#
+ 
+FY 2022-23 (Nos)
+FY 2022-23 (Rate)
+<30 years
+30-50 years
+>50 years
+<30 years
+30-50 years
+>50 years
+Permanent Employees
+14,175
+9,728
+218
+58.2%
+36.6%
+13.8%
+#Including other part time employees
+Kotak Mahindra Group: Permanent Employee Turnover 
+Category
+FY 2020-21
+FY 2021-22
+FY 2022-23
+Male 
+(No.)
+Male 
+(Rate)
+Female 
+(No.)
+Female 
+(Rate)
+Male 
+(No.)
+Male 
+(Rate)
+Female 
+(No.)
+Female 
+(Rate)
+Male 
+(No.)
+Male 
+(Rate)
+Female 
+(No.)
+Female 
+(Rate)
+Senior management
+26
+6.3%
+3
+6.3%
+51
+11.9%
+5
+10.3%
+46
+10.1%
+8
+17.6%
+Middle management
+786
+12.3%
+131
+11.6%
+1,516
+20.9%
+290
+20.7%
+1,855
+21.5%
+380
+21.4%
+Junior employees
+12,591
+33.5%
+3,728
+31.2%
+17,748
+44.5%
+5,690
+43.3%
+24,945
+53.5%
+7,876
+50.9%
+Other employees 
+200
+12.9%
+35
+7.3%
+178
+13.1%
+40
+9.0%
+142
+11.8%
+23
+5.5%
+ Turnover#
+ 
+FY 2022-23 (Nos)
+FY 2022-23 (Rate)
+<30 years
+30-50 years
+>50 years
+<30 years
+30-50 years
+>50 years
+Permanent Employees
+20,933
+14,069
+273
+60.3%
+37.0%
+14.1%
+3GRI 401-1
+366
+#Including other employees
+EMPLOYEE TRAINING AND DEVELOPMENT
+Kotak Mahindra Bank: Average hours of training per year per employee for FY 2022-234
+Category
+Average Hours
+Senior management
+21.2
+Middle management
+28.2
+Junior employees
+77.9
+Other employees 
+10.6
+Temporary/Contractual employees
+16.3
+Kotak Mahindra Bank: Average hours of training per year per employee for FY 2022-235
+Category
+Average Hours
+Permanent employees
+Male employees
+64.0
+Female employees
+86.6
+Temporary/Contractual Employees
+Male employees
+16.4
+Female employees
+16.0
+Kotak Mahindra Bank: Cadre wise performance review FY 2022-236
+Category
+Number of employees who 
+underwent performance review
+Percentage of employees who 
+underwent performance review
+Male
+Female
+Male
+Female
+Senior management
+269
+29
+94.7%
+100.0%
+Middle management
+4842
+1,079
+89.1%
+88.3%
+Junior employees
+26189
+10,030
+75.6%
+77.4%
+Other employees 
+791
+333
+70.3%
+82.8%
+PARENTAL LEAVES7
+Kotak Mahindra Bank: Parental leaves availed by permanent employees during FY 2022-23
+Employee Gender
+Number of employees 
+that took parental 
+leaves
+Number of employees who 
+returned to work after parental 
+leaves ended
+Number of employees who returned to work 
+after parental leave ended that were still 
+employed 12 months after their return
+Male
+1,710
+1,713
+790
+Female
+624
+568
+261
+Kotak Mahindra Bank: Gender Pay Ratio8
+ 
+Category
+FY 2022-23
+Ratio of CTC Female: 
+Male (Average CTC)
+Ratio of Basic Female: 
+Male (Average Basic)
+Senior Management
+1.11
+1.21
+Middle Management
+0.94
+0.95
+Junior employees
+0.91
+0.94
+Other employees
+0.76
+0.76
+4GRI 404-1  |  5GRI 404-1  |  6GRI 404-3  |  7GRI 401-3 a, b, c, d  |  8GRI 405-2
+367
+Financial Statements
+Acceler@ting change
+Statutory Reports
+Financial Highlights
+Annexures 
+ESG Data Tables
+A D D I T I O N A L  I N F O R M A T I O N
+STAKEHOLDER ENGAGEMENT TABLE
+Key 
+stakeholders
+Investors and 
+Shareholders
+	‣
+e-mails
+	‣
+Letters
+	‣
+Earning calls
+	‣
+Meetings/ conferences
+	‣
+Investor Grievance Cell
+	‣
+Media
+	‣
+Website
+	‣
+Annual and quarterly 
+investor meets
+	‣
+Need-based
+	‣
+Financial results
+	‣
+Key business 
+developments
+	‣
+Shareholder returns and 
+dividends
+	‣
+Issues related to share 
+issuances and transfer
+	‣
+Climate change
+	‣
+Diversity and Inclusion
+	‣
+Provision of accurate 
+information on financial 
+and ESG performance
+	‣
+Timely resolution of queries
+	‣
+Provision of regular 
+business updates
+	‣
+Incorporation of feedback 
+on our strategy and 
+performance
+	‣
+Product and process 
+innovation
+	‣
+Digital solutions
+	‣
+Service quality 
+and relationship 
+management
+	‣
+Timely resolution of 
+grievances
+	‣
+One-on-one interactions
+	‣
+Focus group discussions
+	‣
+Customer meets
+	‣
+Customer satisfaction 
+surveys
+	‣
+Customer helpline
+	‣
+Customer grievance cell
+	‣
+Social media
+	‣
+Website
+	‣
+Periodic structured 
+feedback meetings
+	‣
+Ongoing
+	‣
+Need-based
+	‣
+Needs of customers
+	‣
+Customer experience 
+and service quality
+	‣
+Product features and benefits
+	‣
+Technology interface for 
+banking experience
+	‣
+Cybersecurity and Fraud 
+protection
+	‣
+ESG initiatives and disclosures
+Customers 
+and Clients
+Medium of 
+engagement
+Frequency of 
+engagement
+Key topics of 
+engagement
+Activities informed by 
+stakeholder engagement
+Employees
+	‣
+Induction programmes
+	‣
+Town halls
+	‣
+e-mails
+	‣
+Skip-level meetings
+	‣
+Leadership meetings
+	‣
+Employee engagement 
+initiatives
+	‣
+Rewards and recognition 
+programmes
+	‣
+Employee grievance cell
+	‣
+Employee portal
+	‣
+HR helpdesk
+	‣
+Employee satisfaction 
+surveys
+	‣
+Employee volunteering 
+initiatives
+	‣
+Ongoing
+	‣
+Need-based
+	‣
+Policies and 
+procedures
+	‣
+Diversity and Inclusion
+	‣
+Performance appraisal 
+and rewards
+	‣
+Training and career 
+development
+	‣
+Work environment
+	‣
+Health and wellness
+	‣
+Safety and security
+	‣
+Community 
+development
+	‣
+Employee volunteering
+	‣
+Cybersecurity
+	‣
+Talent development 
+programmes
+	‣
+Career succession 
+planning
+	‣
+Flexible mode of 
+working
+	‣
+Diversity and Inclusion 
+initiatives
+	‣
+Health and well-being 
+initiatives
+	‣
+Employee volunteering 
+opportunities
+Annexure: Kotak Mahindra Group’s Stakeholder Engagement Process1
+1GRI 2-29
+368
+Key 
+stakeholders
+Medium of 
+engagement
+Frequency of 
+engagement
+Key topics of 
+engagement
+Activities informed by 
+stakeholder engagement
+	‣
+Meetings
+	‣
+e-mails
+	‣
+Letters
+	‣
+Supplier and business 
+associates’ performance 
+reviews
+	‣
+Awareness programmes
+	‣
+Community development 
+initiatives including 
+need-based local 
+interventions identified by 
+Kotak Mahindra Group’s 
+employees
+	‣
+Funding support
+	‣
+Proposals and requests for 
+new initiatives
+	‣
+Impact assessment surveys
+	‣
+Community development 
+needs
+	‣
+Financial Inclusion
+	‣
+Financial infrastructure
+	‣
+Human and organisational 
+support
+	‣
+Need-based community 
+development programmes
+	‣
+Skill upgradation for the 
+supporting staff
+	‣
+Supplier friendly terms
+	‣
+On-time vendor payments
+	‣
+Product/Service/ Technology 
+quality and support
+	‣
+Contract commercial 
+and technical terms and 
+conditions
+	‣
+Supplier and business 
+associates’ statutory 
+compliances
+	‣
+ESG, Code of Conduct for 
+service providers
+	‣
+Need-
+based
+	‣
+Ongoing
+	‣
+Need-based
+Vendors and 
+Business 
+Associates
+Communities 
+and NGOs
+	‣
+Regulatory filings
+	‣
+Compliance statements
+	‣
+Meetings
+	‣
+Letters
+	‣
+e-mails
+	‣
+Industry associations
+	‣
+License request and renewal
+	‣
+Compliance with filings and 
+other regulatory requirements
+	‣
+Participation in government 
+financial sector plans and 
+programmes
+	‣
+Consultations sought by 
+regulatory bodies and industry 
+associations
+	‣
+On-time submission 
+of regulatory and 
+statutory filings
+	‣
+Need-based
+Government 
+and Regulatory 
+Bodies
+369
+Financial Statements
+Acceler@ting change
+Statutory Reports
+Financial Highlights
+Annexures 
+Additional Information
+C S R  A N N E X U R E
+DURING FY 2022-23, WE CONDUCTED SOCIAL IMPACT ASSESSMENT (SIA) FOR CSR PROJECTS. 
+An Executive Summary of the Social Impact Assessment Undertaken for the CSR projects 
+CSR Project Unique ID 26: 
+KARO Trust
+Our healthcare project implemented by KARO Trust in FY 2020-21, provided financial support to 144 unique patients 
+suffering from Ewing’s Sarcoma, Aplastic anemia and diseases that require a bone marrow transplant. An impact 
+assessment study conducted by Sattva Consulting in FY 2022-23 indicated that the financial support provided to the 
+patients has enabled them to continue or complete their treatment. 100% of the surveyed patients and their families were 
+satisfied with the support provided by KARO Trust. 
+CSR Project Unique ID 66: 
+Wockhardt
+Our healthcare project implemented by Wockhardt Foundation in FY 2020-21, supported six Mobile Medical Vans (MMVs) 
+operating in the urban slums of Hyderabad. An impact assessment study conducted by Sattva Consulting in FY 2022-
+23 highlighted that 94% respondents confirmed that MMV was available to them once a week. 85% of those who availed 
+the service reported a reduction in their average monthly healthcare expenditure and 89% were satisfied with the overall 
+facilities provided by the MMV.
+CSR Project Unique ID 
+33: Borderless World 
+Foundation
+Our healthcare project implemented by Borderless World Foundation in FY 2020-21, provided five critical care ambulances 
+to the army in Jammu and Kashmir, with the aim to increase accessibility and availability to healthcare facilities. An 
+impact assessment study conducted by Sattva Consulting in FY 2022-23 highlighted that the high-quality infrastructure 
+and provisions of advanced medical equipment in the ambulances have received unequivocal appreciation from the 
+army medical officers. The service has helped in bringing a sense of belongingness and national integration among the 
+community members.
+CSR Project Unique ID 38: 
+COVID-19 Relief
+Our healthcare project implemented as a direct project in FY 2020-21, focused on providing COVID-19 supplies to frontline 
+workers in 17 Hospitals, two Municipal Corporation Offices, and the Police Department, across cities such as Mumbai, 
+Solapur, Pune, Nashik, Surat and Chennai. An impact assessment study conducted by Sattva Consulting in FY 2022-23 
+indicated that the project helped in limiting the spread of COVID-19 by making available high-quality protective gear to 
+frontline workers, making them feel safe from COVID-19 and perform their work more effectively.
+CSR Project Unique ID 
+03: Pratham Education 
+Foundation
+As part of our education and livelihood projects implemented by Pratham Education Foundation in FY 2020-21, we 
+conducted beauty, healthcare and hospitality courses, reaching 5,224 beneficiaries across four states ( Maharashtra, 
+Andhra Pradesh, Odisha and Rajasthan). An impact assessment study conducted by Samhita Social Ventures in FY 2022-
+23 indicated that 63% of the respondents who completed the courses were given placement offers, out of which 43% 
+accepted the placements despite the restrictions related to COVID-19 and other related anxieties. The study indicated that 
+the project has positively impacted students in terms of their self-confidence, respect received at the workplace and say 
+in family finances. Overall, student satisfaction was found to be very high, with 85.4% of respondents indicating that they 
+would recommend these courses to their family and friends.
+CSR Project Unique ID 17: 
+Disha Foundation
+Our education and livelihood project implemented by Disha in FY 2020-21 was aimed at providing an alternative learning 
+space to children with learning disabilities at Jaipur. An impact assessment study conducted by Soulace in FY 2022-
+23 indicated that despite the disruptions caused by the pandemic, the construction of the third floor was completed by 
+leveraging learning-disability-focused design principles. Twelve children were enrolled in the centre after it was opened. The 
+B.Ed. students interviewed by the research team were satisfied with the infrastructure and facilities provided by Disha. They 
+praised the systematic and scientific facilities for children with learning disabilities, which they said were the best in Jaipur.
+CSR Project Unique ID 22: 
+IIM Bangalore
+Our education and livelihood project implemented by IIM Bangalore in FY2020-21 provided seed funding for women 
+entrepreneurs enrolled in the Women Startup Programme of NSRCEL of IIM Bangalore. An impact assessment study 
+conducted by Soulace in FY 2022-23 highlighted that 92% of the respondents found the seed funding very helpful in 
+starting and running their businesses. 100% of the respondents stated that the Women Startup Programme gave them the 
+motivation to move from ideation to actual product, facilitated future funding rounds, and provided better market linkages. 
+Employment creation varied, with 8% of respondents able to employ more than 20 members, while 40% of respondents 
+were able to employ between two and five members.
+CSR Project Unique ID 49: 
+Parivaar Education Society
+Our education and livelihood project implemented by Parivaar Education Society in FY 2020-21 provided education and 
+nutrition support to children as part of the Seva Kutir Initiative. An impact assessment study conducted by Soulace in FY 
+2022-23 indicated that regular attendance in formal school increased from 65% to 93% as far as before and after project 
+implementation is concerned. 65% of the parents reported that their children became more streamlined as they more or less 
+listened to the instructions at home and formal school as well, and the majority of the students (95%) received sufficient 
+food and have full-stomach meals.
+CSR Project Unique ID 11: 
+Head Held High
+Our education and livelihood project implemented by Head Held High in FY 2020-21 provided a 6-month-long training to the 
+youth, i.e., young people with not much educational background or who are school drop-outs.
+An impact assessment study conducted by Soulace in FY 2022-233 indicated that 75% of the candidates joined the Make 
+India Capable Programme to upgrade their skills to align with well-paying employment opportunities in the industry. All 
+the beneficiaries (100%) received training to prepare for their job interviews. 95% of the beneficiaries received assessment 
+feedback from the trainers.
+370
+CSR Project Unique ID 50: 
+IIMPACT
+Our education and livelihood project implemented by IIMPACT in FY 2020-21 offered educational opportunities to girls 
+from underprivileged communities who are typically excluded from education. An impact assessment study conducted 
+by Soulace in FY 2022-23 indicated that after the project implementation, approximately 92% of the students gradually 
+did better in their regular academic sessions. 98% of the parents reported that the project moderately bridged the gap in 
+providing education services in the community.
+CSR Project Unique ID 01: 
+Kotak Education Foundation
+Our education and livelihood project implemented by Kotak Education Foundation in FY 2020-21 focussed on bringing 
+about a holistic development of KEF partner schools and also livelihood opportunities to youths from underprivileged 
+backgrounds.
+An impact assessment study conducted by Soulace in FY 2022-23 covered the performance of various initiatives 
+undertaken as below: 
+Lead (Targeting School Leadership): Around 97% of the individuals display that the project has impacted concrete school 
+development planning and 97.8% of the participants have seen the significance of the project in one or more areas of 
+strategic development.
+Guru (For School Teachers): The Guru Project has had a positive impact on the professional development of teachers, 
+particularly in adapting to online or virtual teaching during the COVID-19 pandemic.
+Parvarish (For Parents): 73.8% of the respondents recorded that they benefited from the project where their day-to-day 
+interactions with their children became better. The project built enhanced channels of communication, safer homes, and 
+better socio-emotional ecosystems for children in their early years.
+Unnati (Vocational Training): The curriculum on life skills taught in the UNNATI project was generally well-received by the 
+respondents and perceived as helpful, with 88% of the respondents finding it very useful. About 55% strongly agreed and 
+39% agreed, showing that the project has helped respondents to become financially self-sufficient.
+Umang (Spoken English): 56% of students were assessed to be at the highest level as per the ASER assessment tool and 
+only 10.7% of the total number of beneficiaries were assessed to be in the “Word Level,” which is the lowest level of the 
+ASER assessment tool.
+371
+Financial Statements
+Acceler@ting change
+Statutory Reports
+Financial Highlights
+Annexures 
+CSR Annexure
+G R I  C O N T E N T  I N D E X
+GRI Standard
+Disclosure
+Page Number/ 
+Direct Response
+GRI 2: General Disclosure 2021
+1. The organisation and its reporting practices
+GRI 2-1
+Organisational Details
+B
+GRI 2-2
+Entities included in the organisation sustainability reporting
+B
+GRI 2-3
+Reporting period, frequency, and contact point
+B
+GRI 2-4
+Restatements of information
+B
+GRI 2-5
+External assurance
+B, 377
+2. Activities and Workers
+GRI 2-6
+Activities, value chain and other business relationships
+10
+GRI 2-7
+Employees
+364
+GRI 2-8
+Workers who are not employees
+Not Applicable
+3. Governance
+GRI 2-9
+Governance structure and composition
+263
+GRI 2-10
+Nominations and selection of the highest governance body
+263
+GRI 2-11
+Chair of the highest governance body
+263, 264
+GRI 2-12
+Role of the highest governance body in overseeing the management of impacts
+280
+GRI 2-13
+Delegation of responsibility for managing impacts
+280
+GRI 2-14
+Role of the highest governance body in sustainability reporting
+280
+GRI 2-15
+Conflicts of interest
+296
+GRI 2-16
+Communication of critical concerns
+273
+GRI 2-17
+Collective knowledge of the highest governance body
+264 - 270
+GRI 2-18
+Evaluation of the performance of the highest governance body
+263
+GRI 2-19
+Remuneration policies
+272
+GRI 2-20
+Process to determine remuneration
+272
+GRI 2-21
+Annual total compensation ratio
+255
+4. Strategy, policies and practices
+GRI 2-22
+Statement on sustainable development strategy
+9
+GRI 2-23
+Policy Commitments
+B, 80
+GRI 2-24
+Embedding policy commitments
+64
+GRI 2-25
+Processes to remediate negative impacts
+48-49
+GRI 2-26
+Mechanisms for seeking advice and raising concerns
+80
+GRI 2-27
+Compliance with laws and regulations
+48
+GRI 2-28
+Membership associations
+355
+372
+GRI Standard
+Disclosure
+Page Number/ 
+Direct Response
+5. Stakeholder Engagement
+GRI 2-29
+Approach to stakeholder engagement
+368
+GRI 2-30
+Collective bargaining agreements
+69
+GRI 3: Material Topics 2021
+GRI 3-1
+Process to determine material topics
+46
+GRI 3-2
+List of Material Topic
+48
+GRI 3-3
+Management of Material Topic 
+48, 55-56, 62-63, 
+69, 71, 76
+TOPIC-SPECIFIC STANDARD DISCLOSURES
+GRI 201: Economic Performance 2016
+GRI 3: Material Topics 2021
+3-3 Management of Material Topic
+301-333
+GRI 201: Economic Performance 
+2016
+201-1 Direct economic value generated and distributed
+2
+201-2 Financial implications and other risks and opportunities due to climate change
+44
+201-3 Defined benefit plan obligations and other retirement plans
+344
+GRI 203: Indirect Economic Impacts 2016
+GRI 3: Material Topics 2021
+3-3 Management of Material Topic
+44
+GRI 203: Indirect Economic 
+Impacts 2016
+203-2 Significant indirect economic impacts
+44
+GRI 205: Anti-corruption 2016
+GRI 3: Material Topics 2021
+3-3 Management of Material Topic
+80
+GRI 205: Anti-corruption 2016
+205-2 Communication and training about anti-corruption policies and procedures
+80
+GRI 206: Anti-Competitive Behavior 2016
+GRI 3: Material Topics 2021
+3-3 Management of Material Topic
+48
+GRI 206: Anti-Competitive Behavior 
+2016
+206-1 Legal actions for anti-competitive behavior, anti-trust, and monopoly practices
+During FY 2022-23, 
+there were no legal 
+actions pending 
+or completed 
+regarding anti-
+competitive 
+behaviour and 
+violations of anti-
+trust and monopoly 
+legislation in which 
+Kotak Mahindra 
+bank has been 
+identified as a 
+participant.
+373
+Financial Statements
+Acceler@ting change
+Statutory Reports
+Financial Highlights
+Annexures 
+GRI Content Index
+GRI Standard
+Disclosure
+Page Number/ 
+Direct Response
+GRI 302: Energy 2016
+GRI 3: Material Topics 2021
+3-3 Management of Material Topic
+56
+GRI 302: Energy 2016
+302-1 Energy consumption within the organisation
+59
+302-3 Energy intensity
+59
+302-4 Reduction of energy consumption
+60
+GRI 303: Water and Effluents 2018
+GRI 303: Water and Effluents 
+2018 (Management Approach 
+Disclosures) 
+303-1 Interactions with water as a shared resource
+60
+303-2 Management of water discharge-related impacts
+60
+GRI 303: Water and Effluents 2018 
+(Topic-specific Disclosures)
+303-3 Water withdrawal
+60
+303-4 Water discharge
+60
+303-5 Water consumption
+60
+GRI 305: Emissions 2016
+GRI 3: Material Topics 2021
+3-3 Management of Material Topic
+56
+GRI 305: Emissions 2016
+305-1 Direct (Scope 1) GHG emissions
+57
+305-2 Energy indirect (Scope 2) GHG emissions
+57
+305-3 Other indirect (Scope 3) GHG emissions
+58
+305-4 GHG emissions intensity
+57
+305-5 Reduction of GHG emissions
+60
+GRI 306: Waste 2020
+GRI 306: Waste 2020 (Management 
+Approach Disclosures)
+306-1 Waste generation and significant waste-related impacts
+61
+306-2 Management of significant waste-related impacts
+61
+GRI 306: Waste 2020 (Topic-specific 
+Disclosures)
+306-3 Waste generated
+61
+306-4 Waste diverted from disposal
+61
+306-5 Waste directed to disposal
+61
+GRI 401: Employment 2016
+GRI 3: Material Topics 2021
+3-3 Management of Material Topic
+62
+GRI 401: Employment 2016
+401-1 New employee hires and employee turnover
+365-366
+401-2 Benefits provided to full-time employees that are not provided to temporary or part-time 
+employees
+67
+401-3 Parental leave
+67, 367
+GRI 403: Occupational Health and Safety 2018
+GRI 403: Occupational Health 
+and Safety 2018 (Management 
+Approach Disclosures)
+403-1 Occupational health and safety management system
+66
+403-2 Hazard identification, risk assessment, and incident investigation
+66
+403-3 Occupational health services
+66
+403-4 Worker participation, consultation, and communication on occupational health and safety 66
+403-5 Worker training on occupational health and safety
+66
+403-6 Promotion of worker health
+66
+403-7 Prevention and mitigation of occupational health and safety impacts directly linked by 
+business relationships
+66
+374
+GRI Standard
+Disclosure
+Page Number/ 
+Direct Response
+GRI 403: Occupational Health 
+and Safety 2018 (Topic-specific 
+Disclosures)
+403-8 Workers covered by an occupational health and safety management system
+66
+403-9 Work-related injuries
+66
+GRI 404: Training and Education 2016
+GRI 3: Material Topics 2021
+3-3 Management of Material Topic
+62
+GRI 404: Training and Education 
+2016
+404-1 Average hours of training per year per employee
+367
+404-2 Programmes for upgrading employee skills and transition assistance programmes
+64
+404-3 Percentage of employees receiving regular performance and career development reviews 64
+GRI 405: Diversity and Equal Opportunity 2016
+GRI 3: Material Topics 2021
+3-3 Management of Material Topic
+62
+GRI 405: Diversity and Equal 
+Opportunity 2016
+405-1 Diversity of governance bodies and employees
+80, 263, 336, 364
+405-2 Ratio of basic salary and remuneration of women to men
+367
+GRI 406: Non-discrimination 2016
+GRI 3: Material Topics 2021
+3-3 Management of Material Topic
+62
+GRI 406: Non-discrimination 2016
+406-1 Incidents of discrimination and corrective actions taken
+349
+GRI 413: Local Communities 2016
+GRI 3: Material Topics 2021
+3-3 Management of Material Topic
+71
+GRI 413: Local Communities 2016
+413-1 Operations with local community engagement, impact assessments, and development 
+programmes
+71, 354
+413-2 Operations with significant actual and potential negative impacts on local communities
+No significant 
+actual and 
+potential negative 
+impacts on the 
+local communities
+GRI 418: Customer Privacy 2016
+GRI 3: Material Topics 2021
+3-3 Management of Material Topic
+82
+GRI 418: Customer Privacy 2016
+418-1 Substantiated complaints concerning breaches of customer privacy and losses of 
+customer data
+82
+375
+Financial Statements
+Acceler@ting change
+Statutory Reports
+Financial Highlights
+Annexures 
+GRI Content Index
+TCFD Pillar
+Recommended Pillar
+Section
+Page
+Governance
+Board’s oversight of climate-related risks and 
+opportunities
+Managing risks and uncertainties
+45
+Management’s role in assessing and managing 
+climate-related risks and opportunities
+Managing risks and uncertainties
+45
+Strategy
+Climate-related risks and opportunities the 
+organisation has identified over the short, medium, 
+and long term
+Managing risks and uncertainties 
+44
+Impact of climate-related risks and opportunities 
+on the organisation’s businesses, strategy, and 
+financial planning.
+Managing risks and uncertainties
+44
+Resilience of the organisation’s strategy, taking into 
+consideration different climate-related scenarios, 
+including a 2-degree or lower scenario
+Managing risks and uncertainties
+44
+Risk Management
+Organisation’s processes for identifying and 
+assessing climate-related risks.
+Managing risks and uncertainties
+44
+Organisation’s processes for managing climate-
+related risks
+Managing risks and uncertainties
+44
+Processes for identifying, assessing, and managing 
+climate-related risks are integrated into the 
+organisation’s overall risk management
+Managing risks and uncertainties
+44
+Metrics and Targets
+Metrics used by the organisation to assess climate-
+related risks and opportunities in line with its 
+strategy and risk management process
+Managing risks and uncertainties
+44
+Scope 1, Scope 2, and, if appropriate, Scope 3 
+greenhouse gas (GHG) emissions, and the related 
+risks.
+Managing our Environmental Footprint
+57-58
+Targets used by the organisation to manage 
+climate-related risks and opportunities and 
+performance against targets.
+Managing our Environmental Footprint
+58
+T C F D  I N D E X
+376
+AC
+Alternating Current
+AI-ML
+Artificial Intelligence and Machine Learning
+AML
+Anti-Money Laundering
+API
+Application Programming Interface
+ATM
+Automated Teller Machine
+BC
+Business Correspondents
+BCP
+Business Continuity Plan
+BKC
+Bandra Kurla Complex
+BMI
+Body Mass Index
+BRSR
+Business Responsibility and Sustainability Reporting
+BSS
+BSS Microfinance Limited
+CA
+Current Account
+CASA
+Current Account Savings Account
+CBDC
+Central Bank Digital Currency
+CCs
+Credit Cards
+CEA
+Central Electricity Authority
+CFC
+Chlorofluorocarbon
+CFLI
+Climate Finance Leadership Initiative
+CFT
+Cohesion Foundation Trust
+CISO
+Chief Information Security Officer
+CoC
+Code of Conduct
+Cr
+Crore
+CRAR
+CRM
+Relationship Management
+CRO
+Chief Risk Officer
+CSR
+Corporate Social Responsibility
+CX
+Customer Experoemce
+DG
+Diesel Generator
+DIE
+Diversity, Inclusion and Equity 
+DIY
+Do It Yourself
+DLL
+DPO
+Data Protection Officer
+DR
+Data Recovery
+EAP
+Emotional Assistance Programmes
+EIHCRF
+Eastern India Heart Care and Research Foundation
+e-KYC
+Electronic-Know Your Customer
+EPBAX
+Electronic Private Automatic Branch Exchange
+ERM
+Enterprise Risk Management
+e-RUPI
+Electronic Rupee
+ESG
+Environment Social and Governance
+ESMP
+ESG Management System Plan
+EWS
+Early Warning Signal
+FD
+Fixed Deposit
+FI
+Financial Inclusion
+FTE
+Full Time Employees
+FY
+Financial Year
+GDPR
+General Data Protection Regulations
+GHG
+Greenhouse Gases
+GIIP
+Good International Industry Practices
+GJ
+Giga Joules
+GMC
+Group Management Council
+GRI
+Global Reporting Initiative
+G-SIB
+Global Systemically Important Banks
+HFO
+Hydrofluro-Olefins
+HHH
+Head Held High Foundation
+HL
+Home Loans
+HR
+Human Resource
+HRMS
+Human Resource Management System
+HVAC
+Heating Ventilation and Air Conditioning
+ICAAP
+Internal Capital Adequacy Assessment Process
+IEA
+International Energy Agency
+IFC
+International Finance Corporation
+IIMB
+Institute of Management Bangalore
+IIMPACT
+CSR Section
+IISc
+Indian Institute of Science
+iOS
+i-Phone Operating System
+IPCC
+Intergovernmental Panel on Climate Change
+IR
+Integrated Reporting
+ISAE
+International Standards on Assurance Engagement
+ISO
+International Organisation for Standardization
+IT
+Information Technology
+KEF
+Kotak Education Foundation
+KGI
+Kotak Mahindra General Insurance Company Limited
+KL
+Kilo Litres
+KLI
+Kotak Mahindra Life Insurance Company Limited
+KMAMC
+Kotak Mahindra Asset Management Company Limited
+KMBL
+Kotak Mahindra Bank Limited
+KMPL
+Kotak Mahindra Prime Limited
+KRA
+Key Result Area
+KSL
+Kotak Securities Limited
+KWW
+Kotak Wonder Woman
+KYC
+Know Your Customer
+KYLC
+Kotak Young Leaders Council
+LAP
+Loan Against Property
+LED
+Light Emitting Diode
+LEED
+Leadership in Energy and Environmental Design
+LMS
+Learning Management System
+MD
+Managing Director
+ML
+Machine Learning
+MoM
+Minutes of the Meeting
+MT
+Metric Tonnes
+MWh
+Megawatt Hour
+NB
+New Business
+NBFC
+Non-Banking Financial Company
+NEFT
+National Electronic Fund Transfer
+NGRBC
+National Guidelines on Responsible Business Conduct
+A B B R E V I A T I O N S  A N D  A C R O N Y M S
+377
+Financial Statements
+Acceler@ting change
+Statutory Reports
+Financial Highlights
+Annexures 
+TCFD Index  |  Abbreviations and Acronyms
+NISM
+National Institute of Securities Market
+NIST
+National Institute of Standards and Technology
+NOC
+No Objection Certificate
+NPS
+Net Promoter Score
+NZE
+Net Zero Emissions
+OHS
+Occupation Health and Safety
+OHSMS
+Occupational Health and Safety Management System
+PAC
+Precision Air Conditioner
+PACTA
+Paris Agreement Capital Transition Assessment
+PBX
+Private Branch Exchange
+PET-CT
+Positron Emission Tomography-Computed Topography
+PG
+PL
+Property Loans
+PM
+Prime Minister
+PMBSY
+Pradhan Mantri Suraksha Bima Yojana
+PMJJBY
+Pradhan Mantri Jeevan Jyoti Yojana
+PMMY
+Pradhan Mantri Mudra Yojana
+PMSVANidi PM Street Vendor’s Atma Nirbhar Nidhi
+PoSH
+Prevention of Sexual Harassment 
+PRI
+Principles for Responsible Investment
+PSL
+Priority Sector Lending
+RBI
+Reserve Bank of India
+RCP
+Representative Concentration Pathway
+RCSA
+Risk Control Self-Assessment
+RCU
+Risk Control Unit
+RMC
+Risk Management Committee
+R-NPS
+Relationship NPS
+ROA
+Return on Assets
+ROE
+Return on Equity
+RTGS
+Real Time Gross Settlement
+SBTi
+Science Based Targets Initiative
+SDGs
+Sustainable Development Goals
+SDS
+Sustainable Development Scenario
+SEBI
+Securities and Exchange Board of India
+SME
+Small Medium Enterprises
+SMS
+Short Messaging Service
+SOC
+Security Operations Centre
+SPOT
+STEM
+Science, Technology, Engineering and Mathematics
+SWIFT
+Society for Worldwide Interbank Financial 
+Telecommunications
+TAT
+Turnaround Time
+TCFD
+Task Force on Climate-Related Financial Disclosures
+tCO2
+Tonnes Carbon Dioxide
+TD
+Term Deposit
+T-NPS
+Transaction NPS
+UIDAI
+Unique Identification Authority of India
+UPI
+Unified Payments Interface
+Var
+Value-At-Risk
+VOC
+Volatile Organic Compounds
+WACI
+Weighted Average Carbon Intensity
+WBG
+Wholesale Banking Group
+WSP
+Women Startup Programme
+Y4J
+Youth4Jobs Foundation
+378
+379
+Financial Statements
+Acceler@ting change
+Statutory Reports
+Financial Highlights
+Annexures 
+Assurance Statement
+380
+381
+Financial Statements
+Acceler@ting change
+Statutory Reports
+Financial Highlights
+Annexures 
+Assurance Statement
+382
+383
+Financial Statements
+Acceler@ting change
+Statutory Reports
+Financial Highlights
+Annexures 
+Assurance Statement
+384
+385
+Financial Statements
+Acceler@ting change
+Statutory Reports
+Financial Highlights
+Annexures 
+Assurance Statement

@@ -1,0 +1,4444 @@
+ 
+ 
+Regd. Office & Works: 8, Electronics Complex, Chambaghat, Solan-173213 (H.P.) Tel: (01792) 230644, 230645, 230647 Fax: (01792) 231902 
+Corporate Identity Number: L64200HP1987PLC007466 
+ 
+ 
+ 
+HFCL/SEC/23-24 
+ 
+ 
+ 
+                                                                September 06, 2023 
+ 
+ 
+RE: Disclosures under Regulation 34 of the Securities and Exchange Board of India (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015 (the “SEBI Listing Regulations”). 
+ 
+Subject: Submission of Business Responsibility and Sustainability Report (BRSR) for the financial year 
+2022-23 
+ 
+Dear Sir(s)/ Madam, 
+ 
+In terms of Regulation 34 of the SEBI Listing Regulations, we hereby submit a copy of the Business 
+Responsibility and Sustainability Report for the financial year 2022-23, which also forms part of the 
+Annual Report.  
+ 
+The same is also available on the website of the Company at www.hfcl.com.  
+ 
+You are requested to take the above information on records and upload the same on your respective 
+websites. 
+ 
+Thanking you. 
+  
+ 
+Yours faithfully, 
+For HFCL Limited 
+ 
+ 
+ 
+ 
+(Manoj Baid) 
+President & Company Secretary 
+ 
+Encl: HFCL BRSR 2022-23 
+ 
+ 
+ 
+The BSE Ltd. 
+1st Floor, New Trading Wing, Rotunda Building 
+Phiroze Jeejeebhoy Towers, Dalal Street, Fort 
+Mumbai – 400001 
+corp.relations@bseindia.com 
+Security Code No.: 500183 
+The National Stock Exchange of India Ltd. 
+Exchange Plaza, 5th Floor, C – 1, Block G 
+Bandra – Kurla Complex, Bandra (E) 
+Mumbai – 400051 
+cmlist@nse.co.in 
+Security Code No.: HFCL 
+MANO
+J BAID
+Digitally signed 
+by MANOJ BAID 
+Date: 2023.09.06 
+16:21:38 +05'30'
+Business Responsibility and Sustainability Report
+SECTION A: GENERAL DISCLOSURES
+Details of the listed entity:
+S. 
+No.
+Question
+Responses
+1.
+Corporate Identity Number (CIN) of the Entity
+L64200HP1987PLC007466
+2.
+Name of the Listed Entity
+HFCL Limited
+3.
+Year of Incorporation
+11/05/1987
+4.
+Registered Office Address
+8, Electronics Complex, Chambaghat, Solan,  
+Himachal Pradesh-173213
+5.
+Corporate Address
+8, Commercial Complex, Masjid Moth, Greater Kailash II,  
+New Delhi-110048
+6.
+E-mail
+secretarial@hfcl.com
+7.
+Telephone
++91-11-35209400
+8.
+Website
+www.hfcl.com
+9.
+Financial Year for which report is being done
+1st April, 2022 – 31st March, 2023
+10.
+Name of the Stock Exchange(s) where shares are listed
+•	
+National Stock Exchange of India Limited
+•	
+BSE Limited
+11.
+Paid-up Capital (`)
+137,77,58,321
+12.
+Name and contact details (telephone, email) of the person 
+who may be contacted in case of queries on the BRSR report
+Mr. Manoj Baid
+Email: secretarial@hfcl.com
+Telephone: +91-11-35209400
+13.
+Reporting Boundary
+(Standalone or Consolidated basis)
+Standalone
+Products and Services:
+14.	 Details of business activities (accounting for 90% of the turnover):
+S. 
+No.
+Description of Main Activity
+Description of Business Activity
+%Turnover 
+of the entity 
+1.
+Telecom Products
+Manufacturing of optical fiber, optical fiber 
+cables and telecom & networking products
+46%
+2.
+Turnkey Contract and Services
+Engineering, Procurement and Construction
+54%
+15.	 Product/ Services sold by the entity (accounting for 90% of the entity’s turnover):
+S. 
+No.
+Product/ Service
+NIC Code
+% of total 
+turnover 
+contributed
+1.
+Optical Fiber Cables
+27310
+40%
+2
+Turnkey Contracts and Services
+42202
+54%
+Total
+94%
+Annual Report 2022-23
+HFCL Limited
+116
+Operations:
+16.	 Number of locations where plants and/or operations/ offices of the entity are situated:
+Location
+Number of 
+Plants
+Number of 
+Offices
+Total
+National 
+3
+80
+83
+International 
+0
+6
+6
+17.	 Markets Served by the Entity:
+a.	
+Number of Locations:
+Location
+Number
+National
+(No. of States)
+Pan India
+International
+(No. of Countries)
+HFCL exports to over 45 countries across Germany, France, Denmark, Ireland, Austria, 
+Finland, Italy, United Kingdom (UK), Portugal, Spain, USA, Canada, Mexico, Argentina, 
+South Africa, Turkey, Dubai and more.
+b.	
+What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+During FY23, exports contributed 17.79% to the total turnover of the Company.
+c.	
+A Brief on types of customers?
+	
+HFCL is a leading technology company specialised in creating digital networks for Telcos, enterprises and Governments. Our 
+customer segment comprises Telecom Operators, Internet Service Providers, Public Sector Undertakings, State Government 
+Undertakings, System Integrators, Railways, Defense Services, Smart Cities and many more.
+Employees:
+18.	 Details as at the end of Financial Year 2022- 23:
+a.	
+Employees and Workers
+Employees (including differently abled)
+S. 
+No.
+Particulars
+Total (A)
+Male
+Female
+Number (B)
+Percentage 
+(B/A)
+Number (B)
+Percentage 
+(B/A)
+1.
+Permanent Employees 
+1,925
+1,799
+93%
+126
+7%
+2. 
+Other than Permanent 
+Employees 
+484
+472
+98%
+12
+2%
+ 
+Total Employees (1+2) 
+2,409
+2,271
+94%
+138
+6%
+Note:
+•	 Permanent Employees- L5 and above On Roll employees 
+•	 Other than Permanent Employees – Trainee (BE & Graduate) engineers under various government scheme such as NAPS, NATS and off-roll employees on third-party rolls
+Workers (including differently abled)
+S. 
+No.
+Particulars
+Total (A)
+Male
+Female
+Number (B)
+Percentage 
+(B/A)
+Number (B)
+Percentage 
+(B/A)
+1.
+Permanent Workers 
+183
+156
+85%
+27
+15%
+2. 
+Other than Permanent Workers  
+882
+838
+95%
+44
+5%
+Total Workers (1+2)
+1,065
+994
+93%
+71
+7%
+Note: 
+•	 Permanent Workers - L6 and L7, On Roll employees
+•	 Other than Permanent Workers- Trainee (Diploma & ITI) engineers under various government schemes such as NAPS, NATS and off-roll employees on third-party rolls.
+HFCL Limited
+117
+Financial Statements
+Statutory Reports
+BRSR
+Corporate Overview
+b.	
+Differently abled Employees and Workers
+Differently Abled Employees
+S. 
+No.
+Particulars
+Total (A)
+Male
+Female
+Number (B)
+Percentage 
+(B/A)
+Number (B)
+Percentage 
+(B/A)
+1.
+Permanent Employees 
+Currently the Company does not have any differently abled employee.
+2. 
+Other than Permanent 
+Employees 
+Total Employees (1+2) 
+Differently Abled Workers
+S. 
+No.
+Particulars
+Total (A)
+Male
+Female
+Number (B)
+Percentage 
+(B/A)
+Number (B)
+Percentage 
+(B/A)
+1.
+Permanent Workers 
+Currently the Company does not have any differently abled worker.
+2. 
+Other than Permanent Workers  
+Total Workers (1+2)
+19.	 Participation/ Inclusion/ Representation of Women
+Total (A) 
+Number of 
+Female (B) 
+Percentage (B/A) 
+Board of Directors 
+7
+1
+14%
+Key Management Personnel 
+2
+0
+0
+20.	 Turnover rate for permanent employees and workers:
+FY23
+FY22
+FY21
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees 
+17.0%
+0.6%
+17.6%
+15.3%
+0.2%
+15.5%
+11.0%
+1.0%
+12.0%
+Permanent Workers 
+22.0%
+0.4%
+22.4%
+10.8%
+0.2%
+11.0%
+16.0%
+1.0%
+17.0%
+Holding, Subsidiary and Associate Companies (including joint ventures): 
+21. (a). Names of holding/ subsidiary/ associate companies/ joint ventures
+S. 
+No.
+Name of the holding/ subsidiary/ 
+associate company/ joint venture
+Indicate whether 
+holding/ subsidiary/ 
+associate company/ joint 
+venture
+% of shares held 
+by listed entity
+Does the entity indicated 
+at Column A, participate in 
+the Business Responsibility 
+initiatives of the entity (Yes/ No)
+1
+HTL Limited
+Subsidiary
+74%
+No
+2
+Raddef Private Limited
+Subsidiary
+90%
+No
+3
+Moneta Finance Private Limited
+Subsidiary
+100%
+No
+4
+HFCL Advance Systems Private Limited* Subsidiary
+100%
+No
+5
+Polixel Security Systems Private Limited Subsidiary
+100%
+No
+6
+Dragonwave HFCL India Private Limited Subsidiary
+100%
+No
+7
+HFCL Technologies Private Limited
+Subsidiary
+100%
+No
+8
+HFCL B.V.
+Subsidiary
+100%
+No
+9
+HFCL Inc.
+Subsidiary
+100%
+No
+10
+Nimpaa Telecommunications Private Limited Associate
+50%
+No
+11
+BigCat Wireless Private Limited
+Associate
+40.79%
+No
+	
+*HFCL Limited holds 90% shareholding directly and balance 10% held through Polixel Security Systems Private Limited, a wholly owned subsidiary of HFCL Limited
+Annual Report 2022-23
+HFCL Limited
+118
+CSR Details:
+22.
+(i)	 Whether CSR is applicable as per Section 135 of  
+Companies Act, 2013 (Yes/No)
+Yes
+(ii)	 Turnover (in `)
+Standalone – `4,395.68 crores
+(iii)	Net Worth (in `)
+Standalone - `2,993.02 crores
+Transparency and Disclosures Compliances:
+23.	 Complaints/ Grievances on any of the principles (1-9) under the National Guidelines on Responsible Business Conduct:
+Stakeholder 
+Group
+Grievance Redressal 
+Mechanism in place (Y/N) 
+(Provide web-link of 
+policy)
+Current Financial Year 2022- 23
+Previous Financial Year 2021- 22
+Number of 
+complaints 
+filed
+Number of 
+complaints 
+pending 
+at close of 
+year
+Remarks
+Number of 
+complaints 
+filed
+Number of 
+complaints 
+pending 
+at close of 
+year
+Remarks
+Communities
+Yes.
+In the respective Memorandum of 
+Understanding (MoU) with the CSR 
+Project Partner, the responsibility for 
+addressing community grievances 
+lies with the CSR Project Partners, 
+who 
+effectively 
+manage 
+the 
+complaints, if any, as per the laid-
+down guidelines in a consultative 
+manner.
+0
+0 No 
+complaints
+0
+0 No 
+complaints
+Investors| 
+Shareholders
+Yes. 
+The Company has ‘Whistleblower 
+Policy’ in place available at:
+https://www.hfcl.com/wp-content/
+uploads/2020/01/HFCL-Whistle-
+Blower-Policy_Revised1.pdf
+Mechanism for Grievance Redressal:
+The Company has a grievance 
+redressal mechanism for receiving 
+complaints 
+from 
+different 
+stakeholders, including investors 
+and shareholders.
+During the year, the Company has 
+attended the investor’s grievances/ 
+correspondence within a period 
+of 15 days from the date of receipt 
+of the same except in cases which 
+were constrained by disputes and 
+legal impediments.
+40
+0 All 
+complaints 
+resolved
+40
+0 All 
+complaints 
+resolved
+HFCL Limited
+119
+Financial Statements
+Statutory Reports
+BRSR
+Corporate Overview
+Stakeholder 
+Group
+Grievance Redressal 
+Mechanism in place (Y/N) 
+(Provide web-link of 
+policy)
+Current Financial Year 2022- 23
+Previous Financial Year 2021- 22
+Number of 
+complaints 
+filed
+Number of 
+complaints 
+pending 
+at close of 
+year
+Remarks
+Number of 
+complaints 
+filed
+Number of 
+complaints 
+pending 
+at close of 
+year
+Remarks
+Employees and 
+Workers
+Yes. 
+Employee 
+and 
+extended 
+workforce 
+grievances 
+are 
+addressed in a timely and effective 
+manner through our grievance 
+redressal mechanism, which is 
+available at all our plants/offices. 
+The 
+Company’s 
+whistleblower 
+policy is the overarching policy for 
+addressing any form of grievance 
+from 
+all 
+stakeholder 
+groups, 
+including 
+employees, 
+workers, 
+contractual workers and labourers.
+The Company has
+‘Whistleblower Policy’ in place
+available at:
+https://www.hfcl.com/wpcontent/
+uploads/2020/01/HFCL-Whistle-
+Blower-Policy_
+Revised1.pdf
+1
+0 Complaint 
+resolved
+0
+0 No 
+complaints
+Contract 
+Laborer’s
+0
+0 No 
+complaints
+0
+0 No 
+complaints
+Value Chain 
+partners
+Yes. 
+In the OFC Business Unit (BU), 
+complaints are logged with their 
+respective 
+account 
+managers. 
+These issues receive immediate 
+attention and are resolved within 
+24-hours.
+For the Communication BU, our 
+aim is to address these concerns 
+within a predefined time frame, 
+specifically within a maximum 
+of 12 hours. If, for any reason, 
+the matter remains unresolved, 
+an escalation matrix is in place 
+involving a third level. This ensures 
+that the matter is resolved at that 
+level within 48 hours.
+Complaints may be lodged at: 
+iosupport@hfcl.com
+Toll-Free Number:
++91 8792701100
+SPOC email: naresh.gupta@hfcl.
+com
+1
+0 Complaint 
+resolved
+0
+0 No 
+complaints
+Implementation 
+Partner (NGOs)
+Yes.
+Each MoU with our CSR Project 
+partner 
+explicitly 
+outlines 
+the 
+mechanism 
+for 
+raising, 
+addressing, 
+and 
+resolving 
+grievances/ issues with partners 
+and communities.
+0
+0 No 
+complaints
+0
+0 No 
+complaints
+Annual Report 2022-23
+HFCL Limited
+120
+24.	 Overview of the entity’s material responsible business conduct issues 
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters 
+that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or mitigate the risk 
+along-with its financial implications, as per the following format: 
+S. 
+No.
+Material Issue 
+Identified
+Indicate 
+whether Risk 
+or Opportunity
+Rationale for identifying the risk/ 
+opportunity
+In case of Risk, approach 
+to adapt or mitigate
+Financial 
+Implications of 
+the risk or the 
+opportunity
+1.
+Climate Change
+Risk
+ESG disclosures bring clarity to the 
+Company's climate risk exposure, 
+detailing 
+strategies 
+in 
+place 
+to 
+manage 
+and 
+adapt 
+to 
+these 
+challenges, 
+encompassing 
+supply 
+chain 
+breakdowns, 
+operational 
+hazards 
+and 
+asset 
+management 
+complexities due to extreme weather 
+events. These risks can amplify costs, 
+while transition risks may undercut 
+market value and investor faith amid 
+regulatory transformations.
+As a company of high 
+standards, we prioritise our 
+strategies and actions that 
+align with mitigating climate 
+change related risks and 
+anchoring for sustainable 
+development. 
+Negative
+2.
+Waste 
+Management
+Opportunity
+Waste 
+management 
+includes 
+generation, 
+disposal 
+and 
+the 
+associated impacts. The company 
+focus on reducing the amount of 
+waste it generates by implementing 
+waste minimisation at the source. This 
+involves practices such as reducing 
+packaging, optimising processes and 
+promoting reusable products, i.e., 
+adopting the principle of circularity 
+measures within business operations.
+-
+Positive
+3.
+Health and 
+Safety
+Risk
+Safeguarding our stakeholders i.e., 
+employees, customers and other 
+business partners from various risks 
+and hazardous environments. Creating 
+a safe and healthy workplace for all.
+The company ensures to 
+maintain a safe, hazard-
+free 
+and 
+healthy 
+work 
+environment 
+for 
+its 
+employees 
+and 
+workers 
+by 
+adhering 
+to 
+healthy 
+standards, norms, regular 
+safety 
+training 
+and 
+risk 
+awareness sessions.
+Negative
+4.
+Diversity and 
+Inclusion
+Opportunity
+Creating 
+an 
+environment 
+where 
+people from various socio-economic 
+backgrounds, cultures, identities and 
+perspectives are welcomed, respected 
+and 
+empowered. 
+Consideration 
+of diversity and inclusion are key 
+social aspects of our Company's 
+commitment to fostering a fair and 
+equitable workplace and society.
+-
+Positive
+HFCL Limited
+121
+Financial Statements
+Statutory Reports
+BRSR
+Corporate Overview
+S. 
+No.
+Material Issue 
+Identified
+Indicate 
+whether Risk 
+or Opportunity
+Rationale for identifying the risk/ 
+opportunity
+In case of Risk, approach 
+to adapt or mitigate
+Financial 
+Implications of 
+the risk or the 
+opportunity
+5.
+Employee 
+Growth, 
+Development 
+and Skills
+Opportunity
+The Company efforts to provide 
+opportunities 
+for 
+employees 
+to 
+enhance 
+their 
+skills, 
+knowledge, 
+and capabilities through training, 
+education, 
+and 
+professional 
+development 
+programs. 
+By 
+focusing on employee growth and 
+development, a critical social aspect, 
+we contribute to our Company's 
+commitment i.e., enhance workforce's 
+well-being and advancement.
+-
+Positive
+6.
+Innovation 
+Management
+Opportunity
+The Company focuses on creating 
+a 
+conducive 
+environment, 
+strengthening investment in Research 
+& Development (R&D), innovation 
+of products, services, and solutions 
+for enhanced customer service and 
+satisfaction & value addition for other 
+relevant stakeholders.  
+-
+Positive
+7.
+Data Security 
+and Privacy
+Risk
+The protection of sensitive and 
+confidential information, as well as 
+the rights of individuals to control 
+how their personal data is collected, 
+used and shared. Data security and 
+privacy are important aspects that 
+reflect our Company's commitment 
+to safeguarding sensitive information 
+and respecting individuals' rights.
+Implementing 
+measures 
+and 
+processes 
+designed 
+to 
+secure, 
+protect 
+and 
+safeguard 
+information 
+at 
+all 
+levels. 
+The 
+Company 
+strictly only collects relevant 
+information 
+intended 
+for 
+business purpose in a secured 
+manner. The Company has IT 
+management system, policies 
+and framework to govern 
+and oversee data security 
+practices within the Company. 
+In addition, regular checks 
+on regulatory compliances, 
+necessary updates in the 
+existing policy and framework 
+and risk awareness sessions 
+are undertaken. 
+Negative
+Annual Report 2022-23
+HFCL Limited
+122
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES 
+This section is aimed at helping businesses demonstrate the structures, policies and processes out in place towards adopting the NGRBC 
+Principles and Core Elements. 
+Disclosure
+Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and Management Processes
+1.	 a.	 Whether your entity’s policy/ policies cover 
+each principle and its core elements of the 
+NGRBCs. (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+	
+b.	 Has the policy been approved by the 
+Board? (Yes/No)*
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+	
+c.	 Web Link of the policies, if available
+https://www.hfcl.com/company-facts
+2.	 Whether the entity has translated the policy 
+into procedures? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3.	 Do the enlisted policies extend to your value 
+chain partners? (Yes/No)
+At HFCL, the appropriate policies are triggered down value chain partners as 
+deemed to make resource efficiency and drive community development.
+4.	 Name of the national and international codes/ 
+certifications/labels/standards (eg, Forest 
+Stewardship Council, Fairtrade, Rainforest 
+Alliance, Trustea) standards (eg, SA 8000, 
+OHSAS, ISO, BIS) adopted by your entity and 
+mapped to each principle.
+• ISO 9001:2015 - Quality Management System 
+• TL9000:2016 - Quality Management System (Telecom Industry Specific) 
+• ISO 10002:2018 - Quality management - Customer Satisfaction 
+• ISO 14001:2015 - Environmental Management System 
+• ISO 45001:2018 - Occupational Health and Safety Management System 
+• ISO 27001:2013 - Information Security Management System (ISMS)
+• ISO 27701:2019 - Privacy Information Management System (PIMS)
+• ISO/IEC 20000-1:2018 - Service Management System (SMS)
+• ISO/IEC 17025:2017 - General Requirements for the Competence of Testing & 
+Calibration Laboratories
+• ISO 22301: 2019 – Business Continuity Management System
+5.	 Specific commitments, goals and targets set 
+by the entity with defined timelines if any.
+HFCL is committed to sustainable business practices and social development 
+initiatives. We have business specific goals and commitments as illustrated below:
+• At our Hyderabad operation, we are committed to achieve the goal of zero 
+waste to landfills by the end of the year 2024.
+• At our Goa operations, our commitment is to:
+	
+−Achieve 40% renewable energy transition for a cleaner & greener environment 
+by 2025.
+	
+−Reduce power consumption by upgrading technology in machineries 
+resulting in saving of 5 lakh units of electricity on a yearly basis by 2024.
+6.	 Performance of the entity against the specific 
+commitments, goals and targets along with 
+reasons in case the same are not met.
+The Company institutionalises processes and initiatives to drive resource efficiency, 
+human capital well-being and community development. The performance of the 
+Company on its environmental, social and governance parameter is covered in this 
+BRSR Report.
+Governance, leadership and oversight
+7.	 Statement by the director responsible for the business responsibility report, highlighting ESG related challenges, targets and 
+achievements (listed entity has flexibility regarding the placement of this disclosure) – Please refer to the Managing Director’s 
+Statement and ESG Approach Section in the HFCL’s Annual Report 2022-23.
+8.	 Details of the highest authority responsible for 
+implementation and oversight of the Business 
+Responsibility policy (ies)
+The Board of Directors of the Company oversee the implementation and oversight 
+of the business responsibility policies.
+HFCL Limited
+123
+Financial Statements
+Statutory Reports
+BRSR
+Corporate Overview
+Disclosure
+Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+9.	 Does the entity have a specified Committee 
+of the Board/ Director responsible for decision 
+making on sustainability related issues? (Yes/No).
+	
+If “Yes,” provide details
+Yes. The Board of Directors of the Company has constituted ESG Committee 
+comprising of following members:
+i.	
+Mr. Surendra Singh Sirohi (Independent Director) – Chairman
+ii.	 Mr. Mahendra Nahata (Managing Director) – Member
+iii.	 Mr. Arvind Kharabanda (Non-Executive Director) – Member
+iv.	 Mr. Vijay Raj Jain (Chief Financial Officer) – Member
+v.	 Mr. Sanjay Vithalrao Jorapur (President - HR)- Member
+vi.	 Mr. Shubhas Mondal (Senior Vice President)- Member
+vii.	 Mr. Rajesh Tatia (Vice-President – Goa Plant)- Member
+viii.	Mr. Vivek Agrawal (Vice-President – Hyderabad Plant) – Member
+Mr. Manoj Baid, President and Company Secretary acts as a Secretary to the 
+Committee
+*The policies are reviewed and approved by Board of Directors of the Company or Company’s Head of Departments and signed off by MD, as deemed appropriate.
+10.	 Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether review was 
+undertaken by Director/ Committee of 
+the Board/ Any other Committee
+Frequency (Annually/ Half yearly/ 
+Quarterly/ Any Other- please specify)
+P1 P2 P3 P4 P5 P6 P7 P8 P9 P1 P2 P3 P4 P5 P6 P7 P8 P9
+Performance against above policies and follow up 
+action 
+The Policies of the Company are reviewed periodically or on a need basis by 
+business/ department heads, and/or the Board of Directors.
+Compliance with statutory requirements of 
+relevance to the principles and rectification of any 
+non-compliances 
+The Company is fully compliant with the applicable laws and regulations, which 
+are reviewed on a quarterly basis by the Board of Directors.
+11.	
+Has the entity conducted independent assessment/ evaluation of the working of its policies by an external agency? (Yes/No).
+	
+If “Yes,” provide name of the agency.
+Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity does not consider the principles 
+material to its business (Yes/No) 
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+The entity is not at a stage where it is in a 
+position to formulate and implement the 
+policies on specified principles (Yes/No) 
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+The entity does not have the financial or 
+human and technical resources available for 
+the task (Yes/No) 
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+It is planned to be done in the next financial 
+year (Yes/No) 
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Any Other Reason (please specify) 
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Annual Report 2022-23
+HFCL Limited
+124
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+Entity demonstrates their performance in integrating the Principles and Core Elements with key processes and decisions.
+Principle 1: Businesses should conduct and govern themselves with integrity and in a manner that is Ethical, Transparent, and 
+Accountable
+Essential Indicators
+1.	
+Percentage coverage by training and awareness programmes on any of the principles during the financial year 2022- 23:
+Segment
+Total number 
+of training 
+and awareness 
+programs held
+Topics/ Principles covered under training and its 
+impact
+% of persons 
+in respective 
+category covered 
+by the awareness 
+programmes
+Board of Directors
+4
+i.	
+Revision of Related Party Transactions Policy in terms 
+of amendment in the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015.
+ii.	 Standardising the Penalties for Violations Under the 
+Securities and Exchange Board of India (Prohibition of 
+Insider Trading) Regulations, 2015.
+iii.	 Discussion on Annual Operating Plan & Budgets for 
+FY23.
+iv.	 Updates on the ongoing business activities by the 
+Managing Director, including expansion of Optical Fiber 
+and Optical Fiber Cable Manufacturing Facility.
+v.	 Updates 
+on 
+non-compliances 
+with 
+applicable 
+regulatory, statutory, or listing requirements.
+vi.	 Update on the ongoing business activities by the 
+Managing Director including
+• Launch of new product: World’s first Open-source 
+Wi-Fi 7 Access Points, 5G-8T8R Macro Radio Unit and 
+5G Lab-as-a-Service.
+• Focus on R&D capabilities and to increase exports.
+vii.	 Revision of Category of Designated Persons under the 
+Securities and Exchange Board of India (Prohibition of 
+Insider Trading) Regulations, 2015.
+100%
+100%
+Key Managerial 
+Personnel (KMPs)
+3
+i.	
+Overview of Major areas of Practice and New 
+Opportunities for Practicing Company Secretaries.
+ii.	 Essentials of Practice, Peer Review, Quality Review and 
+Disciplinary mechanism.
+iii.	 Critical Issues in Oppression and Mismanagement & Practical 
+Aspects in Private Placement and Preferential Issue.
+50%
+Employees other 
+than BoD
+185
+Business Impact Analysis and Risk Assessment, Change 
+Management, Leadership Competency Model, Future 
+Women Leader Program, ISO 9001:2015, Lead Auditor 
+Certification, Lean Six Sigma - Green Belt Certification, 
+Tech For All - Know-Hows of 5G,Professional Life Hacks - 
+Developing Employee Attitude, Root cause Analysis and the 
+8D corrective action Process, Head waste & Ink Jet Printing, 
+ISO 22301 Internal Auditor Training, DEI and POSH Awareness, 
+Safety Awareness, ISO 14001 Awareness Training, POSH Act 
+(The Sexual Harassment of Women at Workplace (Prevention, 
+Prohibition and Redressal) Act, 2013), CMMI 2.0 Framework 
+Overview, IMS, World Heart Day, Sales & Marketing of OFC, 
+EHS Induction, Environmental Testing, Industrial & Fire Safety 
+Awareness, Business Continuity Management System, ISO 
+22301:2012, 5G & Optical Fiber Cable, Evolution of WiFi.
+29%
+Workers
+8%
+HFCL Limited
+125
+Financial Statements
+Statutory Reports
+BRSR
+Corporate Overview
+2.	
+Details of fines/ penalties/ punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the entity or by 
+directors/ KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year, in the following format: 
+	
+(Note: The entity shall make disclosures based on materiality as specified in Regulation 30 of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 and as discussed on the entity’s website)
+Monetary
+NGRBC Principle
+Name of the 
+Regulatory/ 
+enforcement 
+agencies/ judicial 
+institutions
+Amount (in `) Brief of Case
+Has an appeal 
+preferred? (yes/ 
+No)
+Penalty/ Fine 
+Nil 
+Compounding Fee 
+Nil
+Non-Monetary
+NGRBC Principle
+Name of the 
+Regulatory/ 
+enforcement 
+agencies/ judicial 
+institutions
+Amount (in `) Brief of Case
+Has an appeal 
+preferred? (yes/ 
+No)
+Imprisonment 
+Nil 
+Punishment 
+3.	
+Of the instances disclosed in Question 2, above, detail of the Appeal/ Revision preferred in cases where monetary or non-
+monetary action has been appealed.
+Case Details
+Name of the regulatory/ enforcement agencies/ judicial 
+institutions
+Not Applicable
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide 
+web-link to the policy. 
+	
+Yes. 
+	
+The Company, with the objective to prevent and detect bribery and all forms of corruption and conduct its business activities 
+with honesty, integrity and the highest possible ethical standards, enforces its anti-bribery and anti-corruption policy across all 
+its operational geographies, including affiliates and subsidiaries of HFCL. The policy applies to all individuals globally, including 
+directors, senior executives, officers, employees (whether permanent, fixed term or temporary), consultants, contractors, trainees, 
+seconded staff, casual workers, volunteers, interns, agents, or any other person associated with the Company. Further, every 
+person to whom this Policy applies may raise their concerns about any bribery issue or suspicion of malpractice at the earliest 
+possible stage. 
+	
+The Policy of the Company is available at: https://www.hfcl.com/wp-content/uploads/2023/06/HFCL-Anti-Bribery_and_Anti-
+Corruption_Policy.pdf
+5.	
+Number of Directors/ KMPs/ employees/ workers against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/ corruption:
+Current Financial 
+Year 2022- 23
+Previous Financial 
+Year 2021- 22
+Directors 
+Nil 
+Nil 
+Key Managerial Personnel (KMPs) 
+Nil 
+Nil 
+Employees 
+Nil 
+Nil 
+Workers 
+Nil 
+Nil
+Annual Report 2022-23
+HFCL Limited
+126
+6.	
+Details of complaints regarding conflict of interest: 
+Current Financial Year 2022- 23
+Previous Financial Year 2021- 22
+Number 
+Remark 
+Number 
+Remark 
+Number of complaints received in relation to 
+issues of Conflict of Interest of the Directors 
+Nil
+-
+Nil
+-
+Number of complaints received in relation to 
+issues of Conflict of Interest of the KMPs
+Nil
+-
+Nil
+-
+7.	
+Provide details of any corrective action taken or underway on issues related to fines/ penalties/ action taken by regulators/ 
+law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest. 
+	
+The Company ensures compliance with applicable regulations and laws. During the reporting period, no case of non-compliance 
+related to corruption and conflict of interest was found, therefore no corrective action was required to be undertaken. 
+Leadership Indicators
+1.	
+Awareness programmes conducted for the value chain partners on any of the principles during the financial year 2022- 23:
+Total number 
+of awareness 
+programmes 
+held
+Topics/ Principles covered under the training
+% of value chain partners covered (by value of 
+business done with such partners) under the 
+awareness programmes
+1
+Training provided on diverse topics encompassing 
+Ariba ‘Procure to pay module’, Digitalisation of 
+sourcing process like RFP, RFQ, Reverse auction, Invoice 
+processing and supplier life cycle management.
+Four hundred Vendors trained through online mode, 
+balance on case-to-case basis. 
+33% active vendors out of total 1,200 vendors 
+participated and trained through the program.
+Remaining are trained on case-to-case basis as part of 
+HFCL's defined compliance practices. 
+	
+Note: To ensure ethical, transparent and accountable parameters, HFCL has partnered with SAP and utilise their core ERP modules 
+and Ariba modules with an intent to make the ‘Procure to pay processes’ efficient and seamless to vendor partners.
+2.	
+Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? (Yes/No). 
+If “Yes,” provide details of the same.
+	
+Yes.
+	
+The Company has implemented principles to address conflict of interest in its Code of Business Conduct and Ethics for the members 
+of the Board of Directors (“Code”). In addition, the Company has well-structured internal policies and processes outlining various 
+safeguards and measures to manage related conflict of interests. The Code may be accessed on the Company's website at https://
+www.hfcl.com
+	
+The key principles of the Code illustrated below:
+• Whole-time Directors are prohibited from engaging in any activities that could impede their performance or responsibilities to 
+the Company, or that conflict with or detrimental to the Company. They are not allowed to simultaneously accept employment 
+with suppliers, customers, or competitors of the Company, nor participate in any activities that support a competitor's position.
+• Prior approval from the Company's Audit Committee is required for Directors who wish to accept assignments with companies 
+or agencies that compete with the Company. Directors should avoid conducting business on behalf of the Company with any 
+relative or with a business in which a relative holds a significant role. In unavoidable situations, they must seek the approval of 
+the audit committee, in accordance with applicable laws.
+• Directors are encouraged to minimise conducting business with relatives or businesses in which relatives hold significant roles. 
+However, if it becomes necessary to engage in related party transactions, Directors must comply with the provisions outlined 
+in Section 188 of the Companies Act, 2013 and any applicable SEBI Regulations.
+HFCL Limited
+127
+Financial Statements
+Statutory Reports
+BRSR
+Corporate Overview
+• Directors must not personally exploit opportunities that arise using corporate property, information, or their position unless 
+they fully disclose such opportunities in writing to the Company's Board of Directors and receive approval from the Board to 
+pursue them.
+	
+These provisions are in place to ensure transparency, integrity and the avoidance of conflicts of interest within the Company and 
+among its Board of Directors.
+Principle 2: Businesses should provide goods and services in a manner that is sustainable and safe
+Essential Indicators
+1.	
+Percentage of R&D and capital expenditure (CAPEX) investments in specific technologies to improve environmental and 
+social impacts of product and processes to total R&D and capex investments made by the entity, respectively.
+Particulars
+Current Financial 
+Year 2022- 23 
+Previous 
+Financial Year 
+2021-22 
+Details of improvements in environmental and social impacts
+R&D 
+100%
+100% Design and Development of 5G RAN products - Environmental and Social 
+Impacts- Enabling the sustainable and efficient agriculture, supporting 
+remote working and Smart Cities initiatives, innovations on smart homes 
+that improve security and smart lighting saves power, investment in 
+healthcare services and infrastructure to enable medical and healthcare 
+services in remote areas, including online consultation facility. Further the 
+Company makes consistent efforts to modernise its plants periodically 
+and has invested in its capital expenditure.
+CAPEX
+100%
+100%
+2.	
+Does the entity have procedures in place for sustainable sourcing? (Yes/No).
+	
+If “Yes,” what percentage of inputs were sourced sustainability?
+	
+Yes. HFCL has a sustainable procurement process in place and as part of the vendor registration process, environmental, social, 
+and governance compliances are mandatory requirement and through thorough checks and balances, they are onboarded by 
+the Company. During the onboarding, it is mandatory for vendors/ suppliers to provide requisite compliance evidence and an 
+undertaking stating adherence to ‘ethical and sustainable business practices’, including human rights and existing environmental 
+and social standards or certification such as quality management certificates ascertained under ISO, OHSAS, or other applicable 
+ones. Further, the Company ensures that solder paste (containing lead) is only sourced from ISO 14001:2015 certified supplier.
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life for:
+	
+a.	
+Plastics (including packaging)
+	
+b.	
+E-waste
+	
+c.	
+Hazardous waste
+	
+d.	
+other waste
+Details of improvements in environmental and social impacts
+Plastics (including 
+packaging) 
+The plastic packaging material used for supply of Optical Fiber reclaimed from the customers of HFCL, 
+which then re-used until their lifetime and at end of its usable life, re-cycled through the authorised 
+recycler.
+E-waste
+HFCL has developed a standardised e-Waste management system and strictly follows the e-Waste 
+Management Rules 2022. As a part of e-Waste recycling, HFCL always dispose e-Waste by safely handing 
+over to the approved e-Waste Vendors.
+Hazardous waste
+Not Applicable
+Other Waste
+The paper packaging material used for supply of Optical Fiber reclaimed from the customers of HFCL, 
+which re-used until their lifetime and at end of its usable life, disposed through the authorised recycler/ 
+scrap vendor.
+Annual Report 2022-23
+HFCL Limited
+128
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes/No).
+• If “Yes,” whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution 
+Control Board?
+• If “Not,” provide steps taken to address the same.
+	
+Not Applicable
+Leadership Indicators
+1.	
+Has the entity conducted Life Cycle Perspective/ Assessment (LCA) for any of its products (for manufacturing industries) 
+or for its services (for service industry)? If “Yes,” provide details in the following format: 
+NIC Code
+Name of product/ 
+service
+% of Total 
+Turnover 
+contributed
+Boundary for 
+which the Life 
+cycle perspective/ 
+assessment 
+conducted
+Whether 
+conducted by 
+independent 
+external agency 
+(Yes/No)
+Results 
+communicated 
+in public domain 
+(Yes/No)
+If “Yes,” provide 
+web-link
+At present, no formal Life Cycle Assessment (LCA) conducted by the Company. However, at Hyderabad plant, product 
+assessment of optical fiber undertaken covering the cradle-to-gate concept.
+2.	
+If there are any significant social or environmental concerns and/or risks arising from production or disposal of your 
+products/ services, as identified in the Life Cycle Perspective/ Assessments (LCA) or through any other means, briefly 
+describe the same along with action-taken to mitigate the same.
+Name of Product/ Service
+Description of the risk/ concern
+Action Taken
+Not applicable, since no formal LCA conducted during the reporting period.
+3.	
+Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing 
+industry) or providing services (for service industry).
+Indicate input material
+Recycled or re-used input material 
+to total material
+Current Financial 
+Year 2022-23
+Previous Financial 
+Year 2021-22
+Bobbins
+4.95%
+4.44%
+PP box
+0.39%
+0%
+Paper Corrugated Box 
+0.16%
+0%
+Overall (Total of above three items)
+5.51%
+4.44%
+4.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled and 
+safely disposed, as per the following format:
+Current Financial Year 2022- 23
+Previous Financial Year 2021- 22
+Re-Used 
+Recycled 
+Safely 
+Disposed 
+Re-Used 
+Recycled 
+Safely 
+Disposed 
+Plastics (including packaging) 
+210
+36
+0
+143
+36
+0
+E-Waste 
+0
+0
+0
+0
+0
+0
+Hazardous Waste 
+0
+0
+0
+0
+0
+0
+Other Waste 
+59
+0
+0
+0
+0
+0
+5.	
+Reclaimed products and their packaging materials (as percentage of products sold) for each product category
+Indicate Product 
+Category
+Reclaimed products and their packaging materials as % total products sold in respective 
+category 
+Not applicable
+HFCL Limited
+129
+Financial Statements
+Statutory Reports
+BRSR
+Corporate Overview
+Principle 3: Businesses should respect and promote the well-being of all employees, including those in their value chains 
+Essential Indicators
+1.	
+a. Details of measures for the well-being of Employees:
+Category
+Total 
+(A)
+Health 
+Insurance
+Accident Insurance
+Maternity Benefits
+Paternity Benefits
+Day Care Facilities
+Number
+(B)
+% (B/A)
+Number
+(C)
+% (C/A)
+Number
+(D)
+%
+(D/A)
+Number
+(E)
+%
+(E/A)
+Number
+(F)
+%
+(F/A)
+PERMANENT EMPLOYEES
+Male 
+1,799
+1,799
+100%
+1,799
+100%
+0
+0%
+1799
+100%
+208
+12%
+Female 
+126
+126
+100%
+126
+100%
+126
+100%
+0
+0%
+18
+14%
+Total
+1,925
+1,925
+100%
+1,925
+100%
+126
+7%
+1799
+93%
+226
+12%
+OTHER THAN PERMANENT EMPLOYEES 
+Male 
+472
+472
+100%
+472
+100%
+0
+0%
+472
+100%
+19
+4%
+Female 
+12
+12
+100%
+12
+100%
+12
+100%
+0
+0%
+1
+8%
+Total
+484
+484
+100%
+484
+100%
+12
+2%
+472
+98%
+20
+4%
+b.	
+Details of measures for the well-being of Workers:
+Category
+Total 
+(A)
+Health 
+Insurance
+Accident Insurance
+Maternity Benefits
+Paternity Benefits
+Day Care Facilities
+Number
+(B)
+% (B/A)
+Number
+(C)
+% (C/A)
+Number
+(D)
+%
+(D/A)
+Number
+(E)
+%
+(E/A)
+Number
+(F)
+%
+(F/A)
+PERMANENT WORKER
+Male 
+156
+156
+100%
+156
+100%
+0
+0%
+156
+100%
+16
+10%
+Female 
+27
+27
+100%
+27
+100%
+27
+100%
+0
+0%
+0
+0%
+Total
+183
+183
+100%
+183
+100%
+27
+15%
+156
+85%
+16
+9%
+OTHER THAN PERMANENT WORKER 
+Male 
+838
+838
+100%
+838
+100%
+0
+0%
+838
+100%
+499
+60%
+Female 
+44
+44
+100%
+44
+100%
+44
+100%
+0
+0%
+29
+66%
+Total
+882
+882
+100%
+882
+100%
+44
+5%
+838
+95%
+528
+60%
+2.	
+Details of retirement benefits, for Current FY23 and Previous FY22 
+Benefits
+Current Financial Year 2022- 23
+Previous Financial Year 2021- 22
+No. of 
+employees 
+covered as 
+% of total 
+employees 
+No. of 
+workers 
+covered as 
+% of total 
+workers 
+Deducted 
+and 
+deposited 
+with the 
+authority 
+(Yes/ No/ 
+NA) 
+No. of 
+employees 
+covered as 
+% of total 
+employees 
+No. of 
+workers 
+covered as 
+% of total 
+workers 
+Deducted 
+and 
+deposited 
+with the 
+authority 
+(Yes/ No/ 
+NA) 
+PF 
+100%
+100%
+Yes
+100%
+100%
+Yes
+Gratuity 
+100%
+100%
+Yes
+100%
+100%
+Yes
+ESI 
+2%
+26%
+Yes
+2%
+32%
+Yes
+Annual Report 2022-23
+HFCL Limited
+130
+3.	
+Accessibility of Workplaces
+	
+Are the premises/ offices of the entity accessible to differently abled employees and workers, as per the requirements of 
+the Rights of Persons with Disabilities Act, 2016?
+	
+If “Not,” then whether any steps are being taken by the entity in this regard.
+	
+Currently the Company does not have any differently abled employee. However, at HFCL, its few offices and the manufacturing 
+plants provided with ramps to enable easy accessibility for differently abled individuals. HFCL is in the process of making all the 
+other premises accessible for differently abled employees, workers and visitors by providing adequate facilities in the coming times.
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, please 
+provide the web-link of the policy.
+	
+HFCL believes in equal opportunity for all and ensures to provide an environment of equality and respect and no discrimination 
+is made against any individual based on their gender, age, disability, ethnicity, sexual orientation, family status, religious beliefs, 
+and abilities. The Company has also formulated a policy on Diversity, Equity and Inclusion which governs the provision of equal 
+opportunity to all our employees.
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave for FY23.
+Gender
+Permanent Employees
+Permanent Workers
+Return to 
+Work Rate 
+Retention 
+Rate 
+Return to 
+Work Rate 
+Retention 
+Rate 
+Male 
+100%
+100%
+100%
+100%
+Female 
+100%
+100%
+100%
+100%
+Total 
+100%
+100%
+100%
+100%
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and workers? 
+If “Yes,” give details of the mechanism in brief:
+Permanent Workers 
+At HFCL, transparency and open-door communication between its employees and 
+management is maintained at all the levels. We have taken necessary actions to provide 
+a safe and conducive work environment to all our employees and workers. There is a 
+grievance redressal mechanism in place by which employees can raise the grievance 
+in writing with their immediate supervisor or department head or HR business partner. 
+The concerned person who received such grievance is required to give a personal 
+hearing and resolve the grievance at their level. In case the grievance is not satisfactorily 
+addressed, the employee can escalate/ appeal the matter to the higher management 
+(Plant Head, Function/ Business Head or MD).
+The Company has appointed a Vigilance Officer under the Whistle Blower Policy 
+to whom all the employees, workers can report their complaints. The investigation 
+performed by the Vigilance Officer is reported to the Audit Committee who further has 
+a role in taking final decision. The Company has also formulated a Policy on Prevention 
+of Sexual Harassment at Workplace for Prevention, Prohibition and Redressal of Sexual 
+Harassment at Workplace and Internal Complaints Committees have also been set up at 
+each workplace to redress any such complaints received in a timely manner.
+Other than Permanent Workers 
+Permanent Employees 
+Other than Permanent Employees 
+HFCL Limited
+131
+Financial Statements
+Statutory Reports
+BRSR
+Corporate Overview
+7.	
+Membership of employees and workers in Association(s) or Unions recognised by the listed entity:
+Category
+Current Financial Year 2022- 23
+Previous Financial Year 2021- 22
+Total 
+employees/ 
+workers in 
+respective 
+category (A) 
+No. of 
+employees/ 
+workers in 
+respective 
+category, who 
+are part of 
+Association(s) 
+or Unions (B) 
+Percentage 
+(%) (B/A) 
+Total 
+employees/ 
+workers in 
+respective 
+category (A) 
+No. of 
+employees/ 
+workers in 
+respective 
+category, who 
+are part of 
+Association(s) 
+or Unions (B) 
+Percentage 
+(%) (B/A) 
+Total Permanent Employees 
+1,925
+1
+0.1%
+1,923
+1
+0.1%
+-	
+Male
+1,799
+1
+0.1%
+1,801
+1
+0.1%
+-	
+Female
+126
+0
+0.0%
+122
+0
+0.0%
+Total Permanent Workers
+183
+41
+22%
+177
+41
+23%
+-	
+Male
+156
+18
+12%
+151
+18
+12%
+-	
+Female
+27
+23
+85%
+26
+23
+88%
+8.	
+(a). Details of training given to employees and workers on “Health and Safety Measures”
+Category
+Current Financial Year 2022- 23
+Previous Financial Year 2021- 22
+Total
+(A)
+Number
+(B)
+Percentage 
+(%) (B/A)
+Total
+(C)
+Number
+(D)
+Percentage 
+(%) (D/C)
+EMPLOYEES
+Male 
+2,271
+713
+31%
+2,288
+550
+24%
+Female 
+138
+86
+62%
+129
+72
+56%
+Total 
+2,409
+799
+33%
+2,417
+622
+26%
+WORKERS  
+Male 
+994
+777
+78%
+943
+606
+64%
+Female 
+71
+31
+44%
+68
+36
+53%
+Total 
+1,065
+808
+76%
+1,011
+642
+64%
+	
+(b). Details of training given to employees and workers on “Skill Upgradation”
+Category
+Current Financial Year 2022- 23
+Previous Financial Year 2021- 22
+Total
+(A)
+Number
+(B)
+Percentage 
+(%) (B/A)
+Total
+(C)
+Number
+(D)
+Percentage 
+(%) (D/C)
+EMPLOYEES
+Male 
+2,271
+1,161
+51%
+2,288
+1,117
+49%
+Female 
+138
+138
+100%
+129
+114
+88%
+Total 
+2,409
+1,299
+54%
+2,417
+1,231
+51%
+WORKERS 
+Male 
+994
+803
+81%
+943
+714
+76%
+Female 
+71
+9
+13%
+68
+10
+15%
+Total 
+1,065
+812
+76%
+1,011
+724
+72%
+Annual Report 2022-23
+HFCL Limited
+132
+9.	
+Details of Performance and Career Development reviews of employees and workers:
+Category
+Current Financial Year 2022- 23
+Previous Financial Year 2021- 22
+Total
+(A)
+Number
+(B)
+Percentage 
+(%) (B/A)
+Total
+(C)
+Number
+(D)
+Percentage 
+(%) (D/C)
+EMPLOYEES
+Male 
+2,271
+1,949
+86%
+2,288
+1,862
+81%
+Female 
+138
+117
+85%
+129
+116
+90%
+Total 
+2,409
+2,066
+86%
+2,417
+1,978
+82%
+WORKERS  
+Male 
+994
+737
+74%
+943
+664
+70%
+Female 
+71
+54
+76%
+68
+54
+79%
+Total 
+1,065
+791
+74%
+1,011
+718
+71%
+10.	 Health and Safety Management System:
+a.	 Whether an occupational 
+health 
+and 
+safety 
+management 
+system 
+has implemented by the 
+entity? (Yes/No)
+	
+If “Yes,” then coverage of 
+the system.
+At HFCL Limited, our aim is to prevent work-related injuries, illnesses, continuously enhance 
+safety performance and promoting ZETO (Zero tolerance) to the safety hazard. HFCL Limited has 
+implemented an Environmental Occupational Health & Safety Management System in compliance 
+with ISO 14001:2015 & ISO 45001:2018, under which we have embraced a structured approach by 
+integrating essential business activities and applying principles and processes to ensure safe and 
+healthy workplaces across all departments/ processes.
+b.	 What are the processes 
+used to identify work-
+related 
+hazards 
+and 
+assess risks on a routine 
+and non-routine basis of 
+the entity?
+The Company has adopted the framework and developed a system of participative and consultative 
+approach with concerned stakeholders, including employees, associates and contract workers 
+to identify the work-related hazards. A brief of other processes and procedures implemented to 
+identify work-related hazard are given below:
+1.	 Safety Audits: Periodic Internal / External audits are conducted which evaluates all locations 
+in the plant premises to identify potential hazards and non-compliance issues.
+2.	 Hazard Identification and Risk Assessment (HIRA): HIRA is an initiative-taking and 
+systematic process being used to identify and evaluate potential hazards and the associated 
+risks for all processes at all the location of HFCL.
+3.	 Daily Site Rounds: This activity is conducted and involves visual inspection, monitoring usage 
+of personal protection equipment, inspecting emergency equipment, ensuring machine safety 
+and verifying compliance with safety procedures to maintain a safe working environment and 
+prevent accidents.
+4.	 Work Permit System: All high-risk activities are controlled by assessing hazards, getting 
+permits and monitoring compliance to ensure that the work is carried out safely and as per 
+the established procedure.
+5.	 Safety Committee meetings: Regular safety committee meetings are held to discuss the 
+work-related safety hazards and mitigation measures that needs adoption.
+6.	 Reward, recognition & feedback:
+	
+We have launched customised programs aimed at enhancing employee participation 
+and maintaining a constant sense of hazard awareness among workforce in the field of 
+Occupational Health and Safety (OHS). Our efforts to acknowledge and reward employees 
+help nurture a culture where feedback, ideas and creative perspectives are actively sought. 
+This not only encourages an ongoing habit of pinpointing hazards but also supports a lasting 
+process of assessing risks.
+HFCL Limited
+133
+Financial Statements
+Statutory Reports
+BRSR
+Corporate Overview
+c.	 Whether 
+you 
+have 
+processes for workers to 
+report the work-related 
+hazards and to remove 
+themselves from such 
+risks? (Yes/No)
+Yes
+HFCL provides easy reporting structure to their employees and workers to report work-related 
+hazard. We encourage our employees and workers to directly report the safety related incidents 
+to their managers or supervisors. At the safety committee meetings, the incident cases undergo 
+review to produce the proposed initiatives and improvements for well-being of the employees. In 
+addition to this an Incident Investigation and Reporting System is established at HFCL to document 
+all the incidents. We have also introduced employee interaction and awareness programs for our 
+workforce to aware them on the processes involved in reducing the safety risks.
+d.	 Do the employees/ workers 
+of the entity have access to 
+non-occupational medical 
+and healthcare services? 
+(Yes/No)
+Yes
+All the employees and workers have access to non-occupational and medical health care services. 
+We have tied up with the nearby nursing home/ Hospitals on discounted prices for HFCL employees 
+and workers. HFCL organises free medical checkups for employees and workers from time to time.
+11.	 Details of safety related incidents, in the following format:
+Safety Incidents/ Number
+Category
+Current Financial 
+Year 2022- 23
+Previous Financial 
+Year 2021- 22 
+Lost Time Injury Frequency Rate (LTIFR) 
+(per one million-person hours worked)
+Employees 
+Nil
+Nil
+Workers 
+Nil
+Nil
+Total recordable work-related injuries
+Employees 
+Nil
+Nil
+Workers 
+Nil
+Nil
+Number of fatalities
+Employees 
+Nil
+Nil
+Workers 
+Nil
+Nil
+High consequence work-related injury or ill-health  
+(excluding fatalities)
+Employees 
+Nil
+Nil
+Workers 
+Nil
+Nil
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace. 
+	
+We ensure that the Environment, Health and Safety (“EHS”) standards followed at HFCL are ahead of the applicable regulations, 
+legislation and standards and benchmarked against the best international practices across the globe. We have adopted best 
+practices and procedures across our operations to strengthen our safety processes. HFCL will continue to undertake efforts for 
+creating a safe and conducive environment for our workforce with the help of following steps:
+• Implementation of Occupational Health & safety Management System & policy along with mandated safety induction & trainings
+• Safety Committee meetings
+• Mock drills to evaluate emergency preparedness periodically
+• Daily Safety walks
+• Rewards & recognitions in identifying the Hazards
+• Safety Audits to identify the gaps
+• Installation and maintenance of fire-fighting and fire protection system
+• Provision of Personal protective equipment (PPEs)
+• Work permit Systems 
+• Incident and accident investigation and corrective actions
+• Employee participation and consultation in safety activities
+• Periodic medical checkups
+Annual Report 2022-23
+HFCL Limited
+134
+13.	 Number of complaints on the following made by employees and workers:
+Current Financial Year 2022- 23
+Previous Financial Year 2021- 22
+Filed
+Pending 
+Resolution 
+at end of 
+year
+Remark
+Filed
+Pending 
+Resolution 
+at end of 
+year
+Remark
+Working Conditions 
+Nil
+Nil
+The Company has 
+not received any 
+complaint 
+from 
+its employees or 
+workers. However, 
+we have received
+(11) 
+suggestions 
+for improvements
+from workers
+Nil
+Nil
+NA
+Health and Safety 
+Nil
+Nil
+Nil
+Nil
+NA
+14.	 Assessment for the Year (2022- 23):
+% of plants 
+and offices that 
+assessed 
+(By entity 
+or statutory 
+authorities or 
+third party) 
+Health and Safety Practices 
+100%
+Working Conditions 
+100%
+	
+Note- The Company is ISO certified and undergo regular safety audits and assessments
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant 
+risk/ concerns arising from assessment of health and safety practices and working conditions.
+	
+For HFCL, safety of the workforce is of utmost importance and to ensure the same, safety audits and assessments through external 
+agencies conducted at a regular interval. During the safety assessment of the HFCL, no significant concerns arose during the 
+reporting period. However, OFI (Opportunities for Improvements) identified during the assessments were taken seriously and 
+addressed immediately. In addition to this, all identified gaps observed through near misses, are addressed through Corrective 
+and preventive action (CAPA) along with periodical reviews to check the effectiveness of measures undertaken.
+Leadership Indicators
+1.	
+Does the entity extend any life insurance or compensatory package in the event of death of (A). Employees; and (B). 
+Workers (Yes/No). Provide detail.
+	
+Yes, HFCL extend the life insurance to all their employees and workers through Group Term Life Insurance policy (“GTLI”) covering 
+accidental death, disability, critical illness and family benefits.
+2.	
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by the 
+value chain partners.
+	
+At HFCL, to ensure that our service providers are following ethical business practices and are compliant with all the necessary 
+requirements, we verify their financial history and compliance history, which involves reviewing their financial statements, 
+conducting background checks and seeking references. Further, all the mandatory requirements like Workmen Compensation 
+policy, Insurance as part of purchase order/work order in agreed terms and conditions regularly assessed. Further, we ensure that 
+HFCL Limited
+135
+Financial Statements
+Statutory Reports
+BRSR
+Corporate Overview
+the service providers at all our plants across India provides monthly compliances regarding statutory dues of employees towards 
+income tax, provident fund, professional tax, ESIC etc.
+3.	
+Provide the number of employees/ workers having suffered high consequence work-related injury/ ill-health/ fatalities 
+(as reported in Qs. 11 of Essential Indicators above), who have been/ are rehabilitated and placed in suitable employment 
+or whose family members have been placed in suitable employment:
+Total Number of affected 
+employees/ workers
+No. of employees/ workers that 
+rehabilitated or whose family 
+member have placed in suitable 
+employment
+FY23 
+FY22 
+FY23 
+FY22 
+Employees
+Not Applicable
+Workers 
+4.	
+Does the entity provide transition assistance programs to facilitate continued employability and the management of 
+career endings resulting from retirement or termination of employment? (Yes/No)
+	
+At present, there is no transition assistance program available at HFCL, however, the Company supports their employees through 
+their employment journey by providing them with relevant skills, trainings and knowledge. 
+5.	
+Details on assessment of value chain partners (FY23): 
+% of value chain partners (by value of business done with such partners) that were assessed
+Health and Safety 
+Practices 
+At HFCL, we have an exhaustive Supplier Code of Conduct which defines for the suppliers’ concerns/ issues 
+related to Environment, Occupational Health & Safety, Child Labour, Business Ethics, Fair Employment 
+Conditions, Elimination of Discrimination etc.
+Working Conditions 
+6.	
+Provide details of any corrective actions taken or underway to address significant risks/ concerns arising from assessments 
+of health and safety practices and working conditions of value chain partners. 
+	
+We have appointed a representative to supervise the health and safety practices at the site and no significant concerns were 
+identified in the past two years. The process governed by the Standard Operating Procedures formulated specifically considering 
+the health and safety aspects. We ensure that no activities performed under inefficient lighting and hostile weather conditions. 
+Principle 4: Businesses should respect the interests of and be responsive to all its stakeholders 
+Essential Indicators
+1.	
+Describe the process for identifying key stakeholder groups of the entity. 
+	
+At HFCL, stakeholders play an integral role in our journey and we understand the need to gauge feedback from them to achieve a 
+sustainable growth for our Company. Through the process of stakeholder engagement, we have identified key internal and external 
+stakeholder group for our business. The process involves analyzing the impact of each stakeholder group on our business and vice 
+versa and then prioritising each stakeholder group to understand their concerns and expectations. We ensure regular interaction 
+with our stakeholder groups to strengthen our relationship to create a shared value. The key identified stakeholder groups of HFCL 
+are Employees, Workers, Suppliers, Customers, Investors, Shareholders, NGOs, Communities and others. 
+Annual Report 2022-23
+HFCL Limited
+136
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group. 
+Stakeholder 
+Group
+Identified as 
+Vulnerable or 
+Marginalised 
+Group (Yes/No)
+Channels of 
+Communication
+Frequency of 
+engagement
+Purpose and scope of engagement 
+including key topics and concerns raised 
+during each engagement
+Employee
+No
+Website, 
+Emails, 
+In-
+person 
+meetings, 
+Newsletters, 
+Town 
+halls, Employee surveys
+Regular
+Outlook on various business, expectations and 
+thoughts of employees, Employee engagement, 
+human resource development, skill training, 
+career development, safety training, ESG and 
+CSR initiatives
+Workers
+No
+Website, 
+Emails, 
+In-
+person 
+meetings, 
+Newsletters, 
+Town 
+halls, Employee surveys
+Regular
+Outlook on various business, expectations and 
+thoughts of employees, Employee engagement, 
+human resource development, skill training, 
+career development, safety training, ESG and 
+CSR initiatives
+Suppliers
+No
+Website, 
+Emails, 
+In-
+person 
+meetings, 
+Newsletters, 
+Supplier 
+survey
+Regular
+Compliance with laws, regulations, published 
+standards and environmental practices, Product 
+related issues, new initiatives undertaken for 
+the suppliers
+Customers 
+(Distributors, 
+Wholesalers, & 
+Retailers)
+No
+Website, 
+Newsletters, 
+Partner 
+Portal, 
+Customer 
+Service 
+Portal, Emails, SMS
+Regular
+Educational, Updates about new offerings, 
+Product related issues (quality, packaging and 
+delivery)
+Communities
+Yes
+Our 
+means 
+of 
+c o m m u n i c a t i o n 
+involve 
+collaborating 
+with our CSR Project 
+Partners and actively 
+engaging with local 
+stakeholders 
+and 
+community 
+leaders 
+in the areas where 
+our 
+CSR 
+Projects 
+are 
+implemented. 
+Furthermore, 
+we 
+consistently 
+gather 
+their 
+feedback, 
+including 
+their 
+e x p e c t a t i o n s , 
+aspirations, 
+needs, 
+complaints 
+and 
+suggestions, 
+through 
+site 
+visits, 
+phone 
+conversations 
+and 
+various 
+awareness 
+sessions.
+Regular
+Our objective in engaging with the community 
+is to gain a comprehensive understanding of 
+the concerns and gaps in our CSR projects, as 
+well as to gather feedback on their expectations, 
+aspirations, needs, complaints and suggestions.
+Throughout our engagement processes, we have 
+encountered various topics and concerns raised 
+by community stakeholders. Some common 
+key issues include insufficient time allocation 
+for service delivery to address all beneficiaries, 
+demand of additional services in the project, 
+the distant location of the service site from 
+beneficiaries' homes and individual grievances 
+against the project's operational team.
+We collect and compile this feedback, requests, 
+complaints and information to direct the 
+respective project partners to address each 
+individual 
+complaint, 
+understand 
+every 
+suggestion and strive to implement corrective 
+measures. Additionally, we aim to adjust the 
+project's operations in accordance with the 
+feedback received from the specific community 
+and their needs and aspirations.
+HFCL Limited
+137
+Financial Statements
+Statutory Reports
+BRSR
+Corporate Overview
+Stakeholder 
+Group
+Identified as 
+Vulnerable or 
+Marginalised 
+Group (Yes/No)
+Channels of 
+Communication
+Frequency of 
+engagement
+Purpose and scope of engagement 
+including key topics and concerns raised 
+during each engagement
+NGOs
+No
+The 
+specific 
+c o m m u n i c a t i o n 
+channel and method 
+clearly specified in the 
+corresponding 
+MoUs 
+with each project partner. 
+The 
+communication 
+channels 
+typically 
+encompass 
+email, 
+telephone 
+discussions, 
+video conferences and 
+periodic meetings as 
+needed.
+Continuous
+These channels are utilised to address any issues 
+or concerns, evaluate project operations and 
+offer feedback and suggestions for maximising 
+the use of available resources to serve the 
+greatest number of beneficiaries.
+Investor/ 
+Shareholders
+No
+Investor 
+meetings, 
+conference 
+calls, 
+emails, 
+press 
+releases, 
+newsletters, 
+stock 
+exchange 
+a n n o u n c e m e n t s , 
+websites, 
+annual 
+reports 
+and 
+annual 
+general meetings
+Regular
+Update 
+on 
+the 
+business 
+and 
+financial 
+performance, Company's strategy and growth 
+levers, potential opportunities and risks, our 
+ESG goals/ actions and material events which 
+may have a positive or negative impact on the 
+performance of the Company
+Leadership Indicators
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental and social 
+topics or if consultation is delegated, how is feedback from such consultations provided to the Board.
+	
+At HFCL, stakeholders’ consultation is given consideration at business level decisions and strategy making. The Company 
+continuously engages with relevant stakeholders through its representatives and regularly seeks feedback, which is then through 
+departments/ plants/ unit heads gets communicated to various Board level committees and to the Board for their consideration 
+and appropriate action, as deemed fit.
+2.	
+Whether stakeholder consultation is used to support the identification and management of environmental and social 
+topic? (Yes/No)
+	
+If so, provide details of instances as to how the inputs received from stakeholders on these topics were incorporated into 
+policies and activities of the entity.
+	
+No
+3.	
+Provide detail of instances of engagement with and actions taken to, address the concerns of vulnerable/ marginalised 
+stakeholder groups.
+	
+With a deep commitment to empower the marginalised/ vulnerable communities and foster an inclusive socio-economic impact, 
+HFCL has a range of Corporate Social Responsibility (CSR) initiatives, which implemented through registered society, the HFCL Social 
+Services Society (HSSS). At the heart of HFCL’s mission are two core themes- healthcare and education. Under Healthcare, HFCL 
+is working to provide both preventive and curative healthcare, including doorstep preventive health care facilities and financial 
+support for critical illnesses. Under the education program, the focus is on promoting access to elementary and higher education. 
+HFCL also creates digital infrastructure and hi-tech e-learning solutions in government schools in rural areas for this purpose.
+	
+The Company is constantly seeking out new opportunities to make a positive difference in the lives of those it serves, collaborating 
+with non-profit organisations, charitable trusts and educational institutions to implement its CSR projects and programs. HFCL's 
+flagship CSR initiative, the Mobile Medical Unit Project, aims to provide preventative healthcare to underserved communities in 
+India. The Company has partnered with HelpAge India and Wockhardt Foundation to implement groundbreaking initiatives in 
+various states and have reached remote rural areas, benefiting thousands of disadvantaged households.
+Annual Report 2022-23
+HFCL Limited
+138
+Principle 5: Businesses should respect and promote human rights
+Essential Indicators
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the 
+following format: 
+Category
+Current Financial Year 2022- 23
+Previous Financial Year 2021- 22
+Total
+(A)
+Number
+(B)
+Percentage 
+(%) (B/A)
+Total
+(C)
+Number
+(D)
+Percentage 
+(%) (D/C)
+EMPLOYEES
+Permanent 
+1,925
+396
+21%
+1,923
+304
+16%
+Other than permanent  
+484
+12
+2%
+494
+3
+1%
+Total Employees 
+2,409
+408
+17%
+2,417
+307
+13%
+WORKERS  
+Permanent  
+183
+63
+34%
+177
+54
+31%
+Other than permanent  
+882
+544
+62%
+834
+495
+59%
+Total Workers 
+1,065
+607
+57%
+1,011
+549
+54%
+	
+Note: Training provided on various topics such as Diversity, Equity, and Inclusion (DE&I) awareness, POSH Act and Women Right Awareness. 
+2.	
+Details of minimum wages paid to employees and workers, in the following format: 
+Category
+Current Financial Year 2022- 23
+Previous Financial Year 2021- 22
+Total (A)
+Equal to Minimum 
+Wage
+More than 
+Minimum Wage
+Total (D)
+Equal to Minimum 
+Wage
+More than 
+Minimum Wage
+Number 
+(B)
+% (B/A)
+Number 
+(C)
+% (C/A)
+Number 
+(E)
+% (E/D)
+Number 
+(F)
+% (F/D)
+EMPLOYEES
+Permanent 
+1925
+11
+0.6%
+1914
+99.4%
+1923
+20
+1.0%
+1903
+99.0%
+-	
+Male
+1799
+8
+0.4%
+1791
+99.6%
+1801
+16
+0.9%
+1785
+99.1%
+-	
+Female
+126
+3
+2.4%
+123
+97.6%
+122
+4
+3.3%
+118
+96.7%
+Other than 
+Permanent
+484
+29
+6.0%
+455
+94.0%
+494
+21
+4.3%
+473
+95.7%
+-	
+Male
+472
+23
+4.9%
+449
+95.1%
+487
+19
+3.9%
+468
+96.1%
+-	
+Female
+12
+6
+50.0%
+6
+50.0%
+7
+2
+28.6%
+5
+71.4%
+WORKERS  
+Permanent 
+183
+12
+6.6%
+171
+93.4%
+177
+26
+14.7%
+151
+85.3%
+-	
+Male
+156
+8
+5.1%
+148
+94.9%
+151
+23
+15.2%
+128
+84.8%
+-	
+Female
+27
+4
+14.8%
+23
+85.2%
+26
+3
+11.5%
+23
+88.5%
+Other than 
+Permanent
+882
+629
+71.3%
+253
+28.7%
+834
+594
+71.2%
+240
+28.8%
+-	
+Male
+838
+588
+70.2%
+250
+29.8%
+792
+556
+70.2%
+236
+29.8%
+-	
+Female
+44
+41
+93.2%
+3
+6.8%
+42
+38
+90.5%
+4
+9.5%
+HFCL Limited
+139
+Financial Statements
+Statutory Reports
+BRSR
+Corporate Overview
+3.	
+Details of remuneration/ salary/ wages, in the following format for FY23:
+Male
+Female
+Number 
+Median 
+salary/ wage 
+of respective 
+category 
+Number 
+Median 
+salary/ wage 
+of respective 
+category 
+Board of Directors (BoD)*
+5
+9,75,000**
+1
+8,50,000*
+Key Managerial Personnel***
+3
+3,996,6832
+0
+NA
+Employees other than BoD and KMP
+2,268
+7,05,178 
+138
+9,00,000 
+Workers 
+994
+2,43,384 
+71
+2,08,164 
+	
+*Excluding Managing Director who has been included in Key Managerial Personnel category.
+	
+**The payment of sitting fees only made to non-executive directors of the Company including independent directors for attending the meetings of the Board and 
+its various Committees, during the year under review, have been considered.
+	
+*** Key Managerial personnel comprises of Mr. Mahendra Nahata, Managing Director, Mr. Vijay Raj Jain, Chief Financial Officer and Mr. Manoj Baid, President & Company 
+Secretary.
+	
+Note: Only considered permanent employees and workers on rolls
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused or 
+contributed to by the business? (Yes/No)
+	
+The Board of Directors of the Company has formulated a Whistle-Blower Policy through which it envisages to encourage the Directors 
+and employees of the Company to report to the appropriate authorities any unethical behaviour, improper, illegal, or questionable 
+acts, deeds, actual or suspected frauds or violation of the Company’s Codes of Conduct for the Directors and the Senior Management 
+Personnel. Vigil Mechanism of the Company enables stakeholders, including employee(s) and their representative bodies, to freely 
+communicate their concerns about illegal or unethical practices to the management. In addition, the Company has also constituted 
+Internal Complaint Committee (ICC) at each workplace in accordance with the provisions of the Sexual Harassment of Women at 
+Workplace (Prevention, Prohibition and Redressal) Act, 2013 to address the concerns related to sexual harassment.
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+	
+HFCL has policies like Code of Conduct, Whistle Blower Policy, Grievance Redressal Policy and POSH policy to ensure sound 
+implementation of processes and procedures with respect to human rights and applicable labor regulations. All the grievances 
+related to employees and workers are reported to the Vigilance officer appointed by the Company. The Vigilance Officer carefully 
+investigate the case and report it to the Audit Committee. The Audit Committee analyze the investigation conducted and take a 
+final decision on the case. Throughout the investigation it ensures that the case dealt with confidentiality and transparency.
+6.	
+Number of complaints on the following made by employees and workers:
+Current Financial Year 2022- 23
+Previous Financial Year 2021- 22
+Filed during 
+the year 
+Pending 
+resolution at 
+end of year
+Remark 
+Filed during 
+the year 
+Pending 
+resolution at 
+end of year
+Remark 
+Sexual 
+Harassment
+1
+Nil
+The ICC has held its 
+various 
+meetings 
+to 
+investigate 
+the 
+case 
+and 
+provided 
+equal 
+opportunities to both 
+the 
+Complainant 
+and 
+Accused 
+to 
+present 
+their 
+matter 
+before 
+the ICC. Subsequently, 
+the 
+complaint 
+was 
+withdrawn 
+by 
+the 
+Complainant and hence 
+ICC closed the matter.
+Nil
+Nil
+-
+Discrimination 
+at workplace
+Nil
+Nil
+-
+Nil
+Nil
+-
+Child Labour
+Nil
+Nil
+-
+Nil
+Nil
+-
+Annual Report 2022-23
+HFCL Limited
+140
+Current Financial Year 2022- 23
+Previous Financial Year 2021- 22
+Filed during 
+the year 
+Pending 
+resolution at 
+end of year
+Remark 
+Filed during 
+the year 
+Pending 
+resolution at 
+end of year
+Remark 
+Forced Labour/ 
+Involuntary 
+Labour
+Nil
+Nil
+-
+Nil
+Nil
+-
+Wages
+Nil
+Nil
+-
+Nil
+Nil
+-
+Other human 
+rights related 
+issues
+Nil
+Nil
+-
+Nil
+Nil
+-
+7.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	
+The Company ensures that the representatives of the Internal Complaint Committee have expertise and the experience of dealing 
+with similar cases and make sure that the Principle of Natural Justice is followed across all the cases. In addition, as part of our 
+whistle blower policy, we provide additional protection to the complainant to prevent them from any kind of retaliation which can 
+adversely impact their employment in the organisation. The identity of the whistle blower and complainant is kept confidential to 
+the extent possible to avoid any adverse impact.
+8.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+	
+Yes, HFCL ensures that all the agreements and contracts with any party include clauses on the enforcement of the relevant labor 
+laws. HFCL service contracts include certification and compliance requirement from the vendor.
+9.	
+Assessment for the FY23:
+% of plants and offices that were assessed (by entity or statutory authorities or third parties) 
+Child Labour 
+Nil 
+Forced/ Involuntary 
+Labour 
+Nil
+Sexual harassment 
+Nil
+Discrimination at 
+workplace 
+Nil
+Wages
+Nil
+Others- please 
+specify 
+Nil
+10.	 Provide details of any corrective actions taken or underway to address significant risks/ concerns arising from the 
+assessments at Qs. 9, above. 
+	
+Not Applicable since no assessment conducted.
+Leadership Indicators
+1.	
+Details of a business process being modified/ introduced because of addressing human rights grievances/complaints. 
+	
+At HFCL, we ensure adherence to ethical standards of business. The corporate governance policies, processes and guidelines are 
+reviewed to ensure compliance with laws and adopt best practices. 
+2.	
+Details of the scope and coverage of any Human Rights due diligence conducted. 
+	
+No human rights due diligence conducted by the Company during the FY23. 
+HFCL Limited
+141
+Financial Statements
+Statutory Reports
+BRSR
+Corporate Overview
+3.	
+Is the premise/ office of the entity accessible to differently abled visitors, as per the requirements of the Rights of Persons 
+with Disabilities Act, 2016? 
+	
+The Company has provided ramps and elevators at few offices and manufacturing plant at Hyderabad for the easy accessibility 
+of differently abled employees and visitors. However, HFCL is in process of improving the accessibility for the differently abled 
+employees and visitors at other plants/ locations across India as well. 
+4.	
+Details on assessment of Value Chain Partners:
+% of value chain partners (by value of business done with such partners) that were assessed: 
+Child Labour 
+Nil
+Forced/ Involuntary 
+Labour 
+Nil
+Sexual harassment 
+Nil
+Discrimination at 
+workplace 
+Nil
+Wages
+Nil
+Others- please 
+specify 
+Nil
+5.	
+Provide details of any corrective actions taken or underway to address significant risks/ concerns arising from the 
+assessment at Qs. 4 above. 
+	
+Not Applicable 
+Principle 6: Businesses should respect and make efforts to protect and restore the environment 
+Essential Indicators
+1.	
+Details of total energy consumption (in GJ) and energy intensity, in the following format: 
+Parameter
+Current Financial 
+Year 2022- 23
+Previous Financial 
+Year 2021- 22
+Total Energy Consumption (A) 
+134,331
+112,543
+Total Fuel Consumption (B) 
+4,929
+7,420
+Energy consumption through Other Sources (C)
+0.00
+0.00
+Total Energy Consumption (A+B+C) 
+139,260
+119,963
+Energy intensity per rupee of turnover  
+(Total energy consumption/turnover in rupees crores)
+0.0000032
+0.0000028
+	
+Note: Indicate if any independent assessment/ evaluation/ assurance has been carried out by an external agency? (Yes/No). If “Yes,” 
+name the external agency. No
+2.	
+Does the entity have any sites/ facilities identified as designated consumers (DCs) under the Performance, Achieve and 
+Trade (PAT) Scheme of the Government of India? (Yes/No)
+	
+If “Yes,” disclose whether targets set under the PAT Scheme have been achieved. In case targets have not been achieved, 
+provide the remedial action taken, if any.
+	
+Not Applicable as none of our sites come under PAT Scheme as Designated Consumers.
+Annual Report 2022-23
+HFCL Limited
+142
+3.	
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+Current Financial 
+Year 2022- 23
+Previous Financial 
+Year 2021- 22
+WATER WITHDRAWAL BY SOURCE (IN KILOLITERS)
+(i).	 Surface Water 
+0
+0
+(ii).	Groundwater 
+8,256
+8,880
+(iii).	Third Party Water 
+25,200
+24,337
+(iv).	Seawater/ Desalinated water 
+0
+0
+(v).	Others (Tanker, third-party water, and rainwater harvesting) 
+35,701
+34,118
+Total Volume of water withdrawal (in KL) (i + ii + iii + iv + v)
+69,157
+67,335
+Total volume of water consumption (in KL) 
+69,157
+67,335
+Water intensity per rupee of turnover (Water consumed/ turnover (Rs crores))
+0.0000016
+0.0000016
+	
+Note: Indicate if any independent assessment/ evaluation/ assurance has been carried out by an external agency? (Yes/No). If “Yes,” name the external agency. No
+4.	
+Has the entity implemented a mechanism for Zero Liquid Discharge (ZLD)? If “Yes,” provide details of its coverage and 
+implementation.   
+	
+Yes, we have implemented Zero Liquid Discharge mechanism at all our manufacturing plants. To avoid any discharge of the 
+untreated water outside the premises, we have installed appropriate number of Sewage Treatment Plants at all the locations. The 
+treated water is then used in gardening as well as in washrooms.
+5.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format: 
+Parameter 
+Please specify 
+unit 
+Current Financial 
+Year 2022- 23
+Previous Financial 
+Year 2021- 22
+NOx
+Tonnes/year
+0.19
+0.27
+SOx
+Tonnes/year
+1.83
+1.81
+Particulate Matter (PM)
+Tonnes/year
+0.05
+0.06
+Persistent organic pollutant (POP) 
+Not applicable
+Volatile organic compounds (VOC) 
+Hazardous air pollutant (HAP) 
+	
+Note: Indicate if any independent assessment/ evaluation/ assurance has been carried out by an external agency? (Yes/No). If “Yes,” name the external agency. No
+6.	
+Please provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) and its intensity, in the following 
+format:
+Parameter
+Please specify 
+unit
+Current Financial 
+Year 2022- 23
+Previous Financial 
+Year 2021- 22
+Total Scope 1 Emissions (Break-up of the GHG into CO2, CH4, N2O, 
+HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of 
+CO2 equivalent
+539
+533
+Total Scope 2 Emissions
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if 
+available)
+Metric tonnes of 
+CO2 equivalent
+23,295
+27,489
+Total Scope 1 and Scope 2 emissions per rupee of turnover
+0.00000054
+0.00000064
+	
+Note: Indicate if any independent assessment/ evaluation/ assurance has been carried out by an external agency? (Yes/No). If “Yes,” name the external agency. No
+7.	
+Does the entity have any project related to reducing Greenhouse gas emissions?
+	
+If “Yes,” then provide details.
+	
+HFCL is committed to the protection of the environment and mitigate the impact of its operations on environment by implementing 
+initiative-taking energy efficiency programs and technologies. Over the last few years, we have emphasised on use of latest, efficient 
+and environment friendly technologies and processes in the production, packaging/storage and transportation of products to 
+reduce our Carbon footprints.
+HFCL Limited
+143
+Financial Statements
+Statutory Reports
+BRSR
+Corporate Overview
+	
+Illustration of the energy efficient initiatives undertaken by HFCL: -
+• Our office building for Optical Fiber Plant developed with Double Layer Glass Facade to conserve energy due to less requirement 
+of light and cooling requirements.
+• Entire utility equipment is monitored and controlled through Smart BMS (Building Management System) to have real time 
+monitoring of critical parameters and optimum use of energy.
+• All air handling units are designed with high efficiency DIDW fans with VFD drive instead of Belt drive and are operated with 
+closed loop system with field control system to optimise energy consumption.
+• All motors in the facility equipped with soft starters instead of the conventional switch gear starters for energy conservation 
+and reduction of electrical spikes.
+• All plant lightings designed with LED luminaires to save energy.
+• High efficiency UPS installed with 96% efficiency.
+• All centrifugal chillers equipped with VFD drive, ATC to maintain desired approach, thereby conserve electrical energy.
+• All chilled and process water pumps are equipped with VFD drive to optimise Energy consumption.
+• Humidifiers designed with high efficiency Humifog system to conserve electrical energy.
+• Cable Plant designed with provision of sufficient natural air & light to reduce the Cooling & illumination requirements.
+• Cross Air Ventilation & Turbo Ventilators installed wherever applicable.
+• 02-Inch Rockwool Insulation is provided to prevent heat, inside the Roof.
+• New motors are above IE3 energy efficient therefore electricity consumption reduction in comparison to standard motors.
+• HVAC system is of environment friendly R407C refrigerant gas.
+• 40% reduction in fuel- diesel consumption by optimising forklift operations in the year 2021-22 at Goa facility.
+	
+Other Energy efficient products/solutions as illustrated below:
+• Developed new-generation wireless point-to-point and point-to-multipoint connectivity solutions with improved energy 
+efficiency while delivering higher capacity.
+• Developing new generation 5G wireless radio products with energy efficiency features. These products include indoor small 
+cell base stations and O-RAN compliant outdoor Macro Radio and mmWave FWA CPE products.
+• The energy efficient 5G products operating in n78 band with 1) integrated base station architecture, and 2) O-RAN compliant 
+disaggregated architecture.
+• Outdoor mmWave CPE products support SA and NSA mode of operations and offer energy saving features like discontinuous 
+transmission and reception (DRX).
+• The research team is working on developing energy efficient waveforms that could potentially be part of 6G technology standards.
+8.	
+Provide details related to waste management by the entity, in the following format:
+Parameter
+Current Financial 
+Year 2022- 23
+Previous Financial 
+Year 2021- 22
+TOTAL WASTE GENERATED (IN METRIC TONNES) 
+Plastic Waste (A) 
+351
+385
+E-Waste (B) 
+0.14
+0.11
+Bio-medical Waste (C)
+0
+0
+Construction and Demolition Waste (C&D) (D) 
+223
+1,112
+Battery Waste (E)
+0
+10
+Radioactive Waste (F) 
+0
+0
+Other Hazardous Waste generated (G) (Please specify, if any)
+83
+98
+Other Non-Hazardous Waste generated (H) (Please specify, if any)
+1,181
+808
+Total Waste Generated (A+B+C+D+E+F+G+H)
+1,838.14
+2,413.11
+Annual Report 2022-23
+HFCL Limited
+144
+Parameter
+Current Financial 
+Year 2022- 23
+Previous Financial 
+Year 2021- 22
+FOR EACH CATEGORY OF WASTE GENERATED, TOTAL WASTE RECOVERED THROUGH RECYCLING, RE-USING OR 
+OTHER RECOVERY OPERATIONS (IN METRIC TONNES)
+Category Waste Name: 
+(i).	 Recycled 
+770
+822
+(ii).	Re-used 
+0
+0
+(iii).	Other recovery operations 
+0
+0
+Total 
+770
+822
+FOR EACH CATEGORY OF WASTE GENERATED, TOTAL WASTE DISPOSED BY NATURE OF DISPOSAL METHOD  
+(IN METRIC TONNES)
+Category Waste Name: 
+(i).	 Incineration 
+77
+96
+(ii).	Landfilling 
+229
+1,114
+(iii).	Other disposal operations 
+763
+383
+Total 
+1,069
+1,593
+	
+Note: Following hazardous waste generated at our plants.
+	
+1.	
+Goa manufacturing plant- Used oil, discarded containers, contaminated cotton rags, waste residue containing oil, spent solvent.
+	
+2.	
+Solan manufacturing plant- Solder Dross
+	
+3.	
+Hyderabad Manufacturing Plant- Used oil, spent resin, oil soaked cotton waste, chemical cans, soft graphite felt, Isopropanol, MEK, Acetone, IBC coating cans, HFs. 
+	
+Note: Indicate if any independent assessment/ evaluation/ assurance has been carried out by an external agency? (Yes/No). If “Yes,” name the external agency. No 
+9.	
+Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by your 
+company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices adopted to 
+manage such wastes. 
+	
+In alignment with our commitment to zero waste to landfills by the year end 2024, a comprehensive waste management plan is 
+in place at all the locations of HFCL. We ensure that each type of waste generated categorised and segregated at the source level. 
+The hazardous waste generated is collected, transported and disposed through a CPCB authorised vendor as per the regulations 
+whereas the non-hazardous waste is either reused/ recycled within the operations (wherever possible) or processed through an 
+appropriate mechanism by the authorised vendors. In addition, we ensure that all the raw materials used to manufacture Optical 
+Fiber and Optical Fiber Cables are Restriction of Hazardous Substances (RoHS) and Registration, Evaluation, Authorisation and 
+Restriction of Chemicals (REACH) compliant. HFCL has upgraded its RoHS compliance in line with the latest directives 2015/863 
+(EU) RoHS that adds four additional restricted substances to the existing list and do not contain substances which are identified 
+in the “candidate List of substances of very High concern” published by ECHA on 07/01/2023. Furthermore, HFCL promotes 
+the manufacturing of modern designs with reduced level of jelly or no jelly and replacing it with the use of dry water blocking 
+materials and switched to 90% of designs with dry core construction. These dry tube/dry core designs help in reduction in use of 
+petroleum products.
+10.	 If the entity has operations/ offices in & around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones, etc.) where environmental 
+approvals/ clearances are required, please specify details in the following format:
+S. 
+No.
+Location of operations/ offices
+Type of operations
+Whether the conditions of 
+environmental approval/ 
+clearance are being complied 
+with? (Yes/No) 
+If “No,” the reasons thereof and 
+corrective action taken, if any. 
+Not applicable as none of our sites are in ecologically sensitive areas.
+HFCL Limited
+145
+Financial Statements
+Statutory Reports
+BRSR
+Corporate Overview
+11.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the 
+current financial year 2022- 23:
+Name and brief of 
+the project
+EIA Notification 
+No.
+Date
+Whether 
+conducted by 
+independent 
+agency (Yes/No)
+Results 
+communicated 
+in public domain 
+(Yes/No)
+Relevant Web-link 
+None
+12.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India, such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment Protection Act and 
+Rules thereunder (Yes/ No). 
+	
+If “Not,” provide details of all such non-compliances, in the following format: 
+S. 
+No.
+Specify the law/ 
+regulation/ guidelines 
+which is not compliant 
+Provide details of the non-
+compliance 
+Any fines/ penalties/ 
+action taken by regulatory 
+agencies such as pollution 
+control board or by courts 
+Corrective action taken  
+if any 
+The Company's existing operations and offices comply with all the applicable environmental regulation of the Country and 
+operate in accordance with the conditions provided in CTO by the Central and State Pollution Control Boards. Furthermore, no 
+cases of non-compliance reported by the authorities.
+Leadership Indicators
+1.	
+Provide breakup of the total energy consumed (in GJ) from Renewable Energy and Non-Renewable sources, in the 
+following format:
+Parameter
+Current Financial 
+Year 2022- 23
+Previous Financial 
+Year 2021- 22
+FROM RENEWABLE SOURCES (IN GJ)
+Total electricity consumption (A) 
+0
+0
+Total fuel consumption (B) 
+0
+0
+Energy consumption through other sources (C)
+0
+0
+Total energy consumed from renewable sources (A+B+C) 
+0
+0
+FROM NON-RENEWABLE SOURCES (IN GJ)
+Total electricity consumption (D) 
+134,331
+112,543
+Total fuel consumption (E) 
+4,929
+7,420
+Energy consumption through other sources (F)
+0
+0
+Total energy consumed from non-renewable sources (D+E+F) 
+139,260
+119,963
+	
+Note: Indicate if any independent assessment/ evaluation/ assurance has been carried out by an external agency? (Yes/No). If “Yes,” name the external agency. No
+Annual Report 2022-23
+HFCL Limited
+146
+2.	
+Provide the following details related to water discharge: 
+Parameter
+Current Financial 
+Year 2022- 23
+Previous Financial 
+Year 2021- 22
+WATER DISCHARGE BY DESTINATION AND LEVEL OF TREATMENT (IN KILOLITRES) 
+(i).	 To Surface Water
+We 
+have 
+implemented 
+Zero 
+Liquid Discharge (ZLD) at all our 
+manufacturing plants by establishing 
+Sewage 
+Treatment 
+Plants 
+which 
+employs 
+preliminary, 
+primary, 
+secondary 
+and 
+tertiary 
+processes 
+to remove contaminants. It also 
+includes sludge treatment to meet 
+microbial standards, ensuring effective 
+purification of the wastewater. The 
+treated water then used for gardening 
+and in washrooms.
+	
+-	
+No treatment
+	
+-	
+With treatment- please specify level of treatment 
+(ii).	To Ground Water
+	
+-	
+No treatment 
+	
+-	
+With treatment- please specify level of treatment 
+(iii). To Seawater
+	
+-	
+No treatment 
+	
+-	
+With treatment- please specify level of treatment 
+(iv). Sent to Third Parties  
+	
+-	
+No treatment 
+	
+-	
+With treatment- please specify level of treatment 
+(v).	Others 
+	
+-	
+No treatment 
+	
+-	
+With treatment- please specify level of treatment 
+Total water discharged (In kiloliters)
+	
+Note: Indicate if any independent assessment/ evaluation/ assurance has been carried out by an external agency? (Yes/No). If “Yes,” name the external agency. No
+3.	
+Water withdrawal, consumption and discharge in areas of ‘Water Stress’ (in kilo liters):  
+	
+For each facility/ plant located in areas of water stress, provide the following information: 
+	
+i.	
+Name of area- Not Applicable as none of our sites are in water stress area
+	
+ii.	
+Nature of operations- Not Applicable 
+	
+iii.	
+Water withdrawal, consumption and discharge in the following format: 
+Parameter
+Current Financial 
+Year 2022- 23
+Previous Financial 
+Year 2021- 22
+WATER WITHDRAWAL BY SOURCE (IN KILOLITRES)  
+(i).	 Surface Water
+NA
+NA
+(ii).	Ground Water
+NA
+NA
+(iii).	Third Party Water 
+NA
+NA
+(iv).	Seawater/ Desalinated Water 
+NA
+NA
+(v).	Others 
+NA
+NA
+Total volume of water withdrawal (in KL)
+NA
+NA
+Total volume of water consumption (in KL) 
+NA
+NA
+Water intensity per rupee of turnover (Water consumed/ turnover)
+NA
+NA
+Water intensity (optional)- the relevant metric may be selected by the entity
+NA
+NA
+HFCL Limited
+147
+Financial Statements
+Statutory Reports
+BRSR
+Corporate Overview
+Parameter
+Current Financial 
+Year 2022- 23
+Previous Financial 
+Year 2021- 22
+WATER DISCHARGE BY DESTINATION AND LEVEL OF TREATMENT (IN KILOLITRES) 
+(i).	 To Surface Water
+NA
+NA
+	
+-	
+No treatment 
+NA
+NA
+	
+-	
+With treatment- please specify level of treatment 
+NA
+NA
+(ii).	To Ground Water
+NA
+NA
+	
+-	
+No treatment 
+NA
+NA
+	
+-	
+With treatment- please specify level of treatment 
+NA
+NA
+(iii). Sent to Third Party Water 
+NA
+NA
+	
+-	
+No treatment 
+NA
+NA
+	
+-	
+With treatment- please specify level of treatment 
+NA
+NA
+(iv). Into Seawater 
+NA
+NA
+	
+-	
+No treatment 
+NA
+NA
+	
+-	
+With treatment- please specify level of treatment 
+NA
+NA
+(v).	Others 
+NA
+NA
+	
+-	
+No treatment 
+NA
+NA
+	
+-	
+With treatment- please specify level of treatment 
+NA
+NA
+	
+Note: Indicate if any independent assessment/ evaluation/ assurance has been carried out by an external agency? (Yes/No). If “Yes,” name the external agency. No
+4.	
+Please provide details of total Scope 3 emissions and its intensity, in the following format: 
+Parameter
+Please specify 
+unit
+Current Financial 
+Year 2022- 23
+Previous Financial 
+Year 2021- 22
+Total Scope 3 Emissions (Break-up of the GHG into CO2, CH4, N2O, 
+HFCs, PFCs, SF6, NF3, if available) 
+Metric tonnes of 
+CO2 equivalent
+Presently, 
+the 
+Company 
+is 
+not 
+estimating scope 3 emissions. However, 
+we intend to estimate the same in the 
+near future.
+Total Scope 3 emissions per rupee of turnover 
+Total Scope 3 emission intensity (optional)- the relevant metric 
+may be selected by the entity 
+	
+Note: Indicate if any independent assessment/ evaluation/ assurance has been carried out by an external agency? (Yes/No). If “Yes,” name the external agency. No
+5.	
+With respect to the ecologically sensitive areas reported in Qs. 10 of Essential Indicators above, provide details of 
+significant direct & indirect impact of the entity on biodiversity in such areas along with prevention and remediation 
+activities. 
+	
+Not Applicable 
+6.	
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource 
+efficiency, or reduce impact due to emissions/ effluent discharge/ waste generated, please provide details of the same as 
+well as outcome of such initiatives, as per the following format: 
+S. 
+No.
+Initiative undertaken
+Details of the initiative (Web-link, if any, may be provided 
+along with summary)
+Outcome of the Initiative
+1.
+Zero Waste to Landfill
+Initiatives undertaken to divert waste disposal from landfilling to 
+alternate/sustainable disposal methods.
+Waste diverted from 
+landfilling to AFR/Recycling
+2.
+Water Management
+•	
+STP with capacity of 30 KLD and 35 KLD at Goa and Hyderabad 
+locations respectively to recycle wastewater and reuse the 
+recycled water within the premises.
+•	
+Storm Drains for Rainwater Harvesting and 8 Ground Water 
+Recharge Pits connected with Storm drains to ensure water 
+conservation initiatives.
+Improved water 
+conservation
+Annual Report 2022-23
+HFCL Limited
+148
+S. 
+No.
+Initiative undertaken
+Details of the initiative (Web-link, if any, may be provided 
+along with summary)
+Outcome of the Initiative
+3.
+Energy Management
+•	
+Installation of Smart BMS to optimise use of energy use and 
+AHUs equipped with high efficiency DIDW fans with VFD drive 
+to drive energy optimisation.
+•	
+Installation of Soft Starters for all motors used in the facility, 
+adoption of LEF luminaires to conserve energy and installation 
+of high-efficient (96% efficient) UPS to promote energy 
+efficiency.
+Energy Saving and 
+conservation
+4.
+Plastic Reduction
+Developed Nex Gen products that aids in reducing and 
+minimising use of plastic materials (PBT & HDPE) in line with 
+Company’s commitment towards no plastic usage in operations 
+and packaging.
+Reduction in use of PBT 
+54% & HDPE 25% for Cable 
+manufacturing
+5.
+SIGMA AIR MANAGER 
+4.0.-for all compressor 
+and dryer
+The control of the compressed air station is optimised for 
+maximum efficiency. The SIGMA AIR MANAGER 4.0 introduces a 
+new level of adaptive, efficient and networked compressed air 
+management.
+This 
+advanced 
+system 
+coordinates the operation of 
+multiple compressors, dryers 
+and filters with exceptional 
+efficiency, 
+providing 
+unprecedented control and 
+performance.
+7.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web-link.
+	
+The Company is certified for ISO 22301: 2019 for Goa Plant and has established business continuity, disaster recovery plans, & 
+emergency management plans. HFCL has formulated detailed Standard Operating Procedures for effective business continuity 
+management system and disaster management action plan. To ensure these plans are robust and effective, HFCL plans training 
+and awareness sessions periodically. Regular testing also conducted to check their efficiency and further improvement.
+8.	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation 
+or adaptation measures have been taken by the entity in this regard.
+	
+Not available
+9.	
+Percentage of value chain partners (by value of business done with such partners) that were assessed for environmental 
+impacts.
+	
+Nil
+HFCL Limited
+149
+Financial Statements
+Statutory Reports
+BRSR
+Corporate Overview
+Principle 7: Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is responsible 
+and transparent 
+Essential Indicators
+1.	
+(a).	 Number of affiliations with trade and industry chambers/ associations. 
+	
+	
+7
+	
+(b).	 List the top 10 trade and industry chambers/ associations (determined based on the total numbers of such body) the 
+entity is member of/ affiliated to. 
+S. 
+No.
+Name the trade and industry chambers/ associations 
+Reach of trade and 
+industry chambers/ 
+associations (State/ 
+National) 
+1.
+O-RAN Alliance 
+International
+2.
+The Associated Chambers of Commerce and Industry of India (ASSOCHAM)
+National
+3.
+Federation of Indian Chamber of Commerce and Industry (FICCI)
+National
+4.
+Confederation of Indian Industry (CII)
+National
+5.
+Telecom Equipment Manufacturers Association of India
+National
+6.
+Telecom Equipment and Services Export Promotion Council
+National
+7.
+Goa Chamber of Commerce & Industry and Verna Industrial Association
+State
+2.	
+Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the entity, 
+based on adverse orders from regulatory authorities.
+Name of authority 
+Brief of the Case 
+Corrective action taken 
+Not Applicable
+Leadership Indicators
+1.	
+Details of public policy positions advocated by the entity: 
+S. 
+No.
+Public policy 
+advocated 
+Method resorted for 
+such advocacy
+Whether information 
+available in public 
+domain (Yes/No) 
+Frequency of Review 
+by Board 
+Web Link, if available 
+The Company through industry associations and forums drives a positive change in the policy advocacy for the betterment of the 
+sector and for the societal benefit. One such instance is, HFCL’s association with O-RAN alliance, a global community of mobile 
+network operators, vendors and research and academic institutions in the radio access network industry working together to 
+build much more intelligent, open, virtualised and fully interoperable mobile networks. HFCL aims to integrate and validate its 
+5G products and solutions with other members and contributors to the O-RAN alliance.
+Principle 8: Businesses should promote inclusive growth and equitable development 
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) projects undertaken by the entity based on applicable laws, in the current 
+financial year 2022- 23: 
+Name and brief 
+detail of project 
+SIA Notification 
+No. 
+Date of 
+notification 
+Whether 
+conducted by 
+independent 
+external agency 
+(Yes/ No)
+Results 
+communicated 
+in public domain 
+(Yes/No) 
+Relevant web-link 
+Not Applicable
+Annual Report 2022-23
+HFCL Limited
+150
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your 
+entity, in the following format:
+S. 
+No.
+Name of the 
+project for which 
+R&R is ongoing 
+State 
+District 
+No. of project 
+affected families 
+(PAFs) 
+% of PAFs  
+covered  
+by R&R
+Amounts paid to 
+PAFs in the FY  
+(in K) 
+Not Applicable 
+3.	
+Describe the mechanisms to receive and redress grievances of the community. 
+	
+As per the Memorandum of Understanding (MoU), the responsibility of addressing community concerns falls upon our CSR Project 
+partners. They manage these matters in accordance with their own specific guidelines, ensuring that grievances are promptly 
+addressed. To facilitate this process, we have designated Social Protection Officers and Project Coordinators for each project. Their 
+role is to ensure smooth project operations and align them with the expected outcomes outlined in the MoU.
+	
+We also actively engage with the local community leaders and directly communicate with the community to receive their grievances, 
+complaints and suggestions. We understand the importance of hearing directly from the serving community. As soon as we receive 
+such feedback, we promptly address these concerns and forward them to the Project partners for swift action and resolution.
+	
+Post grievance resolution, the Project partner informs us in a comprehensive manner about the specific mode of redressal and the 
+corrective measures taken to prevent similar service delivery lapses in the future. 
+4.	
+Percentage of input material (input to total inputs by value) sourced from suppliers: 
+Current Financial 
+Year 2022- 23
+Previous Financial 
+Year 2021- 22
+Directly sourced from MSMEs/ Small producers 
+27.97% 
+25.78% 
+Sourced directly from within the district and neighboring districts 
+3.60% 
+4.52% 
+Leadership Indicators
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments 
+(Reference Qs. 1 of Essential Indicators, above). 
+Details of negative social impact identified 
+Corrective action taken 
+Not Applicable
+2.	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as 
+identified by government bodies:
+S. 
+No.
+State 
+Aspirational District 
+Amount Spent (in K) 
+We do not currently have any projects running in Aspirational Districts.
+3.	
+(a)	
+Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising 
+marginalised/ vulnerable groups? (Yes/No)
+	
+	
+No
+	
+(b)	
+From which marginalised/ vulnerable groups do you procure?
+	
+	
+NIL
+	
+(c)	
+What percentage of total procurement (by value) does it constitute?
+	
+	
+NIL
+HFCL Limited
+151
+Financial Statements
+Statutory Reports
+BRSR
+Corporate Overview
+4.	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the 
+current financial year 2022- 23), based on traditional knowledge:
+S. 
+No.
+Intellectual Property  
+based on traditional 
+knowledge 
+Owned/ Acquired  
+(Yes/No) 
+Benefit Shared  
+(Yes/ No)
+Basis of calculating benefit 
+share 
+Not Applicable
+5.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes 
+wherein usage of traditional knowledge is involved.
+Name of authority 
+Brief of the Case 
+Corrective action taken 
+Not Applicable
+6.	
+Details of beneficiaries of CSR Projects:
+S. 
+No.
+CSR Project
+No. of persons 
+benefited from 
+CSR Projects
+% Beneficiaries 
+from vulnerable 
+& marginalised 
+groups
+1
+Mobile Medical Unit (MMU) Project: 
+HFCL under its CSR initiatives, driven by a passion for better health outcomes 
+for all, has partnered with HelpAge India and Wockhardt Foundation to conduct 
+groundbreaking preventive healthcare initiatives across five states in India. With 
+HelpAge India leading the charge in Himachal Pradesh (Solan), Goa and Rajasthan 
+(Sardarsahar) and Wockhardt Foundation taking the reins in Uttar Pradesh 
+(Ghazipur), Telangana (Hyderabad) and these initiatives have reached the farthest 
+corners of the rural areas and benefiting thousands of underprivileged households. 
+With a clear focus on providing preventive healthcare at the doorstep, HFCL’s 
+Mobile Medicare Unit Projects have been a game-changer, five mobile medical 
+units (MMUs) are currently operational, delivering preventive healthcare facilities 
+to over 500 beneficiaries every working day and the numbers are staggering – the 
+MMUs has already provided more than 8,00,000 treatments till date and the count 
+is still on. Each MMU is staffed by a team of healthcare professionals comprising 
+an MBBS doctor, a lab technician and a pharmacist. The MMUs is equipped to offer 
+diagnostics, medicines, pathological tests, cardiographs and more, all available 
+to beneficiaries free of cost. The CSR Partners manage day-to-day operations and 
+mobilise greater participation from targeted communities through MSW qualified 
+Social Protection Officer (SPO).
+143,662
+100%
+2
+St. Stephen's Hospital Patients Welfare Society: Advanced Healthcare Services: 
+HFCL has partnered with St. Stephen's Hospital Patients Welfare Society to 
+offer advanced medical relief for corrective surgeries under the guidance of the 
+renowned polio warrior Dr. Mathew Varghese. 
+51
+100%
+3
+All India Heart Foundation: 
+For years, the National Heart Institute had been a beacon of excellence in cardiac 
+care, providing cutting-edge treatments to patients from all over the country. 
+However, despite their best efforts, there were still who could not afford the 
+medical expenses associated with heart surgeries and treatments. This is where 
+HFCL came into the picture. With a mission to make quality healthcare accessible to 
+all, HFCL had endured that the financial barriers were no longer a hurdle for those 
+who needed heart surgeries but were unable to afford them. And with this new 
+partnership, a new era of hope had dawned, where patients from all social classes 
+could receive the best possible treatment and care. The core of this partnership was 
+a common vision - a vision to make a positive impact on people's lives and provide 
+hope for those who were unable to afford it.
+9
+100%
+Annual Report 2022-23
+HFCL Limited
+152
+S. 
+No.
+CSR Project
+No. of persons 
+benefited from 
+CSR Projects
+% Beneficiaries 
+from vulnerable 
+& marginalised 
+groups
+3
+Hari Prem Society (Computer Skilling): 
+In a world where digital literacy is becoming a necessity, HFCL and Hari Prem Society 
+are collaborating to provide computer skill training to underprivileged youth in 
+Ghazipur, Uttar Pradesh. This impactful initiative is opening doors to brighter career 
+prospects for these young learners in the digital age. The program designed to equip 
+these youth with the latest computer skills and knowledge, empowering them to 
+become job-ready and competitive in today's rapidly evolving job market. Through 
+this powerful partnership, HFCL is transforming lives and creating opportunities for 
+these deserving youth. With the tools they need to succeed, these students can 
+now confidently take on new challenges and pursue their dreams with passion and 
+determination. 
+645
+100%
+4
+Samarpan:
+In a world where we take education and proper nutrition for granted, it is unfortunate 
+that still many struggles to obtain these necessities. However, HFCL and Samarpan 
+Foundation joined hands to address this issue by extending a helping hand to the 
+street children of Delhi. Our CSR initiative aimed at providing these children with 
+a solid foundation through basic education and nutritious meals. The program 
+specifically targets those who are homeless or the children of casual migrant 
+workers living on the streets or in unauthorised areas. Its goal is to bridge the gap 
+between their current situation and the mainstream education system. Not only 
+do we provide these young ones with the opportunity to gain experience, but we 
+also ensure they receive nourishing food to fuel their growth and development. 
+Furthermore, the program guarantees enrolment in regular schools, which paves 
+the way for a brighter future.
+123
+100%
+5
+Balvantray Mehta Vidya Bhawan ASMA: 
+Amidst a world that often overlooks the needs of the differently abled, HFCL 
+has taken a bold and initiative-taking stance. We have pledged to support the 
+educational needs of DIVYANG children from marginalised communities through 
+our transformative CSR initiative, 'SAMARTH.' By adopting students and providing 
+them with all their academic expenses at Balwantray Mehta Vidya Bhawan School in 
+Greater Kailash – II, New Delhi, we are making an immense impact on their lives. For 
+these exceptional children, this school is more than just an institution of learning. 
+It has become a haven, a sanctuary that provides the support and resources they 
+need to thrive and succeed. As part of our unwavering commitment to this cause, 
+we have also generously provided a grant for transportation, a Smart Class System, 
+and renovation of the Printing Press at the school.
+Our goal is to create a society that is inclusive and equitable, where every child has 
+access to the education and resources they need to grow and succeed. Through our 
+SAMARTH initiative, we hope to empower these children with the tools and skills 
+they need to reach their full potential and achieve their wildest dreams. 
+46
+100%
+6
+Care and Compassion Welfare Organisation: 
+The partnership between HFCL and Care and Compassion Welfare Organisation 
+in the field of animal welfare aims to demonstrate care and compassion towards 
+voiceless animals. This collaborative project focuses on implementing population 
+control measures for stray dogs through organised sterilisation drives for spaying 
+and castration, administering rabies vaccinations to stray dogs, promptly attending 
+to injured animals, facilitating medical treatment for terminally ill animals and those 
+abandoned on the streets. 
+2,000
+-
+HFCL Limited
+153
+Financial Statements
+Statutory Reports
+BRSR
+Corporate Overview
+Principle 9: Business should engage with and provide value to their consumers in a responsible manner
+Essential Indicators
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+HFCL has a structured customer complaint handling system, where customers can provide their complaint / feedback by sending 
+an email to their respective account manager or to the complaint management representative of the plant. The Complaints are 
+resolved as per defined timelines based on the nature of the complaint.
+2.	
+Turnover of products and/services as a percentage of turnover from all products/services that carry information about:
+As percentage to 
+total turnover
+Environmental and social parameters relevant to the product
+100%
+Safe and responsible usage
+100%
+Recycling and/or safe disposal
+100%
+3.	
+Number of consumer complaints in respect of the following:
+Current Financial Year 2022- 23
+Previous Financial Year 2021- 22
+Received
+Pending at 
+end of year
+Remark 
+Received
+Pending at 
+end of year
+Remark 
+Data Privacy
+NA
+NA
+NA
+NA
+NA
+NA
+Advertising
+NA
+NA
+NA
+NA
+NA
+NA
+Cyber-security
+NA
+NA
+NA
+NA
+NA
+NA
+Delivery of essential services
+NA
+NA
+NA
+NA
+NA
+NA
+Restrictive Trade Practices
+NA
+NA
+NA
+NA
+NA
+NA
+Customer Complaints
+1
+0
+NA
+2
+0
+NA
+4.	
+Details of instances of product recalls on account of safety issues:
+Number Reasons for recall
+Voluntary Recalls
+0
+Forced Recalls
+0 Not Applicable 
+5.	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No).
+	
+If available, provide a web-link of the policy.
+	
+Yes, Policy is placed on website of the Company at https://www.hfcl.com/privacy-policy.
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising and delivery of essential 
+services, cyber security and data privacy of customers; re-occurrence of instances of product recalls, penalty/ action 
+taken by regulatory authorities on safety of products/ services.
+	
+Not Applicable
+Annual Report 2022-23
+HFCL Limited
+154
+Leadership Indicators
+1.	
+Channels/ platforms where information on products and services of the entity can be accessed (provide web link, if 
+possible)
+	
+Website, social media, Product manuals, datasheets, brochures, Customer Service Portal, Call Centre
+	
+1.	
+https://hfcl.com/
+	
+2.	
+https://www.linkedin.com/company/hfcl-limited/
+	
+3.	
+https://instagram.com/hfcllimited?igshid=NjIwNzIyMDk2Mg==
+	
+4.	
+https://io.hfcl.com/
+	
+5.	
+https://www.linkedin.com/company/iobyhfcl/
+	
+6.	
+https://twitter.com/iobyhfcl?lang=en
+	
+7.	
+https://www.instagram.com/iobyhfcl/?hl=en
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/ or services.
+	
+We have created user manuals or guides that are easy to understand, written in plain language and include step-by-step instructions 
+for safe and responsible usage. We also offer customer support channels where consumers can ask questions about product usage 
+or report any issues. Additionally, we also provide product training sessions, especially for complex products or services.
+3.	
+Mechanism in place to inform consumers of any risk of disruption/ discontinuation of essential services.
+	
+We use social media platforms and public relations channels to disseminate information about any potential disruptions or 
+discontinuations. In addition, channels like emails, phone and WhatsApp also used to respond to customer inquiries and concerns 
+promptly as well.
+4.	
+(a)	
+Does the entity display product information on the product over and above what mandated as per the local laws? 
+(Yes/ No/ Not Applicable).
+	
+	
+If “Yes,” provide details in brief.
+	
+	
+Yes, the product datasheet are shared along with quotation and cables are manufactured based on approved datasheet.
+	
+(b)	
+Did your entity carry any survey about customer satisfaction relating to the major products/ services of the entity, 
+significant locations of operation of the entity or the entity as a whole? (Yes/ No).
+	
+	
+A biannual survey of customer satisfaction carried.
+5.	
+Provide the following information relating to data breaches:
+	
+(a).	 Number of instances of data breaches along-with impact:
+	
+	
+Nil
+	
+(b).	 Percentage of data breaches involving personally identifiable information of customers.
+	
+	
+Not Applicable
+HFCL Limited
+155
+Financial Statements
+Statutory Reports
+BRSR
+Corporate Overview

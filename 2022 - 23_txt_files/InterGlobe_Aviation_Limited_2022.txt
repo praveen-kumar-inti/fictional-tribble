@@ -1,0 +1,3747 @@
+InterGlobe Aviation Limited 
+Registered Office: Upper Ground Floor, Thapar House, Gate No. 2, Western Wing, 124 Janpath, New Delhi – 110 001, India. M +91 9650098905,  
+ F + 91 11 43513200 Email: corporate@goindigo.in  
+Corporate Office: Level1, Tower C, Global Business Park, M G Road, Gurgaon - 122 002, Haryana, India. T +91 124 435 2500. F + 91 124 406 8536  
+CIN no.: L62100DL2004PLC129768 
+ 
+ 
+ 
+ 
+ 
+                                                                              
+ 
+ 
+August 28, 2023                                                                                       IGAL/SECT/08-23/19 
+ 
+ 
+To                                                                                    To 
+National Stock Exchange of India Limited                       Department of Corporate Services 
+Exchange Plaza, C - 1, Block G                                      BSE Limited 
+Bandra Kurla Complex                                                    Phiroze Jeejeebhoy Towers 
+Bandra - (E)                                                                     Dalal Street 
+Mumbai - 400 051                                                            Mumbai - 400 001 
+ 
+Symbol: INDIGO                                                              Scrip Code: 539448 
+ 
+ 
+Sub:Business Responsibility and Sustainability Report for the Financial Year 2022-2023 
+ 
+Dear Sir / Madam, 
+ 
+In compliance with Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015, please find attached herewith the 
+BRSR forming part of the Annual Report of the Company for the financial year 2022-23. 
+ 
+The Net Worth of the Company for the financial year 2022-23 is (-) Rs.63,031 million. However, 
+BRSRXBRL Utility File does not allow filling in negative value for net worth under General 
+Disclosures Tab-> CSR Details –> Net worth and punching in 0 value, would be a wrong 
+representation. We have therefore, filled in the net worth in the said field as Rs.63,031 in BRSR 
+XBRL Utility File. However, it is a negative number and is accordingly represented in the BRSR 
+PDF file being uploaded. 
+ 
+This is for your information and record. 
+ 
+Thanking you, 
+ 
+Yours faithfully, 
+For InterGlobe Aviation Limited 
+ 
+ 
+ 
+ 
+ 
+Sanjay Gupta 
+Company Secretary and Chief Compliance Officer 
+Membership No: FCS 7729 
+SANJAY 
+GUPTA
+Digitally signed by 
+SANJAY GUPTA 
+Date: 2023.08.28 
+16:20:07 +05'30'
+Business Responsibility 
+and Sustainability  
+Report (BRSR) FY 2023
+The top 1000 listed entities in India, 
+based on market capitalization, are 
+required 
+to 
+include 
+the 
+Business 
+Responsibility & Sustainability Report 
+(BRSR) in their annual reports. The BRSR 
+draws on the nine principles covered 
+under the National Guidelines on 
+Responsible Business Conduct (NGRBC) 
+and Business Responsibility Report 
+(BRR) by the Ministry of Corporate Affairs 
+(MCA). "A single comprehensive source of 
+non-financial sustainability information 
+relevant to all business stakeholders—
+investors, shareholders, regulators, and 
+the general public," is how the MCA 
+characterizes the BRSR.
+As part of the top 1000 listed companies 
+in India, this requirement is applicable 
+to InterGlobe Aviation Limited, hereafter 
+referred to as “We”, “IndiGo” or “the 
+Company” from FY 2023. In full compliance 
+with the Securities and Exchange Board of 
+India (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 (SEBI 
+LODR Regulations), IndiGo has developed 
+its second BRSR for FY 2023. The Company 
+voluntarily published its first BRSR last year 
+(for FY 2022). With the BRSR, we take the 
+opportunity to apprise our stakeholders, 
+of the Company's responsible business 
+initiatives, along with the Company's 
+approach to building long-term value. 
+We are aware that IndiGo’s responsible 
+business conduct extends beyond reporting 
+and must be supported by the Company 
+taking the necessary steps to ensure 
+sustainability in the right spirit and continue 
+to take measures actively in this direction.  
+About the report
+Disclosures 
+under BRSR
+Section A: General 
+disclosures 
+(about the entity)
+Section B: Management and 
+process disclosures
+(about the Management 
+approach) 
+Section C: Principle-wise 
+performance disclosures
+(about each principle)
+Essential Indicators
+Leadership Indicators 
+89
+  Corporate Overview    Statutory Reports    Financial Statements
+Executive Summary
+InterGlobe Aviation Limited is a leading air transportation company in India. As of March 2023, we had 304 
+aircraft in our fleet. With a presence in 78 domestic and 261 international cities, we served around 86 million 
+passengers in FY 2023.
+Our network not only serves needs of people living in metros, but also serves the needs of people living in remote 
+parts of the country. We take pride in being a part of the Government of India’s “UDAN” scheme which is focused 
+on providing flying opportunities to common people of the country. These efforts also help in generation of direct 
+and indirect employment in Tier 2 and Tier 3 cities in India. Our ambition is well formulated in our purpose of 
+‘Giving wings to the nation, by connecting people and aspirations’.
+Aviation industry contributes slightly over 2% of overall global CO2 emissions. As an airline, we are aware of our 
+environment related responsibilities and are taking steps to mitigate climate related risks. Since 2011, we have 
+made our aircraft investments in latest generation Airbus A320 NEO aircraft which are 15% more fuel efficient, 
+compared to the earlier generation aircraft. With our investments in the new generation aircraft, we have been 
+able to reduce CO2 footprint by around 20% since FY 2016. These aircraft also have a lower noise footprint. In 
+addition, we are making investments in electrification of our ground equipment and usage of renewable energy 
+wherever an opportunity exits.
+We have made efforts in elimination of waste in a responsible manner and have made significant replacements 
+of single use plastic items in our flights with biodegradable and eco-friendly options.  
+Since IndiGo’s inception, we have taken initiatives towards creation of a social and inclusive work culture, where 
+people are valued for their talent, skill and performance. We follow workplace policies which stimulate gender 
+diversity and provide inclusivity to people with disabilities and members of the LGBTQ community. This report 
+also details out our approach to creating social impact and achieving a transparent organization on a foundation 
+of strong governance. We hope that the report will be helpful in furthering the understanding of our ESG approach 
+and initiatives that we undertake with the support of all our stakeholders.
+For any feedback, please do write to us at esg@goindigo.in
+1. 4 international stations are currently non operational
+InterGlobe Aviation Limited
+Annual Report 2022-23
+90
+Key highlights of the principles
+Businesses should conduct and govern 
+themselves with integrity, and in a 
+manner that is ethical, transparent, and 
+accountable.
+Businesses should respect the interests of 
+and be responsive to all its stakeholders. 
+Businesses, when engaging in influencing 
+public and regulatory policy, should do 
+so in a manner that is responsible and 
+transparent.
+Businesses should provide goods and 
+services in a manner that is sustainable 
+and safe.
+Businesses should respect and promote 
+human rights.
+Businesses should promote inclusive 
+growth and equitable development.
+Businesses should respect and promote 
+the well-being of all employees, including 
+those in their value chains.
+Businesses should respect and make 
+efforts to protect and restore the 
+environment.
+Businesses should engage with and 
+provide value to their consumers in a 
+responsible manner. 
+Principle 1
+Principle 1
+Principle 4
+Principle 4
+Principle 7
+Principle 7
+Principle 2
+Principle 2
+Principle 5
+Principle 5
+Principle 8
+Principle 8
+Principle 3
+Principle 3
+Principle 6
+Principle 6
+Principle 9
+Principle 9
+91
+  Corporate Overview    Statutory Reports    Financial Statements
+Section A: General disclosures
+I.	
+Details of the listed entity
+S. No.
+Particulars
+Details
+1.
+Corporate Identity Number (CIN) of the Listed Entity
+L62100DL2004PLC129768
+2.
+Name of the Listed Entity
+InterGlobe Aviation Limited
+3.
+Year of incorporation
+2004
+4.
+Registered office address
+Upper Ground Floor, Thapar House, Gate No. 2, Western
+Wing, 124, Janpath, New Delhi - 110 001
+5.
+Corporate address
+Level 1 – 5, Tower – C, Global Business Park, MG Road,
+Gurugram – 122002
+6.
+Email
+esg@goindigo.in
+7.
+Telephone
+0124-4352500
+8.
+Website
+www.goindigo.in
+9.
+Financial year reported
+April 01, 2022 – March 31, 2023
+10.
+Name of the Stock Exchange(s) where shares are listed
+1)	 BSE Ltd. (BSE)
+2)	 National Stock Exchange of India Ltd. (NSE)
+11.
+Paid-up capital
+Rs. 3,855.47 million
+12.
+Name and contact details (telephone, e-mail address) 
+of the person who may be contacted in case of any 
+queries on the BRSR report
+Kailash Rana, 0124-4352500
+esg@goindigo.in
+13.
+Reporting boundary - Are the disclosures under this 
+report made on a standalone basis (i.e., only for the 
+entity) or on a consolidated basis (i.e., for the entity 
+and all the entities which form a part of its consolidated 
+financial statements, taken together).
+Standalone basis
+Location
+Number of plants
+Number of offices
+Total
+National
+Nil
+78
+78
+International
+Nil
+22
+22*
+S. No.
+Description of Main Activity
+Description of Business Activity
+ Percentage of Turnover of the entity
+1
+Passenger services - Air transport
+Scheduled and charter air services, for 
+both passengers and cargo
+94.14%
+S. No.
+Product/Service
+NIC Code
+Percentage of total Turnover contributed
+1
+Scheduled and charter air services, for both passengers 
+and cargo
+51101
+94.14%
+II.	 Products/services
+	
+14.	Details of business activities (accounting for 90% of the turnover):
+	
+15.	Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+III.	 Operations
+	
+16.	Number of locations where plants and/or operations/offices of the entity are situated:
+	
+	
+*There are 4 International destinations which are yet not re-operational (post covid), the same are not appearing in the international locations 
+stated above.
+InterGlobe Aviation Limited
+Annual Report 2022-23
+92
+Sr. 
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+Employees
+1
+Permanent (D)
+32,407
+17,938
+55.4%
+14,469
+44.6%
+2
+Other than Permanent (E)
+638
+506
+79.3%
+132
+20.7%
+3
+Total employees (D + E)
+33,045
+18,444
+55.8%
+14,601
+44.2%
+Workers
+4
+Permanent (F)
+No workers on payroll of the Company
+5
+Other than Permanent (G)
+6
+Total workers (F + G)
+Sr. 
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+Differently abled Employees
+1
+Permanent (D)
+ 84
+ 68
+ 81%
+ 16
+ 19%
+2
+Other than Permanent (E)
+ 1
+ 1
+ 100%
+ 0%
+ 0%
+3
+Total employees (D + E)
+ 85
+ 69
+ 81%
+ 16
+ 19%
+Differently abled Workers
+4
+Permanent (F)
+No workers on the payroll of the Company.
+5
+Other than Permanent (G)
+6
+Total workers (F + G)
+Particulars
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+8
+1
+12.5%
+Key Management Personnel
+3
+0
+0%
+Location
+Number
+National (No. of States and UTs)
+31
+International (No. of Countries)
+15
+	
+17.	Markets served by the entity:
+	
+	
+a.	
+Number of locations
+	
+	
+b.	
+What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+	
+	
+Response:  While IndiGo has both domestic and international operations, it reports results of its operation on an overall basis. 
+	
+	
+c.	
+A brief on types of customers
+	
+	
+	
+Response: Retail and others (Leisure, Visiting friends and relatives), Corporate and SME
+IV.	 Employees
+	
+18.	Details as at the end of Financial Year:
+	
+	
+a.	
+Employees and workers (including differently abled): (Data as on 31.03.2023)
+	
+	
+b.	
+Differently abled Employees and workers: 
+	
+19.	Participation/ Inclusion/ Representation of women:
+	
+20.	Turnover rate for permanent employees and workers:
+Particulars
+FY 2023 (Turnover rate in 
+current FY)
+FY 2022 (Turnover rate in 
+previous FY)
+FY 2021 (Turnover rate in the 
+year prior to the previous FY)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+23.9%
+29.9%
+26.5%
+16.1%
+17.8%
+16.8%
+18.2%
+30.2%
+23.0%
+	
+	
+Note: Numbers for FY 2022 and FY 2021 have been revised as per formula in the BRSR guidelines. The change is due to the 
+average number of employees considered ((Persons employed in the category at the beginning of FY + Persons employed in the 
+category at the end of FY) / 2).
+93
+  Corporate Overview    Statutory Reports    Financial Statements
+V.	 Holding, Subsidiary and Associate Companies (including joint ventures)
+	
+21.	Names of holding/ subsidiary/ associate companies/ joint ventures
+S. 
+No.
+Name of the holding/ 
+subsidiary/ associate 
+companies/ joint ventures (A)
+Indicate whether 
+holding/ Subsidiary/ 
+Associate/ Joint 
+Venture
+Percentage of 
+shares held by 
+listed entity
+Does the entity indicated at column 
+A, participate in the Business 
+Responsibility initiatives of the listed 
+entity? (Yes/No)
+1
+Agile Airport Services
+Private Limited (“Agile”)
+Subsidiary
+100%
+Yes. Agile, IndiGo’s sole wholly 
+owned subsidiary, participates in 
+the Business Responsibility efforts 
+in order to incorporate its processes 
+and also contributes to the Company’s 
+sustainability initiatives.
+VI. CSR Details
+	
+22. (i)	 Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No) Yes  
+	
+      (ii)	Turnover : Rs. 544,465 million
+	
+      (iii)	Net worth : Rs. (63,031) million
+VII. Transparency and Disclosures Compliances
+	
+23.	Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+	
+	
+Note: The customer complaint number for FY21-22 is restated
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance Redressal 
+Mechanism in Place 
+(Yes/ No) (If yes, then 
+provide web link for 
+grievance redress 
+policy)
+FY 2023
+FY 2022
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+Complaint 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Investors
+(Other than
+shareholders) 
+Shareholders
+NA 
+NA
+NA
+NA
+NA
+NA
+NA
+Shareholders
+Yes, Shareholders 
+can register their 
+complaints/grievances 
+at SEBI portal i.e., 
+https://scores.gov.in/
+scores/
+complaintRegister.html
+or with the Company  
+by writing to the 
+following email id 
+investors@goindigo.in
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+InterGlobe Aviation Limited
+Annual Report 2022-23
+94
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance Redressal 
+Mechanism in Place 
+(Yes/ No) (If yes, then 
+provide web link for 
+grievance redress 
+policy)
+FY 2023
+FY 2022
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+Complaint 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Employees
+and workers
+Yes, redressal can be 
+accessed at IndiGo 
+website at https://
+www.goindigo.in/
+content/dam/goindigo/
+investor-relations/
+policies/IGAL-
+WhistleBlower-Policy-
+clean-11-17-22.pdf
+37
+4
+Pending 
+resolution 
+under 
+investigation 
+as on March 
+31, 2023, did 
+not exceed 
+timeline 
+as per the 
+Protection 
+of Women 
+from Sexual 
+Harassment 
+Act 2013.
+NA
+NA
+NA
+Customers
+Yes, Grievance 
+Redressal
+Mechanism is in place.
+The Process note is 
+mentioned on our 
+website and below is 
+the link which can be 
+accessed after logging 
+in to the website: 
+https://www.goindigo.
+in/information/
+conditions-of-carriage.
+html?linkNav= 
+conditionsof-carriage_
+footer
+639
+Nil
+259
+Nil
+The details 
+of customer 
+grievances 
+also 
+shared 
+with 
+Directorate 
+General 
+of Civil 
+Aviation
+Value Chain
+Partners
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Others 
+(Please 
+specify)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Note: The customer complaint number for FY 21-22 is restated.
+95
+  Corporate Overview    Statutory Reports    Financial Statements
+	
+24.	Overview of the entity’s material responsible business conduct issues:
+	
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters 
+that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or mitigate the risk 
+along-with its financial implications, as per the following format: 
+S. 
+No.
+Material issue 
+identified
+Indicate
+whether risk
+or opportunity (R/O)
+Rationale for identifying 
+the risk /
+Opportunity
+In case of risk, approach to 
+adapt or Mitigate
+Financial implications of 
+the risk or opportunity
+(Indicate positive or
+Negative implications)
+1
+Climate change
+Risk
+Climate is an 
+important part of 
+our environmental 
+responsibility. We are 
+committed to reduce our 
+carbon footprint. Some 
+of the key climate risks 
+that we foresee are:
+•	 Policy and legal 
+risk from emerging 
+regulatory changes 
+e.g., CORSIA 
+•	 Increased fuel cost 
+e.g., SAF
+•	 Reduced 
+demand due to 
+stigmatization of 
+sector
+•	 We are closely 
+monitoring 
+the regulatory 
+developments, so that 
+we can better respond 
+to the requirements. 
+Our investments in 
+fuel efficient aircraft 
+will help us to reduce 
+our carbon offset 
+requirements under 
+CORSIA
+•	 Sustainable aviation 
+fuel is one of the 
+proposed solutions 
+towards mitigating 
+CO2 emissions, we are 
+working with regulators 
+and oil marketing 
+companies to identify 
+cost effective solutions
+•	 Communication with 
+customers on IndiGo’s 
+low carbon footprint 
+shall help IndiGo to 
+position itself as a 
+greener airline option 
+compared to other 
+airlines
+•	 Policy action in 
+recent years point 
+towards a stricter 
+regime, e.g., CORSIA 
+requirements require 
+airline companies to 
+offset carbon emissions 
+from international 
+operations, resulting 
+in higher cost of 
+operations
+•	 The cost of Sustainable 
+Aviation Fuel is 
+disproportionately 
+higher than the cost 
+of normal jet fuel. This 
+may result in a higher 
+cost of operations, in 
+the coming years
+•	 Increased focus on 
+climate related risks 
+globally may create a 
+sector perception risk 
+in the long term. Few 
+business customers 
+may potentially 
+adopt to substitution 
+methodologies, which 
+may have a bearing on 
+demand for air traffic
+2
+Fuel and energy 
+conservation
+Opportunity
+Fuel and energy 
+conservation is critical 
+to reduce our carbon 
+footprint and to reduce 
+our cost of operations. 
+Our strategies to 
+achieve these objectives 
+are:
+•	 Fleet strategy
+•	 Flight Operations 
+•	 Ground operations 
+•	 Sustainable office 
+spaces
+•	 IndiGo’s fleet strategy 
+has three key features-
+i.	 Investments in fuel 
+efficient aircraft, A320 
+NEO aircraft are 15% 
+fuel efficient compared 
+to old generation 
+aircraft
+ii.	 Young fleet- IndiGo 
+maintains a young 
+aircraft fleet, currently 
+the average fleet age 
+is 3.5 years
+•	 Light weight aircraft 
+•	 Our flight operations 
+Standard operating 
+procedures “SOP’s” are 
+designed to optimize 
+fuel cost
+•	 Usage of Ground 
+Power Units and Air 
+Conditioning Units 
+instead of Auxiliary 
+power units 
+•	 Deploy alternative 
+energy sources 
+wherever possible
+•	 Utilize energy efficient 
+practices in all 
+corporate offices and 
+airport
+•	 Fuel cost comprises 
+40-50% of the total 
+airline cost and 15% 
+improvement in fuel 
+consumption results in 
+significant cost savings
+•	 Younger aircraft are 
+relatively fuel efficient, 
+and result in lower cost
+•	 Low aircraft weight 
+results in lower fuel 
+burn, thereby resulting 
+in lower cost
+•	 Usage of Ground power 
+unit and ACUs help in 
+reducing the cost of 
+operations and have a 
+better carbon footprint
+InterGlobe Aviation Limited
+Annual Report 2022-23
+96
+S. 
+No.
+Material issue 
+identified
+Indicate
+whether risk
+or opportunity (R/O)
+Rationale for identifying 
+the risk /
+Opportunity
+In case of risk, approach to 
+adapt or Mitigate
+Financial implications of 
+the risk or opportunity
+(Indicate positive or
+Negative implications)
+3
+Waste 
+management
+Opportunity and risk
+Waste from different 
+parts of operations 
+may result in pollution 
+and contamination of 
+earth, water and air. We 
+are focused on proper 
+waste management and 
+elimination of single use 
+plastic.
+•	 Well defined waste 
+management processes 
+•	 Appropriate disposal 
+of waste (discarded 
+cabin seats, waste oil 
+and oil filters etc.) as 
+per regulatory norms to 
+authorized vendors
+•	 E-waste managed by 
+ISO certified vendors
+•	 Damaged or worn-out 
+plastic, rubber, or metal 
+parts are replaced 
+regularly
+•	 Substitution of Single 
+use plastics products 
+with biodegradable 
+and recyclable options
+•	 Recycling opportunities 
+help in cost savings
+•	 Reduction of Single 
+use plastics results in 
+improved environmental 
+footprint, creates right 
+customer perception 
+and prevents any cost 
+in form of fines and 
+penalties
+4
+Aircraft noise
+Risk
+Aircraft noise is a source 
+of community annoyance 
+and health concern. 
+We have mitigated risk 
+related to aircraft noise 
+by making investments 
+in the latest generation 
+aircraft.    
+•	 Fleet upgradation to 
+meet International 
+Civil Aviation noise 
+certification standards. 
+Airbus and ATR fleets 
+are compliant with 
+Chapter 14 of ICAO 
+Annex 16
+•	 Freighter aircraft 
+compliant with Chapter 
+4 of ICAO
+•	 Reduced flap and thrust 
+take-offs.
+•	 Reduced flap Landing
+•	 Use of specific 
+departure and arrival 
+procedure which avoids 
+populated area
+•	 Aircraft noise if not 
+maintained under the 
+permissible limits, 
+carries risk of fines in 
+the medium to long 
+term
+5
+Diversity and 
+inclusion
+Opportunity
+Creation of a diverse 
+and inclusive work 
+environment is pivotal to 
+creating a sustainable 
+business. The work 
+environment should be 
+free from discrimination 
+and sensitive to the 
+needs of different 
+sections of workforce. 
+Some of our diversity 
+priorities are appearing 
+below:
+•	 Prioritization of 
+gender diversity 
+•	 Discrimination free 
+environment.
+•	 Inclusive work 
+practices
+•	 Inclusion of LGBTQ 
+community
+•	 Inclusion of 
+differently abled 
+employees
+•	 IndiGo has a healthy 
+gender ratio
+•	 IndiGo has initiated 
+recruitment drives to 
+employ women who 
+had taken a career 
+break
+•	 Encourage women’s 
+advancement in the 
+workplace by providing 
+flexible work options
+•	 Promote an equal 
+opportunity 
+environment, where 
+everyone can display 
+their talents regardless 
+of gender, age, 
+nationality, race, 
+ethnicity, religion, 
+social status, disability, 
+sexual orientation or 
+gender identity
+•	 Provide employment 
+opportunities to 
+candidates with 
+physical disabilities 
+•	 LGBTQ inclusive culture
+Diverse workplace leads to 
+•	 Talent retention 
+•	 Improved customer 
+orientation 
+•	 Employee satisfaction
+•	  Leading to a virtuous 
+cycle of increasing 
+returns
+97
+  Corporate Overview    Statutory Reports    Financial Statements
+S. 
+No.
+Material issue 
+identified
+Indicate
+whether risk
+or opportunity (R/O)
+Rationale for identifying 
+the risk /
+Opportunity
+In case of risk, approach to 
+adapt or Mitigate
+Financial implications of 
+the risk or opportunity
+(Indicate positive or
+Negative implications)
+6
+Workplace 
+health and 
+safety
+Opportunity and risk
+Customer and Employee 
+safety is a primary 
+responsibility for IndiGo. 
+Good health and safety 
+practices are important 
+to ensure a safe and 
+productive workplace.
+•	 Strong Safety 
+Management System 
+with a goal of minimize 
+workplace incidents
+•	 Continuous 
+development of 
+Ergonomic approaches 
+to improve working 
+conditions
+•	 Engaging employees 
+in various physical 
+activities like Yoga, 
+Zumba, etc.
+•	 Providing all 6E 
+employees counselling 
+on stress, health, 
+alcohol and medication
+•	 Safe workplace results 
+in lower downtime 
+related cost and 
+lower injury related 
+compensation
+•	 Health and safety 
+measures result in 
+higher employee 
+productivity
+7
+Attracting and 
+retaining talent
+Opportunity
+Employees are the heart 
+of our organization, right 
+hiring and retention 
+practices are critical 
+to our success. Few 
+key reasons to attract 
+and retain talent are 
+appearing below:
+•	 Skilled workforce
+•	 Improved 
+productivity
+•	 Culture building
+•	 Lower hiring cost
+•	 Well defined hiring 
+processes and well 
+managed hiring 
+organization
+•	 IndiGo cadet pilot 
+program and state 
+of the art learning 
+academy- ifly to train 
+crew and non-crew 
+•	 Competitive 
+compensation and 
+benefits to attract 
+suitable candidates 
+•	 Campus recruitment 
+from premier 
+institutions
+•	 Promoting internal job 
+transfers
+•	 Travel benefits
+•	 Lack of good framework 
+to attract and retain 
+talent may result in 
+•	 Manpower shortages, 
+work disruptions 
+and poor quality of 
+execution. This can 
+impact our revenues, 
+profitability, and 
+reputation
+•	 High retention rate 
+results in lower hiring 
+cost
+8
+Employee 
+experience
+Opportunity
+Employee experience 
+is critical to the success 
+of our business and 
+engagement is critical 
+to employee morale 
+and the culture of the 
+Company.
+•	 Engage with 
+employees through 
+open communication at 
+various levels
+•	 Talent development 
+through trainings, 
+mentoring and job 
+content
+•	 Employee Surveys 
+to get feedback. For 
+example, 6E speaks 
+is our periodic 
+survey that provides 
+employee pulse to the 
+Management
+•	 Employee Net Promoter 
+Score (ENPS) to 
+measure employee 
+experience
+•	 Reward and 
+Recognition programs 
+to recognize 
+performance
+•	 Good employee 
+experience and 
+behaviour leads 
+to better customer 
+service and low cost of 
+operations
+InterGlobe Aviation Limited
+Annual Report 2022-23
+98
+S. 
+No.
+Material issue 
+identified
+Indicate
+whether risk
+or opportunity (R/O)
+Rationale for identifying 
+the risk /
+Opportunity
+In case of risk, approach to 
+adapt or Mitigate
+Financial implications of 
+the risk or opportunity
+(Indicate positive or
+Negative implications)
+9
+Customer 
+experience
+Opportunity
+Customer experience 
+defines brand 
+perception and leads 
+to improved customer 
+engagement and 
+loyalty.
+•	 Maintain strong 
+operational 
+performance through 
+industry leading On 
+time performance, Low 
+rates of cancellations 
+and low rate of 
+mishandled bags
+•	 Ease of use while 
+interacting with us 
+through our website, 
+mobile app or call 
+centres
+•	 Provide best in class 
+service at all customer 
+touchpoints, whether 
+airports or inflight
+•	 Ensure that we 
+maintain a clean 
+aircraft and coaches 
+for a better customer 
+experience
+•	 Hassle free refunds 
+process
+•	 Regular customer 
+surveys and tracking of 
+net promoter scores
+•	 24X7 special 
+assistance health desk 
+available for customers
+•	 Exceeding customer 
+experience results in 
+repeat business and 
+referrals, which enhance 
+our revenue streams
+10
+Local 
+communities
+Opportunity
+Community focus is an 
+important aspect of 
+IndiGo’s strategy it 
+helps us in creating a 
+social impact by:
+•	 Supporting local 
+economy
+•	 Creating local 
+employment
+•	 Local employment 
+opportunities are 
+created through 
+active partnership 
+with local suppliers 
+for sustainable 
+procurement
+•	 ‘Hub Hiring’ process 
+ensures local 
+employment
+•	 Use of locally sourced 
+food and beverage 
+items
+•	 IndiGo CSR initiatives 
+via “IndiGoReach”, 
+focusses on four broad 
+themes: Children and 
+Education, Women 
+Empowerment, 
+Environment and 
+Heritage
+•	 Community focus is a 
+part of our CSR strategy 
+and is not directed by 
+our financial goals, but 
+by spirit of supporting 
+local communities
+11
+Labour 
+practices
+Opportunity
+Good labour practices 
+are fundamental to 
+running a professional 
+enterprise. Sound 
+labour practices require 
+treating all employees 
+and workers with 
+equality, dignity of 
+labour and by providing 
+fundamental human 
+rights.
+•	 IndiGo is against any 
+form of human rights 
+violations such as poor 
+working conditions and 
+child labour
+•	 IndiGo complies with 
+all applicable labour 
+laws
+Implication of non-
+compliance risks are:
+•	 Loss of organizational 
+reputation
+•	 Labour shortages and 
+operational disruption
+•	 Loss of revenue
+•	 Fines and penalties
+99
+  Corporate Overview    Statutory Reports    Financial Statements
+S. 
+No.
+Material issue 
+identified
+Indicate
+whether risk
+or opportunity (R/O)
+Rationale for identifying 
+the risk /
+Opportunity
+In case of risk, approach to 
+adapt or Mitigate
+Financial implications of 
+the risk or opportunity
+(Indicate positive or
+Negative implications)
+12
+Corporate 
+governance
+Opportunity and risk
+Good corporate 
+governance is: 
+•	 Critical to 
+stakeholder 
+confidence.
+•	 Creates a culture of 
+transparency and 
+accountability.
+•	 Leads to better risk 
+management.
+•	 Critical to brand 
+perception.
+•	 IndiGo has a corporate 
+Governance framework 
+that enables Board 
+oversight of overall 
+business strategy and 
+all key decisions
+•	 All business decisions 
+are made with integrity 
+and in accordance with 
+the law
+•	 Good governance 
+practices enhance trust 
+and credibility with all 
+stakeholders, including 
+investors, suppliers, 
+or regulators which in 
+turn reduces our cost 
+of capital and cost of 
+doing business
+•	 Robust risk 
+management framework 
+and adequate internal 
+controls prevent us from 
+financial frauds
+13
+Ethical business 
+conduct
+Opportunity
+•	 Foundational to 
+running the business.
+•	 Fosters trust with 
+suppliers and 
+customers.
+•	 Risk management
+•	 IndiGo’s Code of 
+Conduct the ‘6E 
+Code’  ensures that all 
+business processes are 
+conducted ethically
+•	 Employee awareness 
+and training
+•	 The Company’s Code is 
+reviewed and modified 
+on a regular basis to 
+keep up with changing 
+regulations and 
+corporate needs.
+Ethical business conduct 
+leads to
+•	 Enhanced stakeholder 
+confidence, resulting 
+in better business 
+outcomes
+•	 Avoidance of litigation 
+cost
+•	 Lower risk of financial 
+frauds
+14
+Economic 
+performance
+Opportunity and risk
+The very purpose 
+of a business 
+organization is to create 
+economic value for all 
+stakeholders. Growth 
+of our organization, 
+employees and other 
+related stakeholders 
+is dependent on our 
+sustained profitability 
+and economic 
+performance.
+•	 Maintain cost 
+leadership
+•	 Optimize unit cost
+•	 Enhance revenue 
+performance
+•	 Maintain healthy 
+liquidity
+•	 Enhances shareholder 
+value
+•	 Critical to future growth 
+of the Company
+15
+Market 
+presence
+Opportunity
+Market presence is 
+critical to
+•	 Enhanced revenue 
+generation
+•	 Better brand recall
+•	 Strategic tie-ups
+•	 Affordable fares
+•	 Courteous and Hassle-
+free experience
+•	 On time performance
+•	 Customer centric 
+policies and procedures
+•	 Ease of use at all 
+customer touchpoints
+•	 Strong and dense 
+network
+•	 Critical to enhanced 
+revenue and unit 
+revenue performance
+16
+Operational 
+performance
+Opportunity and risk
+Strong operational 
+performance is critical to 
+•	 Better customer 
+experience
+•	 Higher Productivity
+•	 Enhanced 
+profitability
+•	 Laid down strong 
+processes to ensure 
+industry leading on 
+time performance, 
+low cancellation rate 
+and low mishandled 
+baggage rate
+Strong operational 
+performance helps in
+•	 Maintaining the quality 
+of services
+•	 Operational efficiency 
+and lower cost
+•	  Improved brand 
+perception
+InterGlobe Aviation Limited
+Annual Report 2022-23
+100
+S. 
+No.
+Material issue 
+identified
+Indicate
+whether risk
+or opportunity (R/O)
+Rationale for identifying 
+the risk /
+Opportunity
+In case of risk, approach to 
+adapt or Mitigate
+Financial implications of 
+the risk or opportunity
+(Indicate positive or
+Negative implications)
+17
+Customer 
+privacy
+Risk
+Customer privacy is 
+non- negotiable. It is our 
+primary responsibility 
+to  ensure that customer 
+data is protected and 
+secure.
+•	 Strong framework of 
+cyber security and data 
+breach protection. 
+•	 Cybersecurity structure 
+is aligned with industry 
+standards such as 
+National Institute 
+of Standards and 
+Technology (NIST) and 
+ISO/IEC 27001
+•	 Regular evaluation 
+of privacy regulatory 
+trends to enhance our 
+privacy practices.
+•	 Following the Privacy-
+by-Design principle 
+by integrating privacy 
+checkpoints into all 
+business initiatives.
+•	 Conducting 
+assessments of internal 
+systems, website 
+portals, and vendor 
+relationships.
+•	 Federal Information 
+Processing Standards 
+(FIPS) compliant 
+encryption on 
+information assets.
+•	 A training course for all 
+employees is organized 
+every year, covering 
+data security and 
+personal information 
+protection.
+•	 Use of Digital Rights 
+management for the 
+protection of sensitive 
+digital content.
+•	 Customer data breach 
+may lead to 
+•	 Trust deficit with 
+customers
+•	 Loss of future business
+•	 Hefty fines
+18
+Emergency 
+response 
+preparedness
+Risk
+Emergency response 
+management is a 
+systematic approach 
+to simulate emergency 
+situations and create 
+responding mechanisms 
+to such emergencies. 
+Emergencies could look 
+like:
+•	 Direct or indirect 
+disruptions causing 
+significant and 
+far-reaching adverse 
+impacts. 
+•	 Emergencies related 
+to aircraft, airport 
+and air navigations, 
+natural disasters 
+or other causes, 
+including public 
+health crises.
+•	 IndiGo has a well-
+defined ERM process 
+and a well-trained 
+team to handle such 
+situations
+•	 Appropriate policy 
+framework
+•	 Board and Senior 
+management oversight
+•	 Technology investments
+•	 Every station has 
+Station Emergency 
+Response Plan (SERP)
+•	 Training to all 
+stakeholders
+•	 In case of an 
+emergency, having 
+a good emergency 
+response plan enables 
+the organization to 
+provide sensitive 
+responses, protects 
+reputation, image and 
+capital
+•	 Timely emergency 
+response can help in 
+mitigating additional 
+costs
+101
+  Corporate Overview    Statutory Reports    Financial Statements
+S. 
+No.
+Material issue 
+identified
+Indicate
+whether risk
+or opportunity (R/O)
+Rationale for identifying 
+the risk /
+Opportunity
+In case of risk, approach to 
+adapt or Mitigate
+Financial implications of 
+the risk or opportunity
+(Indicate positive or
+Negative implications)
+19
+Supply chain 
+management
+Opportunity
+Suppliers are an integral 
+part of our stakeholder 
+groups and our success 
+amongst other things 
+hinges on good supplier 
+relationships. Reliability 
+of our suppliers is critical 
+to reliability of our 
+operations
+•	 IndiGo has created 
+strong teams to 
+acquire equipment 
+and services. These 
+teams are led by 
+professionals who 
+have deep industry 
+experience and 
+knowledge
+•	 IndiGo has a well-
+defined procurement 
+process which establish 
+adequate controls and 
+stakeholder confidence
+•	 Over multiple years of 
+relationship IndiGo has 
+created strong equity 
+with all its OEMs and 
+service providers, which 
+helps us in getting high 
+quality products and 
+services at competitive 
+prices 
+•	 A reliable supplier 
+network prevents 
+downtime. The same 
+leads to better financial 
+performance
+•	 Minimizes business risk
+•	 Reduces cost  
+Leads to a better 
+quality of services 
+delivered to customers
+Section B: Management and process disclosures
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting the NGRBC 
+Principles and Core Elements. 
+Disclosure Question
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1
+a.	 Whether your entity’s policy/policies cover 
+each principle and its core elements of the 
+NGRBCs. (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+b.	 Has the policy been approved by the Board? 
+(Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+c.	 Web Link of the Policies, if available
+Y
+N
+N
+Y
+Y
+N
+Y
+Y
+N
+2
+Whether the entity has translated the policy into 
+procedures. (Yes / No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+3
+Do the enlisted policies extend to your value 
+chain partners? (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+4
+Name of the national and international codes/
+certifications/labels/ 
+standards 
+(e.g., 
+Forest 
+Stewardship 
+Council, 
+Fairtrade, 
+Rainforest 
+Alliance, Trustea) standards (e.g., SA 8000, 
+OHSAS, ISO, BIS) adopted by your entity and 
+mapped to each principle
+None
+5
+Specific commitments, goals and targets set by 
+the entity with defined timelines, if any
+We have defined certain internal KPIs and goals for different items 
+covered under various principles. We have an internal tracking mechanism 
+to track progress.
+6
+Performance of the entity against the specific 
+commitments, goals, and targets along-with 
+reasons in case the same are not met.
+IndiGo has met the targets for FY 2023, we will provide updates on the 
+other longer- term goals/commitments as and when applicable.
+InterGlobe Aviation Limited
+Annual Report 2022-23
+102
+Disclosure Question
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Governance, leadership, and oversight
+7
+Statement by director responsible for the business responsibility report, highlighting ESG related challenges, targets, and 
+achievements (listed entity has flexibility regarding the placement of this disclosure) Response:
+At IndiGo, we take pride in our commitment to prioritize responsible business practices, ethical conduct and sustainability with 
+integration of Environment, Social and Governance (ESG) aspects in our business operations. As we continue to mature on our 
+ESG journey, we continue to prioritize critical initiatives aimed at transforming our Company into an ESG thought leader within 
+the aviation sector both in India and globally. These efforts span the length and breadth of our organization from deploying one 
+of the most energy efficient fleets in the world, to implementing DEI programmes, and focusing on building the skills and capacity 
+of our employees among others.
+As an aviation company, we recognize the vital importance of managing our carbon footprint effectively. Our fleet is comprised 
+primarily of Airbus A320 NEO family aircraft which are 15% more energy efficient than the older generation Airbus A320 CEO 
+family aircraft. Apart from this we have also implemented a slew of operational measures to conserve as much fuel as possible 
+during take-off, cruise and landing. Our ground operations team is also working towards gradually phasing out diesel operated 
+equipment and replace them with electric equipment where possible.
+We continue to work with the Council of Scientific and Industrial Research-Indian Institute of Petroleum (CSIR-IIP) in our aim to use 
+SAF in the future. We are working with relevant stakeholders to accelerate the viability of SAF in the aviation sector, since SAF 
+is critical in transition towards a low-carbon pathway. As a renewable and low-carbon alternative to traditional jet fuel that can 
+significantly reduce greenhouse gas emissions, SAF represents the best option for airline companies to decarbonize in the short 
+to medium term while we await the eventual transition to hydrogen in the long-term. By using SAF, we can reduce upstream and 
+downstream greenhouse gas emissions by up to 80% compared to traditional jet fuel. This significant reduction in emissions can 
+contribute towards achieving our sustainability goals and mitigating our impact on the environment. However, global limited SAF 
+availability reduces our reach on this front.
+Moreover, we are steadily making progress to manage plastic waste on our flights and are phasing out single-use plastic. We 
+also have innovative programs in place to recycle the seats and carpets in our aircraft into products like bags. 
+We are committed towards Diversity, Equity, and Inclusion in workplace. With one of the highest number of women pilots among 
+global airlines, we have created an environment of inclusivity. We have policy and initiatives in place to increase the numbver of 
+women in management positions and joined IATA’s 25 by 2025 initiatives that focuses on increasing women leadership to 25%. 
+Additionally, we have taken steps to ensure that people with disabilities, and LGBTQ+ individuals feel supported and valued at 
+IndiGo. We believe in enabling a supportive culture which treats people equitably and celebrates differences.
+We have also aligned our efforts with ensuring every Indian citizen has the accessibility to fly under the UDAN initiative launched 
+by the Government of India and the Civil Aviation Ministry of India. Under this scheme, IndiGo has flown over 8,00,000 passengers 
+in FY 2023. Furthermore, we are continuously expanding our network coverage to ensure that we cover more customers and are 
+on track to connect the states in the northeast, with the rest of India. In this past year, we have flown over 650 flights under the 
+UDAN scheme to ensure the common man has the same 6E experience which has been cherished by our customers over the span 
+of 16 years.  
+As a socially responsible organization, we understand that our efforts through our Corporate Social Responsibility (CSR) 
+initiatives continue to positively impact the lives of many people. With our CSR arm, IndiGo Reach, we have supported over 
+40,000 students this year through our education programs, enabling them to achieve their dreams. More than 50,000 women 
+have been empowered through our livelihood enhancement programs, providing them with the necessary skills and resources 
+to take control of their futures. We have also rallied and joined hands with nearly 19,000 individuals who are committed to 
+conservation of the ecosystem, waste reduction, eco-restoration, and upcycling projects. Our local outreach efforts to societies 
+we serve include afforestation and tree plantation in certain rural areas to aid efforts to mitigate climate change. Furthermore, 
+we continue to focus our efforts on heritage restoration in collaboration with the Aga Khan Foundation.
+We are proud of our progress towards becoming a more sustainable and inclusive company, but we know that there is still more 
+work to be done. We invite all our stakeholders to read our ESG report and provide feedback at IndiGoGreen@goindigo.in. Your 
+feedback is critical in helping us reach new heights on our ESG journey.
+8
+Details of the highest authority responsible for 
+implementation and oversight of the Business 
+Responsibility policy (ies).
+Response: Mr. Petrus Jahannes Theodorus Elbers. Chief Executive Officer 
+of the Company
+9
+Does the entity have a specified Committee 
+of the Board/ Director responsible for decision 
+making on sustainability related issues? (Yes / 
+No). If yes, provide details.
+Response: Yes. The Corporate Social Responsibility Committee and the 
+Risk Management Committee constituted by the Board of the Company 
+evaluated the sustainability related issues, from time to time.
+103
+  Corporate Overview    Statutory Reports    Financial Statements
+10.	Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether review was undertaken by 
+Director / Committee of the Board/ Any other 
+Committee
+Frequency (Annually/ Half yearly/ Quarterly/ 
+Any other – please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above 
+policies and follow up action.
+Board and its Committees
+Quarterly
+Compliance 
+with 
+statutory 
+requirements of relevance to 
+the principles, and rectification 
+of any non-compliances
+Board and its Committees
+Quarterly
+Disclosure Question
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+11. Has the entity carried out independent assessment/ 
+evaluation of the working of its policies by an 
+external agency? (Yes/No). If yes, provide name of 
+the agency.
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+	
+Notes:
+	
+a)	 Policies are formulated after detailed consultation with relevant stakeholders and are in line with industry and market standards, 
+complying with applicable legal and regulatory requirements, both domestic and international. Most of the policies in respect 
+of the aforesaid principles have been approved by the Board. The remaining policies are internal policies, which have been 
+approved by the concerned Departmental Heads, after following a process of detailed discussion and consultation.
+	
+b) 	 In respect of the polices which have been approved by the Board, the Board and/or its specified Committee are responsible 
+for overseeing its implementation. For the remaining policies, certain officials in the respective Department, who report to the 
+concerned Department Heads or the Senior Management of the Company, are responsible for monitoring and overseeing the 
+implementation of the policies.
+	
+c)	
+The policies which have been approved by the Board as mentioned above can be viewed at the Investor Relations/ Corporate 
+Governance/ Policies section on IndiGo’s website at https://www.goindigo.in/information/investor-relations.html. The remaining 
+policies which include the Safety Policy, HR Polices, POSH Policy, Regulatory manuals for Engineering Department and CRM 
+Process are internal documents and are available on intranet for all employees. These Policies have been communicated to all 
+relevant internal and external stakeholders.
+	
+d)	 The Board and/ or its specified Committee(s) periodically review and evaluate the working of the policies which have been 
+approved by the Board. An independent internal audit team, which reports to the Audit Committee also evaluates the working of 
+certain policies on a periodic basis.
+12.	If answer to question (1) above is “No” i.e., not all Principles are covered by a policy, reasons to be stated:
+Disclosure Question
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity is not at a stage where it is in a position 
+to formulate and implement the policies on specified 
+principles (Yes/No)
+NA
+The entity does not have the financial, human and 
+technical resources available for the task (Yes/No)
+It is planned to be done in the next financial year 
+(Yes/No)
+Any other reason (please specify)
+	
+*Most of the policies in respect of the aforesaid principles have been approved by the Board. The remaining policies are internal policies, which have 
+been approved by the concerned Department Heads, after following a process as stated hereinabove. The policies which have been approved by 
+the Board can be viewed at the Investor Relations/Corporate Governance/ Policies section on IndiGo’s website at https://www.goindigo.in/information/
+investor- relations.html?linkNav=investor-relations_footer and the remaining policies are internal documents and are available on intranet for all employees.
+InterGlobe Aviation Limited
+Annual Report 2022-23
+104
+Section C: Principle wise performance disclosure
+PRINCIPLE 1
+Businesses should conduct and govern themselves with integrity, and in a manner that is ethical, transparent, and 
+accountable.
+Essential Indicators
+1.	
+Percentage coverage by training and awareness programmes on any of the principles during the financial year:
+Segment
+Total number of training and awareness 
+programmes held
+Topics / principles 
+covered under the 
+training and its impact
+Date of 
+Appointment in the 
+Company
+Board of Directors
+A total of 110 hours were spent on familiarisation 
+programmes as part of the meetings of the Board 
+business review, Risk Management Committee 
+and Corporate Social Responsibility Committee.
+Principle (1 to 9)
+100%
+Key Managerial 
+Personnel
+A total of 272 hours were spent as part of 
+employee experience program including 
+anti-discrimination, sensitization, and skills 
+upgradation among others.
+Principle (1 to 9)
+100%
+Employees other than 
+BoD and KMPs
+A total of 3,935,801 hours were spent as part of 
+employee experience program including license 
+renewal, safety protocols, antidiscrimination, and 
+sensitization among others.
+Principle (1 to 9)
+100%
+2.	
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the entity or by 
+directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year, in the following format (Note: 
+the entity shall make disclosures on the basis of materiality as specified in Regulation 30 of SEBI (Listing Obligations and Disclosure 
+Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+Monetary
+NGRBC 
+Principle
+Name of the 
+regulatory/enforcement 
+agencies/ judicial 
+institutions
+Amount 
+(In Rs.)
+Brief of the Case
+Has an appeal been 
+preferred?
+(Yes/No)
+Penalty/ Fine
+Principle 1
+NSE, BSE
+Nil
+The Company has 
+received a notice 
+from the NSE and 
+BSE imposing 
+penalties regarding 
+non-compliance of 
+Regulation 17(1A) and 
+Regulation 20 of the 
+SEBI LODR Regulations.
+Yes, the Company 
+has not paid 
+any penalty and 
+preferred to file the 
+waiver application 
+with the stock 
+exchange which is 
+pending as on date 
+of this report.
+Settlement
+Nil
+NA
+Nil
+NA
+NA
+Compounding Fee
+Nil
+NA
+Nil
+NA
+NA
+Non-monetary
+NGRBC
+Principle
+Name of the 
+regulatory/enforcement 
+agencies/ judicial 
+institutions
+Amount 
+(In Rs.)
+Brief of the Case
+Has an appeal been 
+preferred?
+(Yes/No) 
+Imprisonment
+NA
+NA
+NA
+NA
+NA
+Punishment
+NA
+NA
+NA
+NA
+NA
+105
+  Corporate Overview    Statutory Reports    Financial Statements
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or non-monetary 
+action has been appealed:
+Case Details
+Name of the regulatory/ enforcement agencies/ judicial institutions
+NA
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide a web-link to 
+the policy.
+	
+Response: IndiGo places great importance on adhering to all applicable laws and regulations pertaining to the prevention of bribery 
+and corruption. The Company maintains a stringent zero-tolerance policy with respect to bribery and corruption, and does not condone 
+the offering, seeking, or receiving of any cash, gift, or favour that may influence business decisions in an illegal manner, whether 
+directly or indirectly. In addition, only authorized and well-trained personnel are permitted to engage with government officials 
+and regulators in most cases. To ensure compliance with these principles, IndiGo has implemented an anti-corruption and anti-
+bribery policy that is integrated into the Company's Code of Conduct and applicable to all employees. This commitment to ethical 
+business practices underscores our dedication to serving the best interests of all stakeholders, including our valued investors. The 
+Company’s policy is available on the Investor Relations section of the website at https://www.goindigo.in/content/dam/goindigo/
+investor-relations/policies/IndiGo-code-of-conduct.pdf
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement agency for the 
+charges of bribery/ corruption:
+FY 2023
+FY 2022
+Directors
+Nil
+Nil
+KMPs
+Nil
+Nil
+Employees
+Nil
+Nil
+Workers
+NA
+NA
+6.	
+Details of complaints with regard to conflict of interest:
+FY 2023
+FY 2022
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to issues of Conflict of 
+Interest of the Directors
+Nil
+Nil
+Nil
+Nil
+Number of complaints received in relation to issues of Conflict of 
+Interest of the KMPs
+Nil
+Nil
+Nil
+Nil
+7. 	 Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by regulators/ law 
+enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest. 
+	
+Response: NA
+Leadership Indicators
+Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? (Yes/No) If yes, provide 
+details of the same: 
+Response: Yes, IndiGo has taken the necessary measures to avoid situations in which personal interests could conflict with the interests 
+of the Company. To manage conflict of interests, a policy on dealing with related party transactions has been adopted, which ensures 
+compliance with the provisions of the Companies Act, 2013 (“Act”) and the Securities and Exchange Board of India (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015 (“SEBI LODR Regulations”) whenever a transaction is entered into with a related party. 
+Additionally, in accordance with Regulation 26(5) of the SEBI LODR Regulations, senior management personnel have confirmed individually 
+that they have not engaged in any material, financial, or commercial transactions that could potentially lead to a conflict of interest. These 
+measures underscore the Company’s commitment to transparency and ethical business practices, which are of utmost importance to all 
+stakeholders, including our valued investors.
+InterGlobe Aviation Limited
+Annual Report 2022-23
+106
+PRINCIPLE 2
+Businesses should provide goods and services in a manner that is sustainable and safe.
+Essential Indicators
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental and social 
+impacts of product and processes to total R&D and capex investments made by the entity, respectively.
+Segment
+FY 2023
+FY 2022
+Details of improvements in environmental and social impacts
+R&D
+NA
+NA
+NA
+Capex
+3.0%
+1.3%
+Our spend on EVs and environment friendly ground equipment 
+has helped in improvement of carbon footprint of our ground 
+operations.
+2.	
+a. Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+	
+	
+Response: Yes
+	
+b. If yes, what percentage of inputs were sourced sustainably?
+	
+	
+Response:  100%
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling, and disposing at the end of life, for (a) Plastics 
+(including packaging) (b) E-waste (c) Hazardous waste and (d) other waste:
+	
+Response: IndiGo believes in going beyond compliance and has taken numerous steps to improve waste management practices 
+across its operations. The maintenance of equipment such as equipment filters, batteries, plastic materials, rubber/metal components, 
+and tires generates waste that needs to be properly managed. At IndiGo, the crew is responsible for collecting, cataloguing, sorting, 
+and storing this debris in the scrapyard. To facilitate the disposal of garbage, our ground support staff classify it into seven different 
+categories, which include rubber, plastic, metal, batteries, tires, lubricants, and old flyers.
+	
+To ensure that waste is properly managed, we have implemented a set of steps for reusing, recycling, and disposing of waste. These 
+include:
+	
+a)	 Segregating plastic waste and disposing it off with authorized vendors who are ISO certified. 
+	
+b)	 Disposing of batteries to authorized vendors once they reach the end of their life cycle. 
+	
+c)	
+Regularly emptying ground equipment waste oils, such as engine oil/hydraulic oil, at specified intervals, such as hourly, calendar, 
+or by kilometre. 
+	
+d)	 Re-threading worn-out tires through three rounds before being discarded. 
+	
+e)	 Delivering scrap/waste oil to vendors under the supervision of IndiGo and the airport operators.
+	
+These measures reflect our commitment to environmental sustainability, and we take pride in managing waste in a responsible and 
+eco-friendly manner. As a result, we aim to minimize our environmental impact and contribute to a better and more sustainable future 
+for all stakeholders, including our valued investors.
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether the waste collection 
+plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control Boards? If not, provide steps taken 
+to address the same.
+	
+Response: No. Since IndiGo is not a manufacturing company, the EPR is not applicable to the Company.
+Leadership Indicators:
+1.	 Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing 
+industry) or for its services (for service industry)? If yes, provide details in the following format?
+	
+Response: NA. The Company does not conduct any LCA for the services it provides.
+107
+  Corporate Overview    Statutory Reports    Financial Statements
+PRINCIPLE 3
+Businesses should respect and promote the well-being of all employees, including those in their value chains.
+Essential Indicators
+1.	
+ a.	 Details of measures for the well-being of employees:
+2.	 If there are any significant social or environmental concerns and/or risks arising from production or disposal of your 
+products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, 
+briefly describe the same along-with action taken to mitigate the same.
+	
+Response: NA.
+3.	 Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing 
+industry) or providing services (for service industry).
+	
+Response: NA.
+4.	 Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, 
+and safely disposed, as per the following format: 
+	
+Response: NA.
+5.	 Reclaimed products and their packaging materials (as percentage of products sold) for each product category. 
+	
+Response: NA.
+Category
+Percentage of employees covered by
+Total 
+(A)
+Health Insurance
+Accident 
+Insurance
+Maternity 
+Benefits
+Paternity Benefits
+Day-care Facilities
+Number
+(B)
+% (B/A)
+Number
+(C)
+% (C/A)
+Number
+(D)
+% 
+(D/A)
+Number
+(E)
+% (E/A)
+Number
+(F)
+% (F/A)
+Percentage of Employees (Permanent) covered
+Male
+17,938
+17,938
+100%
+3,858
+22%
+0
+0%
+17,938
+100%
+17,938
+100%
+Female
+14,469
+14,469
+100%
+678
+5%
+14,469
+100%
+0
+0%
+14,469
+100%
+Total
+32,407
+32,407
+100%
+4,536
+14%
+14,469
+45%
+17,938
+55%
+32,407
+100%
+Category
+Percentage of workers covered by
+Total 
+(A)
+Health Insurance
+Accident 
+Insurance
+Maternity 
+Benefits
+Paternity Benefits
+Day-care Facilities
+Number
+(B)
+% (B/A)
+Number
+(C)
+% (C/A)
+Number
+(D)
+% 
+(D/A)
+Number
+(E)
+% (E/A)
+Number
+(F)
+% (F/A)
+Percentage of Workers (Permanent and Other workers) covered
+Male
+NA
+Female
+Total
+	
+b.	
+Details of measures for the well-being of workers:
+2.	
+Details of retirement benefits, for Current FY and Previous Financial Year
+Benefits
+FY 2023 (data for employees active as on 
+31.03.2023)
+FY 2022 (data for employees active as on 
+31.03.2022)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted and
+Deposited with 
+the authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+Workers 
+covered as a 
+percentage of 
+total workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+PF
+100%
+ NA
+Y
+100%
+ NA
+Y
+Gratuity
+100%
+ NA
+NA
+100%
+ NA
+NA
+ESI
+22%
+ NA
+Y
+31%
+ NA
+Y
+InterGlobe Aviation Limited
+Annual Report 2022-23
+108
+3.	
+Accessibility of workplaces: Are the premises / offices of the entity accessible to differently abled employees and workers, as per 
+the requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this 
+regard.
+	
+Response: Yes, the Company is committed to provide equal employment opportunities to all employees, including those with 
+disabilities. In accordance with the provisions of the Rights of Persons with Disabilities Act, 2016, IndiGo’s premises are designed 
+and made accessible to differently abled employees. This is to ensure that they can perform their duties and responsibilities to the 
+best of their abilities and feel comfortable and supported in their workplace environment.
+4. 	 Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide a web-link to 
+the policy. 
+	
+Response: We recognize that diversity and inclusivity are crucial elements of a thriving and successful workplace. As such, we provide 
+a work environment that is accessible to all, regardless of physical or cognitive abilities. We believe that all employees deserve 
+equal access to opportunities for professional growth and development, and we are committed to fostering an environment that is 
+supportive, accommodating, and inclusive for all.
+	
+IndiGo promotes inclusivity and diversity by providing necessary infrastructure and sensitivity training. The Company is committed to 
+providing equal opportunities to individuals from different socio-economic backgrounds. We continuously adapt our infrastructure to 
+accommodate the needs of our workforce, including those with special needs. As a part of our equal opportunity policy, differently 
+abled individuals are employed as frontline staff at airports and other areas. The said policy is available on IndiGo’s website at 
+https://www.goindigo.in/information/equalopportunity-policy.html
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent Employees
+Permanent Workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+100%
+100%
+NA
+NA
+Female
+100%
+100%
+NA
+NA
+Total
+100%
+100%
+NA
+NA
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and worker?  If yes, give 
+details of the mechanism in brief.
+	
+Response: Yes, IndiGo’s Grievance Redressal Procedure is available to its all employees. The objective of the policy is to facilitate 
+open and structured discussion on employees’ work-related grievances with the intent of ensuring that the grievance is dealt with 
+in a fair and just manner whilst being in compliance with the Company’s policies. To address concerns quickly and lawfully, IndiGo 
+has established a transparent and impartial complaint resolution process. The Ethics and Compliance Committee (ECC) has been 
+constituted, overseen by the Audit Committee, to ensure alleged infractions are addressed promptly and seriously. The ECC is assisted 
+by the Ethics and Compliance Team in assessing, investigating, and reporting on complaints. The Company provides various channels 
+for grievance settlement, including its website, contact centres, email, and a mode to directly approach the Chairperson of the Audit 
+Committee.
+7.	
+Membership of employees and worker in association(s) or unions recognised by the listed entity:
+	
+Response: Nil
+8.	
+Details of training given to employees and workers: 
+Category
+FY 2023
+FY 2022
+Total
+(A)
+On Health and 
+safety measures
+On Skill 
+upgradation
+Total 
+(D)
+On Health and 
+safety measures
+On Skill 
+upgradation
+No.(B)
+% (B/A)
+No.(C)
+% (C/A)
+No.(E)
+% (E/D)
+No.(F)
+% (F/D)
+Employees
+Male
+16,094
+7,613
+47%
+7,312
+45%
+17,198
+Not Available
+Female
+14,563
+9,742
+67%
+9,893
+68%
+12,688
+Total
+30,657
+17,355
+57%
+17,205
+56%
+29,865
+109
+  Corporate Overview    Statutory Reports    Financial Statements
+Category
+FY 2023
+FY 2022
+Total 
+(A)
+Remarks
+No. of 
+employees 
+covered 
+(B)
+% (B/A)
+Remarks
+Total 
+(C)
+Remarks
+No. of 
+employees 
+covered 
+(D)
+% (D/C)
+Remarks
+Employees
+Male
+18,444
+This includes 
+the On Roll+ 
+Consultants+ 
+International 
+On Roll 
+Employees
+11,352
+62%
+This 
+included 
+employees 
+eligible 
+for Annual 
+Check-in 
+22-23
+(non-crew
+domestic
+employees
+who were
+active
+as of
+September
+30, 2022)
+15,266
+This includes 
+the On Roll+ 
+Consultants+ 
+International 
+On Roll 
+Employees
+9,756
+64%
+This 
+included 
+employees 
+eligible 
+for Annual 
+Check-in 
+21-22
+(non-crew
+domestic
+employees
+who were
+active
+as of
+September
+30, 2021)
+Female
+14,601
+4,084
+28%
+11,081
+2,957
+27%
+Total
+33,045
+15,436
+47%
+26,347
+12,713
+48%
+9.
+Details of performance and career development reviews of employees and worker:
+10. Health and safety management system:
+a.
+Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No). If yes, the
+coverage such system?
+Response: IndiGo believes that a safe and healthy work environment is a pre-requisite for employee well-being, and the
+adoption of best practices in occupational health and safety have a direct impact on its overall performance. As mandated by
+the Directorate General before Civil Aviation (DGCA) under the Ministry of Civil Aviation (MoCA), We have implemented an
+occupational health and safety management system. Our SOPs are modified using Society for Risk Analysis (SRA) principles
+based on current scientific data in the following areas:
+•
+Crew fatigue reporting
+•
+Systematic testing for alcohol
+•
+Psychoactive drug testing
+•
+Advisory for passengers
+b.
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by the entity?
+Response: : IndiGo places great emphasis on safety management and has established various processes and technologies to
+ensure the safety of its operations. The Company’s Safety Management System (SMS) is the foundation that enables IndiGo to
+operate safely.
+Integrum, a safety reporting application that allows employees to report possible hazards in the form of required and optional
+reports. This technology is an essential part of IndiGo's Safety Management System (SMS) and Structured Safety Process (SSP)
+frameworks, which include both proactive and reactive components.
+The reactive component of IndiGo's SMS and SSP frameworks involves investigating accidents and incidents that occur within
+the system. This investigation process is crucial because it identifies the underlying causes of accidents and incidents, provides
+lessons learned, and contributes to the continual improvement of the aviation system. IndiGo has a sophisticated system in
+place to collect all network incidents, which are then reported to regulatory authorities by the Flight Safety department as
+needed.
+InterGlobe Aviation Limited
+Annual Report 2022-23
+110
+	
+	
+Each occurrence is investigated in collaboration with stakeholders concerned, including flight operations, engineering, inflight 
+services, airport operations and customer services, OEMs, and airport operators to determine the root cause(s) and contributory 
+factor(s). Based on the findings, mitigation actions are formulated to prevent future occurrences. IndiGo's Permanent Investigation 
+Board, in collaboration with the regulatory authority, investigates all major events.
+	
+	
+In summary, a continuous encouragement on safety culture has resulted in increase in safety awareness across the operational 
+staff, which is evident by the type and number of reports being received by Flight Safety. IndiGo's commitment to safety is 
+demonstrated by its Safety Management System and Structured Safety Process frameworks, and the use of technologies like 
+Integrum. Additionally, the thorough investigation of accidents and incidents and the formulation of mitigation actions to prevent 
+future occurrences are key elements of IndiGo's safety management approach.
+	
+c.	
+Whether you have processes for workers to report the work-related hazards and to remove themselves from such risks. (Y/N) 
+	
+	
+Response: IndiGo is committed to prioritizing the health and safety of its employees, recognizing that it has a direct impact on 
+the Company's business and strategic plans. The Company takes a proactive and determined approach to identify and prevent 
+potential hazards, and to safeguard its personnel. A holistic approach is taken to address all health-related issues in the 
+workplace, with the aim of minimizing incidents. 
+	
+	
+IndiGo prioritises employees’ health and safety to the highest level and promotes a high quality of life. 
+	
+d.	
+Do the employees/ worker of the entity have access to non-occupational medical and healthcare services? (Yes/ No)
+	
+	
+Response: Yes
+11. Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category
+FY 2023
+FY 2022
+Lost Time Injury Frequency Rate (LTIFR) (per one million-person 
+hours worked)
+Employees
+NA
+NA
+Total recordable work-related injuries
+Total
+726
+349
+Major
+30
+6
+Minor
+256
+116
+First Aid Case
+440
+227
+No. of fatalities
+Employees
+Nil
+Nil
+High consequence work-related injury or ill-health (excluding 
+fatalities)
+Employees
+Nil
+Nil
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace. 
+	
+Response: In line with the IndiGo’s Safety Policy, safety as a value-led concept has been institutionalised by inculcating a sense of 
+ownership at all levels and driving behavioural change, leading to the creation of a cohesive safety culture. IndiGo involves its local 
+managers and employees in maintaining vigilance for the detection and prevention of hazards, supported by a team of health and 
+safety managers. The Company is firmly committed to the following four objectives to prevent accidents and foster a risk-prevention 
+culture:
+	
+•	
+Mitigating serious accidents
+	
+•	
+Implementing ergonomic practices
+	
+•	
+Enhancing quality of life
+	
+•	
+Practicing self-respect, respecting others, and following rules in operations, infrastructure and material management.
+13. Number of Complaints on the following made by employees and workers:
+Particulars
+Filed during the year
+Pending resolution at the end of year
+Remarks
+Working Conditions
+Nil
+Nil
+Health and Safety
+Nil
+Nil
+111
+  Corporate Overview    Statutory Reports    Financial Statements
+Particulars
+Percentage of your plants and offices that were assessed (by entity or statutory authorities or 
+third parties)
+Health and safety practices
+100% 
+Working Conditions
+100% 
+14.	 Assessments for the year:
+15. Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant risks / 
+concerns arising from assessments of health and safety practices and working conditions.
+	
+Response: NA
+Leadership Indicators:
+16. Does the entity extend any life insurance or any compensatory package in the event of death of 
+	
+(a)	 Employees (Y/N) 
+	
+(b)	 Workers (Y/N). 
+	
+	
+Response: 
+	
+a)	 Response: Yes
+	
+b)	 Response: NA
+PRINCIPLE 4
+Businesses should respect the interests of and be responsive to all its stakeholders.
+Essential Indicators
+1.	
+Describe the processes for identifying key stakeholder groups of the entity.
+	
+Response: A questionnaire was provided to the ESG taskforce and based on the responses; stakeholders were identified. This list 
+was further reviewed and validated by the Senior Management of the Company.
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.
+Stakeholder group
+Vulnerable and 
+Marginalised 
+Group
+Channels of 
+Communication
+Frequency of 
+Engagement
+Purpose and Scope of 
+Engagement including Key Topics 
+and Concerns Raised During Such 
+Engagement
+Investors/
+Shareholders
+No
+Investor Calls and 
+meetings
+Ongoing
+•	 Update on quarterly financial 
+and operational performance 
+of the Company.
+Customers
+No
+Advertisements
+Social Media
+Website
+Surveys 
+Feedback  
+Need based
+•	 Customer engagement
+•	 Improvement in services
+Employees
+No
+Email, SMS, community 
+meetings, website, 
+town halls, employee 
+surveys
+Daily
+•	 Job satisfaction, 
+•	 Fair pay and performance 
+remuneration, Training and 
+development initiatives that 
+support career growth, 
+•	 Safe and congenial 
+working conditions, Non-
+discrimination, Prompt 
+grievance redressal 
+mechanisms
+InterGlobe Aviation Limited
+Annual Report 2022-23
+112
+Stakeholder group
+Vulnerable and 
+Marginalised 
+Group
+Channels of 
+Communication
+Frequency of 
+Engagement
+Purpose and Scope of 
+Engagement including Key Topics 
+and Concerns Raised During Such 
+Engagement
+Suppliers and 
+Partners
+No
+Dealer meets and visits
+On going
+•	 Fair and accountable supply 
+chain practices, 
+•	 Supplier financial health, 
+•	 Reputation, and service 
+quality, access to knowledge 
+on sustainable supply chain 
+practices
+Government and 
+Regulators
+No
+Company website
+Need based
+•	 Adherence to applicable laws 
+and regulations
+•	 Policy action
+•	 Consultation son emerging 
+issues
+Industry 
+and Trade 
+Associations
+No
+Industry conference and 
+trade fairs
+Annually
+•	 Discussions on industry issues
+Civil Society and 
+NGOs
+Yes
+Mails, calls and 
+community meetings
+Need based
+•	 Discussion on key social, 
+environmental and community 
+related issues.
+PRINCIPLE 5 
+Businesses should respect and promote human rights.
+Essential Indicators
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the following format:
+Category
+FY 2023
+FY 2022
+Total (A)
+No. of
+Employees/Workers 
+covered (B)
+% (B/A)
+Total (C)
+No. of Employees/
+Workers covered 
+(D)
+% (D/C)
+Employees
+Permanent
+32,407
+25,581
+79%
+26,164
+14,411
+55%
+Other than Permanent
+638
+576
+90%
+1,515
+335
+22%
+Total
+33,045
+26,157
+79%
+27,679
+14,746
+53%
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+	
+Response: This is not applicable to IndiGo as we do not have any workers making minimum wage on our rolls.
+3.	
+Details of remuneration/salary/wages, in the following format:
+Particulars
+Male
+Female
+Number
+Median remuneration 
+/ salary/ wages of 
+respective category
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+Board of Directors (BoD)
+For details, please refer to Annexure C forming part of the Board’s Report
+Key Managerial Personnel
+The Company does not disclose this information due to employee confidentiality 
+considerations
+Employees other than BoD and KMP
+113
+  Corporate Overview    Statutory Reports    Financial Statements
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused or contributed to 
+by the business? (Yes/No)
+	
+Response: Yes
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues. 
+	
+Response: Please refer to point no. 6 of Principle no. 3
+6.	
+Number of Complaints on the following made by employees and workers:
+Particulars
+FY 2023
+FY 2022
+Filed 
+during the 
+year
+Pending 
+resolution at 
+the end of 
+year
+Remarks
+Filed 
+during the 
+year
+Pending 
+resolution at 
+the end of 
+year
+Remarks
+Sexual 
+Harassment
+37
+4
+Pending resolution 
+under investigation 
+as on March 31, 
+2023, did not 
+exceed timeline as 
+per SH Act.
+29
+6
+4 (Complaints under 
+investigation as on 
+March 31, 2022, not 
+exceeded timeline 
+as per the Act) 2
+Discrimination 
+at workplace
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Forced Labour/ 
+Involuntary 
+Labour
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Wages
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Other human 
+rights related 
+issues
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+7.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	
+Response: The following mechanisms are in place to ensure complainants of discrimination and harassment are duly shielded from 
+adverse consequences:
+	
+1.	
+If the Company receives a complaint of sexual harassment at the workplace against an employee, immediate steps are taken to 
+ensure the safety and comfort of the complainant.
+	
+2.	
+The Company places utmost importance on maintaining confidentiality while handling such matters.
+	
+3.	
+There is a strict policy against retaliation in place, and any attempt by the respondent to instil fear in the complainant or 
+witnesses during an investigation is taken very seriously, and appropriate action is taken.
+8.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+	
+Response: The Company includes its 'Supplier Code of Conduct' in most of its standard supplier agreements, which obligates the 
+suppliers to adhere to all applicable labour laws and other applicable regulations.
+InterGlobe Aviation Limited
+Annual Report 2022-23
+114
+Particulars
+Percentage of your plants and offices that were assessed (By entity or 
+statutory authorities or third parties)
+Child Labour
+Nil
+Forced/involuntary labour
+Nil
+Sexual harassment
+100%
+Discrimination at workplace
+Nil
+Wages
+Nil
+Others – please specify
+Nil
+9.	
+Assessments for the year: 
+	
+Note: The Internal and external auditors conduct assessments as per the Audit schedule. Assessments are also carried out by respective 
+Government authorities and the Company has not received any non-compliance certification.
+10.	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments at 
+Question 9 above.
+	
+Response: IndiGo has a robust policy on the Prevention of Sexual Harassment, which is a gender-neutral subject matter. We conduct 
+regular workshops and focus group discussions to sensitize the employees about prevention of sexual harassment at workplace from 
+the time of new hire joining. We also have an interactive e-learning module for the employees which educates employees on various 
+nuances of the policy. We take extreme care to ensure utmost confidentiality is maintained while handling these matters.
+	
+We have a very strong policy on retaliation. Any acts of instilling fear in the minds of the complainant and/or any witnesses by the 
+respondent on account of participating in an investigation is viewed extremely seriously and appropriate action is taken against the 
+wrong doer.	 	
+	
+	
+	
+Leadership Indicators:
+1.	 Details of a business process being modified / introduced as a result of addressing human rights grievances/
+complaints. 
+	
+Response: There were no corrective modifications to business processes as a result of no human rights complaint being registered 
+with the Company. 
+2.	 Details of the scope and coverage of any Human rights due diligence conducted.
+	
+Response:  NA
+3.	 Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of 
+Persons with Disabilities Act, 2016?
+	
+Response: Yes
+PRINCIPLE 6 
+Businesses should respect and make efforts to protect and restore the environment.
+Essential Indicators
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+FY 2023 (GJ)
+FY 2022 (GJ)
+Total electricity consumption (A)
+20,314
+8,468
+Total fuel consumption (B) (Jet Aviation Fuel, Diesel, CNG, Petrol)
+3,23,36,015
+2,05,27,790
+Energy consumption through other sources (C)*
+NA
+NA
+Total energy consumption (A+B+C)
+3,23,56,329
+2,05,36,259
+Energy intensity per rupee of Turnover (Total energy consumption/ turnover in 
+rupees)
+0.00006 GJ/Rupee 
+of Revenue
+0.00008 GJ/Rupee 
+of Revenue
+	
+*Other sources include energy from steam, heating/cooling, etc. therefore it is not applicable for us.
+	
+Note 1: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency: No
+	
+Note 2: Figures for FY 2022 are restated.
+115
+  Corporate Overview    Statutory Reports    Financial Statements
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve and Trade (PAT) 
+Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme have been achieved. In case 
+targets have not been achieved, provide the remedial action taken, if any.
+	
+Response: NA
+3.	
+Provide details of the following disclosures related to water, in the following format: 
+	
+Response: NA
+4.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and implementation.
+	
+Response: NA
+5.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please specify unit
+FY 2023
+FY 2022
+NOx
+Tonne
+12,232
+7,769
+SOx
+Tonne
+406
+258
+Parameter
+Unit
+FY 2023
+FY 2022
+Total Scope 1 emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, FCs, SF6, NF3, if available)
+Metric tonnes of CO2 
+equivalent
+67,89,520
+43,11,693
+Total Scope 2 emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of CO2 
+equivalent
+4,445
+1,844
+Total Scope 1 and Scope 2 emissions per ASK
+Grams/ASK
+59.5
+61.1
+Total Scope 1 and Scope 2 emissions per rupee of turnover
+Tonnes / Rupee
+0.000012
+0.000016
+	
+Note 1: The NOx and SOx emissions have been calculated based on the well to wake emissions of our jet fuel consumption. The 
+emission factors have been sourced from National Renewable Energy Laboratory (NREL). 
+	
+Note 2: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+the external agency: No 
+6.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) and its intensity, in the following format:
+	
+Note 1: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency: No
+	
+Note 2: Figures for FY 2022 are restated.
+7. 	 Does the entity have any project related to reducing Green House Gas emission? If yes, then provide details. 
+	
+Response: IndiGo has undertaken the following mechanisms for GHG emission reduction and Ground CO2 reduction by minimising 
+diesel after consumption:
+	
+1. 	 By using electrical vehicles and other ground equipment like electric baggage tugs
+	
+2.	
+By using CNG vehicles.
+	
+3.	
+By using other fuel economical diesel equipment.
+8.	
+Provide details related to waste management by the entity, in the following format:
+	
+Response: IndiGo takes environmental responsibility seriously as a major transportation company and has implemented a 
+comprehensive waste management plan to manage the debris generated during servicing, including oils, equipment filters, batteries, 
+plastic material, rubber/metal components, and tyres. The ground support staff sorts of garbage into seven categories (rubber, 
+plastic, metal, batteries, tyres, lubricants, and old flyers) and replaces ground equipment filters and waste oils (Oil/Fuel/Air/Hydraulic) 
+at regular intervals. Discarded batteries and worn-out plastic, rubber, or metal parts are replaced, and discarded tyres are sent 
+through multiple rounds of re-treading. This approach demonstrates IndiGo's commitment to minimizing its environmental impact and 
+promoting sustainable practices in its operations.
+9. 	 Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by the Company to 
+reduce usage of hazardous and toxic chemicals in your products and processes and the practices adopted to manage such wastes.
+	
+Response: NA
+InterGlobe Aviation Limited
+Annual Report 2022-23
+116
+10. If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, biosphere 
+reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals / clearances are 
+required, please specify details in the following format:
+	
+Response: NA
+11.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the current financial 
+year: 
+	
+Response: NA
+12.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India, such as the Water (Prevention and 
+Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and rules thereunder (Y/N). If not, 
+provide details of all such non-compliances, in the following format:
+	
+Response: Yes, the Company is compliant with all the applicable laws
+Leadership Indicators
+1.	 Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link.
+	
+Response: We have taken proactive steps to ensure a comprehensive disaster management and business continuity plan is in place. 
+The Emergency Response Plan is documented at the corporate, departmental, and station levels and complies with both international 
+and domestic regulations. This exhaustive plan covers man-made and natural disasters, including a major aircraft accident, and 
+includes command and control, crisis communications, humanitarian response, and business continuity. The plan also encompasses 
+training and drills, financial and insurance issues, and coordination with external agencies and code share partners.
+2.	 Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What 
+mitigation or adaptation measures have been taken by the entity in this regard?
+	
+Response: None.
+PRINCIPLE 7 
+Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is responsible 
+and transparent.
+Essential Indicators
+1.	
+ a.	 Number of affiliations with trade and industry chambers/ associations.
+	
+	
+Response: The Company is a member of the Federation of Indian Airlines
+	
+b.	
+List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) the entity is a 
+member of/ affiliated to.
+Sr. 
+No.
+Name of the trade and industry chambers/associations
+Reach of trade and industry chambers/
+associations (State/National)
+1
+PHD Chamber of Commerce and Industry
+National
+2
+Associated Chambers of Commerce and Industry
+National
+3
+Federation of Indian Airlines
+National
+	
+	
+IndiGo also actively participates in multi-stakeholder discussion forums and when pertinent, responds to public consultations. 
+The Company is also a member of International Air Transport Association (IATA), the global airline trade association whose 
+mission is to represent, lead and serve the airline industry.
+117
+  Corporate Overview    Statutory Reports    Financial Statements
+PRINCIPLE 8 
+Businesses should promote inclusive growth and equitable development.
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the current financial year. 
+	
+Response: NA. IndiGo is not liable for Social Impact Assessment
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your entity, in the 
+following format:
+	
+Response: IndiGo has not undertaken any project for which ongoing Rehabilitation and Resettlement is required
+3. 	 Describe the mechanisms to receive and redress grievances of the community. 
+	
+Response: Please refer to response provided in point no. 6 of Principle no. 3
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+Name of the authority
+Brief of the case
+Corrective action taken
+National Company 
+Law Appellate Tribunal 
+(Previously, Competition 
+Appellate Tribunal)
+Express Industry Council of India alleged cartelization between 
+5 domestic airlines including InterGlobe Aviation Limited 
+(“IndiGo”) for fixing the rate of Fuel Surcharge (“FSC”) in CarGo.
+Competition   Commission of India (“CCI”) vide its order held that 
+IndiGo along with Jet Airways and Spice Jet are in contravention 
+of the provisions of the CCI Act (“Impugned Order”).
+A penalty of Rs. 9.45 Crore was imposed on IndiGo, Rs. 39.81 
+Crore imposed on Jet Airways and Rs. 5.10 Crore imposed on 
+Spice Jet.
+An appeal has been filed 
+against the Impugned Order 
+before the National Company 
+Law Appellate Tribunal 
+(“NCLAT”). The Impugned 
+Order is stayed. The appeal is 
+sub-judice and is pending final 
+arguments.
+2.	 Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the 
+entity, based on adverse orders from regulatory authorities. 
+Leadership Indicators:
+1.	 Details of public policy positions advocated by the entity:
+	
+Response: NA
+FY 2023
+FY 2022
+Directly sourced from MSMEs/ small producers
+0.9%
+1.3%
+Leadership Indicators:
+1.	 Provide the following information on CSR projects undertaken by your entity in designated aspirational districts 
+as identified by government bodies:
+Name of implementation 
+of Agency
+Project Title
+Project Location/s 
+(State)
+Project Location/s (District)
+Grameen Sahara
+Livelihood creation of women farmers
+Meghalaya
+Ri Bhoi
+Pradan
+Women collectives-led Action Towards 
+Environment Rejuvenation (WATER)
+Jharkhand
+Bokaro, Hazaribagh, Godda
+InterGlobe Aviation Limited
+Annual Report 2022-23
+118
+2.	 Details of beneficiaries of CSR Projects: 
+S. 
+No.
+Focus Area
+Project Title
+Name of NGO partner
+Number of beneficiaries 
+reached
+Percentage of 
+marginalized 
+communities
+1. 
+Children and 
+Education
+IndiGo School Adoption and 
+Get Smart Program
+SRF Foundation: 
+School Adoption 
+Program
+22,500 Students
+100%
+2. 
+Children and 
+Education
+Academic improvement 
+of children and the entire 
+school ecosystem as a 
+whole
+Eklavya Foundation
+1,760 Students
+100%
+3. 
+Children and 
+Education
+Sponsoring education of 
+RTE children
+KK Academy
+65 Students
+100%
+4. 
+Children and 
+Education
+Improving teaching and 
+learning practices among 
+middle and high school 
+children
+Vidya Bhawan 
+Society
+5,000 Students
+100%
+5. 
+Children and 
+Education
+Providing education to first 
+generation learners
+Bandhan Education 
+Program
+12,507 Students
+100%
+6. 
+Women 
+empowerment
+Livelihood enhancement 
+through sustainable 
+agriculture and 
+entrepreneurship 
+development
+AFARM
+12,000 Women
+100%
+7. 
+Women 
+empowerment
+Livelihood creation of 
+women farmers
+Grameen Sahara
+1,500 Women
+100%
+8. 
+Women 
+empowerment
+Women collectives-led 
+Action Towards Environment 
+Rejuvenation (WATER)
+Pradan
+37,000 Women
+100%
+9. 
+Women 
+empowerment
+Providing livelihood support 
+to women (The Hardcore 
+Poor)
+Bandhan -THP
+3,000 Households/
+Women
+100%
+10. 
+Environment
+Promotion of 9,500 biogas 
+plants
+ADATS
+9,500 Households/
+Women
+100%
+11. 
+Environment
+Eco restoration, clean up 
+and conservation of the 
+Sikanderpur pond
+I am Gurgaon
+NA
+100%
+12. 
+Environment
+Creating sustainable 
+practices for waste 
+management
+Chintan
+1,000 Households
+100%
+13. 
+Environment
+Safeguarding Biodiversity 
+and habitat restoration
+The Corbett 
+Foundation
+51 Households
+100%
+14. 
+Environment
+Upcycling of the textiles
+Chetanalaya
+2,265 Women
+100%
+15. 
+Environment
+Community-led Environment 
+Restoration and Women-led 
+Livelihood Enhancement
+Gram Vikas
+2,111 Households
+100%
+16. 
+Environment
+Climate-friendly 
+interventions to improve 
+quality of life in rural areas 
+while reducing total carbon 
+footprint.
+Suvidha
+4,000 Households/
+Women
+100%
+17. 
+Heritage
+Maintenance and Upkeep 
+of the mausoleum
+Aga Khan Foundation- 
+Rahim
+NA
+100%
+18. 
+Heritage
+Conservation and 
+Restoration of the 
+mausoleum
+Aga Khan Foundation- 
+Qutb Shah
+NA
+100%
+119
+  Corporate Overview    Statutory Reports    Financial Statements
+Particulars
+As a percentage to total turnover
+Environmental and social parameters relevant to the product
+Not Available
+Safe and responsible usage
+Recycling and/or safe disposal
+S. No.
+Item
+Sustainable alternative
+1.
+Bread roll bags
+Paper bags
+2.
+Plastic cutlery
+Wooden cutlery
+3.
+Cutlery bag
+Paper bag
+4.
+Plastic bowl
+Aluminium foil 150ml
+5.
+Thermocol box
+Milton box
+6.
+Chutney creamer
+Aluminium foil 150ml
+7.
+Plastic straws
+Paper Straws
+8.
+Polythene garbage bag
+Compostable garbage bag
+9.
+Plastic gloves
+Nitrile gloves
+10.
+Plastic stirrer
+Wooden stirrer
+11.
+Ripple cup
+PLA lining ripple cup
+12.
+Plastic lid for ripple cup
+Compostable lids
+13.
+Water cups
+PLA lining water cup
+PRINCIPLE 9
+Businesses should engage with and provide value to their consumers in a responsible manner.
+Essential Indicators
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback. 
+	
+Response: The Company has implemented a Customer Relationship Management (CRM) process to cover the thorough process of 
+screening customer comments and reviewing complaints.
+2.	
+Turnover of products and/ services as a percentage of turnover from all products/service that carry information about: 
+	
+Response: In order to support the local economy while also maintaining high food safety standards, the Company sources non-
+perishable food and beverage goods from local producers who adhere to FSSAI and HACCP regulations. These goods are then supplied 
+to catering sites within the network. To reduce food waste, perishable items are exclusively provided to passengers with pre-booked 
+orders, while non-perishables are chosen for their long shelf life. 
+	
+Additionally, the Company has made efforts to eliminate single-use plastics by using sustainable alternatives whenever possible:
+3.	
+Number of consumer complaints in respect of the following:
+Particulars
+FY 2023
+FY 2022
+Received
+during the 
+year
+Pending
+resolution
+at end of year
+Remarks
+Received
+during the 
+year
+Pending
+resolution
+at end of year
+Remarks
+Data privacy
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Advertising
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Cyber-security
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Delivery of essential services
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Restrictive Trade Practices
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Unfair Trade Practices
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Other
+Nil
+Nil
+(i)	 DGCA
+639
+Nil
+259
+Nil
+(ii)	Consumer Complaints
+135
+125
+114
+102
+	
+Note:	
+The categorization of complaints is restated for FY21-22.
+InterGlobe Aviation Limited
+Annual Report 2022-23
+120
+4.	
+Details of instances of product recalls on account of safety issues:
+Particulars
+Number
+Reasons for recall
+Voluntary recalls
+NA
+Forced recalls
+5.	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, provide a web-link 
+of the policy.
+	
+Response: Yes, IndiGo has framed policies with respect to information technology/cyber security risk which set forth limits, mitigation 
+strategies and internal controls. To maintain the safety and privacy of its clients and stakeholders, the Company implements a robust 
+cybersecurity strategy that adheres to industry standards like ISO 27001, NIST, and CIS. This strategy includes various technological, 
+administrative, organizational, and physical security measures to safeguard personal information, continuously monitoring privacy 
+legislative changes, incorporating privacy checkpoints into all business endeavours, evaluating internal systems and vendor 
+partnerships, and implementing resilient and effective data recovery processes. Additionally, the Company deploys DRM to secure 
+sensitive digital content and ensures that third-party vendors and suppliers adhere to the same stringent standards. The Company 
+deploys various technological, administrative, organizational, and physical security measures to safeguard personal information 
+privacy standards approach encompassing the following key elements:
+	
+•	
+Continuously monitoring privacy legislative changes and enhancing our privacy policies.
+	
+•	
+Providing contractual assistance to ensure that contractual provisions adequately handle associated risks.
+	
+•	
+Incorporating privacy checkpoints into all business endeavours, following the Privacy-by-Design philosophy.
+	
+•	
+Evaluating internal systems, online portals, and vendor partnerships.
+	
+•	
+Encrypting information assets that comply with the Federal Information Processing Standards (FIPS).
+	
+•	
+Implementing resilient and effective data recovery processes.
+	
+•	
+Utilizing Digital Rights Management (DRM) to secure sensitive digital content.
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential services; cyber 
+security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action taken by regulatory authorities 
+on safety of products/services.
+	
+Response: NA
+Leadership Indicators:
+1. 	 Channels / platforms where information on products and services of the entity can be accessed (provide web link, 
+if available). 
+	
+Response: The official website of the Company is www.goindigo.in. It also has distinct applications for its partners, passenger 
+booking, and staff travel available for both, Android and IOS devices.
+2.	 Provide the following information relating to data breaches:
+	
+a.	
+Number of instances of data breaches along-with impact
+	
+b.	
+Percentage of data breaches involving personally identifiable information of 
+	
+	
+Response:  
+	
+	
+a.	
+Nil
+	
+	
+b.	
+Nil
+On behalf of the Board of 
+InterGlobe Aviation Limited
+	
+	
+Dr. Venkataramani Sumantran	
+Mr. Anil Parashar
+	
+	
+Chairman	
+Director
+	
+	
+DIN: 02153989 	
+DIN: 00055377
+Date: May 18, 2023
+Place: Gurugram
+121
+  Corporate Overview    Statutory Reports    Financial Statements

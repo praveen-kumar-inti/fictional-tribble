@@ -1,0 +1,2594 @@
+Honeywell Automation India Limited   |   Annual Report FY 2022-23
+54 
+Business Responsibility and Sustainability Report
+Foreword
+Dear Stakeholders
+Honeywell Automation India Limited, an integrated automation, industrial software, and sustainability solutions provider, is 
+developing technologies that help large and small organizations achieve their environmental, social and governance (ESG) 
+goals along with their business results. The Company offers a portfolio of futuristic technologies to help customers and their 
+businesses digitalize operations, reduce greenhouse gas (GHG) emissions, save energy, measure and reduce carbon impact 
+and support the adoption of renewable energy sources.
+We do not believe climate-related risks are reasonably likely to have a material effect in the foreseeable near future on the 
+company’s business or the markets it serves, nor on our results of operations, capital expenditure or financial position. 
+Honeywell is uniquely positioned to shape a safer and more sustainable future. We continue to invent, innovate, and develop 
+technologies that provide our customers with adaptable and efficient solutions to address their safety, productivity, energy-
+efficiency and environmental needs.
+The Company presents Business Responsibility & Sustainability Report (BRSR) of the Company pursuant to the provisions 
+of Regulation 34(2)(f) of the SEBI Listing Regulations, 2015 describing the initiatives taken by the Company from an 
+environmental, social and governance perspective.
+Ashish Gaikwad
+Managing Director
+Section A: General Disclosures
+I.	 Details of the listed entity
+1.
+Corporate Identity Number (CIN) 
+L29299PN1984PLC017951
+2.
+Name 
+Honeywell Automation India Limited
+3.
+Year of incorporation
+1984
+4.
+Registered Office Address
+56 & 57, Hadapsar Industrial Estate, Pune - 411013
+5.
+Corporate Office Address
+56 & 57, Hadapsar Industrial Estate, Pune - 411013
+6.
+Email
+HAIL.InvestorServices@Honeywell.com
+7.
+Telephone
++91 2071148888
+8.
+Website
+https://www.honeywell.com/in/en/hail
+9.
+Financial year for which reporting is being done
+April 1, 2022 to March 31, 2023 (FY 2022-23)
+10.
+Name of the Stock Exchange(s) where shares are 
+listed
+The BSE Limited and National Stock Exchange of India Limited
+11.
+Paid-up Capital
+` 88,415,230
+12.
+Name and contact details (telephone, email 
+address) of the person who may be contacted in 
+case of any queries on the BRSR report
+The Company Secretary
+56 & 57, Hadapsar Industrial Estate, Pune - 411013
+HAIL.InvestorServices@Honeywell.com
+13.
+Reporting boundary
+Disclosures made in this report are on a standalone basis for the 
+Company. The references to Honeywell International Inc’s or Enterprise’s 
+strategy, policies, projects and framework in the report are applicable to 
+the extent it relates to our business operations.
+II.	Products/services
+14.	Details of business activities (accounting for 90% of the turnover):
+S. 
+No.
+Description of Main 
+Activity
+Description of Business Activity
+% of Turnover of 
+the entity
+1
+Manufacturing 
+Manufacture of industrial process control and automation systems.
+48
+2
+Trading
+Trading of sensing, measurement equipment and control equipment. 
+16
+3
+Services
+Installation, engineering and repair/maintenance services of industrial 
+control and automation systems. 
+35
+Annual Report FY 2022-23   |   Honeywell Automation India Limited
+55 
+15.	Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. 
+No.
+Product/Service
+NIC Code
+% of total Turnover contributed
+1
+Manufacture of electronic systems and components
+NIC Code 26
+48
+2
+Trading of machinery, equipment and supplies
+NIC Code 46
+16
+3
+Repair and maintenance
+NIC Code 33
+35
+III.	 Operations
+16.	Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of offices
+Total
+National
+1
+8
+9
+International
+-
+4
+4
+17.	 Markets served by the entity: In addition to serving the domestic market, the Company exports goods/services to 
+Honeywell affiliates in the US, Europe, Asia Pacific and other regions.
+	
+a.	
+Number of locations
+Location
+Number 
+National (No. of States)
+35 (including Union Territories)
+International (No. of Countries)
+54
+	
+b.	
+What is the contribution of exports as a percentage of the total turnover of the entity? 
+	
+	
+Exports contribute 42% of the total turnover of the entity.
+	
+c.	
+A brief on types of customers 
+	
+	In the domestic market, the Company caters to both public and private sector customers in discrete and process 
+industries such as oil and gas, refining, pulp and paper, chemicals and petrochemicals, pharma and life sciences, 
+infrastructure (Metro, Airports, Commercial buildings, data centre, Smart Cities), transportation, etc. 
+	
+In Export Market, the Company caters to only Honeywell affiliates across the world rendering engineering services 
+and contract manufacturing of products and projects for similar end markets as it does for its Indian customers. 
+IV.	 Employees
+18.	Details Employees and workers (including differently abled) as at the end of Financial Year:
+S. 
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+EMPLOYEES
+1.
+Permanent (D)
+2,906
+2,393
+82.50%
+513
+17.50%
+2.
+Other than Permanent (E)
+631
+483
+76.50%
+148
+23.50%
+3.
+Total employees (D + E)
+3,537
+2,876
+81.31%
+661
+18.69%
+WORKERS
+4.
+Permanent (F)
+48
+45
+94%
+3
+6%
+5.
+Other than Permanent (G)
+9
+0
+0
+9
+100%
+6.
+Total workers (F + G)
+57
+45
+78.95%
+12
+21.05%
+Note: Currently, the Company does not capture data for differently abled employees and workers.
+Honeywell Automation India Limited   |   Annual Report FY 2022-23
+56 
+Business Responsibility and Sustainability Report 
+19.	Participation / Inclusion / Representation of women
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+6
+2
+33.33%
+Key Management Personnel
+3
+1
+33.33%
+20.	 Turnover rate for permanent employees and workers	
+FY 2022-23
+FY 2021-22
+FY 2020-21
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent 
+Employees
+15.1%
+25.3%
+16.9%
+13.1%
+19.5%
+14.3%
+6.5%
+9.0%
+6.9%
+Permanent 
+Workers
+2.2%
+0.0%
+2.1%
+0.0%
+0.0%
+0.0%
+2.1%
+0.0%
+2.0%
+V.	 Holding, Subsidiary and Associate Companies (including joint ventures)
+21.	Names of holding / subsidiary / associate companies / joint ventures
+S. 
+No.
+Name of the holding / 
+subsidiary / associate 
+companies / joint 
+ventures (A)
+Whether holding/  
+Subsidiary / Associate 
+/ Joint Venture
+% of shares 
+held in the 
+listed entity
+Does the entity indicated at 
+column A, participate in the 
+Business Responsibility initiatives 
+of the listed entity? (Yes/No)
+1.
+HAIL Mauritius Limited
+Holding Company
+75%
+Yes*
+* through the ultimate holding Company, Honeywell International.
+VI.	 CSR Details
+22.	(i) Whether CSR is applicable as per section 135 of Companies Act, 2013: Yes
+(ii)	 Turnover (in `): 3,44,759 Lakhs 
+(iii)	 Net worth (in `): 3,18,851 Lakhs
+VII.	Transparency and Disclosures Compliances 
+23.	Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on 
+Responsible Business Conduct:
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance Redressal  
+Mechanism in Place  (Yes/No)
+FY 2022-23
+FY 2021-22
+(If Yes,  then provide web-link 
+for grievance redress policy)
+Number of 
+complaints 
+filed  
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed  
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities
+Yes, through ‘Help & Support’ 
+section.
+0
+0
+-
+0
+0
+-
+Investors 
+(Shareholders 
+and other than  
+shareholders)
+Yes, SEBI platform:
+www.scores.gov.in
+Email ID of BSE and NSE
+HAIL’s Email ID:  
+hail.investorservices@honey-
+well.com
+15
+0
+-
+6
+0
+-
+Annual Report FY 2022-23   |   Honeywell Automation India Limited
+57 
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance Redressal  
+Mechanism in Place  (Yes/No)
+FY 2022-23
+FY 2021-22
+(If Yes,  then provide web-link 
+for grievance redress policy)
+Number of 
+complaints 
+filed  
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed  
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Employees and 
+workers
+Yes, various internal channels
+26
+7
+5 cases 
+with 2 
+issues, 1 
+case with 
+3 issues
+12
+0
+2 cases 
+with 2 
+issues
+Customers
+Yes, through toll free numbers 
+and emails.
+0
+0
+-
+0
+0
+-
+Value Chain 
+Partners
+Yes, through ‘Help & Support’ 
+section.
+2
+0
+-
+2
+0
+-
+Others
+Yes, through ‘Help & Support’ 
+section.
+0
+0
+-
+0
+0
+-
+	
+Weblink for ‘Help & Support’ section https://www.honeywell.com/us/en/contact.
+24.	Overview of the entity’s material responsible business conduct issues
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to 
+environmental and social matters that present a risk or an opportunity to your business, rationale for 
+identifying the same, approach to adapt or mitigate the risk along-with its financial implications, as 
+per the following format.
+	
+The Company entirely leverages Honeywell International’s oversight on ESG performance, strategies, goals, and 
+objectives, monitoring ESG risks and opportunities and ESG disclosures. Honeywell International makes use of 
+the enterprise risk management program and strategic planning process to identify and prioritize ESG risks and 
+opportunities, assess the overall performance and monitor risk mitigation efforts. Some of the examples on opportunities 
+and risks can be referred to in Honeywell Environmental, Social and Governance Report 2022 following the weblink given 
+in Annexure-1 of BRSR. 
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting 
+the NGRBC Principles and Core Elements.
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1. a. Whether your entity’s policy/policies cover each principle and 
+its core elements of the NGRBCs. (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+b. Has the policy been approved by the Board? (Yes/No)
+Yes. The mandatory policies under Indian laws and regulations 
+have been adopted by the Board.
+c. Web Link of the Policies, if available
+Please refer Annexure-1 of BRSR.
+2. Whether the entity has translated the policy into procedures. 
+(Yes / No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3. Do the enlisted policies extend to your  value chain partners? 
+(Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+NA
+Yes
+Yes
+4. Name of the national and international codes/certifications/
+labels/ standards (e.g. Forest Stewardship Council, Fairtrade, 
+Rainforest Alliance, Trustea) standards (e.g. SA 8000, OHSAS, 
+ISO, BIS) adopted by your entity and mapped to each principle
+The Company’s policies are in line with the international  
+standards and practices such as ISO 45001:2018,  
+ISO 14001:2015
+Honeywell Automation India Limited   |   Annual Report FY 2022-23
+58 
+Business Responsibility and Sustainability Report 
+5. Specific commitments, goals and targets set by the entity with 
+defined timelines, if   any.
+The ESG commitments, goals and targets are set globally by 
+Honeywell International, the details of which (including the current 
+performance) are available on  
+https://www.honeywell.com/us/en/company/sustainability.  
+The Company adheres to this commitment and contributes to-
+wards achievement of the same.
+6.  Performance of the entity against the specific commitments, 
+goals and targets along-with reasons in case the same are not 
+met.
+Governance, leadership and oversight
+8. Details of the highest authority responsible for implementation 
+and oversight of the Business Responsibility policy (ies).
+Mr. Ashish Gaikwad		
+Managing Director	 	
+DIN: 07585079
+9. Does the entity have a specified Committee of the Board/  
+Director responsible for decision making on sustainability 
+related issues? (Yes / No). If yes, provide details.
+The Managing Director is responsible for decisions on all sustain-
+ability related issues of the Company.
+In addition, the governance and social activities of the Company 
+are reviewed by the Audit Committee, Risk Management  
+Committee and Corporate Social Responsibility Committee as 
+required under the Act and the SEBI Listing Regulations.
+10. Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether review was undertaken by 
+Director / Committee of the Board/
+Any other Committee
+Frequency
+(Annually/ Half yearly/ Quarterly/ Any 
+other – please specify)
+P 
+1
+P 
+2
+P 
+3
+P 
+4
+P 
+5
+P 
+6
+P 
+7
+P 
+8
+P 
+9
+P 
+1
+P 
+2
+P 
+3
+P 
+4
+P 
+5
+P 
+6
+P 
+7 
+P 
+8
+P 
+9
+Performance against above policies 
+and follow up action
+Yes
+Annually / as mandated by law
+Compliance with statutory 
+requirements of relevance to the 
+principles and rectification of any
+non-compliances
+Yes
+As mandated by law/internal policies
+11.   Has the entity carried out independent assessment/  
+evaluation of the working of its policies by an external 
+agency? (Yes/No). If yes, provide name of the agency.
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+No
+12. If answer to question (1) above is “No” i.e., not all Principles are covered by a policy, reasons to be stated: Not Applicable
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core Elements with 
+key processes and decisions. The information sought is categorized as “Essential Indicators” and “Leadership Indicators”. 
+Whilst the Essential indicators have been disclosed by the Company as mandated to file in this report, the Leadership 
+indicators have been voluntarily disclosed where applicable/feasible.
+PRINCIPLE 1: Businesses should conduct and govern themselves with integrity and in a manner that is 
+Ethical, Transparent and Accountable.
+Essential Indicators
+1.	 Percentage coverage by training and awareness programmes on any of the Principles during the financial year:
+Segment
+Total number of training	
+ and awareness 
+programmes held
+Topics / principles covered under 
+the training and its impact
+%age of persons in respective 
+category covered by the 
+awareness programmes
+Board of Directors (BoD)
+Onboarding / Annual
+Familiarization Program, Code 
+of business Conduct, Conflict of 
+Interest.
+100%
+Key Managerial Personnel 
+(KMP)
+Onboarding/Annual
+Code of business Conduct and all 
+other relevant policies including 
+anti-Corruption, Anti Bribery, Conflict 
+of Interest, Books and Records, 
+Data Privacy and Cyber Security, 
+Prevention of Sexual Harassment.
+100%
+Employees other than BoD and 
+KMPs
+Onboarding/Annual
+100%
+Workers
+Onboarding/Annual
+100%
+Note: All segments above are enrolled for/imparted the aforementioned trainings either on their joining and 
+subsequently on an annual basis.
+Annual Report FY 2022-23   |   Honeywell Automation India Limited
+59 
+2.	 Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings 
+(by the entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the 
+financial year, in the following format (Note: the entity shall make disclosures on the basis of materiality as 
+specified in Regulation 30 of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as 
+disclosed on the entity’s website):  
+NIL
+3.	 Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary 
+or non-monetary action has been appealed. 
+Not Applicable
+4.	 Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, 
+provide a web-link to the policy.
+Yes, the Company leverages Honeywell’s policies. Please refer to Annexure-1 of BRSR for weblinks of the Honeywell Code 
+of Business conduct and the Honeywell Anticorruption Policy.
+5.	 Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law 
+enforcement agency for the charges of bribery/ corruption:
+FY 2022-23
+FY 2021-22
+Directors
+NIL
+NIL
+KMPs
+NIL
+NIL
+Employees
+NIL
+NIL
+Workers
+NIL
+NIL
+6.	 Details of complaints with regard to conflict of interest:
+FY 2022-23
+FY 2021-22
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to issues of Conflict of 
+Interest of the Directors
+Nil
+-
+Nil
+-
+Number of complaints received in relation to issues of Conflict of 
+Interest of the KMPs
+Nil
+-
+Nil
+-
+7.	 Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by 
+regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+Not applicable
+Leadership Indicators
+1.	 Awareness programmes conducted for value chain partners on any of the Principles  during the financial year:
+Total number 
+of awareness 
+programmes held
+Topics / principles covered 
+under the training
+%age of value chain partners covered (by value of 
+business done with such partners) under the awareness 
+programmes
+1
+P1, P2, P3, P4, P5, P6, P8, P9
+100% of suppliers onboarded are covered through the Honeywell 
+Suppliers Code of Conduct.
+2.	 Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? 
+(Yes/No) If Yes, provide details of the same.
+Yes. In order to avoid/manage conflicts of interest, the Company obtains a mandatory declaration from the members of 
+its Board. The declaration ensures that the members of the Board are in compliance with the Honeywell Code of Business 
+Conduct.
+Honeywell Automation India Limited   |   Annual Report FY 2022-23
+60 
+Business Responsibility and Sustainability Report 
+PRINCIPLE 2: Businesses should provide goods and services in a manner that is sustainable and safe
+Essential Indicators
+1.	 Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the 
+environmental and social impacts of product and processes to total R&D and capex investments made by the 
+entity, respectively.
+FY 2022-23
+FY 2021-22
+Details of improvements in  environmental and social impacts
+R&D
+-
+-
+R&D for improving environmental and social impacts of product is done by Honeywell 
+International considering the global and local requirements.
+Capex
+-
+-
+2.   a. Does the entity have procedures in place for sustainable sourcing? (Yes/No) 
+Yes, the Company requires all its suppliers to make a firm commitment to the Honeywell Suppliers Code of Conduct. 
+Please refer Annexure-1 of BRSR for weblink of the said Code.
+b. If yes, what percentage of inputs were sourced sustainably? 
+Yes. Honeywell Supplier Code of Conduct is a prerequisite for the suppliers to do business with Honeywell. Honeywell 
+strives to continuously drive sustainability agenda towards it’s Suppliers.
+3.	 Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of 
+life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+Honeywell is committed to ensuring that our products are manufactured to comply with environmental regulations in the 
+markets we serve. Regulatory monitoring combined with expertise and internal procedures help ensure comprehensive 
+programs are in place throughout Honeywell to manage and meet regulatory requirements to reclaim Plastics (including 
+packaging), EEE, Hazardous waste and other waste.
+As a process to reclaim product EEE, Battery EPR is in place and EPR is applied for plastic packaging. PROs are 
+nominated for the collection of EEE and plastic waste and then are recycled. Hazardous waste is sent either for 
+incineration to Common Hazardous Waste Treatment, Storage and Disposal Facility or to authorized recyclers/
+reprocessor depending on their nature.
+4.	 Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether 
+the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution 
+Control Boards? If not, provide steps taken to address the same.
+Yes, the EPR is applicable for EEE, battery and plastic waste generated by the Company. The waste is collected by the 
+nominated PROs. The quarterly returns and annual returns are filed to CPCB. 
+The waste collection is in line with the targets specified by CPCB in the authorization granted to the Company. 
+Annual Report FY 2022-23   |   Honeywell Automation India Limited
+61 
+Leadership Indicators
+1.	 Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing 
+industry) or for its services (for service industry)? If yes, provide details in the following format? 
+NIC Code
+Name of Product
+/Service
+% of total 
+Turnover 
+contributed
+Boundary for which the 
+Life Cycle Perspective 
+/ Assessment was 
+conducted
+Whether conducted 
+by independent 
+external agency
+(Yes/No)
+Results communicated in 
+public domain (Yes/No)
+If yes, provide the web-
+link.
+-
+-
+-
+-
+-
+-
+Note: The Company has not conducted LCA. However, LCAs are conducted by Honeywell International. It maintains 
+extensive product and service safety programs across the enterprise, focusing on quality and safety throughout the 
+product lifecycle, from design to manufacture to the marketplace. Each strategic business unit drives safety processes 
+through: 
+•  An extensive safety policy with objectives, accountability, and responsibilities assigned 
+•  Safety risk management, which includes hazard identification and risk assessment and control
+•  Safety assurance to monitor and assess performance
+•  Safety promotion by engaging in formal training programs and communication. 
+Due to the diversified product offerings across the enterprise, quality and safety programs are tailored to specific 
+regulatory guidelines and jurisdictional rules. The assessments are conducted throughout Honeywell’s operations as 
+products are developed, introduced and produced within the respective business units.
+PRINCIPLE 3: Businesses should respect and promote the well-being of all employees, including those in 
+their value chains 
+Essential Indicators
+1.	 a. Details of measures for the well-being of employees:
+Category
+% of employess covered by
+Total
+Health 
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+benefits
+Day care 
+facilities
+(A)
+No. 
+(B)
+% 
+(B/A)
+No. 
+(C)
+% 
+(C/A)
+NO. 
+(D)
+% 
+(D/A)
+No. 
+(E)
+% 
+(E/A)
+No. 
+(F)
+% 
+(F/A)
+Permanent Employees
+Male 
+2,393
+2,393
+ 100%
+2,393
+ 100%
+-
+-
+197
+8.2%
+-
+-
+Female
+513
+513
+100%
+513
+100%
+54
+10.5%
+-
+-
+-
+-
+Total
+2,906
+2,906
+100%
+2,906
+100%
+54
+1.85%
+197
+6.5%
+-
+-
+Other than Permanent Employees
+Male 
+483
+483
+ 100%
+483
+ 100%
+-
+-
+-
+-
+-
+-
+Female
+148
+148
+100%
+148
+100%
+-
+-
+-
+-
+-
+-
+Total
+631
+631
+100%
+631
+100%
+-
+-
+-
+-
+-
+-
+Note: All the employee are covered under Maternity and Paternity benefits. At the Company, we are following flexible 
+working including hybrid working. Hence, daycare / creche facility was not provided.
+Honeywell Automation India Limited   |   Annual Report FY 2022-23
+62 
+Business Responsibility and Sustainability Report 
+b. Details of measures for the well-being of workers:
+Category
+% of workers covered by
+Total
+Health 
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+benefits
+Day care 
+facilities
+(A)
+No. 
+(B)
+% 
+(B/A)
+No. 
+(C)
+% 
+(C/A)
+NO. 
+(D)
+% 
+(D/A)
+No. 
+(E)
+% 
+(E/A)
+No. 
+(F)
+% 
+(F/A)
+Permanent Workers
+Male 
+45
+45
+ 100%
+45
+ 100%
+-
+-
+3
+6.6%
+-
+-
+Female
+3
+3
+100%
+3
+100%
+0
+0%
+-
+-
+-
+-
+Total
+48
+48
+100%
+48
+100%
+0
+0%
+3
+6.2%
+-
+-
+Other than Permanent Workers
+Male 
+0
+0
+ 100%
+0
+ 100%
+-
+-
+-
+-
+-
+-
+Female
+9
+9
+100%
+9
+100%
+-
+-
+-
+-
+-
+-
+Total
+9
+9
+100%
+9
+100%
+-
+-
+-
+-
+-
+-
+2.   Details of retirement benefits, for Current FY and Previous Financial Year.
+Benefits
+FY 2022-23
+FY 2021-22
+No. of employees 
+covered as a % of 
+total employees
+No. of workers 
+covered as a % 
+of total workers
+Deducted and 
+deposited with	
+the authority 
+(Y/N/N.A.)
+No. of employees 
+covered as a % of
+total employees
+No. of workers 
+covered as a
+% of total 
+workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+PF
+100%
+100%
+Y
+100%
+100%
+Y
+Gratuity
+100%
+100%
+Y
+100%
+100%
+Y
+ESI
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Others 
+NA
+NA
+NA
+NA
+NA
+NA
+3.	 Accessibility of workplaces
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the 
+requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the 
+entity in this regard.
+Various offices of the company, including the registered and corporate offices have ramps for easy movement of 
+differently abled people. Most offices are located in commercial premises which are either on the ground floor or have 
+elevators and infrastructure for differently abled individuals. Wheelchair accessible restrooms are available in certain 
+premises of the Company.
+4.	 Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, 
+provide a web-link to the policy.
+The Company follows Equal Opportunity Policy. This Policy describes the procedures and processes that the Company 
+shall follow to ensure that it shall not discriminate against qualified employees and applicants on the basis of disability or 
+any other legally protected status. It is the Company’s intent to comply with Law regarding the treatment of persons with 
+disabilities. 
+5.	 Return to work and Retention rates of permanent employees and workers that took parental leave.
+Permanent employees
+Permanent workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+100%
+87%
+100%
+100%
+Female
+91%
+91%
+NA
+NA
+Total
+98%
+87%
+100%
+100%
+Annual Report FY 2022-23   |   Honeywell Automation India Limited
+63 
+6.	 Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+worker? If yes, give details of the mechanism in brief.
+ 
+Yes/No (If Yes, then give details of the mechanism in brief
+Permanent Employees
+ Yes
+Other than Permanent Employees
+ Yes
+The Company has always believed in open and transparent communication. Employees are encouraged to share 
+their concerns with their business/function heads, HR business partners or members of the senior management. 
+The Company follows an open-door policy, wherein any employee irrespective of hierarchy has access to the senior 
+management.
+In addition, the Grievance / Employee Complaint Policy provides a formal platform to share grievances on various 
+matters like:
+•    Work / Working Condition
+•    Benefits & Organization Policy - PF / Payroll / Leave
+•    Unfair Treatment
+•    Relationship with Colleagues
+•    Bullying or Harassment
+•    Discrimination
+•    Code of Business Conduct (Violation of Code will lead to BCIR process).
+The Company has a policy on prevention, prohibition and redressal of sexual harassment of women at the workplace 
+and has an ICC in compliance with the Sexual Harassment of Women at Workplace (Prevention, Prohibition and 
+Redressal) Act, 2013. The ICC comprises majority of women members. Members of the Company’s ICC are responsible 
+for conducting inquiries pertaining to such complaints. The Company, on a regular basis, sensitizes its employees on 
+the prevention of sexual harassment at the workplace through workshops, group meetings, online training modules and 
+awareness programs which are held on a regular basis.
+Alternatively, ACCESS Integrity helpline is another channel for reporting and seeking redressal for violation of the 
+Honeywell Code of business conduct guidelines.
+7.	 Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+The Company does not have any employee associations. The Company, however, recognizes the right to freedom of 
+association.
+8.	 Details of training given to employees and workers:
+Category
+Financial Year 2023
+Financial Year 2022
+Total
+On Health & Safety 
+measures
+On Skill 
+upgradation
+Total
+On Health & Safety 
+measures
+On Skill 
+upgradation
+(A)
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+(D)
+No. (E)
+% (E/D)
+No. (E)
+% (E/D)
+Employees
+Male 
+2,393
+2,393
+ 100
+2,393
+100
+ 2,378
+ 2,378
+100
+ 2,378
+100
+Female
+513
+513
+ 100
+513
+100
+ 523
+ 523
+100
+ 523
+100
+Total
+2,906
+2,906
+ 100
+2,906
+100
+ 2,901
+ 2,901
+100
+ 2,901
+100
+Workers
+Male 
+45
+45
+ 100
+2,393
+100
+ 46
+ 46
+100
+ 46
+100
+Female
+3
+3
+ 100
+513
+100
+ 3
+ 3
+100
+ 3
+100
+Total
+48
+48
+ 100
+2,906
+100
+ 49
+ 49
+100
+ 49
+100
+Note: The above numbers include trainings given to employees who have resigned/retired during the year. Some of the 
+training programs offered under health and safety and skill upgradation are mandatory. Hence, all employees have been 
+considered under such training programs.
+Honeywell Automation India Limited   |   Annual Report FY 2022-23
+64 
+Business Responsibility and Sustainability Report 
+9.	 Details of performance and career development reviews of employees and worker:
+Category
+Financial Year 2023
+Financial Year 2022
+Total (A)
+No. (B)
+No. % (B/A)
+Total (C)
+No.( D)
+No. % (D/C)
+Employees
+Male 
+2,393
+2,393
+ 100
+ 2,378
+ 2,378
+ 100
+Female
+513
+513
+ 100
+ 523
+ 523
+ 100
+Total
+2,906
+2,906
+ 100
+ 2,901
+ 2,901
+ 100
+Workers
+Male 
+45
+45
+2,393
+ 46
+ 46
+ 100
+Female
+3
+3
+513
+ 3
+ 3
+ 100
+Total
+48
+48
+2,906
+ 49
+ 49
+ 100
+All employees undergo an annual performance appraisal process as determined by the Company. Further, the 
+Nomination and Remuneration Committee and the Board evaluate the performance of the members of executive 
+management (one level below the board), Senior Management Personnel and the Company Secretary on an annual 
+basis. The underlying philosophy of the performance management system is to have a fair and transparent system 
+of appraisal, which ensures an objective mechanism to measure each employee’s performance and potential and 
+implement a reward system which recognizes merit. 
+Employees joining after 31st of October are not considered as part of performance appraisal cycle for the same year, they 
+become eligible in the next cycle
+10.	 Health and safety management system:
+a.	 Whether an occupational health and safety management system has been implemented by the entity? If yes, 
+the coverage such system?
+Yes, the Company maintains the Sustainable Opportunity Policy which defines commitments to the HSEMS. 
+The HSEMS incorporates all applicable ISO 14001:2015, ISO 45001:2018 and Honeywell requirements.  The HSE 
+Management System is an integral part of the overall Honeywell Operating Model and defines how HSEMS is 
+integrated with the manufacturing, service and business organization processes.
+The HSEMS is designed to:
+•	 Provide the business and global Honeywell facilities with a systematic framework for minimizing HSE risks and 
+associated liabilities.  
+•	 Implement processes that monitor, identify, and control risks associated with the design, production, and delivery 
+of products and services including intended use through disposition.
+•	 Provide a framework for continual improvement of the management system and the fulfillment of conformity to 
+applicable statutory, regulatory and stakeholder requirements; and
+•	 Promote the integration of HSEMS with business planning and performance processes throughout the 
+organization.  
+In addition, the HSEMS covers the standardization of processes related to security (physical and cyber), stakeholder 
+outreach, distribution and transportation.
+b.	 What are the processes used to identify work-related hazards and assess risks on a routine and non-routine 
+basis by the entity?
+Yes, the Company’s operating locations rely on comprehensive processes for assessments of hazards that could 
+pose a risk to workers, including employees, contractors, and visitors. Based on these assessments, risk mitigation 
+controls are identified, implemented, and monitored to help ensure effective worker protection remain in place. 
+Types of assessments include ergonomic assessments, personal protective equipment evaluations and inspections, 
+procedure checks for reporting adverse effects from an activity on a regular basis, working in confined space etc. 
+HSEMS team document and rank risks associated with such aspects having significant impact on health, safety, 
+environment, security, product stewardship, transportation, sustainability etc. and take immediate corrective actions.
+Annual Report FY 2022-23   |   Honeywell Automation India Limited
+65 
+c.	 Whether you have processes for workers to report the work-related hazards and to remove themselves from 
+such risks.
+Yes, the Company has a process to report work-related hazards through Safety Observations System (SOS)-near 
+miss and Leadership HSE Gemba. Also risks are captured in CRA and appropriate control measures are in place as 
+per the hierarchy of control.
+d.  Do the employees/workers of the entity have access to non-occupational medical and healthcare services? 
+Yes. The employees/workers are covered under the company’s health insurance and personal accident policy.
+11.	 Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category
+FY 2022-23
+FY 2021-22
+Lost Time Injury Frequency Rate (LTIFR) (per one million-person hours 
+worked)
+Employees
+0
+0
+Workers
+Total recordable work-related injuries
+Employees
+0
+0
+Workers
+Number of fatalities
+Employees
+0
+0
+Workers
+High consequence work-related injury or ill-health (excluding fatalities)
+Employees
+0
+0
+Workers
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace.
+The Company strives to continually improve the suitability, adequacy and effectiveness of the HSEMS to prevent 
+occurrence of potential incidents and nonconformities and to promote improvements in HSE performance. Honeywell 
+establishes, implements and maintains a continual improvement process which consider the outputs of the activities 
+described in the following:
+•    Policy and Leadership Commitment
+•    Risk assessment
+•    Communications and Participation through SOS, HSE Committee meetings etc.
+•    Monitoring, Measurement, Analysis and Evaluation by internal safety audits and Management Operations Review
+•    Rewards & Recognitions through ‘Bravos’ and Town meetings.
+•    On-site medical practitioner
+•    Ergonomics and Physiotherapists
+•    Incidents management e.g. work-related injuries or illness and environment contamination
+We retain documented information as evidence of the results of continual improvement. From the Operational Control 
+and Planning, we follow these methods: Safe Operating Sheet, CRA, Training, PPE Compliance, Near Miss Reporting 
+and investigation, Safety Observation System, Incident Reporting and investigation, Communicating Single-point 
+lessons from the other Honeywell sites, HSE Message Weekly Communication to ensure Safety Perfect Culture within 
+the organization.
+13.	 Number of Complaints on the following made by employees and workers:
+FY 2022-23
+FY 2021-22
+Filed during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Working Conditions
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Health & Safety
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Note: Employees and workers report Health, safety and working condition observations in Safety Observation System (SOS) tool which 
+are timely actioned.
+Honeywell Automation India Limited   |   Annual Report FY 2022-23
+66 
+Business Responsibility and Sustainability Report 
+14.	 Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory authorities or 
+third parties)
+Health and safety practices
+100% - ISO 45001 audit by Det Norske Veritas (DNV)
+Working Conditions
+100% - ISO 14001 audit by DNV
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on 
+significant risks / concerns arising from assessments of health & safety practices and working conditions.
+We maintain a process to act in a timely manner to the incidents or nonconformities, and as applicable takes action to 
+control or correct the incident or nonconformity and address the consequences.  
+The process includes evaluating the need for correction action(s) with participation of relevant persons working 
+under the control of Honeywell to eliminate root causes of the incident or nonconformity in order that the incident or 
+nonconformity does not recur or occur elsewhere.  
+The incident or nonconformity is investigated determining the cause(s) of the incident or nonconformity and 
+determining if similar incidents and nonconformities or causes exist or could potentially occur.  
+As needed, corrective actions are implemented, and the Management of Change process is utilized as appropriate. 
+Corrective actions are reviewed to ensure that they are effective to address the incident or nonconformity. HSEMS are 
+reviewed and actions or changes made as necessary.  
+We maintain documented information as evidence of the nature of the incidents or nonconformities and any 
+subsequent action(s)/corrective action(s) and the results of those corrective action(s).  
+Leadership Indicators
+1.	 Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees 
+(Y/N) (B) Workers (Y/N).
+Yes. Life insurance is for all the permanent employees and workers.
+2.	 Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited 
+by the value chain partners.
+The Company follows a detailed compliance procedure to ensure all statutory clearance and compliances are met by its 
+vendors.
+The Company is regularly depositing undisputed statutory dues including Goods and Services Tax, Provident Fund, 
+Employees’ State Insurance, Income-Tax, Sales-Tax, Service Tax, a Duty of Customs, a Duty of Excise, Value-added Tax, 
+CESS and other statutory dues to the appropriate authorities and compliance of this is rigorously followed including 
+for all of its vendors. These aspects are also checked as part of vendor compliance due diligence while onboarding new 
+vendors and on an ongoing basis as well.
+3.	 Provide the number of employees / workers having suffered high consequence work- related injury / ill-health 
+/ fatalities (as reported in Q11 of Essential Indicators above), who have been are rehabilitated and placed in 
+suitable employment or whose family members have been placed in suitable employment: 
+Total no. of affected employees/ workers
+No. of employees/workers that are rehabilitated and 
+placed in suitable employment or whose family members 
+have been placed in suitable employment
+FY 2022-23
+FY2021-22
+FY 2022-23
+FY2021-22
+Employees
+NIL
+NIL
+NIL
+NIL
+Workers
+NIL
+NIL
+NIL
+NIL
+4.	 Does the entity provide transition assistance programs to facilitate continued employability and the management 
+of career endings resulting from retirement or termination of employment? (Yes/ No)
+No.
+Annual Report FY 2022-23   |   Honeywell Automation India Limited
+67 
+PRINCIPLE 4: Businesses should respect the interests of and be responsive to all its stakeholders
+Essential Indicators
+1.	 Describe the processes for identifying key stakeholder groups of the entity. 
+Stakeholder groups are identified based on the nature of their engagement with the entity.
+Any individual or group of individuals or institution that adds value to the business chain of the Company is identified as 
+a core stakeholder. This inter alia includes employees, shareholders, customers/service partners, regulators, communities 
+and non-governmental organizations, suppliers amongst others.
+2.	 List of stakeholder groups identified as key for your entity and the frequency of engagement with each 
+stakeholder group.:
+Stakeholder
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group
+(Yes/No)
+Channels of 
+communication 
+(Email, SMS, 
+Newspaper, Pamphlets, 
+Advertisement,
+Community Meetings, 
+Notice Board, Website), 
+Other
+Frequency of 
+engagement 
+(Annually/ Half yearly/ 
+Quarterly / others – 
+please specify)
+Purpose and scope of engagement 
+including key topics and concerns 
+raised during such engagement
+Employees
+No
+Emails, Surveys, 
+Newsletters, Company 
+Intranet, Honeywell Internal 
+Social Media group, Notice 
+Board and Townhalls.
+Employee satisfaction
+Surveys on half yearly 
+basis through survey 
+tools. Emails / Notices / 
+social media / intranet 
+are sent to employees 
+on important Company 
+communication on 
+regular/need basis.
+Quarterly townhalls
+Information about the ompany‘s 
+business growth plans and
+business performance. Top-down 
+communication about important 
+changes, policies, wellbeing
+initiatives. Platform for gathering 
+informal feedback Workplace diversity 
+is encouraged through various diversity, 
+equity and inclusion initiatives.
+Shareholders
+No
+Email, Newspaper, Notice
+board, Website, General 
+Meeting.
+Quarterly and need 
+based while annually – 
+for AGM
+Corporate governance, financial 
+performance and Shareholder related
+communication.
+Customers
+/ Service 
+Partners
+No
+Email, Honeywell website, 
+Surveys
+As and when required
+Ensuring product/service Quality, 
+meeting delivery timeliness, 
+Information on Business Offerings, etc.
+Suppliers
+No* 
+Email, conference calls, 
+virtual/in person meetings, 
+vendor portal
+As and when required
+Order to Payment life cycle, Ethical 
+business conduct, understand the 
+new market trends and educating the 
+suppliers, etc.
+Communities
+No
+Email, Call, SMS, Virtual and 
+in person meetings
+Quarterly/ need based
+CSR Program planning, Monitoring of 
+CSR implementation, Finances and 
+annual review, Impact assessment, 
+Success Stories, etc.
+* The Company encourages suppliers from all sections including MSMEs. However, the final engagement depends upon the quality and 
+timely delivery of services.
+Honeywell Automation India Limited   |   Annual Report FY 2022-23
+68 
+Business Responsibility and Sustainability Report 
+PRINCIPLE 5: Businesses should respect and promote human rights
+Essential Indicators
+1.	 Employees and workers who have been provided training on human rights issues and  policy(ies) of the entity, in 
+the following format:
+Category
+Financial Year 2023
+Financial Year 2022
+Total (A)
+No. of employees 
+/workers
+covered (B)
+% (B / A)
+Total (C)
+ No. of employees 
+/workers
+covered ( D)
+% (D / C)
+Employees
+Permanent
+2,906
+2,906
+100%
+2,901
+2,901
+100%
+Other than permanent 
+631
+631
+100%
+465
+465
+100%
+Total Employees
+3,537
+3,537
+100%
+3,366
+3,366
+100%
+Workers
+Permanent
+48
+48
+100%
+49
+49
+100%
+Other than permanent 
+NA
+NA
+100%
+NA
+NA
+NA
+Total Employees
+48
+48
+100%
+49
+49
+100%
+Note: Human Rights related issues/policies are covered under Honeywell Code of Business Conduct. Please refer to 
+Annexure-1 of BRSR for the weblink. Employees and workers are enrolled for/imparted the aforementioned trainings 
+either on their joining and subsequently on an annual basis.
+2.	 Details of minimum wages paid to employees and workers, in the following format:
+Category
+Financial Year 2023
+Financial Year 2022
+Total
+(A)
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+Total
+(D)
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+No.
+(B)
+% (B /
+A)
+No.
+(C)
+% (C /
+A)
+No. (E)
+% (E / 
+D)
+No. (F)
+% (F / 
+D)
+Employees
+Permanent
+2,906
+0
+NA
+2,906
+100%
+2,901
+0
+NA
+2,901
+100%
+Male 
+2,393
+0
+NA
+2,393
+100%
+2,378
+0
+NA
+2,378
+100%
+Female
+513
+0
+NA
+513
+100%
+523
+0
+NA
+523
+100%
+Other than 
+permanent 
+631
+0
+NA
+631
+100%
+465
+0
+NA
+465
+100%
+Male 
+483
+0
+NA
+483
+100%
+386
+0
+NA
+386
+100%
+Female
+148
+0
+NA
+148
+100%
+79
+0
+NA
+79
+100%
+Workers
+Permanent
+48
+0
+NA
+48
+100%
+49
+0
+NA
+49
+100%
+Male 
+45
+0
+NA
+45
+100%
+46
+0
+NA
+46
+100%
+Female
+3
+0
+NA
+3
+100%
+3
+0
+NA
+0
+100%
+Other than 
+permanent 
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Male 
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Female
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Annual Report FY 2022-23   |   Honeywell Automation India Limited
+69 
+3.	 Details of remuneration/salary/wages, in the following format:
+Male
+Female
+Number
+Median remuneration/ salary/ 
+wages of respective category
+Number
+Median remuneration/ salary/ 
+wages of respective category
+Board of Directors (BoD)
+4
+Please refer Annexure-4 
+Statement of Disclosure of 
+Remuneration forming part of 
+the Board’s Report for details.
+2
+Please refer Annexure-4 Statement 
+of Disclosure of Remuneration 
+forming part of the Board’s Report 
+for details.
+Key Managerial Personnel 
+(KMP)
+2
+1
+Employees other than BoD 
+and KMP
+2,391
+`12.8 Lakhs per annum
+512
+`9.5 Lakhs per annum
+Workers
+45
+`7.5 Lakhs per annum
+3
+   `7.8 Lakhs per annum
+4.	 Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues 
+caused or contributed to by the business? 
+Honeywell’s commitment to human rights is grounded in international human rights principles that independent 
+organizations have proposed, such as the United Nations Guiding Principles on Business and Human Rights, Ten 
+Principles of the United Nations Global Compact, the International Labor Organization’s Declaration on Fundamental 
+Principles and Rights at Work, and all applicable laws of the jurisdictions where we operate. 
+5.	 Describe the internal mechanisms in place to redress grievances related to human rights issues.
+	
+Honeywell has policies, processes, training and other compliance controls in place to help it fulfill its Human Rights 
+commitments. Honeywell directors, officers, and employees have a responsibility to report any circumstance that may 
+involve a violation of Honeywell’s Human Rights Policy and may do so anonymously. Honeywell personnel and third 
+parties may report concerns through Honeywell’s or e-mail: access.integrityhelpline@honeywell.com. Honeywell treats 
+all reports confidentially to the extent possible, consistent with the law, company policy, and the requirements necessary 
+to conduct an effective investigation. All reports will be investigated promptly and thoroughly, consistent with applicable 
+law. Honeywell will not tolerate any form of retaliation against anyone for making a good faith report of actual or potential 
+misconduct.
+6.	 Number of Complaints on the following made by employees and workers:
+Financial Year 2023
+Financial Year 2022
+Filed 
+during 
+the year
+Pending 
+resolution  at the
+end of year
+Remarks
+Filed 
+during 
+the year
+Pending 
+resolution  at the
+end of year
+Remarks
+Sexual Harassment
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Discrimination at workplace
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Child Labour
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Forced Labour/Involuntary 
+Labour
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Wages
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Other human rights related 
+issues
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+7.	 Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+For cases related to Sexual Harassment, there is an Internal Committee for redressal of the same. The Committee takes 
+concrete actions to ensure that every Complainant is protected. It maintains confidentiality of all complaints.
+For all other cases related to discrimination, harassment, workplace respect and workplace violence the Integrity and 
+Compliance team investigates all reported cases and takes appropriate action.
+Honeywell Automation India Limited   |   Annual Report FY 2022-23
+70 
+Business Responsibility and Sustainability Report 
+8.	 Do human rights requirements form part of your business agreements and contracts? 
+Honeywell’s Code of Business Conduct, Supplier Code of Business Conduct, and Honeywell Human Rights Policy 
+address a broad range of human and workplace rights in our global operations and supply chain to ensure fairness, 
+ethical behavior, dignity, and respect. Our Human Rights Policy applies to all Honeywell workers worldwide, including 
+contingent workers, agents, and candidates for hire. Honeywell also requires suppliers to uphold human rights principles 
+as described in Honeywell’s Supplier Code of Conduct. These expectations are reinforced through various internal and 
+external communication channels. Key elements of our Human Rights Policy include inclusion and diversity, workplace 
+respect, freedom of association, a safe and healthy workplace, workplace security, work hours and wages, forced labor 
+and human trafficking, child labor, and rights of local communities and those who live and work there.
+9.	 Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory authorities or third parties)
+Child labour
+100%
+Forced/involuntary labour
+100%
+Sexual harassment
+100%
+Discrimination at workplace
+100%
+Wages
+100%
+10.	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from 
+the assessments at Question 9 above.
+Not Applicable
+Leadership Indicators
+2.	 Details of a business process being modified / introduced as a result of addressing human rights grievances/
+complaints.
+Honeywell has a robust human rights due diligence process through which it continuously assesses and improves its 
+ability to respond to any negative human rights impacts.
+3.	 Details of the scope and coverage of any Human rights due-diligence conducted.
+Honeywell has established standardized policies and processes to evaluate suppliers prior to selection including detailed 
+compliance checks and rating assessments encompassing supply chain risk management. All new suppliers must 
+pass this assessment process prior to contracting with Honeywell. Honeywell also monitors its supply chain through 
+adverse media to detect vulnerabilities of its supply chain that include labor violations. Furthermore, Honeywell has a 
+program in place to conduct audits, when needed, of its supply chain to ensure compliance with the Supplier Code of 
+Business Conduct, including Honeywell’s policies regarding slavery and human trafficking. Honeywell reserves the right 
+to terminate a supplier relationship if the supplier fails to comply with applicable legal requirements or the Honeywell 
+Supplier Code of Business Conduct, including Honeywell’s policies aimed at combatting slavery and human trafficking.
+4.	 Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of 
+Persons with Disabilities Act, 2016? 
+The registered and corporate offices of the Company have ramps for easy movement of differently abled visitors. Most of 
+the offices are located in commercial premises which may be on the ground floor or have elevators and infrastructure for 
+differently abled visitors. Wheelchair accessible restrooms are available in certain offices of the Corporation. 
+5.	 Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such partners) that were assessed
+Sexual Harassment
+The Company expects its value chain partners to adhere to the same values, principles and 
+business ethics upheld by the Company in all their dealings. No specific assessment in respect of 
+value chain partners has been carried out.
+Discrimination at workplace
+Child Labour
+Forced Labour/Involuntary 
+Labour
+Wages
+Others – please specify
+Annual Report FY 2022-23   |   Honeywell Automation India Limited
+71 
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the environment
+Essential Indicators
+1.	 Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format: 
+Parameter
+FY 2022-23
+FY 2021-22
+Total electricity consumption (A) 
+2,48,57,77,47,84,000
+2,44,19,92,78,80,000
+Total fuel consumption (B)
+21,05,52,71,04,000
+17,40,53,37,60,000
+Energy consumption through other sources (C)
+0
+0
+Total energy consumption (A+B+C)
+2,69,63,30,18,88,000
+2,61,60,46,16,40,000
+Energy intensity per rupee of turnover
+(Total energy consumption/ turnover in rupees)
+782
+887
+Energy consumption captured in Joules.
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) 
+If yes, name of the external agency.
+No, the Company did not carry out independent assessment by an external agency.
+2.	 Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, 
+Achieve and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the 
+PAT scheme have been achieved. In case targets have not been achieved, provide the remedial action taken, if any. 
+No, the Company does not have any sites / facilities identified as designated consumers (DCs) under the Performance, 
+Achieve and Trade (PAT) Scheme of the Government of India,
+3.	 Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+Water withdrawal by source (in kilolitres)
+(i) Surface water
+0
+0
+(ii) Ground water
+10,733
+13,101
+(iii) Third party water
+3,290
+1,240
+(iv) Seawater / desalinated water
+0
+0
+(v) Others*
+19,643
+14,262
+Total volume of water withdrawal
+(in kilolitres) (i + ii + iii + iv + v)
+29,525
+28,603
+Total volume of water consumption
+(in kilolitres)
+29,525
+28,603
+Water intensity per rupee of
+turnover (Water consumed / turnover)
+0.00000085
+0.00000097
+* Usage of municipal water is shown here, as the Company doesn’t extract water directly from the sources.
+Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N) 
+If yes, name of the external agency.
+No, the Company did not carry out independent assessment by an external agency.
+4.	 Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation.
+Yes, water being an important environmental resource, necessary initiatives are taken in the Company’s manufacturing 
+unit to conserve and recycle water, thus ensuring ZLD. Suitable and efficient wastewater treatment like STP are installed 
+in the manufacturing unit with primary, secondary, and tertiary treatment which include nano filtration / RO / UV 
+treatment facilities to treat wastewater to usable quality water. The treated water is further used for gardening activities 
+within the premises. 
+Honeywell Automation India Limited   |   Annual Report FY 2022-23
+72 
+Business Responsibility and Sustainability Report 
+5.	 Please provide details of air emissions (other than GHG emissions) by the entity, in the following format: 
+Parameter
+Unit
+FY 2022-23
+FY 2021-22
+NOx
+NA
+NA
+NA
+SOx
+Kg/day
+2.37
+1.38
+Particulate matter (PM)
+Mg/nm3
+20.83
+14.55
+Persistent organic pollutants (POP)
+NA
+NA
+NA
+Volatile organic compounds (VOC)
+NA
+NA
+NA
+Hazardous air pollutants (HAP)
+NA
+NA
+NA
+Others
+NA
+NA
+NA
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) 
+If yes, name of the external agency.
+No, the Company did not carry out independent assessment by an external agency.
+6.	 Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following 
+format:
+Parameter
+Unit
+FY 2022-23
+FY 2021-22
+Total Scope 1 emissions (Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of 
+CO2 Equivalent
+160
+137
+Total Scope 2 emissions (Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of 
+CO2 Equivalent
+5,593
+5,494
+Total Scope 1 and Scope 2 emissions per rupee of turnover
+0.00015
+0.00021
+Total Scope 1 and Scope 2 emission intensity (optional) – the 
+relevant metric may be selected by the entity
+NA
+NA
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) 
+If yes, name of the external agency.
+No, the Company did not carry out independent assessment by an external agency.
+7.	 Does the entity have any project related to reducing Green House Gas emission? If Yes,  then provide details.
+The Company adheres to Honeywell Supply framework and strategy to reduce GHG emissions. Honeywell International’s 
+commitment to being environmentally responsible is reflected in the extensive work it does to reduce GHG emissions, 
+increase energy efficiency, conserve water, minimize waste and drive efficiency throughout our operations. Honeywell 
+also champions responsible remediation projects and efforts to make our products safer and more sustainable. Please 
+refer to Honeywell ESG Report 2022 for more details.
+Annual Report FY 2022-23   |   Honeywell Automation India Limited
+73 
+8.	 Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+16.61
+13.24
+E-waste (B)
+0.96
+1.025
+Bio-medical waste (C)
+0.14
+0.20
+Construction and demolition waste (D)
+0
+0
+Battery waste (E)
+0
+0
+Radioactive waste (F)
+0
+0
+Other Hazardous waste. Please specify, if any. (G)
+2.0 
+2.5
+Other Non-hazardous waste generated (H). Please 
+specify, if any. (Break-up by composition i.e. by 
+materials relevant to the sector)
+220
+400
+Total (A+B + C + D + E + F + G+ H)
+240
+417
+For each category of waste generated, total waste recovered through recycling, re-using or
+other recovery operations (in metric tonnes)
+Category of waste
+(i) Recycled
+237.5
+413
+(ii) Re-used
+0
+0
+(iii) Other recovery operations
+0
+0
+Total
+237.5
+413
+For each category of waste generated, total waste disposed by nature of disposal method  
+(in metric tonnes)
+Category of waste
+(i) Incineration
+NA
+NA
+(ii) Landfilling
+NA
+NA
+(iii) Other disposal operations
+NA
+NA
+Total
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) 
+If yes, name of the external agency.
+No, the Company did not carry out independent assessment by an external agency.
+9.	 Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted 
+by your company to reduce usage of hazardous and toxic chemicals in your products and processes and the 
+practices adopted to manage such wastes.
+Honeywell manages waste in accordance with all regulatory requirements while also seeking to minimize waste 
+generation and environmental impact. All of our locations and functions are required to handle waste in accordance with 
+our HSEPS management system which includes: 
+• Detailed characterization and classification of all waste streams.
+• Process of due diligence and impact assessment for all facilities receiving hazardous waste, from our operations 
+including a review and approval process by a global team; Honeywell’s hazardous waste streams are only permitted to 
+be sent to these approved facilities. 
+• Annual duty of care assessments of all receiving facilities and transporters of Honeywell’s waste, including compliance 
+with local regulations and permitting requirements and ability to handle our waste streams, prior to any waste 
+movement. 
+• On-site management of waste streams to prevent releases and impact on the environment, including container 
+management and spill prevention. 
+• Annual training for all employees and contractors that perform waste related activities. 
+• Annual or more frequent audits of waste movements to confirm compliance and identify opportunities for waste 
+reduction and diversion. 
+Honeywell Automation India Limited   |   Annual Report FY 2022-23
+74 
+Business Responsibility and Sustainability Report 
+10.	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife 
+sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where 
+environmental approvals / clearances are required, please specify details.
+Currently, no office or factory location of the Company are part of ecologically sensitive areas.
+11.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in 
+the current financial year: 
+No projects were implemented in FY 2022-23 which required EIA to be undertaken by the Company.
+12.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the 
+Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment 
+protection act and rules thereunder (Y/N). If not, provide details of all such non-compliances.
+The Company complies to all the applicable environmental law/ regulations/ guidelines in India.
+PRINCIPLE 7: Businesses, when engaging in influencing public and regulatory policy, should do so in a 
+manner that is responsible and transparent
+Essential Indicators
+1. a. Number of affiliations with trade and industry chambers/ associations.
+The Company is a member of 6 trade and industry chambers/ associations, details of which are given in point 1.b. 
+below.
+b. List the top 10 trade and industry chambers/ associations (determined based on the  total members of such 
+body) the entity is a member of/ affiliated to.
+S. 
+No.
+Name of the trade and industry chambers/ associations
+Reach of trade and industry chambers/ 
+associations (State/National)
+1.
+United States India Strategic Partnership Forum (USISPF)
+National
+2.
+Confederation of Indian Industry (CII)
+National
+3.
+The Federation of Indian Chambers of Commerce and Industry (FICCI)
+National
+4.
+Public Affairs Forum of India (PAFI)
+National
+5.
+ American Chamber of Commerce (AMCHAM)
+National
+6.
+Mahratta Chamber of Commerce, Industry and Agriculture (MCCIA)
+State
+2. Provide details of corrective action taken or underway on any issues related to anti- competitive conduct by the 
+entity, based on adverse orders from regulatory authorities.
+There were no cases of any anti-competitive conduct during the reporting period.
+Leadership Indicators
+1. Details of public policy positions advocated by the entity:
+S. 
+No.
+Public policy 
+advocated
+Method resorted for such advocacy
+Whether 
+information 
+available in public 
+domain (Yes / No)
+Frequency of Review by 
+Board (Annual / Half 
+Yearly / Quarterly / 
+Others - please specify) 
+Weblink 
+if 
+available
+1.
+Terms & Conditions 
+in State-owned 
+Enterprise contracts
+Joint Industry representation made 
+to Ministry of Petroleum and Natural 
+Gas (MOPNG) on neutral terms and 
+conditions in SOE contracts 
+No
+Half Yearly
+ -
+2.
+Public Preference 
+Order-Make in India 
+(PPO-MII)
+Representation made via CII-MNC 
+Committee on the need for more time to 
+Global MNCs for changes in the supply 
+chain ecosystem
+No
+Half Yearly
+-
+Annual Report FY 2022-23   |   Honeywell Automation India Limited
+75 
+S. 
+No.
+Public policy 
+advocated
+Method resorted for such advocacy
+Whether 
+information 
+available in public 
+domain (Yes / No)
+Frequency of Review by 
+Board (Annual / Half 
+Yearly / Quarterly / 
+Others - please specify) 
+Weblink 
+if 
+available
+3.
+Personal Data 
+Protection Bill 2019
+Industry advocacy with regard to some 
+of the terms affecting the industry in 
+the Personal Data Protection Bill 2019.
+No
+Half Yearly
+ -
+4.
+Fire Security in the 
+National Building 
+Code
+Ongoing advocacy on changes 
+required in the National Building Code 
+for greater security against fire in 
+residential building.
+No
+Half Yearly
+ -
+5.
+Contract Terms in 
+Airport tenders
+Representation to Airport Authority for 
+neutral terms in airport contracts
+No
+Half Yearly
+-
+PRINCIPLE 8:	 Businesses should promote inclusive growth and  equitable development
+Essential Indicators
+1.	 Details of Social Impact Assessments (SIA) of projects undertaken by the entity based   on applicable laws, in the 
+current financial year. 
+Name and brief 
+details of project
+SIA 
+Notification 
+No.
+Date of 
+notification
+Whether conducted 
+by independent 
+external agency 
+(Yes / No)
+Results 
+communicated In 
+public domain  
+(Yes / No)
+Relevant Web link
+-
+-
+-
+-
+-
+-
+SIA was not applicable in the reporting year.
+2.	 Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken 
+by your entity, in the following format: 
+S. 
+No.
+Name of Project for 
+which R&R is ongoing
+State
+District
+No. of Project Affected 
+Families (PAFs)
+% of PAFs covered 
+by R&R
+Amounts paid to PAFs in the 
+FY (In INR)
+-
+-
+-
+-
+-
+-
+-
+3.	 Describe the mechanisms to receive and redress grievances of the community. 
+The Company has a defined process to ensure all the complaints and feedback from all stakeholders including 
+communities are received and addressed, few of the links given below:
+•	 Dedicated contact link for Honeywell Help and support https://www.honeywell.com/us/en/contact
+•	 Dedicated page for Integrity and Compliance Access integrity  
+https://www.honeywell.com/us/en/company/integrity-and-compliance
+4.	 Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY 2022-23
+FY 2021-22
+Directly sourced from MSMEs/ small producers
+23%
+19%
+Sourced directly from within the district and neighbouring districts
+26%
+23%
+PRINCIPLE 9:  Businesses should engage with and provide value to their consumers in a responsible manner
+Essential Indicators
+1.	 Describe the mechanisms in place to receive and respond to consumer complaints and feedback. 
+The Company has a defined a process to ensure all the complaints and feedback from customers received from multiple 
+channels are addressed. Dedicated contact link for Honeywell Help and support is available on the weblink:  
+https://process.honeywell.com/us/en/contact-us
+Honeywell Automation India Limited   |   Annual Report FY 2022-23
+76 
+Business Responsibility and Sustainability Report 
+2.	 Turnover of products and/ services as a percentage of turnover from all products/service that carry information 
+about: 
+As a percentage to total turnover*
+Environmental and social parameters relevant to the product
+100% (of products)
+Safe and responsible usage
+100% (of products)
+Recycling and/or safe disposal
+100% (of products)
+* as required under relevant laws.
+3.	 Number of consumer complaints in respect of the following: 
+FY 2022-23
+Remarks
+FY 2021-22
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Data privacy
+0
+0
+-
+0
+0
+-
+Advertising
+0
+0
+-
+0
+0
+-
+Cyber-security
+0
+0
+-
+0
+0
+-
+Delivery of essential services
+0
+0
+-
+0
+0
+-
+Restrictive Trade Practices
+0
+0
+-
+0
+0
+-
+Unfair Trade Practices
+0
+0
+-
+0
+0
+-
+Other
+0
+0
+-
+0
+0
+-
+4.	 Details of instances of product recalls on account of safety issues:
+Number
+Reasons for recall
+Voluntary recalls
+0
+-
+Forced recalls
+0
+-
+5.	 Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If 
+available, provide a web-link of the policy.
+Honeywell’s comprehensive Global Data Privacy Program is based upon strong commitment to protect the personal 
+data of employees, customers, suppliers and other stakeholders. Honeywell’s privacy policies establish uniform global 
+standards for how the company processes personal data. Our policies and practices promote adherence to data privacy 
+principles that are commonly recognized around the world and respect the privacy rights of data subjects. To the 
+extent that applicable law or contractual provisions impose stricter requirements than our policies, Honeywell always 
+complies with the more restrictive legal or contractual requirements. Honeywell’s cybersecurity framework safeguards 
+the confidentiality, integrity, and availability of information assets and ensures that all regulatory, operational, and 
+contractual requirements are fulfilled. Our policies and practices include regular internal and external audits; vulnerability 
+assessments and penetration testing of the company’s systems, products, and practices; and robust measures to 
+monitor and respond to data breach and cybersecurity incidents. 
+6.	 Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of 
+essential services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; 
+penalty / action taken by regulatory authorities on safety of products / services. 
+There were no such complaint received by the Company.
+Annual Report FY 2022-23   |   Honeywell Automation India Limited
+77 
+Annexure-1 of BRSR
+Web Links of Honeywell Policies
+Honeywell Policies in line with the National Guidelines on Responsible Business Conduct:
+S. 
+No.
+Policy
+Link
+1.
+Honeywell 
+Code of  
+Business 
+Conduct
+https://www.honeywell.com/content/dam/honeywellbt/en/documents/downloads/code-of-conduct/HON_COC_English.pdf
+2.
+Honeywell 
+Supplier  
+Code of  
+Business 
+Conduct 
+https://www.honeywell.com/us/en/company/integrity-and-compliance/supplier-code-of-business-conduct
+3.
+Honeywell 
+Anticorruption 
+Policy
+https://www.honeywell.com/content/dam/honeywellbt/en/documents/downloads/hon-anticorruption-policy.pdf
+4.
+Honeywell 
+Human Rights 
+Policy
+https://www.honeywell.com/content/dam/honeywellbt/en/documents/downloads/hon-human-rights-policy.pdf
+5.
+Honeywell 
+Environmental, 
+Social and 
+Governance 
+Report 2022 
+https://www.honeywell.com/us/en/company/esg-report
+6.
+Corporate  
+Social  
+Responsibility 
+Policy
+https://www.honeywell.com/in/en/hail#policies
+7.
+Policy for 
+determination 
+of materiality 
+of any event / 
+information
+https://www.honeywell.com/in/en/hail#policies
+8.
+Whistle 
+Blower Policy
+https://www.honeywell.com/in/en/hail#policies
+9.
+General  
+Policies
+https://www.honeywell.com/in/en/hail#policies
+All other policies are available on the Company’s internal network.

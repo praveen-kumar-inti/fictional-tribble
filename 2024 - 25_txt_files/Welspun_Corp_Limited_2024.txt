@@ -1,0 +1,4289 @@
+WCL/SEC/2025 
+ 9th July, 2025 
+To, 
+BSE Ltd.   
+Listing Department, 
+P. J. Towers, Dalal Street, 
+Mumbai – 400 001.  
+(Scrip Code: Equity - 532144), 
+(NCD – 960491 and 973309) 
+National Stock Exchange of India Ltd. 
+Exchange Plaza,  
+Bandra-Kurla Complex,  
+Bandra (E), Mumbai – 400 051. 
+(Symbol: WELCORP, Series EQ) 
+Dear Sir/ Madam, 
+Sub.: Business Responsibility and Sustainability Report for the financial year ended 
+31st March, 2025. 
+Ref.: 
+a.  Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing 
+Obligations 
+and 
+Disclosure 
+Requirements) 
+Regulations 
+2015 
+(“Listing 
+Regulations”) 
+b. ISIN: INE191B01025
+In terms of Regulation 34(2)(f) of the Listing Regulations, attached is the Business 
+Responsibility and Sustainability Report which forms part of the Company’s Annual Report for 
+the financial year ended 31st March, 2025. 
+The Report is also available on the Company’s website at: 
+
+www.welspuncorp.com/agm-2025.php
+This is for your information and records. 
+Thanking you. 
+Yours faithfully, 
+For Welspun Corp Limited 
+Kamal Rathi 
+Company Secretary and Compliance Officer 
+ACS-18182 
+KAMAL 
+RATHI
+Digitally signed 
+by KAMAL RATHI 
+Date: 2025.07.09 
+14:03:42 +05'30'
+Financial Statements
+Statutory Reports
+Corporate Overview
+177
+SECTION A: GENERAL DISCLOSURE
+I.	
+Details of the Listed Entity
+1
+Corporate Identity Number (CIN) of the Listed Entity
+L27100GJ1995PLC025609
+2
+Name of the Listed Entity
+Welspun Corp Limited
+3
+Year of incorporation
+1995
+4
+Registered office address
+Welspun City, Village Versamedi, Taluka Anjar, Dist. 
+Kutch, Gujarat-370110
+5
+Corporate address
+Welspun House, 5th Floor, Kamala Mills Compound, 
+Senapati Bapat Marg, Lower Parel, Mumbai - 400 013
+6
+E-mail
+CompanySecretary_WCl@welspun.com
+7
+Telephone
++91 22 6613 6000
+8
+Website
+www.welspuncorp.com
+9
+Financial year for which reporting is being done
+April 1, 2024 to March 31, 2025.
+10
+Name of the Stock Exchange(s) where shares are listed
+National Stock Exchange  of India Ltd. (NSE) & BSE Ltd.
+11
+Paid-up Capital
+` 131.17 crores divided in to 26,23,49,395 equity shares 
+of ` 5 each fully paid up
+12
+Contact Person
+Name of the Person
+Mr Alok Mishra - Group Head – Sustainability
+Telephone
++ 91 22 6613 5936
+Email address
+alok_mishra@welspun.com
+13
+Reporting Boundary
+The report covers ESG performance of WCL Standalone 
+business which includes 1) Line Pipe division, 2) 
+Metallics division (Pig Iron Manufacturing) and 3) Steel 
+division( Sponge Iron and Billets manufacturing division). 
+The operating locations of the Company include Anjar, 
+Bhopal,Mandya and Head office, Mumbai
+14
+Name of the Assurance provider
+BDO India LLP.
+15
+Type of Assurance obtained
+Limited Assurance
+II. 	
+Products and Services
+16.	 Details of business activities (accounting for 90% of the entity’s turnover)
+S. 
+No
+Description of Main Activity
+Description of Business Activity
+% Turnover 
+of the Entity
+1
+Welspun Corp Limited is in the business of manufacturing and sale of basic Iron and Steel pipes 
+along with other by products
+100%
+17.	 Products/Services sold by the entity (accounting for 90% of the entity’s turnover)
+S. 
+No
+Product service
+NIC code
+% of  
+Total Turnover contributed
+1
+Manufacturing of basic Iron and Steel pipes along with other by 
+products
+2410
+100%
+Source: National Industrial Classification.
+Business Responsibility & Sustainability Report
+Annual Report 2024-25
+178
+III. 	 Operations
+18 	 Number of locations where plants and/ or operations/office of the entity are situated:
+Location
+Number of plants
+No. of Offices
+Total
+National
+3 - (Anjar, Mandya & Bhopal)
+1 – Mumbai
+4
+International
+1- Little Rock, USA
+1 – Houston
+2
+19	
+Market served by the entity
+Locations
+Numbers
+a.	
+No. of Locations
+National (No. of States)
+More than 15 states
+International (No. of Countries)
+More than 10 countries
+b. 	
+What is the contribution of exports as a 
+percentage of the total turnover of the entity?
+Exports contribute to 20.46% of the total turnover
+c.	
+A brief on types of customers
+WCL customer base comprises of domestic as well as international 
+oil and gas companies, water transportation and irrigation sectors, 
+EPC’s, government entities including PSU, PSE, central and state 
+level bodies.
+IV.	
+Employees
+	
+20	
+Details as at the end of Financial Year:
+S. 
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+a.
+Employees and workers (including differently abled)
+Employees
+1
+Permanent Employees (A)
+1233
+1116
+91%
+117
+9%
+2
+Other than Permanent
+Employees (B)
+24
+21
+88%
+3
+13%
+3
+Total Employees (A+B)
+1257
+1137
+90%
+120
+10%
+Workers
+4
+Permanent (C)
+1465
+1449
+99%
+16
+1%
+5
+Other than Permanent (D)
+1553
+1499
+97%
+54
+3%
+6
+Total Workers (C+D)
+3018
+2948
+98%
+70
+2%
+b.
+Differently abled employees and workers
+Employees
+7
+Permanent Employees (E)
+2
+2
+100%
+0
+0%
+8
+Other than Permanent Employees (F)
+0
+0
+0%
+0
+0%
+9
+Total Employees (E+F)
+2
+2
+100%
+0
+0%
+Workers
+10
+Permanent (G)
+3
+2
+67%
+1
+33%
+11
+Other than Permanent (H)
+0
+0
+0%
+0
+0%
+12
+Total Differently Abled Employees (G+H)
+3
+2
+67%
+1
+33%
+Note: The above table excludes apprentices nos.
+Business Responsibility & Sustainability Report (Contd.)
+Financial Statements
+Statutory Reports
+Corporate Overview
+179
+21	
+Participation/Inclusion/Representation of women
+S. 
+No.
+Category
+Total (A)
+No. and % of females
+No. (B)
+% (B/A)
+1
+Board of Directors
+10
+1
+10%
+2
+Key Management Personnel
+3
+0
+0
+22. 	 Turnover rate for permanent employees and workers (Disclose trends for the past 3 years)
+Category
+FY 2024-2025
+FY 2023-2024
+FY 2022-2023
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent 
+Employees
+23%
+20%
+23%
+19%
+2%
+20%
+15%
+41%
+16%
+Permanent 
+Workers
+14%
+13%
+14%
+11%
+0.1%
+11%
+10%
+0%
+10%
+V.	
+Holding, Subsidiary, and Associate Companies (including joint ventures)
+23 (a) Names of holding / subsidiary / associate companies / joint ventures
+S. 
+No.
+Name of the holding / subsidiary/ associate 
+companies / joint ventures
+Indicate whether it is a 
+holding / Subsidiary/ 
+Associate/ or Joint 
+Venture
+% of 
+shares 
+held by 
+listed 
+entity
+Does the entity 
+indicated in column 
+A, participate 
+in the Business 
+Responsibility 
+initiatives of the listed 
+entity? (Yes/ No)
+1
+Welspun Pipes Inc. (USA)
+Wholly Owned Subsidiary
+100.00%
+No, the subsidiaries 
+manage and carry out 
+their own Business 
+Responsibility
+initiatives in line with 
+the legal requirements 
+applicable to them.
+2
+Welspun Tradings Limited (India)
+Wholly Owned Subsidiary
+100.00%
+3
+Welspun DI Pipes Limited (India)
+Wholly Owned Subsidiary
+100.00%
+4
+Welspun Tubular LLC (USA)
+Wholly Owned Subsidiary
+100.00%
+5
+Welspun Global Trade LLC (USA)
+Wholly Owned Subsidiary
+100.00%
+6
+Anjar TMT Steel Private Limited (India)
+Wholly Owned Subsidiary
+100.00%
+7
+Sintex Prefab & Infra Limited (India)
+Wholly Owned Subsidiary
+100.00%
+8
+Sintex-BAPL Limited (India)
+Wholly Owned Subsidiary
+100.00%
+9
+Sintex Advance Plastics Limited (India)
+Wholly Owned Subsidiary
+100.00%
+10
+Sintex Holdings B.V (Netherlands)
+Wholly Owned Subsidiary
+100.00%
+11
+Weetek Plastics Private Limited (India)
+Wholly Owned Subsidiary
+100.00%
+12
+Welspun Pipes Company, LLC  
+(Kingdom of Saudi Arabia)
+Wholly Owned Subsidiary
+100.00%
+13
+Welspun Logistics LLC (USA)
+Wholly Owned Subsidiary
+100.00%
+14
+Welspun Europe S.A. (Spain)
+Wholly Owned Subsidiary
+100.00%
+15
+Welspun Mauritius Holdings Limited (Mauritius)
+Subsidiary
+97.43%
+16
+Welspun Specialty Solutions Limited (India)
+Subsidiary
+51.06%
+17
+Welspun Wasco Coatings Private Limited (India)
+Joint Venture
+51.00%
+18
+East Pipes Integrated Company for Industry (EPIC) 
+(Kingdom of Saudi Arabia)
+Associate
+26.50%
+19
+Nauyaan Shipyard Private Limited (India)
+Associate
+26.00%
+20
+CleanMax Dhyuthi Private Limited (India)
+Associate
+26.00%
+21
+Bhargavi Renewable Private Limited (India)
+Associate
+25.59%
+22
+Mounting Renewable Power Limited (India)
+Associate
+21.54%
+23
+Welspun Captive Power Generation Limited (India)
+Associate
+21.40%
+Note: The above table includes list of Holding, Subsidiary, and Associate Companies as of March 31, 2025
+Business Responsibility & Sustainability Report (Contd.)
+Annual Report 2024-25
+180
+VI	
+CSR Details
+24	
+i.	
+Whether CSR is applicable as per section 135 of Companies Act, 2013: Yes
+	
+ii.	
+Turnover (in `)	8835.19 crore
+	
+iii.	
+Net worth (in `) 4299.48 crore
+VII	 Transparency and Disclosures Compliances
+25. 	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct
+Stakeholder group from whom the 
+complaint is received
+Grievance 
+Redressal 
+Mechanism 
+in Place 
+(Yes/No)
+If Yes, then 
+provide 
+web-link 
+for the 
+grievance 
+redressal 
+policy
+FY 2024-25 
+Current Financial Year
+FY 2023-24 
+Previous Financial Year
+Number of 
+complaints 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at the close 
+of the year
+Number of 
+complaints 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at the close 
+of the year
+Communities
+Yes
+0
+0
+0
+0
+Investors (other than shareholders)
+Yes
+Grievance 
+Redressal 
+Policy
+0
+0
+0
+0
+Shareholders
+Yes
+5
+0
+8
+0
+Employees and workers
+Yes
+0
+0
+0
+0
+Customers
+Yes
+0
+0
+0
+0
+Value Chain Partners
+-
+0
+0
+0
+0
+Other (please specify)
+-
+0
+0
+0
+0
+26.	 Overview of the entity’s material responsible business conduct issues
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity
+The rationale for identifying the 
+risk/ opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+Climate 
+Change
+Risk
+Changing climatic pattern and 
+increased unfavorable weather 
+events
+WCL has identified and adopted 
+Climatic 
+change 
+strategies 
+including 
+renewable 
+power, 
+water 
+recycling, 
+circular 
+economy, alternate fuels etc. 
+into its operations
+Negative 
+implication
+Energy and 
+Carbon
+Risk
+Recognizing energy and carbon 
+as risks can help in  taking 
+prompts 
+proactive 
+measures 
+to enhance energy  efficiency, 
+transition  to renewable sources, 
+and mitigate carbon emissions
+WCL has set a target to 
+increase its renewable energy 
+consumption to 20% by 2030 
+and be carbon neutral by 2040. 
+The Company has implemented 
+various energy saving initiatives
+Negative 
+implication
+Business Responsibility & Sustainability Report (Contd.)
+Financial Statements
+Statutory Reports
+Corporate Overview
+181
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity
+The rationale for identifying the 
+risk/ opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+Occupational 
+Health & 
+Safety
+Risk
+Identifying occupational health 
+and safety as a risk is critical 
+due to its direct impact on 
+employees & workers safety, 
+well-being, 
+productivity, 
+and 
+legal compliance.
+WCL has Safety Committees 
+in its facilities that ensure 
+adherence 
+to 
+WCL’s 
+Occupational 
+Health, 
+Safety 
+and Environment (OHSE) policy, 
+compliance with regulations and 
+provide safety trainings to its 
+employees and contract staff. 
+Additionally, they access near-
+miss and other incidents at sites 
+to identify the gaps in preventive 
+risk 
+mitigation, 
+improving 
+processes and procedures
+Negative 
+implication
+Community 
+development & 
+engagement
+Opportunity
+-
+Not Applicable
+Positive 
+implication
+Water 
+management
+Risk
+Water scarcity, pollution incidents 
+or improper discharge practices 
+can lead to environmental and 
+regulatory challenges.
+Recognizing these factors can 
+help to take proactive measures 
+to enhance water management
+WCL measures and monitors 
+the quantity of water consumed 
+across all its business locations 
+and operations. WCL aims to 
+ensure water stewardship by 
+identifying 
+operations 
+where 
+water conservation techniques 
+can be implemented and using 
+recycled water to limit water 
+consumption. It also ensures 
+proper treatment of wastewater 
+from its facilities in line with 
+applicable 
+standards 
+and 
+regulations.
+Negative 
+implication
+Air emission
+Risk
+Air emissions pose a significant 
+risk to human health and the 
+surrounding environment
+WCL 
+ensures 
+proper 
+maintenance 
+of 
+equipment’s 
+with continuous air monitoring 
+to ensure emissions are within 
+permissible limits
+Negative 
+implication
+Governance, 
+ethics & 
+transparency
+Opportunity
+Not Applicable
+Positive 
+implication
+Human rights
+Risk
+Violations related to human 
+rights, 
+such 
+as 
+employee 
+exploitation, discrimination, or 
+unsafe working conditions, can 
+lead to legal liabilities, regulatory 
+fines, and reputational harm.
+Our Code of Conduct and Ethics 
+Policy, Prevention of Sexual 
+Harassment (PoSH) Policy, and 
+HR practices covers aspects 
+of human rights for WCL’s 
+operations and are extended 
+to subsidiaries, suppliers and 
+business partners
+Negative 
+implication
+Business Responsibility & Sustainability Report (Contd.)
+Annual Report 2024-25
+182
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity
+The rationale for identifying the 
+risk/ opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+Product quality
+Opportunity
+Not Applicable
+Positive 
+implication
+Waste 
+management
+Risk
+Various 
+concerns 
+viz. 
+Land 
+pollution, 
+improper 
+disposal 
+techniques, resource efficiency, 
+regulatory challenges etc. can 
+arise due to improper waste 
+management
+WCL has an effective waste 
+management 
+system 
+in 
+place 
+across 
+facilities. 
+The 
+primary focus is on reducing 
+waste generation as well as 
+effective management through 
+segregation, 
+treatment 
+and 
+disposal 
+based 
+on 
+waste 
+typology in accordance with 
+guidelines from Pollution Control 
+Boards. WCL has adopted the 3R 
+approach
+(i.e., Reduce, Reuse, Recycle) 
+to monitor the waste generated 
+from its operations and identify 
+areas 
+for 
+waste 
+reduction, 
+recycling and reuse
+Negative 
+implication
+Risk 
+identification & 
+management
+Risk
+Failure to effectively manage 
+risks can lead to financial losses, 
+reputational 
+damage, 
+and 
+operational disruptions.
+WCL has established a risk 
+management policy that defines 
+the overall risk management 
+framework covering guidelines 
+for 
+risk 
+identification, 
+assessment, 
+prioritization, 
+mitigation and monitoring. The 
+risk management committee of 
+the Board oversees and
+reviews the risk management 
+framework 
+as 
+well 
+as 
+the 
+assessment 
+of 
+risks, 
+its 
+management 
+and 
+mitigation 
+procedures. 
+The 
+committee 
+reports 
+its 
+findings 
+and 
+recommendations to the Board.
+Negative 
+implication
+Economic 
+performance 
+& business 
+growth
+Opportunity
+Not Applicable
+Positive 
+implication
+Customer 
+centricity
+Opportunity
+Not Applicable
+Positive 
+implication
+Employee
+wellbeing
+Opportunity
+Not Applicable
+Positive 
+implication
+Business Responsibility & Sustainability Report (Contd.)
+Financial Statements
+Statutory Reports
+Corporate Overview
+183
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity
+The rationale for identifying the 
+risk/ opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+Innovation
+Opportunity
+Not Applicable
+Positive 
+implication
+Circular 
+economy
+Opportunity
+Not Applicable
+Positive 
+implication
+Sustainable 
+product (Green 
+Steel)
+Opportunity
+Not Applicable
+Positive 
+implication
+Supply chain 
+sustainability/ 
+value chain
+Risk
+Recognizing 
+supply 
+chain 
+sustainability as a risk enables 
+proactive measures to be taken 
+to enhance resilience, optimize 
+processes, and mitigate potential 
+disruptions, 
+safeguarding 
+business continuity and long-
+term success.
+WCL 
+has 
+implemented 
+its 
+Supplier Code of Conduct based 
+on ESG parameters for its 
+suppliers to adhere and follow. 
+It regularly evaluates its vendors 
+on required quality standards to 
+ensure the highest standards in 
+material procurement.
+The 
+assessment 
+procedures 
+include screening on ISO, EMS 
+Certifications, 
+supply 
+chain 
+management, labor practices, 
+and safety, in addition to quality, 
+delivery and service ratings.
+Negative 
+implication
+Biodiversity 
+and ecology
+Risk
+Biodiversity 
+loss 
+disrupt 
+ecosystems impacting micro-
+climate 
+thereby 
+impacting 
+surrounding areas and may 
+cause reputational damage
+WCL 
+carries 
+out 
+plantation 
+initiative 
+through 
+Welspun 
+Foundation near all operation 
+sites. Biodiversity and ecological 
+assessment is also carried out
+Negative 
+implication
+Business Responsibility & Sustainability Report (Contd.)
+Annual Report 2024-25
+184
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+I.	
+Details of the Listed Entity
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and Management Processes
+1	
+a.	
+Whether 
+your 
+entity’s 
+policy/ 
+policies cover each principle and its 
+core elements of the NGRBCs. (Yes/
+No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+b. 	
+Has the policy been approved by the 
+Board? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+c. 	
+Web Link of the Policies, if available
+Welspun Corp | Company Policies
+2. 	
+Whether the entity has translated the 
+policy into procedures. (Yes / No)
+Yes
+3. 	
+Do the enlisted policies extend to your 
+value chain partners? (Yes/No)
+Yes
+4. 	
+Name of the national and international 
+codes/certifications/labels/standards 
+(e.g., 
+Forest 
+Stewardship 
+Council, 
+Fairtrade, Rainforest Alliance, Trustee) 
+standards (e.g., SA 8000, OHSAS, ISO, 
+BIS) adopted by your entity and mapped 
+to each principle.
+The policies are based on prescribed principles, conformance to the 
+spirit of international standards/certifications viz. SA8000, ISO 9001, 
+ISO 14001, ISO 45001, ISO 17025, ISO 29001, UNGC guidelines and ILO 
+guidance.
+WCL is also associated with prominent chambers/associations. Refer 
+Principle 7 for the detailed list.
+5. 	
+Specific commitments, goals and targets 
+set by the entity with defined, if any.
+The below goals and targets are already established for the Line pipe 
+business. 
+(i).	
+Assess 100% of all suppliers as per ESG compliant Code of Conduct
+(ii).	 Carbon Neutrality – To achieve carbon neutrality by 2040;
+(iii). 	 To achieve water neutrality by 2040
+(iv). 	To achieve zero waste to landfill by 2030.
+(v). 	 To Impact 20,00,000 lives through CSV by 2040.
+6. 	
+Performance of the entity against the 
+specific commitments, goal, and targets 
+along with reasons in case the same are 
+not met.
+(i).	
+100% of critical suppliers assessed based on ESG compliant Code 
+of Conduct for the line pipe business
+(ii). 	 Installed and operated 2 MW solar roof top at the Bhopal plant. 
+Installation of 1.19 MW at Mandya and additional 1.5MW at Bhopal 
+completed. WCL also invested in a Special  Purpose Vehicle (SPV) 
+for supply of 42 MW Renewable Energy Round-The-Clock (RE-
+RTC)
+(iii).	 Achieved water intensity of 0.36 KL/MT in FY25.
+(iv).	 More than 90% of the waste generated is recycled/co-processed 
+avoiding disposal to landfill site. 
+(v).	 Impacted more than 11,00,000 lives through CSV in FY25.
+Governance, Leadership, and Oversight
+-
+7. 	
+Statement by director responsible for 
+the 
+business 
+responsibility 
+report, 
+highlighting 
+ESG-related 
+challenges, 
+targets, and achievements
+Welspun Corp Limited is dedicated to sustainable practices and 
+corporate responsibility, as evidenced by our commitment to achieving 
+carbon neutrality by 2040 and incorporating 20% renewable energy into 
+our energy mix by 2030. Our transition strategy prioritizes identifying 
+and mitigating environmental and social risks throughout our operations 
+and value chain. This includes the adoption of renewable energy, energy
+Business Responsibility & Sustainability Report (Contd.)
+Financial Statements
+Statutory Reports
+Corporate Overview
+185
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+efficiency initiatives, water and waste reduction efforts, and talent 
+retention through professional development programs. We also actively 
+participate in industry collaborations, such as the Hydrogen Pipe 
+Joint Industry Project, to drive innovation and progress. We recognize 
+technology as a critical driver in maximizing value for our people and 
+customers. Our ESG performance is continuously monitored to ensure 
+compliance with statutory requirements, and we are committed to 
+regularly submitting compliance reports to the relevant authorities. 
+Ultimately, we believe that business and society can grow stronger 
+by working together, and our Corporate Social Responsibility (CSR) 
+programs aim to foster inclusive growth in underserved communities 
+through initiatives in education, healthcare, the environment, sports, and 
+agriculture.
+8. 	
+Details 
+of 
+the 
+highest 
+authority 
+responsible for implementation and 
+oversight of the Business Responsibility 
+policy (ies).
+Mr Vipul Mathur-Managing Director & CEO
++ 91 22 6613 6000
+vipul_mathur@welspun.com
+9. 
+Committee 
+of 
+the 
+Board/ 
+Director 
+responsible for decision-making on 
+sustainability-related issues? (Yes/ No). 
+If yes, provide details.
+Yes, WCL have established an ESG committee at the Board level 
+and have formulated plans for initiatives to be implemented across 
+Environment, Social and Governance dimensions. Furthermore, WCL 
+have redefined the governance of Environment and Social aspects 
+across organizational levels and this is helping WCL to propel towards 
+meeting our commitments on carbon, water, waste, supply chain and 
+CSR.
+10. 	 Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether the review was 
+undertaken by the Director / 
+Committee of the Board/ Any other 
+Committee
+Frequency (Annually/ Half yearly/ 
+Quarterly/ Any other – please 
+specify)
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Performance against the above 
+policies and follow-up action
+Board Committee
+Quarterly
+Compliance 
+with 
+statutory 
+requirements of relevance to the 
+non-compliances
+Board Committee
+Quarterly
+11. 
+Has 
+the 
+entity 
+carried 
+out 
+independent 
+assessment/ 
+evaluation of the working of its 
+policies by an external agency? 
+(Yes/No). If yes, provide name of 
+the agency
+P
+P
+P
+P
+P
+P
+P
+P
+P
+1
+2
+3
+4
+5
+6
+7
+8
+9
+No. We have a robust functional review mechanism complemented with a 
+strong independent internal audit process that covers the working of all key 
+policies. The internal audits are conducted by various external independent 
+firms during the year.
+Business Responsibility & Sustainability Report (Contd.)
+Annual Report 2024-25
+186
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+PRINCIPLE 1: Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, Transparent 
+and Accountable.
+Essential Indicators
+1.	
+Percentage coverage b/y training and awareness programs on any of principles during the financial year.
+Segment
+Total number 
+of training and 
+awareness 
+programs held
+Topics/principles covered under the 
+training and its impact
+%age of persons 
+in respective 
+category covered 
+by the awareness 
+programs
+Board of Directors
+Multiple 
+trainings/
+programmes 
+throughout the 
+year
+Multiple orientation as well as awareness 
+sessions are regularly organized which 
+covers Health and Safety, Environment, 
+Strategy, Industry updates, Regulatory 
+updates, Ethics & Governance. They are 
+also regularly discussed upon in Board 
+meetings, management meetings as 
+well as other committee meetings
+100.00%
+Key Management Personnel
+100.00%
+Employees other than BODs and KMPs
+Health and safety, Code of conduct, 
+POSH, Anti-bribery and corruption, 
+business specific & operations updates, 
+skill 
+upgradation, 
+human 
+ 
+rights, 
+and other trainings as per business 
+requirement.
+100.00%
+Workers
+100.00%
+2.	
+Details of fines / penalties / punishment / award / compounding fees / settlement amount paid in proceedings (by the 
+entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year, in 
+the following format
+Monetary
+Type
+NGRBC Principle
+Name of the 
+regulatory/ 
+enforcement 
+agencies/ judicial 
+institutions
+Amount (In `) Brief of 
+the case
+Has an appeal been 
+preferred? (Yes/No)
+Penalty/ Fine
+Nil
+Nil
+Nil
+Not Applicable
+Settlement
+Nil
+Nil
+Nil
+Not Applicable
+Compounding fee
+Nil
+Nil
+Nil
+Not Applicable
+Non-Monetary
+Type
+NGRBC Principle
+Name of the 
+regulatory/ 
+enforcement 
+agencies/ judicial 
+institutions
+Brief of the case
+Has an appeal been 
+preferred? (Yes/No)
+Imprisonment
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+Punishment
+Not Applicable
+Not Applicable
+Not Applicable
+Not Applicable
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or 
+non-monetary action has been appealed.
+	
+Not Applicable
+Business Responsibility & Sustainability Report (Contd.)
+Financial Statements
+Statutory Reports
+Corporate Overview
+187
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if avail- able, provide 
+a web-link to the policy.
+	
+Yes, WCL does have an anti-corruption and anti-bribery policy. The policy is available publicly on the following weblink 
+Anti-Bribery and Anti-Corruption policy
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/ corruption:
+Category
+FY 2024-2025
+FY 2023-2024
+Directors
+Nil
+Nil
+KMPs
+Nil
+Nil
+Employees
+Nil
+Nil
+Workers
+Nil
+Nil
+6.	
+Details of complaints with regard to conflict of interest
+Topic
+FY 2024-2025
+FY 2023-2024
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to 
+issues of Conflict of Interest of the Directors
+Nil
+-
+Nil
+-
+Number of complaints received in relation to 
+issues of Conflict of Interest of KMPs
+Nil
+-
+Nil
+-
+7.	
+Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by 
+regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+	
+Not Applicable
+8.	
+Number of days of accounts payables ((Accounts payable *365) / Cost of goods/services procured)
+FY 2024-2025
+FY 2023-2024
+Number of days of accounts payables
+101
+84
+9.	
+Open-ness of business
+	
+Provide details of concentration of purchases and sales with trading houses, dealers, and related parties along-with loans 
+and advances & investments, with related parties, in the following format:
+Parameter
+Metrics
+FY 2024-2025
+FY 2023-2024
+Concentration of 
+Purchases
+a. 	
+Purchases from trading houses as % of total 
+purchases
+72.72%
+45.65%
+b. 	
+Number of trading houses where purchases 
+are made from
+40
+36
+c. 	
+Purchases from top 10 trading houses as % of 
+total purchases from trading houses
+98.85%
+98.81%
+Concentration of Sales a. 	
+Sales to dealers / distributors as % of total 
+sales
+0%
+0%
+b. 	
+Number of dealers / distributors to whom sales 
+are made
+0
+0
+c. 	
+Sales to top 10 dealers / distributors as % of 
+total sales to dealers / distributors
+0%
+0%
+Share of RPTs in
+a. 	
+Purchases (Purchases with related parties / 
+Total Purchases)
+14.82%
+11.34%
+b. 	
+Sales (Sales to related parties / Total Sales)
+26.08%
+19.26%
+c. 	
+Loans & advances (Loans & advances given to 
+related parties / Total loans & advances)
+81.06%
+99.85%
+d. 	
+Investments
+78.67%
+77.72%
+Business Responsibility & Sustainability Report (Contd.)
+Annual Report 2024-25
+188
+PRINCIPLE 2: Businesses should provide goods and services in a manner that is sustainable and safe 
+Essential Indicators
+1.	
+Percentage of R&D and capital expenditure (CAPEX) investments in specific technologies to improve the environmental 
+and social impacts of product and processes to total R&D and CAPEX investments made by the entity, respectively.
+Type
+FY 2024-2025
+FY 2023-2024
+Details of improvement in social and 
+environmental aspects
+Research & Development (R&D)
+100%
+100%
+-
+Capital Expenditure (CAPEX)
+0%
+0%
+-
+2	
+a.	
+Does the entity have procedures in place for sustainable sourcing? (Yes/No) – No
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling, and disposing at the end of life, 
+for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+Product
+Process to safely reclaim the product
+a.	
+Plastics (including packaging)
+Plastic is not being used in packaging of the products. However, if any generated is 
+sent to authorized vendors for co-processing/recycling.
+b.	
+E-Waste
+Sent to authorized recyclers
+c.	
+Hazardous Waste
+Hazardous waste is carefully managed by authorized vendors designated by the 
+pollution control board for co- processing/disposal.
+d.	
+Other Waste
+Non-Hazardous waste including Metal, coating waste, timber etc. generated 
+during the manufacturing is sent to authorized vendors for recycling and further 
+processing. Any other types of waste are also sent to approved recycling facilities
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). No 
+Leadership Indicators
+1.	
+Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for the manufacturing 
+industry) or for its services (for the service industry)? If yes, provide details in the following format.
+	
+No
+2.	
+If there are any significant social or environmental concerns and/or risks arising from the production or disposal of 
+your products/services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, 
+briefly describe the same along-with action taken to mitigate the same.
+	
+Not Applicable
+3.	
+Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing 
+industry) or providing services (for service industry).
+	
+Not Applicable
+Business Responsibility & Sustainability Report (Contd.)
+Leadership Indicators
+1.	
+Awareness programs conducted for value chain partners on any of the principles during the financial year
+Total number of training and 
+awareness programs held
+Topics/principles covered under the training 
+and its impact
+%age of persons in value chain covered 
+by the awareness programs
+Multiple trainings/programmes 
+throughout the year
+Health and Safety, Supply code of conduct, 
+Sustainable procurement, QMS & SME 
+courses with High Impact, Webinar on 
+Environmental, Social and Governance.
+100%
+2.	
+Does the entity have processes in place to avoid/manage conflict of interests involving members of the Board? (Yes/
+No) If yes, provide details of the same.
+	
+Yes, Annual disclosures from interested parties are made, and a process is in place to avoid /manage any conflicts that 
+may arise during meetings convened to consider proposals involving interested parties. Directors with a vested interest 
+do not participate in agenda items in which they are involved.
+Financial Statements
+Statutory Reports
+Corporate Overview
+189
+4.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, and 
+safely disposed, as per the following format:
+FY 2024-2025
+FY 2023-2024
+Reused
+Recycled
+Safely 
+Disposed
+Reused
+Recycled
+Safely 
+Disposed
+Plastics (including packaging)
+Not Applicable
+Not Applicable
+E-waste
+Hazardous waste
+Other waste
+5.	
+Reclaimed products and their packaging materials (as a percentage of products sold) for each product category.
+Indicate product category
+Reclaimed products and their packaging materials as % of total products 
+sold in respective category
+Not Applicable
+PRINCIPLE 3 Businesses should respect and promote the well-being of all employees, including those in their value chains
+Essential Indicators
+1.	
+a.	
+Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total 
+(A)
+Health 
+Insurance
+Accident 
+Insurance
+Maternity 
+Benefits
+Paternity 
+Benefits
+Day Care 
+Facilities
+No. (B)
+% (B/A) No. (C)
+% (C/A) No. (D)
+% (D/A) No. (E)
+% (E/A) No. (F)
+% (F/A)
+Permanent Employees
+Male
+1116
+1116
+100%
+1116
+100%
+0
+0%
+1116
+100%
+0
+0%
+Female
+117
+117
+100%
+117
+100%
+117
+100%
+0
+0%
+117
+100%
+Total
+1233
+1233
+100%
+1233
+100%
+117
+10%
+1116
+90%
+117
+10%
+Other than Permanent Employees
+Male
+21
+21
+100%
+21
+100%
+0
+0%
+12
+57%
+0
+0%
+Female
+3
+3
+100%
+3
+100%
+3
+100%
+0
+0%
+3
+100%
+Total
+24
+24
+100%
+24
+100%
+3
+13%
+12
+50%
+3
+13%
+	
+b.	
+Details of measures for the well-being of workers:
+Category
+% of employees covered by
+Total 
+(A)
+Health 
+Insurance
+Accident 
+Insurance
+Maternity 
+Benefits
+Paternity 
+Benefits
+Day Care 
+Facilities
+No. (B)
+% (B/A) No. (C)
+% (C/A) No. (D)
+% (D/A) No. (E)
+% (E/A) No. (F)
+% (F/A)
+Permanent Employees
+Male
+1449
+1449
+100%
+1449
+100%
+0
+0%
+0
+0%
+0
+0%
+Female
+16
+16
+100%
+16
+100%
+16
+100%
+0
+0%
+16
+100%
+Total
+1465
+1465
+100%
+1465
+100%
+16
+1%
+0
+0%
+16
+1%
+Other than Permanent Employees
+Male
+1499
+206
+14%
+1433
+96%
+0
+0%
+0
+0%
+0
+0%
+Female
+54
+0
+0%
+54
+100%
+0
+0%
+0
+0%
+0
+0%
+Total
+1553
+206
+13%
+1487
+96%
+0
+0%
+0
+0%
+0
+0%
+c.	
+Spending on measures towards well-being of employees and workers (including permanent and other than 
+permanent
+FY 2024-2025
+FY 2023-2024
+Cost incurred on well-being measures as a % of total revenue of the Company
+0.18%
+0.12%
+Business Responsibility & Sustainability Report (Contd.)
+Annual Report 2024-25
+190
+2.	
+Details of retirement benefits, for current Financial Year and previous Financial year
+Sr.
+No.
+Benefits
+FY 2024-2025
+FY 2023-2024
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+worker
+Deducted 
+and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+worker
+Deducted 
+and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+1
+PF
+100%
+100%
+Yes
+100%
+100%
+Yes
+2
+Gratuity
+100%
+100%
+Yes
+100%
+100%
+Yes
+3
+ESI
+12%
+17%
+Yes
+12%
+19%
+Yes
+4
+Others-Please Specify
+-
+-
+-
+-
+-
+-
+3.	
+Accessibility of workplaces: Are the premises/offices of the entity accessible to differently abled employees and 
+workers, as per the requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are 
+being taken by the entity in this regard.
+	
+Yes
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide 
+a web link to the policy.
+	
+Yes, WCL does have an equal opportunity policy. The policy is available publicly on the following web link- Equal Opportunity 
+policy
+5.	
+Return to work and retention rates of permanent employees and workers that took parental leave
+Gender
+Total number 
+of people 
+returned after 
+parental leave 
+in FY
+Total Number 
+of people who 
+took parental 
+leave in FY
+Return to 
+work rate
+Total Number 
+of people 
+retained for 
+12 months 
+after returning 
+from parental 
+leave
+Total number 
+of people 
+returned from 
+parental leave 
+in prior FY
+Retention 
+Rate
+Permanent Employees
+Male
+33
+34
+97%
+31
+37
+84%
+Female
+1
+1
+100%
+1
+1
+100%
+Others
+0
+0
+0%
+0
+0
+0%
+Total
+34
+35
+97%
+32
+38
+84%
+Permanent Workers
+Male
+0
+0
+-
+0
+0
+-
+Female
+0
+0
+-
+0
+0
+-
+Others
+0
+0
+-
+0
+0
+-
+Total
+0
+0
+-
+0
+0
+-
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+workers? If yes, give details of the mechanism in brief.
+Category
+Yes/No (details of mechanism)
+Permanent Workers
+Yes
+We maintain Grievance Register across locations to record 
+grievances if any. A designated team on site is responsible to 
+redress the grievances at the earliest.
+Other than Permanent Workers
+Yes
+Permanent Employees
+Yes
+Other than Permanent Employees
+Yes
+Business Responsibility & Sustainability Report (Contd.)
+Financial Statements
+Statutory Reports
+Corporate Overview
+191
+7.	
+Membership of employees and worker in association(s) or Unions recognized by the listed entity:
+Category
+FY 2024-2025
+FY 2023-2024
+Total 
+employees 
+/ workers in 
+respective 
+category (A)
+No. of employees 
+/ workers in 
+respective category, 
+who are part of 
+association(s) or 
+Union (B)
+% (B/A)
+Total 
+employees 
+/ workers in 
+respective 
+category (C)
+No. of employees / 
+workers in respective 
+category, who are 
+part of association(s) 
+or Union (D)
+%(D/C)
+Permanent Employees
+Male
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+Others
+-
+-
+-
+-
+-
+-
+Total
+-
+-
+-
+-
+-
+-
+Permanent Workers
+Male
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+Others
+-
+-
+-
+-
+-
+-
+Total
+-
+-
+-
+-
+-
+-
+8.	
+Details of training given to employees and workers:
+Category
+Total (A)
+FY 2024-25
+FY 2023-24
+On Health
+and Safety
+On skill
+upgradation
+Total (D)
+On Health
+and Safety
+On skill
+upgradation
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+No. (E)
+% (E / D)
+No. (F)
+% (F / D)
+Employees
+Male
+1137
+1105
+97%
+1051
+92%
+1164
+572
+49%
+894
+77%
+Female
+120
+112
+93%
+118
+98%
+88
+63
+72%
+77
+88%
+Total
+1257
+1217
+97%
+1169
+93%
+1252
+635
+51%
+971
+78%
+Workers
+Male
+2948
+2721
+92%
+628
+21%
+1510
+915
+61%
+960
+64%
+Female
+70
+70
+100%
+5
+7%
+22
+14
+64%
+18
+82%
+Total
+3018
+2791
+92%
+633
+21%
+1532
+929
+61%
+978
+64%
+9.	
+Details of performance and career development reviews of employees and worker:
+Category
+FY 2024-25
+FY 2023-24
+Total (A)
+No. (B)
+% (B / A)
+Total (C)
+No. (D)
+% (D/C)
+Employees
+Male
+1137
+1077
+95%
+1164
+1005
+86%
+Female
+120
+100
+83%
+88
+54
+61%
+Total
+1257
+1177
+94%
+1252
+1059
+85%
+Workers
+Male
+2948
+1587
+54%
+1510
+1438
+95%
+Female
+70
+37
+53%
+22
+13
+59%
+Total
+3018
+1624
+54%
+1532
+1451
+95%
+Business Responsibility & Sustainability Report (Contd.)
+Annual Report 2024-25
+192
+10.	 Health and safety management system:
+a.	
+Whether an occupational health and 
+safety management system has been 
+implemented by the entity? (Yes/No)
+Yes,
+	
+What is the coverage of such system?
+100%, We have implemented HSE management system across all of our 
+plants (Anjar, Mandya, Bhopal)
+b.	
+What are the processes used to 
+identify work-related hazards and 
+assess risks on a routine and non- 
+routine basis by the entity?
+The on duty safety officer on site is responsible for identifying work-related 
+hazards and assessing risks and the process followed is as follows:
+Step 1: Collect existing Information about Workplace Hazards.
+Step 2: Inspect the Workplace for Safety Hazards. 
+Step 3: Identify Health & Work-Related Hazards. 
+Step 4: Conduct Incident Investigations.
+Step 5: Identify Hazards Associated with Emergency Situations
+c.	
+Whether you have processes for 
+workers to report the work-related 
+hazards and to remove themselves 
+from such risks. (Yes/No)
+Yes
+d.	
+Do 
+the 
+employees/ 
+worker 
+of 
+the entity have access to non- 
+occupational medical and healthcare 
+services? (Yes/ No)
+Yes
+11.	 Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category
+FY 2024-2025
+FY 2023-2024
+Lost Time Injury Frequency Rate (LTIFR) 
+(per one million-person hours worked)
+Employees
+0
+0.32
+Workers
+0.61
+0
+Total recordable work-related injuries
+Employees
+0
+2
+Workers
+6
+0
+No. of fatalities
+Employees
+0
+0
+Workers
+1
+0
+High consequence work-related injury or
+ill-health (excluding fatalities)
+Employees
+0
+0
+Workers
+0
+0
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace.
+	
+Safety is important aspect of our organization. At WCL, we take various measures to ensure health & Safety across 
+organization which is described below
+•	
+Safety training to employees and workers
+•	
+Establishment of safety committee and appointment of site managers to increase the responsibility of our teams
+•	
+ Development of mechanisms to prevent and reduce injuries
+•	
+Reviewing workplace HSE inspections performance
+•	
+Review employee complaints regarding safety and health hazards .
+•	
+Regular safety inspections and audits
+13.	 Number of Complaints on the following made by employees and workers:
+Topic
+FY 2024-2025
+FY 2023-2024
+Filed during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Working Conditions
+0
+0
+0
+0
+0
+0
+Health & Safety
+0
+0
+0
+0
+0
+0
+Business Responsibility & Sustainability Report (Contd.)
+Financial Statements
+Statutory Reports
+Corporate Overview
+193
+14.	 Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory 
+authorities or third parties)
+Health and safety practices
+100%
+Working Conditions
+100%
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any and on significant 
+risks / concerns arising from assessments of health & Safety practices and working conditions.
+	
+WCL has established a dedicated Environmental, Health, and Safety (EHS) team focused on ensuring a safe and 
+secure workplace for all employees. This team plays a pivotal role in proactively identifying potential safety risks and 
+hazards within our operations. Through regular assessments, inspections, and evaluations, they pinpoint critical areas 
+of concern and promptly implement corrective actions. By collaborating with various departments and engaging with 
+employees, the EHS team gathers valuable insights and feedback on safety-related issues. They analyze data, conduct 
+risk assessments, and develop strategic plans to mitigate risks while strengthening safety protocols. Additionally, the 
+team provides comprehensive training and guidance to staff on best practices, safety protocols, and the proper use of 
+protective equipment. The EHS team stays up-to-date with relevant laws, industry standards, and emerging safety trends 
+to ensure ongoing compliance and the integration of the most effective safety measures. Their efforts are instrumental 
+in cultivating a culture that prioritizes safety, creating an environment where all employees feel secure, respected, and 
+empowered to raise safety concerns 
+Leadership Indicators
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees (Y/N) 
+(B) Workers (Y/N).
+a.	
+Employees (Yes/No): Yes
+b.	
+Workers (Yes/No): Yes
+2.	
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by the 
+value chain partners
+	
+WCL conducts vendor onboarding checks to verify statutory registrations. Partners are required to submit proof of 
+compliance such as tax challans, PF payment receipts etc on a regular basis. Additionally, the company conducts audits 
+to monitor vendor compliance.
+3.	
+Provide the number of employees / workers having suffered high consequence work related injury / ill- health / fatalities 
+(as reported in Q11 of Essential Indicators above), who have been rehabilitated and placed in suitable employment or 
+whose family members have been placed in suitable employment:
+Topic
+Total no. of affected  
+employees/ workers
+No. of employees/workers that are 
+rehabilitated and placed in suitable 
+employment or whose family 
+members have been placed in suitable 
+employment
+FY 2024-2025
+FY 2023-2024
+FY 2024-2025
+FY 2023-2024
+Employees
+0
+0
+0
+0
+Workers
+0
+0
+0
+0
+4.	
+Does the entity provide transition assistance programs to facilitate continued employability and the management of 
+career endings resulting from retirement or termination of employment? (Yes/ No).
+	
+Yes, for identified roles in reference to business requirement
+Business Responsibility & Sustainability Report (Contd.)
+Annual Report 2024-25
+194
+5.	
+Details on assessment of value chain partners:
+Topic
+% of value chain partners (by value of business done with such partners) that 
+were assessed
+Health and safety practices
+100% of the critical suppliers
+Working Conditions
+100% of the critical suppliers
+6.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from 
+assessments of health and safety practices and working conditions of value chain partners.
+	
+Suppliers are provided with an estimated timeframe to address the findings through root-cause analysis and additional 
+corrective actions, based on the severity of their assessment results. To achieve the overarching goal of creating a 
+sustainable value chain, we encourage our suppliers to engage and improve their sustainability performance. In cases 
+of serious or significant breaches of our code of conduct, a follow-up evaluation is conducted within the mutually agreed 
+target date for resolving the identified issues.
+PRINCIPLE 4 Businesses should respect the interests of and be responsive to all their stakeholders 
+Essential Indicators
+1.	
+Describe the processes for identifying key stakeholder groups of the entity:
+	
+WCL regularly engages with its internal and external stakeholders through structured activities like meetings, workshops, 
+and one-on-one discussions. It also determines the key stakeholder groups based on timely feedback from these groups.
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group:
+Stakeholder 
+Group
+Whether identified 
+as Vulnerable 
+& Marginalized 
+Group  
+(Yes/ No)
+Channels of communication 
+(Email, 
+SMS, 
+Newspaper, 
+Pamphlets, 
+Advertisement, 
+Community Meetings, Notice 
+Board, Website), Other
+Frequency of 
+engagement 
+(Annually/ Half 
+yearly/ Quarterly 
+/others – please 
+specify)
+Purpose 
+and 
+scope 
+of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Investors
+No
+Quarterly 
+results 
+calls, 
+Participation 
+in 
+investor 
+conferences, Media releases 
+and investor presentations
+Quarterly
+Financial 
+performance, 
+Capital 
+allocation, 
+Risk 
+management
+Government 
+and regulators
+No
+Engagement on a need basis, 
+Participation 
+in 
+industry 
+level consultation groups, 
+Participation in forums
+Continuous
+Compliance, 
+Sustainable 
+practices, Inclusive growth
+Employees
+No
+Employee 
+surveys, 
+Team 
+building workshop, Capacity 
+building and training, Annual 
+appraisals, 
+Employee 
+newsletters, Rewards and 
+recognitions, 
+Volunteering 
+opportunities
+Continuous
+Professional 
+growth, 
+Diversity at the workplace, 
+Leadership 
+Connect 
+sessions, Workplace safety, 
+Equal opportunities, Worklife 
+balance, Wages and benefits
+Business 
+partners / 
+suppliers and 
+contractors
+No
+Contract agreements, Direct 
+interactions, Supplier meets, 
+Membership 
+in 
+industry 
+associations
+Continuous
+Payment 
+processing 
+cycles, 
+Business 
+ethics, 
+Transparency, Compliance
+Communities & 
+NGOs
+Yes
+Direct 
+engagement, 
+Dedicated CSR team, CSR 
+projects and initiatives, Visits 
+and 
+camps, 
+Community 
+assessments
+Continuous
+Infrastructure development, 
+Education 
+& 
+healthcare, 
+Environmental 
+protection, 
+Employment opportunities, 
+Human rights
+Business Responsibility & Sustainability Report (Contd.)
+Financial Statements
+Statutory Reports
+Corporate Overview
+195
+Stakeholder 
+Group
+Whether identified 
+as Vulnerable 
+& Marginalized 
+Group  
+(Yes/ No)
+Channels of communication 
+(Email, 
+SMS, 
+Newspaper, 
+Pamphlets, 
+Advertisement, 
+Community Meetings, Notice 
+Board, Website), Other
+Frequency of 
+engagement 
+(Annually/ Half 
+yearly/ Quarterly 
+/others – please 
+specify)
+Purpose 
+and 
+scope 
+of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Customers
+No
+Active Participation in Pre- 
+qualification 
+processes, 
+Business 
+Development 
+Visits 
+and 
+Presentations, 
+Participation 
+in 
+Product 
+Development 
+programs 
+for specific projects and 
+Applications, 
+Multi-level 
+Relationship 
+Management, 
+Promoting Ethical Business 
+Practices
+Continuous
+Expanding 
+the 
+customer 
+base, 
+Outperforming 
+competitors, 
+Offering 
+tailored solutions, Boosting 
+collaboration, 
+Maintaining 
+ethical transparency.
+Leadership Indicators
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social 
+topics or if consultation is delegated, how is feedback from such consultations provided to the Board.
+	
+The stakeholder relationship committee bridges the communication gap between the stakeholders and the Board. It 
+ensures effective communication between stakeholders and the board by collecting and conveying essential feedback 
+from various business activities
+2.	
+Whether stakeholder consultation is used to support the identification and management of environmental and social 
+topics (Yes / No). If so, provide details of instances as to how the inputs received from stakeholders on these topics 
+were incorporated into policies and activities of the entity.
+	
+Yes, stakeholder consultations are utilized to identify and manage environmental and social topics. For instance, the 
+Wel-Shiksha initiative addresses social issues, Wel-Netrutva focuses on health and promotes a healthy lifestyle through 
+organic green vegetables, Wel-Prakruti tackles environmental concerns etc.
+3.	
+Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ marginalized 
+stakeholder groups.
+	
+To address the problems of vulnerable groups like children and women in the community, WCL has created programs like 
+Wel-Shiksha, Wel-Netrutva etc.
+PRINCIPLE 5: Businesses should respect
+Essential Indicators
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the 
+following format:
+Category
+FY 2024-2025
+FY 2023-2024
+Total 
+(A)
+No. of employees / 
+workers covered (B)
+% (B / A) Total 
+(C)
+No. of employees / 
+workers covered (D)
+% (D / C)
+Employees
+Permanent
+1233
+1209
+98%
+1176
+401
+34%
+Other than permanent
+24
+14
+58%
+76
+1
+1%
+Total Employees
+1257
+1223
+97%
+1252
+402
+32%
+Workers
+Permanent
+1465
+1451
+99%
+1451
+106
+7%
+Other than permanent
+1553
+272
+18%
+81
+0
+0%
+Total Workers
+3018
+1723
+57%
+1532
+106
+7%
+The overall training on human rights and policies has increased in FY2024-25
+Business Responsibility & Sustainability Report (Contd.)
+Annual Report 2024-25
+196
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+Category
+FY 2024-2025
+FY 2023-2024
+Total 
+(A)
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+Total 
+(A)
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+No. (B)
+% (B/A) No. (C)
+% (C/A)
+No. (B)
+% (B/A)
+% (C/A)
+% (F/D)
+Employees
+Permanent
+Male
+1116
+0
+0%
+1116
+100%
+1109
+356
+32%
+753
+68%
+Female
+117
+0
+0%
+117
+100%
+67
+24
+36%
+43
+64%
+Other than Permanent
+Male
+21
+0
+0%
+21
+100%
+55
+0
+0%
+55
+100%
+Female
+3
+0
+0%
+3
+100%
+21
+0
+0%
+21
+100%
+Workers
+Permanent
+Male
+1449
+0
+0%
+1449
+100%
+1438
+1044
+73%
+394
+27%
+Female
+16
+0
+0%
+16
+100%
+13
+0
+0%
+13
+100%
+Other than Permanent
+Male
+1499
+863
+58%
+636
+42%
+72
+44
+61%
+28
+39%
+Female
+54
+54
+100%
+0
+0%
+9
+3
+33%
+4
+44%
+3.	
+Details of remuneration/salary/wages, in the following format:
+Male
+Female
+Number Median remuneration/salary/ 
+wages of respective category
+Number Median remuneration/salary/
+wages of respective category
+Board of Directors (BoD)
+9
+16,52,00,000
+1
+40,00,000
+Key Managerial Personnel
+3
+2,15,16,754
+0
+0
+Employees other than BoD and KMP
+1134
+7,66,799
+120
+4,86,000
+Workers
+1449
+3,89,748
+16
+2,52,000
+b.	
+Gross wages paid to females as % of total wages paid by the entity, in the following format:
+Type
+FY 2024-2025
+FY 2023-2024
+Gross wages paid to females as % of total wages
+4.80%
+2.83%
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused 
+or contributed to by the business? (Yes/No)
+	
+Yes, HR team responds to any issues raised on human rights.
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+	
+The site representatives can bring up any human rights concerns to the local HR teams, who will endeavor to resolve 
+them.
+Business Responsibility & Sustainability Report (Contd.)
+Financial Statements
+Statutory Reports
+Corporate Overview
+197
+6.	
+Number of Complaints on the following made by employees and workers:
+FY 2024-2025
+FY 2023-2024
+Filed 
+during 
+the year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Filed 
+during 
+the year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Sexual Harassment
+0
+0
+No Complaints
+0
+0
+No Complaints
+Discrimination at workplace
+0
+0
+No Complaints
+0
+0
+No Complaints
+Child Labor
+0
+0
+No Complaints
+0
+0
+No Complaints
+Forced Labor/ Involuntary Labor
+0
+0
+No Complaints
+0
+0
+No Complaints
+Wages
+0
+0
+No Complaints
+0
+0
+No Complaints
+Other human rights related issues
+-
+-
+No Complaints
+-
+-
+No Complaints
+7.	
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 
+2013
+FY 2024-2025
+FY 2023-2024
+Total Complaints reported under Sexual Harassment on of Women at 
+Workplace (Prevention, Prohibition and Redressal) Act, 2013 (POSH)
+0
+0
+Complaints on POSH as a % of female employees / workers
+0
+0
+Complaints on POSH upheld
+0
+0
+8.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	
+There is an Internal Committee for Preventive of Sexual Harassment (POSH) to manage and act on complaint in 
+discrimination and harassment cases. The mechanisms to prevent adverse consequences to the complainant include 
+Confidential reporting channels, Clear and defined procedures, regular monitoring, and support systems.
+9.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+	
+Yes.
+	
+Assessments for the year:
+Type
+% of your plants and offices that were assessed (by entity or statutory 
+authorities or third parties)
+Child labor
+100%
+Forced/involuntary labor
+100%
+Sexual harassment
+100%
+Discrimination at workplace
+100%
+Wages
+100%
+Others – please specify
+-
+9.	
+Provide details of any corrective actions taken or underway to address significant risks/concerns arising from the 
+assessments at Question 9 above.
+	
+There were no corrective actions taken as no concerns were registered during the year.
+Leadership Indicators
+1.	
+Details of a business process being modified / introduced as a result of addressing human rights grievances/complaints.
+	
+No business procedures have been altered or added as a result of resolving human rights complaints or grievances.
+2.	
+Details of the scope and coverage of any Human rights due diligence conducted.
+	
+The key attributes of the due diligence in terms of scope and coverage include
+•	
+Identification and Assessment to identify the risks and impacts,
+•	
+Integration of human right assessment into company processes,
+Business Responsibility & Sustainability Report (Contd.)
+Annual Report 2024-25
+198
+•	
+Monitoring the process to evaluate the efficacy of implementation.
+•	
+Communication to Stakeholders to ensure that human rights impact are addressed.
+3.	
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of 
+Persons with Disabilities Act, 2016?
+	
+Yes, the Administrative blocks at respective locations has facilities for differently abled visitors.
+4.	
+Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such partners) that were 
+assessed
+Child labor
+100% of the critical suppliers
+Forced/involuntary labor
+100% of the critical suppliers
+Sexual harassment
+100% of the critical suppliers
+Discrimination at workplace
+100% of the critical suppliers
+Wages
+100% of the critical suppliers
+Others – please specify
+–
+5.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 4 above
+	
+Minor corrective actions have been documented following the assessment. A corrective action plan has been established 
+and shared for implementation. This plan will be reviewed regularly to ensure proper execution.
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the environment
+Essential Indicators
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+FY 2024-2025
+FY 2023-2024
+From renewable sources
+Total electricity consumption (A)
+1,05,223 GJ
+37,064 GJ
+Total fuel consumption (B)
+7,352 GJ
+9,036 GJ
+Energy consumption through other sources (C)
+-
+-
+Total energy consumed from renewable sources (A+B+C)
+1,12,575 GJ
+46,100 GJ
+From non-renewable sources
+ 
+ 
+Total electricity consumption (D)
+11,37,261 GJ
+11,73,961 GJ
+Total fuel consumption (E)
+1,66,43,067 GJ
+1,57,51,005 GJ*
+Energy consumption through other sources (F)
+-
+-
+Total energy consumed from non-renewable sources (D+E+F)
+1,77,80,328 GJ
+1,69,24,966 GJ*
+Total energy consumed (A+B+C+D+E+F)
+1,78,92,903 GJ
+1,69,71,066 GJ*
+Energy intensity per rupee of turnover (GJ per ` crore)
+2,025
+1,869*
+Energy intensity per rupee of turnover adjusted for Purchasing Power Parity 
+(PPP) (GJ/US$ million)
+4,184
+4,142*
+Energy intensity in terms of physical output (GJ/MT of total goods produced)
+12
+13*
+	
+* The values for FY2023-24 stand corrected, rectifying the double counting of fuel consumed in one of the operations.
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency. Yes, Independent assurance is carried out by BDO India LLP.
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance? Achieve 
+and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme 
+have been achieved. In case targets have not been achieved, provide the remedial action taken, if any.
+	
+Yes, WCL Anjar is registered as designated consumers under PAT scheme of Government of India.
+Business Responsibility & Sustainability Report (Contd.)
+Financial Statements
+Statutory Reports
+Corporate Overview
+199
+3.	
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 2024-2025
+FY 2023-2024
+Water withdrawal by source (in kiloliters)
+(i)	
+Surface water
+-
+-
+(ii)	
+Groundwater
+-
+-
+(iii) 	 Third party water
+16,04,056
+15,13,541
+(iv) 	 Seawater / desalinated water
+-
+-
+(v) 	 Others (Rainwater storage)
+12,215
+8,596
+Total volume of water withdrawal (in kiloliters) (i + ii + iii + iv + v)
+16,16,271
+15,22,137
+(vi)	 Total volume of water consumption (in kiloliters)
+16,16,271
+15,22,137
+Water intensity per rupee of turnover (kiloliters per ` crore of revenue)
+183
+168 
+Water intensity per rupee of turnover adjusted for Purchasing Power Parity 
+(PPP) (KL/US$ million)
+378
+372
+Water intensity in terms of physical output (KL/MT of total goods produced)
+1.10
+1.10
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency. Yes, Independent assurance is carried out by BDO India LLP
+4.	
+Provide the following details related to water discharged:
+Parameter
+FY 2024-2025
+FY 2023-2024
+(i)
+To Surface water
+- No treatment
+0
+0
+- With treatment – please specify level of Treatment
+0
+0
+(ii)
+To Groundwater
+- No treatment
+0
+0
+- With treatment – please specify level of Treatment
+0
+0
+(iii)
+To Seawater
+- No treatment
+0
+0
+- With treatment – please specify level of Treatment
+0
+0
+(iv)
+Sent to third-parties
+- No treatment
+1,27,305 KL 
+(Sent for Treatment)
+1,56,842 KL 
+(Sent for Treatment)
+- With treatment – please specify level of Treatment
+-
+(v)
+Others
+- No treatment
+-
+- With treatment – please specify level of Treatment
+-
+Total water discharged (in kiloliters)
+1,27,305 KL  
+(Sent for Treatment)
+1,56,842 KL  
+(Sent for Treatment)
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency. Yes, Independent assurance is carried out by BDO India LLP
+5.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation.
+	
+No
+Business Responsibility & Sustainability Report (Contd.)
+Annual Report 2024-25
+200
+6.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please specify unit
+FY 2024-2025 
+(Current FY)
+FY 2023-2024  
+(Previous FY)
+NOx
+MT
+293.07
+212.97
+SOx
+MT
+305.36
+175.54
+Particulate matter (PM)
+MT
+659.21
+561.07
+Persistent organic pollutants (POP)
+NA
+-
+-
+Volatile organic compounds (VOC)
+NA
+-
+-
+Hazardous air pollutants (HAP)
+mg/m3
+-
+-
+Others – please specify
+PPM
+-
+-
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency. Yes, Independent assurance is carried out by BDO India LLP
+7.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+Parameter
+Please specify unit
+FY 2024-25
+FY 2023-24
+Total Scope 1 emissions (Break-up of the GHG into 
+CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of 
+CO2 equivalent
+17,02,995
+17,69,062
+Total Scope 2 emissions (Break-up of the GHG into 
+CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of 
+CO2 equivalent
+2,65,425
+2,60,096
+Total Scope 1 and Scope 2 emissions per rupee of 
+turnover
+Metric tonnes of 
+CO2 equivalent per 
+` crore
+223
+223
+Total Scope 1 and Scope 2 intensity per rupee of 
+turnover adjusted for Purchasing Power Parity (PPP
+Metric tonnes of 
+CO2 per US$ million
+460
+495
+Total Scope 1 and Scope 2 emission intensity in terms 
+of physical output
+Metric tonnes of 
+CO2 equivalent per 
+MT of total goods 
+produced
+1.35
+1.51
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency. Yes, Independent assurance is carried out by BDO India LLP
+8.	
+Does the entity have any project related to reducing Green House Gas emission? If yes, then provide detail
+	
+WCL is advancing its sustainability efforts through a 42 MW Renewable Energy Round-The-Clock (RE-RTC) project via 
+a Special Purpose Vehicle (SPV), expected to be operational by the 2026. Additionally, the company has successfully 
+commissioned a 2MW solar rooftop system at its Bhopal plant since April 2024 and installation of additional 1.5MW and 
+1.19 MW solar roof top is completed at Bhopal and Mandya plant respectively.
+	
+WCL has also implemented various energy conservation initiatives, including the installation of variable frequency drives, 
+digital temperature controllers, retrofitting conventional lights with LED lights, upgrading to efficient pumps, and enhancing 
+the HVAC system
+9.	
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2024-2025
+FY 2023-2024
+Total Waste generated (in metric tonnes)
+Plastic waste (A) (MT)
+783
+441.6
+E- waste (B) (MT)
+2
+0
+Bio-medical waste-C (MT)
+0
+0
+Construction and demolition waste (D) (MT)
+0
+0
+Battery waste- E
+7
+0
+Radioactive waste (F) (MT)
+0
+0
+Business Responsibility & Sustainability Report (Contd.)
+Financial Statements
+Statutory Reports
+Corporate Overview
+201
+Parameter
+FY 2024-2025
+FY 2023-2024
+Other Hazardous waste. Please specify, if any. (G) 
+(MT)
+•	EETP Sludge: 12
+•	Expander Sludge: 4
+•	Paint waste cutback tape: 78
+•	Paint Cake: 531
+•	Used waste oil:  12
+•	Empty 
+barrels/containers 
+contaminated 
+with 
+hazardous 
+chemicals 
+/
+waste: 312
+•	Cotton Waste: 3
+•	 ETP Sludge: 55
+•	 Expander Sludge: 132.91 
+•	 Paint waste cutback tape: 
+60.13 
+•	 Paint Cake: 420 
+•	 Used waste oil: 17.9
+•	 Empty barrels/ containers 
+contaminated with hazardous 
+chemicals /waste: 234 
+•	 Cotton Waste: 1.65
+Other Non-hazardous waste generated (H). Please 
+specify, if any. (Break-up by composition i.e. by 
+materials relevant to the sector) (MT)
+•	MS Scrap: 16,409
+•	Other than MS scrap: 2,006
+•	Wooden pallets: 123
+•	BF slag: 2,28,021
+•	Skul/ Skul sludge : 7,135
+•	Dolochar : 33,846
+•	Filter dust:11,045
+•	Slag: 35,073 
+•	APCD dust: 358
+•	Mill scale: 309
+•	MS Scrap: 29827.10
+•	Other than MS scrap: 
+2663.57
+•	Wooden pallets: 40
+•	BF slag: 188300.70
+•	Skul/ Skul sludge : 5785.90
+•	Other Metal Scraps: 182.0
+Total (A+B + C + D + E + F + G + H) (MT)
+3,36,069*
+2,28,163 
+Waste intensity per rupee of turnover (MT/` crore)
+38
+25
+Waste intensity per rupee of turnover adjusted for 
+Purchasing Power Parity (MT/US$ million)
+79
+56
+Waste intensity in terms of physical output (MT/MT of 
+total goods produced)
+0.23
+0.17
+	
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations 
+(in metric tonnes)
+Category of waste
+FY 2024-2025
+FY 2023-2024
+(i)	
+Recycled (MT)
+•	MS Scrap & Other metal 
+scrap : 16,409
+•	BF slag: 2,28,021
+•	Skul/ Skul sludge : 7,135
+•	Other than MS scrap: 2,006
+•	Wooden pallets: 123
+•	e-waste: 2
+•	Battery waste: 7
+•	Slag waste: 35,073
+•	Mill scale: 309
+•	APCD dust: 358
+•		MS Scrap & Other metal 
+scrap : 30009.18
+•	BF slag: 188300.7
+•	Skul/ Skul sludge : 5785.9
+•	Other than MS scrap: 
+2663.57
+•	Wooden pallets: 40
+(ii)	
+Re-used (MT)
+44,891
+-
+(iii) 	 Other recovery operations (MT)
+1,095
+675.60
+Total (MT)
+3,35,429*
+2,27,475
+	
+*The waste quantity for FY2024-25 has increased due to consideration of additional waste categories including slag, Dolochar filter dust, APCD dust and 
+mill scale
+Business Responsibility & Sustainability Report (Contd.)
+Annual Report 2024-25
+202
+	
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+FY 2024-2025
+FY 2023-2024
+(i)	
+Incineration
+640
+687.58
+(ii)	
+Landfilling
+-
+-
+(iii) 	 Other disposal operations
+-
+-
+Total
+640
+687.58
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency. Yes, Independent assurance is carried out by BDO India LLP
+10.	 Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by 
+your Company to reduce usage of hazardous and toxic chemicals in your products and pro- cesses and the practices 
+adopted to manage such wastes.
+	
+WCL effectively manages waste at all its locations through a comprehensive waste management system. Waste is 
+categorized and handled based on its type, either non-hazardous or hazardous. Each plant has a designated storage yard 
+for different waste categories. Standard Operating Procedures (SOPs) have been developed to ensure smooth operations, 
+handling, and transportation. After segregation, waste is transported to vendors or recyclers authorized by Pollution 
+Control Boards.
+	
+Most of the hazardous waste generated is either recycled or co-processed through authorized agencies to ensure 
+minimization of environmental impact caused due to disposal to landfill.
+11 	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental 
+approvals / clearances are required, please specify details in the following format:
+S. 
+No.
+Location of 
+operations/offices
+Type of operations
+Whether the conditions of environmental approval / clearance 
+are being complied with? (Y/N) If no, the reasons thereof and 
+corrective action taken, if any.
+	
+Not applicable as there are no operations near above-mentioned zones
+12.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the 
+current financial year:
+S.  
+No.
+Location of 
+operations/offices
+Type of operations
+Whether the conditions of environmental approval / clearance 
+are being complied with? (Y/N) If no, the reasons thereof and 
+corrective action taken, if any.
+	
+In FY 2024-25, there was no Environment impact Assessment carried out
+13.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India, such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and 
+rules thereunder (Y/N). If not, provide details of all such non-compliances, in the following format:
+S.  
+No.
+Specify the law/ 
+regulation/ guidelines 
+which was not complied 
+with
+Provide details of the 
+non- compliance
+Any fines / penalties / action 
+taken by regulatory agency 
+such as pollution control 
+boards or by courts
+Corrective action taken, if 
+any
+Yes, the Company is compliant with all the applicable environmental laws defined by the state and central regulatory 
+authorities.
+Leadership Indicators
+1.	
+Water withdrawal, consumption and discharge in areas of water stress (in kiloliters):
+	
+For each facility / plant located in areas of water stress, provide the following information:
+(i)	
+Name of the area: Anjar
+(ii)	
+Nature of operations: Manufacturing of Steel Pipe, Pig Iron, Sponge Iron and Billets
+Business Responsibility & Sustainability Report (Contd.)
+Financial Statements
+Statutory Reports
+Corporate Overview
+203
+(iii)	 Water withdrawal, consumption and discharge in the following format: WCL’s Anjar facility falls under a water stress 
+area. We have setup a 30 MLD Sewage Treatment plant at our Anjar factory, which recycles sewage wastewater from 
+the neighboring towns, leading to zero intake of freshwater for manufacturing processes.
+Parameter
+FY 2024-2025
+FY 2023-2024
+Water withdrawal by source (in kiloliters)
+(i)	
+Surface water
+0
+0
+(ii)	
+Groundwater
+0
+0
+(iii) 	 Third party water
+15,05,268
+14,27,096
+(iv) 	 Seawater / desalinated water
+0
+0
+(v) 	 Others (Domestic waste water from municipality)
+0
+0
+Total volume of water withdrawal (in kiloliters)
+15,05,268
+14,27,096
+Total volume of water consumption (in kiloliters)
+15,05,268
+14,27,096
+Water intensity per rupee of turnover (kiloliters per ` crore)
+170
+157
+Water intensity per rupee of turnover adjusted for Purchasing Power 
+Parity (PPP) (KL/USD million)
+352
+348
+Water intensity in terms of physical output (KL/MT of total goods 
+produced)
+1.34 
+1.37
+Water discharge by destination and level of treatment (in kiloliters)
+(i)	
+To Surface water
+0
+0
+	
+No Treatment
+0
+0
+	
+With treatment- Please specify level of treatment
+0
+0
+(ii)	
+To Groundwater 
+	
+No Treatment
+0
+0
+	
+With treatment- Please specify level of treatment
+0
+0
+(iii) 	 To Seawater
+	
+No Treatment
+0
+0
+	
+With treatment- Please specify level of treatment
+0
+0
+(iv) 	 Sent to third-parties
+	
+No Treatment
+1,25,613 
+(Sent for Treatment)
+1,55,506 
+(Sent for Treatment)
+	
+With treatment- Please specify level of treatment
+(v) 	 Others
+	
+No Treatment
+0
+0
+	
+With treatment- Please specify level of treatment
+0
+0
+Total water discharged (in kiloliters)
+1,25,613 
+(Sent for Treatment)
+1,55,506 
+(Sent for Treatment)
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency. Yes, Independent assurance is carried out by BDO India LLP
+2.	
+Please provide details of total Scope 3 emissions & its intensity, in the following format
+Parameter
+Please specify unit
+FY 2024-2025
+FY 2023-2024
+Total Scope 3 emissions  
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, 
+SF6, NF3, if available)
+Metric tonnes of 
+CO2 equivalent
+Scope 3 emissions 
+not carried out
+Scope 3 emissions 
+not carried out
+Total Scope 3 emissions per rupee of turnover
+Metric tonnes of 
+CO2 equivalent/` 
+crore
+Scope 3 emissions 
+not carried out
+Scope 3 emissions 
+not carried out
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency. No, independent assurance is not carried out for scope-3 emission
+Business Responsibility & Sustainability Report (Contd.)
+Annual Report 2024-25
+204
+3.	
+With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide details of 
+significant direct & indirect of the entity on biodiversity in such areas along-with, prevention and remediation activities.
+	
+Not Applicable
+4.	
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource 
+efficiency, or reduce impact due to emissions / effluent discharge / waste generated, please provide details of the same 
+as well as outcome of such initiatives, as per the following format:
+Sr . 
+No
+Initiative undertaken
+Details of the initiative (Web-link, if any, 
+may be provided along-with summary)
+Outcome of the initiative
+1
+Use of Zero fresh water for 
+manufacturing process at WCL 
+Anjar.
+The 30 MLD STP installed at Welspun 
+manufacturing at Anjar at a Group level 
+ensures recycling and treatment of sewage 
+water generated from nearby 3 nos. of 
+municipalities
+Zero freshwater utilization for 
+industrial operations
+2
+2MW Solar roof top at Bhopal Line 
+pipe facility 
+2MW capacity solar rooftop was installed 
+and made operational in April 2024 at Bhopal
+The rooftop plant generated 
+approx. 23.71 lakh kWh in FY24-
+25 thereby reducing emissions 
+by 1,700 t.CO2e
+2
+Power factor improvement at 
+WCL Bhopal plant
+The installation of IGBT Base Power factor 
+controller helps to maintain PF above 0.99
+Improved financial and energy 
+savings
+5.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link.
+	
+Yes, WCL has a business continuity and disaster plan in place.
+6.	
+Disclose any significant adverse impact to the environment arising from the value chain of the entity. What mitigation 
+or adaptation measures have been taken by the entity in this regard?
+	
+There is no significant adverse impact to the environment, arising from the value chain of WCL
+7.	
+Percentage of value chain partners (by value of business done with such partners) that were assessed for environmental 
+impact
+	
+100% of critical suppliers under the line pipe business were assessed based on suppliers code of conduct consisting of 
+ESG aspects including environmental compliance.
+PRINCIPLE 7: Businesses when engaging in influencing public and regulatory policy, should do so in a manner that is 
+responsible and transparent
+Leadership Indicators
+1.	
+a)	
+Number of affiliations with trade and industry chambers/ associations
+	
+	
+Welspun Corp Limited (Standalone) has affiliations/is a member of more than 15 associations.
+b)	
+List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) 
+the entity is a member of/ affiliated to
+Sr . 
+No
+Name of the trade and industry chambers/ associations
+Reach of trade and industry 
+chambers/ associations 
+(State National)
+1
+The Associated Chambers of Commerce and Industry (ASSOCHAM)
+National
+2
+Indian Merchants Chamber (IMC)
+National
+3
+Indian Pipe Manufacturers Association (IPMA)
+National
+4
+Federation of Kutch Industries Associations, (FOKIA)
+National
+5
+International Tube Association, India Chapter (ITA)
+National
+6
+Pipeline Research Council International (PRCI)
+National
+7
+National Association of Corrosion Engineers (NACE)
+National
+8
+Sponge Iron Manufacturers Association (SIMA)
+National
+Business Responsibility & Sustainability Report (Contd.)
+Financial Statements
+Statutory Reports
+Corporate Overview
+205
+Sr . 
+No
+Name of the trade and industry chambers/ associations
+Reach of trade and industry 
+chambers/ associations 
+(State National)
+9
+Confederation of Indian Industry (CII)
+National
+10
+Federation of Indian Chambers of Commerce & Industry (FICCI)
+National
+11
+Engineering Export Promotion Council (EEPC)
+National
+12
+Federation of Indian Exporters Organization (FIEO)
+National
+13
+Interstate Natural Gas Association of America (INGAA)
+International
+14
+Southern Gas Association (SGA)
+International
+15
+North American Steel Pipe Distributors (NASPD)
+International
+16
+Pipe liners Association of Houston
+International
+17
+San Antonio Pipeliners Association (SAPA)
+International
+18
+American Line Pipe Association (ALPA)
+International
+19
+US-India Business Council (USIBC)
+International
+20
+American Society of Mechanical Engineers (ASME)
+International
+2.	
+Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the entity, 
+based on adverse orders from regulatory authorities
+Name of Authority
+Brief of the case
+Corrective action taken
+Nil
+Nil
+Nil
+Leadership Indicators
+1.	
+Details of public policy positions advocated by the entity
+S. 
+no
+Public policy 
+advocated
+Method resort for 
+such advocacy
+Whether the 
+information is 
+available in pub- lic 
+domain? (Yes/ No)
+Frequency of review 
+by board (Annually/ 
+Half yearly/ 
+Quarterly/ Other- 
+please specify
+Web Link, if available
+Not Applicable
+PRINCIPLE 8: Businesses should promote inclusive growth and equitable development
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the 
+current financial year.
+	
+Not Applicable
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your 
+entity:
+	
+Not Applicable
+3.	
+Describe the mechanisms to receive and redress grievances of the community
+	
+Community complaints are initially brought to the CSR team’s attention, if any. The issue is discussed with the appropriate 
+department depending on the type of grievance. Accordingly, actions are taken to address the grievance. The action plan 
+is carried out in accordance with mutual agreement.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from local or small-scale suppliers:
+FY 2024-2025
+FY 2023-2024
+Directly sourced from MSMEs/ Small producers
+1.27%
+3.81%
+Sourced directly from within the district and neighboring districts
+49%
+74.00%
+Business Responsibility & Sustainability Report (Contd.)
+Annual Report 2024-25
+206
+5.	
+Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers employed 
+on a permanent or non-permanent / on contract basis) in the following locations, as % of total wage cost
+Location
+FY 2024-2025
+FY 2023-2024
+Rural
+0%
+0%
+Semi-urban
+70%
+69.61%
+Urban
+3%
+3.64%
+Metropolitan
+27%
+26.75%
+Leadership Indicators
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments 
+(Reference: Question 1 of Essential Indicators above):
+	
+No negative social impact identified
+2.	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as 
+identified by government bodies:
+State
+Aspirational District information
+Amount spent in `
+CSR activities are executed in villages around the manufacturing sites.  
+No aspirational districts are taken up currently under CSR.
+3.	
+a)	
+Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising 
+marginalized /vulnerable groups? (Yes/No) No
+(b)	 From which marginalized /vulnerable groups do you procure? Not Applicable
+(c)	 What percentage of total procurement (by value) does it constitute? Not Applicable
+4.	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the 
+current financial year) based on traditional knowledge
+	
+Not Applicable
+5.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes 
+wherein usage of traditional knowledge is involved.
+	
+Not Applicable
+6.	
+Details of beneficiaries of CSR projects:
+S. 
+No.
+CSR Project
+No. of persons benefited from CSR 
+Projects
+% of beneficiaries from vulnerable and 
+marginalized group
+1.
+WelShiksha
+2,33,971
+100% (Children)
+2.
+WelNetrutva
+30,154
+100% (Women)
+3.
+WelSwasthya
+3,18,697
+100% (Children+ Women+ Elderly Citizen )
+4.
+WelSuraksha
+3,82,668
+-
+5.
+WSSW
+22
+100% (Women)
+6.
+WelPrakruti
+17,401
+-
+7.
+WelKrishi
+1,24,614
+100% (Farmers)
+8.
+We Volunteer
+3,228
+-
+9.
+Convergence
+5,477
+-
+Business Responsibility & Sustainability Report (Contd.)
+Financial Statements
+Statutory Reports
+Corporate Overview
+207
+PRINCIPLE 9: Businesses should engage with and provide value to their consumers in responsible manner ESSENTIAL 
+INDICATORS
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+In case any product supplied to the client is found to not conform to the specifications, the client can raise a formal 
+customer complaint. Upon receiving the complaint, we review the same, refer the data of the testing done at our 
+manufacturing units and if need arises, we mobilize our inspector to the site to verify the complaint. Once the complaint 
+is verified as genuine, a root cause analysis is done to identify the root cause/s and a Corrective And Preventive Actions 
+(CAPA) is prepared and presented to the customer. Any commercial issues, costs for repair/ rectification, rectification 
+plan schedule etc is negotiated with the customer and the rectification/ repairs are completed. As a preventive action, any 
+lessons learned from the project are discussed at quarterly review meetings and any modifications needed to the SOP’s/ 
+Quality Assurance Plans are made. The lessons learned are taken into consideration while negotiating any future project 
+contracts.
+2.	
+Turnover of products and/ services as a percentage of turnover from all products/service that carry information.
+Type
+As a percentage to total turnover
+Environment and Social parameters relevant 
+to product
+100%
+The information wherever applicable is provided in the contract/user 
+manual/technical specification sheet.
+Safe and responsible usage
+100%
+The information wherever applicable is provided in the contract/user 
+manual/technical specification sheet.
+Recycling and/or safe disposal
+100%
+The information wherever applicable is provided in the contract/user 
+manual/technical specification sheet.
+3.	
+Number of customer complaints
+FY 2024-2025
+FY 2023-2024
+Received 
+during the 
+year
+Pending 
+resolution 
+at the end of 
+year
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution 
+at the end of 
+year
+Remarks
+Data privacy
+0
+0
+Nil
+0
+0
+Nil
+Advertising
+0
+0
+Nil
+0
+0
+Nil
+Cyber-security
+0
+0
+Nil
+0
+0
+Nil
+Delivery of essential services
+0
+0
+Nil
+0
+0
+Nil
+Restrictive Trade Practices
+0
+0
+Nil
+0
+0
+Nil
+Unfair Trade Practices
+0
+0
+Nil
+0
+0
+Nil
+Other (Product related)
+0
+0
+Nil
+0
+0
+Nil
+4.	
+Details of instances of product recalls on account of safety issues.
+Number
+Reason for recall
+Voluntary recalls
+Nil
+Not Applicable
+Forced recalls
+Nil
+Not Applicable
+5.	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, 
+provide a web-link of the policy.
+	
+Yes. Welspun Corp | Policies
+Business Responsibility & Sustainability Report (Contd.)
+Annual Report 2024-25
+208
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential 
+services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action 
+taken by regulatory authorities on safety of products / services.
+	
+We have project specific share point for each project where the data pertaining to that project is stored. The access to this 
+is controlled and provided to only select persons handling the project to ensure data privacy. Generally, project contracts 
+have a secrecy/ non-disclosure clause wherein a specific period is mentioned up to which we must store the project data 
+with us. In an event of recall/re-occurrence of defects, a comprehensive re-assessment is carried out by specialized team 
+to identify the root cause for any parameters impacting the product. A new CAPA is made and accordingly actions taken, 
+and any further necessary changes made to the SOP’s and Quality plans. 
+7.	
+Provide the following information relating to data breaches:
+•	
+Number of instances of data breaches along-with impact – Nil	
+	
+•	
+Percentage of data breaches involving personally identifiable information of customers – 0%
+Leadership Indicators
+1.	
+Channels / platforms where information on products and services of the entity can be accessed (provide web link, if 
+available).
+	
+Our product range is available at our website Welspun Corp Products
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.
+	
+WCL manufactures and supplies the finished products as per customer’s specification. A safe handling procedure to 
+efficiently handle the finished products without damage and a preservation procedure to safely store the finished products 
+for a long term are provided to the customer against the specific project.
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.
+	
+Any significant events or delays affecting project delivery or progress are promptly communicated to the client as soon as 
+WCL becomes aware of them, using multiple communication medium viz. voice, video, emails and paper communications 
+as appropriate for the situation.
+4.	
+Does the entity display product information on the product over and above what is mandated as per local laws? (Yes/ 
+No/Not Applicable)? If yes, provide details in brief. Did your entity carry out any survey with regard to consumer 
+satisfaction relating to the major products / services of the entity, significant locations of operation of the entity or the 
+entity as a whole? (Yes/No)
+	
+Yes, pipes manufactured by the line pipe division marks API 5L requirements through the API monogram and minimum 
+required information is always marked on each pipe. In addition, depending on project requirements, specific additional 
+information can be marked and is covered under a separate document titled “marking map.” Depending on customer 
+requirements, 1D or 2D bar codes can also be applied to the pipes at specified locations. Upon the completion of the 
+final delivery of every project, a customer feedback form is sent to the customer. Their responses and ratings are noted 
+and circulated to the plant, quality team and all relevant departments for their continuous improvement. The customer 
+satisfaction scores across various projects are compiled into a final Customer Satisfaction score. 
+Business Responsibility & Sustainability Report (Contd.)
+Financial Statements
+Statutory Reports
+Corporate Overview
+209
+To,
+Welspun Corp Limited
+Welspun House, 5th Floor,
+Kamala City, Senapati Bapat Marg,
+Lower Parel (W), Mumbai 400013
+Independent Assurance Statement to Welspun Corp Limited on select non-financial disclosures in the Business Responsibility 
+& Sustainability Report for the financial year 2024-25.
+Introduction and objective of engagement
+Welspun Corp Limited (the ‘Company’) has developed its Business Responsibility and Sustainability Report (BRSR) (the ‘Report’) 
+based on the BRSR reporting guidelines prescribed by SEBI for listed entities. The reporting criteria have been derived from the 
+Principles of National Guidelines on Responsible Business Conduct, 2018 (NGRBC), and Greenhouse Gas (GHG) Protocol - A 
+Corporate Accounting and Reporting Standard. The BRSR will be part of the Company’s Annual Report 2024-25.
+BDO India LLP (BDO) was engaged by the Company to provide independent limited assurance on select non-financial 
+information in the Report for the financial year 2024-25.
+The Company’s responsibilities
+The Report content and its presentation are the sole responsibilities of the management of the Company. The Company 
+management is also responsible for the design, implementation, and maintenance of internal controls relevant to the preparation 
+of the Report, so that it is free from material misstatement, whether due to fraud or error.
+BDO’s responsibilities
+BDO India LLP responsibility, as agreed with the management of the Company, is to provide assurance on the Report content as 
+described in the ‘Scope & boundary of Assurance’ section below. We do not accept or assume any responsibility for any other 
+purpose or to any other person or organisation. Any reliance a third party may place on the Report is entirely at its own risk.
+Assurance standard
+We conducted our assurance engagement in accordance with International Standard on Assurance Engagements (ISAE) 
+3000 (Revised), “Assurance Engagements Other than Audits or Reviews of Historical Financial Information” and ISAE 3410, 
+“Assurance Engagements on Greenhouse Gas Statement” issued by the International Auditing and Standards Board. We 
+applied the criteria of ‘Limited’ assurance.
+Scope & boundary of assurance
+We have assured the select indicators in the Report pertaining to the Company’s non-financial performance covering its 
+operations for the period 1st April 2024 through 31st March 2025. The indicators under the scope of assurance are listed in 
+Appendix 1.
+Assurance methodology
+Our assurance process entails conducting procedures to gather evidence regarding the reliability of the disclosures covered in 
+the assurance scope. We conducted a review and verification of data collection, collation, and calculation methodologies, and 
+a general review of the logic of inclusion/ omission of relevant information/ data in the Report. Our review process included:
+• 	
+Evaluate and assess the appropriateness of the quantification methods used to arrive at the non-financial sustainability 
+information of the select BRSR indicators in the Report;
+• 	
+Review of consistency of data/information within the Report as well as between the Report and source;
+• 	
+Engagement through discussions with personnel at the corporate level who are accountable for the data and information 
+presented in the Report;
+• 	
+Execution of an audit trail of claims and data streams, to determine the level of accuracy in collection, transcription, and 
+aggregation;
+• 	
+Review of data collection and management procedures, and related internal controls.
+Independent Assurance Statement
+Annual Report 2024-25
+210
+• 	
+Virtual verification of non-financial/sustainability performance data, on sample basis, based on our professional 
+judgement, for the corporate office and following manufacturing facilities:
+- Welspun Corp Limited, Line Pipe Division, Anjar
+- Welspun Corp Limited, Metallic Division, Anjar
+- Welspun Corp Limited, Steel Division, Anjar
+- Welspun Corp Limited, Bhopal
+Limitations and exclusions:
+There are inherent limitations in an assurance engagement, including, for example, the use of judgement and selective testing 
+of data. Accordingly, there are possibilities that material misstatements in the Report may remain undetected.
+The assurance scope excludes:
+• 	
+Data and information outside the defined reporting period (1st April 2024 to 31st March 2025)
+• 	
+Review of the ‘economic and/or financial performance indicators’ included in the Report or on which reporting is based; 
+we have been informed by the Company that these are derived from the Company’s audited financial records;
+• 	
+The Company’s statements and claims related to any topic other than those listed in the ‘Scope & boundary of assurance’ 
+and the indicators listed in Appendix-1;
+• 	
+The Company’s statements that describe qualitative/quantitative assertions, expression of opinion, belief, inference, 
+aspiration/targets, expectation, aim or future intention.
+Our observations
+We have reviewed the disclosures in the “Report” for the reporting period from 1st April 2024 through 31st March 2025. The 
+disclosures of the Company, covered under the ‘Scope and boundary of assurance’, are fairly reliable.
+Our conclusions
+Based on the procedures performed and evidence obtained as defined under the ‘Scope & boundary of assurance’, nothing has 
+come to our attention that causes us not to believe that the disclosures of the Company is presented fairly in accordance with 
+the relevant reporting guidelines/standards.
+Our assurance team and independence
+BDO India LLP is a professional services firm providing services in Advisory, Assurance, Tax, and Business Advisory Services, 
+to both domestic and international organizations across industry sectors. Our non-financial assurance practitioners for 
+this engagement are drawn from a dedicated Sustainability and ESG Team in the organization. This team is comprised of 
+multidisciplinary professionals, with expertise across the domains of sustainability, global sustainability reporting standards 
+and principles and related assurance standards. This team has extensive experience in conducting independent assurance 
+of sustainability data, systems, and processes across sectors and geographies. As an assurance provider, BDO India LLP is 
+required to comply with the independence requirements set out in the International Federation of Accountants (IFAC) Code of 
+Ethics for Professional Accountants. Our independence policies and procedures ensure compliance with the Code.
+For BDO India LLP
+Indra Guha
+Partner | Sustainability & ESG
+Business Advisory Services
+Gurugram, Haryana 
+04 July 2025
+Independent Assurance Statement (Contd.)
+Financial Statements
+Statutory Reports
+Corporate Overview
+211
+Appendix 1 (to be read as part of ‘Scope and boundary of assurance’)
+The sustainability indicators/disclosures considered during the engagement are presented below:
+Section/Principle
+Indicator
+Section A: General Disclosure
+Employees and workers (including differently abled)
+Differently abled Employees and workers
+Participation/Inclusion/Representation of women
+Turnover rate for permanent employees and workers
+Principle 1: Essential Indicator 8
+No. of days of accounts payable
+Principle 3: Essential Indicator 1
+Details of measures for the well-being of employees and workers
+Principle 3: Essential Indicator 5
+Return to work and Retention rates of permanent employees and workers 
+that took parental leave
+Principle 3: Essential Indicator 8
+Details of training given to employees and workers
+Principle 3: Essential Indicator 9
+Details of performance and career development reviews of employees 
+and worker
+Principle 3: Essential Indicator 11
+Details of safety related incidents for employees and workers
+Principle 5: Essential Indicator 1
+Employees and workers who have been provided training on human 
+rights issues and policy(ies) of the entity
+Principle 6: Essential Indicator 1
+Details of total energy consumption (in Joules or multiples) and energy 
+intensity
+Principle 6: Essential Indicator 3
+Details of the disclosures related to water
+Principle 6: Essential Indicator 4
+Details related to water discharged
+Principle 6: Essential Indicator 6
+Details of air emissions (other than GHG emissions)
+Principle 6: Essential Indicator 7
+Details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) 
+& its intensity
+Principle 6: Essential Indicator 9
+Details related to waste management by the entity
+Independent Assurance Statement (Contd.)

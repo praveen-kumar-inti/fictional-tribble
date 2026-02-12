@@ -1,0 +1,4009 @@
+ 
+Classification: Internal Contains PII: No 
+ 
+ 
+ 
+ 
+ 
+June 27, 2025 
+ 
+BSE Limited 
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Mumbai-400 001.  
+Scrip Code: 543398 
+ 
+National Stock Exchange of India Limited 
+Exchange Plaza, C-1, Block G, 
+Bandra Kurla Complex Bandra East, 
+Mumbai 400 051 
+Scrip Symbol: LATENTVIEW 
+ 
+Dear Sir/Madam, 
+ 
+Sub:  
+Business Responsibility and Sustainability Report for the Financial Year 2024-25 
+ 
+Pursuant to Regulation 34(2)(f) of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, we are enclosing herewith a copy of our Business Responsibility and 
+Sustainability Report for the Financial Year 2024-25. 
+ 
+The 
+above 
+said 
+report 
+is 
+also 
+published 
+on 
+our 
+website 
+at 
+https://www.latentview.com/investor-relations/financial-results-reports/. 
+ 
+This is for your information and records. 
+ 
+ 
+Thanking you, 
+For Latent View Analytics Limited  
+ 
+ 
+ 
+ 
+_______________________
+P. Srinivasan 
+Company Secretary and Compliance Officer 
+ 
+ 
+PARTHASAR
+ATHY 
+SRINIVASAN
+Digitally signed by 
+PARTHASARATHY 
+SRINIVASAN 
+Date: 2025.06.27 
+15:33:08 +05'30'
+1  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+SECTION A: GENERAL DISCLOSURES
+I. Details of the listed entity
+1
+Corporate Identity Number (CIN) 
+of the Listed Entity
+L72300TN2006PLC058481
+2
+Name of the Listed Entity
+Latent View Analytics Limited
+3
+Year of Incorporation
+January 3, 2006
+4
+Registered office address
+5th Floor, Neville Tower, Unit 6,7 and 8, Ramanujan IT City, Rajiv 
+Gandhi Salai, Taramani Chennai, Chennai, India 600113
+5
+Corporate office address
+5th Floor, Neville Tower, Unit 6,7 and 8, Ramanujan IT City, Rajiv 
+Gandhi Salai, Taramani Chennai, Chennai, India 600113
+6
+E-mail
+Investorcare@latentview.com
+7
+Telephone
+91 44 4344 1700
+8
+Website
+https://www.latentview.com/
+9
+Financial year for which reporting 
+is being done
+2024-25
+10
+Name of the Stock Exchange(s) 
+where shares are listed
+National Stock Exchange of India Limited & BSE Limited
+11
+Paid-up capital
+ 206.47 million
+12
+Name and contact details of the 
+person who may be contacted in 
+case of any queries on the BRSR 
+report
+Rajan Bala Venkatesan - Chief Financial Officer
+Contact - 044 4344 1700 
+E-mail - Investorcare@latentview.com
+13
+Reporting Boundary
+Standalone basis
+14
+Name of assurance provider
+NA
+15
+Type of assurance obtained
+NA
+ANNEXURE-5 TO THE BOARD’S REPORT
+Business Responsibility and Sustainability Report
+16. Details of business activities (accounting for 90% of the turnover) (Contd.)
+Sr. 
+No.
+Description of  
+Main activity
+Description of Business Activity
+% of Turnover  
+of the  entity
+Established in 2006, LatentView holds the distinction 
+of being India’s first publicly listed analytics Company. 
+With a global presence, we serve an elite clientele of 
+Fortune 500 companies across key industries, including 
+Consumer Packaged Goods (CPG), Retail, Technology, 
+Financial Services, and Media & Entertainment.
+Our Centers of Excellence (COEs) deliver industry-
+leading insights and best practices tailored to specific 
+domains. Complementing these are our specialized 
+Horizontal Teams—spanning Data Engineering, Data 
+Science & AI, and Data Visualization—which provide 
+bespoke consulting and solutions designed to drive 
+measurable impact. Key functional areas we enhance 
+include:
+•	 Customer & Marketing Analytics
+•	 Supply Chain Optimization 
+•	 Financial & Risk Analytics
+•	 Human Capital Management Analytics
+Powered by a dynamic and passionate team, we are 
+committed to continuous innovation, ensuring exceptional 
+value for our clients and their end consumers.
+17. Products/services sold by the entity (accounting for 90% of the entity’s turnover)
+Sr. 
+No.
+Product/Service
+NIC Code
+% of total Turnover 
+contributed
+1.
+Other data processing, hosting and related  
+activities n.e.c.
+63119
+100
+II. Products/services
+16. Details of business activities (accounting for 90% of the turnover)
+Sr. 
+No.
+Description of  
+Main activity
+Description of Business Activity
+% of Turnover  
+of the  entity
+1.
+Information service 
+activity
+LatentView Analytics (NSE: LATENTVIEW) is a global 
+leader in digital analytics and AI, enabling businesses 
+to accelerate digital transformation and leverage data 
+for competitive advantage. Our cutting-edge solutions 
+empower organizations to optimize revenue growth, 
+unlock new revenue streams, and enhance profitability.
+100
+2  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+III. Operations	
+18. Number of locations where plants and/or operations/offices of the entity are 
+situated
+Location
+Number of plants
+Number of offices
+Total
+National
+NA
+03
+03
+International
+NA
+11
+11
+19. Markets served by the entity
+a. Number of locations
+Locations
+Number
+National (No. of states)
+3
+International (No. of countries)
+11
+b. What is the contribution of exports as a percentage of the total turnover of the 
+entity?
+91.5%
+c. A brief on types of customers
+LatentView continues to be a trusted partner to a diverse range of enterprises globally.
+Key Customer Segments of LatentView:
+•	 Leading Global Enterprises: LatentView collaborates with over 30+ Fortune 500 companies.
+•	 Industry Vertical Focus: The Company possesses strong domain expertise, offering specialized analytics 
+solutions across key industry sectors. In FY25, the primary verticals served include:
+•	 Technology: A key revenue source, serving diverse hi-tech clients from software to manufacturing in 
+platform development and digital strategy alignment.
+•	 Financial Services: The sector shows strong growth, serving multinational banks, global payments 
+firms, and fintech’s. Work highlights the increasing demand for intelligent automation, personalization, 
+and data-informed decisions.
+•	 Consumer Packaged Goods (CPG) & Retail: Serving top sportswear, optical, convenience retail, 
+and household electronics brands with Revenue Growth Management (RGM), promotional planning, 
+social media analytics, customer sentiment analysis, and streamlined reporting. The FY25 acquisition of 
+Decision Point Analytics enhances these capabilities.
+•	 Industrials: Engaging with top automotive suppliers, specialty chemical firms, and global industrial 
+groups, our analytics-driven projects enhance operational agility, product improvement, and 
+commercial impact.
+•	 Business Model Focus: LatentView assists B2B and B2C clients in understanding digital consumers, 
+forecasting revenue, predicting trends, enhancing retention, and optimizing investments.
+IV. Employees	
+20. Details as of March 31, 2025
+a. Employees and workers (including differently abled)
+Sr. 
+No.
+Particulars
+Total 
+(A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+Employees
+1
+Permanent (D)
+1,133
+741
+65.4
+392
+34.5
+2
+Other than Permanent (E)
+39
+27
+69.2
+12
+30.7
+3
+Total employees (D+E)
+1,172
+768
+65.5
+404
+34.4
+Workers
+1
+Permanent (F)
+NA
+-
+-
+-
+-
+2
+Other than Permanent (G)
+NA
+-
+-
+-
+-
+3
+Total workers (F+G)
+NA
+-
+-
+-
+-
+b. Differently abled employees and workers
+Sr. 
+No.
+Particulars
+Total 
+(A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+Differently Abled Employees
+1
+Permanent (D)
+1
+1
+100%
+-
+-
+2
+Other than Permanent (E)
+-
+-
+-
+-
+-
+3
+Total differently-abled 
+employees (D+E)
+1
+1
+100%
+-
+-
+Differently Abled Workers
+1
+Permanent (F)
+NA
+-
+-
+-
+-
+2
+Other than Permanent (G)
+NA
+-
+-
+-
+-
+3
+Total differently-abled 
+workers (F+G)
+NA
+-
+-
+-
+-
+21. Participation/inclusion/representation of women
+Total (A)
+No. and percentage of females
+No. (B)
+% (B/A)
+Directors
+6
+2
+33.3
+Key Management Personnel
+3
+-
+-
+3  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+22. Turnover rate for permanent employees and workers
+FY 2024-25
+FY 2023-24
+FY 2022-23
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent 
+Employees
+19.8
+25.2
+22.0
+25.1
+17.6
+22.2
+25.4
+23.3
+24.7
+Permanent 
+Workers
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+V. Holding, Subsidiary and Associate Companies (including joint ventures)
+23. 1. Names of holding/subsidiary/associate companies/joint ventures:  
+Sr. 
+No.
+Name of Holding/Subsidiary/
+Associate Companies/Joint Venture 
+(A)
+Indicate whether 
+Holding/
+Subsidiary/
+Associate/Joint 
+Venture
+% Of 
+shares 
+held by 
+listed 
+entity
+Does the entity 
+indicated in column 
+A, participate in the 
+Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+1
+LatentView Analytics Corporation - USA
+Subsidiary
+100%
+No
+2
+LatentView Analytics Pte. Ltd - Singapore
+Subsidiary
+100%
+No
+3
+LatentView Analytics UK Ltd -  
+United Kingdom
+Subsidiary
+100%
+No
+4
+LatentView Analytics B.V - Netherland
+Subsidiary
+100%
+No
+1. Names of holding/subsidiary/associate companies/joint ventures:  (Contd.)
+Sr. 
+No.
+Name of Holding/Subsidiary/
+Associate Companies/Joint Venture 
+(A)
+Indicate whether 
+Holding/
+Subsidiary/
+Associate/Joint 
+Venture
+% Of 
+shares 
+held by 
+listed 
+entity
+Does the entity 
+indicated in column 
+A, participate in the 
+Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+5
+LatentView Analytics GmbH - Germany
+Step down 
+Subsidiary#
+100%
+No
+6
+Decision Point Private Limited - India
+Subsidiary
+70%
+No
+7
+Decision Point Latam SpA - Chile 
+Step down Subsidiary
+70%*
+No
+8
+Decision Point Analytics Inc - USA 
+Step down Subsidiary
+70%*
+No
+9
+Decision Point Latam - Mexico
+Step down Subsidiary
+70%*
+No
+10
+Decision Point Analytics LLC FZ - Dubai
+Step down Subsidiary
+70%*
+No
+*Intermediate holding Company i.e Decision Point Private Limited holds 100% equity of its subsidiaries.
+#Intermediate holding Company i.e LatentView Analytics B.V.- holds 100% equity of  LatentView Analytics GmbH.
+VI. CSR Details  
+24. (i) Whether CSR is applicable as per Section 135 of Companies Act, 2013: Yes
+a.	 Turnover (in `): 3,471,250,000
+b.	 Net worth (in `): 11,927,523,000
+VII. Transparency and Disclosures Compliances 
+25. Complaints/grievances on any of the principles (Principles 1 to 9) under the National Guidelines on   Responsible Business Conduct (NGRBC)
+Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business Conduct
+Stakeholder group from whom 
+complaint is received
+Grievance Redressal 
+Mechanism in Place 
+(Yes/No)
+FY 2024-25
+FY 2023-24
+Number of 
+complaints filed 
+during the year
+Number of 
+complaints pending 
+resolution at close 
+of the year
+Remarks
+Number of 
+complaints filed 
+during the year
+Number of 
+complaints pending 
+resolution at close 
+of the year
+Remarks
+Communities
+Yes
+-
+-
+-
+-
+-
+-
+Investors (other than shareholders)
+Yes1 
+-
+-
+-
+-
+-
+-
+Shareholders
+Yes1
+-
+-
+-
+-
+-
+-
+4  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+25. Complaints/grievances on any of the principles (Principles 1 to 9) under the National Guidelines on   Responsible Business Conduct (NGRBC) (Contd.)
+Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business Conduct
+Stakeholder group from whom 
+complaint is received
+Grievance Redressal 
+Mechanism in Place 
+(Yes/No)
+FY 2024-25
+FY 2023-24
+Number of 
+complaints filed 
+during the year
+Number of 
+complaints pending 
+resolution at close 
+of the year
+Remarks
+Number of 
+complaints filed 
+during the year
+Number of 
+complaints pending 
+resolution at close 
+of the year
+Remarks
+Employees and workers
+Yes2
+-
+-
+-
+-
+-
+-
+Customers
+Yes
+-
+-
+-
+-
+-
+-
+Value Chain Partners
+Yes3
+-
+-
+-
+-
+-
+-
+1Investor Grievance Redressal Policy – https://www.latentview.com/wp-content/uploads/2023/10/investor-grievance-redressal-policy.pdf
+2Employee Grievance Redressal Policy- Available in the Organization’s Intranet
+3Sustainable Procurement Policy- https://www.latentview.com/wp-content/uploads/2024/02/sustainable-procurement-policy.pdf
+26. Overview of the entity’s material responsible business conduct issues
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to 
+adapt or mitigate the risk*: 
+Sr. 
+No.
+Material issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying the risk/opportunity
+In case of risk, approach to adapt or mitigate.
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or negative 
+implications)
+1
+Energy 
+Management
+Opportunity
+Electricity is the primary energy source for our operations. 
+LatentView recognizes the potential to reduce energy 
+consumption through conservation measures, thereby 
+lowering operational costs and reducing our carbon 
+footprint.
+NA
+Positive
+2
+Carbon  
+Emissions
+Opportunity
+At LatentView, we are dedicated to learning more about 
+climate change and its effects. This greater understanding 
+has led us to adopt more environmentally friendly products 
+and practices quickly. 
+As part of our commitment to environmental stewardship, we have implemented 
+a comprehensive strategy to reduce our carbon footprint across operations. Our 
+initiatives prioritize energy efficiency, renewable energy adoption, and sustainable 
+infrastructure to align with global climate goals.
+Energy Efficiency Measures Optimized Building Systems:  Deployment of 
+LED lighting, high-efficiency HVAC systems, and Variable Frequency Drive (VFD)-
+controlled air-conditioning to minimize energy consumption.
+Smart Energy Management: Integration of automated systems to monitor and 
+reduce unnecessary power usage across facilities.
+Renewable Energy Transition Green Power Procurement: Over 75% of 
+total energy consumption is sourced from renewable sources, significantly reducing 
+reliance on fossil fuel-based grid electricity.
+Positive
+5  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+26. Overview of the entity’s material responsible business conduct issues (Contd.)
+Sr. 
+No.
+Material issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying the risk/opportunity
+In case of risk, approach to adapt or mitigate.
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or negative 
+implications)
+Renewable Energy Transition Green Power Procurement: LatentView 
+sources electricity from the IT park in which we operate, which incorporates a 
+renewable energy mix as part of its power supply. By utilizing energy that includes 
+a share of clean and sustainable sources, we actively contribute to lowering our 
+carbon footprint and aligning with broader environmental goals.
+Sustainable Infrastructure & Certifications Green Building Standards: Our 
+facilities are designed and operated in compliance with LEED Platinum and EDGE 
+Zero Carbon standards, ensuring energy-efficient and low-carbon infrastructure.
+Net-Zero Roadmap: Commitment to achieving net-zero carbon emissions through 
+continuous improvements in energy performance and renewable energy adoption.
+Resource Efficiency & Waste Management Zero Liquid Discharge (ZLD) 
+Systems: Advanced water recycling processes to eliminate wastewater discharge, 
+reducing emissions associated with water procurement and disposal.
+Circular Economy Practices: Procurement of sustainable materials, including 
+recycled acoustic panels and eco-certified furnishings, to minimize embodied 
+carbon.
+Low-Carbon Mobility Electric Vehicle (EV) Infrastructure: Providing Access 
+to  EV charging stations within the office premises to encourage the adoption of low-
+emission transportation among employees.
+Sustainable Commuting Programs: Creating awareness and motivating 
+usage of public transport and carpooling to reduce Scope 3 emissions from 
+employee travel.
+3
+Diversity and 
+Inclusion
+Opportunity
+A diverse and inclusive workforce fosters innovation and 
+enhances problem-solving. LatentView actively promotes 
+a work environment where every employee feels 
+respected and supported, regardless of gender, ethnicity, 
+or background.
+NA
+Positive
+4
+Data security 
+(Data privacy/
+Cyber security)
+Risk
+At LatentView, data protection and privacy are 
+fundamental to our business operations. As reliance on 
+digital technologies grows and remote work becomes 
+more prevalent, safeguarding the confidentiality and 
+integrity of data has become increasingly critical
+We have a robust data protection and cyber security policy which sets forth limits, 
+mitigation strategies and internal controls.
+We adhere strictly to all relevant data protection regulations, standards, and other 
+international, national, and industry-specific regulations.
+Negative
+6  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+26. Overview of the entity’s material responsible business conduct issues (Contd.)
+Sr. 
+No.
+Material issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying the risk/opportunity
+In case of risk, approach to adapt or mitigate.
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or negative 
+implications)
+We manage significant volumes of sensitive information, 
+both internal and client-related, making cybersecurity 
+a top priority. A data breach could result in substantial 
+financial losses, legal repercussions, and reputational 
+damage that may undermine client trust and long-term 
+business partnerships.
+We have a robust data protection and cyber security policy which sets forth limits, 
+mitigation strategies and internal controls.
+We adhere strictly to all relevant data protection regulations, standards, and other 
+international, national, and industry-specific regulations.
+We have established comprehensive privacy policies that outline how data is 
+collected, used, stored, and shared. These policies are transparent and easily 
+accessible to all stakeholders, ensuring that everyone understands our commitment 
+to data protection.
+Ensuring that all employees are aware of data protection best practices is a priority. 
+We provide regular training sessions on data privacy, cybersecurity, and safe 
+handling of sensitive information.
+We have a robust incident response plan in place to quickly and effectively respond 
+to any data breaches or security incidents. This includes predefined protocols for 
+containment, investigation, notification, and remediation, ensuring minimal impact 
+and swift recovery.
+We continuously evaluate and enhance our security measures to adapt to the 
+evolving digital landscape and emerging threats.
+5
+Social 
+Responsibility 
+(Local 
+communities)
+Opportunity
+LatentView is dedicated to creating a positive impact on 
+the communities in which it operates by supporting local 
+development and engagement initiatives.
+NA
+Positive
+6
+Talent attraction 
+and retention
+Risk
+The technology sector is characterized by high attrition 
+rates, making talent retention a significant challenge. At 
+LatentView, we recognize that retaining skilled professionals 
+is essential for ensuring operational continuity, maintaining 
+knowledge capital, and sustaining a competitive edge in 
+a rapidly evolving market. High employee turnover can 
+disrupt project timelines, increase recruitment and training 
+costs, and impact client satisfaction.
+We are formulating high-impact employee retention strategies to help us retain our 
+employees for the long haul.
+Negative
+7  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+26. Overview of the entity’s material responsible business conduct issues (Contd.)
+Sr. 
+No.
+Material issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying the risk/opportunity
+In case of risk, approach to adapt or mitigate.
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or negative 
+implications)
+7
+Training and 
+upskilling
+Opportunity
+Skilled employees are a vital asset to LatentView, 
+contributing significantly to the efficiency and effectiveness 
+of our operations. Their expertise enables them to perform 
+tasks with greater precision, innovation, and speed, 
+leading to improved productivity and quality of outcomes. 
+In a dynamic and competitive industry, having a workforce 
+that is continuously upskilled ensures we remain agile and 
+responsive to evolving client needs and technological 
+advancements.
+NA
+Positive
+Risk
+Access to a skilled and future-ready workforce is critical to 
+LatentView's continued operational efficiency and service 
+excellence. In a rapidly evolving and competitive industry, 
+the inability to attract, retain, and continuously upskill 
+talent poses a strategic risk. A shortfall in talent availability 
+or gaps in critical capabilities could impact our agility in 
+responding to emerging technologies and client demands, 
+thereby affecting long-term growth and competitiveness.
+At LatentView, we have implemented a comprehensive talent management approach 
+that includes structured learning and development programs, leadership training, 
+and technical skill enhancement initiatives. We foster a culture of continuous learning 
+by encouraging employees to engage in upskilling opportunities through internal 
+and external platforms. In addition, we regularly assess emerging industry trends 
+and evolving client requirements to ensure our workforce strategy remains aligned 
+with future needs. These efforts enable us to build a resilient talent pipeline, enhance 
+employee retention, and maintain a competitive edge in the dynamic technology 
+landscape.
+Positive
+8
+Corporate 
+governance
+Opportunity
+We understand that a strong and robust Corporate 
+Governance structure has the potential to improve 
+decision-making, increase transparency, and promote 
+accountability.
+NA
+Positive
+9
+Customer 
+satisfaction
+Opportunity
+At LatentView, we strongly believe that feedback is 
+essential for continuous improvement and long-term 
+success in any industry. It provides valuable insights into 
+customer expectations, identifies areas for enhancement, 
+and helps us refine our services and solutions.
+NA
+Positive
+10
+Economic 
+Performance
+Opportunity
+Increased revenue from higher demand for digital services 
+from customers will help in generating a higher economic 
+performance
+NA
+Positive
+11
+Innovation
+Risk
+We understand that the possibility of superior solutions 
+failing to address the current market demands or meet new 
+requirements is a risk to our operation
+We are focusing on new areas to develop future capability needs
+Positive
+Opportunity
+We believe Innovation increases the chances to react to 
+upcoming challenges and discover new opportunities
+NA
+Positive.
+12
+Compliance
+Risk
+We understand that failure to act according to standards 
+or laws of industry, laws or its own policies can lead to 
+penalties and legal consequences. 
+We have a Risk management policy for identifying, assessing, and mitigating 
+compliance risks.
+Negative
+8  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+Section B: Management and Process Disclosure
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting the NGRBC Principles and Core Elements.
+The National Guidelines for Responsible Business Conduct (NGRBC) as prescribed by the Ministry of Corporate Affairs advocates nine principles referred as P1-P9 as given below:
+P1
+Businesses should conduct and govern themselves with integrity in a manner that is ethical, transparent and accountable
+P2
+Businesses should provide goods and services in a manner that is sustainable and safe
+P3
+Businesses should respect and promote the well-being of all employees, including those in their value chains
+P4
+Businesses should respect the interests of and be responsive towards all its stakeholders
+P5
+Businesses should respect and promote human rights
+P6
+Businesses should respect, protect and make efforts to restore the environment
+P7
+Businesses when engaging in influencing public and regulatory policy, should do so in a manner that is responsible and transparent
+P8
+Businesses should promote inclusive growth and equitable development
+P9
+Businesses should engage with and provide value to their consumers in a responsible manner
+Disclosure Question
+P 1
+P 2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+POLICY AND MANAGEMENT PROCESSES
+1.
+a.	 Whether your entity’s policy/policies cover each principle and its 
+core elements of the NGRBCs. (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+b.	 Has the policy been approved by the Board? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+c.	 Web link of the policies, if available
+Yes1
+Yes²
+Yes³
+Yes4
+Yes5
+Yes6
+Yes7
+Yes8
+Yes9
+2.
+Whether the entity has translated the policy into procedures. (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3.
+Do the enlisted policies extend to your value chain partners? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+4.
+Name the national and international codes/certifications/labels/
+standards
+No codes or 
+standards are 
+available
+No codes or 
+standards are 
+available
+ILO code
+No codes or 
+standards are 
+available
+Human rights 
+and ILO 
+declaration
+IGBC 
+certificate
+No codes or 
+standards are 
+available
+CSR 
+disclosures as 
+per Companies 
+Act 2013
+ISO 27001
+5.
+Specific commitments, goals and targets set by the entity with defined 
+timelines, if any
+As part of our sustainability strategy, we have established measurable internal goals and targets aligned with our material topics. These objectives 
+have been formally defined to drive meaningful progress across our environmental, social, and governance priorities. 
+While we maintain these targets as internal benchmarks at present, we anticipate progressively disclosing specific metrics and milestones as our 
+sustainability programs mature. 
+6.
+Performance of the entity against specific commitments, goals and targets
+NA
+1.	 https://www.latentview.com/wp-content/uploads/2025/02/Anti-Corruption-Anti-Bribery-Policy.pdf
+2.	 Available for the respective stakeholders in the intranet
+3.	 https://www.latentview.com/wp-content/uploads/2025/02/Board-Diversity-Policy.pdf and code of 
+conduct policy is available on the intranet portal
+4.	 https://www.latentview.com/wp-content/uploads/2025/02/The-Policy-For-Prevention-Prohibition-
+And-Redressal-Of-Sexual-Harassment-At-Workplace.pdf and https://www.latentview.com/wp-content/
+uploads/2023/03/whistle-blower-policy-2023.pdf
+5.	 Available for the respective stakeholders in the intranet
+6.	 Available for the respective stakeholders in the intranet
+7.	 Available for the respective stakeholders in the intranet
+8.	 https://www.latentview.com/wp-content/uploads/2024/02/csr-policy-doc.pdf
+9.	 Available on the intranet
+9  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+Governance, Leadership and Oversight
+7. Statement by the director responsible for the business responsibility report, 
+highlighting ESG-related challenges, targets and achievements (listed entity has 
+flexibility regarding the placement of this disclosure).
+Responsible DNA, Responsible Actions — Sustainability has been woven into our fabric since day one. We 
+recognize that the true measure of progress lies in our ability to generate long-term value for all stakeholders 
+while making a positive contribution to society and the environment. This year, we made significant progress by 
+formalizing our ESG Framework and Roadmap, integrating environmental, social, and governance principles 
+into all aspects of our decision-making and operations.
+We have made measurable progress: enhancing resource efficiency, supporting cleaner operations, and 
+fostering a culture of environmental stewardship. On governance and social fronts, we have strengthened 
+transparency, ethical conduct, employee empowerment, and community engagement.
+As we move forward, we commit to responsible innovation, building resilient systems, and generating shared 
+value through purposeful partnerships and sustainable practices.
+8. Details of the highest authority responsible for implementation and oversight of the 
+Business Responsibility & Sustainability (BRSR) Policy.
+Name: A.V. Venkatraman 
+Designation: Executive Chairperson
+9. Does the entity have a specified committee of the board/director responsible for 
+decision-making on sustainability-related issues? (Yes/No). If yes, provide details.
+LatentView has established a dedicated ESG Steering Committee responsible for overseeing and managing all 
+Environmental, Social, and Governance (ESG) initiatives across the organization. This committee plays a pivotal 
+role in formulating ESG strategies, ensuring compliance with sustainability standards, and driving responsible 
+business practices. To maintain accountability and alignment with corporate objectives, the ESG Steering 
+Committee regularly reports its progress, key decisions, and recommendations directly to the Chief Executive 
+Officer (CEO) and, at a higher governance level, to the Board of Directors.
+10. Details of Review of the National Guidelines on Responsible Business Conduct (NGRBC) by the Company.
+Subject for Review
+Indicate whether review was undertaken by Director/
+Committee of the Board/Any other Committee
+Frequency: Annually (A)/Half yearly (H)/Quarterly (Q)/Any 
+other – please specify
+P 1
+P 2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P 1
+P 2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above policies & follow up action
+B
+B
+B
+B
+B
+D
+B
+B
+B
+Q
+H
+Q
+Q
+*
+Q
+Q
+H
+H
+Compliance with statutory requirements of relevance to the principles, and 
+rectification of any non-compliances
+B
+B
+B
+B
+D
+C
+B
+B
+B
+Q
+H
+Q
+Q
+*
+Q
+Q
+H
+H
+*need based.
+11. Has the entity carried out independent assessment/evaluation of the working of its policies by an external agency? (Yes/No). If yes, provide name of the agency.
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+No
+No
+No
+No
+No
+No
+No
+Yes
+No
+At Latent View policies are periodically evaluated and updated by various department heads/business heads and approved by the management/the Board Committees/the Board respectively. Our Cyber Security Policy got 
+evaluated by TUV.
+12. If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated: Nil
+10  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+Section C: Principle-Wise Performance Disclosure
+Principle 1 - Businesses should conduct and govern themselves with integrity and in a manner that is Ethical, Transparent and Accountable
+Essential Indicators
+1. Percentage coverage by training and awareness programmes on any of the principles during the financial year.
+Segment
+Total number of training and 
+awareness programmes held
+Topics/principles covered under the training audits impact
+% of persons in respective category covered 
+by the awareness programmes
+Board of Directors
+6
+Prevention of Sexual Harassment 2024 (POSH)
+Information of Security Management system 2024 (ISMS)
+Cybersecurity Awareness Training - (2024-2025)
+Privacy and Data Protection Awareness - (2024-2025)
+Refresher - Anti-Bribery and Anti-Corruption (2024-2025)
+Refresher - Prevention of Illegal Insider Trading (2024-2025)
+100%
+Key Managerial 
+Personnel (KMP)
+8
+Workshop on POSH for Managers - Bangalore
+A Workshop on POSH for Managers @ Chennai Office
+Prevention of Sexual Harassment 2024 (POSH)
+Information of Security Management system 2024 (ISMS)
+Cybersecurity Awareness Training - (2024-2025)
+Privacy and Data Protection Awareness - (2024-2025)
+Refresher - Anti-Bribery and Anti-Corruption (2024-2025)
+Refresher - Prevention of Illegal Insider Trading (2024-2025)
+100%
+Employees other than 
+BoD and KMPs
+678
+•	 Mandatory Training for employees, including Data Privacy, Prevention of Sexual Harassment, 
+Information Security Awareness, Ethical code of Conduct.
+•	 Skill Development Training
+•	 Soft Skill Training
+99.87
+Workers
+NA
+NA
+NA
+11  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+2. Details of fines/penalties/punishment/award/compounding fees/settlement 
+amount paid in proceedings (by the entity or by directors/KMPs) with regulators/
+law enforcement agencies/judicial institutions, in the financial year. (Note: the entity 
+shall make disclosures on the basis of materiality as specified in Regulation 30 of SEBI 
+(Listing Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed 
+on the entity’s website).
+Monetary
+NGRBC 
+Principle
+Name of the regulatory/
+enforcement agencies/
+judicial institutions
+Amount 
+(In INR)
+Brief of 
+the Case
+Has an 
+appeal been 
+preferred? 
+(Yes/No)
+Penalty/Fine
+-
+-
+-
+-
+-
+Settlement
+-
+-
+-
+-
+-
+Compounding 
+fee
+-
+-
+-
+-
+-
+Non-Monetary
+NGRBC 
+Principle
+Name of the regulatory/
+enforcement agencies/
+judicial institutions
+Brief of 
+the Case
+Has an appeal been 
+preferred? (Yes/No)
+Imprisonment
+-
+-
+-
+-
+Punishment
+-
+-
+-
+-
+3. Of the instances disclosed in Question 2 above, details of the appeal/revision 
+preferred in cases where monetary or non-monetary action has been appealed.
+Case Details
+Name of the regulatory/enforcement 
+agencies/judicial institutions
+NA
+4. Does the entity have an anti-corruption or anti-bribery policy? If yes, provide 
+details in brief and if available, provide a web-link to the policy.
+At LatentView, we have a zero-tolerance approach to bribery and corruption and are committed to compliance 
+with all relevant laws. Our policy aims to prevent the Company from engaging in bribery and corruption and 
+requires employees to comply with related procedures. The policy outlines our commitment to integrity and sets 
+responsibilities for employees, vendors, and partners to uphold the position against bribery and corruption.
+https://www.latentview.com/wp-content/uploads/2025/02/Anti-Corruption-Anti-Bribery-Policy.pdf
+5. Number of Directors/KMPs/employees against whom disciplinary action was 
+taken by any law enforcement agency for the charges of bribery/corruption.
+FY 2024-25
+FY 2023-24
+Directors
+-
+-
+KMPs
+-
+-
+Employees
+-
+-
+Workers
+-
+-
+6. Details of complaints with regard to conflict of interest.
+FY 2024-25
+FY 2023-24
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to issues 
+of Conflict of Interest of the Directors
+-
+NA
+-
+NA
+Number of complaints received in relation to issues 
+of Conflict of Interest of the KMPs
+-
+NA
+-
+NA
+7. Provide details of any corrective action taken or underway on issues related to 
+fines/penalties/action taken by regulators/law enforcement agencies/judicial 
+institutions, on cases of corruption and conflicts of interest.
+No Such instances in the reporting period.
+8. Number of days of accounts payables ((Accounts payable *365)/Cost of goods/
+services procured) in the following format:
+FY 2024-25
+FY 2023-24
+Number of days of accounts payables
+45.86
+52
+Note: The number of days of accounts payable data for the financial year ended March 31, 2024, has been restated to improve accuracy and 
+clarity in reporting.
+9. Open-ness of business  Provide details of concentration of purchases and sales 
+with trading houses, dealers, and related parties, along-with loans and, advances & 
+investments with related parties, in the following format:
+Parameter
+Metrics
+FY 2024-25
+FY 2023-24
+Concentration 
+of Purchases
+a.	 Purchases from trading houses as % of 
+total purchases  
+NA
+NA
+b.	 Number of trading houses where 
+purchases are made from
+NA
+NA
+c.	 Purchases from top 10 trading houses as 
+% of total purchases from trading house
+NA
+NA
+12  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+9. Open-ness of business  Provide details of concentration of purchases and sales 
+with trading houses, dealers, and related parties, along-with loans and, advances & 
+investments with related parties, in the following format: (Contd.)
+Parameter
+Metrics
+FY 2024-25
+FY 2023-24
+Concentration 
+of Sales
+a.	 Sales to dealers/distributors as % of 
+total sales
+NA
+NA
+b.	 Number of dealers and distributors as % 
+of total sales
+NA
+NA
+c.	 Sales to top 10 dealers/distributors as % 
+of total sales to dealers/distributors
+NA
+NA
+Share of  
+RPTs in
+a.	 Purchases 
+(Purchases 
+with 
+related 
+parties/Total Purchases)
+6%
+-
+b.	 Sales (Sales to related parties/Total 
+Sales)
+91%
+90%
+c.	 Loans & advances (Loans & advances 
+given to related parties/Total loans & 
+advances)  
+-
+100%
+d.	 Investments 
+(Investments 
+in 
+related 
+parties/Total Investments made)
+-
+0.08%
+Leadership Indicators 
+1. Awareness programs conducted for value chain partners on any of the principles 
+Provide the processes for consultation between stakeholders and the Board on 
+economic, environmental, and social topics or if consultation is delegated, how is 
+feedback from such consultations provided to the Board.
+Total number 
+of awareness 
+programmes held
+Topics/principles covered 
+under the training
+%age of value chain partners covered (by 
+value of business done with such partners) 
+under the awareness programmes
+-
+-
+2. Does the entity have processes in place to avoid/manage conflicts of interest 
+involving members of the Board? (Yes/No) If Yes, provide details of the same.
+Yes, We have a comprehensive Code of Conduct to prevent and manage conflicts of interest involving Board 
+members. This Code is adhered to by the directors and senior management to uphold exemplary corporate 
+governance practices. The Compliance Officer is responsible for ensuring adherence to the Code, all Board of 
+Directors, key Managerial persons and employees are expected to conduct themselves with the utmost care, 
+diligence, honesty, and integrity, maintaining the highest moral and ethical standards, and acting in the best 
+interests of LatentView.
+Principle 2 - Businesses should provide goods and services in a manner 
+that is sustainable and safe
+Essential Indicators
+1. Percentage of R&D and capital expenditure (capex) investments in specific 
+technologies to improve the environmental and social impacts of products and 
+processes to total R&D and capex investments made by the entity, respectively.
+FY 2024-25 
+(INR Millions)
+FY 2023-24 
+(INR Millions)
+Details of improvements in 
+environmental and social impact
+Capex
+2.67
+Nil
+Key measures include providing 
+ergonomic chairs as part of Capex 
+investments, along with ergonomic chairs, 
+training room upgrades, desk exercise 
+bikes, and height-adjustable desks.
+2.
+a. Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+Yes, At LatentView, The Sustainable Procurement policy defines LatentView’s commitment to responsible and 
+sustainable procurement practices across operations. It establishes clear expectations for suppliers regarding 
+environmental, social, and ethical compliance. All suppliers must adhere to these guidelines to ensure alignment 
+with our sustainability goals.
+b. If yes, what percentage of inputs were sourced sustainably? 
+22%
+3. Describe the processes in place to safely reclaim your products for reusing, recycling 
+and disposing at the end of life, for (a) Plastics (including packaging) (b) E-waste (c) 
+Hazardous waste and (d) other waste.
+Sr. No.
+Product
+Product Process to safely reclaim the product
+1
+NA. LatentView, as an organization, does not manufacture any goods.
+4. Whether Extended Producer Responsibility (EPR) is applicable to the entity’s 
+activities (Yes/No). If yes, whether the waste collection plan is in line with the 
+Extended Producer Responsibility (EPR) plan submitted to Pollution Control Boards? If 
+not, provide steps taken to address the same. 
+Not Applicable
+13  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+Leadership Indicators 
+1. Has the entity conducted Life Cycle Perspective/Assessments (LCA) for any of its 
+products (for manufacturing industry) or for its services (for service industry)? If yes, 
+provide details.
+NIC 
+Code
+Name of 
+Product/
+Service
+% of total 
+Turnover 
+contributed
+Boundary for 
+which the Life 
+Cycle Perspective/
+Assessment was 
+conducted
+Whether 
+conducted by 
+independent 
+external 
+agency (Yes/
+No)
+Results 
+communicated 
+in public 
+domain (Yes/
+No) If yes, 
+provide the 
+web-link.
+LCA is not applicable to us.
+2. If there are any significant social or environmental concerns and/or risks arising 
+from the production or disposal of your products/services, as identified in the Life 
+Cycle Perspective/Assessments (LCA) or through any other means, briefly describe 
+the same along-with action taken to mitigate the same.
+Name of Product/Service
+Description of the risk/
+concern
+Action Taken
+NA
+3. Percentage of recycled or reused input material to total material (by value) used in 
+production (for manufacturing industry) or providing services (for service industry).
+Indicate input material
+Recycled or re-used input material  
+to total material
+FY 2024-25
+FY 2023-24
+NA
+4. Of the products and packaging reclaimed at end of life of products, amount (in 
+metric tonnes) reused, recycled, and safely disposed.
+Type of Waste
+FY 2024-25
+FY 2023-24
+Re-Used
+Recycled
+Safely 
+Disposed 
+(Metric 
+Tonnes)
+Re-Used
+Recycled
+Safely 
+Disposed 
+(Metric 
+Tonnes)
+Plastics including 
+packaging)
+NA
+NA
+NA
+NA
+NA
+NA
+E-waste
+NA
+NA
+NA
+NA
+NA
+NA
+Hazardous waste
+NA
+NA
+NA
+NA
+NA
+NA
+Other waste- Paper waste
+NA
+NA
+NA
+NA
+NA
+NA
+5. Reclaimed products and their packaging materials (as a percentage of products 
+sold) for each product category.
+Indicate product category
+Reclaimed products and their packaging 
+materials as % of total products sold in the 
+respective category
+NA
+Principle 3 - Businesses should respect and promote the well-being of 
+all employees, including those in their value chains.
+Essential Indicators	
+1. a. Details of measures for the well-being of employees:
+% Of employees covered by
+Category 
+Total 
+(A)
+Health 
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+benefits
+Daycare 
+facilities
+No. 
+(B)
+% 
+(B/A)
+No. 
+(C)
+% 
+(C/A)
+No. 
+(D)
+% 
+(D/A)
+No. 
+(E)
+% 
+(E/A)
+No. 
+(F)
+% 
+(F/A)
+Permanent Employees
+Male
+741
+741
+100
+741
+100
+NA
+NA
+741
+100
+741
+100
+Female
+392
+392
+100
+392
+100
+392
+100
+NA
+NA
+392
+100
+Total
+1,133
+1,133
+100
+1,133
+100
+392
+100
+741
+100
+1,133
+100
+Other than Permanent Employees
+Male
+Not Applicable
+Female
+Total
+Note: The wellbeing measures (ESI/PF/Maternity Benefit) of contract staff is provided by the contractor.
+b. Details of measures for the well-being of workers:
+% Of workers covered by
+Category 
+Total 
+(A)
+Health 
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+benefits
+Daycare 
+facilities
+No. 
+(B)
+% 
+(B/A)
+No. 
+(C)
+% 
+(C/A)
+No. 
+(D)
+% 
+(D/A)
+No. 
+(E)
+% 
+(E/A)
+No. 
+(F)
+% 
+(F/A)
+Permanent Workers
+Male
+Not Applicable
+Female
+Total
+Other than Permanent Workers
+Male
+Not Applicable
+Female
+Total
+14  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+c. Spending on measures towards the well-being of employees and workers (including 
+permanent and other than permanent) in the following format:
+FY 2024-25
+FY 2023-24
+The cost incurred on well-being measures as a % of 
+the total revenue of the Company
+0.97
+0.73
+2. Details of retirement benefits for the current and previous financial year.
+Benefits
+FY 2024-25
+FY 2023-24
+No. of 
+employees 
+covered (as 
+a % of total 
+employees)
+No. of 
+workers 
+covered 
+(as a % 
+of total 
+workers)
+Deducted & 
+deposited 
+with the 
+authority 
+(Yes/No/
+N.A.)
+No. of 
+employees 
+covered (as 
+a % of total 
+employees)
+No. of 
+workers 
+covered 
+(as a % 
+of total 
+workers)
+Deducted 
+and 
+deposited 
+with the 
+authority 
+(Yes/No/
+N.A.)
+PF
+100% 
+NA
+Yes
+100% 
+NA
+Yes
+Gratuity
+100%
+NA
+NA
+100% 
+NA
+NA
+ESI
+NA
+NA
+NA
+NA
+NA
+NA
+Others- Life insurance
+100% 
+NA
+Yes
+100% 
+NA
+Yes
+3. Accessibility of workplaces
+Are the premises/offices of the entity accessible to differently-abled employees and workers, 
+as per the requirements of the Rights of Persons with Disabilities Act, 2016?
+We are committed to fostering an inclusive and equitable work environment in line with the principles outlined 
+in the Rights of Persons with Disabilities Act of 2016
+The campus where our office is situated contains all amenities accessible to persons with disabilities. These 
+measures include features such as:
+1.	 Ramps at entrances and exits for wheelchair access
+2.	 Elevators with Braille buttons 
+The LatentView office is also accessible for people with disabilities, with a Handicapped restroom. The entire 
+office is accessible, and the restroom is Gender Neutral. 
+During emergencies, we have a wheelchair/stretcher, which can be easily moved on the steps.
+4. Does the entity have an equal opportunity policy as per the Rights of Persons with 
+Disabilities Act, 2016? If so, provide a web link to the policy.
+As part of LatentView’s commitment to fostering an inclusive and equitable workplace, our Equal Opportunity 
+& Anti-Discrimination Policy reflects our dedication to upholding the highest standards of fairness, integrity, 
+and respect in all employment practices. We are committed to creating a work environment that is free from 
+discrimination and in full compliance with applicable labour and employment laws and regulations.
+We ensure that employment-related decisions—including recruitment, compensation, promotions, transfers, 
+training, and development—are made solely on the basis of merit, qualifications, and business needs. We 
+do not discriminate on the grounds of national origin, religion, race, color, age, gender, marital status, sexual 
+orientation, or disability.
+Our approach to diversity and inclusion is embedded in our core values and is actively promoted through 
+transparent and fair employment policies. We strive to cultivate a culture where all individuals feel valued, 
+respected, and empowered to contribute fully. Through continuous review and enhancement of our people 
+practices, including performance management and professional development programs, we aim to provide 
+equal growth opportunities and foster a truly diverse workforce. 
+The Equal Opportunity & Anti-Discrimination Policy has been uploaded in our HRIS system allowing employees 
+to view the policy at any point of time.
+https://latentview.darwinbox.in/hrfiles/hrpolicy/employeepolicy/folder_id/all
+5. Return to work and retention rates of permanent employees that took parental leave.
+Gender
+Permanent employees
+Permanent Workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+100%
+100%
+NA
+NA
+Female
+100%
+100%
+NA
+NA
+Total
+100%
+100%
+NA
+NA
+6. Is there a mechanism available to receive and redress grievances for the following 
+categories of employees and workers? If yes, give details of the mechanism in brief.
+Yes/No (If Yes, then give details of the mechanism in brief)
+Permanent 
+Employees
+The grievance redressal procedure at LatentView begins with employees attempting 
+to resolve issues informally through discussions with their immediate supervisor. If 
+unresolved, they may file a formal complaint by contacting HR or emailing helpline@
+latentview.com, after which HR provides a grievance form to document details. The 
+accused employee receives a copy of the allegations and an opportunity to respond. 
+HR then facilitates mediation or investigation, ensuring confidentiality and impartiality. 
+Timelines are strictly followed: grievances are acknowledged within 24 hours, resolved 
+within 5 working days, and a final report is issued within 7 working days. Employees 
+can appeal decisions, prompting further review. The policy guarantees no retaliation 
+and mandates proper record-keeping throughout the process.
+POSH related grievances, Internal Compliants committee is authorised to handle in 
+accordance with the regulatory requirements. 
+Other than 
+Permanent 
+Employees
+Permanent Workers
+NA
+Other than 
+Permanent Workers
+NA
+15  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+7. Membership of employees in association(s) or unions recognised by the listed entity.
+Category
+FY 2024-25
+FY 2023-24
+Total 
+employees/
+workers in 
+respective 
+category (A)
+No. of 
+employees/
+workers in 
+respective 
+category, who 
+are part of 
+association(s) or 
+Union (B)
+% 
+(B/A)
+Total 
+employees/
+workers in 
+respective 
+category (C)
+No. of 
+employees/
+workers in 
+respective 
+category, who 
+are part of 
+association(s) 
+or Union (D)
+% 
+(D/C)
+Total Permanent 
+Employees
+At Latent View, Employees will not be restricted from joining the unions.  
+Currently, no unions are recognized by Latent View.
+Male
+Female
+Total Permanent 
+Workers
+Male
+Female
+8. Details of training given to employees and workers.
+Category
+FY 2024-25
+FY 2023-24
+Total 
+(A)
+On health 
+& safety/
+wellness 
+measures
+On skill 
+upgradation
+Total 
+(D)
+On health 
+and safety 
+measures/
+wellness
+On skill 
+upgradation
+No. 
+(B)
+% 
+(B/A)
+No. 
+(C)
+% 
+(C/A)
+No. 
+(E)
+% 
+(E/D)
+No.  
+(F)
+% 
+(F/D)
+Employees
+Male
+741
+741
+100
+741
+100
+674
+674
+100
+674
+100
+Female
+392
+392
+100
+392
+100
+408
+408
+100
+408
+100
+Total
+1,133
+1,133
+100
+1,133
+100
+1,082
+1,082
+100
+1,082
+100
+Workers
+Male
+NA
+-
+-
+NA
+-
+-
+NA
+-
+-
+NA
+Female
+NA
+-
+-
+NA
+-
+-
+NA
+-
+-
+NA
+Total
+NA
+-
+-
+NA
+-
+-
+NA
+-
+-
+NA
+9. Details of performance and career development reviews of employees and workers.
+Category
+FY 2024-25
+FY 2023-24
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C)
+Employees*
+Male
+741
+741
+100
+674
+674
+100
+Female
+392
+392
+100
+408
+408
+100
+Total
+1,133
+1,133
+100
+1,082
+1,082
+100
+Workers
+Male
+NA
+Female
+Total
+10. Health and Safety Management System.
+a) Whether an occupational health and safety management system has been implemented by 
+the entity? (Yes/No). If yes, the coverage of such system? 
+Yes, LatentView has implemented a comprehensive Occupational Health and Safety (OHS) Management 
+System in alignment with our Health and Safety Policy, ensuring the well-being of all employees by 
+systematically identifying, assessing, and mitigating workplace risks. Our OHS framework includes proactive 
+hazard identification and risk mitigation, alongside initiatives promoting both physical and mental well-being, 
+such as wellness programs and mental health resources. Clear protocols define employee and management 
+responsibilities during emergencies, ensuring swift and effective responses. Regular training sessions reinforce 
+safety awareness, while accessible incident reporting mechanisms facilitate prompt resolution and preventive 
+action. We adhere to regulatory requirements and continuously enhance our OHS practices through audits, 
+stakeholder feedback, and the adoption of industry best practices, fostering a safe and healthy work environment.
+b) What are the processes used to identify work-related hazards and assess risks on a routine 
+and non-routine basis by the entity?
+LatentView maintains a robust hazard identification and mitigation process through our dedicated Facility team, 
+which includes technical, security, and housekeeping personnel overseen by an Executive and Supervisor. The 
+team conducts routine checks throughout the day to proactively identify and address potential risks.
+For routine hazard identification, scheduled inspections are performed to detect issues such as poor ergonomics, 
+fire hazards, electrical risks, or slip-and-trip dangers. These assessments ensure ongoing workplace safety and 
+compliance with our Occupational Health and Safety (OHS) standards.
+For non-routine activities—such as office relocations, renovations, or temporary workspace setups—specific 
+risk assessments are conducted before and during the task to address unique hazards. This structured approach 
+ensures that both daily operations and exceptional circumstances are managed safely, minimizing risks to 
+employee health and well-being.
+16  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+c) Whether you have processes for workers to report work-related hazards and to remove 
+themselves from such risks. (Yes/No) 
+Yes
+d) Do the employees/workers of the entity have access to non-occupational medical and 
+healthcare services? (Yes/No)
+Yes, at LatentView, we prioritize the holistic well-being of our employees by providing access to comprehensive 
+non-occupational medical and healthcare services. Our offerings include annual preventive health check-ups to 
+monitor wellness and enable early detection of potential health concerns. We also provide robust mental health 
+support through confidential counselling services, stress management programs, and mindfulness resources. 
+We organize wellness initiatives such as fitness sessions, nutritional guidance, and lifestyle coaching to further 
+encourage healthy lifestyles. Additionally, employees and their families are covered under a structured medical 
+insurance plan, ensuring access to quality healthcare services. These programs are designed to foster both 
+physical and mental well-being, reinforcing our commitment to a healthy, supportive, and balanced work 
+environment."
+11. Details of safety-related incidents.
+Safety Incident/Number
+Category
+FY 2024-25
+FY 2023-24
+Lost Time Injury Frequency Rate (LTIFR) 
+(per one million person-hours worked)
+Employees
+-
+-
+Workers
+NA
+NA
+Total recordable work-related injuries*
+Employees
+-
+-
+Workers
+NA
+NA
+No. of fatalities
+Employees
+-
+-
+Workers
+NA
+NA
+High-consequence work-related injury or 
+ill-health (excluding fatalities)
+Employees
+-
+-
+Workers
+NA
+NA
+12. Describe the measures taken by the entity to ensure a safe and healthy workplace.
+At LatentView, we believe that our people are our greatest strength, which is why we’ve built a culture that 
+prioritizes holistic well-being—encompassing physical, mental, emotional, and financial health. Through 
+thoughtfully designed, year-round initiatives, we empower employees to thrive both personally and 
+professionally.
+Preventive & Physical Wellness
+Our Annual Health Checks encourage proactive care, while daily guided chair stretches combat sedentary 
+fatigue. For fitness enthusiasts, we offer specialized training, including sessions for employees preparing for 
+events like the Chennai Marathon 2025. The new office has a fully equipped Gym for employees workouts.
+Mental & Emotional Well-being
+We foster psychological resilience through innovative programs like Drumming for Wellness, which uses rhythm 
+to reduce stress, and expert-led discussions on sustainable weight management. Observances like World 
+Mental Health Day deepen awareness around emotional health, time management, and inclusion.
+Financial Wellness & Work-Life Harmony
+Practical guidance is key—our Smart Investment Strategies webinar equipped employees with actionable 
+financial planning tips. Seasonal initiatives, such as Diwali wellness tips, helped teams navigate holiday stress 
+with mindfulness and self-care.
+Community & Connection
+From our Kindness Challenge 2024 (promoting empathy through daily acts of goodwill) to festive celebrations 
+(like Diwali and Christmas Jingle), we cultivate belonging through shared experiences. Even our Friday Flicks 
+movie tradition strengthens bonds while offering a relaxed way to unwind.
+Every program reflects our commitment to creating a workplace where employees feel supported, valued, and 
+inspired. By integrating well-being into the fabric of our culture, we ensure that LatentView isn’t just a place to 
+work—but a place to grow and flourish.
+13. Number of complaints on working conditions and health and safety made by 
+employees and workers.
+Category
+FY 2024-25
+FY 2023-24
+Filed 
+during the 
+year
+Pending 
+resolution 
+at the end 
+of the year
+Remarks
+Filed 
+during the 
+year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Working Conditions
+Nil
+Health & Safety
+14. Assessments for the year.
+% Of your plants and offices that were assessed (by entity or 
+statutory authorities or third parties)
+Health and safety practices
+Nil
+Working Conditions
+15. Provide details of any corrective action taken or underway to address safety-
+related incidents (if any) and   on significant cos/concerns arising from assessments 
+of health and safety practices and working conditions.
+Not Applicable 
+Leadership Indicators 
+1. Does the entity extend any life insurance or any compensatory package in the 
+event of death of (A) Employees (Y/N) (B) Workers (Y/N)?
+Employees
+Yes
+Workers
+NA
+17  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+2. Provide the measures undertaken by the entity to ensure that statutory dues have 
+been deducted and deposited by the value chain partners.
+We have implemented measures to ensure that our partners properly deduct and deposit all statutory dues. This 
+also includes conducting due diligence during the onboarding process, where partners are required to submit 
+relevant statutory registration documents such as GST, PAN, MSME, and PF/ESIC certificates. Once the vendor 
+is onboarded and for existing vendors, a 3rd party labour consultant verifies and validates all legal compliances 
+at regular intervals.
+3. Provide the number of employees/workers having suffered high consequence 
+work related injury/ill-health/fatalities (as reported in Q11 of Essential Indicators 
+above), who have been are rehabilitated and placed in suitable employment or 
+whose family members have been placed in suitable employment.
+Total no. of affected 
+employees/workers
+No. of employees/workers 
+that are rehabilitated and 
+placed in suitable employment 
+or whose family members 
+have been placed in suitable 
+employment
+FY 2024-25
+FY 2023-24
+FY 2024-25
+FY 2023-24
+Employees
+Nil
+Nil
+Nil
+Nil
+Workers
+NA
+NA
+NA
+NA
+4. Does the entity provide transition assistance programs to facilitate continued 
+employability and the management of career endings resulting from retirement or 
+termination of employment? (Yes/No)
+There have been no retirement cases among our employees; however, we have established a structured process 
+to support all departing employees, whether due to retirement or termination, as they transition out of the 
+organization. Before their final day of employment, we proactively connect with them to provide comprehensive 
+guidance on financial matters, including gratuity claims (where applicable) and Provident Fund (PF) withdrawals 
+or transfers. This ensures they fully understand their entitlements and the necessary procedures to access their 
+benefits. Our dedicated support extends to assisting with documentation and answering any queries to facilitate 
+a smooth financial transition.
+5. Details on assessment of value chain partners.
+% of value chain partners (by value of business done with such 
+partners) that were assessed
+Health and safety practices
+NIL
+All of our value chain partners are expected to respect existing regulations, 
+including health & safety practices and working conditions. However, these 
+factors are not explicitly assessed by LatentView for the period under review.
+Working Conditions
+6. Provide details of any corrective actions taken or underway to address significant 
+risks/concerns arising from assessments of health and safety practices and working 
+conditions of value chain partners. 
+NA
+Principle 4 - Businesses should respect the interests of and be responsive 
+to all its stakeholders
+Essential Indicators
+1. Describe the processes for identifying key stakeholder groups of the entity.
+At LatentView, we follow a structured and inclusive approach to materiality assessment in line with the Global 
+Reporting Initiative (GRI) Standards. This process enables us to identify, prioritize, and address the Environmental, 
+Social, and Governance (ESG) issues that are most relevant to our business and stakeholders.
+As part of this process, we actively engage with a broad spectrum of stakeholders to deepen our understanding 
+of their evolving needs, expectations, and concerns. This engagement is essential to shaping sustainable 
+strategies that support our business objectives in the short, medium, and long term. It also plays a critical role in 
+identifying potential risks and opportunities that could influence our operations and value creation.
+Our key stakeholders, identified in consultation with senior management, include Employees, Customers, and 
+Shareholders/Investors. These groups were selected based on their level of influence on and interest in our 
+business activities. Through targeted engagement methods such as surveys, interviews, meetings, and feedback 
+sessions, we gather valuable insights to inform our materiality assessment.	
+2. List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.
+Stakeholder 
+Group
+Whether identified 
+as Vulnerable & 
+Marginalized Group 
+(Yes/No)
+Channels of communication (Email, 
+SMS, Newspaper, Pamphlets, 
+Advertisement, Community Meetings, 
+Notice Board, Website), Others
+Frequency of engagement (Annually/Half yearly/
+Quarterly/others – please specify)
+Purpose and scope of engagement including key topics and 
+concerns        raised during such engagement
+Shareholders/
+Investors
+No
+The Company communicates through press 
+releases, email advisories, and quarterly 
+investor calls
+•	 Quarterly: earnings call; exchange notifications;  
+press release.
+•	 Continuous: Investors page in website
+•	 Annual: Annual General Meeting; Annual Report.
+•	 Educating the investor community about LatentView's integrated value 
+creation model and business strategy for the long term.
+•	 Helping investors voice their concerns regarding Company policies, 
+reporting, strategy, etc.
+•	 Understanding shareholder expectations.
+18  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+2. List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group. (Contd.)
+Stakeholder 
+Group
+Whether identified 
+as Vulnerable & 
+Marginalized Group 
+(Yes/No)
+Channels of communication (Email, 
+SMS, Newspaper, Pamphlets, 
+Advertisement, Community Meetings, 
+Notice Board, Website), Others
+Frequency of engagement (Annually/Half yearly/
+Quarterly/others – please specify)
+Purpose and scope of engagement including key topics and 
+concerns        raised during such engagement
+Employees
+No
+•	 Fortnightly & Monthly Manager 
+Meetings: 
+Leadership 
+regularly 
+touch bases with the managers of the 
+organisation to provide guidance and 
+redirect focus, wherever needed, towards 
+the Vision and Mission of the organisation.
+•	 Town Halls & Quarterly Updates: 
+LatentView management engages in 
+open communication with employees 
+across all levels, delivering first hand 
+Company reports, highlights and other 
+updates. This results in transparency, flow 
+of communication and extensive building 
+of employee’s trust.
+•	 Decision Making & Communication: It goes without saying 
+that unique and important decisions require conscious thinking, 
+information gathering and careful collection of alternatives. 
+We are a data driven Company and we use a mix of data and 
+rationale to arrive at a decision. As outlined earlier, our open 
+and transparent culture empowers employees to be a part of the 
+decision making along with the senior leadership. The outcome 
+of decisions are more closely aligned to the teams in the trenches 
+and are therefore more easily accepted based on seamless and 
+open communication.
+•	 Pre-onboarding touchpoints with candidates: Passive/
+Alumni-Sharing Newsletters, employee engagement updates & 
+opportunities matching their experience etc).
+	
+Easy access to HR: Employee feedback is not only initiated 
+by HR; any employee at any level at any point in time can share 
+their feedback with HR or management without the barriers of 
+hierarchy.
+•	 Flat and Open culture: Employees easily access business 
+heads and management. Our flat structure with levels only 
+from L1-L6 with no sublevels, drives easy and open access for 
+employees to reach out to their immediate reporting manager 
+or skip a level. This structure is the essence of our office design, 
+which is an open floor with employees across all levels sharing 
+the same space. 
+•	 Employee Survey feedback
+•	 Exit Interview Feedback
+•	 Effective Feedback Mechanism: We focus on the average 
+and negative experiences feedback provided by candidates 
+(inputs on Feedback Mechanism & Interview process). Feedback 
+of employees are collected through surveys (Half yearly 
+employee surveys, People management Survey, Process and 
+initiatives Feedback Surveys). Employee and manager “Monthly 
+1 to 1 connect” are conducted to ensure that all employees touch 
+base with their reporting manager for continuous feedback. This 
+provides the employees and managers a platform to connect, 
+streamlining on the goals decided upon, taking corrective action 
+towards achieving those set goals and recognising areas of 
+progress as part of the performance management process.
+•	 Two-way communication with employees is a must at LatentView. The 
+current engagement index stands at 8.1. Engagement strategies are used by 
+leadership to actively listen and act. 
+•	 Career Management and Growth Prospects
+•	 Learning opportunities
+•	 Compensation structure
+•	 Building a safety culture and inculcating safe work practices among 
+employees
+•	 Flexible working hours
+•	 Improving Diversity and Inclusion
+•	 Unique Working Space - In build innovation
+•	 Transparency: People trust the clear and distrust the vague
+•	 Periodic Engagement Initiatives: We have a defined periodic 
+engagement calendar themed around fun and collaboration. Each month, 
+employees are engaged in some type of activity or event. Employees come 
+forward to drive these initiatives, promote nominations and bring them to 
+successful completion. Inter Corporate events and Team outings.
+•	 Embolden the practice of intrapreneurship: At LatentView, we 
+encourage intrapreneurship among our employees so that all employees 
+can bring their ideas directly to the table instead of leaving and starting 
+their own businesses. We always set up an internal innovation team that can 
+work to refine their ideas and act as a sounding board. 
+•	 Employee-initiated reward programs: Employees had the opportunity 
+to work on new initiatives designed toward the vision, mission and objective 
+statements of LatentView, including the new team award category: “Game 
+Changer Award” and Employee-initiated learning programs are also an 
+essential part of our culture. We believe in an inclusive management style, 
+and we give power to employees to hone their creativity in productive ways.
+	
+Health and Wellness Programs: A lot of importance is focused 
+and dedicated towards health and wellness initiatives for employees. 
+Gamification and rewards are specifically designed to encourage 
+employees to participate in Walkathons, celebrate wellness milestones, 
+attend multiple awareness sessions by medical experts on mental health, 
+childcare, nutrition, etc. Annual health check-ups are provided for all 
+employees once a year and free medical teleconsultation is made available 
+to employees and family. Vaccination drives were often conducted to 
+ensure a fully vaccinated workforce. LatentView also provided COVID care 
+package with leave and COVID care support through wellness kits.
+19  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+2. List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group. (Contd.)
+Stakeholder 
+Group
+Whether identified 
+as Vulnerable & 
+Marginalized Group 
+(Yes/No)
+Channels of communication (Email, 
+SMS, Newspaper, Pamphlets, 
+Advertisement, Community Meetings, 
+Notice Board, Website), Others
+Frequency of engagement (Annually/Half yearly/
+Quarterly/others – please specify)
+Purpose and scope of engagement including key topics and 
+concerns        raised during such engagement
+•	 Creating and nurturing a collaborative work environment: We 
+make LatentView a safe place to brainstorm and support team unity and 
+encourage good manager/employee relationships. This supportive culture 
+not only leads to increased productivity and innovation but also higher 
+levels of engagement and retention. “Knowledge roundtable,” the Service 
+Delivery Excellence team in partnership with the Learning and development 
+team, joined hands to create a forum where teams can showcase their work 
+experience from their projects and clients. This has been a great opportunity 
+to explore and understand the diverse work that is being done across the 
+organization. LatentView has also successfully completed 13 knowledge 
+roundtable sessions.
+Leadership Indicators 
+1. Provide the processes for consultation between stakeholders and the Board on 
+economic, environmental, and social topics or if consultation is delegated, how is 
+feedback from such consultations provided to the Board?
+We have adopted a structured, data-driven, and consultative approach to identify and prioritize our most 
+material economic, environmental, and social issues. This process includes stakeholder engagement through 
+surveys, interviews, and focused group discussions with key internal and external stakeholders, including 
+employees, customers, investors, suppliers and community representatives.
+The materiality assessment outcomes are reviewed and validated in consultation with senior management and 
+are periodically presented to relevant sub-committees of the Board. These sub-committees ensure that material 
+stakeholder concerns and sustainability-related risks and opportunities are integrated into strategic decision-
+making.
+In addition, during our Annual General Meeting, the Board engages with shareholders directly to provide 
+them with an overview of our strategies and to address any queries or concerns that they may have. This 
+communication helps to promote transparency and build trust among shareholders.
+2. Whether stakeholder consultation is used to support the identification and 
+management of environmental, and social topics (Yes/No). If so, provide details 
+of instances as to how the inputs received from stakeholders on these topics were 
+incorporated into the policies and activities of the entity.
+Yes, To help define the most important ESG issues, we have conducted a materiality assessment to remain 
+successful in the long term. All the identified stakeholders were allowed access to forums to highlight their 
+concerns. It allowed us to capture our non-financial impacts, helped us prioritize issues to focus on, and 
+improved our strategic thinking.
+3. Provide details of instances of engagement with, and actions taken to, address the 
+concerns of vulnerable/marginalized stakeholder groups. 
+LatentView’s Corporate Social Responsibility (CSR) initiatives are strategically crafted to address key societal 
+challenges, with a strong emphasis on supporting vulnerable communities—particularly students, youth, and 
+marginalized groups. The company embraces a holistic approach to sustainability, integrating economic, 
+social, and environmental considerations, while consistently aligning its initiatives with the needs and aspirations 
+of its stakeholders. These programs are further strengthened by the active involvement of employees and a 
+robust feedback mechanism involving beneficiaries, implementation partners, and local communities, ensuring 
+continuous improvement and meaningful impact.
+Across Chennai, LatentView continues to make notable strides through its flagship programs aimed at upskilling 
+and creating sustainable growth opportunities for students in government schools. The Chennai Kaalpandhu 
+League, a flagship sports development initiative, has positively impacted 4,169 students. The program begins 
+by identifying promising football talent in government schools and providing professional coaching, along with 
+nutritional support during training. Students participate in structured home-and-away matches, culminating in 
+a league format tournament. This year, the program expanded to include six lateral entry teams, giving more 
+students a platform to showcase their skills. Top-performing players are selected for advanced training with 
+professional clubs such as Chennaiyin FC, opening doors to long-term opportunities in sports.
+Meanwhile, Project Apoorva has reached 4,079 students, offering critical 21st-century skills through training 
+in data analytics, digital literacy, spoken English, and other skill-building sessions. Through initiatives such as 
+Data Analytics Clubs and Capstone Projects, students engage in real-world problem-solving, strengthening their 
+analytical thinking and preparing them for future careers in the digital economy.
+In collaboration with Sevalaya, LatentView also supports higher education for students from financially 
+challenged backgrounds by offering scholarships to those who score 75% and above in their 12th-grade public 
+examinations. During implementation, it became evident that many students lacked awareness and guidance 
+about career paths aligned with their interests and capabilities. To address this, LatentView introduced career 
+counseling sessions, helping students make informed decisions about their futures and enabling them to pursue 
+their aspirations with clarity and confidence.
+20  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+In Ramanathapuram, an aspirational district recognized by NITI Aayog, LatentView works closely with rural 
+communities where students often face limited access to quality education and skill development. To bridge this 
+gap, the company has established after-school learning centers that support over 540 children. These centers 
+focus on foundational learning—such as mathematics and English vocabulary—and encourage participation in 
+sports and holistic development activities to empower students beyond the classroom.
+In FY 2024–25, LatentView, in collaboration with BITS, supported the implementation of constructed wetlands 
+to enhance flood resilience, water storage, and local biodiversity. These nature-based interventions have 
+helped reduce waterlogging and improve preparedness for floods and heavy rains. Additionally, the increase 
+in biodiversity around these wetlands has contributed to a healthier ecosystem and an improved quality of life 
+for the surrounding communities.
+Principle 5 - Businesses should respect and promote human rights
+Essential Indicators
+1. Employees and workers who have been provided training on human rights issues 
+and policy(ies) of the entity.
+Category
+FY 2024-25
+FY 2023-24
+Total (A)
+No. of 
+employees/
+workers 
+covered (B)
+% 
+(B/A)
+Total 
+(C)
+No. of 
+employees/
+workers 
+covered (D)
+% 
+(D/C)
+Employees
+Permanent
+1,133
+1,133
+100
+1,082
+1,082
+100%
+Other than Permanent 
+39
+39
+100
+-
+-
+-
+Total employees 
+1,172
+1,172
+100
+1,082
+1,082
+100%
+Workers
+Permanent 
+NA
+-
+-
+NA
+-
+-
+Other than Permanent 
+NA
+-
+-
+NA
+-
+-
+Total workers 
+NA
+-
+-
+NA
+-
+-
+2. Details of minimum wages paid to employees and workers.
+Category
+FY 2024-25
+FY 2023-24
+Total 
+(A)
+Equal to 
+minimum 
+wage
+More than 
+minimum 
+wage
+Total 
+(D)
+Equal to 
+minimum 
+wage
+More than 
+minimum 
+wage
+No. 
+(B)
+% 
+(B/A)
+No. 
+(C)
+% 
+(C/A)
+No. 
+(E)
+% 
+(E/D)
+No.  
+(F)
+% 
+(F/D)
+Employees
+Permanent
+Male
+741
+-
+-
+741
+100
+674
+-
+-
+674
+100
+2. Details of minimum wages paid to employees and workers. (Contd.)
+Category
+FY 2024-25
+FY 2023-24
+Total 
+(A)
+Equal to 
+minimum 
+wage
+More than 
+minimum 
+wage
+Total 
+(D)
+Equal to 
+minimum 
+wage
+More than 
+minimum 
+wage
+No. 
+(B)
+% 
+(B/A)
+No. 
+(C)
+% 
+(C/A)
+No. 
+(E)
+% 
+(E/D)
+No.  
+(F)
+% 
+(F/D)
+Female
+392
+-
+-
+392
+100
+408
+-
+-
+408
+100
+Non-permanent 
+ 
+ 
+ 
+ 
+Male
+27
+-
+-
+27
+100
+23
+-
+-
+23
+100
+Female 
+12
+-
+-
+12
+100
+7
+-
+-
+7
+100
+Workers
+Permanent
+Male
+NA
+-
+-
+-
+-
+NA
+-
+-
+-
+-
+Female
+NA
+-
+-
+-
+-
+NA
+-
+-
+-
+-
+Non-permanent 
+Male
+NA
+-
+-
+-
+-
+NA
+-
+-
+-
+-
+Female
+NA
+-
+-
+-
+-
+NA
+-
+-
+-
+-
+3. Details of remuneration/salary/wages.
+a. Median remuneration/wages:
+Male
+Female
+Number
+Median remuneration/
+salary/wages of 
+respective category
+Number
+Median 
+remuneration/
+salary/wages of 
+respective category
+Board of Directors 
+(BoD) 
+4
+3,150,000
+2
+10,575,000
+KMP (other than BoD)
+3
+9,879,072
+-
+Employees other than 
+BOD & KMP
+741
+1,352,088
+392
+1,130,011
+Workers
+27
+1,362,274
+12
+1,139,683
+b. Gross wages paid to females as % of total wages paid by the entity, in the following format:
+FY 2024-25
+FY 2023-24
+Gross wages paid to females as % of total wages
+35
+32
+21  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+4. Do you have a focal point (Individual/Committee) responsible for addressing 
+human rights impacts or issues caused or contributed to by the business? (Yes/No)
+Yes, LatentView has established an Internal Complaints Committee (ICC) that serves as the focal point for 
+addressing human rights issues within the organization. The ICC provides an efficient and confidential platform 
+for employees to report any human rights concerns or violations they may encounter while working with the 
+Company. The committee is responsible for ensuring that all such issues are investigated thoroughly and resolved 
+promptly and fairly while working with the Company.
+5. Describe the internal mechanisms in place to redress grievances related to human 
+rights issues.
+Yes, LatentView has well-defined internal mechanisms in place to redress grievances related to human rights 
+issues, in alignment with our commitment to creating a respectful, inclusive, and safe workplace for all employees.
+Our Prevention of Sexual Harassment (POSH) Policy serves as a cornerstone of our human rights protection 
+framework. It is designed to educate employees on the prevention of sexual harassment, foster awareness, 
+and ensure a workplace that upholds dignity and respect. The policy outlines clear procedures for reporting 
+incidents, establishes a formal Internal Complaints Committee (ICC), and ensures that all allegations are 
+handled in a prompt, confidential, and unbiased manner.
+In addition, our Whistle-Blower Policy provides employees and stakeholders with a secure channel to report 
+unethical behavior, illegal activities, or any violations of the LatentView Code of Conduct. The policy guarantees 
+protection against retaliation and promotes a culture of integrity and accountability.
+We also have a structured Grievance Redressal Policy, which allows employees to raise workplace concerns, 
+including those related to discrimination, harassment, or any breach of ethical standards. All grievances are 
+addressed through a transparent, tiered process ensuring timely resolution while maintaining confidentiality 
+and fairness.
+The LatentView Code of Conduct sets clear expectations regarding ethical behavior, mutual respect, and 
+compliance with legal and regulatory standards. All employees are required to adhere to the Code, and any 
+deviation is subject to disciplinary action.
+These internal mechanisms collectively reinforce our commitment to upholding human rights and fostering a safe, 
+equitable, and compliant work environment.
+Any grievances to the employees and the solution provided to the aggrieved, will also be reviewed by 
+Stakeholders relationship committee at regular intervals.
+6. Number of complaints on the following made by employees and workers:
+Category
+FY 2024-25
+FY 2023-24
+Filed 
+during the 
+year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Filed 
+during 
+the 
+year
+Pending 
+resolution 
+at the end of 
+year
+Remarks
+Sexual Harassment
+-
+NA
+No such 
+instances.
+-
+NA
+No such 
+instances.
+Discrimination at 
+workplace
+-
+NA
+-
+NA
+Child Labour
+-
+NA
+-
+NA
+Forced Labour/
+Involuntary Labour
+-
+NA
+-
+NA
+Wages
+-
+NA
+-
+NA
+Other issues
+-
+NA
+-
+NA
+7. Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, 
+Prohibition and Redressal) Act, 2013, in the following format:
+FY 2024-25
+FY 2023-24
+Total Complaints reported under Sexual Harassment on of 
+Women at Workplace (Prevention, Prohibi-tion and Redressal) 
+Act, 2013 (POSH)
+-
+-
+Complaints on POSH as a % of female employees/workers
+-
+-
+Complaints on POSH upheld
+-
+-
+8. Mechanisms to prevent adverse consequences to the complainant in discrimination 
+and harassment cases.
+At LatentView, we have strong safeguards in place to protect complainants in cases of discrimination and 
+harassment. Our POSH Policy, Grievance Redressal Mechanism, and Whistle-Blower Policy include clear non-
+retaliation clauses, ensuring no adverse consequences for those who raise concerns or participate in investigations.
+Key protections include:
+1.	 Strict confidentiality in handling complaints
+2.	 Zero tolerance for retaliation, with disciplinary action for violators
+3.	 Monitoring to ensure a safe environment post-resolution
+4.	 Employee awareness through regular training
+5.	 Support access via HR and designated process POCs
+These measures help us maintain a workplace where employees feel safe to speak up without fear.
+22  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+9. Do human rights requirements form part of your business agreements and contracts? 
+(Yes/No)
+Yes, the provisions are explicitly covered under our contractual terms and are reinforced through our Sustainable 
+Procurement Policy, which ensures that all business partners and suppliers adhere to internationally recognized 
+human rights standards. 
+10. Assessments for the year.
+% of offices that were assessed (by entity or statutory authorities 
+or third parties)
+Child labour
+Checks and balances are in place to ensure adherence to the code of 
+conduct and prohibit discriminative practices, there were no assessment 
+carried out during the period under review.
+Forced/involuntary labour
+Sexual harassment
+Discrimination at workplace
+Wages
+11. Provide details of any corrective actions taken or underway to address significant 
+risks/concerns arising from the assessments at Question 9 above.  
+NA
+Leadership Indicators
+1. Details of a business process being modified/introduced because of addressing 
+human rights grievances/complaints.
+LatentView maintains comprehensive human rights and redressal policies that fully address all necessary 
+provisions for workforce protection. Our existing framework is designed to be robust and adaptable, eliminating 
+the need for new or revised business processes. The current policies ensure alignment with all applicable 
+guidelines while safeguarding employee rights and needs. Our Code of Conduct Policy establishes clear 
+standards for ethical behavior, non-discrimination, and fair treatment across all operations. This is supported by 
+regular employee training, awareness programs, and transparent grievance resolution mechanisms. The policy 
+framework incorporates international human rights principles and complies with all relevant labor regulations.
+2. Details of the scope and coverage of any Human rights due diligence conducted.
+LatentView has implemented a Code of Conduct policy to ensure all employees adhere to responsible human 
+rights practices throughout the Company’s operations. The policy underscores our commitment to fostering a 
+workplace built on dignity, fairness, and respect while promoting inclusivity and compliance with applicable 
+laws. Employees are expected to uphold these principles in their daily interactions, reinforcing a culture of 
+ethical behavior and accountability. 
+3. Is the premise/office of the entity accessible to differently abled visitors, as per the 
+requirements of the Rights of Persons with Disabilities Act, 2016?
+At LatentView, we are deeply committed to creating an inclusive, equitable, and accessible workplace in full 
+compliance with the Rights of Persons with Disabilities Act, 2016. The campus where our office is located 
+is equipped with inclusive infrastructure to support accessibility for persons with disabilities. These features 
+include:
+•	 Ramps at entrances and exits for wheelchair access
+•	 Elevators with Braille-enabled buttons for the visually impaired
+LatentView’s office is fully accessible, featuring a wheelchair-friendly layout, a restroom for persons with 
+disabilities, and a gender-neutral restroom, reflecting our commitment to inclusivity and universal access.
+4. Details on assessment of value chain partners.
+% Of value chain partners (by value of business done with such 
+partners) that were assessed
+Child labour
+No such assessment carried out during the period under review.
+Forced/involuntary labour
+Sexual harassment
+Discrimination at workplace
+Wages
+5. Provide details of any corrective actions taken or underway to address significant 
+risks/concerns arising from the assessments at Question 4 above. 
+Not Applicable
+Principle 6 - Business should respect and make efforts to protect and 
+restore the environment
+Essential Indicators
+1. Details of total energy consumption (in joules or multiples) and energy intensity, in 
+the following format:
+Parameter
+Unit
+FY 2024-25
+FY 2023-24
+From renewable sources
+Total electricity con-sumption (A)
+GJ
+680.93
+1,328.64
+Total fuel consump-tion (B)
+GJ
+-
+-
+Energy consumption through other sources (C)
+GJ
+-
+-
+Total energy consumed from renewable 
+sources (A+B+C)
+GJ
+680.93
+1,328.64 
+23  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+1. Details of total energy consumption (in joules or multiples) and energy intensity, in 
+the following format: (Contd.)
+Parameter
+Unit
+FY 2024-25
+FY 2023-24
+From non-renewable sources
+Total electricity con-sumption (D)
+GJ
+1,984.64
+551.49 
+Total fuel consump-tion (E)
+GJ
+15.10
+4.77 
+Energy consumption through other sources (F)
+GJ
+-
+-
+Total energy con-sumed from non-
+renewable sources (D+E+F)
+GJ
+1,999.74
+556.26 
+Total energy consumed (A+B+C+D+E+F)
+GJ
+2,680.67
+1,884.9 
+Energy intensity per rupee of turnover
+TJ/Rupees 
+Revenue
+0.0000007
+0.0000006
+Energy intensity per rupee of turnover 
+adjusted for Purchasing Power Parity (PPP)
+TJ/Rupees 
+adjusted as 
+per PPP
+0.00000003
+0.00000002
+Energy intensity in terms of physical output 
+GJ/Tons of 
+Production
+NA
+NA
+Energy intensity per Full Time Employee (FTE)
+GJ/FTE
+2.28
+1.69
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external 
+agency. (Y/N) If yes, the name of the external agency. - Yes, the assurance is done by Bureau Veritas
+2. Does  the entity have any sites/facilities identified as designated consumers (DCs) 
+under the Performance, Achieve and Trade (PAT) Scheme of the Government of India? 
+(Y/N) If yes, disclose whether targets set under the PAT scheme have been achieved. 
+In case targets have not been achieved, provide the remedial action taken, if any. 
+NA
+3. Provide details of the following disclosures related to water:
+Parameter
+Unit
+FY 2024-25
+FY 2023-24
+Water withdrawal by source 
+(i) Surface water
+KL
+-
+-
+(ii) Ground Water
+KL
+-
+-
+(iii) Third Party Water
+KL
+1,040
+3,898 
+(iv) Seawater/Desalinated Water
+KL
+-
+-
+(v) Others: Flush/Recycled Water
+KL
+2,924
+286 
+Total volume of water withdrawal  
+(in kilolitres)
+KL
+3,964
+4,184 
+3. Provide details of the following disclosures related to water: (Contd.)
+Parameter
+Unit
+FY 2024-25
+FY 2023-24
+Total volume of water consumption  
+(in kilolitres)
+KL
+3,964
+4,184 
+Water Consumption intensity per rupee 
+of turn-over 
+KL/Rupee
+0.00000035
+0.0000014
+Water intensity per rupee of turnover 
+adjusted for Purchasing Power Parity 
+(PPP) (Total  water consumption/Revenue 
+from operations adjust-ed for PPP)
+KL/Rupee 
+adjusted to PPP
+0.00000005
+0.00000006
+Water intensity in terms of physical 
+output
+Kl/Tons of 
+Production
+NA
+NA
+Water intensity per Full Time Employee (FTE)
+KL/FTE
+1.74
+3.86
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency. - No
+4. Provide the following details related to water discharged:
+Parameter
+FY 2024-25
+FY 2023-24
+Water discharge by destination and level of treatment (in kilolitres)
+i.
+To Surface water
+-	
+No treatment
+-	
+With treatment – please specify level of treatment
+-
+-
+ii.
+To Groundwater
+-	
+No treatment
+-	
+With treatment – please specify level of treatment
+-
+-
+iii.
+To Seawater
+-	
+No treatment
+-	
+With treatment – please specify level of treatment
+-
+-
+iv.
+Sent to third-parties
+-	
+No treatment
+-	
+With treatment – please specify level of treatment
+-
+-
+v.
+Others
+-	
+No treatment
+-	
+With treatment – please specify level of treatment
+-
+-
+Total water discharged (in kilolitres)
+-
+-
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external 
+agency. (Y/N) If yes, the name of the external agency. - No
+24  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+5. Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide 
+details of its coverage and implementation. 
+The IT park where we operate, features a state-of-the-art Zero Liquid Discharge (ZLD) facility, reflecting our 
+commitment to sustainable water management and environmental stewardship. The campus features a Zero 
+Discharge Sewage Treatment Plant (STP), ensuring that all wastewater generated on-site is treated and fully 
+recycled within the premises. This approach aligns with the park's broader environmental goals, including 
+achieving LEED Platinum certification and becoming India's first EDGE Zero Carbon certified asset.
+This advanced system ensures that all wastewater generated within the campus is thoroughly treated, recycled, 
+and reused, eliminating the discharge of liquid effluent into external environments.
+6. Please provide details of air emissions (other than GHG emissions) by the entity.
+Parameter
+Unit
+FY 2024-25
+FY 2023-24
+NOx
+KG
+457.72
+114.43
+Sox
+86.1
+21 
+Particulate matter (PM)
+0
+Persistent organic pollutants (POP)
+-
+-
+Volatile organic compounds (VOC)
+-
+-
+Hazardous air pol-lutants (HAP)
+-
+-
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency. No
+7. Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its 
+intensity.
+Parameter
+Unit
+FY 2024-25
+FY 2023-24
+Total Scope 1 emissions (Break-up of the 
+GHG into CO₂, CH₄, N₂O, HFCs, PFCs, SF₆, 
+NF₃, if available)
+tCO₂e
+1.12
+1.07 
+Total Scope 2 emissions (Break-up of the 
+GHG into CO₂, CH₄, N²O, HFCs, PFCs, SF₆, 
+NF₃, if available)
+tCO₂e
+400.79
+109.69
+Total Scope 1 + 2 Emissions
+tCO₂e
+401.91
+110.76
+Total Scope 1 and Scope 2 emissions per 
+rupee of turnover
+tCO₂e/Rupee 
+Revenue6
+0.00000015
+0.000000037
+Total Scope 1 and Scope 2 emission 
+intensity per rupee of turnover adjusted 
+for Purchasing Power Parity (PPP)
+tCO₂e/Rupee 
+Revenue 
+adjusted to PPP
+0.000000005
+0.000000001
+7. Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & 
+its intensity. (Contd.)
+Parameter
+Unit
+FY 2024-25
+FY 2023-24
+Total Scope 1 and Scope 2 emission 
+intensity in terms of physical output
+tCO₂e/Ton of 
+Production
+NA
+NA
+Total Scope 1 and Scope 2 emission 
+intensity (optional) – the relevant metric may 
+be selected by the entity
+tCO₂e/
+Employees
+0.34
+0.09
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency. - Yes, the assurance is done by Bureau Veritas
+8. Does the entity have any project related to reducing Green House Gas emissions? 
+If yes, then provide details.
+As part of our sustainability and inclusivity efforts, we have reused existing infrastructure such as workstation 
+lighting, CCTV, biometric systems, and sprinklers to reduce waste. We installed indoor air quality monitoring 
+systems to ensure a healthier work environment and incorporated biophilic design elements like natural light and 
+greenery to enhance employee well-being. Sensor-activated faucets have been added to restrooms for water 
+conservation and hygiene. We introduced inclusive restroom facilities to support diversity and accessibility. 
+Additionally, we source furniture and carpets from LEED-certified vendors and use recycled acoustic panels to 
+promote circular economy practices and reduce environmental impact.
+Energy Efficiency Measures:
+The campus has energy-efficient building designs and systems, such as LED lighting, high-efficiency HVAC 
+systems, and Variable Frequency Drive (VFD)-controlled air-conditioning systems.
+It uses more than 75% green power, which significantly reduces emissions compared to conventional grid 
+power sourced from fossil fuels.
+Renewable Energy Use:
+Solar power is part of the energy mix, contributing to a reduction in carbon footprint.
+Green Building Certifications:
+The park is working towards LEED Platinum certification and has received recognition for being India’s first 
+EDGE Zero Carbon certified building, demonstrating a commitment to net-zero carbon emissions.
+Water and Waste Management:
+The Zero Liquid Discharge (ZLD) system ensures efficient water recycling, reducing the need for water 
+transportation and minimizing GHG emissions associated with water procurement and disposal.
+Employee Engagement:
+Initiatives like promoting public transportation and providing electric vehicle (EV) charging stations encourage 
+low-carbon transportation options for employees.
+25  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+9. Provide details related to waste management by the entity.
+Parameter
+FY 2024-25
+FY 2023-24
+Total waste generated (in metric tonnes)
+Plastic waste (A)
+2.32 MT
+2.17 MT
+E-Waste (B)
+-
+-
+Bio-Medical Waste (C)
+-
+-
+Construction and demolition waste (D)
+-
+-
+Battery For (E)
+-
+-
+Radioactive waste (F)
+-
+-
+Other Hazardous waste. Please specify, if any. (G)
+-
+-
+Other Non-hazardous waste generated (H).  Paper
+2.56 MT
+2.6 MT
+Total (A+B+C+D+E+F+G+H)* 
+4.88 MT
+4.77 MT
+Waste intensity per rupee of turnover
+0.000000001
+0.000000001
+Waste intensity per rupee of turnover adjusted 
+Purchasing for Power Parity (PPP)
+0.00000000007
+0.00000000007
+Waste intensity in terms of physical output
+NA
+NA
+Waste intensity per Full Time Employee (FTE)
+0.0047
+0.0044
+For each category of waste generated, total waste recovered through recycling, re-using or 
+other recovery operations (in metric tonnes)
+Category of waste
+(i) Recycled
+4.88 MT
+5.38 MT
+(ii) Re-used
+-
+-
+(iii) Other recovery operations (safely disposed)
+-
+-
+Total
+4.88MT
+5.38 MT
+For each category of waste generated, total waste disposed by nature of disposal method 
+(in metric tonnes)
+Category of waste
+(i) Incineration
+-
+-
+(ii) Landfilling
+-
+-
+(iii) Other disposal operations
+-
+-
+Total
+-
+-
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency. No
+10. Briefly describe the waste management practices adopted in your establishments. 
+Describe the strategy adopted by your Company to reduce usage of hazardous and 
+toxic chemicals in your products and processes and the practices adopted to manage 
+such wastes.
+•	 We generate three different kinds of water - Paper, Plastic and Food. 
+•	 All these wastes are segregated separately in bins, weighed, and handed over to the building team. 
+•	 For Carton boxes and Newspapers, we have a tie-up with ITC for disposing the scrap items. All scrap 
+(newspaper, carton boxes, plastic containers etc.) generated at LatentView are disposed through ITC's 
+"Well-being out of Waste" (WOW) initiative in a manner that protects and restores the environment. 
+•	 E-Waste in the reporting period is disposed as per the PCB norms.
+11. If the entity has operations/offices in/around ecologically sensitive areas (such 
+as national parks, wildlife sanctuaries, biosphere reserves, wetlands, biodiversity 
+hotspots, forests, coastal regulation zones etc.) where environmental approvals/
+clearances are required, please specify details in the following format:
+S. No.
+Location of 
+operations/
+offices
+Type of operations
+Whether the conditions of environmental 
+approval/clearance are being complied 
+with? (Y/N) If no, the reasons thereof and 
+corrective action tak-en, if any.
+Nil
+12. Details of environmental impact assessments of projects undertaken by the entity 
+based on applicable laws, in the current financial year.
+Name and 
+brief details 
+of project
+EIA 
+Notification 
+Number
+Date
+Whether conducted 
+by independent 
+external agency  
+(Yes/No)
+Results 
+communicated 
+in public 
+domain  
+(Yes/No)
+Relevant 
+Web Links
+NA
+13.  Is the entity compliant with the applicable environmental law/regulations/
+guidelines in India, such as the Water (Prevention and Control of Pollution) Act, 
+Air (Prevention and Control of Pollution) Act, Environment protection act and rules 
+thereunder (Y/N). If not, provide details of all such non-compliances, in the following 
+format: NA
+SR. 
+No.
+Specify the law/
+regulation/
+guidelines which 
+was not com-plied 
+with
+Provide details 
+of the non-
+compliance
+Any fines/penalties/
+action taken by regulatory 
+agencies such as pollution 
+control boards or by courts
+Corrective 
+ac-tion 
+taken if any
+NA
+26  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+Leadership Indicators
+1. Water withdrawal, consumption and discharge in areas of water stress (in kilolitres). 
+For each facility/plant located in areas of water stress, provide the following information: 
+For each facility/plant located in areas of water stress, provide the following information: 
+(i)	 Name of the area: Chennai
+(ii)	 Nature of operations: Data processing, hosting and related activities
+(iii)	Water withdrawal, consumption and discharge in the following format: 
+Parameter
+Unit
+FY 2024-25
+FY 2023-24
+Water withdrawal by source 
+(i) Surface water
+KL
+-
+-
+(ii) Ground Water
+KL
+-
+-
+(iii) Third Party Water
+KL
+1,040
+3,898 
+(iv) Seawater/Desalinated Water
+KL
+-
+-
+(v) Others: (Rainwater Harvesting)
+KL
+2,924
+4,184 
+Total volume of water withdrawal  
+(in kilolitres)
+KL
+Total volume of water consumption  
+(in kilolitres)
+KL
+Water Consumption intensity per rupee 
+of turnover 
+KL/Rupee
+0.0000011
+0.0000014
+Water intensity per rupee of turnover 
+adjusted for Purchasing Power Parity 
+(PPP) (Total water consumption/Revenue 
+from operations adjusted for PPP)
+KL/Rupee as 
+per PPP
+0.00000006
+0.00000006
+Water intensity in terms of physical 
+output
+Kl/Tons of 
+Production
+NA
+NA
+Water discharge by destination and level of treatment (in kilolitres)
+i.
+To Surface water
+- 	 No treatment
+-
+-
+- 	 With treatment – please specify level of treatment
+ii.
+To Groundwater
+- 	 No treatment
+-
+-
+- 	 With treatment – please specify level of treatment
+Parameter
+FY 2024-25
+FY 2023-24
+iii.
+To Seawater
+- 	 No treatment
+-
+-
+- 	 With treatment – please specify level of treatment
+iv.
+Sent to third-parties
+- 	 No treatment
+-
+-
+- 	 With treatment – please specify level of treatment
+v.
+Others
+- 	 No treatment
+-
+-
+- 	 With treatment – please specify level of treatment
+Total water discharged (in kilolitres)
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency. (Y/N) If yes, the name of the external agency. - No
+2. Please provide details of total Scope 3 emissions & its intensity.
+     Parameter
+Unit
+FY 2024-25
+FY 2023-24
+Total Scope 3 emissions (Break-up of the 
+GHG into CO₂, CH₄, N₂O, HFCs, PFCs, SF₆, 
+NF₃, if available)
+tCO₂e
+1,921.50
+1,078.16
+Total Scope 3 emissions per rupee of 
+turnover
+tCO₂e/INR
+0.00000011
+0.00000036
+Scope 3 emission Intensity in terms of FTE
+tCO₂e/FTE
+1.63
+0.96
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external 
+agency. (Y/N) If yes, the name of the external agency.  Yes, the assurance is done by Bureau Veritas
+3. With respect to the ecologically sensitive areas reported at Question 10 of Essential 
+Indicators above, provide details of significant direct & indirect impact of the entity on 
+biodiversity in such areas along-with prevention and remediation activities.
+Our Company does not operate in ecologically sensitive areas.
+27  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+4. If the entity has undertaken any specific initiatives or used innovative technology or 
+solutions to improve resource efficiency, or reduce impact due to emissions/effluent 
+discharge/waste generated, please provide details of the same as well as outcome 
+of such initiatives.
+As part of our commitment to sustainability and inclusivity, during the renovation of our office we have 
+prioritized repurposing existing infrastructure—including workstation lighting, CCTV systems, biometrics, 
+and sprinklers—to minimize waste and resource consumption. To foster a healthier workplace, we installed 
+indoor air quality monitoring systems and integrated biophilic design principles, such as maximizing natural 
+light and incorporating greenery. Water conservation and hygiene are addressed through sensor-activated 
+faucets in restrooms, while inclusive restroom facilities ensure accessibility for all employees. Further aligning 
+with circular economy practices, we source LEED-certified furniture and carpets, and utilize recycled acoustic 
+panels, underscoring our dedication to reducing environmental impact while advancing employee well-being. 
+In addition we are continuing to remove usage of single use plastic by adopting steel cutlery. 
+Sr. 
+No.
+Initiatives 
+Undertaken
+Details of the initiative (Web-link, if any, may be 
+provided along-with summary)
+Outcome of the 
+initiative
+1
+Sustainable 
+Renovation
+We re-used CCTV’s, AC, Lights, FAS, UPS during the 
+renovation. 
+In addition  aligning with circular economy practices, we 
+source LEED-certified furniture and carpets, and utilize 
+recycled acoustic panels, underscoring our dedication to 
+reducing environmental impact while advancing employee 
+well-being
+Reduction in GHG
+2
+Innovation by 
+design
+Integrated biophilic design principles, such as maximizing 
+natural light and incorporating greenery
+We have a long term 
+benefit by creating 
+this sustainable 
+workspace 
+3
+sensor-
+activated 
+faucets
+Water conservation and hygiene are addressed through 
+sensor-activated faucets in restrooms, while inclusive 
+restroom facilities ensure accessibility for all employees
+Reducing Water 
+consumption
+4
+Removal of 
+Single use 
+plastic 
+In a bid to reduce single use plastic waste, we have switched 
+to using Reusable steel spoons in our canteen
+Reduction in the 
+generation of plastic 
+waste
+5
+Using LED 
+blubs
+100% LED bulbs have been used in our renovated office
+Energy savings
+6
+Elimination of 
+paper cups
+We have eliminated the disposable cup altogether in favour 
+of more environmentally sustainable options
+Reduction in the 
+generation of paper 
+waste
+5. Does the entity have a business continuity and disaster management plan? Give 
+details in 100 words/web link. 
+LatentView’s Business Continuity Management ensures continuity of its digital infrastructure and incident 
+handling at its facilities. This is detailed in the BCP DR Policy, BCP DR Procedure, and Business Continuity Plan, 
+covering scope, governance, disaster recovery, communication plans, awareness, and safety procedures. Given 
+LatentView’s role in data analytics and AI, security and privacy are crucial, and addressed in the Information 
+Security and Privacy Incident Management Policy. These policies define responses to IT security incidents and 
+align with ISO 27001 and ISO 22701. They are updated annually for risk and compliance perspectives to 
+maintain operational resilience and data security.
+6. Percentage of value chain partners (by value of business done with such partners) 
+that were assessed for environmental impacts.
+NA
+Principle 7 - Business, when engaging in influencing public and 
+regulatory policy, should do so in a manner that is responsible and 
+transparent 
+Essential Indicators
+1. a. Number of affiliations with trade and industry chambers/associations. 1
+b. List the top 10 trade and industry chambers/associations (determined based on the total 
+members of such body) the entity is a member of/affiliated to.
+Sr. 
+No.
+Name of the trade and industry 
+chambers/associations
+Reach of trade and industry chambers/
+associations (State/National)
+1
+Nasscom 
+National
+2
+CII - IGBC
+National
+2. Provide details of corrective action taken or underway on any issues related to 
+anti-competitive conduct by the entity, based on adverse orders from regulatory 
+authorities. 
+Name of the Authority
+Brief of the case
+Corrective Action Taken
+There are no orders from regulatory authorities on any issues in the current reporting period
+Leadership Indicators
+1. Details of public policy positions advocated by the entity
+Sr. 
+No.
+Public 
+policy 
+advocated
+Method 
+resorted 
+for such 
+advocacy
+Whether 
+information 
+available in 
+public domain? 
+(Yes/No)
+Frequency of Review 
+by Board (Annually/
+Half yearly/
+Quarterly/Others – 
+please specify)
+Web Link, if 
+available
+None
+28  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+Principle 8 - Businesses should promote inclusive growth and equitable 
+development
+Essential Indicators
+1. Details of Social Impact Assessments (SIA) of projects undertaken by the entity 
+based on applicable laws, in the current financial year. 
+Name 
+and brief 
+details of 
+project
+SIA 
+Notification 
+No.
+Date of 
+notification
+Whether conducted 
+by independent 
+external agency 
+(Yes/No)
+Results 
+communicated 
+in public domain 
+(Yes/No)
+Relevant 
+Web link
+NA
+2. Provide information on project(s) for which ongoing Rehabilitation and Resettlement 
+(R&R) is being undertaken by your entity.
+Sr. 
+No.
+Name of Project 
+for which R&R is 
+ongoing
+State
+District
+No. of Project 
+Affected 
+Families (PAFs)
+% of PAFs 
+covered by 
+R&R
+Amounts paid 
+to PAFs in the 
+FY (In INR)
+NA
+5. Job creation in smaller towns – Disclose wages paid to persons employed (including 
+employees or workers employed on a permanent or non-permanent/on contract 
+basis) in the following locations, as % of total wage cost:
+Location
+FY 2024-25
+FY 2023-24
+Rural
+-
+-
+Semi-urban
+-
+-
+Urban
+-
+-
+Metropolitan
+100%
+100%
+Leadership Indicators
+1. Provide details of actions taken to mitigate any negative social impacts identified in 
+the Social Impact Assessments (Reference: Question 1 of Essential indicators above).
+Details of negative social impact identified
+Corrective action taken
+NA
+2. Provide the following information on CSR projects undertaken by your entity in 
+designated aspirational districts as identified by government bodies.
+Sr. No.
+State
+Aspirational district
+Amount spent (in `)
+1
+Tamil Nadu
+Ramanathapuram
+11,16,000
+3. a) Do you have a preferential procurement policy where you give preference to purchase 
+from suppliers comprising marginalized/vulnerable groups? (Yes/No) 
+No
+(b) From which marginalized/vulnerable groups do you procure?  
+NA
+(c) What percentage of total procurement (by value) does it constitute?
+NA 
+3. Describe the mechanisms to receive and redress grievances of the community.
+LatentView’s approach to addressing community grievances is deeply rooted in the design and implementation 
+of its Corporate Social Responsibility (CSR) initiatives. The Company adopts a participatory, insight-driven 
+model to ensure that each project aligns with the genuine and evolving needs of the communities it serves. 
+Grievances and developmental gaps are identified through baseline assessments, situational analyses, and 
+consistent engagement with key stakeholders—including school authorities, parents, implementation partners, 
+and community members. This collaborative process enables LatentView to better understand on-the-ground 
+challenges, ranging from limited access to quality education and digital literacy to the absence of sports 
+infrastructure and career guidance.
+LatentView’s CSR model includes robust feedback mechanisms and regular reviews with implementation partners 
+and beneficiaries, ensuring that projects remain dynamic, responsive, and sustainable. By centering community 
+voices and integrating their feedback throughout the project lifecycle, LatentView ensures its initiatives do more 
+than just respond to grievances—they enable long-term, transformative impact.
+4. Percentage of input material (inputs to total inputs by value) sourced from suppliers.
+FY 2024-25
+FY 2023-24
+Directly sourced from MSMEs/small producers
+10%
+8%
+Sourced directly from within the district and 
+neighbouring districts*
+13%
+17%
+4. Details of the benefits derived and shared from the intellectual properties owned or 
+acquired by your entity (in the current financial year), based on traditional knowledge.
+S. No.
+Intellectual Property 
+based on traditional 
+knowledge
+Owned/Acquired 
+(Yes/No)
+Benefit shared 
+(Yes/No)
+Basis of calculating 
+benefit share
+NA
+29  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+5. Details of corrective actions taken or underway, based on any adverse order in 
+intellectual property related disputes wherein usage of traditional knowledge is 
+involved.
+Name of authority
+Brief of the Case
+Corrective action taken
+NA
+6. Details of beneficiaries of CSR projects.
+Sr. 
+No.
+CSR Projects (in FY 2024-25)
+No. of persons 
+benefitted from 
+CSR Projects
+% Of beneficiaries 
+from vulner-able 
+and marginalized 
+groups
+1
+Sponsorship and mentorship for higher education 
+and Career Guidance 
+499 students 
+100%
+2
+E-Sevai Project
+Reaching 50,000+ 
+citizens through 
+E-sevai
+EFA Operators
+100%
+3
+Supporting dyslexic students through resource rooms
+300 dyslexic 
+students 
+100%
+4
+Project Apoorva is committed to the holistic 
+development of students in grades 9-12, particularly 
+those from low-income, first-generation learner 
+backgrounds. By integrating data analytics into 
+the curriculum, the initiative equips students with 
+industry-relevant skills while fostering knowledge and 
+awareness for future success.
+4079 Government 
+School Students
+100%
+5
+The Chennai Kalpandhu League (CKL) - A 
+transformative platform for students from government 
+schools, using sports as a tool to drive positive change 
+in their educational and developmental out-comes. By 
+fostering representation and skill-building in sports
+450 government 
+school students and 
+90 Lateral entery 
+students
+100%
+6
+AID India - Eureka after-school center
+524 children from 
+Rural Villages of 
+Ramanathapuram
+100%
+7
+Constructed Wetlands for flood prevention, water 
+storage and for increasing biodiversity.
+CMDA and residents 
+of Velachery 
+30%*
+*Since the  project covers a vast population in the location, the total number of people who benefited cant be estimated.
+Principle 9 - Businesses should engage with and provide value to their 
+consumers in a responsible manner
+Essential Indicators 
+1. Describe the mechanisms in place to receive and respond to consumer complaints 
+and feedback.
+The Service Delivery Excellence (SDE) team plays a crucial role in driving operational efficiency, ensuring 
+high-quality client deliverables, and enhancing overall service standards. We work across multiple touchpoints 
+such as business reviews, issue resolution, cross pollination, process innovation and training to ensure consistent 
+delivery excellence.
+The principal objectives of setting up a SDE enablement function within Latentview are as follows:
+•	 To ensure standardization and efficiency through structured process and review mechanisms.
+•	 To ensure effective cross pollination by acting as a centralized team articulating the success methodologies 
+from specific projects to any other project facing similar challenges.
+•	 To ensure efficient tracking of performance metrics through quality audits and facilitate unbiased review 
+mechanisms which will positively boost the productivity of individual team members and in turn the entire 
+project as well.
+SDE conducts the Voice of Customer Survey every half year (calendar year) and captures the customer 
+feedback and metrics around the same. The survey will be open for about a month & half and the results are 
+consolidated and published in a dashboard. SDE team will work with the teams where the clients suggest areas 
+of improvement.
+2. Turnover of products and/services as a percentage of turnover from all products/
+service that carry information about:
+As a percentage to total turnover
+Environmental and social parameters relevant to the product
+NA
+Safe and responsible usage
+NA
+Recycling and/or safe disposal
+NA
+3. Number of consumer complaints.
+FY 2024-25
+FY 2023-24
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Remarks
+Data privacy
+-
+-
+NA
+-
+-
+NA
+Advertising
+-
+-
+NA
+-
+-
+NA
+Cyber-security
+-
+-
+NA
+-
+-
+NA
+Delivery of essential 
+services
+-
+-
+NA
+-
+-
+NA
+30  |  Latent View Analytics Limited
+Business Responsibility and Sustainability Report
+3. Number of consumer complaints. (Contd.)
+FY 2024-25
+FY 2023-24
+Received 
+during 
+the year
+Pending 
+resolution at 
+end of year
+Remarks
+Received 
+during 
+the year
+Pending 
+resolution 
+at end of 
+year
+Remarks
+Restrictive Trade 
+Practices
+-
+-
+NA
+-
+-
+NA
+Unfair Trade Practices
+-
+-
+NA
+-
+-
+NA
+Other- Packaging, 
+Quality, Transit and 
+others
+-
+-
+NA
+-
+-
+NA
+4. Details of instances of product recalls on accounts of safety issues.
+Number
+Reasons for recall
+Voluntary recalls
+-
+NA
+Forced recalls
+-
+5. Does the entity have a framework/policy on cyber security and risks related to 
+data privacy? (Yes/No) If available, provide a web-link of the policy.
+Yes, LatentView Analytics is committed to protecting your privacy and ensuring the security of your Personal 
+Data in compliance with the EU General Data Protection Regulation (GDPR). This Privacy Policy elucidates 
+our practices regarding the collection, use, processing, and safeguarding of your personal information when 
+you interact with our services. We aim to provide you with a clear understanding of the data we collect, the 
+circumstances under which it is collected, how it is utilized, and your rights pertaining to your Personal Data. We 
+encourage you to review this policy thoroughly to gain a comprehensive understanding of our data handling 
+procedures. 
+https://www.latentview.com/privacy-policy/
+6. Provide details of any corrective actions taken or underway on issues relating to 
+advertising and delivery of essential services; cyber security and data privacy of 
+customers; re-occurrence of instances of product recalls; penalty/action taken by 
+regulatory authorities on safety of products/services.
+LatentView did not have any incidents leading to regulatory issues/penalties related to advertising and delivery 
+of essential services, cyber security and data privacy of customers.
+Leadership Indicators 
+1. Channels/platforms where information on products and services of the Company 
+can be accessed.
+ Information relating to all the products and services LatentView provides is available on the Company’s website 
+– www.LatentView.com
+2. Steps taken to inform and educate consumers, especially vulnerable and 
+marginalised consumers, about safe and responsible usage of products and services. 
+NA
+3. Mechanisms in place to inform consumers of any risk of disruption/discontinuation 
+of essential services.
+At LatentView, email serves as the primary communication channel to inform clients, customers, and employees 
+about potential disruptions or discontinuations of critical services. Additionally, standardized messaging 
+templates are maintained to ensure consistency and professionalism in external communications with media and 
+regulators. This structured approach helps maintain clarity, transparency, and efficiency in conveying important 
+updates.
+4. Does the entity display product information on the product over and above what is 
+mandated as per local laws? (Yes/No/Not Applicable) If yes, provide details in brief. 
+NA
+5. Did your entity carry out any survey with regard to consumer satisfaction relating 
+to the major products/services of the entity, significant locations of operation of the 
+entity or the entity as a whole? (Yes/No)
+At LatentView, the Service Delivery Excellence (SDE) team conducts the Voice of Customer (VoC) Survey twice 
+a year, aligned with the calendar year, to gather client feedback and related metrics. The survey remains open 
+for approximately six weeks, after which the responses are consolidated and presented in a dashboard. Based 
+on the feedback received, the SDE team collaborates with internal teams to address areas of improvement 
+identified by clients, ensuring continuous enhancement in service delivery.
+6. Provide the following information relating to data breaches:
+a. Number of instances of data breaches along-with impact:  Percentage of data breaches 
+involving personally identifiable information of customers): 
+Nil
+By order of the Board of Directors 
+FOR LATENTVIEW ANALYTICS LIMITED 
+A.V. Venkatraman
+Executive Chairperson
+(DIN: 01240055) 
+Pramadwathi Jandhyala
+Whole Time Director 
+(DIN: 00732854)
+Date: May 02, 2025
+Place: Chennai

@@ -1,0 +1,4638 @@
+ 
+ 
+ 
+Reg Office: Mahindra Towers, P.K. Kurne Chowk,  
+Worli, Mumbai - 400018 
+ 
+Mahindra Logistics Limited 
+Arena Space, 10th & 11th Floor, 
+Plot No. 20, Jogeshwari Vikhroli Link Road, 
+Near Majas Bus Depot, Jogeshwari (East), 
+Mumbai – 400060, Maharashtra. 
+Tel: +91 22 6836 7900 
+Email: enquiries@mahindralogistics.com 
+www.mahindralogistics.com 
+CIN: L63000MH2007PLC173466 
+ 
+Ref: MLLSEC/76/2025  
+ 
+         24 June 2025 
+ 
+To,  
+BSE Limited,  
+(Security Code: 540768)  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Fort,  
+ 
+Mumbai - 400 001  
+ 
+National Stock Exchange of India Ltd.,  
+(Symbol: MAHLOG)  
+Exchange Plaza, 5th Floor, Plot No. C/1, “G” Block,  
+Bandra-Kurla Complex, Bandra (East),  
+Mumbai – 400 051 
+Dear Sirs 
+ 
+Sub: Business Responsibility and Sustainability Report for the financial year 2024-25 - Regulation 
+34(2)(f) of the Securities and Exchange Board of India (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 ("SEBI Listing Regulations") 
+ 
+In compliance with Regulation 34(2)(f) of the SEBI Listing Regulations, please find enclosed herewith 
+the Business Responsibility and Sustainability Report (“BRSR”) of the Company for the financial year 
+2024-25. The BRSR also forms part of the Integrated Annual Report for the financial year 2024-25, 
+submitted to the Stock Exchange(s) vide letter dated 24 June 2025, which is also be available on the 
+website of the Company at: https://mahindralogistics.com/financial-results/annual-result/.   
+ 
+This intimation is also being uploaded on the website of the Company and can be accessed at 
+https://mahindralogistics.com/corporate-announcement/.  
+ 
+Thanking you,  
+For Mahindra Logistics Limited  
+ 
+ 
+ 
+Jignesh Parikh 
+Company Secretary 
+ 
+Enclosure: As above 
+ 
+JIGNESH 
+ASHOK PARIKH
+Digitally signed by 
+JIGNESH ASHOK PARIKH 
+Date: 2025.06.24 
+17:42:54 +05'30'
+BUSINESS RESPONSIBILITY & 
+SUSTAINABILITY REPORT
+SECTION A: GENERAL DISCLOSURES
+I.
+DETAILS OF THE LISTED ENTITY
+1.
+Corporate Identity Number (CIN) of the Listed Entity 
+L63000MH2007PLC173466
+2.
+Name of the Listed Entity 
+Mahindra Logistics Limited
+3.
+Year of incorporation 
+24 August 2007
+4.
+Registered office address 
+Mahindra Towers, P.K. Kurne Chowk, Worli, 
+Mumbai - 400018, Maharashtra
+5.
+Corporate address 
+Arena Space, 10th & 11th Floor, Plot No. 20, JVLR, 
+Nr. Majas Bus Depot, Jogeshwari (East), 
+Mumbai – 400060, Maharashtra
+6.
+E-mail
+cs.mll@mahindralogistics.com 
+7.
+Telephone
+022 6836 7900
+8.
+Website
+www.mahindralogistics.com
+9.
+Financial year for which reporting is being done 
+April 2024 to March 2025
+10.
+Name of the Stock Exchange(s) where shares are listed National Stock Exchange of India Limited (NSE) & 
+BSE Limited (BSE)
+11.
+Paid-up capital 
+` 72,13,14,700 (as on 31 March 2025)
+12.
+Name and contact details (telephone, email address) of the person who may be contacted in case of any queries 
+on the BRSR report 
+Ms. Swayantani Ghosh
+Telephone: 022 6836 7914; 
+E-mail: ghosh.swayantani@mahindralogistics.com
+13.
+Reporting boundary - Are the disclosures under this 
+report made on a standalone basis (i.e. only for the 
+entity) or on a consolidated basis (i.e. for the entity and 
+all the entities which form a part of its consolidated 
+financial statements, taken together).
+Standalone basis.
+14.
+Name of assurance provider 
+SGS India Private Ltd.
+15.
+Type of assurance obtained 
+Voluntary Limited Assurance.
+II.
+PRODUCTS/SERVICES
+16. Details of business activities (accounting for 90% of the turnover):
+S. No.
+Description of main activity
+Description of business 
+activity
+% of Turnover 
+of the entity
+1
+Transportation by road
+Freight transport services
+75
+2
+Warehousing services
+Supporting transport service
+25
+17. Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. No.
+Product/service
+NIC Code
+% of total turnover 
+contributed
+1
+Freight transport services (transportation by road)
+49231
+75
+2
+Supporting transport service (warehousing services)
+52109
+25
+III.
+OPERATIONS
+18.	 Number of locations where plants and/or operations/
+offices of the entity are situated:
+Location
+Number 
+of plants
+Number 
+of offices
+Total
+National
+14
+1
+15*
+International
+0
+0
+0
+*Due to business dynamics and the focus on
+maintaining an adequate and appropriate scope of
+reporting, MLL has revised its reporting boundary for
+FY 2024-25 compared to FY 2023-24. The criteria
+adopted to finalise the reporting boundary include
+MLL’s operational control, operational facilities leased
+for more than 5 years, and individual facilities exceeding
+50,000 sq. ft. As a result, the reporting boundary now
+comprises of 15 facilities. The Company-owned fleet has
+also been included for reporting purposes, consisting of
+50 ICE vehicles, 1,483 three-wheeler EVs, and 36 two-
+wheeler EVs.
+19. Markets served by the entity:
+a.
+Number of locations
+Locations
+Number 
+National (No. of States)*
+5
+International (No. of Countries)
+0
+* No. of states reported are in alignment with the
+locations reported under Section A: General
+Disclosures Sr. no. 18.
+b.
+	What is the contribution of exports as a
+percentage of the total turnover of the entity?
+		Not applicable. As an organization, MLL is not directly 
+involved with any export of goods or services.
+c.
+A brief on types of customers
+1.	
+Automotive - MLL offers fully integrated
+solutions 
+spanning 
+multi-modal
+transportation 
+(inbound 
+and 
+outbound),
+warehousing, stores and linefeed services,
+yard 
+management, 
+large 
+contractual
+workforce 
+management, 
+just-in-time
+services, 
+aftermarket 
+logistics, 
+return
+logistics, and layout & process design
+support, among others, for the automotive
+industry. Leveraging industry expertise, an
+extensive partner network, and advanced
+technology, MLL creates value across various
+sub-sectors of the automotive industry.
+The Company delivers efficiencies through
+bespoke 
+solution 
+design, 
+customised
+technology, and specialised skill building. MLL
+optimises cost, quality, and speed for some
+of the largest OEMs in the auto sector. The
+Company’s resources and expertise span 
+multiple sub-segments like two-wheelers, 
+four-wheelers, heavy vehicles, tractors and 
+farm equipment, auto components, and auto 
+aftermarket & spares, among others, with a 
+presence throughout India.
+2.	
+Engineering & Manufacturing - MLL supports 
+the manufacturing and engineering industries 
+by significantly enhancing productivity and
+effectiveness through services, including
+order 
+management, 
+logistics 
+solutions,
+production support, and lean warehousing.
+The Company helps customers consistently
+meet 
+and 
+exceed 
+expectations 
+by
+benchmarking and developing quality and
+compliance strategies across the value
+chain. MLL assists clients in redefining their
+solution vision to create greater impact.
+The Company’s resources and expertise
+cover segments like capital goods, heavy
+machinery and equipment, light engineering
+products such as castings, forgings, and
+fasteners, semiconductors, power generation
+and transmission equipment, and ferrous &
+non-ferrous metal products & parts, among
+others, with operations across India.
+3.
+	FMCG & Consumer Durables - MLL offers
+integrated solutions from design to delivery,
+managing warehousing, distribution centres,
+and secondary and last-mile transportation.
+The Company also focusses on optimising
+distribution systems and networks for FMCG,
+consumer durables, apparel, and large retailers. 
+Also, the Company provides a full suite of
+multi-channel and direct-to-market services by
+best-in-class technology.
+4.	
+Pharma - MLL provides differentiated and
+customised logistics solutions throughout
+the supply chain for pharmaceutical and
+life sciences companies. Their services for
+the pharma sector cover everything from
+delivering raw materials for manufacturing
+to the distribution of finished drugs and
+medical equipment. This includes freight
+forwarding, customs clearance, transportation,
+and warehousing, as well as the responsible
+disposal of expired products and refurbishment, 
+providing integrated solutions tailored to the
+industry’s logistics requirements.
+5.	
+Telecom - MLL provides a wide range of
+logistics solutions for network operators of
+major telecom firms in India. These services
+include storage, distribution, and returns, as
+well as specialised and technical offerings
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+FINANCIAL STATEMENTS
+STATUTORY REPORTS
+CORPORATE OVERVIEW
+221
+220
+Integrated Annual Report 2024-25
+Integrated Annual Report 2024-25
+such as maintenance, network expansion, 
+and critical parts delivery. The Company 
+delivers end-to-end logistics services tailored 
+to the telecom industry. With pan-India reach 
+and extensive sector experience, MLL has 
+established itself as a preferred supply chain 
+partner in the telecom industry.
+	
+	
+6.	
+Ecommerce - MLL provides complete end-
+to-end logistics solutions emphasising speed, 
+safety, and reliable nationwide delivery 
+services for the e-commerce industry. 
+By 
+understanding 
+scalability, 
+flexibility, 
+customer 
+experience, 
+and 
+leveraging 
+appropriate technology, the Company has 
+become one of the largest partners in the 
+e-commerce sector. Whether in storage 
+and processing, automation and robotics, 
+transportation, or last-mile deliveries, the 
+Company 
+delivers 
+integrated 
+solutions 
+that offer top performance and extensive 
+reach, creating a unique combination of 
+capabilities and services for the industry. 
+These solutions are designed with agility 
+and scalability, enabling MLL to manage 
+high volumes of e-commerce transactions 
+during peak seasons effectively.
+	
+	
+7.	
+Commodities 
+- 
+MLL 
+offers 
+customised 
+transportation services tailored to specific 
+requirements 
+and 
+logistics 
+planning 
+across a wide range of commodities and 
+heavy industries. The Company employs a 
+combination of network redesign, advanced 
+telematics, and transportation management 
+to optimise costs and maximise efficiency. 
+Additionally, MLL provides consulting services 
+uniquely 
+designed 
+for 
+each 
+customer, 
+supported by control tower operations 
+across various industries. Years of experience 
+have enabled MLL to effectively understand 
+its clients’ businesses. The Company is 
+equipped to deliver innovative and unique 
+transportation and warehousing solutions by 
+designing tailored approaches that combine 
+necessary 
+logistics 
+components. 
+These 
+solutions may range from simple freight 
+forwarding services to highly sophisticated, 
+integrated end-to-end logistics offerings. 
+IV.	
+EMPLOYEES
+	
+20.	 Details as at the end of financial year:
+	
+a.	
+Employees and workers (including differently abled)*:
+S. No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+EMPLOYEES
+1.
+Permanent (D)
+3,854
+3,411
+88.51
+443
+11.49
+2.
+Other than Permanent (E)
+244
+239
+97.95
+5
+2.05
+3.
+Total employees (D + E)
+4,098
+3,650
+89.07
+448
+10.93
+WORKERS
+4.
+Permanent (F)
+0
+0
+0
+0
+0
+5.
+Other than Permanent (G)
+0
+0
+0
+0
+0
+6.
+Total workers (F + G)
+0
+0
+0
+0
+0
+*	
+Permanent employees include full-time staff and probationers on MLL’s payroll. Besides permanent employees, MLL also has 
+management trainees, fixed-term contract employees, and graduate trainees on its payroll. The workers’ category does not apply to 
+MLL, as it is managed by business associates (BAs).
+	
+b.	
+Differently abled Employees and workers*:
+S. No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+DIFFERENTLY ABLED EMPLOYEES
+1.
+Permanent (D)
+8
+7
+87.50
+1
+12.50
+2.
+Other than Permanent (E)
+0
+0
+0
+0
+0
+3.
+Total differently abled 
+employees (D + E)
+8
+7
+87.50
+1
+12.50
+DIFFERENTLY ABLED WORKERS
+4.
+Permanent (F)
+0
+0
+0
+0
+0
+5.
+Other than permanent (G)
+0
+0
+0
+0
+0
+6.
+Total differently abled 
+workers (F + G)
+0
+0
+0
+0
+0
+*	
+The workers’ category is not applicable to MLL, as it is managed by business associates (BAs).
+	
+21.	 Participation/Inclusion/Representation of women
+Total (A)
+No. and percentage 
+of females
+No. (B)
+% (B/A)
+Board of Directors
+9
+2
+22.22
+Key Management Personnel
+3*
+0
+0
+*	
+Key Managerial Personnel include MD & CEO, CFO and CS.
+	
+22.	 Turnover rate for permanent employees and workers (Disclose trends for the past 3 years)
+FY 2024-25
+(Turnover rate in 
+current FY)
+FY 2023-24
+(Turnover rate in 
+previous FY)
+FY 2022-23 
+(Turnover rate in the year 
+prior to the previous FY)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+26%
+33%
+27%
+24%
+34%
+25%
+31%
+36%
+32%
+Permanent Workers
+0
+0
+0
+0
+0
+0
+0
+0
+0
+*	
+The workers’ category is not applicable to MLL as it is managed by business associates (BAs).
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+FINANCIAL STATEMENTS
+STATUTORY REPORTS
+CORPORATE OVERVIEW
+223
+222
+Integrated Annual Report 2024-25
+Integrated Annual Report 2024-25
+V.	
+HOLDING, SUBSIDIARY AND ASSOCIATE COMPANIES (INCLUDING JOINT VENTURES)
+	
+23.	 (a)	
+Names of holding / subsidiary / associate companies / joint ventures
+S. 
+No.
+Name of the holding/subsidiary/ 
+associate companies/
+joint ventures (A)
+Indicate whether 
+holding/Subsidiary/ 
+Associate/ Joint 
+Venture
+% of shares 
+held by 
+listed entity
+Does the entity 
+indicated at column A, 
+participate in the 
+Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+1
+Mahindra and Mahindra Limited
+Holding
+ 57.97
+Yes
+2
+Lords Freight (India) Private 
+Limited
+Subsidiary
+ 99.05
+Yes
+3
+2 x 2 Logistics Private Limited
+Subsidiary
+ 55.00
+Yes
+4
+MLL Express Services Private 
+Limited
+Subsidiary
+ 100
+Yes
+5
+MLL Mobility Private Limited
+Subsidiary
+ 100
+Yes
+6
+V-Link Freight Services Private 
+Limited
+Subsidiary
+ 100
+Yes
+7
+MLL Global Logistics Limited 
+(Incorporated in UK)
+Subsidiary
+ 100
+No
+8
+Zipzap Logistics Private Limited
+Subsidiary
+ 64.10 
+No
+9
+Seino MLL Logistics Private Limited
+Associate and Joint 
+Venture
+ 50.00
+No
+VI.	
+CSR DETAILS
+24. 
+(i)	
+Whether CSR is applicable as per section 135 of Companies Act, 2013:
+Yes
+(ii)	
+Turnover (in `) 
+5,012.56 crores
+(iii)	
+Net worth (in `) 
+697.87 crores
+VII.	 TRANSPARENCY AND DISCLOSURES COMPLIANCES
+	
+25.	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+	
+	
+MLL is committed to conducting its business in compliance with applicable laws, rules, and regulations, upholding 
+the highest standards of business ethics, honesty, integrity, and ethical conduct. The Company has adopted a Code 
+of Conduct for Directors, Senior Management, and Employees. This Policy serves as an addition to and extension 
+of the existing Code, Policies, and Corporate Governance framework. MLL’s Whistleblower Policy is accessible at: 
+https://mahindralogistics.com/tabs/cms/files/Whistle-Blower-policy.pdf
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance 
+Redressal 
+Mechanism 
+in Place 
+(Yes/No) 
+(If Yes, then 
+provide web-link 
+for grievance 
+redress policy)
+FY 2024-25
+Current Financial Year
+FY 2023-24
+Previous Financial Year
+Number of 
+complaints 
+filed 
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities
+Yes
+-
+0
+0
+-
+0
+0
+-
+Investors 
+(other than 
+shareholders)
+Yes
+https://
+mahindralogistics.
+com/tabs/cms/
+files/MLL%20
+Investor%20
+Grievance%20
+Redressal%20
+Policy.pdf
+0
+0
+-
+0
+0
+-
+Shareholders 
+2
+0
+-
+0
+0
+-
+Employees 
+and workers
+Yes
+-
+5
+0
+-
+11
+1
+-
+Customers*
+Yes
+-
+31
+0
+-
+3025
+0
+-
+Value Chain 
+Partners
+Yes
+MLL’s business 
+associates 
+connect with 
+the Company 
+through 
+basupport@
+mahindralogistics.
+com
+272
+6
+266 
+(98% 
+complaints 
+were 
+closed)
+386
+0
+100% 
+closure
+*	
+The significant drop in the number of customer-filed complaints is attributed to the reporting of collective numbers for multiples entities 
+during FY 2023-24. In FY 2024-25, the availability of an independent platform enabled the reporting of exact figures in accordance with 
+the standalone reporting.
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+FINANCIAL STATEMENTS
+STATUTORY REPORTS
+CORPORATE OVERVIEW
+225
+224
+Integrated Annual Report 2024-25
+Integrated Annual Report 2024-25
+	
+26.	 Overview of the entity’s material responsible business conduct issues
+	
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental 
+and social matters that present a risk or an opportunity to your business, rationale for identifying the same, 
+approach to adapt or mitigate the risk along-with its financial implications, as per the following format
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying 
+the	 risk	 / opportunity
+In case of risk, approach	
+ to adapt	or mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+1
+Climate, 
+Environment 
+and GHG
+R
+As transportation is the 
+primary activity, MLL remains 
+conscious of its contributions 
+to climate change through 
+emissions.
+The Company is a 
+signatory to the Science 
+Based Target initiative 
+(SBTi) and is committed to 
+becoming carbon neutral 
+by 2040. The revalidation 
+of its SBTi targets is 
+currently in progress. In 
+addition, the Company is 
+a member of The Climate 
+Pledge (TCP), working 
+collectively with other 
+member organisations to 
+mitigate climate change.
+Negative: There has been an 
+increase in operating costs 
+to meet environmental 
+standards, coupled with 
+a low willingness among 
+stakeholders to share 
+or bear the additional 
+expenses.
+2
+Customer 
+satisfaction
+O
+It remains among the 
+top priorities and holds 
+significant importance for 
+MLL’s continuously growing 
+business.
+Continuous formal and 
+informal interactions 
+with customers, along 
+with annual customer 
+satisfaction surveys, assist 
+MLL in understanding 
+precise requirements and 
+resolving queries on a 
+periodic basis.
+Positive: MLL aims to 
+improve competitiveness 
+and adapt to client 
+expectations by leveraging 
+its expertise in low-carbon 
+solutions.
+3
+Energy 
+efficiency
+O
+Energy efficiency supports 
+organisations in reducing 
+both environmental impact 
+and costs.
+This is addressed through 
+the Accelerated Cost 
+Efficiency (ACE) energy 
+efficiency project 
+implemented across 
+locations with defined 
+targets. The 'Green Hour', 
+which involves switching 
+off lights on the last 
+Saturday of every month 
+across facilities, also 
+contributes to this effort.
+Positive: Cost savings, 
+decreased environmental 
+impact, are the outcomes.
+4
+Employee 
+training and 
+development
+O
+Well-trained employees 
+contribute positively to MLL’s 
+operational performance.
+Training needs are 
+identified at the 
+beginning of the year, 
+and relevant trainings are 
+provided to employees 
+accordingly. Training 
+has been incorporated 
+as a mandatory Key 
+Result Area (KRA) for all 
+employees.
+Positive: The Company 
+facilitates a best-in-class 
+employee experience, 
+positively influencing its 
+ability to attract, hire, train, 
+engage, and retain quality 
+talent.
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying 
+the	 risk	 / opportunity
+In case of risk, approach	
+ to adapt	or mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+5
+Ethics and 
+Code of 
+Conduct
+R
+Deviations by employees 
+from ethical norms and 
+the code of conduct can 
+significantly impact MLL's 
+reputation.
+MLL’s Code of Conduct 
+is a comprehensive 
+document that covers 
+all relevant aspects, with 
+regular training sessions 
+conducted for employees.
+Negative: Impact on the 
+Company’s reputation 
+and the trust of its 
+stakeholders.
+6
+Focus on 
+renewable 
+energy
+O
+Renewable energy helps 
+organisations reduce their 
+environmental impact.
+All new built-to-suit 
+(BTS) facilities and select 
+brownfield locations 
+have been equipped with 
+rooftop solar installations.
+Positive: Ensuring the 
+Company’s sustainable 
+growth while contributing 
+to environmental well-
+being.
+7
+Occupational 
+health and 
+safety
+R
+Health and safety is a top 
+priority for the Company, as 
+any accident significantly 
+impacts costs, lives, 
+reputation, and other areas.
+MLL holds ISO 45001 
+certification and 
+conducts regular training 
+sessions for employees 
+across locations through 
+multiple channels.
+Negative: Impact on MLL's 
+reputation and the trust of 
+employees and partners in 
+the Company.
+8
+Corporate 
+governance
+R
+Strong corporate 
+governance supports the 
+achievement of MLL's 
+purpose and mission while 
+mitigating risks that could 
+undermine stakeholder trust, 
+damage reputation, and 
+disrupt business.
+Corporate governance 
+framework
+Negative: Impact on the 
+Company’s reputation and 
+on stakeholder trust.
+9
+Supply chain 
+sustainability
+O
+Functioning on an asset-light 
+model makes our operations 
+heavily dependent on 
+our suppliers or business 
+associates (BAs) and hence 
+sustainable operations of our 
+BA’s play a critical role for 
+our operations
+BA engagement cell plays 
+a vital role for keeping 
+a regular connect with 
+our BAs ensuring smooth 
+operations, regular 
+updates, conducting 
+awareness sessions, skill 
+building etc.
+Positive: Well performing 
+and compliant BAs will 
+provide efficient and 
+uninterrupted services 
+ultimately ensuring 
+smooth and prospering 
+business
+10
+Community
+R
+Community is a very 
+important stakeholder 
+for any business and can 
+have extreme impacts 
+positive/negative. The 
+mandate on CSR spend 
+as per the regulations 
+by the government for 
+the community with its 
+publication in public domain 
+is another important aspect 
+that can impact a business 
+activity
+MLL is well connected 
+to the urban/rural 
+communities in and 
+around its operations 
+with listening 
+mechanisms to 
+understand the needs 
+of the community and 
+attempt to address them 
+as per our CSR policy
+Negative: Impact on the 
+Company’s reputation and 
+stakeholder trust
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+FINANCIAL STATEMENTS
+STATUTORY REPORTS
+CORPORATE OVERVIEW
+227
+226
+Integrated Annual Report 2024-25
+Integrated Annual Report 2024-25
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+THIS SECTION IS AIMED AT HELPING BUSINESSES DEMONSTRATE THE STRUCTURES, POLICIES AND PROCESSES PUT 
+IN PLACE TOWARDS ADOPTING THE NGRBC PRINCIPLES AND CORE ELEMENTS.
+Disclosure Questions
+P 1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1.	 a.	 Whether your entity’s 
+policy/policies cover 
+each principle and its 
+core elements of the 
+NGRBCs. (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+	
+b.	 Has the policy been 
+approved by the 
+Board? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+	
+c.	 Web Link of the 
+Policies, if available
+https://mahindralogistics.com/tabs/cms/files/Code-of-Conduct-for-Employees-and-
+Directors.pdf
+https://mahindralogistics.com/tabs/cms/files/Whistle-Blower-policy.pdf 
+https://mahindralogistics.com/tabs/cms/files/Policy-for-determinig-Material-RPTs.pdf
+https://mahindralogistics.com/tabs/cms/files/Policy-for-determination-of-materiality-for-
+disclosure-of-events-or-information.pdf
+https://mahindralogistics.com/tabs/cms/files/Code-of-Practices-and-Procedures-for-fair-
+disclosure-of-UPSI.pdf
+https://mahindralogistics.com/tabs/cms/files/Dividend-Distribution-Policy.pdf
+https://mahindralogistics.com/tabs/cms/files/MLL-Sustainability-Policy.pdf
+https://mahindralogistics.com/tabs/cms/files/MLL-CSR-Policy.pdf
+2.	 Whether the entity has 
+translated the policy into 
+procedures. (Yes / No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3.	 Do the enlisted policies 
+extend to your value 
+chain partners? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+4.	 Name of the national 
+and international codes/
+certifications/labels/ 
+standards (e.g. Forest 
+Stewardship Council, 
+Fairtrade, Rainforest Alliance, 
+Trustea) standards (e.g. 
+SA 8000, OHSAS, ISO, BIS) 
+adopted by your entity and 
+mapped to each principle.
+MLL adheres to ISO 9001, ISO 14001, ISO 45001, and ISO 27001 standards and aligns 
+with the UNGC Principles, UN SDGs, and the National Guidelines on Responsible Business 
+Conduct (NGRBC). It is also certified as a Great Place to Work (GPTW).
+5.	 Specific commitments, goals 
+and targets set by the entity 
+with defined timelines, if any.
+MLL has established ESG and other business commitments, supported by detailed goals 
+and annual targets. Progress on these targets is communicated through its Integrated 
+Annual Report and other stakeholder disclosures, including investor presentations 
+available in the public domain.
+Key commitments include:
+A.	
+Achieving carbon neutrality by 2040.
+B.	
+Approved targets under the Science Based Targets initiative (SBTi): 
+	
+i.	
+Reducing 88% of Scope 1 and 2 emissions per employee by 2033, using 2018 
+as the base year. 
+	
+ii.	
+Lowering 69% of Scope 3 emissions per million kilometres by 2033, also using 
+2018 as the base year.
+C.	
+As a signatory to The Climate Pledge, MLL has committed to achieving net zero 
+carbon by 2040 by:
+	
+i.	
+Regularly measuring and reporting greenhouse gas emissions.
+	
+ii.	
+Implementing decarbonisation strategies, including efficiency improvements, 
+use of renewable energy, material reductions, and other carbon elimination 
+approaches. 
+	
+iii.	
+Taking actions to offset any remaining emissions with additional, measurable, 
+real, permanent, and socially beneficial offsets to achieve net zero annual 
+carbon emissions by 2040.
+D.
+2030 Goal / Commitment
+Status in 2024-25
+Progress vs target
+~10 Mn Carbon-Neutral 
+Large-Format Warehouses
+4.1 million sq. ft. RE-
+powered
+~41% of warehousing RE-
+enabled
+100% EV Adoption for Last 
+Mile Delivery
+1500+ LMD fleet now 
+electric
+Progressive investment
+6. Performance 
+of 
+the 
+entity against the specific 
+commitments, 
+goals 
+and 
+targets along-with reasons in 
+case the same are not met.
+Governance, leadership and oversight
+7. 	
+Statement by director responsible 
+for the business responsibility report, 
+highlighting ESG related challenges, 
+targets and achievements
+MLL is committed to delivering a sustainable future by accelerating commerce 
+and empowering communities to RISE. The Company’s sustainability strategy 
+is linked to the business strategy, as it aspires to be an employer of choice, 
+a provider of choice, and an investment of choice.
+8. 	
+Details of the highest authority 
+responsible for implementation 
+and oversight of the Business 
+Responsibility policy (ies).
+Mr. Rampraveen Swaminathan
+Managing Director & CEO
+9. 	
+Does the entity have a specified 
+Committee of the Board/ Director 
+responsible for decision making on 
+sustainability related issues? (Yes / No). 
+If yes, provide details.
+Yes. The CSR Committee of the Board oversees business responsibility 
+and progress on MLL’s sustainability ambitions. The CSR Committee of the 
+Board constituted in compliance with the provisions of the Act read with the 
+applicable rules made thereunder consists of four Directors as of 31 March 
+2025, of whom one half are Independent Directors. Details of the composition 
+of the CSR Committee as of 31 March 2025 are given hereunder:
+Mr. Ranu Vohra, Independent Director – Chairman
+Ms. Malvika Sinha, Independent Director – Member
+Mr. Rampraveen Swaminathan, Managing Director & CEO – Member
+Mr. Naveen Raju, Non-Executive Director – Member
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+FINANCIAL STATEMENTS
+STATUTORY REPORTS
+CORPORATE OVERVIEW
+229
+228
+Integrated Annual Report 2024-25
+Integrated Annual Report 2024-25
+10. Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether review was undertaken by 
+Director/Committee of the Board/
+Any other Committee
+Frequency (Annually/Half yearly/Quarterly/
+Any other – please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against 
+above policies and 
+follow up action
+Yes. Committee of the Board
+Annually
+Compliance 
+with statutory 
+requirements of 
+relevance to the 
+principles, and, 
+rectification of any 
+non-compliances
+Yes. Committee of the Board
+Annually
+11. Has the entity carried out independent assessment/evaluation of 
+the working of its policies by an external agency? (Yes/No). If yes, 
+provide name of the agency.
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Yes. Certifications and verifications are provided by 
+TUV Rheinland (ISO 9001, 14001, and 45001) and 
+SGS (Voluntary Limited Assurance).
+12. If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated:
+Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity does not consider the Principles material to its 
+business (Yes/No)
+Not Applicable
+The entity is not at a stage where it is in a position to formulate 
+and implement the policies on specified principles (Yes/No)
+The entity does not have the financial or/human and technical 
+resources available for the task (Yes/No)
+It is planned to be done in the next financial year (Yes/No)
+Any other reason (please specify)
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core Elements 
+with key processes and decisions. The information sought is categorised as “Essential” and “Leadership”. While the essential 
+indicators are expected to be disclosed by every entity that is mandated to file this report, the leadership indicators may be 
+voluntarily disclosed by entities which aspire to progress to a higher level in their quest to be socially, environmentally and 
+ethically responsible.
+PRINCIPLE 1: BUSINESSES SHOULD CONDUCT AND GOVERN THEMSELVES WITH INTEGRITY, AND IN A MANNER THAT 
+IS ETHICAL, TRANSPARENT AND ACCOUNTABLE.
+ESSENTIAL INDICATORS
+1.	
+Percentage coverage by training and awareness programmes on any of the Principles during the financial year:
+Segment
+Total number of 
+training and awareness 
+programmes held
+Topics/principles covered under the training 
+and its impact
+%age of persons in 
+respective category 
+covered by the 
+awareness programmes
+Board of 
+Directors
+Ongoing, with multiple 
+trainings conducted 
+throughout the year.
+Familiarisation sessions for the Company’s 
+Directors include topics related to Safety, 
+Health and Environment, Strategy and Industry 
+Trends, Ethics, Governance, and Legal and 
+Regulatory matters. These topics are regularly 
+discussed and reviewed in Board meetings, 
+the Board’s Audit Committee meetings, and 
+other committees. Details of the familiarisation 
+programmes provided to Directors are available 
+at: https://mahindralogistics.com/tabs/cms/files/
+Familiarization_Programmes_conducted_
+FY2025.pdf.
+100%
+Key Managerial 
+Personnel
+3
+- Code of Conduct (“COC”) (Anti-Bribery, 
+Anti-Corruption, and Whistleblower Policy)
+- BRSR Awareness
+- Prevention of Sexual Harassment (“POSH”)
+100%
+Employees 
+other than BoD 
+and KMPs
+3
+- CoC (Anti-Bribery, Anti-Corruption, and 
+Whistleblower Policy)
+- BRSR Awareness
+- POSH
+100% (This has been 
+covered by making 
+employees go through 
+the Code of Conduct 
+policy in the HRMS 
+system). 
+- 0.56% (BRSR)**
+- 58% (PoSH)
+Workers*
+0
+0
+0
+	
+*	
+The workers’ category is not applicable to MLL, as it is managed by business associates (BAs).
+	
+** 	
+Covers key stakeholders involved in BRSR.
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+FINANCIAL STATEMENTS
+STATUTORY REPORTS
+CORPORATE OVERVIEW
+231
+230
+Integrated Annual Report 2024-25
+Integrated Annual Report 2024-25
+2.	
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the 
+entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year, in 
+the following format (Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30 
+of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+Monetary
+NGRBC
+Principle
+Name of the 
+regulatory/
+enforcement 
+agencies/judicial 
+institutions
+Amount 
+(In `)
+Brief of the Case
+Has an appeal 
+been preferred? 
+(Yes/No)
+Penalty/fine
+P1
+Department of 
+Commercial Tax, 
+Telangana
+Note 1
+Note 1
+Yes
+Settlement
+Nil
+Nil
+Nil
+Nil
+Nil
+Compounding fee
+Nil
+Nil
+Nil
+Nil
+Nil
+Non-Monetary
+NGRBC
+Principle
+Name of the 
+regulatory/ 
+enforcement 
+agencies/ judicial
+institutions
+Brief of the Case
+Has an appeal 
+been preferred? 
+(Yes/No)
+Imprisonment
+Nil
+Nil
+Nil
+Nil
+Punishment
+Nil
+Nil
+Nil
+Nil
+Note 1 
+The Additional Commissioner of State Tax, Telangana State, Hyderabad, by an Order dated 11 October 2023, partially allowed 
+the appeal filed by the Company concerning the disallowance of VAT levied under the Composite Scheme for the period April 
+2015 to June 2017. The Order granted a conditional stay on the collection of 50% of the disputed penalty, directing the 
+Company to pay the remaining 50% to the Appellate Deputy Commissioner.
+Accordingly, the Company in its Annual Report for FY 2023-2024, had mentioned that it had paid a penalty of Rs 1.75 crore 
+during the financial year 2023-2024.
+Subsequently, the Additional Commissioner of State Tax, Telangana State, Hyderabad, issued another Order dated 3 May 2024 
+(Order), granting a conditional stay on one-third of the disputed penalty and directing the Company to pay two-thirds of the 
+disputed penalty. This resulted in a further reduction of the stay on the penalty by ` 0.58 crores.
+Following this in 2023-2024, MLL filed a Writ Petition with the Hon’ble High Court of Telangana challenging the Order. The 
+Hon’ble High Court of Telangana, by an Order dated 11 June 2024, allowed the petition, set aside the Order of the CST, and 
+granted a stay on the collection of 50% of the disputed penalty, amounting to ` 1.75 crores. This restored the Company’s 
+status to what it was prior to the CST’s Order.
+Details of the penalty are as follows:
+a) The total disputed penalty amounts to ` 3.50 crores.
+b) As per the Order dated 11 June 2024, an amount of ` 1.75 crores (50% of the total disputed penalty) is stayed.
+c) The penalty paid in FY 2023-24 was ` 1.75 crores.
+d) No penalty has been paid in FY 2024-25.
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary 
+or non-monetary action has been appealed.
+Case Details
+Name of the regulatory/ enforcement agencies/ judicial institution
+Not Applicable. 
+However, please note that during the financial year 2023-24, with respect to the case mentioned in Note 1 in 
+Question 2 above, the Company had made an appeal before the Telangana VAT Appellate Tribunal against the penalty. 
+The outcome of the appeal has been intimated in the said note. 
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide 
+a web-link to the policy.
+	
+Yes. MLL’s Code of Conduct is a comprehensive document that includes applicable laws and regulations such as anti-
+bribery, anti-corruption, and the ethical management of conflict of interest. It establishes a common standard of ethical 
+conduct that consistently guides the behaviour and business dealings of the Company.
+	
+https://mahindralogistics.com/tabs/cms/files/Code-of-Conduct-for-Employees-and-Directors.pdf
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/ corruption:
+FY 2024-25 
+(Current Financial Year)
+FY 2023-24 
+(Previous Financial Year)
+Directors
+Nil
+Nil
+KMPs
+Nil
+Nil
+Employees
+Nil
+Nil*
+Workers
+Nil
+Nil
+*	
+There has been no cases where disciplinary action was taken by any law enforcement agency during FY 2023-24 and FY 2024-25. 
+The numbers reported in BRSR Reports for FY 2023-24 and previous years were based on disciplinary actions taken with respect 
+to deviations to the Code of Conduct of the Company.
+6.	
+Details of complaints with regard to conflict of interest:
+FY 2024-25
+(Current Financial Year)
+FY 2023-24
+(Previous Financial Year)
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to issues of Conflict 
+of Interest of the Directors
+Nil
+Nil
+Nil
+Nil
+Number of complaints received in relation to issues of Conflict 
+of Interest of the KMPs
+Nil
+Nil
+Nil
+Nil
+7.	
+Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by 
+regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+	
+Not Applicable.
+8.	
+Number of days of accounts payables ((Accounts payable *365) / Cost of goods/services procured) in the following 
+format:
+FY 2024-25
+(Current Financial Year)
+FY 2023-24
+(Previous Financial Year)
+Number of days of accounts payables
+78 days
+85 days
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+FINANCIAL STATEMENTS
+STATUTORY REPORTS
+CORPORATE OVERVIEW
+233
+232
+Integrated Annual Report 2024-25
+Integrated Annual Report 2024-25
+9.	
+Open-ness of business
+	
+Provide details of concentration of purchases and sales with trading houses, dealers, and related parties along-with loans 
+and advances & investments, with related parties, in the following format:
+Parameter
+Metrics
+FY 2024-25
+(Current 
+Financial Year)
+FY 2023-24
+(Previous 
+Financial Year)
+Concentration of 
+Purchases
+a.	
+Purchases from trading houses as % of total 
+purchases
+Nil
+Nil
+b.	
+Number of trading houses where purchases are 
+made from
+Nil
+Nil
+c.	
+Purchases from top 10 trading houses as % of 
+total purchases from trading houses
+Nil
+Nil
+Concentration of 
+Sales
+a.	
+Sales to dealers/distributors as % of total sales
+Nil
+Nil
+b.	
+Number of dealers / distributors to whom sales 
+are made
+Nil
+Nil
+c.	
+Sales to top 10 dealers / distributors as % of 
+total sales to dealers / distributors
+Nil
+Nil
+Share of RPTs in
+a.	
+Purchases (Purchases with related parties / Total 
+Purchases)
+4.72%
+4.36%
+b.	
+Sales (Sales to related parties / Total Sales)
+63.39%
+66.01%
+c.	
+Loans & advances (Loans & advances given to 
+related parties / Total loans & advances)
+Nil
+Nil
+d.	
+Investments (Investments in related parties / 
+Total Investments made)
+97.70%
+88.94%
+LEADERSHIP INDICATORS
+1.	
+Awareness programmes conducted for value chain partners on any of the Principles during the financial year:
+Total number of awareness 
+programmes held
+Topics / principles covered under the 
+training
+%age of value chain partners 
+covered (by value of business 
+done with such partners) 
+under the awareness 
+programmes
+240
+The Vendor Code of Conduct covers 
+Ethics, Human Rights, Environment, and 
+Safety. Additionally, topics include Women’s 
+Empowerment, Communication Skills, 
+Digital Onboarding and Payment Process, 
+Leadership Development, Industry Challenges, 
+Operational Excellence, and other related 
+areas.
+Not Available
+2.	
+Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? 
+(Yes/No) If Yes, provide details of the same.
+	
+MLL has established processes to identify and manage conflict of interest involving members of the Board. Each Board 
+member discloses any entities or arrangements in which they have an interest, and these disclosures are brought to the 
+Board’s attention as necessary.
+	
+The Board, including those of its subsidiaries, has adopted a Code of Conduct for Directors, Senior Management, and 
+Employees. This Code provides guidance and principles to ensure ethical and transparent conduct, including managing 
+conflicts of interest. It requires any individual who believes they may be in a conflict of interest situation due to external 
+activities, family relationships, personal assets, or other reasons, to promptly notify the Chairman of the Board. The 
+Chairman then reviews the matter and decides on the appropriate course of action, which may include involving the 
+full Board.
+	
+Directors who face actual or potential conflicts recuse themselves from related discussions and decisions.
+PRINCIPLE 2: BUSINESSES SHOULD PROVIDE GOODS AND SERVICES IN A MANNER THAT IS SUSTAINABLE AND SAFE.
+ESSENTIAL INDICATORS
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the 
+environmental and social impacts of product and processes to total R&D and capex investments made by the 
+entity, respectively.
+Current 
+Financial 
+Year
+Previous 
+Financial 
+Year
+Details of improvements in environmental and social impacts
+R&D
+0%
+0%
+The Company does not have R&D expenditure for the year under review. 
+Through the flagship Catapult programme, Company aims to nurture the 
+startup and green-tech ecosystem through energy efficiency improvement, 
+emission accounting and productivity enhancement through technology 
+usage in sustainable manner making the supply chain and logistics 
+industry future-ready.
+Capex
+14%
+19.35%
+Electric vehicles (eDel) are used for electrifying last-mile delivery. Battery-
+operated material handling equipment (MHEs) are also employed, providing 
+environmental benefits.
+2.	
+a. Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+	
+	
+Yes.
+	
+b.	
+If yes, what percentage of inputs were sourced sustainably?
+	
+	
+As a third-party logistics (3PL) company, MLL does not source raw materials for the production of finished goods. 
+However, most procurement decisions adhere to principles of sustainable sourcing. Examples include:
+	
+	
+•	
+Use of electric vehicles (eDel) to electrify last-mile delivery, along with alternate fuel vehicles such as CNG-
+powered trucks.
+	
+	
+•	
+Renewable energy (RE) accounts for around 22% of MLL’s total energy consumption, generated on-site 
+through solar rooftop panels installed at BTS and several other facilities.
+	
+	
+•	
+Use of green concrete that maintains strength while reducing emissions, resulting in approximately 600 tonnes 
+of CO2e avoided at the Guwahati BTS facility. Plans are in place to use green concrete in all new facilities.
+	
+	
+•	
+Green infrastructure initiatives include built-to-suit warehouses (BTS) that are primarily IGBC-certified green 
+warehouses. The head office in Mumbai and regional offices in Hyderabad and Delhi are located in IGBC-certified 
+green buildings. Additionally, charging infrastructure for EVs is available at BTS facilities.
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of 
+life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+	
+MLL is a third-party logistics (3PL) company primarily focussed on providing services rather than producing finished 
+goods. The Company offers warehousing and transport solutions to clients, with an emphasis on utilising low-carbon 
+materials and promoting circularity.
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+FINANCIAL STATEMENTS
+STATUTORY REPORTS
+CORPORATE OVERVIEW
+235
+234
+Integrated Annual Report 2024-25
+Integrated Annual Report 2024-25
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether 
+the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution 
+Control Boards? If not, provide steps taken to address the same.
+	
+Not Applicable.
+LEADERSHIP INDICATORS
+1.	
+Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing 
+industry) or for its services (for service industry)? If yes, provide details in the following format?
+NIC Code
+Name of Product 
+/Service
+% of total 
+Turnover 
+contributed
+Boundary for 
+which the 
+Life Cycle 
+Perspective / 
+Assessment was 
+conducted
+Whether 
+conducted by 
+independent 
+external agency
+(Yes/No)
+Results 
+communicated 
+in public domain 
+(Yes/No)
+If yes, provide 
+the web-link.
+MLL is a 3PL company primarily offering services and not involved in the production of finished goods. To date, MLL has 
+not conducted Life Cycle Assessment (LCA) study for any of the services provided as part of its business.
+2.	
+If there are any significant social or environmental concerns and/or risks arising from production or disposal of your 
+products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, 
+briefly describe the same along-with action taken to mitigate the same.
+Name of Product / Service
+Description of the risk / concern
+Action Taken
+Not available. MLL has not conducted LCA study for any of the services that it provides as part of its business.
+3.	
+Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing 
+industry) or providing services (for service industry).
+Indicate input material
+Recycled or re-used input material to total material
+FY 2024-25
+Current Financial Year
+FY 2023-24
+Previous Financial Year
+MLL is a 3PL company primarily serving as a service provider and not engaged in the production of finished goods. The 
+Company focusses on delivering warehousing and transport solutions to clients, emphasising the use of low-carbon 
+materials and circularity.
+4.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, and 
+safely disposed, as per the following format:
+FY 2024-25
+Current Financial Year
+FY 2023-24
+Previous Financial Year
+Re-Used
+Recycled
+Safely 
+Disposed
+Re-Used
+Recycled
+Safely 
+Disposed
+Plastics (including 
+packaging)
+Not Applicable
+Not Applicable
+E-waste
+Hazardous waste
+Other waste
+5.	
+Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
+Indicate product category
+Reclaimed products and their packaging materials as 
+% of total products sold in respective category
+Not Applicable.
+PRINCIPLE 3: BUSINESSES SHOULD RESPECT AND PROMOTE THE WELL-BEING OF ALL EMPLOYEES, INCLUDING 
+THOSE IN THEIR VALUE CHAINS.
+ESSENTIAL INDICATORS
+1.	
+a.	
+Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total 
+(A)
+Health insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+benefits
+Day care 
+facilities
+Number 
+(B)
+% 
+(B/A)
+Number 
+(C)
+% 
+(C/A)
+Number 
+(D)
+% 
+(D/A)
+Number 
+(E)
+% 
+(E/A)
+Number 
+(F)
+% 
+(F/A)
+Total Permanent and Other than Permanent Employees
+Male
+3,650
+3,650
+100
+3,650
+100
+0
+0.00
+3,650
+100
+10
+0.27
+Female
+448
+448
+100
+448
+100
+448
+100
+0
+0.00
+9
+2.00
+Total
+4,098
+4,098
+100
+4,098
+100
+448
+10.93
+3,650
+89.06
+19
+0.46
+*	
+The reported figures indicate total employees eligible for the benefits during the reporting year.
+b.	
+Details of measures for the well-being of workers: 
+Category
+% of workers covered by
+Total 
+(A)
+Health insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+benefits
+Day care 
+facilities
+Number 
+(B)
+% 
+(B/A)
+Number 
+(C)
+% 
+(C/A)
+Number 
+(D)
+% 
+(D/A)
+Number 
+(E)
+% 
+(E/A)
+Number 
+(F)
+% 
+(F/A)
+Permanent workers
+Male
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Female
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Total
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Other than Permanent workers
+Male
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Female
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Total
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+*	
+The workers’ category is not applicable to MLL, as it is managed by business associates (BAs).
+c.	
+Spending on measures towards well-being of employees and workers (including permanent and other than 
+permanent) in the following format –
+FY 2024-25
+Current Financial 
+Year
+FY 2023-24
+Previous 
+Financial Year
+Cost incurred on well- being measures as a % of total revenue of the 
+company
+0.14%
+0.18%
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+FINANCIAL STATEMENTS
+STATUTORY REPORTS
+CORPORATE OVERVIEW
+237
+236
+Integrated Annual Report 2024-25
+Integrated Annual Report 2024-25
+2.	
+Details of retirement benefits, for Current FY and Previous Financial Year.
+Benefits
+Benefits
+FY 2024-25
+FY 2024-25
+Current Financial Year
+Current Financial Year
+FY 2023-24
+FY 2023-24
+Previous Financial Year
+Previous Financial Year
+No. of 
+No. of 
+employees 
+employees 
+covered as 
+covered as 
+a % of total 
+a % of total 
+employees
+employees
+No. of 
+No. of 
+workers 
+workers 
+covered as 
+covered as 
+a % of total 
+a % of total 
+workers
+workers
+Deducted and 
+Deducted and 
+deposited 
+deposited 
+with the
+with the
+authority 
+authority 
+(Y/N/N.A.)
+(Y/N/N.A.)
+No. of 
+No. of 
+employees 
+employees 
+covered as 
+covered as 
+a % of total 
+a % of total 
+employees
+employees
+No. of 
+No. of 
+workers 
+workers 
+covered as 
+covered as 
+a % of total 
+a % of total 
+workers
+workers
+Deducted and 
+Deducted and 
+deposited 
+deposited 
+with the 
+with the 
+authority 
+authority 
+(Y/N/N.A.)
+(Y/N/N.A.)
+PF
+100
+100
+Y
+100
+100
+Y
+Gratuity
+100
+100
+Y
+100
+100
+Y
+ESI
+9.34
+47.13
+Y
+17.00
+82.00
+Y
+Others – please 
+specify
+-
+-
+-
+-
+-
+-
+3.	
+Accessibility of workplaces
+	
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the requirements 
+of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this 
+regard.
+	
+Yes. MLL is committed to the recruitment of people with disabilities. Roles have been identified at the Corporate Office as 
+well as various operations sites to provide opportunities for career development in respective areas of specialisation. The 
+organisation has engaged with specific partners specialising in hiring and sensitisation related to persons with disabilities. 
+To ensure a conducive work environment, infrastructural modifications were implemented based on an audit conducted 
+by an external consultant.
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, 
+provide a web-link to the policy.
+	
+Yes, MLL has a diversity and inclusion policy along with the MLL Code of Conduct, both of which ensure equal opportunity.
+	
+https://mahindralogistics.com/diversity-inclusion/
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent employees
+Permanent workers
+Return to 
+work rate
+Retention rate
+Return to 
+work rate
+Retention rate
+Male
+88.00%
+72.00%
+0
+0
+Female
+92.00%
+79.00%
+0
+0
+Total
+90.00%
+75.50%
+0
+0
+	
+*	
+The workers’ category is not applicable to MLL, as it is managed by business associates (BAs).
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+worker? If yes, give details of the mechanism in brief.
+Yes/No (If Yes, then give details of the mechanism in brief)
+Permanent Workers
+Not Applicable.
+Other than Permanent Workers
+Not Applicable.
+Permanent Employees
+Yes. The Company has a policy on the Whistle-Blower mechanism and Prevention of 
+Sexual Harassment at Workplace (POSH) to ensure a work environment where all 
+employees (permanent, temporary, and workers) are treated with respect and dignity 
+and receive equal and fair treatment. Complaints related to sexual harassment are 
+managed under the Company’s gender-neutral POSH policy through region-wise 
+Internal Committees. A dedicated Appraisal Grievance Redressal mechanism addresses 
+employee grievances in a timely and effective manner, providing a forum for concerns 
+to be raised and resolved.
+The Sanjeevani programme is specifically designed for employees other than 
+permanent staff to enhance engagement and productivity. Regular Sanjeevani 
+sessions, works committee meetings, and tool-box sessions are conducted to provide 
+a platform for employees to voice concerns. These sessions help review and resolve 
+grievances effectively.
+Other than Permanent 
+Employees
+	
+*	
+The workers’ category is not applicable to MLL, as it is managed by business associates (BAs).
+7.	
+Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+Category
+FY 2024-25
+(Current Financial Year)
+FY 2023-24
+(Previous Financial Year)
+Total 
+employees/ 
+workers in 
+respective 
+category (A)
+No. of employees / 
+workers in respective 
+category, who are part 
+of association(s) or 
+Union (B)
+% 
+(B/A)
+Total 
+employees/ 
+workers in 
+respective 
+category (C)
+No. of Employees / 
+workers in respective 
+category, who are 
+part of association(s) 
+or Union (D)
+% 
+(D/C)
+Total 
+Permanent 
+and Other than 
+Permanent 
+Employees
+4,098
+429
+10.46
+4,007
+426
+10.63
+- Male 
+3,650
+425
+11.64
+3,579
+426
+11.90
+- Female
+448
+4
+0.89
+427
+0
+0
+Total 
+Permanent 
+Workers
+0
+0
+0
+0
+0
+0
+- Male 
+0
+0
+0
+0
+0
+0
+- Female
+0
+0
+0
+0
+0
+0
+	
+*	
+The workers’ category does not apply to MLL, as it is managed by business associates (BAs).
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+FINANCIAL STATEMENTS
+STATUTORY REPORTS
+CORPORATE OVERVIEW
+239
+238
+Integrated Annual Report 2024-25
+Integrated Annual Report 2024-25
+8.	
+Details of training given to employees and workers:
+Category
+FY 2024-25
+(Current Financial Year)
+FY 2023-24
+(Previous Financial Year)
+Total (A)
+On Health and 
+safety measures
+On Skill 
+upgradation
+Total (D)
+On Health and 
+safety measures
+On Skill 
+upgradation
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Male
+3,411
+315
+9.23
+1,328
+38.93
+3,943
+2,172
+55.08
+2,842
+72.07
+Female
+443
+150
+33.86
+284
+64.10
+498
+191
+38.35
+397
+79.71
+Total
+3,854
+465
+12.06
+1,612
+41.82
+4,441
+2,363
+53.20
+3,239
+72.93
+Workers*
+Male
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Female
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Total
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+	
+*	
+The workers’ category does not apply to MLL, as it is managed by business associates (BAs).
+9.	
+Details of performance and career development reviews of employees and worker:
+Category
+FY 2024-25
+(Current Financial Year)
+FY 2023-24
+(Previous Financial Year)
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C)
+Employees
+Male
+2,746
+2,738
+99.71
+2,886
+2,716
+94.10
+Female
+401
+399
+99.50
+420
+392
+93.33
+Total**
+3,147
+3,137
+99.68
+3,306
+3,108
+94.01
+Workers*
+Male
+0
+0
+0
+0
+0
+0
+Female
+0
+0
+0
+0
+0
+0
+Total
+0
+0
+0
+0
+0
+0
+	
+*	
+The workers’ category is not applicable to MLL, as it is managed by business associates (BAs).
+	
+**	
+The reported figures represent the total number of employees eligible for performance review during the period.
+10.	 Health and safety management system:
+	
+a.	
+Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No).
+	
+	
+If yes, the coverage such system?
+	
+	
+1.	
+Yes, MLL holds certification for the Integrated Management System (IMS), which includes ISO 45001:2018 
+Occupational Health and Safety Management System (OHSMS), ISO 14001:2015 Environment Management 
+System (EMS), and ISO 9001:2015 Quality Management System (QMS). 
+	
+	
+2.	
+MLL also adheres to The Mahindra Safety Way (TMSW) standard, comprising 25 process parameters and 
+8 result parameters, as established by the M&M Central Safety Council (CSC).
+	
+b.	
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine 
+basis by the entity?
+	
+	
+Work-related hazards are identified through the Hazard Identification and Risk Assessment (HIRA) process, 
+in accordance with the ISO 45001:2018 standard.
+	
+c.	
+Whether you have processes for workers to report the work related hazards and to remove themselves from 
+such risks. (Y/N)
+	
+	
+Yes. MLL uses a web-based and mobile application, M-Safe (https://safety.mahindralogistics.com), for reporting 
+unsafe acts, unsafe conditions, near misses, first aid cases, road incidents, fire incidents, as well as reportable and 
+non‑reportable incidents.
+	
+d.	
+Do the employees/worker of the entity have access to non-occupational medical and healthcare services? 
+(Yes/No)
+	
+	
+Yes. MLL has a well-established procedure for health checkups and medical support for its staff in accordance with 
+the HR policy.
+11.	 Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category*
+FY 2024-25
+(Current 
+Financial Year)
+FY 2023-24
+(Previous 
+Financial Year)
+Lost Time Injury Frequency Rate (LTIFR) 
+(per one million-person hours worked)
+Employees
+0
+0
+Workers
+0
+0
+Total recordable work-related injuries
+Employees
+0
+0
+Workers
+0
+0
+No. of fatalities
+Employees
+0
+0
+Workers
+0
+0
+High consequence work-related injury or ill-health 
+(excluding fatalities)
+Employees
+0
+0
+Workers
+0
+0
+*	
+Including the contract workforce
+12.	 Describe the measures taken by the entity to ensure a safe and healthy work place.
+	
+a.	
+Risk assessment and mitigation plan
+	
+b.	
+Inspection, audit, and measurement
+	
+c.	
+Competency development through trainings such as fire safety, material handling safety, electrical safety, and 
+emergency preparedness
+	
+d.	
+Review mechanism
+	
+e.	
+Emergency response plan
+	
+f.	
+ARVR (Augmented Reality Virtual Reality) training modules covering fire safety, electrical safety, MHE safety, and 
+transportation safety
+	
+g.	
+Tracking and closure of unsafe acts and unsafe conditions (95%)
+	
+h.	
+Bi-monthly safety theme-based inspections
+	
+i.	
+Safety observation tours (SOT)
+	
+j.	
+Reporting and closure of unsafe acts and unsafe conditions through the web-based and mobile application M-Safe 
+(https://safety.mahindralogistics.com)
+13.	 Number of Complaints on the following made by employees and workers:
+FY 2024-25
+(Current Financial Year)
+FY 2023-24
+(Previous Financial Year)
+Filed 
+during the 
+year
+Pending 
+resolution at 
+the end of year
+Remarks Filed during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Working Conditions
+0
+0
+-
+0
+0
+-
+Health & Safety
+0
+0
+-
+0
+0
+-
+*	
+The above information factors only complaints with respect to working conditions and health & safety.
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+FINANCIAL STATEMENTS
+STATUTORY REPORTS
+CORPORATE OVERVIEW
+241
+240
+Integrated Annual Report 2024-25
+Integrated Annual Report 2024-25
+14.	 Assessments for the year:
+% of your plants and offices that were assessed (by 
+entity or statutory authorities or third parties)
+Health and safety practices
+100%
+Working Conditions
+100%
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on 
+significant risks / concerns arising from assessments of health & safety practices and working conditions.
+	
+a.	
+The line management forms the incident investigation team within 8 hours of the incident occurrence.
+	
+b.	
+The incident investigation team determines the facts by recreating the scene through photographs and gathering 
+inputs from key personnel such as operators and supervisors.
+	
+c.	
+Key factors, which are circumstances that may have contributed to the incident, are identified through root cause 
+analysis.
+	
+d.	
+Systems that require strengthening are identified based on the key factors.
+	
+e.	
+Corrective and preventive actions are recommended based on the identified key factors.
+	
+f.	
+The incident investigation report is documented and submitted by the team leader to the leadership team.
+LEADERSHIP INDICATORS
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees 
+(Y/N) (B) Workers (Y/N).
+	
+(A) 	 Employees – Yes
+ 	
+(B) 	 Workers – Not Applicable.
+2.	
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited 
+by the value chain partners.
+	
+Yes. It is ensured that all clauses related to human rights like minimum wages, working hours, and freedom of association, are 
+included in the Vendor Code of Conduct. Each value chain partner is required to sign and comply with this code. A dedicated 
+compliance tool is used to monitor monthly labour law compliance for both MLL and its Workforce Business Associates (BAs). 
+To ensure adherence to statutory requirements, the compliance partner carries out monthly audits. Additionally, the Local 
+HR (LHR) team conducts random checks on the BA’s statutory payments, providing an added layer of oversight to maintain 
+compliance.
+3.	
+Provide the number of employees/workers having suffered high consequence work- related injury/ill-health/
+fatalities (as reported in Q11 of Essential Indicators above), who have been are rehabilitated and placed in suitable 
+employment or whose family members have been placed in suitable employment:
+Total no. of affected employees/workers
+No. of employees/workers that are 
+rehabilitated and placed in suitable 
+employment or whose family members 
+have been placed in suitable employment
+FY 2024-25 
+(Current Financial
+Year)
+FY 2023-24 
+(Previous Financial
+Year)
+FY 2024-25 
+(Current Financial 
+Year)
+FY 2023-24 
+(Previous Financial 
+Year)
+Employees
+0
+0
+0
+0
+Workers
+0
+0
+0
+0
+*	
+The workers’ category does not apply to MLL, since it is managed by business associates (BAs).
+4.	
+Does the entity provide transition assistance programs to facilitate continued employability and the management 
+of career endings resulting from retirement or termination of employment? (Yes/No)
+ 	
+No.
+5.	
+Details on assessment of value chain partners:
+% of value chain partners (by value of business done with 
+such partners) that were assessed
+Health and safety practices
+100%
+Working Conditions
+100%
+6.	
+Provide details of any corrective actions taken or underway to address significant risks/concerns arising from 
+assessments of health and safety practices and working conditions of value chain partners.
+	
+a.	
+Hazard Identification and Risk Assessment
+	
+b.	
+Behaviour-Based Safety
+	
+c.	
+Work Permit System
+	
+d.	
+Contractor Safety Management
+	
+e.	
+Transportation Safety
+	
+f.	
+Electrical Safety Management
+	
+g.	
+Personal Protective Equipment
+	
+h.	
+Fire Safety Management
+	
+i.	
+Material Handling Safety
+	
+j.	
+Lockout/Tagout Process
+	
+k.	
+Incident Management
+	
+l.	
+Work at Height Safety
+	
+m.	
+Management of Change
+	
+n.	
+Confined Space Entry
+	
+o.	
+Machine Guarding
+PRINCIPLE 4: BUSINESSES SHOULD RESPECT THE INTERESTS OF AND BE RESPONSIVE TO ALL ITS STAKEHOLDERS.
+ESSENTIAL INDICATORS
+1.	
+Describe the processes for identifying key stakeholder groups of the entity.
+	
+Stakeholder engagement remains a fundamental pillar of MLL’s operations. The commitment to collaboration and mutual 
+benefit continues consistently from the previous year. As a third-party logistics provider, the Company recognises the 
+indispensable role stakeholders play in fostering its sustainable growth. Understanding and addressing stakeholder needs 
+remains central to its service delivery process.
+	
+Over time, various programmes have been implemented to ensure comprehensive engagement across all stakeholder 
+groups. These initiatives are designed to create value for both the Company and its stakeholders, taking into account the 
+diverse needs of different business verticals and their roles in delivering exceptional service.
+	
+The Company remains dedicated to fostering collaborative partnerships that benefit all parties involved.
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+FINANCIAL STATEMENTS
+STATUTORY REPORTS
+CORPORATE OVERVIEW
+243
+242
+Integrated Annual Report 2024-25
+Integrated Annual Report 2024-25
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder 
+group.
+Stakeholder 
+group
+Whether 
+identified as 
+vulnerable & 
+marginalised 
+group (Yes/No)
+Channels of communication 
+(Email, SMS, newspaper, 
+pamphlets, advertisement, 
+community meetings, notice 
+board, website), other
+Frequency of 
+engagement 
+(annually/ 
+half yearly/ 
+quarterly/others 
+– please specify)
+Purpose and scope of 
+engagement including key topics 
+and concerns raised during such 
+engagement
+Customers
+No
+Other
+Others – Ad hock, 
+as necessary
+Key account management, 
+satisfaction surveys, periodic 
+reviews, personal visits, go-live 
+events, invitations to curated 
+events, customer communication 
+initiatives and activities, digital 
+marketing outreach, and 
+newsletters.
+Employees
+No
+Other
+Others – Ad hock, 
+as necessary
+Training and capacity building, 
+newsletters, surveys, organisational 
+communication platforms, reward 
+and recognition, and employee 
+involvement in the Company’s CSR 
+activities.
+Business 
+partners
+No
+Other
+Others – Ad hock, 
+as necessary
+Office visits, periodic mailers, 
+newsletters, and meetings with 
+the CEO and senior leadership. 
+Training is provided to drivers on 
+safe driving. Business partner 
+development, reward and 
+recognition programmes, a toll-
+free helpdesk, satisfaction surveys, 
+and involvement in the Company’s 
+CSR activities are also part of the 
+initiatives.
+Shareholders/
+investors
+No
+Website, E-mail, 
+dissemination of information 
+on the website of the Stock 
+Exchanges, Press Releases, 
+Annual Reports, General 
+Meetings, Investors Meets
+Quarterly/
+Event-based.
+Dissemination of information 
+having a bearing on the 
+performance/operations of the 
+Company, updating Shareholders 
+on various statutory requirements 
+with respect to their shareholding 
+in the Company, addressing 
+shareholders’ queries at the 
+General Meetings, earnings call 
+with investors/analysts in respect 
+of quarterly/half-yearly/annual 
+financial results.
+Government 
+& regulators
+No
+Other
+Others – Ad hock, 
+as necessary
+Policy interventions are made 
+in the interest of the industry 
+through trade bodies.
+Local 
+communities
+Yes
+Community meetings 
+are conducted through 
+implementation partners.
+Quarterly
+Various CSR activities are 
+conducted in association with 
+NGOs or directly based on need 
+assessment, along with employee 
+volunteering, among others.
+LEADERSHIP INDICATORS
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, and 
+social topics or if consultation is delegated, how is feedback from such consultations provided to the Board.
+	
+‘Expand the ESG mandate’ is included in the CEO’s policy and priorities, which are communicated to all business verticals 
+along with specific targets. Business leaders within the organisation conduct consultations with stakeholders on ESG 
+topics and are responsible for maintaining ongoing stakeholder engagement. Material issues are prioritised based on their 
+impact on both stakeholders and the business. ESG updates, together with customer satisfaction and M-Cares employee 
+engagement results, are regularly presented as part of the agenda in all Board meetings.
+	
+More details on the ESG aspirations can be found at: https://mahindralogistics.com/csr-and-sustainability/.
+2.	
+Whether stakeholder consultation is used to support the identification and management of environmental, and 
+social topics (Yes/No). If so, provide details of instances as to how the inputs received from stakeholders on these 
+topics were incorporated into policies and activities of the entity.
+	
+Yes. MLL’s ESG aspirations are grounded in material topics identified through stakeholder consultations. The most 
+significant topics were shortlisted and prioritised based on their impact on both stakeholders and the business.
+	
+For 2022-23, senior leaders were engaged to refresh the materiality matrix, aiming to gather their perspectives on 
+key ESG issues and secure their buy-in. As part of this process, questionnaires were circulated among the leadership to 
+capture their views on topics material to the organisation. The material issues identified through this exercise have been 
+incorporated into this report and other strategic decisions of the organisation.
+3.	
+Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/
+marginalised stakeholder groups.
+	
+MLL focusses on promoting education, including special education and vocational skills, particularly among girls, youths, 
+LGBTQIA+ individuals, and people with disabilities. During the financial year under review, skill development training through 
+GTT Foundation and Logistics skill Council (LSC) has been imparted to 55 LGBTQIA+, 61 Persons with Disabilities, 103 
+youth and 113 women from marginalised and underprivileged communities. Successfully 213 candidates were placed 
+and provided with the income opportunities. The Company also supports the ‘Nanhi Kali’ initiative by the K.C. Mahindra 
+Education Trust, which aims to ensure that every girl child in India has access to education. This programme targets 
+beneficiaries from backward communities in Barabanki (Uttar Pradesh), Mumbai and Nashik (Maharashtra). Additionally, 
+approximately 1,183 girls benefitted from this project. 
+PRINCIPLE 5: BUSINESSES SHOULD RESPECT AND PROMOTE HUMAN RIGHTS.
+ESSENTIAL INDICATORS
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the 
+following format:
+Category
+FY 2024-25
+(Current Financial Year)
+FY 2023-24
+(Previous Financial Year)
+Total (A)
+No. of 
+employees/ 
+workers 
+covered (B)
+% (B/A)
+Total (C)
+No. of 
+employees/ 
+workers 
+covered (D)
+% (D/C)
+Employees
+Permanent
+3,854
+3,854
+100
+3,740
+3,740
+100
+Other than permanent
+244
+244
+100
+267
+267
+100
+Total Employees
+4,098
+4,098
+100
+4,007
+4,007
+100
+Workers*
+Permanent
+0
+0
+0
+0
+0
+0
+Other than permanent
+0
+0
+0
+0
+0
+0
+Total Workers
+0
+0
+0
+0
+0
+0
+*	
+The workers’ category does not apply to MLL, since it is managed by business associates (BAs).
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+FINANCIAL STATEMENTS
+STATUTORY REPORTS
+CORPORATE OVERVIEW
+245
+244
+Integrated Annual Report 2024-25
+Integrated Annual Report 2024-25
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+Category
+FY 2024-25
+(Current Financial Year)
+FY 2023-24
+(Previous Financial Year)
+Total (A)
+Equal to minimum 
+wage
+More than 
+minimum wage
+Total 
+(D)
+Equal to minimum 
+wage
+More than 
+minimum wage
+No. 
+(B)
+% 
+(B/A)
+No. 
+(C)
+% 
+(C/A)
+No. 
+(E)
+% 
+(E/D)
+No. (F)
+% 
+(F/D)
+Employees
+Permanent
+3,854
+1,244
+32.28
+2,610
+67.72
+3,731
+2,096
+56.17
+1,635
+43.82
+Male
+3,411
+1,061
+31.10
+2,350
+68.89
+3,311
+1,895
+57.23
+1,416
+42.76
+Female
+443
+183
+41.30
+260
+58.69
+420
+201
+47.85
+219
+52.14
+Other than 
+permanent
+244
+94
+38.52
+150
+61.47
+266
+207
+77.81
+59
+22.18
+Male
+239
+93
+38.91
+146
+61.08
+259
+201
+77.60
+58
+22.39
+Female
+5
+1
+20.00
+4
+80.00
+7
+6
+85.71
+1
+14.28
+Workers*
+Permanent
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Male
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Female
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Other than 
+permanent
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Male
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Female
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+*	
+The workers’ category is not applicable to MLL, as it is managed by business associates (BAs).
+3.	
+Details of remuneration/salary/wages
+	
+a.	
+Median remuneration / wages:
+Male
+Female
+Number
+Median 
+remuneration/
+salary/wages of 
+respective category
+Number
+Median 
+remuneration/
+salary/wages of 
+respective category
+Board of Directors (BoD)
+6@
+17,95,000
+2
+17,05,000
+Key Managerial 
+Personnel
+3#
+1,97,98,794
+0
+N.A.
+Employees other than 
+BoD and KMP
+3,597
+4,45,848
+438
+4,61,340
+Workers
+0
+0
+0
+0
+@	
+Excluding MD & CEO who is included in Key Managerial Personnel 
+#	
+Key Managerial Personnel include the MD & CEO, CFO and CS
+*	
+The workers’ category is not applicable to MLL, as it is managed by business associates (BAs).
+b.	
+Gross wages paid to females as % of total wages paid by the entity, in the following format:
+FY 2024-25
+(Current 
+Financial Year)
+FY 2023-24
+(Previous 
+Financial Year)
+Gross wages paid to females as % of total wages
+13%
+12%
+4.	
+Do you have a focal point (Individual/Committee) responsible for addressing human rights impacts or issues caused 
+or contributed to by the business? (Yes/No)
+	
+Yes.
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+ 	
+An employee grievance redressal policy has been established, providing a platform through which any employee can 
+raise a genuine issue, concern, or grievance related to their working environment or professional relationships. The policy 
+enables resolution through a defined workflow mechanism.
+6.	
+Number of Complaints on the following made by employees and workers:
+FY 2024-25
+(Current Financial Year)
+FY 2023-24
+(Previous Financial Year)
+Filed 
+during 
+the year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Filed 
+during 
+the year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Sexual Harassment
+5
+0
+All cases 
+have been 
+resolved.
+11
+1
+-
+Discrimination at workplace
+0
+0
+-
+0
+0
+-
+Child Labour
+0
+0
+-
+0
+0
+-
+Forced Labour/Involuntary Labour
+0
+0
+-
+0
+0
+-
+Wages
+Other human rights related issues
+0
+0
+-
+0
+0
+-
+7.	
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 
+2013, in the following format:
+FY 2024-25
+(Current 
+Financial Year)
+FY 2023-24
+(Previous 
+Financial Year)
+Total Complaints reported under Sexual Harassment on of Women at 
+Workplace (Prevention, Prohibition and Redressal) Act, 2013 (POSH)
+5
+11
+Complaints on POSH as a % of female employees / workers
+1.11%
+2.57%
+Complaints on POSH upheld
+5
+11
+8.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	
+The confidentiality of the complainant is maintained. All complaints or incidents reported are handled with utmost care, 
+sensitivity, and discretion to protect the sensibilities of the affected individual. No information is disclosed publicly or to 
+any third party that could reveal the identity of the affected person.
+9.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+	
+Yes. These provisions are also included in the Vendor Code of Conduct, which all business associates are required to ratify. 
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+FINANCIAL STATEMENTS
+STATUTORY REPORTS
+CORPORATE OVERVIEW
+247
+246
+Integrated Annual Report 2024-25
+Integrated Annual Report 2024-25
+10.	 Assessments for the year:
+% of your plants and offices 
+that were assessed (by entity 
+or statutory authorities or 
+third parties)
+Child labour
+100%
+Forced/involuntary labour
+100%
+Sexual harassment
+100%
+Discrimination at workplace
+100%
+Wages
+100%
+11.	 Provide details of any corrective actions taken or underway to address significant risks/concerns arising from the 
+assessments at Question 10 above.
+	
+None.
+LEADERSHIP INDICATORS
+1.	
+Details of a business process being modified/introduced as a result of addressing human rights grievances/
+complaints.
+	
+MLL has implemented an Employee Code of Conduct (CoC) that includes provisions related to human rights grievances 
+and complaints. The Code of Conduct clearly defines acceptable and unacceptable behaviours. Additionally, the Company 
+has established the Speak Up platform, enabling employees to report any suspected unethical conduct or violations of 
+the MLL CoC or Company policies. To support this, the Mahindra Group, including MLL, has partnered with Convercent, 
+a global external agency that provides a secure and confidential reporting platform. This ensures a transparent and 
+trustworthy environment for logging complaints.
+2.	
+Details of the scope and coverage of any Human rights due-diligence conducted.
+	
+None. 
+3.	
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of 
+Persons with Disabilities Act, 2016?
+ 	
+Yes. Provisions have been made at designated sites and offices where differently abled employees work or differently 
+abled visitors are expected. The Head Office in Jogeshwari, Mumbai, serves as a key example, being fully equipped to 
+accommodate their needs.
+4.	
+Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such partners) that 
+were assessed
+Sexual harassment
+All human rights-related aspects, including the prevention of child labour, forced 
+labour, sexual harassment, and workplace discrimination, are incorporated into 
+the Vendor Code of Conduct. Each value chain partner is required to sign this 
+Code and adhere to the clauses.
+Discrimination at workplace
+Child labour
+Forced labour/Involuntary labour
+5.	
+Provide details of any corrective actions taken or underway to address significant risks/concerns arising from the 
+assessments at Question 4 above.
+	
+None.
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the environment.
+ESSENTIAL INDICATORS
+Due to business dynamics and the focus on maintaining an adequate and appropriate scope of reporting, MLL has revised its 
+reporting boundary for FY 2024-25 compared to FY 2023-24. The criteria adopted to finalize the reporting boundary include 
+MLL’s operational control, operational facilities leased for more than 5 years, and individual facilities exceeding 50,000 sq. 
+ft. As a result, the reporting boundary now comprises of 15 facilities. The Company-owned fleet has also been included for 
+reporting purposes, consisting of 50 ICE vehicles, 1,483 three-wheeler EVs, and 36 two-wheeler EVs.
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+FY 2024-25 
+(Current Financial 
+Year)
+FY 2023-24 
+(Previous 
+Financial Year)
+From renewable sources ((in GJ)
+Total electricity consumption (A)
+5,452
+4,454
+Total fuel consumption (B)
+0
+0
+Energy consumption through other sources (C)
+0
+0
+Total energy consumed from renewable sources (A+B+C)
+5,452
+4,454
+From non-renewable sources
+Total electricity consumption (D)
+22,704
+30,756
+Total fuel consumption (E)
+34,549
+4,840
+Energy consumption through other sources (F)
+0
+0
+Total energy consumed from non-renewable sources (D+E+F)
+57,253
+35,596
+Total energy consumed (A+B+C+D+E+F)
+62,705
+40,050
+Energy intensity per rupee of turnover 
+(Total energy consumed/Revenue from operations)
+12.51
+8.84
+Energy intensity per rupee of turnover adjusted for Purchasing Power 
+Parity (PPP) (Total energy consumed / Revenue from operations adjusted 
+for PPP)
+258
+198
+Energy intensity in terms of physical Output
+N.A.
+N.A.
+Energy intensity (optional) – the relevant metric may be selected by the 
+entity
+N.A.
+10.00
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+Yes. The company on a voluntary basis has undertaken limited assurance which was done by SGS India Private Limited. 
+2.	
+Does the entity have any sites/facilities identified as designated consumers (DCs) under the Performance, Achieve 
+and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT 
+scheme have been achieved. In case targets have not been achieved, provide the remedial action taken, if any.
+	
+Not Applicable.
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+FINANCIAL STATEMENTS
+STATUTORY REPORTS
+CORPORATE OVERVIEW
+249
+248
+Integrated Annual Report 2024-25
+Integrated Annual Report 2024-25
+3.	
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 2024-25
+(Current 
+Financial Year)
+FY 2023-24
+(Previous 
+Financial Year)
+Water withdrawal by source (in kilolitres)
+(i)	
+Surface water
+1,892
+N.A.
+(ii)	
+Groundwater
+0
+0
+(iii)	
+Third party water (Bottled)
+987
+5,564
+(iv)	 Seawater / desalinated water
+N.A.
+N.A.
+(v)	
+Others (Municipal Water Supply)
+4,155
+5,529
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+7,034
+11,093
+Total volume of water consumption (in kilolitres)
+7,034
+11,093
+Water intensity per rupee of turnover
+(Total water consumption/Revenue from operations)
+1.40
+2.45
+Water intensity per rupee of turnover adjusted for Purchasing Power Parity 
+(PPP)
+(Total water consumption/Revenue from operations adjusted for PPP)
+28.99
+54.85
+Water intensity in terms of physical Output
+N.A.
+N.A.
+Water intensity (optional) – the relevant metric may be selected by the entity
+N.A.
+2.77
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+Yes. The company on a voluntary basis has undertaken limited assurance which was done by SGS India Private Limited.
+4.	
+Provide the following details related to water discharged:
+Parameter
+FY 2024-25 
+(Current Financial 
+Year)
+FY 2023-24 
+(Previous 
+Financial Year)
+Water discharge by destination and level of treatment (in kilolitres)
+MLL’s operations are not water-intensive, 
+water usage is primarily limited to 
+domestic purposes. All newly developed 
+built-to-suit (BTS) facilities are equipped 
+with wastewater treatment systems, 
+and the treated wastewater is reused 
+within the premises.
+The Company is in the process of 
+implementing infrastructure to measure 
+total water usage at its BTS facilities.
+(i) 	
+To Surface water
+	
+- 	
+No treatment
+	
+- 	
+With treatment - please specify level of Treatment
+(ii) 	 To Groundwater
+	
+- 	
+No treatment
+	
+- 	
+With treatment - please specify level of treatment
+(iii) 	 To Seawater
+	
+- 	
+No treatment
+	
+- 	
+With treatment - please specify level of treatment
+(iv) 	 Sent to third-parties
+	
+- 	
+No treatment
+	
+- 	
+With treatment - please specify level of treatment
+(v) 	 Others
+	
+- 	
+No treatment
+	
+- 	
+With treatment - please specify level of treatment
+Total water discharged (in kilolitres)
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+Yes. The company on a voluntary basis has undertaken limited assurance which was done by SGS India Private Limited. 
+5.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation.
+	
+No.
+6.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please specify unit
+FY 2024-25
+(Current Financial 
+Year)
+FY 2023-24 
+(Previous Financial 
+Year)
+NOx
+At select state-of-the-art warehouses, monitoring measures have been 
+established. These include monitoring warehouse air circulation, DG 
+stack emissions, noise, Ilumination temperature, energy, and water usage, 
+alongside heat mapping of air emission movement from trucks and 
+personnel throughout the warehouse for operational control. Moreover, 
+the air emissions resulting from warehouse operations are insignificant. 
+SOx
+Particulate matter (PM)
+Persistent organic pollutants (POP)
+Volatile organic compounds (VOC)
+Hazardous air pollutants (HAP)
+Others – please specify
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+Yes. The company on a voluntary basis has undertaken limited assurance which was done by SGS India Private Limited.
+7.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following 
+format:
+Parameter
+Unit
+FY 2024-25
+(Current 
+Financial Year)
+FY 2023-24
+(Previous 
+Financial Year)
+Total Scope 1 emissions (Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes 
+of CO2 
+equivalent
+2,835
+365
+Total Scope 2 emissions (Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes 
+of CO2 
+equivalent
+4,585
+6,117
+Total Scope 1 and Scope 2 emission intensity per rupee of 
+turnover (Total Scope 1 and Scope 2 GHG emissions / Revenue 
+from operations)
+(tCO2e/INR 
+Cr)
+1.48
+1.43
+Total Scope 1 and Scope 2 emission intensity per rupee of 
+turnover adjusted for Purchasing Power Parity (PPP) (Total 
+Scope 1 and Scope 2 GHG emissions / Revenue from operations 
+adjusted for PPP)
+30.58
+32.05
+Total Scope 1 and Scope 2 emission intensity in terms of 
+physical output
+-
+N.A.
+N.A.
+Total Scope 1 and Scope 2 emission intensity (optional) – the 
+relevant metric may be selected by the entity
+(tCO2e/FTE)
+N.A.
+1.618
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+Yes. The company on a voluntary basis has undertaken limited assurance which was done by SGS India Private Limited. 
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+FINANCIAL STATEMENTS
+STATUTORY REPORTS
+CORPORATE OVERVIEW
+251
+250
+Integrated Annual Report 2024-25
+Integrated Annual Report 2024-25
+8.	
+Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details.
+	
+Yes. MLL is committed to achieving carbon neutrality by 2040. The Company’s strategy to reach this goal is guided by 
+the SBTi commitment, which focusses on enhancing energy productivity, increasing the share of the renewable energy 
+mix, refining emissions targets, and avoiding carbon emissions. MLL has aligned its targets with SBTi for reducing GHG 
+emissions. Key measures include:
+	
+a.	
+Optimising energy use by replacing conventional lighting and equipment with advanced energy-efficient technology 
+and maximising natural light during the day. 
+	
+b.	
+Deploying EVs to electrify last-mile delivery and mobility operations.
+	
+c.	
+Offering dedicated low-carbon solutions to help reduce customers’ carbon footprints.
+	
+d.	
+Installing solar photovoltaic (PV) systems at BTS warehouses.
+	
+e.	
+Evaluating a fuel shift from diesel to alternative fuels like CNG, biodiesel, and LNG.
+	
+f.	
+Transitioning transport modes from road to rail.
+	
+g.	
+Implementing large-scale afforestation initiatives.
+9.	
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2024-25
+(Current 
+Financial Year)
+FY 2023-24
+(Previous 
+Financial Year)
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+N.A.
+N.A.
+E-waste (B)
+0.65
+N.A.
+Bio-medical waste (C)
+N.A.
+N.A.
+Construction and demolition waste (D)
+N.A.
+N.A.
+Battery waste (E)
+N.A.
+N.A.
+Radioactive waste (F)
+N.A.
+N.A.
+Other Hazardous waste. Please specify, if any. (G)
+N.A.
+N.A.
+Other Non-hazardous waste generated (H). Please specify, if any.
+(Break-up by composition i.e. by materials relevant to the sector)
+N.A.
+N.A.
+Total (A + B + C + D + E + F + G + H)
+0.65
+N.A.
+Parameter
+FY 2024-25
+(Current 
+Financial Year)
+FY 2023-24
+(Previous 
+Financial Year)
+Waste intensity per rupee of turnover
+(Total waste generated/Revenue from operations)
+0.00013
+N.A.
+Waste intensity per rupee of turnover adjusted for Purchasing Power Parity 
+(PPP)
+(Total waste generated/Revenue from operations adjusted for PPP)
+0.0027
+N.A.
+Waste intensity in terms of physical output
+N.A.
+N.A.
+Waste intensity (optional) – the relevant metric may be selected by the entity
+N.A.
+N.A.
+Parameter
+FY 2024-25
+(Current 
+Financial Year)
+FY 2023-24
+(Previous 
+Financial Year)
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery 
+operations (in metric tonnes)
+Category of waste*
+(i) Recycled
+0.65
+N.A.
+(ii) Re-used
+N.A.
+N.A.
+(iii) Other recovery operations
+N.A.
+N.A.
+Total
+N.A.
+N.A.
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i) Incineration
+N.A.
+N.A.
+(ii) Landfilling
+N.A.
+N.A.
+(iii) Other disposal operations
+N.A.
+N.A.
+Total
+N.A.
+N.A.
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+Yes. The company on a voluntary basis has undertaken limited assurance which was done by SGS India Private Limited. 
+	
+*	
+MLL focusses on warehousing and logistics solutions and does not engage in manufacturing processes involving hazardous or toxic 
+chemicals. The company’s warehouse operations primarily handle products such as groceries, furniture, and electronic appliances. 
+Although the core activities do not involve chemical use, maintenance and servicing of equipment generate some used oil. The 
+responsibility for compliant disposal and recycling of this regulated waste is outsourced to a certified and licensed servicing agency.
+10.	 Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by 
+your company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices 
+adopted to manage such wastes.
+	
+As a service-oriented company, MLL primarily offers customised logistics solutions tailored to a diverse range of industries. 
+The nature of the Company’s operations is not waste intensive, and the exposure to hazardous and toxic chemicals 
+remains minimal.
+11.	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental 
+approvals/clearances are required, please specify details in the following format:
+S. No.
+Location of 
+operations/offices
+Type of 
+operations
+Whether the conditions of environmental approval/clearance are 
+being complied with? (Y/N) If no, the reasons thereof and corrective 
+action taken, if any.
+Not applicable. MLL operates facilities and offices across five Indian states, none of which are located in ecologically 
+sensitive areas.
+12.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the 
+current financial year:
+Name and brief 
+details of project
+EIA 
+Notification 
+No.
+Date
+Whether conducted 
+by independent 
+external agency 
+(Yes/No)
+Results communicated 
+in public domain 
+(Yes/No)
+Relevant Web link
+Not Applicable.
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+FINANCIAL STATEMENTS
+STATUTORY REPORTS
+CORPORATE OVERVIEW
+253
+252
+Integrated Annual Report 2024-25
+Integrated Annual Report 2024-25
+13.	 Is the entity compliant with the applicable environmental law/regulations/guidelines in India; such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act 
+and rules thereunder (Y/N).
+	
+Yes, as the Company operates as a service provider under an asset-light model, the consent to establish or operate is 
+applicable to it.
+	
+If not, provide details of all such non-compliances, in the following format:
+S. No.
+Specify the law/
+regulation/guidelines 
+which was not complied 
+with
+Provide details of the 
+non-compliance
+Any fines/penalties/
+action taken by 
+regulatory agencies 
+such as pollution 
+control boards or by 
+courts
+Corrective action 
+taken, if any
+Not Applicable.
+LEADERSHIP INDICATORS
+1.	
+Water withdrawal, consumption and discharge in areas of water stress (in kilolitres):
+	
+For each facility/plant located in areas of water stress, provide the following information:
+	
+(i)	
+Name of the area
+	
+(ii)	
+Nature of operations
+	
+(iii)	
+Water withdrawal, consumption and discharge in the following format:
+Parameter
+FY 2024-25 
+(Current
+Financial Year)
+FY 2023-24 
+(Previous 
+Financial Year)
+Water withdrawal by source (in kilolitres)
+(i) 	
+Surface water
+0
+0
+(ii) 	 Groundwater
+0
+0
+(iii) 	 Third party water
+0
+0
+(iv) 	 Seawater / desalinated water
+0
+0
+(v) 	 Others
+0
+0
+Total volume of water withdrawal (in kilolitres)
+0
+0
+Total volume of water consumption (in kilolitres)
+0
+0
+Water intensity per rupee of turnover (Water consumed / turnover)
+0
+0
+Water intensity (optional) – the relevant metric may be selected by the 
+entity
+0
+0
+Parameter
+FY 2024-25 
+(Current
+Financial Year)
+FY 2023-24 
+(Previous 
+Financial Year)
+Water discharge by destination and level of treatment (in kilolitres)
+(i) 	
+Into Surface water
+0
+0
+	
+- 	
+No treatment
+0
+0
+	
+- 	
+With treatment - please specify level of treatment
+0
+0
+(ii) 	 Into Groundwater
+0
+0
+	
+- 	
+No treatment
+0
+0
+	
+- 	
+With treatment - please specify level of treatment
+0
+0
+(iii) 	 Into Seawater
+0
+0
+	
+- 	
+No treatment
+0
+0
+	
+- 	
+With treatment - please specify level of treatment
+0
+0
+(iv) 	 Sent to third-parties
+0
+0
+	
+- 	
+No treatment
+0
+0
+	
+- 	
+With treatment - please specify level of treatment
+0
+0
+(v) 	 Others
+0
+0
+	
+- 	
+No treatment
+0
+0
+	
+- 	
+With treatment - please specify level of treatment
+0
+0
+Total water discharged (in kilolitres)
+0
+0
+	
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency.
+	
+	
+Yes. The company on a voluntary basis has undertaken limited assurance which was done by SGS India Private Limited. 
+2.	
+Please provide details of total Scope 3 emissions & its intensity, in the following format:
+Parameter
+Unit
+FY 2024-25
+(Current 
+Financial Year)
+FY 2023-24
+(Previous 
+Financial Year)
+Total Scope 3 emissions (Break-up of the GHG into 
+CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of CO2 
+equivalent
+8,63,254
+7,27,332
+Total Scope 3 emissions per rupee of turnover
+tCO2e/INR Cr
+172.22
+160.70
+Total Scope 3 emission intensity (optional) – the 
+relevant metric may be selected by the entity
+gCO2e/tonne-km
+187.8
+168.6
+	
+* Categories considered for reporting are Category 4, Category 6 , Category 7 and Category 9.
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+Yes. The company on a voluntary basis has undertaken limited assurance which was done by SGS India Private Limited. 
+3.	
+With respect to the ecologically sensitive areas reported at Question 11 of Essential Indicators above, provide 
+details of significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and 
+remediation activities.
+	
+Not applicable.
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+FINANCIAL STATEMENTS
+STATUTORY REPORTS
+CORPORATE OVERVIEW
+255
+254
+Integrated Annual Report 2024-25
+Integrated Annual Report 2024-25
+4.	
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource 
+efficiency, or reduce impact due to emissions/effluent discharge/waste generated, please provide details of the 
+same as well as outcome of such initiatives, as per the following format:
+Sr. No.
+Initiative 
+undertaken
+Details of the initiative (Web-link, 
+if any, may be provided along-with 
+summary)
+Outcome of the initiative
+Refer to the Annexure VI on Conservation of Energy, Technology Absorption, and Foreign Exchange Earnings & Outgo in 
+the Board’s Report of the Company, which forms part of the Integrated Annual Report.
+5.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/web link.
+The Mahindra Logistics – India Business Continuity Plan (BCP), hereafter referred to as ‘the Plan’, outlines the necessary 
+steps for recovering defined critical services in the event of a disaster or emergency.
+The Plan is intended as a dynamic, evolving document. As MLL integrates more advanced and complex applications and 
+technologies, continuous updates are essential. Any changes in the scope or depth of services provided must be reflected 
+within the Plan to ensure continued relevance.
+Its structure is designed to minimise the confusion typically associated with crises and ensure that the required 
+information and resources for recovery are readily available. By identifying key requirements and documenting roles and 
+responsibilities in advance, the Plan provides organisational structure and clearly defined teams throughout the recovery 
+process. Establishing priorities for actions and events beforehand improves decision-making and supports team members 
+who may need to assume unfamiliar responsibilities during a high-pressure situation.
+The Plan also outlines anticipated recovery activities to assist MLL employees in preparing and planning ahead. This clarity 
+supports realistic expectations and strengthens the collaborative effort required for effective recovery.
+A disaster or emergency refers to an unexpected man-made or natural event that affects normal operations and may 
+result in severe damage to business operations or personnel unless timely actions are taken. This Plan serves as a 
+guide to ensure the continuity of MLL’s operations and its customers’ automated applications by providing emergency 
+management and recovery strategies until critical services are restored to near-normal levels.
+	
+Purpose: The primary objective of this document is to offer a predefined framework of actions for MLL employees to 
+respond effectively during disasters or emergencies. It is designed to empower the Emergency Response Team in managing 
+both identified and unforeseen threats to operations. Additionally, it outlines the responsibilities of the Management Team 
+and relevant departmental or sectional heads in supporting business continuity efforts.
+6.	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What 
+mitigation or adaptation measures have been taken by the entity in this regard.
+	
+Transportation is the core activity of MLL’s business, and given its asset-light model, the Company relies heavily on value 
+chain partners for the assets required for transport. MLL recognises the environmental impact of these operations, 
+particularly in terms of emissions. In response, its value chain partners have initiated measures such as integrating 
+EVs into their fleets, transitioning from diesel to CNG, shifting transportation modes from road to rail, and engaging in 
+tree plantation drives, among others. Additionally, several climate change awareness sessions and workshops have been 
+conducted with the involvement of BAs.
+7.	
+Percentage of value chain partners (by value of business done with such partners) that were assessed for 
+environmental impacts.
+	
+Business Associates are implementing sustainability-related projects at their respective facilities and regularly sharing 
+updates, which are reported through the Internal BA Newsletter. These initiatives are also presented to other BAs 
+during site visits, with the aim of encouraging similar efforts. However, no environmental impact assessments have been 
+conducted for these partners.
+8.	
+How many Green Credits have been generated or procured:
+	
+a.	
+By the listed entity
+	
+	
+Not Applicable.
+	
+b.	
+By the top ten (in terms of value of purchases and sales, respectively) value chain partners”.
+	
+	
+Not Applicable.
+PRINCIPLE 7: BUSINESSES, WHEN ENGAGING IN INFLUENCING PUBLIC AND REGULATORY POLICY, SHOULD DO SO IN 
+A MANNER THAT IS RESPONSIBLE AND TRANSPARENT.
+ESSENTIAL INDICATORS
+1.	
+a.	
+Number of affiliations with trade and industry chambers/associations.
+	
+	
+MLL engages with multiple trade and industry chambers and associations like FICCI, ASSOCHAM, SIAM, ACMA, and 
+the Logistics Skills Council and holds membership in two major industrial bodies.
+	
+b.	
+List the top 10 trade and industry chambers/associations (determined based on the total members of such body) 
+the entity is a member of/affiliated to.
+S. No.
+Name of the trade and industry chambers/
+associations
+Reach of trade and industry chambers/
+associations (State/National)
+1
+Confederation of Indian Industry (CII)
+International
+2
+CII Institute of Logistics – MOVE
+National
+2.	
+Provide details of corrective action taken or underway on any issues related to anti- competitive conduct by the 
+entity, based on adverse orders from regulatory authorities.
+Name of authority
+Brief of the case
+Corrective action taken
+Not Applicable.
+LEADERSHIP INDICATORS
+1.	
+Details of public policy positions advocated by the entity:
+S. No.
+Public policy 
+advocated
+Method resorted for such 
+advocacy
+Whether 
+information 
+available in 
+public domain? 
+(Yes/No)
+Frequency of 
+review by Board 
+(Annually/ Half 
+Yearly/Quarterly/
+Others – please 
+specify)
+Web link, if 
+available
+1
+National Logistics 
+Policy (NLP)
+MLL 
+participates 
+in 
+industry 
+forums, 
+working 
+groups, 
+and 
+policy consultations with CII.
+Yes
+Annually
+-
+2
+Sustainability 
+framework for 
+logistics
+MLL is collaborating with CII 
+IL to create a sustainability 
+framework, which is currently in 
+the discussion stage.
+No
+Annually
+-
+3
+Skilling & 
+workforce 
+development
+MLL has partnered with CII IL to 
+facilitate skilling initiatives for all 
+blue- and grey-collar employees.
+Yes
+Annually
+-
+4
+Skill development 
+& workforce 
+development
+In partnership with the Logistics 
+Skill 
+Council, 
+MLL 
+launched 
+its first Community Centre of 
+Excellence (CCoE) in Bhiwandi, 
+with the objective of addressing 
+the shortage of skilled workers in 
+the logistics sector.
+Yes
+Annually
+-
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+FINANCIAL STATEMENTS
+STATUTORY REPORTS
+CORPORATE OVERVIEW
+257
+256
+Integrated Annual Report 2024-25
+Integrated Annual Report 2024-25
+PRINCIPLE 8: BUSINESSES SHOULD PROMOTE INCLUSIVE GROWTH AND EQUITABLE DEVELOPMENT.
+ESSENTIAL INDICATORS 
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the 
+current financial year.
+Name and brief 
+details of project
+SIA Notification 
+No.
+Date of 
+notification
+Whether 
+conducted by 
+independent 
+external agency 
+(Yes/No)
+Results 
+communicated in	
+public domain (Yes/
+No)
+Relevant Web 
+Link
+All CSR projects are 
+categorised under 
+building communities, 
+skill development, 
+and restoring the 
+environment (tree 
+plantation).
+-
+-
+Yes
+Yes, the Impact 
+Assessment Report is 
+placed on the website 
+of the Company and 
+can be accessed at 
+the weblink: https://
+mahindralogistics.
+com/wp-content/
+uploads/2025/06/
+CSR_Impact_
+Assessment_Report.
+pdf
+-
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by 
+your entity, in the following format:
+S. No.
+Name of Project 
+for which R&R is 
+ongoing
+State
+District
+No. of Project 
+Affected Families 
+(PAFs)
+% of PAFs 
+covered by R&R
+Amounts paid 
+to PAFs in the 
+FY (In INR)
+Not Applicable.
+3.	
+Describe the mechanisms to receive and redress grievances of the community.
+	
+MLL maintains strong connections with the urban and rural communities surrounding its operations. The Company has 
+listening mechanisms in place to understand community needs and seeks to address them in alignment with its CSR 
+policy and management principles. Periodic needs assessments are conducted within these communities, enabling the 
+design of programmes with more effective community outreach.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY 2024-25
+(Current 
+Financial Year)
+FY 2023-24
+(Previous 
+Financial Year)
+Directly sourced from MSMEs/ small producers
+69.26%
+49%
+Directly from within India
+100%
+100%
+5. 	
+Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers employed 
+on a permanent or non-permanent/on contract basis) in the following locations, as % of total wage cost
+Location
+FY 2024-25
+(Current 
+Financial Year)
+FY 2023-24
+(Previous 
+Financial Year)
+Rural
+0%
+Not available 
+under the 
+specified 
+classification.
+Semi-urban
+11%
+Urban
+12%
+Metropolitan
+77%
+	
+(Place to be categorised as per RBI Classification System - rural/semi-urban/urban/metropolitan)
+LEADERSHIP INDICATORS
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments 
+(Reference: Question 1 of Essential Indicators above):
+Details of negative social impact identified
+Corrective action taken
+Not Applicable.
+2.	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as 
+identified by government bodies:
+S. No.
+State
+Aspirational District
+Amount spent 
+(In INR)
+1
+Uttarakhand
+Haridwar
+27,359
+3.	
+(a)	
+Do you have a preferential procurement policy where you give preference to purchase from suppliers 
+comprising marginalised/vulnerable groups? (Yes/No)
+	
+	
+No. MLL has planned to develop a responsible supply chain management policy and implement it across its business 
+verticals.
+	
+(b)	
+From which marginalised/vulnerable groups do you procure?
+	
+	
+Not Applicable.
+	
+(c)	
+What percentage of total procurement (by value) does it constitute?
+	
+	
+Not Applicable.
+4.	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the 
+current financial year), based on traditional knowledge:
+S. No.
+Intellectual Property 
+based on traditional 
+knowledge
+Owned/Acquired
+(Yes/No)
+Benefit shared (Yes/No)
+Basis of calculating 
+benefit share
+Not Applicable.
+5.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes 
+wherein usage of traditional knowledge is involved.
+Name of authority
+Brief of the Case
+Corrective action taken
+Not Applicable.
+6.	
+Details of beneficiaries of CSR Projects:
+S. No.
+CSR Project
+No. of persons benefitted 
+from CSR Projects
+% of beneficiaries 
+from vulnerable and 
+marginalised groups
+1
+Building Communities
+1,02,397
+100%
+2
+Educational Support: Nanhi Kali
+1,183
+100%
+3
+Skill Development
+341
+100%
+4
+Restoring Environment
+4,299 (no. of saplings)
+-
+	
+*	
+Women, girls, differently abled individuals, and members of the LGBTQ+ community are identified as the primary vulnerable groups.
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+FINANCIAL STATEMENTS
+STATUTORY REPORTS
+CORPORATE OVERVIEW
+259
+258
+Integrated Annual Report 2024-25
+Integrated Annual Report 2024-25
+PRINCIPLE 9: BUSINESSES SHOULD ENGAGE WITH AND PROVIDE VALUE TO THEIR CONSUMERS IN A RESPONSIBLE 
+MANNER.
+ESSENTIAL INDICATORS
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+The Company prioritises customer satisfaction through a structured, transparent, and data-driven approach to addressing 
+consumer complaints and feedback. MLL’s commitment to continuous improvement is reflected in the implementation of 
+robust mechanisms designed to capture, track, and resolve customer concerns efficiently.
+	
+The LogiPace Customer Complaint Management Portal, launched in May 2024, serves as a centralised platform to log, 
+track, and resolve customer complaints efficiently. It enables both customers and internal teams to raise tickets, ensuring 
+structured grievance redressal and service improvement.
+	
+The CSI (Customer Satisfaction Index) Survey is conducted periodically to capture customer feedback on service 
+quality, identify pain points, and highlight areas for improvement.
+2.	
+Turnover of products and/services as a percentage of turnover from all products/service that carry information 
+about:
+As a percentage of total turnover
+Environmental and social parameters relevant to the 
+product
+Not Applicable.
+Safe and responsible usage
+Recycling and/or safe disposal
+3.	
+Number of consumer complaints in respect of the following:
+FY 2024-25
+(Current Financial Year)
+Remarks
+FY 2023-24
+(Previous Financial Year)
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution 
+at end of 
+year
+Received 
+during the 
+year
+Pending 
+resolution 
+at end of 
+year
+Data privacy
+NIL
+NIL
+Advertising
+Cyber-security
+Delivery of essential services
+Restrictive Trade Practices
+Unfair Trade Practices
+Other
+4.	
+Details of instances of product recalls on account of safety issues:
+Number
+Reasons for recall
+Voluntary recalls
+Not Applicable
+Forced recalls
+5.	
+Does the entity have a framework/policy on cyber security and risks related to data privacy? (Yes/No)
+	
+Yes. MLL manages information security in accordance with the ISO 27001 standard.
+	
+If available, provide a web-link of the policy.
+	
+The Policy is available on the Company’s intranet.
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of 
+essential services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; 
+penalty/action taken by regulatory authorities on safety of products/services.
+	
+The Company did not encounter any issues related to advertising, delivery of essential services, cybersecurity, or customer 
+data privacy. To ensure organisational cyber safety, a secure infrastructure is maintained to safeguard the confidentiality, 
+integrity, and availability of business-critical data. This infrastructure covers multiple layers, including data security, 
+application security, endpoint security, network security, and perimeter security. 
+	
+Advanced security tools and solutions like next-generation firewalls, border routers, intrusion detection and prevention 
+systems (IDS/IPS), anti-malware protection, data loss prevention (DLP), encryption, and dual-factor authentication, among 
+others at each layer, to maintain the highest levels of security.  Additionally, initiatives have been undertaken to enhance 
+cyber awareness among end-users, helping them understand the nature of cybersecurity threats, the risks they pose to 
+organisational security, and the appropriate response matters.
+7.	
+Provide the following information relating to data breaches:
+	
+a.	
+Number of instances of data breaches
+	
+	
+Nil.
+	
+b.	
+Percentage of data breaches involving personally identifiable information of customers
+	
+	
+0%
+	
+c.	
+Impact, if any, of the data breaches
+	
+	
+None.
+LEADERSHIP INDICATORS
+1.	
+Channels/platforms where information on products and services of the entity can be accessed (provide web link, 
+if available).
+	
+Available at: https://mahindralogistics.com/ 
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.
+	
+Available at: https://mahindralogistics.com/ 
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.
+	
+Please refer to Principle 9, Question 6 under the Leadership Indicators sections of this report.
+4.	
+Does the entity display product information on the product over and above what is mandated as per local laws? 
+(Yes/No/Not Applicable) If yes, provide details in brief.
+	
+Not applicable. As the Company is not engaged in the manufacturing of products, aspects related to product information 
+display do not apply.
+	
+Did your entity carry out any survey with regard to consumer satisfaction relating to the major products/services 
+of the entity, significant locations of operation of the entity or the entity as a whole? (Yes/No)
+	
+Yes. The CSI (Customer Satisfaction Index) Survey is a periodic assessment that captures customer feedback on service 
+quality, identifies pain points, and highlights areas for improvement.
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+FINANCIAL STATEMENTS
+STATUTORY REPORTS
+CORPORATE OVERVIEW
+261
+260
+Integrated Annual Report 2024-25
+Integrated Annual Report 2024-25

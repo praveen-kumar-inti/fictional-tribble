@@ -1,0 +1,3551 @@
+70
+SECTION A: GENERAL DISCLOSURES
+I. 	
+Details of the listed entity 
+S. No. Details of Listed Entity 
+1
+Corporate Identity Number (CIN) of the Listed Entity
+L74899HR1981PLC107123 
+2
+Name of the Listed Entity
+NIIT Limited
+3
+Year of incorporation
+1981
+4
+Registered office address
+Plot No. 85, Sector - 32 Institutional Area, Gurgaon – 122001, 
+Haryana, India
+5
+Corporate Address
+Plot No. 85, Sector - 32 Institutional Area, Gurgaon – 122001, 
+Haryana, India
+6
+E-mail
+investors@niit.com
+7
+Telephone
++911244293000
+8
+Website
+www.niit.com
+9
+Financial year for which reporting is being done
+1st April 2022 to 31st March 2023
+10
+Name of the Stock Exchange(s) where shares are listed
+BSE Limited (BSE) and National Stock Exchange of India Limited 
+(NSE)
+11
+ Paid-up Capital
+NIIT as on 31st March 2023 is Rs. 269,128,720 comprising of 
+134,564,360 shares of Rs. 2/- each.
+12
+Name and contact details (telephone, email address) of the 
+person who may be contacted in case of any queries on the 
+BRSR report
+Mr. Jaydip Gupta, Senior Vice President, Audit and Assurance, 
+NIIT-ESG@niit.com
+13
+Reporting boundary are the disclosures under this report 
+made on a standalone basis (i.e., only for the entity) or on 
+a consolidated basis (i.e., for the entity and all the entities 
+which form a part of its consolidated financial statements, 
+taken together).
+NIIT Limited and its subsidiaries in India
+II. 	 List of Products/Services
+14.	 Details of business activities (accounting for 90% of the turnover):
+S. 
+No.
+Description of Main 
+Activity
+Description of Business Activity
+% Of Turnover of 
+the entity
+1
+Other Education Delivery
+NIIT offers long & short-term retail and enterprise training programs 
+with courses ranging from software & technology, data science, 
+banking & finance, marketing, financial technology, and others 
+emerging areas.
+100%
+15.	 Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. 
+No.
+Product/Service
+NIC Code
+% Of total Turnover 
+contributed
+1
+ Other Education Delivery
+854
+100%
+III. 	 Operations
+16.	 Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of offices
+Total
+National
+NA
+11
+11
+International
+NA
+03
+03
+17.	 Markets served by the entity:
+a. 	 Number of locations
+Locations
+Number
+National (Nos. of States and UTs)
+28 states 8 union territories
+International (Markets Served)
+14
+b. 	 What is the contribution of exports as a percentage of the total turnover of the entity? 
+	
+4%
+c. 	 A brief on types of customers 
+	
+NIIT’s customers include early career aspirants and employed professionals. The need-based education 
+delivery caters learners across age groups through instructor led online and in-person trainings. NIIT’s training 
+offerings are tailored and custom-made for its enterprise customers as per the learning outcome set by the 
+clients. Based on the needs assessment, NIIT charts out planned training roadmaps for its customer. For the 
+retail business, NIIT constantly evaluates market needs need based on employment opportunities and designs 
+career programs enabling placement support to its learners.
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT
+71
+IV. 	 Employees
+18.	 Details as at the end of Financial Year:
+a.	
+Employees and workers (including differently abled):
+S. No.
+Particulars
+Total
+Male
+Female
+ 
+ 
+(A)
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+Employees
+1.
+Permanent (D)
+962
+667
+69%
+295
+31%
+2.
+Other than Permanent (E)
+214
+152
+71%
+62
+29%
+3.
+Total employees (D + E)
+1176
+819
+70%
+357
+30%
+Workers
+4.
+Permanent (F)
+-
+-
+-
+-
+-
+5.
+Other than Permanent (G)
+54
+45
+83%
+9
+17%
+6.
+Total workers (F+G)
+54
+45
+83%
+9
+17%
+b.	
+Differently abled Employees and workers:
+S. No.
+ 
+Particulars
+ 
+Total
+Male
+Female
+(A)
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+Employees
+ 
+ 
+ 
+ 
+ 
+1.
+Permanent (D)
+0
+0
+0%
+0
+0%
+2.
+Other than Permanent (E)
+0
+0
+0%
+0
+0%
+3.
+Total differently abled employees (D + E)
+0
+0
+0%
+0
+0%
+Workers
+ 
+ 
+ 
+ 
+ 
+4.
+Permanent (F)
+0
+0
+0%
+0
+0%
+5.
+Other than permanent (G)
+0
+0
+0%
+0
+0%
+6.
+ Total differently abled workers (F + G)
+0
+0
+0%
+0
+0%
+19.	 Participation/Inclusion/Representation of women
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+12 
+4
+33%
+Key Management Personnel 
+5 
+-
+-
+20.	 Turnover rate for permanent employees and workers (Disclose for past 3 years)
+ 
+ 
+FY 2022-23
+FY 2021-2022
+FY 2020-2021
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+17%
+19%
+18%
+21%
+25%
+23%
+13%
+15%
+14%
+Permanent Workers
+NIL
+NIL
+-
+NIL
+NIL
+-
+NIL
+NIL
+-
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT (Contd.)
+72
+V. 	 Holding, Subsidiary and Associate Companies (including joint ventures)
+21.	 (a) 	 Names of holding / subsidiary* / associate companies / joint ventures
+S. No.
+ Name of the holding/
+subsidiary / associate 
+companies / joint ventures (A) 
+Indicate whether 
+holding/ subsidiary/ 
+Associate/ Joint Venture
+ % Of shares 
+held by listed 
+entity
+Does the entity indicated 
+at column A, participate in 
+the Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+Indian Subsidiaries
+1
+NIIT Institute of Finance Banking 
+and Insurance Training Limited
+Subsidiary
+82.72%
+Yes
+2
+NIIT Institute of Process Excellence 
+Limited 
+Subsidiary
+(Under Liquidation)
+100%
+Yes
+3
+RPS Consulting Private Limited
+Subsidiary
+90% 
+Yes
+Foreign Subsidiaries
+4
+NIIT GC Limited, Mauritius 
+Subsidiary
+100%
+Yes
+5
+NIIT China (Shanghai) Limited 
+Subsidiary
+Step down
+Yes
+6
+Chongqing An Dao Education
+Consulting Limited, China
+Subsidiary
+65%
+Step down
+Yes
+7
+Chengmai NIIT Information 
+Technology Company Limited, 
+China
+Subsidiary
+Step down
+Yes
+8
+Guizhou NIIT information 
+Technology Consulting Co., 
+Limited, China
+Subsidiary
+Step down
+Yes
+9
+NIIT (Guizhou) Education 
+Technology Co., Limited, China
+Subsidiary
+Step down
+Yes
+10
+NingXia NIIT Education Technology 
+Company Limited, China
+Subsidiary
+Step down
+Yes
+11
+PT NIIT Indonesia.
+Subsidiary
+(Under Liquidation)
+100%
+Yes
+	
+*After Composite Scheme of Arrangement. 
+VI.	 CSR Details
+22.	 (i) 	 Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No): Yes
+(ii) 	 Turnover (in Rs.): INR 1,574 million
+(iii) 	Net worth (in Rs.): INR 4,631 million
+VII.	 Transparency and Disclosures Compliances
+23.	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on 
+Responsible Business Conduct:
+Stakeholder group 
+from whom the 
+complaint is received
+Grievance Redressal 
+Mechanism in Place 
+(Yes/No)
+(If yes, then provide web-
+link for the grievance 
+redress policy)
+ FY 2022-23
+ FY 2021-22
+Number of 
+complaints filed 
+during the year
+Number of 
+complaints 
+pending 
+resolution at the 
+close of the year
+Remark
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+the close of 
+the year
+Remark
+Investors (other than 
+shareholders)
+Refer below table “Policies 
+associated with BRSR 
+principle” in Section B
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Shareholders
+5
+0
+NIL
+80
+0
+NIL
+Employees and workers
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Value Chain Partners
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Customers
+Yes. https://www.niit.com/
+india/term-and-condition/
+PNFSE
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT (Contd.)
+73
+24.	 Overview of the entity’s material responsible business conduct issues. 
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or 
+mitigate the risk along-with its financial implications, as per the following format
+S. 
+No.
+Material issue 
+identified
+(R/O)
+Rationale
+In case of risk,
+approach to adapt or 
+mitigate
+Financial 
+implications 
+of the risk or 
+opportunity
+1
+Climate Change 
+and Energy 
+Management
+Opportunity
+Climate change has resulted in virtual and 
+hybrid working models, propelling the need for 
+NIIT’s online training modules. Considering we 
+are already in the space of transition to virtual 
+and hybrid work models; climate change poses 
+a valuable advantage to our business
+-
+Positive
+2
+Talent Attraction 
+and Development
+Opportunity
+Being a talent development corporation, 
+developing our own human capital is a key 
+strategic imperative for us at NIIT. We provide a 
+strong learning culture within the organization. 
+We also place a disproportionate focus and 
+continuous investment in growing a pool of 
+leaders. We have executive development 
+programs running for all levels of the company: 
+for individual contributors, managers and 
+leaders. 
+We employ technology solutions to improve 
+employee experience, eg. we are implementing 
+Success Factors; we have an AI BOT for 
+engagement surveys; and we use an online 
+portal for wellness initiatives. 
+-
+Positive
+3
+Employee health 
+and safety
+Opportunity
+Poor work environments and unsafe practices 
+can deter employee retention and discourage 
+workplace efficiency or productivity. Lost 
+time injuries create loss of productivity and 
+mental dissatisfaction of employees. Given the 
+COVID-19 pandemic, employee demands have 
+shifted to mental and emotional wellness rather 
+than only that of physical. 
+Employee well-being has been an important 
+focus area for NIIT. When COVID first impacted 
+us, we already had in place a wellness portal 
+called Round Glass which was used for various 
+health and wellness programs. We also had a 
+panel of experts to take care of mental wellness. 
+During the COVID period, we took care of 
+the complete expenses related to treatment 
+for employees and for their dependents. We 
+also extended monthly monetary support, and 
+educational support to the children of bereaved 
+families. 
+Our online wellness portal has more than 50% 
+of employees participating in webinars on areas 
+related to health and wellbeing. We also drive 
+health and wellness initiatives through a tie 
+up with Cultfit, and provide free sponsorship 
+of membership to our employees. We take 
+continuous feedback from NIITians through 
+engagement surveys and feedback to design 
+and incorporate newer initiatives in the area of 
+wellbeing.
+-
+Positive
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT (Contd.)
+74
+S. 
+No.
+Material issue 
+identified
+(R/O)
+Rationale
+In case of risk,
+approach to adapt or 
+mitigate
+Financial 
+implications 
+of the risk or 
+opportunity
+4
+Data Privacy and 
+Cyber Security
+Risk
+Risks from cyber threats which may arise are 
+malware attack, social engineering attack and 
+software supply chain attacks. There is a high 
+risk of theft of sensitive customer data, which is 
+not only a data privacy risk but also reputational 
+risk to the organization.
+NIIT 
+has 
+multiple 
+controls in place for 
+example 
+SOD, 
+MFA, 
+disk 
+encryption 
+and 
+disablement of USB to 
+ensure protection from 
+IT risks and data privacy. 
+We have a stringent 
+cyber security and data 
+privacy policy to ensure 
+timely evasion of threats 
+and 
+management 
+of 
+data, 
+to 
+deter 
+any 
+risks that emerge from 
+data privacy and cyber 
+security. 
+Negative
+5
+Business Ethics 
+and Corporate 
+Governance
+Opportunity
+Business ethics are cornerstones of ensuring 
+transparent 
+and 
+sustainable 
+corporate 
+governance frameworks. Upholding policies 
+such as code of conduct and anti-bribery & 
+corruption and good-governance measures to 
+effectively implement stringent actions, among 
+others tantamount to strong business ethics. 
+When such business ethics are not complied 
+with it often leads to significant reputational 
+damage.
+NIIT has a Code of Conduct in place to ensure 
+compliance with standards of business practices 
+and legal requirements for all its employees and 
+workers. We also have comprehensive anti-
+bribery and anti-corruption policy and measures 
+to ensure compliance and management of risks. 
+Policies such as whistleblower, related party 
+transactions, etc. are also existent and material 
+to business.
+-
+Positive
+6
+Supply chain 
+Management
+Risk
+Supply chain management affects product 
+and service quality, delivery, costs, customer 
+experience 
+and 
+ultimately, 
+profitability. 
+Increased supply chain disruptions at the wake 
+of geopolitical transitions, and crises such as the 
+pandemic result in loss of business continuity. 
+Lack of inclusive supply chains creates vacuum 
+at the time of a crises and a robust supply chain 
+includes local sourcing, also boosting local 
+economies and disadvantaged communities.
+The organization operation depends significantly 
+on value chain partner and it maintains a 
+very wide base of such partners globally with 
+ability to sources at very short interval to meet 
+customer demands . The value proposition to 
+its enterprise customers that the organization 
+provides is the ability to meet certain surges of 
+demand while, on the other hand, not requiring 
+customers to have any fixed commitment.
+-
+Positive
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT (Contd.)
+75
+S. 
+No.
+Material issue 
+identified
+(R/O)
+Rationale
+In case of risk,
+approach to adapt or 
+mitigate
+Financial 
+implications 
+of the risk or 
+opportunity
+7
+Customer 
+Concentration
+Opportunity
+NIIT has grown to earn the trust of many Fortune 
+1000 and Global 500 companies in over 30 
+countries over the past 41 years. Trusted by the 
+world’s leading companies, NIIT provides high-
+impact managed learning solutions that weave 
+together the best of learning theory, technology, 
+operations, and services to enable a thriving 
+workforce.
+The 
+customer 
+base 
+of the organization is 
+mostly among Fortune 
+1000 and Global 500 
+companies, where the 
+risk of failure of those 
+customers is low and 
+there is a steep entry 
+barrier.
+More 
+and 
+more 
+organizations 
+are 
+approaching 
+training 
+organizations 
+for 
+outsourcing; 
+hence 
+there 
+are 
+significant 
+opportunities 
+in 
+the 
+market. NIIT, to improve 
+its market share and 
+customer base, takes 
+the inorganic route by 
+way of acquisitions to 
+improve 
+its 
+customer 
+base.
+Further industry specific 
+programs like Pharma, 
+ONG and BFSI are 
+designed to penetrate 
+with multiple customers 
+in 
+their 
+respective 
+segments.
+Negative
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting 
+the NGRBC Principles and Core Elements.
+Disclosure Questions
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+Policy and management processes
+1. a. Whether your entity’s policy/policies cover each 
+principle and its core elements of the NGRBCs. 
+(Yes/No)
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+No
+Yes
+Yes
+b. Has the policy been approved by the Board? (Yes/
+No)
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+No
+Yes
+Yes
+c. Web link of the policies, if available
+Refer below table “Policies associated with BRSR principle.”
+2. Whether the entity has translated the policy into 
+procedures. (Yes / No)
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+No
+Yes
+Yes
+3. Do the enlisted policies extend to your value chain 
+partners? (Yes/No)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+4. Name of the national and international codes/
+certifications/labels/ standards 
+ISO 9001 :2015, ISO 14001:2015, ISO 27001: 2013, ISO 45001:2018, ISO 
+22301: 2019 
+5. Specific commitments, goals, and targets set by the 
+entity with defined timelines, if any.
+No
+6. Performance of the entity against the specific 
+commitments, goals, and targets along with 
+reasons in case the same are not met.
+NA
+Governance, leadership, and oversight
+7. NIIT management functions considering in mind its environmental, social and governance responsibility. The business decision are made 
+keeping in mind the interest of various stake holders. The organization is further preparing a strategy towards achieving net zero by 
+identifying various areas of initiatives and creating strategies around it. The organization already fulfill multiple social responsibilities 
+towards its employees and towards youth of the society.
+8. Details of the highest authority responsible for 
+implementation and oversight of the Business 
+Responsibility policies
+Joint Managing Director
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT (Contd.)
+76
+9. Does the entity have a specified Committee of the 
+Board/ Director responsible for decision-making 
+on sustainability-related issues? (Yes / No). Provide 
+details.
+Yes, CSR Committee is responsible for decision-
+making 
+on 
+sustainability 
+related 
+issues. 
+The members of the committee include the 
+following:Committee Members
+Designation DIN of 
+Member
+Mr. Ravinder Singh
+Chairman
+08398231
+Mr. Rajendra S Pawar
+Member
+00042516
+Mr. Vijay K Thadani
+Member
+00042527
+Mr. Anand Sudarshan
+Member
+00827862
+10. Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether review was undertaken by Director 
+/ Committee of the Board/
+Any other Committee
+Frequency
+(Annually/ Half yearly/ Quarterly/ Any 
+other – please specify)
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+Performance against above 
+policies and follow-up action
+Y
+Y
+Y
+Y
+Y
+Y
+N
+Y
+Y
+Annually
+Compliance	 
+with 
+statutory 
+requirements of relevance to 
+the principles, and rectification 
+of any non-compliances
+Y
+Y
+Y
+Y
+Y
+Y
+N
+Y
+Y
+Quarterly
+11.  Has the entity carried out independent assessment/ evaluation 
+of the working of its policies by an external agency? (Yes/No). If 
+yes, provide name of the agency.
+P 
+1
+P
+ 2
+P 
+3
+P 4
+P 
+5
+P 6
+P 7
+P 8
+P 9
+No
+N
+N
+N
+N
+N
+N
+N
+N
+N
+12. If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated: 
+Questions 
+P 
+1
+P
+ 2
+P 
+3
+P 
+4
+P 
+5
+P 
+6
+P 
+7
+P 
+8
+P 
+9
+The entity does not consider the principles material to its business (Yes/
+No) 
+The entity is not at a stage where it is in a position to formulate and 
+implement the policies on specified principles (Yes/No) 
+-
+-
+-
+-
+-
+-
+Yes
+-
+-
+The entity does not have the financial or/human and technical resources 
+available for the task (Yes/No) 
+It is planned to be done in the next financial year (Yes/No) 
+Yes
+Any other reason (please specify) 
+*Policies associated with BRSR principle.
+Principle Policy Name
+Policy Weblink
+2, 5, 6
+Code of Conduct
+https://www.niit.com/authoring/Documents/Corporate%20Governance/Code%20of%20Conduct.pdf
+4 & 8
+CSR
+https://www.niit.com/authoring/Documents/New-Disclosures/CSR%20Policy%20w.e.f.%205.2.2021.pdf
+9
+Equal Opportunity
+https://www.niit.com/authoring/Documents/New-Disclosures/Equal%20Opportunity%20Policy.pdf 
+4
+Grievance Redressal https://www.niit.com/authoring/Documents/New-Disclosures/Grievance%20Redressal%20Policy.pdf
+3, 6
+Health & Safety 
+https://www.niit.com/authoring/Documents/New-Disclosures/Health%20Safety%20and%20
+Environment%20Policy.pdf 
+3
+Nomination & 
+Remuneration
+https://www.niit.com/authoring/Documents/New-Disclosures/Nomination%20and%20Remuneration%20
+Policy.pdf
+9
+Privacy
+https://privacy.niit.com/prospective_customer.html
+1
+Whistleblower
+https://www.niit.com/authoring/Documents/Other%20Disclosures/Whistle%20Blower%20Policy.pdf
+3
+Workplace 
+Monitoring
+https://www.niit.com/authoring/Documents/New-Disclosures/Workplace%20Monitoring%20Policy.pdf 
+SECTION C: PRINCIPLE WISE DISCLOSURES
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT (Contd.)
+77
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core Elements with 
+key processes and decisions. The information sought is categorized as “Essential” and “Leadership”. While the essential 
+indicators are expected to be disclosed by every entity that is mandated to file this report, the leadership indicators may be 
+voluntarily disclosed by entities which aspire to progress to a higher level in their quest to be socially, environmentally and 
+ethically responsible. 
+Principle 1: Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable.
+Essential Indicators
+1.	
+Percentage coverage by training and awareness programmes on any of the principles during the financial 
+year
+Segment
+Total number 
+of training and 
+awareness 
+programmes held
+Topics/ principles covered under the 
+training and its impact
+% Of persons in respective 
+category covered by the 
+awareness programmes
+Board of Directors
+14
+Competition and Anti-Trust, Code of Conduct, 
+Risk Assessment and Risk Management and 
+Compliances
+100%
+Key Managerial 
+Personnel
+13
+Corporate strategy, leadership communication, 
+innovation culture, stakeholder management, 
+towards 
+sustainability, 
+digital 
+disruption 
+and transformation. Its impact was to 
+navigate changes and strategy to drive the 
+organization. For NIIT to have plan and 
+strategy to not only expand businesses but to 
+have better operational efficiency.
+85%
+Employees other than 
+BoD & KMPs
+48
+Health & Safety at workplace, ISO awareness 
+and policies, science of mind, security 
+awareness training, POSH, Code of Conduct. 
+Psychological wellbeing and mental wellness 
+program.
+48%
+Workers
+13
+POSH, COVID 19 Precautions, Environment, 
+Health and Safety Fire and safety, Physical 
+security surveillance, Hazard Identification & 
+Risk Assessment, First aid emergency and CPR 
+Procedure.
+72%
+2.	
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings 
+(by the entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the 
+financial year, in the following format (Note: the entity shall make disclosures on the basis of materiality as 
+specified in Regulation 30 of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as 
+disclosed on the entity’s website):
+Monetary
+ 
+NGRBC
+Principle
+Name of the
+regulatory/ enforcement 
+agencies/ judicial 
+institutions
+Amount (In 
+INR)
+ Brief of the 
+Case 
+Has an appeal been 
+preferred? (Yes/No)
+Penalty/Fine
+NA
+NIL
+NIL
+NIL
+NIL
+Settlement
+NA
+NIL
+NIL
+NIL
+NIL
+Compounding Fee
+NA
+NIL
+NIL
+NIL
+NIL
+Non-Monetary
+ 
+NGRBC
+Principle
+Name of the regulatory/ 
+enforcement agencies/ judicial 
+institutions
+Brief of the Case
+ 
+Has an appeal been 
+preferred? (Yes/No)
+Imprisonment
+NA
+NIL
+NIL
+NIL
+Punishment
+NA
+NIL
+NIL
+NIL
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT (Contd.)
+78
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where 
+monetary or non-monetary action has been appealed
+Case Details
+Name of regulatory/enforcement agencies/judicial institutions
+NIL
+NA
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, 
+provide a web link to the policy. Yes. NIIT has a Code of Conduct which defines the anti-corruption and anti-bribery 
+guidelines incorporated in it. The link to the Code of Conduct can be accesses here: https://www.niit.com/authoring/
+Documents/Corporate%20Governance/Code%20of%20Conduct.pdf
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law 
+enforcement agency for the charges of bribery/ corruption:
+ FY 2022-23
+ FY 2021-22
+Directors
+NIL
+NIL
+KMPs
+NIL
+NIL
+Employees
+NIL
+ NIL
+Workers
+NIL
+ NIL
+6.	
+Details of complaints with regards to conflict of interest:
+FY 2022-23
+FY 2021-22
+Number
+Remarks
+Number
+Remarks
+No. of complaints received in relation to issues of Conflict of Interest of the Directors
+NIL
+NIL
+NIL
+NIL
+No. of complaints received in relation to issues of Conflict of Interest of the KMPs
+NIL
+NIL
+NIL
+NIL
+7.	
+Provide details of any corrective action taken or underway on issues related to fines/penalties/action taken 
+by regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest. 
+	
+NA
+Leadership Indicators
+1.	
+Awareness programmes conducted for value chain partners on any of the principles during the financial year: 
+Total number 
+of awareness 
+programmes held
+Topics / principles covered under the training
+%age of value chain 
+partners covered under the 
+awareness programmes
+202
+The trainers/ professional engagement is done through entering master 
+service agreement which covers principles like confidentiality, privacy and 
+ethical practices in line with NGRBC Principle 1. Discussions are held with the 
+trainers on standard of governance NIIT expects from its value chain partners 
+at the time of on boarding or any amendment required due regulatory 
+changes.
+100%
+2.	
+Does the entity have processes in place to avoid/ manage conflict of interests involving members of the 
+Board? (Yes/No) If yes, provide details of the same.
+	
+Yes. Firstly, NIIT takes annual affirmation from Board of Directors with reference to Conflict of Interest. Secondly, NIIT’s 
+Related Party Policy defines the process and procedures to identifying and managing conflicts of interests involving 
+members of the Board. The policy elaborates on the guidance and mechanism in place for board members to address 
+potential conflict of interests that may arise in certain business transactions. Before entering any transaction with a 
+Related Party of a Board member, NIIT ensures that the Audit Committee approval is taken. Where any director is 
+interested in any contract or arrangement with a Related Party, the director shall not participate during discussions on 
+the subject matter of the resolution relating to such contract or arrangement. 
+Principle 2: Businesses should provide goods and services in a manner that is sustainable and safe.
+Essential Indicators
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the 
+environmental and social impacts of product and processes to total R&D and capex investments made.
+FY 2022-23
+FY 2021-22
+Details of improvements in environment and social impacts
+R&D
+INR 51 million
+INR 45 million
+NIIT took the initiative of phasing out old computers with energy efficient laptops. NIIT 
+further migrated our owned data center to the cloud, having significant reduction in our 
+carbon footprint. 
+Capex
+NIL
+NIL
+NIL
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT (Contd.)
+79
+2. 
+a.	
+Does the entity have procedures in place for sustainable sourcing? (Yes/No) Yes
+b.	
+If yes, what percentage of inputs were sourced sustainably? 
+	
+NIIT has a procedure in place to onboard suppliers’ basis sustainability parameters. NIIT follows a procurement 
+process which factors MSME participation and evaluation of environment standards among our vendors. NIIT while 
+selecting electrical, electronic and computer items, considers environmental parameters as one of the selection 
+criteria. However, currently NIIT does not record the exact percentage of inputs sourced sustainably. 
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end 
+of life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste. 
+Waste Type
+Processes to reclaim through reuse, recycle, disposal at end of life
+Plastics 
+NIIT follows a zero-plastic policy. If any plastic waste is generated through mechanical packaging, the same is 
+disposed of by an authorized waste management vendor for further reuse.
+E-Waste
+NIIT disposes all E-Waste generated to an authorized e-waste management vendor and obtains certificate of 
+compliance post safe disposal.
+Hazardous Waste
+Lubricant oil generated from DG sets is collected by an authorized waste vendor for its safe disposal.
+Other Waste
+All other waste such as cloths used for lubricant oils, etc. is provided to authorized waste vendor for further 
+processing and disposal.
+4. 	 Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, 
+whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to 
+Pollution Control Boards? If not, provide steps taken to address the same. 
+	
+No. EPR is not applicable for NIIT.
+Leadership Indicators
+1.	
+Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing 
+industry) or for its services (for service industry)? If yes, provide details in the following format? 
+NIC Code
+Name of 
+Product/ Service
+% of total 
+Turnover 
+contributed
+Boundary for which the 
+Life Cycle Perspective 
+/ Assessment was 
+conducted
+Whether conducted 
+by independent 
+external agency (Yes/
+No)
+Results communicate in 
+public domain (Yes/No)
+ If yes, provide the web-
+link.
+Not Available
+2.	
+If there are any significant social or environmental concerns and/or risks arising from production or disposal 
+of your products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any 
+other means, briefly describe the same along-with action taken to mitigate the same
+Name of Product / Service
+Description of the risk / concern
+Action Taken
+Not Available 
+Not Available 
+Not Available 
+3.	
+Percentage of recycled or reused input material to total material (by value) used in production (for 
+manufacturing industry) or providing services (for service industry).
+Recycled or re-used input material to total material
+FY 2022 - 23
+FY 2021 - 22
+Not Available 
+Not Available
+4.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, 
+recycled, and safely disposed, as per the following format:
+FY 2022 - 23
+FY 2021 - 22
+Re-Used
+Recycled
+Safely
+Disposed
+Re-Used
+Recycled
+Safely
+Disposed
+Plastics (including packaging)
+NIL
+NIL
+Yes
+NIL
+NIL
+NIL
+E-waste
+NIL
+NIL
+Yes
+NIL
+NIL
+NIL
+Hazardous waste
+NIL
+NIL
+Yes
+NIL
+NIL
+NIL
+Other waste
+NIL
+NIL
+Yes
+NIL
+NIL
+NIL
+5.	
+Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
+Indicate Product Category
+Reclaimed products and their packaging materials as % of total products 
+sold in respective category
+Not Applicable 
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT (Contd.)
+80
+Principle 3: Businesses should respect and promote the well-being of all employees, including those in their value 
+chains.
+Essential Indicators
+1. 	 a. 	 Details of measures for the well-being of employees
+% Of Employees Covered By
+Category 
+Total
+Health Insurance
+Accident 
+Insurance
+Maternity Benefits
+Paternity Benefits
+Day Care 
+Facilities
+(A)
+No. (B) % (B / A)
+No. (C) % (C / A)
+No. (D)
+% (D / A)
+No.(E)
+% (E / A)
+No. (F) % (F / A)
+Permanent Employees
+Male
+667
+667
+100%
+667
+100%
+-
+-
+667
+100%
+-
+-
+Female
+295
+295
+100%
+295
+100%
+295
+100%
+-
+-
+-
+-
+Total
+962
+962
+100%
+962
+100%
+295
+100%
+667
+100%
+-
+-
+Other Than Permanent Employees
+Male
+152
+152
+100%
+152
+100%
+NA
+NA
+NA
+NA
+-
+-
+Female
+62
+62
+100%
+62
+100%
+NA
+NA
+NA
+NA
+-
+-
+Total
+214
+214
+100%
+214
+100%
+NA
+NA
+NA
+NA
+-
+-
+b. 	 Details of measures for the well-being of workers:
+% Of Workers Covered By
+Category 
+Total
+Health insurance
+Accident 
+insurance
+Maternity benefits
+Paternity Benefits
+Day Care 
+facilities
+(A)
+No. (B) % (B / A)
+No. (C) % (C / A)
+No. (D) % (D / A)
+No.(E)
+% (E / A) No. (F)
+% (F / A)
+Permanent Workers
+Male
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Total
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Other Than Permanent Workers
+Male
+45
+45
+100%
+45
+100%
+NA
+NA
+NA
+NA
+NA
+NA
+Female
+9
+9
+100%
+9
+100%
+NA
+NA
+NA
+NA
+NA
+NA
+Total
+54
+54
+100%
+54
+100%
+NA
+NA
+NA
+NA
+NA
+NA
+2. 	 Details of retirement benefits, for Current Financial Year and Previous Financial Year.
+Benefits
+FY 2022-23
+FY 2021-22
+No. of employees 
+covered as a % of 
+total employees
+No. of workers 
+covered as a % 
+of total workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of
+workers covered 
+as a % of total 
+workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+PF
+100%
+100%
+Y
+100%
+100%
+Y
+Gratuity
+100%
+100%
+Y
+100%
+100%
+Y
+ESI
+100%
+100%
+Y
+100%
+100%
+Y
+3.	
+Accessibility of workplaces 
+	
+Are the premises/offices of the entity accessible to differently abled employees and workers, as per the 
+requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken 
+by the entity in this regard. 
+	
+NIIT is an equal opportunity employer and upholds its commitment to non-discrimination as an utmost priority. In this 
+backdrop, NIIT recognizes accessibility is critical to ensure rights to persons with disabilities and has taken the requisite 
+steps to ensure that it is an accessible workplace across its offices in form of infrastructural investments in form of ramps, 
+elevators and accessible washrooms for persons with disabilities. 
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If 
+so, provide the link to the policy. Yes 
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT (Contd.)
+81
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent employees
+Permanent workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention Rate
+Male
+100%
+100%
+0
+0
+Female
+100%
+100%
+0
+0
+Total
+100%
+100%
+0
+0
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees 
+and worker? If yes, give details of the mechanism in brief. 
+Yes/No
+(If yes, then give details of the mechanism in brief)
+Permanent Workers
+NA
+Other than Permanent Workers
+Yes, NIIT has a multi-tiered grievance handling mechanism that includes dedicated channels 
+for addressing harassment, whistle-blower, security incidents, discrimination, general 
+grievances, etc. which applies to all permanent and non-permanent employees.
+Permanent Employees
+Other than Permanent Employees
+7.	
+Membership of employees and worker in association(s) or Unions recognized by the listed entity 
+	
+While NIIT does not restrict any employee from being a member of any employee-related association and provides 
+freedom, it ensures that it abides by the local laws across the geographies that it operates in.
+ 
+Category 
+FY 2022-23
+FY 2021-22
+Total 
+employees/
+workers in 
+respective 
+category (A)
+No. of employees/
+workers in respective 
+category, who are part of 
+association(s) or Unions 
+(B)
+% (B 
+/ A)
+Total 
+employees/
+workers in 
+respective 
+category (C)
+ 
+No. of employees/
+workers in 
+respective 
+category, who 
+are part of 
+association(s) or 
+Unions (D)
+% (D / C)
+Total Permanent 
+Employees
+0
+0
+0
+0
+0
+0
+Male
+0
+0
+0
+0
+0
+0
+Female
+0
+0
+0
+0
+0
+0
+Total Permanent 
+Workers
+0
+0
+0
+0
+0
+0
+Male
+0
+0
+0
+0
+0
+0
+Female
+0
+0
+0
+0
+0
+0
+8. 	 Details of training given to employees and workers 
+ 
+Category 
+FY 2022-23
+FY 2021-22
+Total 
+(A)
+On Health and 
+Safety Measures
+On Skill 
+Upgradation
+Total
+(D)
+On Health and 
+Safety Measures
+On Skill 
+Upgradation
+No.
+(B)
+% (B
+/ A)
+No
+(C)
+% (C /
+A)
+No. (E)
+% (E / D)
+No. (F)
+% (F / D)
+Permanent Employees 
+Male
+667
+391
+59%
+79
+12%
+607
+365
+60%
+3
+0.5%
+Female
+295
+132
+45%
+56
+19%
+300
+214
+71%
+4
+1%
+Total
+962
+523
+54%
+135
+14%
+907
+579
+64%
+7
+1%
+Other Than Permanent Employees
+Male
+152
+30
+20%
+72
+47%
+178
+24
+13%
+84
+47%
+Female
+62
+6
+10%
+20
+32%
+94
+26
+28%
+51
+54%
+Total
+214
+36
+17%
+92
+43%
+272
+50
+18%
+135
+50%
+Permanent Workers
+Male
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Total
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Other Than Permanent Workers
+Male
+45
+23
+51%
+23
+51%
+24
+19
+79%
+19
+79%
+Female
+9
+1
+11%
+1
+11%
+1
+1
+100%
+1
+100%
+Total
+54
+24
+44%
+24
+44%
+25
+20
+80%
+20
+ 80%
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT (Contd.)
+82
+9. 	 Details of performance and career development reviews of employees and workers 
+Category
+FY 2022-23
+FY 2021-22
+Total (A)
+No. (B)
+% (B / A)
+Total (C)
+No. (D)
+% (D / C)
+Employees
+Male
+819
+513
+63%
+785
+413
+53%
+Female
+357
+248
+69%
+394
+149
+38%
+Total
+1,176
+761
+65%
+1,179
+562
+48%
+Workers
+Male
+NA
+NA
+NA
+NA
+NA
+NA
+Female
+NA
+NA
+NA
+NA
+NA
+NA
+Total 
+NA
+NA
+NA
+NA
+NA
+NA
+	
+*Performance and career development reviews are held only for the employees who have completed a minimum of six 
+months of service during the financial year.
+10.	 Health and safety management system
+a.	
+Whether an occupational health and safety management system been implemented by the entity? (Yes/ 
+No). If yes, the coverage of such system?
+	
+Yes, NIIT has a Health, Safety and Environment policy which governs creating a safe and health workplace for all 
+employees and workers. NIIT follows policies and standards as recommended by ISO 45001 across its primary 
+locations. The coverage of its occupational health and safety management system extends to all employees and 
+workers. The Management of the company regularly monitors the compliance to health and safety norms. It also 
+conducts mock drill at periodic intervals to ensure preparedness.
+b.	
+What are the processes used to identify work-related hazards and assess risks on a routine and non-
+routine basis by the entity? 
+	
+NIIT has assigned a one-point contact i.e., a project coordinator to oversee and resolve risks and concerns related 
+to work-related hazards on a routine and non-routine basis. Provisions such as Job Safety Analysis (JSA) and 
+toolbox talk create a conducive environment for employees and workers to regularly assess, identify and report 
+risks.
+c.	
+Whether you have processes for workers to report the work-related hazards and to remove themselves 
+from such risks. (Y/N) 
+	
+Yes, NIIT has a safety incident reporting and management process to ensure that all work-related incidents (which 
+include accidents, near-misses, unsafe conditions and unsafe acts) are reported and closed after taking necessary 
+corrective actions. The organization also conduct multiple training and safety drills to create awareness about how 
+to remove themselves from such risk.
+d.	
+Do the employees/worker of the entity have access to non-occupational medical and healthcare 
+services? (Yes/ No) 
+	
+Yes, The employees are eligible for annual medical health check up completely sponsored by the company. Further 
+in key locations there are visiting doctors where employees and workers can consult without any fee. The workers 
+are covered under the ESI scheme.
+11.	 Details of safety related incidents, in the following format 
+Safety Incident/Number
+Category
+FY 2022-23
+Current Financial Year
+FY 2021-22
+Previous Financial Year
+Lost Time Injury Frequency Rate (LTIFR) (per one million-
+person hours worked)
+Employees
+NIL
+NIL
+Workers
+NIL
+NIL
+Total recordable work-related injuries
+Employees
+NIL
+NIL
+Workers
+NIL
+NIL
+No. of fatalities
+Employees
+NIL
+NIL
+Workers
+NIL
+NIL
+High consequence work-related injury or ill-health (excluding 
+fatalities)
+Employees
+NIL
+NIL
+Workers
+NIL
+NIL
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace 
+	
+NIIT provides end to end health care solutions to employees as per medical insurance for them and their family 
+members including added services such as lab services, virtual specialist doctor consultations, eye care solutions and 
+dental services. We believe our workforce is our most valuable asset and it is towards this, that we have ensured safe 
+and healthy workplaces for our employees across our offices in form of clean air, clean water, clean environment, air 
+purifiers, and conducive work environment through engagement.
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT (Contd.)
+83
+	
+To deter any unsafe or unhealthy practices, NIIT observes stringent measures to ensure health and safety, beyond its 
+above-mentioned initiatives. This includes having self-illuminated tape, anti-skid tape, battery operated emergency light 
+across staircases and indoor purification of air to create a safe-environment and maintain health of employees and 
+workers.
+13.	 Number of Complaints on the following made by employees and workers: 
+FY 2022-23
+FY 2021-22
+Filed during 
+the year
+Pending resolution at 
+the end of year
+Remarks
+Filed during 
+the year
+Pending resolution 
+at the end of year
+Remarks
+Working Conditions
+NIL
+NIL
+-
+NIL
+NIL
+-
+Health & Safety
+NIL
+NIL
+-
+NIL
+NIL
+-
+14.	 Assessments for the year 
+ 
+% of your plants and offices that were assessed (by entity or statutory authorities or third parties)
+Health and safety practices
+100%
+Working Conditions
+100%
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and 
+on significant risks / concerns arising from assessments of health & safety practices and working conditions. 
+	
+NA
+Leadership Indicators
+1. 	 Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees 
+(Y/N) & Workers (Y/N) 
+	
+Yes, to employees and workers.
+2. 	 Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and 
+deposited by the value chain partners. 
+	
+Yes, ECR challans (PF & ESIC) from the service provider are verified on a monthly basis to ensure statutory dues are 
+deducted and deposited, in case NIIT stands as a principal employer.
+3. 	 Provide the number of employees / workers having suffered high consequence work- related injury / ill-
+health / fatalities (as reported in Q11 of Essential Indicators above), who have been rehabilitated and placed 
+in suitable employment or whose family members have been placed in suitable employment: 
+ 
+Total no. of affected employees/ workers
+No. of employees/workers that are 
+rehabilitated and placed in suitable 
+employment or whose family members 
+have been placed in suitable employment
+FY 2022-23
+FY2021-22
+FY 2022-23
+FY2021-22
+Employees
+NIL
+NIL
+Workers
+NIL
+NIL
+4. 	 Does the entity provide transition assistance programs to facilitate continued employability and the 
+management of career endings resulting from retirement or termination of employment? (Yes/ No) 
+	
+Yes, Based on requirement of the company in rare cases, the company either extends the service period by one to two 
+years or contracts them as consultants for short periods. NIIT follows the practice of giving opportunity to perform, hence, 
+non-performing employees are first put under performance improvement plan and only in case of non-performance, 
+thereafter, can be terminated. NIIT also out counsels people in case of redundancy after providing them with adequate 
+time to look for alternative employment opportunities.
+5. 	 Details on assessment of value chain partners: 
+% of value chain partners (by value of business done with such partners) that were assessed
+Health and safety practices
+Shall commence this activity shortly.
+Working Conditions
+Shall commence this activity shortly.
+6. 	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from 
+assessments of health and safety practices and working conditions of value chain partners. 
+	
+Not Applicable as no such risks or concerns have emerged.
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT (Contd.)
+84
+Principle 4: Businesses should respect the interests of and be responsive to all its stakeholders
+Essential Indicators
+1.	
+Describe the processes for identifying key stakeholder groups of the entity.
+	
+NIIT Limited is a responsible corporate citizen and is committed to being responsive to all its stakeholders including 
+shareholders, customers, business associates, employees, vendors and suppliers, governments and society at large 
+including communities that it operates in. These approaches are laid out in our Code of Conduct document, which can 
+be found on our website.
+•	
+Internal Stakeholders of NIIT include employees, senior leadership and Board of Directors.
+•	
+External stakeholders of NIIT include shareholders, customers, value chain partners and communities. 
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each 
+stakeholder group.
+Stakeholder
+Group
+Whether 
+identified as 
+Vulnerable
+Channels of communication
+Frequency of
+Engagement
+Purpose and scope
+of engagement
+Employees
+No
+Surveys, Focus Group Discussions, 
+HR, internal trainings, requirements 
+(virtual and in -person modes), 
+Townhalls conducted quarterly, Self 
+service portal iNIITians , Amber the 
+friendly BOT.
+Weekly, monthly, 
+quarterly, annually
+Feedback 
+& 
+Grievance 
+Redressal; 
+Employee engagement (fun at work 
+/ motivation / happiness / passion 
+/ 
+wellbeing, 
+engagement 
+for 
+self-
+performance 
+improvement 
+and 
+team 
+productivity improvement and Career 
+support programs.
+Shareholders
+No
+Annual General Meetings, Focus 
+Group Discussions, Shareholder 
+Grievance Process, Investor meets, 
+continuous disclosures.
+Quarterly
+Shareholders are kept in loop throughout 
+processes of the organization. NIIT provides 
+SEBI timely on the evolving market trends. 
+Notices of AGMs are uploaded on website 
+of NIIT on a regular basis. The website is 
+also regularly updated. Investor calls are 
+also scheduled after all quarterly closings. 
+The results are also published by NIIT on 
+print media platforms.
+Communities
+Yes
+Skilling, education and livelihood 
+generation. 
+Media 
+releases, 
+electronic media, social media,
+Half Yearly
+Need Assessment for CSR Projects & 
+Grievance Redressal
+Customers
+No
+Training 
+modules, 
+online 
+discussions, 
+feedback 
+sessions,
+Customer 
+satisfaction 
+surveys, 
+account 
+management 
+for 
+enterprise customers and customer 
+experience management team for 
+retail customers.
+Weekly, monthly, 
+annually
+Resolution of any delivery challenges. And 
+feedback on technology & services being 
+implemented.
+Value Chain 
+Partners
+No
+Training 
+sessions, 
+online 
+discussions, 
+monitoring 
+and 
+feedback sessions, specified vendor 
+management team for onboarding 
+and dispute resolution
+On actual need - 
+basis
+At the time of onboarding, each value 
+chain partner is onboarded on the pre-
+condition of compliance to privacy, anti-
+corruption, anti-bribery, human rights and 
+ethical practices. Value chain partners are 
+also explained their rights and grievance 
+redressal mechanism.
+Leadership Indicators
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, and 
+social topics, or if consultation is delegated, how is feedback from such consultations provided to the Board 
+	
+There are multiple committees of the board (risk management committee, audit committee, stakeholders relationship 
+committee, nomination and remuneration committee ), where the management provides updates on matters like 
+environmental changes, environmental risk, and other topics having a significant impact like people policy, etc. The 
+respective business leadership team provides quarterly inputs on performance and yearly perspective planning for three 
+years with budgets for the next year to the board members as per schedule. External professionals like statutory auditors, 
+cost auditors, secretarial auditors, and other professional experts on matters like tax and M&A are regularly invited to 
+submit their reports either to subcommittees or to the board directly. In fact, the NIIT Board conducts townhall meetings 
+for its employees as the first stakeholders to be informed post the board’s quarterly meeting to ensure a conducive 
+environment to work in. Fire-side chats are also conducted for employees to voice their feedback directly to the NIIT 
+Managing Director as well as CEO.
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT (Contd.)
+85
+2.	
+Whether stakeholder consultation is used to support the identification and management of environmental, 
+and social topics (Yes / No). If so, provide details of instances as to how the inputs received from stakeholders 
+on these topics were incorporated into the policies and activities of the entity. 
+	
+Yes, The inputs received from board members, shareholders in the AGM, employee suggestions, and customer inputs 
+through surveys are duly addressed with a specific action plan and timeline, which are monitored and then reported 
+back to the respective stakeholders.
+3.	
+Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ 
+marginalized stakeholder groups. 
+	
+NIIT is an equal opportunity organization, and each employee has equal rights. The concerns of our stakeholder 
+groups are heard with utmost sensitivity, and we have a transparent process for raising their concerns independently 
+through human resources. HR also ensures anonymity and keeps the complainant’s information confidential from any 
+and every other employee of our organization. During community programs, our point of contact creates a two-way 
+and conducive communication pathway and our grievance redressal policy also helps take the necessary recourse for 
+concerns of stakeholder groups.
+Principle 5: Businesses should respect and promote human rights
+Essential Indicators
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, 
+in the following format: 
+Category
+FY 2022-23
+FY 2021-22
+Total (A)
+No. Of 
+Employee 
+/ Workers 
+Covered 
+(B)
+% (B / A)
+Total (C)
+No. Of 
+Employee 
+/ Workers 
+Covered 
+(C)
+% (D / C)
+Employee
+Permanent
+962
+962
+100%
+907
+907
+100%
+Other than permanent
+214
+214
+100%
+272
+272
+100%
+Total Employees
+1,176
+1,176
+100%
+1,179
+1,179
+100%
+Workers
+Permanent
+-
+-
+-
+-
+-
+-
+Other than permanent
+54
+54
+100%
+36
+36
+100%
+Total Workers
+54
+54
+100%
+36
+36
+100%
+2.	
+Details of remuneration/ salary/ wages (including differently abled): 
+Category
+FY 2022-23
+FY 2021-22
+Total 
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+Total 
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+ (A)
+No.
+B
+% (B /
+A)
+No.
+C
+% (C /
+A)
+ (D)
+No.
+E
+% (E /
+D)
+No.
+(F)
+% (F /
+D)
+Employees
+Permanent 
+Male
+667
+-
+-
+667
+100%
+607
+-
+-
+802
+100%
+Female
+295
+-
+-
+295
+100%
+300
+-
+-
+523
+100%
+Other than Permanent
+Male
+152
+-
+-
+152
+100%
+178
+-
+-
+25
+100%
+Female
+62
+-
+-
+62
+100%
+94
+-
+-
+33
+100%
+Workers
+Permanent 
+Male
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Other than Permanent
+Male
+45
+34
+76%
+11
+24%
+24
+20
+ 83%
+4
+17%
+Female
+9
+1
+11%
+8
+89%
+1
+1
+100%
+0
+ 0%
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT (Contd.)
+86
+3.	
+Details of remuneration/salary/wages, in the following format:
+Category
+2022-2023
+2021-2022
+Number
+Median remuneration/ 
+salary/ wages of respective 
+category (INR)
+Number
+Median remuneration/ 
+salary/ wages of respective 
+category (INR)
+Board of Directors (BoD)
+ 9
+2,320,000 
+ 9
+1,680,000 
+Key Managerial Personnel *
+(other than BoD)
+5
+22,900,000 
+5
+21,500,000 
+Employees other than BoD and KMP
+1176
+6,35,854
+1179
+6,17,937
+Workers
+54
+2,39,364
+36
+2,29,560
+	
+*(Includes executive director not including in BOD above, only for this table)
+4.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases. 
+	
+The policy and processes comply with the prevailing laws, specifically the “The Sexual Harassment of Women at 
+Workplace (Prevention, Prohibition and Redressal) Act, 2013.” In case any employee experiences any form of sexual 
+harassment, they can report the incident by directly writing to the care4women@niit.com / grievancecell@niit.com. The 
+complaints raised via this channel are investigated, and handled with utmost fairness, equality and confidentiality by the 
+Internal Complaints Committee (ICC). The ICC includes independent professionals from all walks of life. NIIT further 
+ensures that standard SLAs as per law are met timely and in a just manner.
+5.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No) No
+6.	
+Assessments for the year: 
+% of your plants and offices that were assessed (by entity or statutory 
+authorities or third parties)
+Child Labour
+NIIT has conducted self-assessment for 100% of its offices. The organization’s 
+Code of Conduct requires engagement of people considering child labor, modern 
+slavery, and ethical practices. NIIT also has an Internal Complaints Committee and 
+has clear channels of reporting any workplace sexual harassment. NIIT creates 
+awareness of human rights through various modes of communication. 
+Forced or Involuntary Labour
+Sexual Harassment
+Discrimination at Workplace
+Wages
+Others- Please specify
+7.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues 
+caused or contributed to by the business? (Yes/No) Yes. 
+8.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues. 
+	
+NIIT is committed to providing a fair, safe and productive work environment where grievances, if any, are dealt sensitively 
+and expeditiously. A grievance policy and process is in place for NIITians to voice their concerns so they could be 
+effectively addressed. A grievance may be about an act, omission, situation, or decision that the NIITian feels is unfair, 
+discriminatory, or unjustified. 
+	
+NIITians are encouraged to come forward with their grievances in the knowledge that the organization will take 
+appropriate action to address those grievances. This can be done in an informal way by verbally communicating 
+the issue to the Manager or HR and then getting it addressed along with a member from the Grievance Redressal 
+Committee (GRC). The other option is to submit the complaint in writing to either Manager/Business HR or posting at 
+email id GrievanceCell@niit.com which is accessible by an authorized representative from the Leadership team of HR. 
+There is another email ID CPO@niit.com which is directly accessed by the CHRO of the company to deal with grievance 
+matters directly.
+	
+Yet another option is to post an Anonymous message on the Amber portal (AI powered HR Engagement portal). The link 
+for this Anonymous link called ‘Anonymous Bat’ is shared with by Amber with the NIITian once s/he has completed his/
+her first digital chat with Amber. This stays with the NIITian and can be used at any time during one’s association with 
+NIIT. This message directly reaches the CEO and CHRO of the company.
+9.	
+Number of complaints made by employees and workers
+Complaints
+FY 2022-23
+FY 2021-22
+Filed during 
+the year
+Pending 
+resolution at the 
+end of year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at the 
+end of year
+Remarks
+Total
+NIL
+NIL
+-
+NIL
+NIL
+-
+Sexual Harassment
+NIL
+NIL
+NIL
+NIL
+Discrimination at workplace
+NIL
+NIL
+NIL
+NIL
+Child Labour
+NIL
+NIL
+NIL
+NIL
+Forced Labour/Involuntary Labour
+NIL
+NIL
+NIL
+NIL
+Wages
+NIL
+NIL
+NIL
+NIL
+Other Human Rights related issues
+NIL
+NIL
+NIL
+NIL
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT (Contd.)
+87
+10.	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from 
+the assessments at Question 9 above Not applicable.
+Leadership Indicators
+1.	
+Details of a business process being modified / introduced as a result of addressing human rights grievances/
+complaints. 
+	
+No business processes were modified or introduced as a result of addressing human rights grievances or complaints in 
+the reporting period as no such complaints and grievances were raised.
+2.	
+Details of the scope and coverage of any Human rights due diligence conducted. 
+	
+Human rights due diligence was not conducted in the reporting period.
+3.	
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights 
+of Persons with Disabilities Act, 2016? 
+	
+NIIT recognizes accessibility is critical to ensure rights to persons with disabilities and has taken the requisite steps 
+to ensure that it is an accessible workplace across its offices in form of infrastructural investments in form of ramps, 
+elevators, and accessible washrooms for persons with disabilities.
+4.	
+Details on assessment of value chain partners: 
+% Of your plants and offices that were assessed (by entity or statutory 
+authorities or third parties)
+Child Labour
+No external assessment was done.
+Forced or Involuntary Labour
+Sexual Harassment
+Discrimination at Workplace
+Wages
+Others- Please specify
+5.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 4 above 
+	
+Not applicable.
+Principle 6: Businesses should respect and make efforts to protect and restore the environment.
+Essential Indicators
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+Unit
+FY 2022 - 23
+FY 2021 - 22
+Total electricity consumption (A) 
+GJ
+2,961.92
+1,132.14
+Total fuel consumption (B) 
+GJ
+0.00047
+0.00037
+Energy consumption through other sources (C) 
+GJ
+210.74
+212.40
+Total energy consumption (A+B+C)
+GJ
+3,172.65
+1,344.54
+Energy intensity per rupee of turnover (Total energy consumption/
+turnover in rupees)
+Joules/INR
+2010 Joules/INR
+1060 Joules/INR
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency. No
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, 
+Achieve and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under 
+the PAT scheme have been achieved. In case targets have not been achieved, provide the remedial action 
+taken, if any.
+	
+Not Applicable. 
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT (Contd.)
+88
+3.	
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+Water withdrawal by source (in Kilolitres)
+(i) Surface water
+NIL
+NIL
+(ii) Groundwater
+NIL
+NIL
+(iii) Third party water
+10880
+3877
+(iv) Seawater / desalinated water
+NIL
+NIL
+(v) Others
+NIL
+NIL
+Total volume of water withdrawal (i + ii + iii + iv + v)
+10880
+3877
+Total volume of water consumption (in KL)
+8235
+2938
+Water intensity per rupee of turnover (Water consumed / turnover)
+ 5.23 ML/INR
+ 2.34 ML/INR
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency. No
+4.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage 
+and implementation.
+	
+Not yet, This is planned for implementation in FY24.
+5.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please specify unit
+FY 2022 - 23
+FY 2021 - 22
+NOx
+g/kwh
+1.88
+Did not monitor
+SOx
+g/kwh
+0.45
+Did not monitor
+Particulate matter (PM)
+g/kwh
+0.14
+Did not monitor
+Persistent organic pollutants (POP)
+µg/m3
+NA
+Did not monitor
+Volatile organic compounds (VOC)
+µg/m3
+NA
+Did not monitor
+Hazardous air
+pollutants (HAP)
+µg/m3
+NA
+Did not monitor
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency. No
+6.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following 
+format:
+Parameter
+Unit
+FY 2022 - 23
+FY 2021-22
+Total Scope 1 emissions (Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric Tonnes of CO2
+142.91
+51.59 
+Total Scope 2 emissions (Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric Tonnes of CO2 
+584.16
+223.29 
+Total Scope 1 and Scope 2 emissions per rupee of turnover
+ Grams/INR
+0.46
+0.21
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency No
+	
+The Scope 1 emissions increased in FY 23 from the previous year FY 22 in view of increase in energy consumption as 
+offices reopened post Covid 19. In addition to this were refilled refrigerants and new air conditioner units were installed. 
+Accounting of mobile combustion data was also initiated during FY 23.
+7.	
+Does the entity have any project related to reducing Green House Gas emission? If yes, then provide details. 
+	
+NIIT continuously puts efforts to reduce Greenhouse Gas emissions by way of selecting energy efficient air conditioning, 
+the choice of natural lighting, reducing oil leakages, and investments in renewable energy. NIIT prioritizes solar energy 
+for its power consumption and reduces dependency on grid electricity. The company took the initiative of phasing out old 
+computers with energy efficient laptops. NIIT also migrated its on-premise data center to cloud, significantly reducing 
+the carbon footprint. The company moved from paper-based documents to digital documents both for customers as well 
+as vendors. The company actively promotes online training delivery instead of offline to reduce travel, lowering carbon 
+emission. In FY23 the majority of training programs were delivered online. 
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT (Contd.)
+89
+8.	
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2022 - 23
+FY 2021 - 22
+Total Waste Generated (in metric tonnes)
+Plastic waste (A)
+0.001
+0.001 
+E-waste (B)
+0.0
+1.83
+Bio-medical waste (C)
+NIL
+NIL
+Construction and demolition waste (D)
+NIL
+NIL
+Battery waste (E)
+0.91
+0.0
+Radioactive waste (F)
+0.0
+0.0
+Other Hazardous waste. Please specify, if any. (G) 
+0.00
+0.27
+Solid Waste
+NIL
+NIL
+Iron Scrap + Garbage (Empty drums, boxes etc.)
+NIL
+NIL
+Other Non-hazardous waste generated (H). Please specify, if any. (Break-up by 
+composition i.e., by materials relevant to the sector) (Food Waste)
+0.119
+0.0
+Total (A+B + C + D + E + F + G + H)
+0.211
+2.101
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations (in 
+metric tonnes)
+Category of waste
+(i) Recycled
+0.00
+0.00
+(ii) Re-used
+0.00
+0.00
+(iii) Other recovery operations
+0.00
+0.00
+Total
+0.00
+0.00
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tons)
+Category of waste
+(i) Incineration
+0.00
+0.00
+(ii) Landfilling
+0.00
+0.00
+(iii) Other disposal operations
+0.00
+0.00
+Total
+0.00
+0.00
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) 
+If yes, name of the external agency. No
+9.	
+Briefly describe the waste management practices adopted in your establishments. Describe the strategy 
+adopted by your company to reduce usage of hazardous and toxic chemicals in your products and processes 
+and the practices adopted to manage such wastes.
+	
+NIIT provides all its non-hazardous and hazardous wastes through its authorized waste management vendor. Hazardous 
+wastes include e-waste, oils from DG Sets, etc. which are all provided to authorized waste management vendors 
+wherein the vendor recycles, reuses and disposes the waste. A certificate is also obtained from vendors to ensure proper 
+management of hazardous waste.
+10.	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife 
+sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where 
+environmental approvals / clearances are required, please specify details in the following format: 
+S. No.
+Location
+Type of 
+operations
+Whether the conditions of environmental approval / clearance 
+are being complied with? (Y/N) If no, the reasons thereof and
+corrective action taken, if any.
+No approvals were required considering no operations are conducted in ecologically sensitive areas 
+11.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, 
+in the current financial year: 
+Name and brief 
+details of project
+EIA
+Notification No.
+Date
+Whether conducted by 
+independent external 
+agency (Yes / No)
+Results communicated in 
+public domain
+(Yes / No)
+Relevant Web link
+Has not undertaken
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT (Contd.)
+90
+12.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India, such as the 
+Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment 
+protection act and rules thereunder (Y/N). If not, provide details of all such non-compliances, in the following 
+format: 
+Yes, NIIT is compliant with all Water, Air and Environment Protection and Control Acts. No non-compliances have been 
+recorded against NIIT. NIIT is further investing in improving the water and air treatment to meet higher standards as per 
+new norms. 
+Leadership Indicators
+1.	
+Provide break-up of the total energy consumed (in Joules or multiples) from renewable and non-renewable 
+sources, in the following format:
+Parameter
+Unit
+FY 2022 - 23
+FY 2021 - 22
+From renewable sources
+Total electricity consumption (A)
+GJ
+210.74
+212.27
+Total fuel consumption (B)
+GJ
+NIL
+NIL
+Energy consumption through other sources (C)
+GJ 
+NIL
+NIL
+Total energy consumed from renewable sources (A+B+C)
+GJ
+210.74
+212.27
+From non-renewable sources
+Total electricity consumption (D) 
+GJ
+2,961.92
+1,132.14
+Total fuel consumption (E) 
+GJ
+0.00047
+0.00037
+Energy consumption through other sources (F)
+GJ
+NIL
+NIL
+Total energy consumed from non-renewable sources (D+E+F)
+GJ
+2,961.92
+1,132.14
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency No
+2.	
+Provide the following details related to water discharged:
+Water discharge by destination and level of treatment (in kiloliters)
+FY 2022 - 23
+FY 2021 - 22
+(i) To Surface water
+NIL
+NIL
+- No treatment
+NIL
+NIL
+- With treatment – please specify level of treatment
+NIL
+NIL
+(ii) To Groundwater
+NIL
+NIL
+- No treatment
+NIL
+NIL
+- With treatment – please specify level of treatment
+NIL
+NIL
+(iii) Third party water
+2,645
+939
+- No treatment
+NIL
+NIL
+- With treatment – please specify level of treatment
+NIL
+NIL
+(iv) To Seawater
+NA
+NA
+- No treatment
+NA
+NA
+- With treatment – please specify level of treatment
+NA
+NA
+(v) Sent to third-parties
+NIL
+NIL
+- No treatment
+NIL
+NIL
+- With treatment – please specify level of treatment
+NIL
+NIL
+(vi) Others
+NIL
+NIL
+- No treatment
+NIL
+NIL
+- With treatment – please specify level of treatment
+NIL
+NIL
+Total water discharged (in kiloliters)
+2,645
+ 939
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) 
+If yes, name of the external agency. No
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT (Contd.)
+91
+3.	
+Water withdrawal, consumption and discharge in areas of water stress (in kiloliters):
+	
+For each facility / plant located in areas of water stress, provide the following information: Water withdrawal, consumption 
+and discharge in the following format:
+Parameter
+FY 2022 - 23
+FY 2021 - 22
+Water withdrawal by source (in kiloliters)
+(i) Surface water
+Not Applicable as NIIT does not 
+withdraw water from any water stress 
+areas
+(ii) Groundwater
+(iii) Third party water
+(iv) Seawater / desalinated water
+(v) Others
+Total volume of water withdrawal (in kilolitres)
+Total volume of water consumption (in kilolitres)
+Water intensity per rupee of turnover (Water consumed / turnover)
+Water intensity (optional) – the relevant metric may be selected by the entity
+Water discharge by destination and level of treatment (in kilolitres)
+(i) Into Surface water
+Not Applicable as NIIT does not 
+withdraw water from any water stress 
+areas
+-	
+No treatment
+-	
+With treatment – please specify level of treatment
+(ii) Into Groundwater
+-	
+No treatment
+-	
+With treatment – please specify level of treatment
+(iii) Into Seawater
+-	
+No treatment
+-	
+With treatment – please specify level of treatment
+(iv) Sent to third-parties
+-	
+No treatment
+-	
+With treatment – please specify level of treatment
+(v) Others
+-	
+No treatment
+-	
+With treatment – please specify level of treatment
+Total water discharged (in kilolitres)
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) 
+If yes, name of the external agency. NA
+4.	
+Please provide details of total Scope 3 emissions & its intensity, in the following format:
+Parameter
+Unit
+FY 2022 - 23
+FY 2021 - 22
+Total Scope 3 emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, FCs, SF6, NF3, if available)
+Metric tonnes of CO2
+1111.83
+Did not monitor
+Total Scope 3 emissions
+per rupee of turnover
+Grams of CO2 / INR
+0.70
+Did not monitor
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency. No
+5.	
+With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide 
+details of significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention 
+and remediation activities. 
+	
+No significant direct or indirect impact of the entity on biodiversity hence no prevention or remediation activities required. 
+6.	
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve 
+resource efficiency, or reduce impact due to emissions / effluent discharge / waste generated, please provide 
+details of the same as well as outcome of such initiatives, as per the following format: 
+	
+No such initiatives have been undertaken by NIIT. However, NIIT follows best practices with selection of technology, 
+managing waste as per industry standards. Further NIIT shall consider exploring innovative solutions to improve resource 
+efficiency, reduce impact due to emissions and waste generated. 
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT (Contd.)
+92
+7.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web 
+link. 
+	
+NIIT has a strong Business Continuity Management System (BCMS) committed to implement Business Continuity 
+Management in accordance with ISO 22301:2019. NIITs Business Continuity Plan (BCP) identifies Emergency Response 
+Team (ERT), Incident Response Team (IRT), Functional Response Team (FRT) and Damage Assessment Recovery Team 
+(DART) specific action tasks needed to be taken during an incident. 
+	
+NIIT has an alternate recovery site in a secured environment with adequate infrastructure, technology, system, and 
+resources required for recovery in place.
+8.	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What 
+mitigation or adaptation measures have been taken by the entity in this regard? 
+	
+NIIT consistently monitors its impact on the environment, however, except for the above-mentioned environmental 
+indicators on consumption, among other metrics. For its value chain partners, NIIT selects value chain partners having 
+ethical practices as criteria but does not monitor its value chain for any such activities.
+9.	
+Percentage of value chain partners (by the value of business done with such partners) that were assessed for 
+environmental impacts. 
+	
+Do not record.
+Principle 7: Businesses, when engaging in influencing public and regulatory bodies, should do so in a transparent 
+and responsible manner.
+Essential Indicators
+1.	
+a. 	 Number of affiliations with trade and industry chambers/ associations 
+	
+	
+NIIT has affiliations with five industry chambers/associations.
+b.	
+List the top 10 trade and industry chambers/ associations (determined based on the total members of 
+such body) the entity is a member of/ affiliated to.
+S. No.
+Name of the trade and industry chambers/ associations
+Reach of trade and industry chambers/ 
+associations (State/National)
+1
+National Association of Software and Service Companies (NASSCOM)
+National
+2
+Confederation of Indian Industries (CII)
+National
+3
+IT-ITeS Sector Skills Council, NASSCOM
+National
+4
+Federation of Indian Chambers of Commerce & Industry (FICCI)
+National
+5
+PHD Chamber of Commerce and Industry (PHDCCI)
+National
+2.	
+Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by 
+the entity, based on adverse orders from regulatory authorities.
+Name of Authority
+Brief of the Case 
+Corrective Action Taken
+NIL
+NIL
+NIL
+Leadership Indicators
+1.	
+Details of public policy positions advocated by the entity 
+S. 
+No.
+Policy 
+advocated
+Method for such advocacy
+Whether 
+information is in 
+public domain 
+(Y/N)
+Frequency of 
+Review by Board 
+(Annually/ Half 
+yearly/ Quarterly 
+/ Others – please 
+specify)
+Web Link if 
+Available
+1
+Membership 
+with industry 
+body 
+The Company works with apex industry institutions 
+that are engaged in policy advocacy, like the National 
+Association of Software and Service Companies 
+(NASSCOM), Confederation of Indian Industries 
+(CII), IT-ITeS Sector Skills Council, NASSCOM, and 
+various other forums including regional Chambers 
+of Commerce. The Company’s engagement with 
+the relevant authorities is guided by the values of 
+commitment, integrity, transparency and taking into 
+consideration interests of all stakeholders.
+Yes
+As and when 
+required
+Yes
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT (Contd.)
+93
+S. 
+No.
+Policy 
+advocated
+Method for such advocacy
+Whether 
+information is in 
+public domain 
+(Y/N)
+Frequency of 
+Review by Board 
+(Annually/ Half 
+yearly/ Quarterly 
+/ Others – please 
+specify)
+Web Link if 
+Available
+2
+Sector-wise 
+matters taken 
+having national 
+priorities.
+Mr. Rajendra S Pawar (Executive Chairman of NIIT) 
+currently as Vice Chairman of NCARE (National 
+Council of Applied Economic Research) governing 
+body and is director in Data Security council of 
+India, actively involves in advocating policies of data 
+security and AI impact on economic development of 
+the country.
+Mr. Vijay K Thadani (Vice Chairman and MD NIIT 
+Ltd) currently serves on the Governing Council of 
+All India Management Association (AIMA), is a 
+member of Board of Governors of Management & 
+Entrepreneurship and Professional Skills Council 
+(MEPSC) and co-chairs the CII Centre for Digital 
+Transformation. He actively takes part in the digital 
+transformation initiative of the government as part of 
+the council. 
+Yes
+As and when 
+required
+Yes
+Principle 8: All Businesses should promote inclusive growth and equitable development
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in 
+the current financial year. 
+Name and brief of 
+project
+SIA 
+Notification 
+No.
+Date of 
+notification
+Whether conducted by 
+independent external 
+agency (Y/N)
+Results 
+communicated in 
+public domain (Y/N)
+Relevant Web Link
+NIL
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being 
+undertaken by your entity, in the following format: 
+S.N
+Name of project 
+for which R&R is 
+ongoing
+Date of 
+notification
+State
+District
+No. of Project 
+Affected Families
+% PAFs covered 
+by R&R
+Amount paid 
+to PAFs
+Not Applicable 
+3.	
+Describe the mechanisms to receive grievances of the local community 
+	
+NIIT conducts regular discussions and focused group sessions with the communities it impacts through CSR initiatives. 
+4.	
+Percentage of inputs directly sourced from MSMEs / small producer
+FY 2022-23
+Current financial year
+FY 2021-22
+Previous financial year
+Directly sourced from MSMEs/Small Producers
+7.88%
+2.27%
+Sourced directly from within the district and neighboring districts This shall be monitored in future
+Leadership Indicators
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact 
+Assessments (Reference: Question 1 of Essential Indicators above): 
+Details of negative social impact identified
+Corrective action taken
+NIL
+NA
+2.	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational 
+districts as identified by government bodies.
+	
+NIIT Foundation (https://niitfoundation.org) is a not-for-profit entity which partners with other organizations and 
+corporates through which it focuses on driving projects in aspirational districts. These projects are run with the objective 
+to provide mass awareness, skill development and improve employability in order to create better sustenance for the 
+lives we impact. NIIT Foundation is a registered CSR implementation agency.
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT (Contd.)
+94
+State
+Aspirational District
+Amount In (K)
+Andhra pradesh
+Vizianagaram
+181
+Assam
+Udalguri
+348
+Gujarat
+Morbi
+227
+Maharashtra
+Nandurbar
+236
+West bengal
+Birbhum
+156
+Bihar
+Aurangabad, Banka, Begusarai, Jamui, Muzaffarpur, Purnia & Sheikhpura
+4,868
+Chhattisgarh
+Bastar,Korba & Mahasamund 
+703
+Jharkhand
+Bokaro, Gumla, Khunti & Ranchi
+1,705
+Odisha
+Balangir, Dhenkanal, Gajapati, Kalahandi, Koraput & Rayagada
+2,380
+Total
+10,804
+3.	
+a.	
+Procurement policy where you give preference to purchase from suppliers comprising marginalized /
+vulnerable groups? (Yes/No) Shall start monitoring in future.
+b.	
+From which marginalized /vulnerable groups do you procure? Not Applicable
+c.	
+What percentage of total procurement (by value) does it constitute? Not Applicable
+4.	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity 
+(in the current financial year), based on traditional knowledge
+S.No.
+Intellectual Property based on 
+traditional knowledge
+Owned/Acquired (Yes 
+or No)
+Benefit shared (Yes or 
+No)
+Basis of calculating benefit 
+share
+No benefits derived or shared from intellectual properties owned or acquired based on traditional knowledge
+5. 	 Details of corrective actions taken or underway, based on any adverse order in intellectual property related 
+disputes wherein usage of traditional knowledge is involved.
+Name of authority
+Brief of the authority
+Corrective Action Taken
+Not Applicable
+6.	
+Details of CSR projects.
+	
+In Fy23 NIIT and its Indian subsidiaries spent INR 18.30 Mn as CSR funding, primarily to provide scholarship to 147 
+students deserving to pursuing their engineering degree education.
+	
+In the meantime, NIIT Foundation enrolled 58097 of participants for their short and medium term program in digital 
+awareness, data entry, software development training etc. in urban and rural area for the under served communities. 
+For the students who pursued the career programs job offers for 15682 were received i.e. approximately 100 working 
+per day.
+Principle 9: Business should engage with and provide value to their customers in a responsible manner
+Essential Indicators
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback. 
+	
+NIIT has a Data Subject Request Portal in place where a consumer can exercise their privacy rights. The link is provided 
+here https://www.niit.com/DSR/index.html. Customers can also write to NIIT on CustomerCareDigital@niit.com or 
+CustomerCare@niit.com for any complaints and feedback. 
+2.	
+Turnover of products and/ services as a percentage of turnover from all products/service that carry information 
+about: 
+As a percentage to total turnover
+Environmental and social parameters relevant to the product
+No services carry such information hence turnover as a 
+percentage is not applicable
+Safe and responsible usage
+Recycling and/or safe disposal
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT (Contd.)
+95
+3.	
+Number of consumer complaints in respect of the following:
+FY 2022- 23
+FY 2021-22
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution at end 
+of year
+Remarks
+Received 
+during the 
+year
+Pending resolution 
+at end of year
+Data privacy
+100
+100
+-
+70
+0
+-
+Advertising
+0
+0
+-
+0
+0
+-
+Cyber-security
+0
+0
+-
+0
+0
+-
+Delivery of essential
+services
+0
+0
+-
+0
+0
+-
+Restrictive Trade Practices
+0
+0
+-
+0
+0
+-
+Unfair Trade Practices
+0
+0
+-
+0
+0
+-
+Other
+0
+0
+-
+0
+0
+-
+4.	
+Details of instances of product recalls on account of safety issues
+Number
+Reasons for recall
+Voluntary recalls
+Not material to business
+Not material to business
+Forced recalls
+Not material to business
+Not material to business
+5.	
+Does the entity have a framework/policy on cyber security and risks related to data privacy? (Yes/No) If 
+available, provide a web-link of the policy.  
+	
+Yes, NIIT has a framework/policy on cyber security and risks related to data privacy. The web link of the policy is: https://
+www.niit.com/india/training/policy/pages/privacy-statement.aspx
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of 
+essential services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; 
+penalty / action taken by regulatory authorities on safety of products / services. No such complaint received, or 
+action taken against the company.
+Leadership Indicators
+1.	
+Channels / platforms where information on products and services of the entity can be accessed (provide web 
+link, if available) All of NIIT’s services are available on www.niit.com
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services. 
+NIIT engages with each customer through transparent contracting process before any service commitment is made. All 
+the disclosures pertaining to the usage of products including services and its inclusions are provided to all customers 
+as a prerequisite. 
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services. NIIT 
+agrees with service level agreements for uptime with each of its customer in its contract wherein mechanism to intimate 
+the customer for any disruption is also provided. All measures to report any disruptions and discontinuations are also 
+provided via full disclosure to NIIT’s customers.
+4.	
+Does the entity display product information on the product over and above what is mandated as per local 
+laws? (Yes/No/Not Applicable) If yes, provide details in brief. Did your entity carry out any survey with 
+regards to consumer satisfaction relating to the major products / services of the entity, significant locations of 
+operation of the entity or the entity as a whole? (Yes/No). Yes, NIIT displays all information regarding its education 
+delivery programs, in compliance with the regulatory requirements. NIIT also upholds transparency when providing 
+information around all its services. For more details, refer to our website www.niit.com. Yes NIIT carries customer 
+satisfaction survey relating to major products and services.
+5.	
+Provide the following information relating to data breaches:
+a.	
+Number of instances of data breaches along-with impact. 01 incidents of low level severity with no impact of 
+individual data being compromised.
+b.	
+Percentage of data breaches involving personally identifiable information of customers. NIL
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT (Contd.)

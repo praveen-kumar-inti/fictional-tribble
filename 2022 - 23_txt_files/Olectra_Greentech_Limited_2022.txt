@@ -1,0 +1,2786 @@
+Q Olectra Greentech Limited 
+04th September, 2023 
+To 
+BSE Limited 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, Mumbai-400 001 
+Scrip Code: 532439 
+Dear Sir /Madam, 
+To 
+National Stock Exchange of India Ltd 
+Exchange Plaza, 5th Floor, Plot No. C/ 1, 
+G Block, Bandra Kurla Complex, Bandra 
+(E) Mumbai-400 051 
+Svmbol: OLECTRA 
+Sub: Business Responsibility and Sustainability Report for FY 2022-23; 
+Pursuant to the Regulation 34 of the Securities and Exchange Board of India 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, please find 
+enclosed the Business Responsibility and Sustainability Report for FY 2022-23: 
+This is for your information and records. 
+Thanking You. 
+Yours Sincerely, 
+For Olectra Greentech Limited 
+P Hanuman Prasad 
+Company Secretary & Compliance Officer 
+Encl: As above 
+Registered Office : S-22, 3rd Floor, Technocrat Industrial Estate, Balanagar 
+Hyderabad - 500037 . Telangana, India. Tel · + 040-46989999 
+CIN • L341 00TG2000PLC035451. E-mail · lnfo@olectra.com. wwwolectra corn 
+PARITALA 
+HANUMAN 
+PRASAD
+Digitally signed by 
+PARITALA 
+HANUMAN PRASAD 
+Date: 2023.09.04 
+19:57:47 +05'30'
+111
+Annual Report 2022-23
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT F.Y. 2023
+BRSR Overview
+Section A: General Disclosures
+Section B: Management and Process Disclosures
+Section C: Principle-wise Performance Disclosure
+Principle 1
+Businesses should conduct and govern themselves with integrity and in a manner that is ethical, 
+transparent, and accountable
+Principle 2
+Businesses should provide goods and services in a manner that is sustainable and safe
+Principle 3
+Businesses should respect and promote the well-being of all employees, including those in their 
+value chains
+Principle 4
+Businesses should respect the interests of and be responsive to all their stakeholders
+Principle 5
+Businesses should respect and promote human rights
+Principle 6
+Businesses should respect and make efforts to protect and restore the environment
+Principle 7
+Businesses, when engaging in influencing public and regulatory policy, should do so in a man­
+ner that is responsible and transparent
+Principle 8
+Businesses should promote inclusive growth and equitable development
+Principle 9
+Businesses should engage with and provide value to their consumers in a responsible manner
+SECTION A: GENERAL DISCLOSURES
+I.
+Details of listed entity
+1.
+Corporate Identity Number (CIN) of 
+the Company
+L34100TG2000PLC035451
+2.
+Name of the Company
+Olectra Greentech Limited (Olectra or the Company)
+3.
+Year of Incorporation
+October 11, 2000
+4.
+Registered office address
+S-22, 3rd Floor, Technocrat Industrial Estate, Balanagar,
+Hyderabad-500 037, Telangana, India.
+5.
+Corporate office address
+S-22, 2nd & 3rd Floor, Technocrat Industrial Estate,
+Balanagar, Hyderabad – 500037
+6.
+E-mail
+info@olectra.com
+7.
+Telephone
++91-40-46989999
+8.
+Website
+www.olectra.com
+9.
+Financial year for which reporting is 
+being done 
+2022-2023
+10.
+Name of the Stock Exchange(s) where 
+shares are listed
+BSE Limited 
+National Stock Exchange of India Limited
+11.
+Paid-up Capital
+3,283.23 (Rs. in Lakhs)
+12.
+Name and contact details (telephone, 
+email address) of the person for BRSR 
+Reporting
+Mr. K.V. Pradeep, Chairman & Managing Director 
+Telephone Number 040-46989999; 
+E-mail- ID info@olectra.com
+13.
+Reporting boundary
+The disclosures under this report are made on a 
+Standalone basis.
+112
+Annual Report 2022-23
+II. 	 Products/services
+14. 	Details of business activities (accounting for 90% of the turnover):
+S. 
+No.
+Description of Main 
+Activity
+Description of Business Activity
+% Of Turnover of the entity
+1
+Electric Bus
+Manufacturing, Operations & annual 
+maintenance of Electric Buses
+87.07%
+2
+Power Insulators
+Manufacturing of Polymer Insulators
+10.91%
+3
+Electric Trucks
+Manufacturing of Electric Trucks
+2.02%
+15.	 Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. 
+No.
+Product/Service
+NIC Code
+% Of total Turnover 
+contributed
+1
+Electric Vehicles
+2910
+89.09%
+2
+Power Insulators
+2610
+10.91%
+III. 	 Operations
+16. 	Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of offices
+Total
+National
+3
+1
+4
+International
+0
+0
+0
+17.	 Markets served by the entity 
+a) 	 Number of locations
+Locations
+Number
+National (No. of States)
+E Vehicles – 9
+Insulator – PAN India 
+International (No. of Countries)
+E Vehicles - 1
+Insulators - 7
+b. 	 What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+The contribution of exports as a percentage to the total turnover of Olectra stands at 5.52%.
+c. 	
+A brief on types of customers 
+	
+Olectra serves a broad range of customers across the E Vehicles segment and the Composite Insulator 
+segment. 
+ 	
+Customers in the E Vehicles segment, comprises of State and Central Government bodies spread across 
+Indian cities such as Pune, Hyderabad, Mumbai, Ahmedabad, Silvassa, Nagpur, Surat, Tirupati, Cochin, 
+Kullu, Panjim, and Dehradun. 
+ 	
+Customers in the Composite Insulator segment, customers comprise of various State and Central Power 
+generation and distribution corporations, private power generation companies and multinational 
+infrastructure companies, located in India, the United States, Nigeria, Mozambique, Kenya, and Zambia.
+113
+Annual Report 2022-23
+IV. 	 Employees
+18. 	Details as of the end of the Financial Year:
+a) 	 Employees and workers (including differently abled):
+S. 
+No.
+Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+EMPLOYEES
+1.
+Permanent (D)
+348
+346
+99.43%
+2
+0.57%
+2.
+Other than Permanent (E)
+111
+107
+96.40%
+4
+3.60
+3.
+Total employees (D + E)
+459
+453
+98.69%
+6
+1.30%
+WORKERS
+4.
+Permanent (F)
+32
+32
+100%
+0
+0%
+5.
+Other than Permanent (G)
+760
+735
+96.71%
+25
+3.29%
+6.
+Total workers (F + G)
+792
+767
+96.84%
+25
+3.16%
+b. 	 Differently abled Employees and workers:
+S. 
+No.
+Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+DIFFERENTLY ABLED EMPLOYEES
+1.
+Permanent (D)
+NIL
+2.
+Other than Permanent (E)
+3.
+Total differently abled employees (D + E)
+DIFFERENTLY ABLED WORKERS
+4.
+Permanent (F)
+NIL
+5.
+Other than permanent (G)
+6.
+Total differently abled workers (F + G)
+19.	 Participation/Inclusion/Representation of women
+Particulars
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+7
+2
+28.57%
+Key Management Personnel
+3
+0
+0
+Note: Chairman & Managing Director is covered under both Board of Directors and Key Management Personnel
+20.	 Turnover rate for permanent employees and workers
+Particulars
+FY 2023
+FY 2022
+FY 2021
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent 
+Employees
+35%
+0%
+35%
+63.06%
+1.20 %
+64%
+33.46 %
+1.28%
+33%
+Permanent 
+Workers
+93.10%
+0%
+93.10%
+25%
+0
+25%
+0
+0
+0
+114
+Annual Report 2022-23
+V. 	 Holding, Subsidiary, and Associate Companies (including joint ventures)
+21. 	(a) 	 Names of holding/subsidiary / associate Companies / joint ventures
+S. 
+No.
+Name of the holding/
+Subsidiary/associate 
+Companies/ joint ventures 
+(A)
+Indicate whether 
+holding/ 
+Subsidiary/ 
+Associate/ Joint 
+Venture
+% Of 
+shares 
+held by 
+listed 
+entity
+Does the entity indicated 
+at column A participate 
+in the Business 
+Responsibility initiatives 
+of the listed entity? 
+(Yes/No)
+1
+MEIL Holdings Limited
+Holding
+50.02%
+No.However Olectra, keeps 
+all its subsidiaries informed 
+about initiatives undertaken 
+and processes implemented 
+to be a responsible and 
+sustainable organization 
+. It also encourages its 
+subsidiaries to participate in 
+such initiatives
+2
+Evey Trans (GTC) Private Limited
+Subsidiary
+51%
+3
+Evey Trans (SIL) Private Limited
+Associate
+26%
+4
+Evey Trans (UJJ) Private Limited
+Associate
+34%
+5
+Evey Trans (JAB) Private Limited
+Associate
+26%
+6
+Evey Trans (BLR) Private Limited
+Associate
+26%
+7
+Evey Trans (MHS) Private Limited
+Associate
+34%
+8
+Evey Trans (SMC) Private Limited
+Associate
+26%
+9
+Evey Trans (TEL) Private Limited
+Associate
+100%
+10
+SSISPL OGL BYD Consortium
+Joint Venture (JV) 
+26%
+VI. 	 CSR Details
+22. 	(i) 	 Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No) – Yes, CSR 
+is applicable as per section 135 of Companies Act,2013 
+ 	
+(ii) 	 Turnover (in Rs.): 113,440.67 (Rs. in Lakhs)
+ 	
+(iii) 	Net worth (in Rs.): 84,862.68 (Rs. in Lakhs)
+VII. 	Transparency and Disclosures Compliances:
+23. 	Complaints/Grievances on any of the principles (Principles 1 to 9) under the National 
+Guidelines on Responsible Business Conduct:
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance Redressal
+Mechanism in
+Place (Yes/No) 
+(If yes, then provide web-link for 
+grievance redress policy)
+FY 2023
+Current Financial Year
+FY 2022
+Previous Financial Year
+Number 
+of com­
+plaints 
+filed 
+during the 
+year
+Number 
+of com­
+plaints 
+pending 
+resolution 
+at close of 
+the year
+Re­
+marks
+Number 
+of com­
+plaints 
+filed 
+during 
+the year
+Number 
+of com­
+plaints 
+pending 
+resolution 
+at close of 
+the year
+Re­
+marks
+Investors 
+(other than 
+shareholders)
+Yes
+https://olectra.com/investor-grievances/
+NIL
+-
+NIL
+-
+Shareholders
+Yes, The Whistle Blower Policy of Olectra 
+serves as a grievance redressal platform 
+where Employees and Directors of the Com­
+pany and any external stakeholders such as
+suppliers or any other person associated 
+with the Company can report concerns or 
+complaints.
+https://olectra.com/wp-content/uploads/
+Whistle-Blower-Poliy.pdf
+Employees 
+and workers
+Customers
+Value Chain 
+Partners
+Communities
+115
+Annual Report 2022-23
+The Company being a listed entity has in place the Stakeholders Relationship Committee constituted as per the 
+provisions of Regulation 20 of SEBI (LODR) Regulations, 2015. This Committee is required to meet every quarter 
+to address the issues of the stakeholders.
+ Stakeholders having any issues with the Company or its Management can reach out to the Management through 
+an email (info@olectra.com) or in case of any insufficient or no response from the Management, they may raise 
+a complaint on SEBI’s SCORES platform or may reach out to the Registrar and Transfer agents (RTA) of the 
+Company. Also, the Company every quarter -upon declaration of financial results-ensures that all stakeholders 
+are provided an opportunity to raise their concerns on the business or any other conduct of the Company. They 
+can also enquire about the Company’s future plans and status of ongoing projects. They are also intimated on 
+the schedule of calls and are provided access to its audio recording, transcripts and presentations. This can be 
+accessed by the public at large within the timelines specified under the SEBI (LODR) Regulations, 2015. Gener­
+ally, the Company -within 24 hours of receipt of any query or concern from the stakeholders - responds and 
+resolves it. Complaints raised against the Company are resolved within a reasonable time in the best interest of 
+the stakeholders and the Company.
+Also, at every Stakeholder Relationship Committee meeting, the status of complaints received, resolved and 
+pending from both RTA and SCORES platform are presented to the Committee members for their review. During 
+this reporting period no complaints are pending for resolution from any category of stakeholders (i.e. investors, 
+employees, customers, etc.). 
+24. 	Overview of the entity’s material responsible business conduct issues
+S. 
+No.
+Material 
+issues 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+The rationale for identifying the risk/ 
+opportunity
+In case 
+of risk, 
+approach 
+to adapt or 
+mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate positive 
+or negative 
+implications)
+1
+Corporate 
+Governance
+Opportunity
+Corporate Governance is important to en­
+sure that a company is managed in the 
+shareholders' best interests. It leads to im­
+pactful decision-making in the company re­
+sulting in holistic growth
+-
+Positive
+2
+GHG 
+Emissions
+Opportunity
+Transitioning to renewable sources of ener­
+gy and adopting energy-efficient practices 
+in the company leads to cost optimization 
+and helps mitigate negative impact on the 
+environment..
+-
+Positive
+3
+Employee 
+Retention & 
+Wellbeing
+Opportunity
+Employees are one of the biggest assets of 
+an organization. The success of any busi­
+ness depends on maintaining positive rela­
+tionships with its employees.
+-
+Positive
+4
+Business 
+Conduct & 
+Ethics 
+Opportunity
+Establishes guidelines for employees and 
+other stakeholders to follow, enabling busi­
+ness activities to be carried out with honesty 
+and integrity. This is crucial to foster trust 
+among the stakeholders and public.
+-
+Positive
+5
+Occupa­
+tional Health 
+& Safety 
+ Opportunity Adopting health and wellbeing initiatives in­
+creases staff productivity and morale. 
+-
+ Positive
+116
+Annual Report 2022-23
+S. 
+No.
+Material 
+issues 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+The rationale for identifying the risk/ 
+opportunity
+In case 
+of risk, 
+approach 
+to adapt or 
+mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate positive 
+or negative 
+implications)
+6
+Waste 
+Management
+Opportunity
+Improves operational efficiency by adopting 
+the 3 R’s principles: Reducing, Reusing and 
+Recycling, while minimising environmental 
+harm and maintaining a safe and healthy 
+workplace
+-
+Positive
+7
+ Training & 
+Development
+Opportunity
+Training and Development empower em­
+ployees with better skills and career growth 
+but also boost workplace engagement and 
+relationships.
+-
+Positive
+8
+Opportu­
+nity in Clean 
+Tech
+Opportunity
+Investing in R&D to innovate environment-
+friendly products provides Olectra with 
+acompetitive edge and positively impacts 
+the demand for our products.
+-
+Positive
+117
+Annual Report 2022-23
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+Disclosure Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+Policy and management processes
+1.	 a. Whether your entity’s policy/
+policies cover each principle 
+and it’s core elements of the 
+NGRBCs. (Yes/No)
+Y
+Y 
+Y
+Y
+ Y
+Y
+Y 
+Y
+ Y
+	
+b. Has the policy been approved by 
+the Board? (Yes/No)
+Y
+ Y
+Y
+Y
+Y
+Y
+Y 
+Y
+Y 
+	
+c. 	 Web Link of the Policies, if 
+available
+https://olectra.com/wp-content/uploads/WhistleBlower-Poliy.pdf
+https://olectra.com/code-of-ethics/ 
+https://olectra.com/wp-content/uploads/OlectraCSR-policy-1.pdf
+https://olectra.com/wp-content/uploads/determination-of-
+materiality-for-disclosures.pdf 
+https://olectra.com/other-disclosures/ 
+https://olectra.com/wp-content/uploads/Nomination-and-
+Remuneration-Policy.pdf 
+https://olectra.com/wp-content/uploads/code-ofinternal-
+procedure-policy-09.01.2021-3.pdf 
+https://olectra.com/wp-content/uploads/Policy-onMaterial-
+Subsidiary.pdf 
+https://olectra.com/wp-content/uploads/code-ofindependent-
+directors-gil-f.pdf 
+https://olectra.com/wp-content/uploads/Policy-onRelated-Party-
+Transactions.pdf 
+https://olectra.com/wp-content/uploads/Human-Rights-Policy.pdf 
+https://olectra.com/wp-content/uploads/Anti-Corruption-and-
+Anti-Bribery-Policy.pdf 
+2.	 Whether the entity has translated 
+the policy into procedures. (Yes / 
+No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+3.	 Do the enlisted policies extend to 
+your value chain partners? (Yes/
+No)
+Y
+Y 
+Y
+Y 
+Y
+Y
+Y
+Y 
+Y 
+4.	 Name 
+of 
+the 
+national 
+and 
+international codes/certifications/
+labels/ standards (e.g., Forest 
+Stewardship Council, Fairtrade, 
+Rainforest 
+Alliance, 
+Trustee) 
+standards (e.g., SA 8000, OHSAS, 
+ISO, BIS) adopted by your entity 
+and mapped to each principle
+IATF 16949:2016 – Quality Management System
+ISO 9001:2015 – Quality Management System
+ISO 45001 –Health & Safety Management System
+ISO 14001 – Environmental Management System
+118
+Annual Report 2022-23
+Disclosure Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+5.	 Specific commitments, goals, and 
+targets set by the entity with defined 
+timelines if any
+During this reporting period, the Company began developing its 
+Environment Social & Governance (ESG) strategy.. It has completed 
+the materiality assessment and identified priority ESG focus areas. 
+The company will be setting its aspirations and developing a clear 
+path way to achieve these goals , next.
+6.	 Performance of the entity against 
+the specific commitments, goals, 
+and targets along-with reasons in 
+case the same are not met
+The Company also embarked on a baseline study, this reporting 
+year, to understand its current performance on ESG focus areas. 
+Hence performance will be disclosed in the subsequent years. 
+Governance, leadership, and oversight
+7. 	 Statement by director responsible for the business responsibility report, highlighting ESG 
+related challenges, targets, and achievements (listed entity has flexibility regarding the 
+placement of this disclosure)
+	
+We are committed to a sustainable future and eco-system that enhances the community’s social, economic, 
+and environmental well-being. In line with our commitment, we seek to put our best foot forward to combat 
+climate change with environmentally friendly solutions through our E Vehicles and allied products; create 
+an enabling and employee-friendly workplace to attract and sustain talent, and; build best governance 
+practices towards a transparent and ethical corporate culture. 
+8. 	 Details of the highest authority responsible for implementation and oversight of the Business 
+Responsibility policy (ies).
+	
+Mr. K.V. Pradeep
+	
+Chairman and Managing Director. Telephone Number 040-46989999; E-mail- ID info@olectra.com
+9. 	 Does the entity have a specified Committee of the Board/ Director responsible for decision-
+making on sustainability-related issues? (Yes / No). If yes, provide details. 
+	
+Yes, the Board of Directors (Board) oversee Sustainability and related risks and opportunities are considered 
+during decision making on strategy, governance, risk management and accountability. 
+	
+The Risk Management Committee (RMC) is responsible for formulating risk management policy to include 
+a framework for the identification of internal and external risks faced by Olectra, that inter alia includes 
+sustainability (particularly, ESG-related risks), and information.
+	
+The Board is tasked with overseeing and guiding the Company’s sustainability efforts and is responsible for 
+developing, implementing and monitoring the impact of the Company’s business activities and practices on 
+ESG pillars. 
+119
+Annual Report 2022-23
+10
+Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether review was undertaken by Director / Committee of 
+the Board/ Any other Committee
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above policies 
+and follow up action
+The Company’s policies are regularly reviewed by the Directors or Risk Com­
+mittee as often or as needed. Policies are also evaluated on their effective­
+ness during the review, and any modifications required to the policies and 
+processes are carried out.
+Compliance with statutory 
+requirements of relevance to the 
+principles, and rectification of any 
+non-compliances
+The Company complies with all applicable laws and regulations, and the 
+Senior Management provides the Board with a detailed Compliance Report 
+and other Statutory Compliance Certificates on those laws.
+The Management Information System records all compliances to create a 
+consolidated report for the Board members. The Board regularly examines 
+compliance reports for all legislation the Company is subject to. If there are 
+any instances of non-compliance, the Company takes action to correct them. 
+The Company’s Annual Report includes a certificate of corporate governance 
+compliance.
+Subject for Review
+Frequency (Annually/ Half yearly/ Quarterly/ Any other – please 
+specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above policies 
+and follow up action
+Half Yearly
+Compliance with statutory 
+requirements of relevance to the 
+principles, and rectification of any 
+non-compliances
+Regularly 
+11
+Has the entity carried out 
+independent assessment/ 
+evaluation of the working of its 
+policies by an external agency? 
+(Yes/No). If yes, provide name 
+of the agency.
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+ 
+Independent assessment/evaluation of the policies is being carried out by 
+the Board of Directors from time to time.
+12. 	If answer to question (1) above is “No” i.e., not all Principles are covered by a policy, reasons 
+to be stated: 
+Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity does not consider the principles 
+material to its business (Yes/No)
+Not Applicable
+The entity is not at a stage where it is in a 
+position to formulate and implement the 
+policies on specified principles (Yes/No)
+The entity does not have the financial or/
+human and technical resources available 
+for the task (Yes/No)
+It is planned to be done in the next finan­
+cial year (Yes/No)
+Any other reason (please specify)
+120
+Annual Report 2022-23
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+PRINCIPLE 1: BUSINESSES SHOULD CONDUCT AND GOVERN THEMSELVES WITH INTEGRITY, 
+AND IN A MANNER THAT IS ETHICAL, TRANSPARENT, AND ACCOUNTABLE
+Olectra strongly emphasises on ethical corporate citizenship and the establishment of a good corporate culture. 
+It has always believed in adhering to the best governance practices to ensure the protection of the interests of 
+all stakeholders of the Company in tandem with the healthy growth of the Company. The Company has always 
+discouraged practices that are abusive, corrupt and anti-competitive. Olectra’s philosophy is to conduct business 
+with high ethical standards in its dealings with all the stakeholders: employees, customers, suppliers, govern­
+ment, and the community. The Company has a strong and effective Whistle Blower Policy to deter and detect 
+actual or suspected misconduct. It has been established to ensure that genuine concerns of misconduct/unlawful 
+conduct, which an individual believes may be taking place within the organization, are raised at an early stage 
+responsibly and confidentially. This mechanism also safeguards against victimization of employees who avail of 
+the mechanism. Any employee may report such incident without fear to the Chairman of the Company’s Audit 
+Committee.
+Essential Indicators
+1. 	 Percentage coverage by training and awareness programs on any of the principles during the 
+financial year:
+Segment
+Total number 
+of training and 
+awareness pro­
+grammes held
+Topics/principles covered under the training and
+its impact
+% of persons 
+in ra espective 
+category covered 
+by the awareness 
+programmes
+Board of 
+Directors
+7
+All Independent Directors who are on the Board have undergone 
+induction and orientation training on the Company’s vision, strategic 
+direction, and core values, including ethics, corporate governance 
+practices, Code for the Independent Directors and the Board 
+Members, policies of the Company on Corporate Social Responsibility, 
+Remuneration Criteria, Vigil Mechanism, Related Party Transactions, 
+Risk Management etc., updates on significant amendments in 
+corporate and other laws and its impact on the Company.
+During the year, the organization’s Board of Directors and KMPs 
+participated in familiarization programmes comprising Policy 
+formation & Policy Deployment, Business, regulations, Economy and 
+Environmental, Social and Governance parameters.
+100%
+Key Mana­
+gerial 
+Personnel 
+Employees 
+other than 
+BoD and 
+KMPs
+12
+l	
+Human Rights
+l	
+Employee Wellness
+l	
+Employee upskilling 
+l	
+Product Sustainability
+l	
+Employee Safety
+99%
+Workers
+33
+l	
+Employee Wellness
+l	
+Employee upskilling 
+l	
+Product Safety
+l	
+Employee Safety
+90%
+121
+Annual Report 2022-23
+2.	
+Details of fines/penalties/punishment / award/compounding fees/settlement amount paid 
+in proceedings (by the entity or by its directors / KMPs) with regulators/ law enforcement 
+agencies/ judicial institutions in FY 2022-23 (Note: the entity shall make disclosures based on 
+materiality as specified in Regulation 30 of SEBI (Listing Obligations and Disclosure Require­
+ments) Regulations, 2015 and as disclosed on the entity’s website)
+Particulars
+NGRBC Principle
+Name of the regulatory/ 
+enforcement agencies/ 
+judicial institutions
+Amount
+(In INR)
+Brief 
+of the 
+Case
+Has an appeal 
+been preferred?
+(Yes/No)
+Monetary
+Penalty/ Fine
+NIL
+Settlement
+Compounding fee
+Non-Monetary
+Particulars
+NGRBC Principle
+Name of the regulatory/ enforcement 
+agencies/ judicial institutions
+Brief 
+of the 
+Case
+Has an appeal 
+been preferred? 
+(Yes/No)
+Imprisonment
+NIL
+Punishment
+3. 	 Of the instances disclosed in Question 2 above, details of the Appeal/Revision preferred in 
+cases where monetary or non-monetary action has been appealed.
+Case Details
+Name of the regulatory/ enforcement agencies/ judicial institutions
+NIL 
+4. 	 Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief 
+and if available, provide a web link to the policy.
+	
+Yes, the Company believes in “Zero Tolerance” against bribery, corruption, and unethical dealings/
+behaviors of any form, and the Board has laid down the directives to counter such acts in the form of the 
+“Code of Ethics & Business Conduct” and “Anti-Bribery and Anti-Corruption Policy”. 
+	
+The Code of Ethics & Business Conduct is on the Company’s website at https://olectra.com/code-of-
+ethics/. The Company will publish its Anti-Bribery and Anti-Corruption Policy on its corporate website 
+shortly.
+	
+The Anti-Bribery and Anti-Corruption Policy aims to safeguard and promote legitimate business throughout 
+the organisation and to prevent and prohibit corruption, bribery and similar acts. Every employee, KMP 
+and Directors of the Company including third parties engaged with the Company are bound to comply with 
+this Policy. The Anti-Bribery and Anti-Corruption Policy is to be read in conjunction with Code of Ethics & 
+Business Conduct. 
+	
+Olectra is committed to acting professionally, fairly, and with integrity in all its transactions. The Company 
+has established a vigil mechanism for Directors, employees and all other stakeholders to report their 
+genuine concerns or grievances about unethical behavior, actual or suspected fraud, or violation of the 
+Company’s Code of Conduct. As an integral part of such a vigil mechanism, the Whistle Blower Policy of 
+Olectra has been formulated to empower the internal and external stakeholders of Olectra to detect and 
+report any improper activity within the Company. 
+	
+Further, Olectra has also adopted a “Code of Conduct for Directors and Senior Management,” which 
+captures the behavioral and ethical standards to be maintained. The Company obtains an annual 
+confirmation affirming compliance with the Code from the Directors, Key Managerial Persons, and Senior 
+Management annually. . 
+122
+Annual Report 2022-23
+5. 	 Number of Directors/KMPs/employees/workers against whom disciplinary action was taken 
+by any law enforcement agency for the charges of bribery/ corruption:
+Segment
+FY 2023
+(Current Financial Year)
+FY 2022
+(Previous Financial Year)
+Directors
+NIL
+NIL
+KMPs
+Employees
+Workers
+6. 	 Details of complaints with regard to conflict of interest:
+Particulars
+FY 2023
+(Current Financial Year)
+FY 2022
+(Previous Financial Year)
+Number
+Remarks
+Number
+Remarks
+Number of complaints received 
+in relation to issues of Conflict of 
+Interest of the Directors
+NIL
+NIL
+Number of complaints received 
+in relation to issues of Conflict of 
+Interest of the KMPs
+7. 	 Provide details of any corrective action taken or underway on issues related to fines/penal­
+ties/action taken by regulators/ law enforcement agencies/ judicial institutions, on cases of 
+corruption and conflicts of interest. 
+	
+Not Applicable
+PRINCIPLE 2: BUSINESSES SHOULD PROVIDE GOODS AND SERVICES IN A MANNER THAT IS 
+SUSTAINABLE AND SAFE
+Olectra is a pioneer in bringing electric buses to the Indian market, and its continuing focus on electric buses 
+highlights the endeavor towards making public transport safe, economical, comfortable, and more sustainable 
+by providing a pollution-free ride with lower operational costs. Olectra envisions reconnecting people with a 
+futuristic way of travel, saving the earth with its environment-friendly solution, and being a major player in the 
+electric vehicles segment by creating a safe, comfortable commuting experience. With these electric vehicle 
+operations, Olectra has contributed significantly to safeguarding the environment by reducing air pollution and 
+mass mobility. 
+Essential Indicators
+1. 	 Percentage of R&D and capital expenditure (capex) investments in specific technologies to im­
+prove the environmental and social impacts of product and processes to total R&D and capex 
+investments made by the entity, respectively.
+Particulars
+FY 2023
+(Current 
+Financial 
+Year)
+FY 2022
+(Previous 
+Financial 
+Year)
+Details of improvements in environmental 
+and social impacts
+Research & 
+Development
+100%
+100%
+E Vehicle Segment 
+Through its extensive R&D initiatives, Olectra has focused on 
+improving the design of its environment-friendly E-Buses. The 
+design of a new platform for EV bus and EV Tipper has increased 
+the product portfolio and enabled more options for customers to 
+use EV vehicles in many applications and reduce the usage of 
+conventional Diesel vehicles.
+123
+Annual Report 2022-23
+Particulars
+FY 2023
+(Current 
+Financial 
+Year)
+FY 2022
+(Previous 
+Financial 
+Year)
+Details of improvements in environmental 
+and social impacts
+Insulator Segment
+The R&D initiatives of Olectra focus on improving the design of 
+its environment-friendly insulators. The insulator designs have 
+been optimized for quality and efficiency resulting reduced raw 
+material usage and wastage in the manufacturing processes. 
+These initiatives have ensured optimum use of energy and 
+increased efficiency. 
+Capex
+31%
+19%
+E Vehicle Segment 
+1.	 Olectra 
+acquired 
+technical 
+know-how 
+for 
+localized 
+manufacturing of chassis. This has created social benefits 
+such as improved accessibility, employment opportunities 
+and employee upskilling.
+2.	 Olectra conducts testing of its designs to evaluate them on 
+emissions and other environmental considerations. Olectra 
+conducted many regulatory and safety tests, which enables 
+road friendliness of the EV vehicles for the customers apart 
+from the necessity to comply with the Central Motor Vehicles 
+Rules requirements.
+2. 	 a.	
+ Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+	
+	
+Yes, Olectra has a sourcing policy that covers all the critical aspects like anti bribery, child labor, 
+worker’s safety, etc. The suppliers are required to sign this policy as part of their confirmation for 
+onboarding. 
+	
+b. 	 If yes, what percentage of inputs were sourced sustainably? 
+	
+	
+Around 95% of the inputs are sustainable. Olectra’s global supply chain is complex. It involves sourc­
+ing raw materials and services from different parts of the world. The Company adopted responsible 
+sourcing practices at all the stages of its supply chain over a period despite socioeconomic and cultur­
+al constraints across the countries to ensure long-term sustainability. The Company has a responsible 
+sourcing policy that applies to all its suppliers and requires hygienic working conditions, payment 
+of minimum wages and safety standards to be followed by all the employees involved throughout its 
+supply chain globally in strict adherence to the international labor policies. 
+3. 	 Describe the processes in place to safely reclaim your products for reusing, recycling and dis­
+posing at the end of life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste 
+and (d) other waste.
+	
+Olectra has taken up significant initiatives to use recycled materials wherever possible. Olectra uses en­
+vironment-friendly bio-degradable packing materials like corrugated paper boxes/cores and wooden 
+crates. Plastic consumption is minimal in the business operations of Olectra. 
+4. 	 Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / 
+No). If yes, whether the waste collection plan is in line with the Extended Producer Responsi­
+bility (EPR) plan submitted to Pollution Control Boards? If not, provide steps taken to address 
+the same
+	
+Yes, EPR applies to the entity’s activities. Olectra is in the process of EPR registration and setting up plans 
+and procedures in line with EPR guidelines. 
+124
+Annual Report 2022-23
+PRINCIPLE 3: BUSINESSES SHOULD RESPECT AND PROMOTE THE WELL-BEING OF ALL EM­
+PLOYEES, INCLUDING THOSE IN THEIR VALUE CHAINS
+Olectra believes that its human capital is one of the most valuable resources to tap the perennial growth of the 
+business. Olectra ‘s Code of Conduct and other specific internal policies provide guidelines for employee well-
+being related to participation, freedom, gender equality, a good environment and a harassment-free workplace. 
+A strong mechanism is established to deploy guidelines through a grievance redressal mechanism. The Com­
+pany is committed to providing equal, i.e., merit-based opportunities both at the time of recruitment and during 
+employment irrespective of caste, creed, gender, race, religion, disability, etc. 
+Further, the Company has a responsible Sourcing Policy applicable to all its suppliers. The Sourcing Policy 
+requires hygienic working conditions, payment of minimum wages, and safety standards to be followed for all 
+the employees throughout its supply chain, strictly adhering to domestic and international labor policies and 
+regulations.
+Essential Indicators
+1. 	 a. 	 Details of measures for the well-being of employees:
+Category
+% Of employees covered by
+Total 
+(A)
+Health 
+insurance
+Accident 
+insurance
+Maternity ben­
+efits
+Paternity 
+Benefits
+Day Care 
+Facilities
+No:
+(B)
+%
+(B/A)
+No:
+(C)
+%
+(C/A)
+No:
+(D)
+%
+(D/A)
+No:
+(E)
+%
+(E/A)
+No: 
+(F)
+%
+(F/A)
+Permanent Employees
+Male 
+346
+346
+100%
+346
+100%
+NIL
+NIL
+NIL
+Female
+2
+2
+100%
+2
+100%
+Total
+348
+348
+100%
+348
+100%
+Other than Permanent Employees
+Male 
+107
+107
+100%
+107
+100%
+NIL
+NIL
+NIL
+Female
+4
+4
+100%
+4
+100%
+Total
+111
+111
+100%
+111
+100%
+1.	
+b. 	 Details of measures for the well-being of workers:
+Category
+% Of Workers covered by
+Total 
+(A)
+Health 
+insurance
+Accident in­
+surance
+Maternity benefits
+Paternity 
+benefits
+Day Care 
+facilities
+No:
+(B)
+%
+(B/A)
+No:
+(C)
+%
+(C/A)
+No:
+(D)
+%
+(D/A)
+No:
+(E)
+%
+(E/A)
+No: 
+(F)
+%
+(F/A)
+Permanent Workers
+Male 
+32
+32
+100%
+32
+100%
+NIL
+NIL
+NIL
+Female
+0
+0
+NA
+0
+NA
+Total
+32
+32
+100%
+32
+100%
+Other than permanent workers
+Male 
+735
+735
+100%
+735
+100%
+NIL
+NIL
+NIL
+Female
+25
+25
+100%
+25
+100%
+Total
+760
+760
+100%
+760
+100%
+125
+Annual Report 2022-23
+2. 	 Details of retirement benefits, for Current F.Y. and Previous Financial Year.
+Category
+FY 2023
+(Current Financial Year)
+FY 2022
+(Previous Financial Year)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted 
+and depos­
+ited with the 
+authority(Y/
+N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited with 
+authority(Y/N/
+N.A.)
+PF
+99.78 %
+100%
+Y
+99.61 %
+100%
+Y
+Gratuity
+99.78 %
+100%
+Y
+99.61 %
+100%
+Y
+ESI
+8.50 %
+100%
+Y
+13.92 %
+100%
+Y
+Others – 
+please specify
+3. 	 Accessibility of workplaces - Are the premises/offices of the entity accessible to differently 
+abled employees, as per the requirements of the Rights of Persons with Disabilities Act, 2016? 
+If not, whether any steps are being taken by the entity in this regard.
+	
+Our premises and offices are accessible to the differently abled . Olectra is a fair and equal opportunity 
+employer and does not discriminate based on race, age, gender, religion or disabilities. At present, Olectra 
+does not have any differently abled employees and workers.
+4. 	 Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities 
+Act, 2016? If so, provide a web link to the policy.
+	
+Yes, Olectra is an equal opportunity employer, and its Human Rights Policy fairly addresses the employment of 
+differently abled person. The Company believes in fair and unbiased treatment of all individuals, regardless of 
+their characteristics. Olectra is committed to promoting diversity, preventing discrimination, and creating an 
+inclusive environment within the organization. The Human Rights Policy is placed on the Company’s website: 
+https://olectra.com/wp-content/uploads/Human-Rights-Policy.pdf_. 
+5. 	 Return to work and Retention rates of permanent employees that took parental leave. 
+Gender
+Permanent Employees
+Permanent Workers
+Return to work 
+rate
+Retention rate
+Return to work 
+rate
+Retention rate
+Male
+NIL
+NIL
+NIL
+NIL
+Female
+Total
+6. 	 Is there a mechanism available to receive and redress grievances for the following categories 
+of employees? If yes, give details of the mechanism in brief. 
+	
+The redressal mechanism is as follows: 
+Particulars
+Yes/No
+Permanent Employees
+Grievances are submitted to the reporting supervisory authority or the 
+Audit Committee or as per the procedure set out in the Company’s 
+Standing Orders. The employee/worker concerned can follow the 
+redressal mechanism laid out under the Whistle Blower Policy or, in case 
+of sexual harassment, under the Prevention of Sexual Harassment Act. 
+The reported concerns/grievances are investigated, and remedial actions 
+are taken commensurate with the nature of the offence per applicable 
+law. Remedial action may include disciplinary action against the accused 
+party, including termination. . 
+Other than Permanent Employees
+Permanent Workers
+Other than Permanent Workers
+126
+Annual Report 2022-23
+7. 	 Membership of employees in association(s) or Unions recognized by the listed entity 
+Category
+FY 2023
+(Current Financial Year)
+FY 2022
+(Previous Financial Year)
+Total em­
+ployees / 
+workers in 
+respective 
+category
+(A)
+No. of em­
+ployees /
+workers in 
+respective 
+category, who 
+are part of 
+association(s) 
+or Union
+(B)
+%
+(B/A)
+Total em­
+ployees / 
+workers in 
+respective 
+category
+(C)
+No. of em­
+ployees / 
+workers in 
+respective 
+category, who 
+are part of 
+association(s) 
+or Union
+(D)
+%
+(D/C)
+Total Permanent 
+Employees
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Male
+Female
+Total Permanent 
+Workers
+Male
+Female
+8.	
+Details of training given to employees 
+Cat­
+egory
+FY 2023
+(Current Financial Year)
+FY 2022
+(Previous Financial Year)
+Total 
+(A)
+On Health and 
+safety measures
+On Skill upgrada­
+tion
+Total 
+(D)
+On Health and 
+safety measures
+On Skill 
+upgradation
+No.
+(B)
+%
+(B/A)
+No. 
+(C)
+%
+(C/A)
+No.
+(E)
+%
+(E/D)
+No.
+(F)
+%
+(F/D)
+Employees
+Male
+453
+92
+20.30 %
+196
+43.27%
+309
+165
+53.39 %
+141
+45.63 %
+Female
+6
+0
+0
+0
+0
+3
+0
+0
+0
+0
+Total
+459
+92
+20.04 %
+196
+42.70%
+312
+165
+52.88 %
+141
+45.19 %
+Workers
+Male
+767
+767
+100%
+114
+14.86%
+492
+492
+100%
+90
+18.29%
+Female
+25
+25
+100%
+10
+40%
+19
+19
+100%
+5
+26.31%
+Total
+792
+792
+100%
+124
+15.65%
+511
+511
+100%
+95
+18.59%
+9. 	 Details of performance and career development reviews of employees 
+Category
+FY 2023
+(Current Financial Year)
+FY 2022
+(Previous Financial Year)
+Total (A)
+No. (B)
+% (B / A)
+Total (C)
+No. (D)
+% (D/C)
+Employees
+Male
+453
+0
+0
+309
+141
+45.63%
+Female
+6
+0
+0
+3
+2
+66.66%
+Total
+459
+0
+0
+312
+143
+45.83%
+127
+Annual Report 2022-23
+Category
+FY 2023
+(Current Financial Year)
+FY 2022
+(Previous Financial Year)
+Total (A)
+No. (B)
+% (B / A)
+Total (C)
+No. (D)
+% (D/C)
+Workers
+Male
+767
+0
+0
+492
+25
+5.08%
+Female
+25
+0
+0
+19
+0
+0
+Total
+792
+0
+0
+511
+25
+4.89%
+The Company’s appraisal cycle is from September to August. For FY 23, performance and career development 
+reviews of employees will be conducted from September 2023.
+10. 	Health and Safety Management System:
+a) 	 Has an occupational health and safety management system been implemented by the entity? 
+(Yes / No). If yes, the coverage of such a system?
+	
+Yes, Olectra is ISO 45001 certified and, therefore, in alignment with the principles and processes to provide 
+a healthy and safe workplace. Olectra is committed to the well-being and safety of employees, customers, 
+visitors, and other stakeholders affected by its business activities. The Company provides and maintains 
+a safe, healthy workplace by continuously addressing the risks of accidents, injuries and hazards. The 
+Company is focused on inculcating a culture of awareness, monitoring and participation surrounding 
+health and safety directly or through an agency or contractor. Olectra is also covered under the Factories 
+Act 1948, and other applicable labor laws and all health & safety systems are appropriately adhered to.
+b) 	 What are the processes used to identify work-related hazards and assess risks on a routine 
+and non-routine basis by the entity?
+	
+Olectra has established a systematic method for identifying and reporting work-related hazards, incidents, 
+and observations in line with principles and guidance laid down under ISO 45001. It includes:
+	
+l	
+Regular inspections of the workplace are conducted to spot potential dangers such as unattended 
+machinery, slick flooring, or blocked emergency exits.
+	
+l	
+Employees are motivated to be involved and report hazards they come across while working. 
+	
+l	
+Analysis of previous events and near-miss reports to find trends or issues that keep coming up and 
+require addressing.
+	
+The Company is also developing an online application, which will be implemented soon to enable identifi­
+cation and reporting of safety-related incidents faster, it also aides in monitoring such incidents to closure.
+c) 	 Whether you have processes for employees to report the work-related hazards and to remove 
+themselves from such risks. (Y/N)
+	
+Yes, Olectra conducts awareness sessions for the employees and the contractual workforce to educate them 
+about the importance of reporting hazards and their right to remove themselves from unsafe situations. 
+Regular training is conducted to empower employees to recognize and assess potential hazards and make 
+informed and safe decisions. 
+d) 	 Do the employees of the entity have access to non-occupational medical and healthcare ser­
+vices? (Yes / No)
+	
+Yes, Company employees are covered by medical insurance for occupational and non-occupational health 
+coverage. All workers are covered under Employee State Insurance (ESI). 
+128
+Annual Report 2022-23
+11.	 Details of safety-related incidents, in the following format
+Safety Incident/Number
+Category
+FY 2023
+(Current 
+Financial Year)
+FY 2022
+(Previous 
+Financial Year)
+Lost Time Injury Frequency Rate (LTIFR) 
+(Per one million person-hours worked)
+Employees
+NIL
+NIL
+Workers
+Total recordable work-related injuries
+Employees
+Workers
+No. of fatalities
+Employees
+Workers
+High consequence work-related injury or 
+ill-health (excluding fatalities)
+Employees
+Workers
+12. 	Describe the measures taken by the entity to ensure a safe and healthy workplace
+	
+Olectra is committed to the health and safety of all its employees and workers. The Company has established 
+high safety standards in the plants and an enabling working environment. 
+	
+Specific Committees: Olectra has set up a Safety Committee, holding holds regular meetings to evaluate 
+working conditions, incident reports, and risk assessments. The Safety Committee oversees all compliance 
+with policies and processes, addresses grievances and ensures health and safety compliance. Olectra has 
+also set up a Workers Committee that ensures that safety regulations are strictly adhered to at all locations.
+	
+Training Sessions and Safety Measures: Olectra maintains a planned safety training schedule to 
+establish a safety culture among its employees and workers. Safety weeks are organized, including various 
+events like safety workshops and health camps to increase health and hygiene awareness. Safety awareness 
+sessions are held to sensitize everyone, including vendors. To ensure employees and workers understand 
+workplace dangers and safeguards, Olectra has established safety systems which include safety manuals, 
+functional and behavioral training, etc.
+	
+The Safety Committee has put in place detailed Standard Operating Procedures (SOP) that are strictly 
+implemented for all the employees and the workers working at all the locations and on the shop floor.
+	
+Every new employee at the organization receives thorough safety training as part of the onboarding 
+procedure. All new employees and workers must comply with the safety induction e-training and policies.
+	
+Olectra is well-equipped with fire safety measures. Frequent fire drills and safety training sessions are 
+conducted to guide on fire equipment handling.
+	
+Inspections: The Company regularly inspects the facilities, equipment and tools in the business premises 
+for all officers and employees to work in a safe work environment and prepares the support plan for post-
+management and appropriate measures to prevent physical and mental hazards.
+129
+Annual Report 2022-23
+13.	 Number of Complaints on the following made by employee
+Particulars
+FY-2023
+(Current Financial Year)
+FY-2022
+(Previous Financial Year)
+Filed 
+during 
+the year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Filed 
+during 
+the year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Working Conditions
+0
+0
+-
+0
+0
+-
+Health & Safety
+1
+0
+Minor 
+complaints 
+on shop floor 
+issues
+3
+0
+Minor 
+complaints 
+on shop floor 
+issues 
+14.	 Assessments for the year:
+Particulars
+% Of your plants and offices that were assessed
+(by entity or statutory authorities or third parties)
+Health and safety practices
+100% 
+Working Conditions
+100% 
+15. 	Provide details of any corrective action taken or underway to address safety-related incidents 
+(if any) and on significant risks/concerns arising from assessments of health & safety practices 
+and working conditions.
+	
+Reporting of incidents, unsafe activities, unsafe conditions, and near-miss incidents are encouraged to 
+be actively reported. The Safety and Workers Committee examines the reported cases, and corrective 
+measures are taken to prevent them from being repeated. 
+	
+In case of any safety-related incident, the root cause is identified to understand the factors responsible for 
+the incident. Corrective actions, such as enhanced personal protective equipment requirements, process 
+changes, etc., are taken to prevent similar incidents. The corrective actions are continuously monitored and 
+reviewed to track improvements and its effectiveness . Employees and workers are encouraged to provide 
+feedback on the effectiveness of implemented changes. 
+PRINCIPLE 4: BUSINESSES SHOULD RESPECT THE INTERESTS OF AND BE RESPONSIVE TO ALL 
+ITS STAKEHOLDERS
+Olectra believes stakeholder participation is pivotal for any organization’s success and endeavors to create long-
+term, sustainable value for all stakeholders, including investors, customers, suppliers, employees, value chain 
+partners, communities, regulatory agencies, and policymakers. Olectra respects the interests and is responsive 
+to all stakeholders to create a positive impact, drive long-term success, and contribute to a more sustainable and 
+inclusive organization.
+Essential Indicators
+1.	
+Describe the processes for identifying key stakeholder groups of the entity.
+	
+Key stakeholders are determined based on their material influence on the Company, or how much of a 
+material influence the Company’s business decisions and their results have on them. The Company’s actions 
+or decisions either directly or indirectly impact the stakeholders. 
+	
+Olectra has identified internal as well as external stakeholders and maintains regular dialogue with its 
+stakeholders.
+130
+Annual Report 2022-23
+2. 	 List stakeholder groups identified as key for your entity and the frequency of engagement with 
+each stakeholder group.
+Stakeholder Group
+Whether 
+identified 
+as Vulner­
+able & 
+Marginal­
+ized Group 
+(Yes/No)
+Channels of com­
+munication (Email, 
+SMS, Newspa­
+per, Pamphlets, 
+Advertisement, 
+Community Meet­
+ings, Notice Board, 
+Website), Other
+Frequency of 
+engagement
+(Annually/ 
+Half yearly/ 
+Quarterly / 
+others – please 
+specify)
+Purpose and scope of engage­
+ment including key topics and 
+concerns raised during such 
+engagement
+Employees and Plant 
+Workers
+No
+Regular interaction, 
+get-together events, 
+workshops on 
+employee welfare
+Regularly
+To promote unity and feeling of one­
+ness among all the employees and 
+workers of the Company. 
+To educate about the importance of 
+mental health and overall well-being 
+Regulators
+No
+Timely intimation 
+of events, seeking 
+approvals, 
+providing necessary 
+clarifications, etc. 
+by way of mail or 
+personal interaction
+Event-Based
+To comply with the regulations and 
+reporting necessary disclosures or in­
+timations to the stock exchanges as per 
+the stipulated provisions by adhering 
+to the true letter and spirit of compli­
+ance and also reaching out to the re­
+spective regulatory authority for any 
+clarifications in case of ambiguity
+Suppliers
+No
+Frequent vendor 
+meet and constant 
+interaction
+Weekly
+To strengthen relationships and ad­
+dress any grievances or shortfalls in 
+the supply chain
+Shareholders/Investors
+No
+Stock Exchange 
+disclosures, 
+newspaper 
+advertisements, 
+investor meetings
+Quarterly and 
+Event Based
+To address and respond to the queries 
+or clarifications sought on future plans 
+and existing business of the Company
+Customers
+No
+Online Survey
+Regularly
+To seek feedback on the Company’s 
+products
+Community
+No
+Personal Interaction
+Yearly 
+To promote and implement the CSR ob­
+jectives of the Company
+Additionally, Olectra conducted materiality assessment during the year to reach out to its stakeholders and seek 
+their inputs on ESG topics that Olectra should focus on. 
+PRINCIPLE 5: BUSINESSES SHOULD RESPECT AND PROMOTE HUMAN RIGHTS
+Olectra strongly believes in fostering human dignity, equality, mutual respect, trust, tolerance, and fairness. The 
+Company endeavors and focuses its efforts on creating a healthy and enabling work environment for the em­
+ployees and the business. Olectra views safeguarding human rights as a moral obligation and the foundation of 
+ethical and sustainable business conduct.
+The Human Rights Policy of Olectra establishes its commitment to respecting and promoting human rights in all 
+aspects of its operations and interactions.
+131
+Annual Report 2022-23
+Essential Indicators
+1. 	 Employees and workers who have been provided training on human rights issues and 
+policy(ies) of the entity, in the following format:
+Category
+FY 2023
+(Current Financial Year)
+FY 2022
+(Previous Financial Year)
+Total (A)
+No. of em­
+ployees/
+workers 
+covered (B)
+%
+(B / A)
+Total (C)
+No. of 
+employees 
+/ workers 
+covered (D)
+%
+(D / C)
+Employees
+Permanent
+348
+348
+100%
+214
+214
+100%
+Other than permanent
+111
+111
+100%
+98
+98
+100%
+Total Employees
+459
+459
+100%
+312
+312
+100%
+Workers
+Permanent
+32
+32
+100%
+25
+25
+100%
+Other than permanent
+760
+760
+100%
+486
+486
+100%
+Total Workers
+792
+792
+100%
+511
+511
+100%
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+Cat­
+egory
+FY 2023
+(Current Financial Year)
+FY 2022
+(Previous Financial Year)
+Total (A)
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+Total (D)
+Equal
+to Minimum 
+Wage
+More than 
+Minimum Wage
+No.
+(B)
+%
+(B/A)
+No.
+(C)
+%
+(C/A)
+No.
+(E)
+%
+(E/D)
+No. (F)
+%
+(F / D)
+EMPLOYEES
+Permanent
+Male 
+346
+0
+0
+346
+100 %
+211
+0
+211
+100 %
+Female
+2
+0
+0
+2
+100 %
+3
+0
+3
+100 %
+Other than Permanent
+Male 
+107
+0
+0
+107
+100 %
+98
+0
+98
+100 %
+Female
+4
+0
+0
+4
+100 %
+0
+0
+0
+0%
+WORKERS
+Permanent
+Male 
+32
+0
+0
+32
+100%
+25
+0
+25
+100%
+Female
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Other than Permanent
+Male 
+735
+721
+98.09%
+14
+1.90%
+467
+455
+97.43%
+12
+2.56%
+Female
+25
+25
+100%
+0
+0
+19
+19
+100%
+0
+0
+132
+Annual Report 2022-23
+3. 	 Details of remuneration/salary/wages, in the following format:
+Particulars
+Male
+Female
+Number
+Median 
+remuneration/
+salary/wages of 
+respective category
+(in Rs.)
+Number
+Median 
+remuneration/
+salary/wages of 
+respective category
+(in Rs.)
+Board of Directors (BoD)
+4
+4,62,000
+2
+5,50,500
+Key Managerial Personnel (KMP)
+3
+88,06,789
+0
+0
+Employees other than BoD & KMP
+450
+3,68,484
+6
+5,66,178
+Workers
+767
+1,82,220
+25
+1,69,200
+*Note: Managing Director (MD) is considered as KMP and therefore MD’s remuneration forms part of KMP 
+group for median computation.
+4. 	 Do you have a focal point (Individual/ Committee) responsible for addressing human rights 
+impacts or issues caused or contributed to by the business? (Yes/No)
+	
+The Human Resource (HR) Department is responsible for addressing human rights impacts or issues caused 
+or contributed to by the business. 
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights 
+issues.
+	
+The Human Rights Policy of Olectra lays down the escalation matrix to report human rights-related 
+grievances wherein the employees can reach out to the immediate supervisor as the first point of contact. 
+In case of non-redressal at that level, the employees have the option to escalate the concern to the Head of 
+the Department, HR, Team and Chairman & Managing Director respectively. 
+6. 	 Number of Complaints on the following made by employees and workers:
+Particulars
+FY 2023
+(Current Financial Year)
+FY 2022
+(Previous Financial Year)
+Filed 
+during the 
+year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Filed 
+during the 
+year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Sexual harassment
+NIL
+NIL
+Discrimination at 
+workplace
+Child labor
+Forced labor / 
+Involuntary labor
+Wages
+Other human rights 
+related issues
+7. 	 Mechanisms to prevent adverse consequences to the complainant in discrimination and 
+harassment cases.
+	
+The Whistleblower Policy of Olectra strictly prohibits retaliation for reporting any violations by employees 
+and preservation of the complainant’s identity. Similarly, the POSH Policy of the Company forbids 
+victimization or discrimination of the complainant. All these issues are handled in strict confidentiality. 
+133
+Annual Report 2022-23
+8. 	 Do human rights requirements form part of your business agreements and contracts?
+	
+Yes, Olectra includes compliance to human rights parameters such as working hours, wage rate, facilities 
+and other statutory obligations as part of its business agreements and contracts.
+9. 	 Assessments for the year
+% Of your plants and offices that were assessed 
+(by entity or statutory authorities or third parties)
+Child labor
+NIL
+Forced/involuntary labor	
+Sexual harassment
+Discrimination at workplace
+Wages
+Others – please specify
+PRINCIPLE 6: BUSINESSES SHOULD RESPECT AND MAKE EFFORTS TO PROTECT AND RESTORE 
+THE ENVIRONMENT
+Olectra aims to create, develop, support, and strive to protect the environment through its Ebuses, ELCVs, 
+and allied products. As a part of its business mission, Olectra embraced its growth path into new-age green 
+technology with its flagship electric buses. Electric vehicles, including, electric buses are a salient warrior to 
+address the most challenging concerns of humankind viz., global warming, climate change, uncontrolled carbon 
+emissions, scarcity of fossil fuels, and sustainable mobility.
+Essential Indicators
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the follow­
+ing format:
+Parameter 
+(in GJ)
+FY 2023
+(Current Financial Year)
+FY 2022
+(Previous Financial Year)
+Total electricity consumption (A) 
+15,494
+13,490
+Total fuel consumption (B) 
+431
+325
+Energy consumption through other sources (C)
+150
+77
+Total energy consumption (A+B+C) 
+16,075
+13,892
+Energy intensity per rupee of turnover 
+(Total energy consumption/turnover in rupees)
+1.45x10-6
+2.37x10-6
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency (Y/N) If yes, the name of the external agency.
+	
+No, there has not been any independent assessment/ evaluation/assurance carried out by an external 
+agency.
+2. 	 Does the entity have any sites/facilities identified as designated consumers (DCs) under the 
+Performance, Achieve, and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, dis­
+close whether targets set under the PAT scheme have been achieved. In case targets have not 
+been achieved, provide the remedial action taken, if any.
+	
+No, Olectra doesn’t have any sites or facilities that are designated under the PAT Scheme.
+134
+Annual Report 2022-23
+3. 	 Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 2023
+(Current Financial Year)
+FY 2022
+(Previous Financial Year)
+Water withdrawal by source (in kiloliters)
+(i) Surface water
+0
+0
+(ii) Groundwater
+16,220
+16,710
+(iii) Third-party water
+2,380
+1,970
+(iv) Seawater / desalinated water
+0
+0
+(v) Others
+0
+0
+Total volume of water withdrawal
+ (In kiloliters) (i + ii + iii + iv + v)
+18,600
+18,680
+Total volume of water consumption 
+(In kiloliters)
+18,600
+18,680
+Water intensity per rupee of turnover
+ (Water consumed/turnover in Rupees)
+1.68x10-6
+3.19x10-6
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency. (Y/N) If yes, name of the external agency. No, there has not been any independent assessment/ 
+evaluation/assurance carried out by an external agency.
+4.	
+ Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of 
+its coverage and implementation. 
+ 	
+No, Olectra intends to implement a mechanism for Zero Liquid Discharge in its operations. 
+5. 	 Please provide details of air emissions (other than GHG emissions) by the entity, in the 
+following format:
+Parameter
+Please specify unit
+FY 2023
+(Current Financial 
+Year)
+FY 2022
+(Previous Financial 
+Year)
+NOx
+ug/m3
+13
+14
+SOx
+ug/m3
+12
+12
+Particulate matter (PM)
+ug/m3
+44
+45
+Persistent organic pollutants 
+(POP)
+NIL
+NIL
+Volatile organic compounds 
+(VOC)
+Hazardous air pollutants 
+(HAP)
+Others–please specify
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, the name of the external agency. .
+No, there has not been any independent assessment/ evaluation/assurance carried out by an external agency.
+135
+Annual Report 2022-23
+1.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, 
+in the following format:
+Parameter
+Unit
+FY 2023
+(Current 
+Financial Year)
+FY 2022
+(Previous 
+Financial Year)
+Total Scope 1 emissions 
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, 
+FCs, SF6, NF3, if available)
+tCO2e
+46
+12
+Total Scope 2 emissions 
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, 
+FCs, SF6, NF3, if available)
+tCO2e
+5,793
+2,754
+Total Scope 1 and Scope 2 emissions per rupee of 
+Turnover (in Rs)
+tCO2e/INR
+5.22x10-7
+2.53x10-6
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, the name of the external agency. 
+	
+No, there has not been any independent assessment/ evaluation/assurance carried out by an external 
+agency.
+7. 	 Does the entity have any project related to reducing Green House Gas emissions? If yes, then 
+provide details.
+	
+The electric buses manufactured by Olectra, have completed around 10 crores kms on Indian roads saving 
+around 3.33 crore liters of diesel and 325 crore rupees saved as fuel cost. This has helped reduce carbon 
+emissions of around 89.33 tons in the transport sector across multiple cities in India, which is equivalent to 
+planting around 41,35,802 trees.
+	
+Olectra has delivered approximately 1,188 buses to 16 various State Transport Undertakings and Corpo­
+rations. The successful operations of these buses over a period have not only reduced the carbon footprints 
+but it has also embarked on a sustainable ecosystem in public mobility. The cost-effectiveness in comparison 
+to the regular diesel buses has also promoted faster adoption of electric buses amongst various government 
+and non-government agencies.
+	
+The design of the electric buses is in tune with international standards. The buses reduce the use of fossil 
+fuels leading to a reduction of CO2 emissions and offering a cost-effective mobility to the public.
+8. 	 Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2023
+(Current Financial 
+Year)
+FY 2022 (Previous 
+Financial Year)
+Total Waste generated (in metric tons)
+Plastic waste (A)
+3.26
+1.80
+E-waste (B)
+ NIL
+NIL
+Bio-medical waste (C)
+Construction & demolition waste (D)
+Battery waste (E)
+Radioactive waste (F)
+Other Hazardous waste. Please
+specify, if any. (G)
+Other Non-hazardous waste generated (H). Please specify, if any. 
+(Break-up by composition i.e., by materials relevant to the sector)
+ 624.34
+ 360.7
+Total (A+B + C + D + E + F + G + H)
+ 627.60
+362.50
+136
+Annual Report 2022-23
+Parameter
+FY 2023
+(Current Financial 
+Year)
+FY 2022 (Previous 
+Financial Year)
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery 
+operations (In metric tons)
+Category of waste
+(i) Recycled
+508
+232.50
+(ii) Re-used
+32
+14.10
+(iii) Other recovery operations
+0
+0
+Total
+540
+246.60
+Category of waste
+(i) Incineration
+NIL
+NIL
+(ii) Landfilling
+(iii) Other disposal operations
+87.60
+115.90
+Total
+87.60
+115.90
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, the name of the external agency. 
+	
+No, there has not been any independent assessment/ evaluation/assurance carried out by an external 
+agency..
+9. 	 Briefly describe the waste management practices adopted in your establishments. Describe 
+the strategy adopted by your company to reduce usage of hazardous and toxic chemicals in 
+your products and processes and the practices adopted to manage such wastes.
+	
+Olectra does not generate any hazardous materials as part of its business operations. A significant portion 
+of the waste generated is recycled and reused.
+10. 	If the entity has operations/offices in/around ecologically sensitive areas (such as national 
+parks, wildlife sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal 
+regulation zones etc.) where environmental approvals/clearances are required, please specify 
+details in the following format:
+S. 
+No.
+Location of op­
+erations/offices
+Type of 
+operations
+Whether the conditions of environmental approval/
+clearance are being complied with? (Y/N) If not, the 
+reasons thereof and corrective action taken, if any.
+No facility/plant is there in such zone
+11. 	Details of environmental impact assessments of projects undertaken by the entity based on 
+applicable laws, in the current financial year:
+Name & brief 
+details of 
+project
+EIA 
+Notification 
+No.
+Date
+Results communicated 
+in public domain
+(Yes / No)
+Name and 
+brief details of 
+project
+EIA
+Not Applicable
+12.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in 
+India, such as the Water (Prevention and Control of Pollution) Act, Air (Prevention and Control 
+of Pollution) Act, Environment protection act and rules thereunder (Y/N). If not, provide details 
+of all such non-compliances, in the following format:
+	
+Yes, the Company is compliant with all applicable laws and regulations.
+S. 
+No.
+Specify the law/ regu­
+lation/ guidelines which 
+was not complied with
+Provide details 
+of the non- 
+compliance
+Any fines / penalties /action taken by 
+regulatory agencies such as pollution 
+control boards or by courts
+Corrective 
+action taken, 
+if any
+NIL
+137
+Annual Report 2022-23
+PRINCIPLE 7: BUSINESSES, WHEN ENGAGING IN INFLUENCING PUBLIC AND REGULATORY 
+POLICY, SHOULD DO SO IN A MANNER THAT IS RESPONSIBLE AND TRANSPARENT
+The Company ensures that utmost care is taken when engaging in Government affairs and public policy advoca­
+cy. The Company has internal teams that coordinate these efforts. Strategic decisions on advocacy are involved 
+by employees from top management, and approved personnel participate in this process. The Company may 
+engage in policy discussions that matter to the Company’s business and its customers. 
+Essential Indicators
+1.	
+a. 	 Number of affiliations with trade and industry chambers/ associations - 6
+	
+b. 	 List the top 10 trade and industry chambers/ associations (determined based on the total 
+members of such body) the entity is a member of/ affiliated to.
+S. 
+No.
+Name of the trade and industry chambers/ 
+associations
+Reach of trade and industry cham­
+bers/ associations (State/National)
+1
+Confederation of Indian Industry 
+National
+2
+Federation of Indian Export Organization 
+National
+3
+Federation of Telangana Chambers of Commerce and 
+Industry
+State
+4
+Engineering Export Promotion Council
+National
+5
+Andhra Chamber of Commerce
+State
+6
+Indian Chamber of Commerce
+National
+2. 	 Provide details of corrective action taken or underway on any issues related to anti-competitive 
+conduct by the entity, based on adverse orders from regulatory authorities.
+Name of the entity
+Brief of the case
+Corrective action taken
+NIL 
+PRINCIPLE 8: BUSINESSES SHOULD PROMOTE INCLUSIVE GROWTH AND EQUITABLE DEVEL­
+OPMENT
+The Company believes that to have a growth and equitable development, the Company has to work in co-
+ordination with its ecosystem. The Company also believes that social, environmental and economic values are 
+interlinked, and the Company belongs to an interdependent ecosystem comprising shareholders, consumers, 
+associates, employees, government, environment and community. 
+Essential Indicators
+1. 	 Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on ap­
+plicable laws, in the current financial year. 
+Name and 
+brief details of 
+project
+SIA No­
+tification 
+No.
+Date of 
+notification
+Whether conduct­
+ed by independent 
+external agency 
+(Yes / No)
+Results 
+communicated 
+in public domain 
+(Yes/No)
+Relevant 
+Weblink
+ Not Applicable
+2. 	 Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is 
+being undertaken by your entity, in the following format: 
+Name of Project 
+for which R&R 
+is ongoing
+State
+District
+No. of Project 
+Affected Families 
+(PAFs)
+No. of Project 
+Affected Families 
+(PAFs)
+Amounts paid to 
+PAFs in the F.Y. 
+(In INR)
+Not Applicable
+138
+Annual Report 2022-23
+3. 	 Describe the mechanisms to receive and redress grievances of the community. 
+	
+The Whistle Blower Policy of Olectra serves as a grievance redressal platform where Community can report 
+concerns or complaints.
+	
+1.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers: 
+FY 2023
+(Current Financial Year)
+FY 2022
+(Previous Financial Year)
+Directly sourced from MSMEs/ small producers
+43%
+60%
+Sourced directly from within the district and 
+neighboring districts
+ 18%
+ 20%
+PRINCIPLE 9: BUSINESSES SHOULD ENGAGE WITH AND PROVIDE VALUE TO THEIR CONSUMERS 
+IN A RESPONSIBLE MANNER 
+Olectra ensures that products supplied are per stated quality and specifications to ensure customer satisfaction. 
+Olectra promptly responds to all queries, handles complaints fairly and ensures that products comply with 
+regulatory requirements. Olectra keeps a check on the customer concerns received in the reporting period and 
+has resolved all their concerns. There are no complaints or consumer cases pending this financial year. The 
+Company has various checks and balances in place to ensure that the business of the Company is undertaken 
+fairly and responsibly.
+Essential Indicators
+1. 	 Describe the mechanisms in place to receive and respond to consumer complaints and 
+feedback.
+	
+Olectra contacts/visits the customer immediately upon receipt of any complaint/feedback to understand 
+the issue and circumstances. Pictures or documents are collected, if any, and samples are brought to the 
+factory, if required, where the root cause analysis is performed to identify the issue. The next action/step 
+is communicated to the customer, based on the analysis. Where required, Olectra also deputes a technical 
+representative at the customer’s site.
+2	
+Turnover of products and / services as a percentage of turnover from all products/services that 
+carry information about 
+As a percentage of total turnover
+Environmental and social parameters relevant to the product
+90%
+Safe and responsible usage 
+90%
+Recycling and/or safe disposal 
+0
+The Company adheres to all the applicable regulations regarding product labeling and displays relevant 
+information on it. The e-vehicles are sold along with the product manual capturing the safety guidance. 
+3	
+Number of consumer complaints in respect of the following:
+FY 2023
+(Current Financial Year)
+FY 2022
+(Previous Financial Year)
+Received dur­
+ing the year
+Pending resolution 
+at end of year
+Re­
+marks
+Received dur­
+ing the year
+Pending resolution 
+at end of year
+Re­
+marks
+Data Privacy
+NIL
+NIL
+Advertising
+Cyber security
+Delivery of essential services
+Restrictive Trade Practices
+Unfair Trade Practices
+Other
+2
+0
+0
+1
+0
+0
+139
+Annual Report 2022-23
+4	
+Details of instances of product recalls on accounts of safety issues 
+Number
+Reasons for recall
+Voluntary recalls
+NIL
+NIL
+Forced recalls
+5. 	 Does the entity have a framework/ policy on cyber security and risks related to data privacy? 
+(Yes/No) If available, provide a web link of the policy. 
+	
+Yes, the Risk Management Committee is responsible for formulating the risk management policy to include 
+a framework for the identification of internal and external risks specifically faced by Olectra, which inter 
+alia includes cyber security risk.
+6. 	 Provide details of any corrective actions taken or underway on issues relating to advertising, 
+and delivery of essential services; cyber security and data privacy of customers; re-occurrence 
+of instances of product recalls; penalty/action taken by regulatory authorities on safety of 
+products/services. 
+	
+Nil

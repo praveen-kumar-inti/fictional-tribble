@@ -1,0 +1,2559 @@
+ 
+CIN: L64200MH1999PLC137729, Music Broadcast Limited | Register office: 5th Floor, RNA Corporate Park, Off Western Express Highway, Kalanagar, Bandra (E), 
+Mumbai - 400051. | Tel: +91 22 66969100 | Fax: +91 22 26429113 | Website: www. radiocity.in 
+ 
+July 26, 2023 
+ 
+National Stock Exchange of India Limited 
+Exchange Plaza, 5th Floor 
+Plot No. C/1, G Block; Bandra (East) 
+Mumbai 400 051 
+BSE Limited 
+Corporate Relationship Department 
+Phiroze Jeejeebhoy Towers 
+Dalal Street; Fort, Mumbai 400 001 
+Equity 
+Scrip Code 
+RADIOCITY 
+Equity 
+Scrip Code 
+540366 
+ISIN 
+INE919I01024
+ISIN
+INE919I01024
+NCRPS Scrip Code 
+RADIOCITY
+NCRPS 
+Scrip Code
+717504 
+ISIN 
+INE919I04010
+ISIN
+ INE919I04010
+ 
+Dear Sir/Ma’am, 
+ 
+Subject: Business Responsibility and Sustainability Report for the Financial Year 2022-23 
+Pursuant to Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations & 
+Disclosure Requirements) Regulations 2015, we are submitting herewith the Business Responsibility and 
+Sustainability Report for FY 2022-23 which forms part of the Annual Report FY 2022-23. 
+ 
+The aforesaid document is also available on the Company's website at www.radiocity.in. 
+ 
+This is for your information and records. 
+Thanking you, 
+For Music Broadcast Limited 
+ 
+ 
+ 
+Arpita Kapoor  
+Company Secretary and Compliance Officer 
+Membership No. F8842 
+ 
+Encl: As above 
+ 
+ 
+ 
+ 
+ARPITA 
+MEHROTRA 
+KAPOOR
+Digitally signed by ARPITA MEHROTRA KAPOOR 
+DN: c=IN, postalCode=400068, st=MAHARASHTRA, 
+street=A204HARESHWAR PARADISE OPP LINK ROADMUMBAI 
+SUBURBANDAHISAR WESTKANDARPADA 400068, l=MUMBAI 
+SUBURBAN, o=Personal, title=8609, 
+serialNumber=d6d75011cc81c73b5309a7ee86cc2d6060b50c
+6c87c97a7569d9e77b12339ace, 
+pseudonym=860920220928125257855, 
+2.5.4.20=d937deb9bccba65d69657cfebf96f9ecedde169501e
+a8da3f9d1ec8782110fd9, 
+email=CSARPITAKAPOOR@GMAIL.COM, cn=ARPITA 
+MEHROTRA KAPOOR 
+Date: 2023.07.26 14:47:19 +05'30'
+Section A: General Disclosures
+Details of the listed entity
+1.
+Corporate Identity Number (CIN) of the Company
+L64200MH1999PLC137729
+2.
+Name of the Listed Entity
+Music Broadcast Limited
+3.
+Year of incorporation
+1999
+4.
+Registered Office Address
+5th Floor, RNA Corporate Park, Off. Western Express Highway, 
+Kalanagar, Bandra (East), Mumbai 400051
+5.
+Corporate address
+5th Floor, RNA Corporate Park, Off. Western Express Highway, 
+Kalanagar, Bandra (East), Mumbai 400051
+6.
+E-mail
+investor@myradiocity.com; cs@myradiocity.com
+7.
+Telephone
+022-66969100
+8.
+Website
+www.radiocity.in
+9.
+Financial year for which reporting is being done
+April 1, 2022 - March 31, 2023
+10. Name of the Stock Exchange(s) where shares are listed
+National Stock Exchange of India Limited (NSE)
+BSE Limited (BSE)
+11. Paid-up Equity Capital
+INR 69,13,71,250
+12. Name and Contact Details (telephone, email address) of the person who may be contacted in case of any queries on the BRSR 
+report
+Name of the Person
+Ms. Arpita Kapoor
+Company Secretary and Compliance Officer
+Telephone Number
+022-66969100
+E-mail address
+cs@myradiocity.com
+13. Reporting boundary
+The disclosures made under this Business Responsibility and 
+Sustainability Report ("BRSR") are on standalone basis
+Products/ Services
+14.	 Details of business activities: (accounting for 90% of the turnover)
+Sr. 
+no.
+Description of 
+the main activity
+Description of business activity
+% of 
+turnover of 
+the entity
+1.
+Private FM radio 
+broadcasting
+Broadcasting content
+90.98
+15. 	 Products/ Services sold by the entity: (accounting for 90% of the entity’s Turnover)
+Sr. 
+no. Product/Service 
+NIC Code 
+% of total Turnover contributed
+1.
+Private FM radio broadcasting
+60100
+90.98
+Operations – 
+16.	 Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of offices
+Total
+National
+NA
+Studios at 28 cities and Satellite 
+Stations at 11 cities
+39
+International
+NA
+-
+-
+* For further details, refer to the Report on Corporate Governance, forming part of this Annual Report
+Business Responsibility & Sustainability Report
+ANNEXURE - III TO THE DIRECTOR’S REPORT
+Corporate Overview
+Statutory Reports
+Financial Statements
+81
+17. 	 Markets served by the Entity
+	
+a.	
+Number of locations:
+Locations
+Number
+National (No. of States)
+13
+International (No. of Countries)
+0
+	
+b.	
+What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+Music Broadcast Limited (“MBL”) is a service-based Company, which provides radio broadcasting services to listeners 
+across India. The contribution of exports of services is 0.68% of the total turnover of the Company for the year ended 
+March 31, 2023.
+	
+c.	
+A brief on types of customers
+	
+With 39 radio stations across India, MBL engages with a wide spectrum of customers, which include listeners, multiple 
+advertisement agencies, media partners, other broadcasting agencies, government and non- government organizations, 
+retail chains, educational institutes, etc.
+Employees –
+18. 	 Details as at the end of financial year:
+	
+a. 	 Employees and workers (including differently abled):
+Sr. 
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+EMPLOYEES
+1.
+Permanent (D)
+430
+353
+82%
+77
+18%
+2.
+Other than Permanent (E)
+205
+143
+70%
+62
+30%
+3.
+Total employees (D + E)
+635
+496
+78%
+139
+22%
+WORKERS
+4.
+Permanent (F)
+-
+-
+-
+-
+-
+5.
+Other than Permanent (G)
+-
+-
+-
+-
+-
+6.
+Total workers (F + G)
+-
+-
+-
+-
+-
+	
+b. 	 Differently abled employees and workers:
+Sr. 
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+Differently Abled Employees
+1.
+Permanent (D)
+ -
+ -
+-
+ -
+-
+2.
+Other than Permanent (E)
+ -
+ -
+-
+ -
+-
+3.
+Total employees (D + E)
+-
+-
+-
+-
+- 
+Differently Abled Workers
+4.
+Permanent (F)
+-
+-
+-
+-
+-
+5.
+Other than Permanent (G)
+-
+-
+-
+-
+-
+6.
+Total workers (F + G)
+-
+-
+-
+-
+-
+19. 	 Participation/Inclusion/Representation of women:
+Particulars
+Total (A)
+No. and percentage of 
+Females
+No. (B)
+% (B / A)
+Board of Directors
+7
+1
+14%
+Key Management Personnel (KMP)*
+3
+1
+33%
+*Includes Chief Executive Officer, Chief Financial Officer and Company Secretary as defined under Section 203 (1) of the Companies Act, 2013
+Annual Report 2022-23
+82
+Accelerating the Radigital Future
+20. 	 Turnover rate for permanent employees and workers (Disclose trends for the past 3 years)
+Particulars
+FY 2022-23
+FY 2021-22
+FY 2020-21
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+28%
+43%
+31%
+34%
+11%
+29%
+29%
+9%
+25%
+Permanent Workers
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Holding, Subsidiary and Associate Companies (including joint ventures) -
+21. 	 Names of holding / subsidiary / associate companies / joint ventures
+Sr. 
+No.
+Name of the holding/
+subsidiary / associate 
+companies / joint ventures (A)
+Indicate whether 
+holding/ Subsidiary/ 
+Associate/ Joint 
+Venture
+% of shares 
+held by 
+listed entity
+Does the entity indicated 
+at column A, participate in 
+the Business Responsibility 
+initiatives of the listed entity? 
+(Yes/No)*
+1
+Jagran Prakashan limited
+Holding
+74.05%
+No
+CSR Details
+22. 	 (i) 	 Whether CSR is applicable as per section 135 of Companies Act, 2013*: Yes
+	
+(ii) 	 Turnover: ` 19886.14 Lakhs
+	
+(iii) 	Net worth: ` 52474.90 Lakhs
+	
+*For further details on CSR activities, refer the Director's Report, forming part of this Annual Report.
+Transparency and Disclosures Compliances
+23.  Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on 
+Responsible Business Conduct:
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance Redressal 
+Mechanism in Place  
+(Yes/No)
+(If yes, then provide web-
+link for grievance redress 
+policy)
+FY (2022-23)
+FY (2021-22)
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities
+Yes, MBL has in place a 
+comprehensive CSR policy 
+which provides an overview to 
+take initiatives for the wellbeing 
+and development of the 
+communities. The Company 
+ensures to address the concerns 
+and create awareness among 
+communities by continuous 
+interactions with them during 
+CSR activities and other social 
+awareness programmes.
+Policies can be accessed at: 
+https://www.radiocity.in/
+investors/policies-code-of-
+conduct
+No 
+complaints 
+filed during 
+the reporting 
+year
+NIL
+NA
+No 
+complaints 
+filed during 
+the reporting 
+year
+NIL
+NA
+Corporate Overview
+Statutory Reports
+Financial Statements
+83
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance Redressal 
+Mechanism in Place  
+(Yes/No)
+(If yes, then provide web-
+link for grievance redress 
+policy)
+FY (2022-23)
+FY (2021-22)
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Shareholders
+Yes, 
+the 
+Company 
+attends 
+shareholders 
+grievances 
+/ 
+correspondences expeditiously 
+and has in place a grievance 
+redressal 
+mechanism. 
+Shareholders 
+may 
+register 
+their complaints / grievances / 
+concerns either directly with the 
+Company or they may approach 
+the registrar and share transfer 
+Agent of the Company. 
+A dedicated policy https://
+www.radiocity.in/investors/
+policies-code-of-conduct 
+is 
+available to all the shareholders 
+to share their grievances / 
+complaints
+For details on investor complaints received and resolved, refer to the ‘Investor 
+Complaints’ available in the Corporate Governance Report of this Annual Report
+Investors 
+(Other than 
+shareholders)
+Employee & 
+Workers
+Yes, MBL has a POSH Policy 
+and Vigil Mechanism Policy/ 
+Whistle Blower Policy to cater 
+the grievances raised by the 
+employees. 
+Furthermore, 
+the company has developed 
+a 
+dedicated 
+Business 
+Responsibility and Sustainability 
+(BRSR) policy (accessible at: 
+https://www.radiocity.in/
+investors/policies-code-of-
+conduct) to align with the 
+NGRBC guidelines and ensure 
+compliance with human rights 
+practices and employee welfare 
+and wellbeing.
+No 
+complaints 
+filed during 
+the reporting 
+year
+NIL
+NA
+No 
+complaints 
+filed during 
+the reporting 
+year
+NIL
+NA
+Customers
+The company has an open-
+door policy for customers to 
+approach directly to the officials 
+of the Company and seek 
+feedback in terms of service 
+quality.
+No 
+complaints 
+filed during 
+the reporting 
+year
+NIL
+NA
+No 
+complaints 
+filed during 
+the reporting 
+year
+NIL
+NA
+Value Chain 
+Partners
+MBL has in place a dedicated 
+Supplier Code of Conduct 
+and BRSR policy (accessible 
+at: 
+https://www.radiocity.
+in/investors/policies-code-
+of-conduct) 
+that 
+provides 
+a platform to address the 
+grievances of the suppliers. 
+No 
+complaints 
+filed during 
+the reporting 
+year
+NIL
+NA
+No 
+complaints 
+filed during 
+the reporting 
+year
+NIL
+NA
+Others (Please 
+specify)
+-
+-
+-
+-
+-
+-
+-
+Annual Report 2022-23
+84
+Accelerating the Radigital Future
+24.	 Overview of the entity’s material responsible business conduct issues
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters 
+that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or mitigate the 
+risk along-with its financial implications, as per the following format:
+Sr. 
+No.
+Material issue 
+Identified
+Indicate 
+Whether 
+Risk or 
+Opportunity
+Rationale for 
+identifying Risk / 
+Opportunity
+In case of risk, approach 
+to adapt or mitigate
+Financial implications 
+of the risk or opportunity 
+(Indicate positive or negative 
+implications)
+1.
+Human 
+Capital 
+( E m p l o y e e 
+engagement 
+and 
+wellbeing, diversity- 
+and 
+inclusion, 
+occupational health 
+and safety, training 
+and education)
+Risk & 
+Opportunity
+Risk: The success of the 
+Company depends on 
+the continued efforts, 
+abilities and expertise 
+of its employees. With 
+emerging 
+demands 
+and competition the 
+Company possesses risk 
+for hiring and retaining 
+skilled employees without 
+significant costs or delays.
+Opportunity: Human 
+Resource is an asset to 
+the organization and 
+therefore due efforts are 
+taken to provide material/ 
+non-material benefits to 
+employees, creating an 
+employee friendly work 
+environment, maintaining 
+f a i r  
+w a g e s  
+b a s i s 
+performance/ appraisal 
+system.
+•	 Comprehensive employee 
+friendly policies and 
+procedures Trainings 
+provided for human rights 
+awareness, Employee 
+engagement programs, 
+Compliance with statutory 
+norms.
+•	 Robust occupational health 
+and safety management 
+system to mitigate the risks.
+•	 Mechanism in place 
+to 
+avoid 
+workforce 
+discrimination, sexual 
+harassment and encourage 
+fair working environment 
+for employees.
+Risk: Any failure in the Operational 
+Health & Safety management 
+system may cause loss in man-
+days and impact productivity 
+of operations. Further, it has an 
+intangible effect on demoralizing 
+employees.
+Opportunity: Strengthening 
+the employee relationship and 
+abiding by human rights can result 
+in enhanced productivity and 
+lower attrition rate.
+2.
+Data Privacy and 
+Cyber Security
+Risk
+Risk: Reputational loss and 
+financial liabilities as per 
+the laws and regulations, 
+if privacy breaches and 
+security 
+incidents 
+are 
+attributed to the business.
+•	 F o r m u l a t e d  
+a n d 
+implemented policies and 
+procedures to identify and 
+report privacy breaches 
+to the affected subjects 
+within the stipulated time.
+Risk: Loss of trust among customers 
+and other stakeholders due to any 
+incident reported for privacy or 
+security breach can lead to financial 
+penalties.
+Opportunity: Minimize cybersecurity 
+threats to customers and other 
+stakeholders 
+through 
+advanced 
+cybersecurity solutions.
+3.
+Business Ethics, 
+Governance and 
+Transparency
+Risk & 
+Opportunity
+Risk: Instances of unethical 
+practices and behavior can 
+tarnish brand image.
+Opportunity: 
+ 
+Building 
+a culture of integrity and 
+transparency is linked with 
+the fulfillment of mandates 
+as well as strengthening 
+relationships 
+with 
+stakeholders.
+Well 
+defined 
+Code 
+of 
+Conduct and policies relevant 
+for all internal and external 
+stakeholders
+Risk: 
+Penalties 
+due 
+to 
+non-
+compliances to relevant laws and 
+regulations in line with ethical 
+business practices.
+Opportunity: Ethical practices and 
+strong governance can help in 
+building long term relationship and 
+trust with all the stakeholders.
+4.
+Risk Management
+Risk & 
+Opportunity
+Risk: The risk of business 
+loss 
+resulting 
+from 
+inadequate 
+or 
+failed 
+internal 
+processes 
+and 
+systems, people or from 
+external events.
+Opportunity: 
+Effective 
+Risk Management can help 
+in identifying risks and 
+opportunities 
+associated 
+with each material aspect 
+of the business.
+•	 E f f e c t i v e  
+B u s i n e s s 
+Continuity Plan
+•	 E n t e r p r i s e  
+R i s k 
+Management framework
+Risk: Reputational and financial 
+damage 
+leading 
+to 
+loss 
+of 
+customers.
+Opportunity: Risk mitigation can 
+lead to business growth and thus 
+enhanced financial outcomes.
+Corporate Overview
+Statutory Reports
+Financial Statements
+85
+Section B: Management and Process Disclosures
+The National Guidelines for Responsible Business Conduct (NGRBC) as prescribed by the Ministry of Corporate Affairs advocates 
+nine principles referred as P1-P9 as given below:
+P1	
+Businesses should conduct and govern themselves with integrity in a manner that is ethical, transparent, and accountable
+P2	
+Businesses should provide goods and services in a manner that is sustainable and safe
+P3	
+Businesses should respect and promote the well-being of all employees, including those in their value chains
+P4	
+Businesses should respect the interests of and be responsive towards all its stakeholders
+P5	
+Businesses should respect and promote human rights
+P6	
+Businesses should respect, protect, and make efforts to restore the environment
+P7	
+Businesses when engaging in influencing public and regulatory policy, should do so in a manner that is responsible and 
+transparent
+P8	
+Businesses should promote inclusive growth and equitable development
+P9	
+Businesses should engage with and provide value to their consumers in a responsible manner
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and Management Processes
+1. 	 a. 	 Whether your entity’s policy/policies cover each 
+principle and its core elements of the NGRBCs. (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+	
+b. 	 Has the policy been approved by the Board? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+	
+c. 	 Web Link of the Policies, if available
+https://www.radiocity.in/investors/policies
+2. 	 Whether the entity has translated the policy into 
+procedures. (Yes / No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3. 	 Do the enlisted policies extend to your value chain 
+partners? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+4. 	 Name of the national and international codes/
+certifications/labels/ standards (e.g., Forest Stewardship 
+Council, Fairtrade, Rainforest Alliance, Trusted) standards 
+(e.g., SA 8000, OHSAS, ISO, BIS) adopted by your entity 
+and mapped to each principle.
+MBL has adopted ISO 9001:2015 to provide Safe & Healthy work 
+infrastructure.
+5. 	 Specific commitments, goals and targets set by the entity 
+with defined timelines, if any.
+NIL
+6. 	 Performance of the entity against the specific 
+commitments, goals, and targets along-with reasons in 
+case the same are not met.
+NIL
+Governance, leadership, and oversight
+7.	
+Statement by director responsible for the business responsibility report, highlighting ESG related challenges, 
+targets, and achievements 
+	
+Dear Stakeholders,
+We at Music Broadcast Limited are related to disclose our maiden Business Responsibility and Sustainability Report (BRSR). 
+We strive to enhance our business performance while ensuring sustainable and inclusive growth for all our stakeholders. We 
+have accelerated our sustainability efforts and enhanced our focus on the ESG parameters by imbibing Environmental, Social 
+and Governance aspects in our day-to-day business practices along with integrating guiding policies as per the National 
+Guideline of Responsible Business Conduct (NGRBC) guidelines, prescribed by SEBI.
+Furthermore, we have conducted extensive stakeholder engagement exercise to identify key ESG material issues for the 
+business. We strive to adopt best practices as per the identified material issues and appropriate mitigatory actions for any 
+negative impacts of our operations. At Music Broadcast, we ensure overall ethical and responsible business conduct along 
+with employee engagement, learning and development, inclusivity, well-being and development of the environment and 
+communities at large.
+Annual Report 2022-23
+86
+Accelerating the Radigital Future
+8. 	 Details of the highest authority responsible for implementation and oversight of the Business Responsibility 
+policy (ies).
+	
+Mr. Shailesh Gupta, Non-Executive Director (DIN: 00192466).
+9. 	 Does the entity have a specified Committee of the Board/ Director responsible for decision making on 
+sustainability related issues? (Yes / No). If yes, provide details.
+Yes, the Board has entrusted Mr. Shailesh Gupta, the Non-Executive Director of the Company to oversee the sustainability 
+initiatives at MBL.
+10. 	 Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether review was 
+undertaken by Director / 
+Committee of the Board/ Any other 
+Committee
+Frequency 
+(Annually/ Half yearly/ Quarterly/ 
+Any other – please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P8
+Performance against above policies 
+and follow up action
+The Company is committed to adopt foremost ethical governance practices across its 
+business operations by stringently complying to its Code of Conduct, Whistle Blower 
+Policy, Code of practices and procedures for fair disclosure of Unpublished Price 
+Sensitive Information, Policy on dealing with Related Party Transactions, Policy on 
+archival of disclosure of material information/ events made to Stock Exchanges and 
+Policy against Sexual Harassment at the Workplace.
+Compliance with statutory 
+requirements of relevance to the 
+principles, and rectification of any 
+non-compliances
+MBL ensures compliance with all the statutory laws and regulations as applicable. It 
+has integrated Electronic Tool to monitor and track its performance against the policies 
+and applicable laws provided by respective department heads. The tool is updated 
+regularly for amendments / modifications, in applicable laws from time to time. This 
+has contributed in strengthening the compliances at all levels under supervision of 
+the Compliance Officer.
+Furthermore, in line with the provisions of Section 138 of the Companies Act, 2013 the 
+Internal Auditors review the functions and activities of the Company and share their 
+observations with the Audit Committee of the Board, on quarterly basis.
+11.	 Has the entity carried out independent assessment/ 
+evaluation of the working of its policies by an external 
+agency? (Yes/No). If yes, provide name of the agency.
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P8
+The policies are evaluated internally from time to time and 
+updated whenever required. The Company continues 
+to sustain its commitment to the highest levels of quality, 
+service management, robust information security practices 
+and business continuity management. The processes 
+and compliances are subject to scrutiny by internal 
+auditors, secretarial auditors and statutory auditors, as per 
+requirement of law.
+12. 	 If answer to question (1) above is “No” i.e., not all Principles are covered by a policy, reasons to be stated:
+Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+The entity does not consider the principles 
+material to its business (Yes/No)
+Not applicable, as the policies of the Company comply with NGRBC 
+guidelines
+The entity is not at a stage where it is in a position 
+to formulate and implement the policies on 
+specified principles (Yes/No)
+The entity does not have the financial or/human 
+and technical resources available for the task (Yes/
+No)
+It is planned to be done in the next financial year 
+(Yes/No)
+Any other reason (please specify)
+Corporate Overview
+Statutory Reports
+Financial Statements
+87
+SECTION C: Principle Wise Performance Disclosure
+Principle 1: Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable.
+Essential Indicators -
+1.	
+Percentage coverage by training and awareness programmes on any of the principles during the financial year:
+Segment
+Total number 
+of training and 
+awareness 
+programmes held
+Topics / principles covered under the training 
+and its impact
+%Age of persons 
+in respective 
+category covered 
+by the awareness 
+programmes
+Board of Directors
+1
+MBL conducted an orientation and familiarization 
+program for its Board of Directors and KMPs, comprising 
+of matters including key regulatory changes in the 
+corporate laws in India covering the amendments 
+in Listing Regulations, Companies Act, 2013 and 
+SEBI consultation paper. The details of familiarization 
+program are posted at the Company’s website 
+https://www.radiocity.in/investors/policies. 
+The Statutory Auditors of the Company also conduct 
+a session for the Audit Committee to showcase latest 
+legal updates.
+100%
+Key Managerial 
+Personnel
+2
+POSH, Regulatory Updates
+100%
+Employees other 
+than BOD and 
+KMPs
+3
+The Company conducts multiple trainings & orientation 
+sessions for employees, that includes POSH, Digi 
+evangelist (3 sessions) & Cross Functional Trainings (3 
+sessions), Choosing Health sessions, Induction program 
+for new recruits
+100%
+Workers
+-
+-
+-
+2.	
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the entity 
+or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year.
+Monetary
+NGRBC 
+Principle
+Name of the 
+Regulatory/ 
+Enforcement agencies/ 
+Judicial institution
+Amount 
+(In INR)
+Brief of the 
+Case
+Has an appeal 
+been preferred?
+(Yes / No)
+Penalty/ Fine
+NA
+NA
+NA
+NA
+NA
+Settlement
+NA
+NA
+NA
+NA
+NA
+Compounding Fee
+NA
+NA
+NA
+NA
+NA
+Non-Monetary
+NGRBC 
+Principle
+Name of the 
+Regulatory/ 
+Enforcement agencies/ 
+Judicial institution
+Amount 
+(In INR)
+Brief of the 
+Case
+Has an appeal 
+been preferred?
+(Yes / No)
+Imprisonment
+NA
+NA
+NA
+NA
+NA
+Punishment
+NA
+NA
+NA
+NA
+NA
+Of the instances disclosed in above Question, details of the Appeal/ 
+Revision preferred in cases where monetary or non-monetary action has 
+been appealed
+Case Details
+Name of the 
+regulatory/ 
+enforcement 
+agencies/ 
+judicial 
+institutions
+Not Applicable
+Annual Report 2022-23
+88
+Accelerating the Radigital Future
+3.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide a 
+web-link to the policy.
+Yes, MBL is dedicated to upholding business practices in alignment with the utmost levels of corporate ethics and adhering 
+to all relevant statutes, rules, and regulations. The Company believes that a good corporate governance structure would not 
+only encourage value creation but also provide accountability and control systems commensurate with the risks involved. 
+Ethical business practice, anti-corruption and anti-bribery are covered under our Code of Conduct that ensures adherence to 
+laws in every jurisdiction we operate. The Policy is available on the Company website at https://www.radiocity.in/investors/
+policies-code-of-conduct
+4.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement agency 
+for the charges of bribery/ corruption:
+FY 2022-23
+FY 2021-22
+Directors
+Nil
+Nil
+KMPs
+Employees
+Workers
+5.	
+Details of complaints with regard to conflict of interest:
+FY 2022-23
+FY 2021-22
+Number of complaints received in relation to issues of Conflict of 
+Interest of the Directors.
+Nil
+Nil
+Number of complaints received in relation to issues of Conflict of 
+Interest of the KMPs
+6.	
+Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by regulators/ 
+law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+	
+Not Applicable.
+Principle 2: Businesses should provide goods and services in a manner that is sustainable and safe.
+Essential Indicators -
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental and 
+social impacts of product and processes to total R&D and capex investments made by the entity, respectively.
+FY 2022-23
+(Rs. In Lakhs)
+FY 2021-22
+(Rs. In Lakhs)
+Details of improvements in 
+environmental and social impacts
+R&D
+Not Applicable
+Capex
+2.	
+Does the entity have procedures in place for sustainable sourcing?
+As MBL engages in radio broadcast service, its dependency on sourcing material is negligible. However, it strives to align 
+its procurement practices to the principles of sustainable sourcing to the extent possible. At the core of this commitment is 
+MBL’s vision to support and encourage local vendors located close to the offices and hence, reduce its negative impact on 
+the environment and society at large.
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling, and disposing at the end of life, for 
+the produced products.
+	
+As MBL is a service-based Company, recycling or reusing of products is not applicable.
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether the waste 
+collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control Boards? If not, 
+provide steps taken to address the same.
+	
+Owing to the nature of business, Extended Producer Responsibility is not applicable to the company.
+Corporate Overview
+Statutory Reports
+Financial Statements
+89
+Principle 3: Businesses should respect and promote the well-being of all employees, including those in their 
+value chains
+Essential Indicators
+1.	
+Measures undertaken for Employee Wellbeing – 
+	
+a.	
+Details of measures for the well-being of employees:
+MBL conducts wellness league that focuses on promoting physical and mental wellbeing of all employees. For the current 
+financial year, more than 100 participants took part in the league which offered them multiple opportunities to broaden 
+their horizons on healthy living. Furthermore, the Company conducted self-defense workshop that helped individuals 
+to enhance their physical, psychological and intellectual well-being. 
+Category
+% Of employees covered by
+Total 
+(A)
+Health insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity Benefits
+Day Care 
+facilities
+Number 
+(B)
+%  
+(B / A)
+Number 
+(C)
+%  
+(C / A)
+Number 
+(D)
+%  
+(D / A)
+Number
+ (E)
+%  
+(E / A)
+Number 
+(F)
+%  
+(F / A)
+Permanent employees
+Male
+353
+353
+100%
+353
+100%
+0
+0
+353
+100%
+353
+100%
+Female
+77
+77
+100%
+77
+100%
+77
+100%
+0
+0
+77
+100%
+Total
+430
+430
+100%
+430
+100%
+77
+18%
+353
+82%
+430
+100%
+Other than Permanent employees
+Male
+143
+143
+100%
+143
+100%
+0
+0
+143
+100%
+143
+100%
+Female
+62
+62
+100%
+62
+100%
+62
+100%
+0
+0
+62
+100%
+Total
+205
+205
+100%
+205
+100%
+62
+30%
+143
+70%
+205
+100%
+	
+b.	
+Details of measures for the well-being of workers:
+Music Broadcast limited take multiple initiatives for the well-being of its employees. The Company does not have any 
+workers recruited at its premises.
+2.	
+Details of retirement benefits, for FY 2022-23 and FY 2021-22
+Benefits
+FY (2022-23)
+FY 2021-22
+No. of 
+employees 
+covered as a 
+% of total
+employees*
+No. of 
+workers 
+covered as a 
+% of total
+workers
+Deducted and 
+deposited 
+with the 
+authority
+(Y/N/N.A.)
+No. of 
+employees 
+covered as a 
+% of total
+employees*
+No. of 
+workers 
+covered as a 
+% of total
+workers
+Deducted and 
+deposited 
+with the 
+authority
+(Y/N/N.A.)
+PF
+68%
+0
+Y
+66%
+0
+Y
+Gratuity
+68%
+0
+Y
+66%
+0
+Y
+ESI
+0
+0
+NA
+0
+0
+NA
+Other  (Please 
+specify)
+0
+0
+NA
+0
+0
+NA
+	
+*Excludes neo, consultants, free lancers whose salary does not include Provident Fund
+3.	
+Accessibility of workplaces:
+Are the premises / offices of the entity accessible to differently abled employees any workers, as per the requirements 
+of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard.
+Yes, the premises/offices are accessible to differently abled employees as per the requirement of Rights of Persons with 
+Disabilities Act, 2016.
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide a 
+web-link to the policy.
+The Company provides equal employment opportunities, without any discrimination on the grounds of age, color, disability, 
+marital status, nationality, race, religion, sex, sexual orientation. MBL abides by Rights of Disabilities Act, 2016 proposed by 
+Government of India and ensures zero incidents of discrimination at the workplace.
+Annual Report 2022-23
+90
+Accelerating the Radigital Future
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent employees
+Permanent workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+15
+100
+-
+-
+Female
+0
+0
+-
+-
+Total
+15
+100
+-
+-
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and worker? If 
+yes, give details of the mechanism in brief.
+The Company encourages open and transparent communication with all its employees and addresses their concerns and 
+grievances. Employees can raise their concerns through one-on-one communication with Human Resource Team or to their 
+immediate supervisors. The concerns are further addressed and resolved through discussions and necessary interventions 
+from senior management. The Company has also established a Vigil Mechanism / Whistle Blower Policy approved by the Board 
+which operates as a formal platform for reporting complaints and grievances. In addition, MBL has in place POSH (Prevention 
+of Sexual Harassment) Policy through which employees can reach out to the Internal Complaints Committee (ICC) and seek 
+redressal for sexual harassment incidents, if any.
+7.	
+Membership of employees and worker in association(s) or Unions recognized by the listed entity:
+Music Broadcast Limited recognizes the right to freedom of association in accordance with the laws. However, neither it has 
+a formal employee association/union, nor the employees have formed any Union.
+8.	
+Details of training given to employees and workers:
+Category
+Total  
+(A)
+FY 2022-23
+Total
+(D)
+FY 2021-22*
+On Health Safety
+On Skill 
+Upgradation
+On Health Safety
+On Skill 
+upgradation
+No.(B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Male
+496
+461
+93%
+234
+47%
+Not Tracked*
+Female
+139
+123
+88%
+66
+47%
+Total
+635
+584
+92%
+300
+47%
+Workers
+Male
+Not Applicable
+Female
+Total
+* The tracking and record maintenance of employee attendance in trainings was initiated from April 22. Hence, the above-mentioned training 
+count is for FY 2022-23 only. Prior to that, trainings were conducted at regular intervals however, the same were not tracked.
+9.	
+Details of performance and career development reviews of employees and worker:
+All employees of Music Broadcast Limited undergo an annual performance appraisal process. The Company conducts people 
+development evaluation aligned with the Company’s objectives/ targets and basis the roles and responsibilities assigned to 
+each of its employee. Furthermore, Music Broadcast Limited has in place a well-defined succession planning process to facilitate 
+career planning and development of high potential talent, mitigate risk arising from attrition and ensure business continuity.
+Category
+FY 2022-23
+FY 2021-22
+Total (A)  
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+%(D/C)
+Employee
+Male
+496
+397
+80%
+483
+444
+92%
+Female
+139
+98
+71%
+128
+118
+92%
+Total
+635
+495
+78%
+611
+562
+92%
+Workers
+Male
+Not Applicable
+Female
+Total
+Corporate Overview
+Statutory Reports
+Financial Statements
+91
+10.	 Health and safety management system:
+a
+Whether an occupational health and safety 
+management system has been implemented by 
+the entity? (Yes/ No). If yes, the coverage such 
+system?
+Safety remains as a core concern to Music Broadcast Limited. 
+The Company operates in a manner that helps protect its 
+employees, contractors, customers and the communities from 
+any risks or hazards arising from unsafe business practices. MBL 
+promotes a safety-first mentality for employees and contractors 
+to reach its goal of zero workplace injuries and illnesses. These 
+include policies on fire safety that cover rules pertaining to fire-
+fighting equipment, emergency exits, fire drills and other safety 
+parameters for office maintenance.
+b
+What are the processes used to identify work-
+related hazards and assess risks on a routine and 
+non-routine basis by the entity?
+MBL is a service-based company and does not possess extensive 
+work-related risks or hazards.
+c
+Whether you have processes for workers to 
+report the work-related hazards and to remove 
+themselves from such risks. (Y/N)
+Not Applicable
+d
+Do the employees/ worker of the entity have 
+access to non-occupational medical and healthcare 
+services? (Yes/ No)
+Yes, all employees are covered under Medical Health Insurance 
+provided by the Company. MBL also provides an option of taking 
+health cover for dependents declared by the employees. 
+11.	 Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category
+FY 2022-23
+FY 2021-22
+Lost Time Injury Frequency Rate (LTIFR) (per one 
+million-person hours worked)
+Employees
+NIL
+NIL
+Workers
+NA
+NA
+Total recordable work-related injuries
+Employees
+NIL
+NIL
+Workers
+NA
+NA
+No. of fatalities
+Employees
+NIL
+NIL
+Workers
+NA
+NA
+High consequence work-related injury or ill-
+health (excluding fatalities)
+Employees
+NIL
+NIL
+Workers
+NA
+NA
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace.
+Music Broadcast Limited encourages employees to embrace a pro-active approach to maintain good health and wellbeing. 
+The Company strives to create awareness among the workforce by promoting work life balance, sharing health tips and 
+emphasizing on importance of basic home remedies. Furthermore, the company provides Mediclaim benefits which are not 
+only restricted to the permanent employees but also extended to its consultants such as the Radio Jockey’s. For FY 2022-23, 
+MBL launched a Wellness League to help reduce stress and promote overall physical and mental well-being of the employees.
+13.	 Number of Complaints on the following made by employees and workers:
+Benefits
+FY (2022-23)
+FY 2021-22
+Filed during 
+the year
+Pending 
+resolution 
+at the end of 
+year
+Remarks
+Filed during 
+the year
+Pending 
+resolution 
+at the end of 
+year
+Remarks
+Working 
+Conditions
+0
+NIL
+-
+0
+NIL
+-
+Health & 
+Safety
+0
+0
+14.	 Assessments for the year:
+% Of your plants and offices that were assessed.  
+(by entity or statutory authorities or third parties)
+Health and safety practices
+Nil
+Working Conditions
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant 
+risks/ concerns arising from assessments of health & safety practices and working conditions.
+	
+   Not Applicable.
+Annual Report 2022-23
+92
+Accelerating the Radigital Future
+Principle 4: Businesses should respect the interests of and be responsive to all its stakeholders
+Essential Indicators -
+1.	
+Describe the processes for identifying key stakeholder groups of the entity.
+Music Broadcast Limited has incorporated a well-defined process to identify and frequently engage with its key internal 
+and external stakeholders to understand their expectations and concerns. The Company ensures to value the inputs of each 
+of its stakeholder groups and consider the incorporation of these insights into its business strategy. The key priority is to 
+understand the dynamic perceptions and aspirations of the stakeholders and align its services to their needs. Furthermore, 
+Music Broadcast Limited supports vulnerable and marginalized stakeholder groups through campaigns and programs and 
+promote their wellbeing and development.
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.
+Stakeholder
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group. (Yes/
+No)
+Channels of 
+communication (Email, 
+SMS, Newspaper, 
+Pamphlets, Advertisement,
+Community Meetings,
+Notice Board, Website), 
+Other
+Frequency of 
+engagement 
+(Annually/ 
+Half yearly/ 
+Quarterly / 
+others – please 
+specify)
+Purpose and scope
+of engagement including 
+key topics and
+concerns raised during 
+such engagement
+Senior 
+Management 
+including KMPs
+No
+	 Direct contact
+	 Regular meetings 
+	 Leadership and manager 
+connect
+Annually/ Half 
+yearly/ Quarterly 
+and as and when 
+required
+	 Compliance
+	 Ethical practices
+	 Economic performance
+Employees
+No
+	 Employee engagement 
+initiatives
+	 Employee on-ground and 
+virtual connect by Human 
+Resources 
+	 Town Hall
+	 Coffee with CEO
+Monthly/Quarterly 
+and Annually
+	 Employee engagement
+	 Employee wellness and 
+safety
+	 Learning and development
+Communities
+Yes
+	 Awareness campaigns 
+	 CSR initiatives
+	 Regular meetings
+	 E-mails/ Calls
+As and when 
+required
+	 Inclusive growth
+	 Literacy and development
+	 Environmental and social 
+protection
+Investors
+No
+	 Quarterly reports and press 
+releases
+	 Investor meets, earnings 
+calls and Annual General 
+Meetings (AGMs)
+Annually/ Half 
+yearly/ Quarterly 
+and as and when 
+required
+	 Compliance with 
+regulatory laws
+	 Governance and ethical 
+practices
+	 Economic performance
+Vendors and 
+Suppliers
+No
+	 Suppliers meet
+	 Website
+	 Phone calls and surveys
+Frequent and as 
+and when required
+	 Partnership
+	 Governance and ethical 
+practices
+Customers
+No
+	 One-on-One interactions
+	 Website
+	 Online and postal 
+communication
+Frequent and as 
+and when required
+	 Data security
+	 Responsible 
+communication
+Corporate Overview
+Statutory Reports
+Financial Statements
+93
+Principle 5: Businesses should respect and promote human rights
+Essential Indicators
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the 
+following format:
+Category
+FY 2022-23
+FY 2021-22
+Total (A)
+No. 
+employees’ 
+workers 
+covered (B)
+% (B / A)
+Total (C)
+No. 
+employees’ 
+workers 
+covered (D)
+% (D / C)
+Employee
+Permanent
+430
+430
+100%
+414
+414
+100%
+Other than permanent
+205
+205
+100%
+197
+197
+100%
+Total Employees
+635
+635
+100%
+611
+611
+100%
+Workers
+Permanent
+Not Applicable
+Other than permanent
+Total Workers
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+Category
+Total 
+(A)
+FY 2022-23
+Total 
+(D)
+FY 2021-22
+Equal to Minimum 
+Wages
+More than 
+Minimum wages
+Equal to Minimum 
+Wages
+More than 
+Minimum wages
+Number 
+(B)
+% (B / A)
+Number 
+(C)
+% (C / A)
+Number 
+(E)
+% (E /D)
+Number 
+(F)
+% (F / D)
+Employees
+Permanent
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Male
+353
+0
+0
+353
+100%
+341
+0
+0
+341
+100%
+Female
+77
+0
+0
+77
+100%
+73
+0
+0
+73
+100%
+Other than 
+Permanent
+Male
+143
+0
+0
+143
+100%
+139
+0
+0
+139
+100%
+Female
+62
+0
+0
+62
+100%
+58
+0
+0
+58
+100%
+Worker
+Permanent
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Male
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Other than 
+Permanent
+Male
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3.	
+Details of remuneration/salary/wages, in the following format:
+Gender
+Male
+Female
+Number
+Median 
+remuneration/ 
+salary/ wages of 
+respective category
+Number
+Median 
+remuneration/ 
+salary/ wages of 
+respective category
+Board of Directors (BoD)*
+NIL
+Refer to the Board’s 
+Report 
+NIL
+Refer to the Board’s 
+Report
+Key Managerial Personnel (KMP)
+2
+1,36,22,917
+1
+20,00,000
+Employees other than BOD and KMP
+494
+8,63,810
+138
+8,57,573
+Workers
+-
+-
+-
+-
+*MBL does not have any Executive Director on the BoD
+Annual Report 2022-23
+94
+Accelerating the Radigital Future
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused or 
+contributed to by the business? (Yes/No)
+Yes, the Human Resources acts as the focal point to address issues pertaining to human rights and ensures compliance with 
+aspects such as child labor, forced labor, sexual harassment that have significant impact on the business operations.
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+Music Broadcast Limited has an open-door policy which encourages employees to connect with the HR and the Senior 
+Leadership in case any grievances pertaining to human rights arise. The Company has also established a Vigil Mechanism/ 
+Whistle-Blower Policy which operates as a formal platform for reporting human rights concerns. Furthermore, the Company 
+has policies relating to Prevention of Sexual Harassment (POSH), which promote a free, fair and discrimination free working 
+environment for employees and provide a mechanism for raising concerns and resolution of disputes. The Company also 
+has established an Internal Complaints Committee (ICC) in compliance with the Sexual Harassment of Women at Workplace 
+(Prevention, Prohibition and Redressal) Act, 2013.
+6.	
+Number of complaints on the following made by employees and workers:
+Category
+FY 2022-23
+FY 2021-22
+Filed 
+during the 
+year
+Pending 
+resolution 
+at the end of 
+year
+Remarks
+Filed 
+during the 
+year
+Pending 
+resolution 
+at the end of 
+year
+Remarks
+Sexual Harassment
+Nil
+Nil
+-
+Nil
+Nil
+-
+Discrimination at workplace
+Nil
+Nil
+-
+Nil
+Nil
+-
+Child Labor
+Nil
+Nil
+-
+Nil
+Nil
+-
+Forced Labor/ Involuntary 
+Labor
+Nil
+Nil
+-
+Nil
+Nil
+-
+Wages
+Nil
+Nil
+-
+Nil
+Nil
+-
+Other human rights related 
+issues
+Nil
+Nil
+-
+Nil
+Nil
+-
+7.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+MBL strictly adheres to responsible and ethical business conduct. MBL’s policies such as policy on Prevention of Sexual 
+Harassment Policy (POSH) and Whistle-Blower Policy acts as the guiding principles to take stringent measures with respect to 
+discrimination and sexual harassment at the workplace. To address the adverse consequences for raising concerns regarding 
+any misconduct, the employees can raise the incident to the concerned person at the respective e-mail id.
+8.	
+Do human rights requirements form part of your business agreements and contracts?
+MBL has a Supplier Code of Conduct that ensures compliances with respect to human rights parameters, health and safety 
+and ethical trade practices. The Company ensures that all its business partners abide by its Suppliers Code of Conduct.
+9.	
+Assessments for the year:
+For FY 22-23, no statutory assessments were undertaken, however, sample assessment by the internal auditors of the Company 
+were conducted and zero non-compliances were reported.
+% Of your plants and offices that were assessed 
+(By entity or statutory authorities or third parties)
+Child labour
+-
+Forced/involuntary labour
+-
+Sexual harassment
+-
+Discrimination at workplace
+-
+Wages
+-
+Others – please specify
+-
+Working Conditions
+-
+10.	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments 
+at Question above.
+	
+As per the sample assessment conducted by Music Broadcast Limited, zero incidents of non-compliances were reported for 
+the current financial year.
+Corporate Overview
+Statutory Reports
+Financial Statements
+95
+Principle 6: Businesses should respect and make efforts to protect and restore the environment
+Essential Indicators
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+Total electricity consumption (A)
+21,789 GJ
+20,442 GJ
+Total fuel consumption (B)*
+2,319 GJ 
+2,059 GJ
+Energy consumption through other sources (C)
+Nil
+Nil
+Total energy consumption (A+B+C)
+24,107 GJ
+22,501 GJ
+Energy intensity per lakh rupee of turnover
+(Total energy consumption/ turnover in rupees)
+1.21
+1.33
+Energy intensity (optional)
+– the relevant metric may be selected by the entity.
+-
+-
+	
+*Fuel consumption is specific to diesel consumption through DG set
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve and 
+Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme have been 
+achieved. In case targets have not been achieved, provide the remedial action taken, if any.
+	
+Not Applicable
+3.	
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+Water Withdrawn by the source (KL)
+Surface Water
+-
+-
+Ground Water
+-
+-
+3rd Party Water
+-
+-
+Seawater/ desalinated water
+-
+-
+Other sources
+6,858
+6,793
+Total Vol of Water Withdrawn
+6,858
+6,793
+Total Vol of Water Consumed (KL)*
+3,810
+3,774
+Water intensity per lakh rupee of turnover.
+(Water consumed/turnover)
+0.19
+0.22
+Water intensity (optional) – the relevant metric may be selected by the entity
+-
+-
+Note:  
+*The volume of water withdrawn and consumed is based on estimation as per “Estimation of water requirement for drinking and domestic 
+use (Source: NBC 2016, BIS) – CGWA Guideline”
+  Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the external 
+agency. No
+4.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and implementation.
+The liquid discharge at MBL is generally done through municipal sewers and it has not implemented any mechanism for Zero 
+Liquid Discharge at its premises.
+5.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+	
+Not Applicable
+6.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+Parameter
+Unit
+FY 2022-23
+FY 2021-22
+Total Scope 1 emissions 
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, 
+if available)
+Metric tonnes of 
+CO2 equivalent
+173
+153
+Total Scope 2 emissions 
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, 
+if available)
+Metric tonnes of 
+CO2 equivalent
+4,297
+3,975
+Annual Report 2022-23
+96
+Accelerating the Radigital Future
+Parameter
+Unit
+FY 2022-23
+FY 2021-22
+Total Scope 1 and Scope 2 emissions per rupee of turnover
+Metric tonnes of 
+CO2 equivalent
+0.22
+0.24
+Total Scope 1 and Scope 2 emission intensity (optional) 
+– the relevant metric may be selected by the entity
+-
+-
+-
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the 
+external agency. No
+7.	
+Does the entity have any project related to reducing Green House Gas emission? If yes, then provide details.
+Owing to the nature of business, the Company has significantly low contribution of GHG emissions. However, to address 
+the environmental concerns associated with its operations, MBL create awareness among its employees to minimize the 
+consumption of energy and water and reuse materials such as paper. Furthermore, MBL has opted to use LED lights and focus 
+on energy efficiency in all its corporate offices and studios.
+8.	
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+-
+-
+E-waste (B)
+-
+-
+Bio-medical waste (C)
+-
+-
+Construction and demolition waste (D)
+-
+-
+Battery waste (E)
+7,920
+8,797
+Radioactive waste (F)
+-
+-
+Other Hazardous waste.  Please specify, if any. (G)
+-
+-
+Other Non-hazardous waste generated (H). 
+Please specify, if any. 
+(Break-up by composition i.e., by materials relevant to the sector)
+-
+-
+Total (A+B + C + D + E + F + G + H)
+7,920
+8,797
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery 
+operations (in metric tonnes)
+Category of waste
+(i) 	 Recycled
+-
+-
+(ii) 	 Re-used
+-
+-
+(iii) 	Other recovery operations
+-
+-
+Total
+-
+-
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of disposal Method
+(i) 	 Incineration
+-
+-
+(ii) 	 Landfilling
+-
+-
+(iii) 	Other disposal operations*
+-
+-
+Total
+-
+-
+9.	
+Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by your 
+company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices adopted to 
+manage such wastes.
+	
+MBL generates two types of waste: E-waste (Battery waste only) and dry waste. The E-waste produced by our business is 
+disposed of in a responsible and environmentally – friendly manner through a step–by–step recycling process. Additionally, 
+the Company ensures that each of its station tracks the E-waste generated, which is then disposed of by a licensed agency. As 
+part of its commitment to responsible waste management, MBL maintain records of Form 6 (waste manifest) and other related 
+documentation once the waste is collected by the vendor. Furthermore, the Company is continuously exploring innovative 
+ways to recycle and reuse the waste generated by repurposing one-sided printed paper into notepads for all its employees.
+10.	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals 
+/ clearances are required, please specify details.
+	
+Not applicable
+Corporate Overview
+Statutory Reports
+Financial Statements
+97
+11.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the current 
+financial year:
+	
+Not applicable
+12.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India, such as the Water (Prevention 
+and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and rules thereunder 
+(Y/N). If not, provide details of all such non-compliances.
+	
+MBL complies with all applicable environmental laws and regulations and ensures that its GHG emissions and waste generation 
+is within permissible limits as stated by the regulatory authorities.
+Principle 7: Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is responsible 
+and transparent
+Essential Indicators
+1. 	
+Public Policy Advocacy
+	
+a. 	
+Number of affiliations with trade and industry chambers/ associations.
+MBL interacts with various industry chambers and associations. The Company is an active member of 2 Trade and Industry 
+Chambers/ Associations.
+	
+b. 	
+List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) the 
+entity is a member of/ affiliated to.
+Sr. 
+No.
+Name of the trade and industry chambers/ associations
+Reach of trade and industry 
+chambers/ associations
+(State/National)
+1
+Association of Radio Operators for India
+National
+2
+Media Research Users Council
+National
+2.	
+Provide details of corrective action taken or underway on any issues related to anticompetitive conduct by the entity, based 
+on adverse orders from regulatory authorities.
+	
+	 Not Applicable
+Principle 8: Businesses should promote inclusive growth and equitable development
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the current 
+financial year.
+MBL has undertaken multiple CSR initiatives focused on environmental and social wellbeing. The Company has collaborated 
+with NGOs and social entrepreneurs for the implementation of these initiatives. In the reporting year, MBL did not undertake 
+any Social Impact Assessment for its CSR initiatives.
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your 
+entity.
+	
+Not Applicable
+3.	
+Describe the mechanisms to receive and redress grievances of the community.
+MBL engages with its community members through the NGO partners for identified areas of contribution in the domain of 
+education, healthcare and development. Within its areas of work, the NGO partners have robust mechanism to assess the 
+projects on intended beneficiaries. These mechanism ranges from in-person meeting and group discussions with beneficiaries 
+to provide ample opportunity to receive and redress their grievances.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+Parameter
+FY 2022-23
+FY 2021-22
+Directly sourced from MSMEs/ small producers
+NIL
+NIL
+Sourced directly from within the district and neighboring districts
+NIL
+NIL
+Annual Report 2022-23
+98
+Accelerating the Radigital Future
+Principle 9: Businesses should engage with and provide value to their customers and consumers in a responsible manner.
+Essential Indicators
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+The Company has a holistic approach to facilitate redressal of the consumer complaints and feedback in terms of service quality 
+timely. Any complaint received from stakeholders such as suppliers, customers, is addressed by respective department heads 
+based on the materiality of the issue/complaint.
+2.	
+Turnover of products and/ services as a percentage of turnover from all products/service that carry information about:
+	
+Not applicable.
+3.	
+Number of consumer complaints in respect of the following:
+Category
+FY 2022-23
+FY 2021-22
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Remarks
+Data privacy
+Nil
+Nil
+-
+Nil
+Nil
+-
+Advertising
+Nil
+Nil
+-
+Nil
+Nil
+-
+Cyber-security
+Nil
+Nil
+-
+Nil
+Nil
+-
+Delivery of essential services
+Nil
+Nil
+-
+Nil
+Nil
+-
+Restrictive Trade Practices
+Nil
+Nil
+-
+Nil
+Nil
+-
+Unfair Trade Practices
+Nil
+Nil
+-
+Nil
+Nil
+-
+Other
+Nil
+Nil
+-
+Nil
+Nil
+-
+4.	
+Details of instances of product recalls on account of safety issues:
+Owing to the nature of business, MBL does not manufacture or sell any products. Hence, the requirement is not applicable 
+to the Company.
+5.	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, provide 
+a web-link of the policy.
+Yes, MBL has an information and cyber security framework that ensures all information assets are safeguarded by establishing 
+a comprehensive management process throughout the organization. Additionally, the Company has an IT policy available 
+internally and is communicated to the employees as and when required. Furthermore, the business information is protected 
+adequately through appropriate controls and proactive measures taken by the Company.
+6.	
+ Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential 
+services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action taken 
+by regulatory authorities on safety of products / services.
+For FY 2022-2023, there were no complaint received for issues relating to advertising, cyber security and data privacy of 
+customers and penalty by regulatory authorities on any of the services provided by MBL.
+Corporate Overview
+Statutory Reports
+Financial Statements
+99

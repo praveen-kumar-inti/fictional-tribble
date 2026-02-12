@@ -1,0 +1,4161 @@
+ 
+ 
+ 
+August 23, 2023 
+ 
+To, 
+National Stock Exchange of India Limited 
+(NSE: RATEGAIN) 
+ 
+BSE Limited 
+(BSE: 543417) 
+ 
+Subject: 
+Business Responsibility and Sustainability Report for FY 2023 
+ 
+Dear Sir/Ma’am, 
+ 
+In compliance with Regulation 34(2)(f) of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, please find attached herewith the Business Responsibility and 
+Sustainability Report forming part of the Annual Report of the Company for FY 2022-23. 
+ 
+Please take above information on record 
+ 
+Yours faithfully, 
+For RateGain Travel Technologies Limited 
+ 
+ 
+(Thomas P. Joshua) 
+Vice President – Legal & Company Secretary 
+Memb. No.: F9839 
+ 
+Encl.: As above 
+RateGain Travel Technologies Ltd
+116
+Business Responsibility and Sustainability 
+Report (BRSR)
+Section A: General Disclosures
+I. 
+Details
+1.
+Corporate Identity Number (CIN) of
+the Listed Entity
+L72900DL2012PLC244966
+2.
+Name of the Listed Entity
+RateGain Travel Technologies Limited
+3.
+Year of incorporation
+November 16, 2012
+4.
+Registered office address
+M-140, Greater Kailash, Part-II, New Delhi - 110048
+5.
+Corporate address
+4th Floor, Tower A, Club 125, Plot No. 3,4,5, 
+Sector – 125, Noida – 201301
+6.
+E-mail
+companysecretary@rategain.com
+7.
+Telephone
++91-120-5057000
+8.
+Website
+https://rategain.com/ 
+9.
+Date of Start of Financial Year
+Start Date
+End Date
+Financial Year
+01-04-2022
+31-03-2023
+Previous Year
+01-04-2021
+31-03-2022
+Prior To Previous Year
+01-04-2020
+31-03-2021
+10.
+Name of the Stock Exchange(s) where
+shares are listed
+National Stock Exchange of India Ltd (‘NSE’) and 
+BSE Ltd. (‘BSE’)
+11.
+Paid-up Capital
+INR 10,83,17,192
+12.
+Name and contact details (telephone, email address) of the person who may be contacted in case of any
+queries on the BRSR report
+Name Of Contact Person
+Mr. Thomas P. Joshua  
+Company Secretary & Compliance Officer
+Contact Number Of Contact Person
++91-120 5057000
+Email Of Contact Person
+companysecretary@rategain.com
+13.
+Reporting boundary
+Standalone basis
+II.
+Products/Services
+14. Details of business activities (accounting for 90% of the turnover):
+S. No. Description of main activity
+Description of business activity
+% of turnover 
+1.
+Information and communication
+Computer programming, consultancy, and
+related activities
+100
+Corporate Overview
+Financial Statements
+Statutory Reports
+117
+Annual Report 2022-23
+15.	 Products/Services sold by the entity (accounting for 90% of the entity’s Turnover): 
+S. No. Product/Service
+NIC Code
+% of total 
+Turnover 
+contributed
+1.
+DaaS solutions are used by revenue managers, to ensure that the 
+travelers get the right offer on their preferred device and hotels can 
+rank higher on OTAs as well as get more bookings. The company’s 
+products under Dass portfolio are AirGain, CarGain, Demand.AI, 
+Optima, Parity + and Rev.AI
+62099
+28.64%
+2.
+Distribution 
+solutions 
+are 
+used 
+by 
+property 
+owners 
+to 
+communicate the availability, rates, inventory, and content from the 
+accommodation providers to the OTAs. The Company’s products 
+under distribution portfolio are Content AI and RezGain.
+62099
+34.38%
+3.
+Martech solutions are end-to-end digital marketing suite for hotels 
+which combines the power of real-time insights using AI. The 
+Company’s products under Martech portfolio are BCV, MHS and 
+Engage.AI
+62099
+36.98%
+III.	 Operations
+16.	 Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of offices
+Total
+National
+Not Applicable
+2
+2
+International
+Not Applicable
+7
+7
+17.	 Markets served by the entity: 
+	
+a)	
+Number of locations
+Location
+Number
+National (No. of States)
+27 states
+International (No. of Countries)
+23 countries
+	
+b)	
+What is the contribution of exports as a percentage of the total turnover of the entity? 
+	
+	
+The contribution of exports as a percentage of the total turnover of the entity is 96.82%.
+	
+c)	
+ Brief on types of customers
+	
+	
+The Company serves both travel and non-travel customer segments globally with services like 
+revenue management, pricing, marketing, and distribution. The customer segments include airlines, 
+car rentals, cruise lines, online travel agencies (OTAs), travel management companies form the travel 
+customer segment, and global hotel chains and Global Fortune companies form the non-travel 
+customer segment. 
+IV.	 Employees
+18. 	Details as at the end of Financial Year: 
+	
+a)	
+Employees and workers (including differently abled): 
+S. No
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+Employees
+1.
+Permanent (D)
+460
+380
+82.61%
+80
+17.39%
+2.
+Other than Permanent (E)
+26
+20
+76.92%
+6
+23.08%
+3.
+Total employees (D + E)
+486
+400
+82.30%
+86
+17.70%
+	
+	
+Note: The Company does not employ or engage with ‘worker’, as defined in the guidance note on BRSR, 
+issued by SEBI.
+RateGain Travel Technologies Ltd
+118
+	
+b)	
+Differently abled Employees and workers:
+S. No Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+Differently-abled employees
+1.
+Permanent (D)
+0
+Not Applicable
+2.
+Other than Permanent (E)
+0
+3.
+Total differently abled 
+employees (D + E)
+0
+Differently-abled workers
+4.
+Permanent (F)
+0
+Not Applicable
+5.
+Other than Permanent (G)
+0
+6.
+Total differently abled 
+workers (F + G)
+0
+	
+	
+Note: The Company does not employ or engage with ‘worker’, as defined in the guidance note on BRSR, 
+issued by SEBI.
+19.	 Participation/Inclusion/Representation of women
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+6
+2
+33.33%
+Key Management Personnel
+3
+0
+0.00%
+20.	 Turnover rate for permanent employees and workers
+FY 2022-23 (Turnover 
+rate in current FY)
+FY 2021-22 (Turnover 
+rate in current FY)
+FY 2020-21 (Turnover 
+rate in current FY)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+14%
+8%
+21%
+16%
+7%
+22%
+19%
+13%
+32%
+	
+Note: The Company does not employ or engage with ‘worker’, as defined in the guidance note on BRSR, issued by SEBI
+V.	 Holding, Subsidiary and Associate Companies (Including Joint Ventures)
+21.	 (a) Names of holding / subsidiary / associate companies / joint ventures 
+S. No.
+Name of the 
+holding/ subsidiary/ 
+associate companies/ 
+joint ventures (A)
+Indicate whether 
+holding/ Subsidiary/ 
+Associate/ Joint Venture
+% of shares 
+held by  
+listed 
+entity
+Does the entity indicated 
+at column A, participate in 
+the Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+1.
+RateGain 
+Technologies Limited (UK)
+Subsidiary
+100
+Yes
+2.
+RateGain 
+Technologies Spain, S.L.
+Subsidiary
+100
+Yes
+3.
+RateGain 
+Technologies Inc. (US)
+Subsidiary
+100
+Yes
+4.
+BCV Social LLC (US)
+Subsidiary
+100
+Yes
+5.
+Myhotelshop GmbH
+Subsidiary
+100
+Yes
+6.
+Myhotelshop S.L.
+Subsidiary
+100
+No
+7.
+RateGain 
+Technologies LLC (UAE)
+Subsidiary
+100
+Yes
+8.
+RateGain Adara Inc.
+Subsidiary
+100
+Yes
+Corporate Overview
+Financial Statements
+Statutory Reports
+119
+Annual Report 2022-23
+VI.	 CSR Details
+22.	 CSR Details 
+Whether CSR is applicable as per section 135 of Companies Act, 2013
+Yes
+Turnover (in `)
+1,13,27,55,434
+Net worth (in `)
+6,57,86,94,939
+VII.	Transparency and Disclosures Compliances
+23.	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on 
+Responsible Business Conduct: 
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance Redressal 
+Mechanism in Place (Yes/No) 
+if Yes, then provide web-link 
+for grievance redress policy
+FY 2022-23
+FY 2021-22
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities
+Yes
+As a provider of SaaS services, 
+RateGain’s business primarily has 
+limited 
+exposure 
+to 
+vulnerable 
+sections 
+of 
+the 
+community. 
+Nonetheless, the company remains 
+steadfast in its commitment to 
+Corporate 
+Social 
+Responsibility 
+(CSR) endeavors. To carry out these 
+initiatives, RateGain partners with 
+credible NGOs that boast a proven 
+track record in their respective 
+fields and have established effective 
+feedback and grievance systems 
+within 
+the 
+communities 
+they 
+serve. Leveraging these feedback 
+mechanisms, the NGOs can discern 
+the areas that require focus and 
+direction, aligning CSR efforts with 
+the genuine needs and aspirations 
+of the community. Through these 
+purposeful 
+initiatives, 
+RateGain 
+strives to create a positive impact 
+and actively contribute to the 
+welfare and overall development 
+of society. For further information, 
+please 
+refer 
+the 
+company’s 
+comprehensive CSR Policy at -
+https://rategain.com/pdf/
+governance/CSR-policy.pdf 
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+RateGain Travel Technologies Ltd
+120
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance Redressal 
+Mechanism in Place (Yes/No) 
+if Yes, then provide web-link 
+for grievance redress policy
+FY 2022-23
+FY 2021-22
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Investors  
+(other than 
+shareholders)
+Yes 
+RateGain’s Whistle Blower Policy, 
+which can be accessed here:
+https://rategain.com/
+pdf/governance/
+Whistle-Blower-Policy.pdf
+outlines the procedure and channels 
+for addressing grievances, ensuring 
+transparency and accountability. 
+Additionally, 
+the 
+Investor 
+Relations Department proactively 
+monitors and is readily available 
+to address any concerns raised by 
+investors, underscoring RateGain’s 
+commitment 
+to 
+fostering 
+a 
+trustworthy 
+and 
+responsive 
+relationship with its stakeholders.
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Shareholders
+Yes
+RateGain’s Whistle Blower Policy 
+captures 
+the 
+procedure 
+and 
+channels for addressing grievances, 
+making it accessible and available 
+to all stakeholders.
+https://rategain.com/pdf/
+governance/Whistle-Blower-Policy.
+pdf               
+The shareholders can also raise 
+concerns 
+directly 
+with 
+Stock 
+Exchange(s), 
+SEBI 
+(SCORES) 
+and through Registrar & Share 
+Transfer Agent.
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Employees  
+and workers
+Yes 
+RateGain’s Whistle Blower Policy 
+serves as a comprehensive guide, 
+outlining 
+the 
+procedure 
+and 
+channels for addressing grievances. 
+Accessible to all, this policy provides 
+transparency 
+and 
+ensures 
+that 
+concerns are handled effectively 
+and responsibly.
+https://rategain.com/pdf/
+governance/Whistle-Blower-Policy.
+pdf               
+RateGain’s 
+detailed 
+POSH 
+(Prevention of Sexual Harassment) 
+policy provides a secure mechanism 
+to raise grievances around workplace 
+sexual harassment, ensuring a safe 
+and inclusive environment.
+Additionally, 
+employees 
+can 
+raise 
+complaints 
+regarding 
+operational 
+aspects 
+through 
+the internal ticketing tool to the 
+respective department.
+3
+0
+These  
+complaints 
+were about 
+working 
+conditions 
+and have 
+been 
+addressed. 
+There were 
+no 
+concerns/ 
+complaints 
+raised 
+under the 
+Whistle 
+Blower 
+Policy 
+and/or 
+POSH.
+1
+0
+A POSH  
+related  
+complaint  
+was raised  
+and this has  
+been duly  
+addressed
+Corporate Overview
+Financial Statements
+Statutory Reports
+121
+Annual Report 2022-23
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance Redressal 
+Mechanism in Place (Yes/No) 
+if Yes, then provide web-link 
+for grievance redress policy
+FY 2022-23
+FY 2021-22
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Also, 
+Leena 
+AI 
+effectively 
+handles 
+employees’ 
+feedback 
+through 
+an 
+interactive 
+and 
+user-friendly 
+chatbot 
+interface. 
+The advanced natural language 
+processing capabilities categorize 
+feedback 
+accurately, 
+providing 
+valuable insights for data-driven 
+decision-making. This fosters a 
+culture of open communication 
+and enables impactful changes 
+to enhance employee satisfaction 
+and productivity.
+Customers
+Yes
+RateGain’s multichannel approach 
+ensures a harmonious handling of 
+customer grievances by blending 
+proactive and reactive measures 
+seamlessly. Through frequent Net 
+Promoter Score (NPS) outreach, 
+the 
+company 
+gains 
+valuable 
+insights into customer concerns 
+and 
+challenges, 
+showing 
+an 
+unwavering 
+commitment 
+to 
+customer satisfaction. 
+Additionally, 
+RateGain’s 
+dedicated 
+feedback 
+system 
+captures 
+complaints 
+and 
+feedback 
+from 
+customers, 
+highlighting their dedication to 
+continuous 
+improvement 
+and 
+unparalleled service.
+35,168
+441
+See  
+details  
+shared 
+under 
+Principle 9,  
+Question 3
+31,288
+267
+See  
+details  
+shared 
+under  
+Principle 9,  
+Question 3
+Value Chain  
+Partners
+Yes
+RateGain 
+adopts 
+a 
+balanced 
+approach, utilizing both proactive 
+and 
+reactive 
+measures 
+to 
+understand and address supplier/
+partner grievances. Frequent NPS 
+outreach enables the company 
+to 
+grasp 
+their 
+concerns 
+and 
+challenges, 
+while 
+a 
+dedicated 
+feedback 
+system 
+gathers 
+any 
+complaints from this group.
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+RateGain Travel Technologies Ltd
+122
+24. 	Overview of the entity’s material responsible business conduct issues 
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental 
+and social matters that present a risk or an opportunity to your business, rationale for identifying the same, 
+approach to adapt or mitigate the risk along-with its financial implications, as per the following format
+S. No.
+Material issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying 
+the risk opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate positive 
+or negative 
+implications)
+1.
+Data Security 
+and Cyber-
+Security
+Risk
+Cyber-attacks 
+pose 
+a 
+significant 
+threat 
+for 
+RateGain’s 
+operations 
+and importantly, for the 
+company’s 
+customers 
+using RateGain products. 
+Such an exposure could 
+lead 
+to 
+reputational 
+loss and poor customer 
+relationships.
+a)	
+Developing 
+applications 
+that address all known 
+vulnerabilities.
+b)	
+Conduct extensive VAPT 
+(Vulnerability Assessment 
+and Penetration Testing) 
+of 
+the 
+applications 
+before releasing them for 
+customer use.
+Negative 
+Implications
+2.
+Regulatory 
+Compliance
+Risk
+In 
+the 
+ESG 
+(Environmental, 
+Social, 
+and 
+Governance) 
+landscape 
+in 
+India, 
+a 
+multitude 
+of 
+new 
+regulations 
+and 
+guidelines 
+have 
+been 
+introduced, 
+alongside 
+updates 
+to 
+existing 
+ones, aiming to enhance 
+compliance. As RateGain 
+operates 
+in 
+multiple 
+geographies, 
+adhering 
+to 
+the 
+ever-changing 
+and 
+numerous 
+laws, 
+regulations, 
+and 
+local 
+statutes worldwide can 
+be 
+challenging. 
+This 
+complexity poses a risk 
+of 
+non-compliance 
+in 
+the regions of operation, 
+underscoring 
+the 
+necessity for a proactive 
+and 
+robust 
+approach 
+to ensure adherence to 
+the evolving regulatory 
+landscape.
+a)	
+RateGain has a dedicated 
+in-house 
+compliance 
+team 
+that 
+manages 
+compliance globally.
+b)	
+RateGain also engages 
+with specialist consultants 
+across the globe who 
+support 
+the 
+company 
+in adhering to country-
+specific compliance and 
+regulatory requirements.
+Negative 
+Implications
+Corporate Overview
+Financial Statements
+Statutory Reports
+123
+Annual Report 2022-23
+S. No.
+Material issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying 
+the risk opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate positive 
+or negative 
+implications)
+3.
+Climate Change
+Risk & 
+Opportunity
+Risk - Climate change 
+risks 
+are 
+increasingly 
+manifesting in RateGain’s 
+business and its clients’ 
+businesses as strategic 
+risks, physical risks and 
+transitional 
+(market 
+and 
+compliance) 
+risks, 
+which if not managed 
+adequately, 
+can 
+affect 
+the company’s operations 
+and profitability.
+Opportunity - RateGain’s 
+clients are from the travel 
+and 
+tourism 
+industry, 
+which 
+is 
+a 
+carbon-
+intensive 
+business, 
+by 
+its 
+very 
+nature. 
+With 
+due 
+consideration 
+to 
+this reality, the clients 
+have already integrated 
+climate actions in their 
+strategic 
+roadmaps 
+in 
+the 
+near, 
+medium 
+and 
+long-term. 
+These 
+roadmaps require them 
+to revisit their operations 
+and 
+customer-facing 
+offerings. RateGain can 
+position itself as an ideal 
+enabler for its clients as 
+their trusted IT partner.
+Actively integrating ESG in the 
+Company’s business decisions 
+and designing the Company’s 
+operations 
+and 
+business 
+activities aligned with climate 
+action. 
+Negative 
+and Positive 
+Implications
+4.
+Waste 
+Management
+Risk
+Managing the E-waste is 
+an important component 
+of 
+RateGain’s 
+waste 
+management 
+process. 
+Disposing them in an 
+environmental-friendly 
+manner 
+is 
+considered 
+critical for RateGain.
+Collect and provide E-waste 
+to 
+a 
+responsible 
+waste 
+management company
+Negative 
+Implications
+5.
+Health and 
+Safety
+Risk
+The health and safety of 
+the 
+Company’s 
+teams 
+as well as their physical, 
+emotional, and mental 
+well-being is critical to 
+keeping them motivated, 
+driving their productivity, 
+and 
+influencing 
+their 
+retention.
+a)	
+Conduct 
+awareness 
+programs 
+on 
+mental 
+health and well-being
+b)	
+Carry 
+out 
+awareness 
+program on workplace 
+safety
+c)	
+Conduct 
+fire 
+drills 
+at 
+regular intervals
+Negative 
+Implications
+6.
+Talent 
+Acquisition 
+and Retention 
+Opportunity
+RateGain’s 
+employees 
+are the key contributors 
+to 
+value 
+creation. 
+It 
+is 
+essential 
+to 
+recruit 
+qualified individuals as 
+well as provide necessary 
+training 
+to 
+upskill 
+themselves to meet the 
+clients’ requirements. 
+Not Applicable
+Positive 
+Implications
+RateGain Travel Technologies Ltd
+124
+S. No.
+Material issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying 
+the risk opportunity
+In case of risk, approach to 
+adapt or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate positive 
+or negative 
+implications)
+7.
+Product 
+Designing & 
+Development
+Opportunity
+In line with the travel 
+and 
+tourism 
+industry’s 
+Net 
+Zero 
+transition 
+commitments by 2050, 
+the potential ability of 
+RateGain’s 
+products 
+to 
+enable 
+its 
+clients’ 
+interests in sustainability 
+transitions will also be 
+explored.
+Not Applicable
+Positive 
+Implications
+8.
+Board Structure 
+and Leadership
+Opportunity
+ESG 
+holds 
+a 
+central 
+position 
+in 
+RateGain’s 
+strategy, with a strong 
+emphasis on integrating it 
+across the entire strategic 
+roadmap. 
+To 
+ensure 
+success, 
+the 
+company 
+recognizes the vital role 
+of strong leadership and 
+board-level 
+oversight. 
+A well-defined plan of 
+action, driven from the 
+top, will be implemented 
+to effectively propel ESG 
+initiatives forward.
+Not Applicable
+Positive 
+Implications
+9.
+Protection 
+and energy 
+conservation
+Opportunity
+The 
+Company 
+being 
+SaaS solutions provider 
+for 
+the 
+travel 
+and 
+hospitality industry, the 
+business operation of the 
+Company is not energy-
+intensive. As a responsible 
+corporate citizen, it makes 
+conscious efforts towards 
+energy 
+management 
+and conservation thereby 
+reducing 
+its 
+energy 
+consumption. 
+Not Applicable
+Positive 
+Implications
+10.
+CSR Activities
+Opportunity
+RateGain’s CSR approach 
+is geared towards making 
+a 
+positive 
+impact 
+on 
+environmental indicators 
+while 
+also 
+creating 
+meaningful 
+social 
+change. 
+Through 
+the 
+Company’s CSR initiatives, 
+it 
+aims 
+to 
+contribute 
+to 
+environmental 
+sustainability 
+while 
+simultaneously focusing 
+on 
+fostering 
+social 
+impact. By engaging with 
+the community, RateGain 
+has 
+the 
+opportunity 
+to shape and improve 
+livelihoods, 
+making 
+a 
+tangible difference in the 
+lives of those it serves.
+Not Applicable
+Positive 
+Implications
+Corporate Overview
+Financial Statements
+Statutory Reports
+125
+Annual Report 2022-23
+Section B: Management and Process Disclosures
+This section is Aimed at helping Businesses Demonstrate the Structures, Policies and Processes 
+put in place towards adopting the NGRBC Principles and Core Elements.
+P1
+Businesses should conduct and govern themselves with integrity in a manner that is ethical, 
+transparent and accountable
+P2
+Businesses should provide goods and services in a manner that is sustainable and safe
+P3
+Businesses should respect and promote the well-being of all employees, including those in 
+their value chains
+P4
+Businesses should respect the interests of and be responsive towards all its stakeholders
+P5
+Businesses should respect and promote human rights
+P6
+Businesses should respect, protect and make efforts to restore the environment
+P7
+Businesses when engaging in influencing public and regulatory policy, should do so in a manner that 
+is responsible and transparent
+P8
+Businesses should promote inclusive growth and equitable development
+P9
+Businesses should engage with and provide value to their consumers in a responsible manner
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1a.	 Whether your entity’s policy/policies 
+cover each principle and its core 
+elements of the NGRBCs.
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+1b.	 Has the policy been approved by 
+the Board?
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+1c.	 Web Link of the Policies, if available
+RateGain has captured relevant policies against these principles, 
+and published the same on its website. These policies (listed below) 
+can be found at https://rategain.com/about-us/governance/
+•	
+RateGain Familiarization Programme
+•	
+Anti-corruption or anti-bribery policy
+•	
+Code of Conduct for Board and Senior Management Personnel
+•	
+Policy on Related Party Transactions
+•	
+Policy on Board Diversity
+•	
+Code for Independent Directors
+•	
+CSR Policy
+•	
+Whistleblower policy
+•	
+Risk Management Policy
+•	
+Anti-Competitive Conduct Policy
+Further, the company provides its Employees’ related Policies 
+and HR policies, which are available to all employees through the 
+Intranet platform.
+2.	
+Whether the entity has translated 
+the policy into procedures. (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3.	
+Do the enlisted policies extend to 
+your value chain partners? (Yes/No)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+4.	
+Name 
+of 
+the 
+national 
+and 
+international codes/ certifications 
+/ 
+labels/ 
+standards 
+(e.g. 
+Forest 
+Stewardship 
+Council, 
+Fairtrade, 
+Rainforest 
+Alliance, 
+Trustee) standards (e.g. SA 8000, 
+OHSAS, ISO, BIS) adopted by your 
+entity and mapped to each principle.
+RateGain is a Payment Cards Industry(PCI)-certified enterprise. 
+The 
+company 
+is 
+aiming 
+to 
+undergo 
+industry-recognized 
+certification during the year on cybersecurity.
+RateGain Travel Technologies Ltd
+126
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+5.	
+Specific commitments, goals and 
+targets set by the entity with defined 
+timelines, if any.
+RateGain’s management has committed to integrating ESG 
+principles across the enterprise. Leveraging past efforts, the 
+company aims to scale up its ESG agenda by engaging stakeholders 
+consistently. Conducting an extensive Materiality Assessment, 
+RateGain will build a robust ESG framework as the foundation for 
+its future roadmap.
+6.	
+Performance of the entity against 
+the specific commitments, goals 
+and targets along-with reasons in 
+case the same are not met.
+Considering that the company is in the planning and strategizing 
+phase, its performance against the targets set during the year 
+should ideally be compared in the subsequent years.
+Governance, leadership and oversight
+7.	
+Statement by director responsible 
+for the business responsibility report, 
+highlighting ESG related challenges, 
+targets and achievements
+Today, ESG is at the heart of the business across the industry. 
+RateGain has taken this into complete cognizance and decided to 
+take bold steps in that direction. With growing investor interest in 
+ESG practices and heightened attention from regulatory authorities, 
+we are viewing ESG as a strategic imperative. Our global presence 
+across markets like the US, Europe, Middle-East and others means 
+that we are expected to support a diverse set of client expectations 
+depending on geographical mandates.
+We are cognizant that the travel and tourism industry contributes 
+significantly to global carbon footprint today. There are efforts 
+underway at our clients’ end to reduce their overall footprint and 
+we are aligned internally to support them along this journey.
+Within our operations, we are in the middle of our transformation 
+into an efficient-enterprise by optimizing our IT practices and 
+products. Considering our clients are marquee names in the 
+industry and have global operations, we need to ensure that our 
+projects are not disruptive, to say the least. 
+Our commitment to employee welfare, across the RateGain 
+enterprise, continues to remain strong. We will be enhancing this 
+further with a holistic employee engagement plan, embedding 
+facets of sustainability into the engagement experience.
+We have institutionalized governance mechanisms to ensure 
+a rigorous and robust framework driving compliance, data 
+management, 
+ethical 
+practices 
+and 
+stringent 
+controls. 
+Our implementation of RegTech system has only bolstered this 
+further, ensuring a zero-slippage tolerance.
+During FY 2023-24, we will be executing a holistic materiality 
+assessment to identify the material ESG topics for our internal 
+and external stakeholders. We believe this year will lay the strong 
+foundation for us to implement and scale our sustainability 
+strategy. Our management is strongly committed to make ESG 
+integral to our activities across the enterprise.
+8.	
+Details of the highest authority 
+responsible 
+for 
+implementation 
+and 
+oversight 
+of 
+the 
+Business 
+Responsibility policy (ies).
+Mr. Bhanu Chopra (Chairman & Managing Director)
+Corporate Overview
+Financial Statements
+Statutory Reports
+127
+Annual Report 2022-23
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+9.	
+Does the entity have a specified 
+Committee of the Board/ Director 
+responsible for decision making 
+on 
+sustainability 
+related 
+issues? 
+(Yes/No). If yes, provide details.
+Mr. Bhanu Chopra, the Chairman & Managing Director of RateGain, 
+assumes the crucial role of decision-making on sustainability 
+matters. His involvement extends to being a Member of the 
+Stakeholder’s Relationship Committee (SRC) and Risk Management 
+Committee (RMC), as well as holding the position of Chairman for 
+Corporate Social Responsibility (CSR). These Committees diligently 
+adhere to industry best practices on governance and sustainability, 
+effectively implementing key sustainability strategies and policies. 
+Guided by a profound commitment to empowering clients, 
+RateGain’s business plan centers around positively influencing 
+people and communities while ensuring sustainable operations. 
+The company envisions a future that fosters sustainability not only 
+for itself but for everyone associated with it, a vision passionately 
+pursued under Mr. Bhanu Chopra’s leadership.
+10. 	Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether review 
+was undertaken  
+by Director / Committee of the Board /  
+Any other Committee 
+Frequency (Annually/ Half yearly/ 
+Quarterly/ Any other - please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against 
+above 
+policies 
+and 
+follow up action 
+RateGain adheres to a stringent governance practice that includes periodic 
+assessments to evaluate performance against all policies. These assessments help 
+the company gauge its alignment with the established principles. Subsequent to the 
+evaluations, proactive follow-up actions are taken to address any areas of improvement, 
+ensuring continual alignment with the set standards and principles.
+Compliance with 
+statutory requirements 
+of relevance to the 
+principles, and, 
+rectification of any  
+non-compliances
+The Company places paramount importance on compliance, treating it as the 
+cornerstone of its operations. Adhering to a profound commitment to its guiding 
+principles, RateGain ensures unwavering adherence to all relevant statutory 
+requirements. This diligent approach stands as a testament to the company’s 
+unwavering dedication to upholding ethical standards and regulatory obligations, 
+fostering trust and confidence among stakeholders.
+11.	 Has the entity carried out independent assessment/ evaluation of the working of its policies by an 
+external agency? (Yes/ No) If yes, provide the name of the agency.
+	
+RateGain has not undergone external agency assessments of its policies thus far. However, in response to 
+the recently announced SEBI mandate requiring third-party assurance of the Business Responsibility and 
+Sustainability Reporting (BRSR) Core, the company is proactively preparing itself for such assessments 
+and evaluations. This proactive approach highlights RateGain’s commitment to transparency and 
+accountability, ensuring its alignment with the evolving regulatory landscape and industry best practices.
+12.	 If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated:
+Question
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity does not consider the Principles material to its 
+business (Yes/No)
+NA
+The entity is not at a stage where it is in a position to formulate 
+and implement the policies on specified principles (Yes/No) 
+The entity does not have the financial or/human and technical 
+resources available for the task (Yes/No)
+It is planned to be done in the next financial year (Yes/No)
+Any other reason (please specify)
+RateGain Travel Technologies Ltd
+128
+Section C : Principle wise Performance Disclosure
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and 
+Core Elements with key processes and decisions. The information sought is categorized as “Essential” and 
+Leadership”. While the essential indicators are expected to be disclosed by every entity that is mandated to 
+file this report, the leadership indicators may be voluntarily disclosed by entities which aspire to progress to a 
+higher level in their quest to be socially, environmentally and ethically responsible.
+PRINCIPLE 1
+Businesses should conduct and govern themselves with integrity, and in a manner 
+that is Ethical, Transparent and Accountable.
+ESSENTIAL INDICATORS 
+1.	
+Percentage coverage by training and awareness programmes on any of the Principles during the 
+financial year: 
+	
+Since RateGain does not staff any workers, the section below provides details only for its employees. 
+Segment
+Total number 
+of training and 
+awareness 
+programmes held
+Topics / principles covered under 
+ the training and its impact
+Percentage 
+of persons 
+in respective 
+category covered 
+by the awareness 
+programmes
+Board of Directors
+4
+As part of its commitment to continuous improvement 
+and effective governance, RateGain conducts regular 
+training sessions for its directors. These sessions cover 
+various crucial aspects, including business models, risk 
+minimization procedures, compliance management, 
+recent trends in technology, changes in the domestic 
+and overseas industry scenario, and the Company’s 
+business performance. The objective is to ensure that 
+all directors are well-informed and aligned with the 
+organization’s strategies and goals.
+Furthermore, to maintain legal compliance and 
+keep the directors updated on regulatory changes, 
+RateGain organizes presentations on significant 
+amendments in Corporate and other allied laws. By 
+equipping its directors with up-to-date knowledge, 
+RateGain ensures a well-prepared leadership team 
+that can navigate the evolving business landscape 
+effectively, making informed decisions that contribute 
+to the Company’s continued success.
+100%
+Key Managerial 
+Personnel
+4
+RateGain conducts regular training for Key Managerial 
+Personnel(s) (KMPs) on various aspects, including 
+business models, risk minimization, compliance, 
+technology trends, industry changes, and business 
+performance. 
+Presentations 
+on 
+significant 
+amendments in Corporate and allied laws keep them 
+updated on legal changes and governance standards.
+100%
+Employees other 
+than BoD and 
+KMPs
+61
+During induction all new employees are trained on 
+various policies like Whistleblower Policy, Prevention 
+of Sexual Harassment of Women at workplace (POSH) 
+etc. Further, Company keeps on organizing session(s) 
+on Autism Awareness, Breast Cancer Awareness, 
+CSR Activities, Financial Awareness, Health & Safety, 
+POSH Product Awareness, Training Stakeholder 
+Management, Thalassemia Awareness, etc
+100%
+	
+Note: The Company does not employ or engage with ‘worker’, as defined in the guidance note on BRSR, issued by SEBI
+Corporate Overview
+Financial Statements
+Statutory Reports
+129
+Annual Report 2022-23
+2.	
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in 
+proceedings (by the entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial 
+institutions, in the financial year, in the following format (Note: the entity shall make disclosures 
+on the basis of materiality as specified in Regulation 30 of SEBI (Listing Obligations and Disclosure 
+Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+Monetary
+NGRBC 
+Principle
+Name of the regulatory/ 
+enforcement agencies/ 
+judicial institutions
+Amount  
+(In INR)
+Brief of 
+the Case
+Has an appeal 
+been preferred? 
+(Yes/No)
+Penalty/ Fine
+Nil
+Settlement
+Compounding fee
+Non-Monetary
+NGRBC 
+Principle
+Name of the regulatory/ 
+enforcement agencies/ judicial 
+institutions
+Brief of 
+the Case
+Has an appeal 
+been preferred? 
+(Yes/No)
+Imprisonment
+Nil
+Punishment
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases 
+where monetary or non-monetary action has been appealed.
+Case Details
+Name of the regulatory/ enforcement agencies/ judicial institutions
+Not Applicable
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if 
+available, provide a web-link to the policy.
+	
+Yes, the Company strictly adheres to its anti-corruption and anti-bribery policy. As per this policy, neither 
+the company nor its employees shall engage in any illegal payments, gifts, or benefits to gain business 
+advantages. The company is dedicated to promoting fair, ethical, and transparent business conduct in all 
+its operations. Effective systems are in place to counter bribery, ensuring compliance with all relevant laws, 
+both domestic and foreign. This commitment extends to preventing, deterring, and detecting any corrupt 
+business practices, whether involving public or private sector officials, customers, or suppliers. The company 
+upholds professionalism, fairness, and integrity in all its business dealings worldwide. The policy is available 
+on the company website at https://rategain.com/pdf/governance/Anti-Bribery.pdf.
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any 
+law enforcement agency for the charges of bribery/ corruption: 
+ FY 2022-23 
+ FY 2021-22 
+Directors
+Nil
+Nil
+KMPs
+Nil
+Nil
+Employees
+Nil
+Nil
+	
+Note: The Company does not employ or engage with ‘worker’, as defined in the guidance note on BRSR, issued by SEBI
+6.	
+Details of complaints with regard to conflict of interest: 
+ FY 2022-23 
+ FY 2021-22 
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to issues of 
+Conflict of Interest of the Directors
+Nil
+NA
+Nil
+NA
+Number of complaints received in relation to issues of 
+Conflict of Interest of the KMPs
+Nil
+NA
+Nil
+NA
+RateGain Travel Technologies Ltd
+130
+7.	
+Provide details of any corrective action taken or underway on issues related to fines / penalties / 
+action taken by regulators/ law enforcement agencies/ judicial institutions, on cases of corruption 
+and conflicts of interest. 
+	
+Not Applicable
+LEADERSHIP INDICATORS
+1.	
+Does the entity have processes in place to avoid/ manage conflict of interests involving members of 
+the Board? (Yes/No). If Yes, provide details of the same.
+	
+Yes, RateGain has well-established processes to prevent and manage conflicts of interest involving board 
+members and senior management. The Code of Conduct for Board and Senior Management strictly 
+prohibits any engagement in activities, businesses, or relationships that could conflict with the Company’s 
+interests or be prejudicial to it. Moreover, they are required to avoid conducting company business with 
+their relatives or firms where they or their relatives have significant interests unless proper disclosure is 
+made to the Board. This ensures transparency and upholds the Company’s integrity in all dealings.
+PRINCIPLE 2
+Businesses should provide goods and services in a manner that is sustainable and safe
+ESSENTIAL INDICATORS 
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve 
+the environmental and social impacts of product and processes to total R&D and capex investments 
+made by the entity, respectively. 
+ FY 2022-23 
+ FY 2021-22 
+Details of improvements in 
+environmental and social impacts
+R&D
+N.A.
+Capex
+	
+Footnote: RateGain’s accounting systems do not tag its R&D and capital expenses, with Environment or Social flags. 
+The company will be studying its system to explore ways and methods to address this in subsequent cycles.
+2.	
+ a.	 Does the entity have procedures in place for sustainable sourcing? (Yes/No) 
+	
+	
+No. As the nature of the business of the company is providing SaaS solutions, at a corporate level, 
+consumption of resources is limited to running the operations.
+	
+b.	
+If yes, what percentage of inputs were sourced sustainably?
+ 	
+	
+Not Applicable
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing 
+at the end of life
+	
+Amidst the unique nature of its business, RateGain upholds a profound commitment to sustainability. 
+While the scope for using recycled material as processed inputs may be limited, the company exudes 
+responsibility and conscientiousness in every aspect of waste disposal. With a heart dedicated to 
+environmental stewardship, RateGain treads on a path of conscious choices, leaving behind a legacy of 
+responsible and mindful practices that echo its dedication to a greener, more sustainable world.
+	
+a)	
+Plastics (including packaging)
+	
+	
+In the pursuit of environmental responsibility, RateGain generates minimal plastic waste owing to its 
+limited procurement of goods and supplies. At the office premises, waste segregation is diligently 
+practiced, distinguishing between dry and wet waste. The building facility management team 
+ensures proper disposal to the authorities for further responsible processing. This conscientious 
+approach to waste management exemplifies RateGain’s dedication to making a positive impact on 
+the environment and creating a sustainable future for all.
+Corporate Overview
+Financial Statements
+Statutory Reports
+131
+Annual Report 2022-23
+	
+b)	
+E-waste 
+	
+	
+RateGain demonstrates its commitment to responsible e-waste management by collaborating 
+with government-certified e-waste recyclers. The company ensures the proper disposal of e-waste 
+generated during its operations by handing it over to these recyclers on a quarterly basis. Through this 
+proactive approach, RateGain safeguards the environment and promotes sustainable practices in 
+handling electronic waste. The Company receives e-waste certificates as tangible proof of its dedication 
+to environmentally friendly practices, solidifying its commitment to making a positive impact on the 
+planet and fostering a greener future.
+	
+c)	
+Hazardous waste
+	
+	
+Not Applicable 
+	
+d)	
+Other Waste
+	
+	
+RateGain takes responsible waste management seriously, demonstrating a commendable 
+commitment to sustainability. Waste generated in the office premises is collected and thoughtfully 
+segregated into separate bins for wet and dry waste. With meticulous care, the company ensures 
+that the waste is appropriately handled by the building facility management team ensuring proper 
+disposal to the authorities for further responsible processing. This proactive and conscientious 
+approach reflects RateGain’s dedication to minimizing its environmental footprint and contributing 
+to the well-being of the community and the environment at large.
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). 
+If yes, whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) 
+plan submitted to Pollution Control Boards? If not, provide steps taken to address the same. 
+	
+Not Applicable, owing to the nature of business.
+PRINCIPLE 3
+Businesses should respect and promote the well-being of all employees, including 
+those in their value chains
+ESSENTIAL INDICATORS
+1.	
+a.	
+Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total (A)
+Health  
+insurance
+Accident  
+insurance
+Maternity  
+Benefits
+Paternity  
+Benefits
+Day Care  
+facilities
+Number 
+(B)
+%  
+(B / A)
+Number 
+(C)
+%  
+(C / A)
+Number 
+(D)
+%  
+(D / A)
+Number 
+(E)
+%  
+(E / A)
+Number 
+(F)
+%  
+(F / A)
+Permanent employees
+Male
+380
+379
+99.74%
+379
+99.74%
+0
+0
+227
+59.74%
+0
+0
+Female
+80
+80
+100%
+80
+100%
+26
+32.50%
+NA
+0
+0
+0
+Total
+460
+459
+99.78%
+459
+99.78%
+26
+5.65%
+227
+49.35%
+0
+0
+Other than Permanent employees
+Male
+20
+3
+15%
+3
+15%
+0
+0
+0
+0
+0
+0
+Female
+6
+3
+50%
+3
+50%
+1
+16.67%
+0
+0
+0
+0
+Total
+26
+6
+23.08%
+6
+23.08%
+1
+3.85%
+0
+0
+0
+0
+	
+	
+The reason for the Health insurance and Accident insurance not showing 100% coverage is due to the 
+onboarding process for new employees, which takes approximately 4 weeks. Employees who joined 
+towards the end of the financial year might not have had insurance coverage at that time. However, the 
+Company ensures that all employees are eventually covered under the Company’s insurance policies.
+RateGain Travel Technologies Ltd
+132
+	
+	
+In addition to this, the Company has a tie-up with Practo in India (covering nearly 70% of our 
+employee base) wherein each employee can enroll 4 adults and 2 children with Practo and get 15 free 
+consultations with medical doctors every month including psychological experts on mental health. 
+The Company also runs contests like Fitness month, etc. where it encourages employees to embrace 
+an active lifestyle.
+	
+b.	
+Details of measures for the well-being of workers: 
+Category
+% of workers covered by
+Total (A)
+Health  
+insurance
+Accident  
+insurance
+Maternity  
+Benefits
+Paternity  
+Benefits
+Day Care  
+facilities
+Number 
+(B)
+%  
+(B / A)
+Number 
+(C)
+%  
+(C / A)
+Number 
+(D)
+%  
+(D / A)
+Number 
+(E)
+%  
+(E / A)
+Number 
+(F)
+%  
+(F / A)
+Permanent workers
+Male
+NA
+Female
+Total
+Other than Permanent workers
+Male
+NA
+Female
+Total
+	
+	
+Note: The Company does not employ or engage with ‘worker’, as defined in the guidance note on BRSR, issued by SEBI
+2.	
+Details of retirement benefits, for Current FY and Previous Financial Year.
+Benefits
+ FY 2022-23 
+ FY 2021-22 
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered 
+as a % 
+of total 
+workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered 
+as a % 
+of total 
+workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+PF
+82.61%
+NA
+Yes
+78.87%
+NA
+Yes
+Gratuity 
+100%
+Yes
+100%
+Yes
+ESI
+0.22%
+Yes
+0.47%
+Yes
+3.	
+Accessibility of workplaces
+	
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the 
+requirements of the Rights of Persons with Disabilities Act, 2016? 
+	
+Yes, the office is compliant with the requirements of the Rights of Persons with Disabilities Act, 2016, 
+ensuring accessibility for differently-abled employees and workers. This includes wheelchair ramps to 
+enter and leave the building, braille signages to improve accessibility in the elevators etc. However, there 
+were no differently-abled employees working in the company during this year.
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 
+2016? If so, provide a web-link to the policy.
+	
+RateGain has an equal opportunity policy, available on its intranet, that emphasizes non-discrimination 
+based on disability, race, gender, age, religion, sexual orientation, or any other beliefs. 
+	
+The company is dedicated to promoting equal opportunities for persons with disabilities in all aspects 
+of employment, including recruitment, training, promotions, and working conditions.
+Corporate Overview
+Financial Statements
+Statutory Reports
+133
+Annual Report 2022-23
+5.	
+ Return to work and Retention rates of permanent employees and workers that took parental leave. 
+	
+Since RateGain does not staff any workers, the section below provides details only for its employees. 
+Gender
+Permanent employees
+Permanent workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+100%
+100%
+NA
+Female
+100%
+100%
+Total
+100%
+100%
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of 
+employees and workers? If yes, give details of the mechanism in brief.
+Yes/No 
+If Yes, then give details of the mechanism in brief
+Permanent  
+Employees
+Yes
+RateGain prioritizes maintaining a healthy, fair, and inclusive work culture. 
+To ensure that employees feel valued and heard, the company has a 
+dedicated mechanism in place to receive and redress grievances promptly 
+and effectively. This approach fosters an environment where employees 
+can freely express their concerns, and the company is committed to 
+addressing them with utmost attention and care.
+RateGain’s Whistle Blower Policy outlines the procedure and channels for 
+addressing grievances, ensuring transparency and accountability.
+RateGain has an online ticketing system for employees to raise grievances 
+on https://help.rategain.com which are then assigned to HR business 
+partners for closure. In case employees face any form of harassment 
+including sexual harassment, they can raise a complaint on icc.@rategain.
+com and the same would be promptly forwarded to the POSH committee 
+for review and investigation. Based on the outcome of the investigation, 
+the action is taken as per the recommendations of the committee. 
+The employee who has raised the complaint, is protected from backlash 
+by either providing paid leave to the employee or by moving the employee 
+another team in case a team member or supervisor of the employee who 
+is accused of the harassment.
+In the future, the company plans to further enhance the grievance 
+reporting process by implementing an online ticketing tool. This upcoming 
+tool will provide employees with an additional avenue to report any issues 
+they may encounter. By offering multiple avenues for grievance redressal, 
+RateGain reinforces its commitment to ensuring a fair and transparent 
+workplace for all employees.
+Other than  
+Permanent  
+Employees
+7.	
+Membership of employees and worker in association(s) or Unions recognised by the listed entity: 
+	
+RateGain does not have any employee associations or unions. The employees are however, not discouraged 
+to raise their collective concerns through the relevant channels. 
+Category
+ FY 2022-23 
+ FY 2021-22 
+Total employees 
+/ workers in 
+respective 
+category (A)
+No. of employees / 
+workers in respective 
+category, who are 
+part of association(s) 
+or Union (B)
+%  
+(B / A)
+Total employees 
+/ workers in 
+respective 
+category (C)
+No. of employees / 
+workers in respective 
+category, who are 
+part of association(s) 
+or Union (D)
+%  
+(D / C)
+Total Permanent Employees
+Male 
+NA
+NA
+Female
+Total Permanent Workers
+Male 
+NA
+NA
+Female
+RateGain Travel Technologies Ltd
+134
+8.	
+Details of training given to employees and workers: 
+	
+Since RateGain does not staff any workers, the section below provides details only for its employees. 
+Category
+ FY 2022-23 
+ FY 2021-22 
+Total 
+(A)
+On Health and 
+safety measures
+On Skill 
+upgradation
+Total 
+(D)
+On Health and 
+safety measures
+On Skill 
+upgradation
+No. (B)
+% (B / A)
+No. (C) % (C / A)
+No. (E)
+% (E / D)
+No. (F) % (F / D)
+Employees
+Male 
+380
+45
+11.84%
+147
+38.68%
+340
+50
+14.71%
+68
+20.00%
+Female
+80
+15
+18.75%
+80
+100.00%
+86
+10
+11.63%
+32
+37.21%
+Total
+460
+60
+13.04%
+227
+49.35%
+426
+60
+14.08%
+100
+23.47%
+9.	
+Details of performance and career development reviews of employees and worker: 
+	
+Since RateGain does not staff any workers, the section below provides details only for its employees. 
+Category
+ FY 2022-23 
+ FY 2021-22 
+Total (A)
+No. (B)
+% (B / A)
+Total (C)
+No. (D)
+% (D / C)
+Employees
+Male 
+380
+335
+88.16%
+340
+270
+79.41%
+Female
+80
+71
+88.75%
+86
+59
+68.60%
+Total
+468
+406
+88.26%
+426
+329
+77.23%
+	
+RateGain believes in providing continuous career development opportunities to its employees. To facilitate 
+this, the company has established a comprehensive Learning Management System that offers access to 
+over 80,000 courses. Through this platform, employees can enhance their skills and knowledge, furthering 
+their professional growth and contributing to their overall career advancement. RateGain’s commitment 
+to continuous learning empowers its workforce to thrive and excel in their respective roles.
+10.	 Health and safety management system:
+	
+a)	
+Whether an occupational health and safety management system has been implemented by the 
+entity? (Yes/ No). If yes, the coverage of such system? 
+	
+	
+Yes. The company prioritizes health and safety by implementing rigorous management practices. 
+The office is cleaned daily to maintain a healthy working environment, and the building is equipped 
+with firefighting systems, fire alarms, and fire exits for emergency situations. Regular safety drills 
+and awareness posters are in place to ensure employees are well-informed about safety protocols. 
+Air purifiers in meeting rooms and common spaces enhance air quality, while health camps, dental 
+checkups, and blood donation drives are conducted every six months. Moreover, employees have 
+access to a gym, breakout area, and play area within the office premises, promoting a well-rounded 
+and healthy workplace.
+	
+b)	
+What are the processes used to identify work-related hazards and assess risks on a routine and 
+non-routine basis by the entity? 
+	
+	
+As a SaaS Company, the nature of RateGain’s work involves minimal hazards. The company’s office 
+spaces are thoughtfully designed and we prioritize providing ample breakout, recreational, and 
+collaboration areas to ensure a stress-free work environment for its valued employees. Safety is of 
+utmost importance, and at the office locations, it maintains and regularly tests fire detection, alarm, 
+and suppression systems. Mock drills for fire evacuation and medical emergencies are conducted 
+routinely to ensure its team members’ safety and preparedness.
+Corporate Overview
+Financial Statements
+Statutory Reports
+135
+Annual Report 2022-23
+	
+c)	
+Whether you have processes for workers to report the work-related hazards and to remove 
+themselves from such risks. (Y/N) 
+	
+	
+Yes, RateGain has an internal ticket raising platform that enables employees to create tickets for any 
+work-related hazards they encounter. This platform also allows them to check the status of their raised 
+issues and whether they have been addressed. Additionally, the company actively encourages its 
+people to report any work-related hazards to the administration team, either in-person or through a 
+phone call. This open and responsive approach ensures that safety concerns are promptly addressed 
+and promotes a secure working environment for all employees.
+	
+d)	
+Do the employees/ workers of the entity have access to non-occupational medical and healthcare 
+services? (Yes/ No) 
+	
+	
+Yes. The company offers access to non-occupational medical and healthcare services to its employees. 
+A ‘Health Plan’ has been implemented in partnership with ‘Practo’, providing benefits such as 
+instant online consultation, E-pharmacy, and lab-testing services for employees in this financial year. 
+Additionally, RateGain’s employees are covered under the company’s health insurance and personal 
+accident policy, ensuring their well-being and security.
+11.	 Details of safety related incidents, in the following format: 
+	
+Since RateGain does not staff any workers, the section below provides details only for its employees. 
+Safety Incident/Number
+Category
+ FY 2022-23 
+ FY 2021-22 
+Lost Time Injury Frequency Rate (LTIFR) (per one 
+million-person hours worked) 
+Employees
+0
+0
+Workers
+N.A.
+N.A.
+Total recordable work-related injuries
+Employees
+0
+0
+Workers
+N.A.
+N.A.
+No. of fatalities
+Employees
+0
+0
+Workers
+N.A.
+N.A.
+High consequence work-related injury or ill-health 
+(excluding fatalities)
+Employees
+0
+0
+Workers
+N.A.
+N.A.
+12.	 Describe the measures taken by the entity to ensure a safe and healthy work place. 
+	
+RateGain prioritizes the safety and well-being of its employees and is committed to providing a secure work 
+environment for all. As part of routine safety measures, all employees are required to participate in Mock 
+Drill trainings for Fire Safety and Earthquake Evacuation. To ensure employee safety, biometric scans are 
+installed on the main entrances to prevent unauthorized access to the office premises. Moreover, RateGain’s 
+office is equipped with CCTV cameras and other security systems. RateGain also ensures that security 
+personnel receive regular training on fire and earthquake evacuation protocols, further demonstrating the 
+company’s dedication to maintaining a safe workplace.
+RateGain Travel Technologies Ltd
+136
+13.	 Number of Complaints on the following made by employees and workers: 
+ FY 2022-23 
+ FY 2021-22 
+Filed 
+during 
+the year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Filed 
+during 
+the year
+Pending 
+resolution at 
+the end of 
+year
+Remarks
+Working Conditions 
+3
+Nil
+The 
+complaints 
+were related to the 
+cleanliness 
+of 
+the 
+washroom and were 
+addressed promptly 
+by 
+the 
+concerned 
+department. 
+Also, 
+to ensure no future 
+re-occurrences, 
+the 
+company has put the 
+required 
+proactive 
+checks in place.
+Nil
+Nil
+-
+Health & Safety
+Nil
+Nil
+-
+Nil
+Nil
+-
+14.	 Assessments for the year:
+% of your plants and offices that were assessed (by entity or 
+statutory authorities or third parties)
+Health and safety practices
+100%
+Working Conditions
+100%
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and 
+on significant risks / concerns arising from assessments of health & safety practices and working conditions. 
+	
+At RateGain, a proactive approach is adopted to prevent incidents. Employee complaints are diligently 
+taken up by the administration team, and issues are systematically addressed in accordance with the 
+company’s policies. This methodical approach ensures that concerns are handled promptly and effectively, 
+fostering a positive work environment for all employees.
+LEADERSHIP INDICATORS 
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of death of 
+Employees (Y/N) 
+	
+Yes
+2.	
+Provide the number of employees / workers having suffered high consequence work-related injury / 
+ill-health / fatalities (as reported in Q11 of Essential Indicators above), who have been rehabilitated and 
+placed in suitable employment or whose family members have been placed in suitable employment: 
+	
+Not Applicable owing to the nature of business.
+PRINCIPLE 4
+Businesses should respect the interests of and be responsive to all its stakeholders
+ESSENTIAL INDICATORS
+1.	
+Describe the processes for identifying key stakeholder groups of the entity. 
+	
+The key stakeholders of the company have been identified in consultation with various department heads. 
+These stakeholders include communities, investors, shareholders, employees & workers, customers, value 
+chain partners, business partners, civil society actors, and media. To further understand their concerns 
+and priorities, the Company recognizes the importance of conducting a detailed materiality assessment. 
+As part of its commitment, the company plans to undertake this comprehensive materiality assessment 
+in the coming year, which will aid in identifying and prioritizing the key stakeholder groups’ needs 
+and expectations.
+Corporate Overview
+Financial Statements
+Statutory Reports
+137
+Annual Report 2022-23
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each 
+stakeholder group. 
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/
+No)
+Channels of communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, 
+Notice Board, Website), 
+Other
+Frequency of engagement 
+(Annually/ Half yearly/ 
+Quarterly / others - please 
+specify)
+Purpose and scope of 
+engagement including 
+key topics and 
+concerns raised during 
+such engagement
+Employees
+No
+•	
+HR Surveys/Polls
+•	
+Communication 
+mails 
+and newsletters
+•	
+Intranet notifications
+•	
+Team events/programs
+Quarterly for reviews, rewards, 
+recognitions etc
+Need-based 
+communication 
+to 
+deliver 
+important 
+announcements and messages
+Team 
+events 
+happen 
+periodically every quarter
+Employees are engaged 
+regularly to understand 
+their 
+Learning 
+and 
+Development 
+needs, 
+Career 
+development 
+plans, 
+Performance 
+reviews, Rewards and 
+Recognitions, 
+General 
+safety and well-being.
+Investors 
+& 
+Shareholders
+No
+•	
+Dedicated 
+email 
+channel
+•	
+Regular 
+one 
+to 
+one 
+interaction as well as 
+roadshows.
+•	
+Demo Day conducted to 
+showcase products
+Frequent and need based
+Investors 
+need 
+to 
+better 
+understand 
+the business lines and 
+products 
+to 
+make 
+informed decisions as 
+well as understand the 
+growth opportunity for 
+the company
+Customers
+No
+•	
+Closed Group events
+•	
+Dedicated 
+customer 
+success manager and 
+QBRs
+•	
+“Reboot” 
+event 
+was 
+curated 
+to 
+meet 
+customers 
+and 
+take 
+their 
+feedback 
+about 
+what is changing in the 
+industry
+Frequent and need based
+Product enhancements 
+and 
+stability 
+mechanisms 
+are 
+identified 
+through 
+feedback 
+loops. 
+This 
+also includes solving for 
+new use cases that have 
+emerged post COVID 
+to 
+help 
+customers 
+manage their time and 
+resources better
+Suppliers
+No
+•	
+Procurement 
+Process 
+(Floating of RFPs, Pre-
+agreement negotiations, 
+Engagement 
+Letters, 
+Issuance 
+of 
+PO/
+S O / P r o c u r e m e n t 
+agreements)
+•	
+Dedicated 
+email 
+channel
+•	
+Regular 
+one 
+to 
+one 
+interaction
+Quarterly 
+(Vendors 
+are 
+evaluated on a quarterly basis 
+based on interdepartmental 
+feedback on timing of delivery, 
+support and service/product 
+quality)
+Regular 
+operational 
+aspects including the 
+rates of product and 
+services, 
+quality 
+of 
+service/product,
+customer support and 
+grievance redressal, risk 
+exposure, 
+assessments 
+and evaluations etc.
+Exclusive assessment of 
+vendors such as MSMEs
+Community
+Yes
+•	
+Engagement 
+through 
+dedicated NGOs
+Quarterly
+Working on uplifting 
+the education of the 
+marginalized children, 
+as well as investing in 
+reduction 
+of 
+carbon 
+emissions
+Media
+No
+•	
+Online 
+meetings 
+or 
+through email
+Quarterly and need based
+Providing insights on 
+how travel industry is 
+recovering 
+and 
+how 
+travel trends impact the 
+economy
+RateGain Travel Technologies Ltd
+138
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/
+No)
+Channels of communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, 
+Notice Board, Website), 
+Other
+Frequency of engagement 
+(Annually/ Half yearly/ 
+Quarterly / others - please 
+specify)
+Purpose and scope of 
+engagement including 
+key topics and 
+concerns raised during 
+such engagement
+G ove r n m e n t 
+and regulatory 
+authorities
+No
+	
+Engagement 
+with 
+Indian 
+Government 
+through FICCI.
+	
+One on one meetings
+Frequent and need based
+Discussions with regard 
+to the development of 
+technology in tourism
+LEADERSHIP INDICATORS 
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, 
+environmental, and social topics or if consultation is delegated, how is feedback from such 
+consultations provided to the Board. 
+	
+The company actively engages with its key stakeholders on economic, environmental, and social 
+matters. Feedback from these stakeholders is carefully considered, and the valuable insights gained are 
+communicated to the Board. This collaborative approach ensures that the company’s decision-making 
+process incorporates the perspectives and concerns of its key stakeholders, leading to a more informed 
+and responsible business strategy.
+2.	
+Whether stakeholder consultation is used to support the identification and management of 
+environmental, and social topics (Yes / No). If so, provide details of instances as to how the inputs 
+received from stakeholders on these topics were incorporated into policies and activities of the entity. 
+	
+Yes. RateGain has a well-defined stakeholder engagement process in place to gather inputs from all its 
+stakeholders, including shareholders, on matters related to environmental, social, and governance (ESG) 
+topics. Responding to valuable feedback received from investors, the company has implemented various 
+initiatives to strengthen its ESG disclosures. By actively incorporating stakeholder perspectives, RateGain 
+aims to enhance its ESG practices and maintain transparency and accountability in its operations.
+3.	
+Provide details of instances of engagement with, and actions taken to, address the concerns of 
+vulnerable/ marginalized stakeholder groups. 
+	
+RateGain epitomizes a culture of inclusive and equitable cooperative growth by engaging and 
+communicating actively with all stakeholders. This encompasses not only internal members but also 
+external entities, including underprivileged, vulnerable, and marginalized groups. The company firmly 
+believes in amplifying their voices and addressing their needs. To achieve this, RateGain employs diverse 
+mechanisms such as user feedback, dedicated customer support, robust HR policies, impactful CSR 
+initiatives, and responsive measures to address shareholder grievances. This collective commitment 
+ensures a harmonious and empathetic ecosystem where everyone’s well-being is valued and nurtured, 
+driving the company’s mission towards a better and more inclusive world.
+Corporate Overview
+Financial Statements
+Statutory Reports
+139
+Annual Report 2022-23
+PRINCIPLE 5
+Businesses should respect and promote human rights
+ESSENTIAL INDICATORS
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of 
+the entity, in the following format:
+Category
+ FY 2022-23 
+ FY 2021-22 
+Total  
+(A)
+No. of employees/ 
+workers covered (B)
+%  
+(B / A)
+Total  
+(C)
+No. of employees/ 
+workers covered (D)
+%  
+(D / C)
+Employees
+Permanent
+460
+460
+100%
+426
+426
+100%
+Other than 
+permanent
+26
+26
+100%
+33
+33
+100%
+Total Employees
+486
+486
+100%
+459
+459
+100%
+	
+Note: The Company does not employ or engage with ‘worker’, as defined in the guidance note on BRSR, issued by SEBI
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+Category
+ FY 2022-23 
+ FY 2021-22 
+Total 
+(A)
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+Total 
+(D)
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+No. (B)
+%  
+(B / A)
+No. (C)
+%  
+(C / A)
+No. (E)
+%  
+(E / D)
+No. (F)
+%  
+(F / D)
+Employees
+Permanent
+460
+Nil
+0%
+460
+100%
+426
+Nil
+0%
+426
+100%
+Male
+380
+Nil
+0%
+380
+100%
+340
+Nil
+0%
+340
+100%
+Female
+80
+Nil
+0%
+80
+100%
+86
+Nil
+0%
+86
+100%
+Other than 
+permanent
+26
+Nil
+0%
+26
+100%
+33
+Nil
+0%
+33
+100%
+Male
+20
+Nil
+0%
+20
+100%
+19
+Nil
+0%
+19
+100%
+Female
+6
+Nil
+0%
+6
+100%
+14
+Nil
+0%
+14
+100%
+	
+Note: The Company does not employ or engage with ‘worker’, as defined in the guidance note on BRSR, issued by SEBI
+3.	
+Details of remuneration/salary/wages, in the following format: 
+Male
+Female
+Number
+Median remuneration/ 
+salary/ wages of respective 
+category
+Number
+Median remuneration/ 
+salary/ wages of respective 
+category
+Board of Directors 
+(BoD)
+3
+480,000
+2
+270,000
+Key Managerial 
+Personnel
+3
+12,223,756
+0
+0
+Employees other 
+than BoD and KMP
+376
+1,030,371
+81
+769,261
+Workers
+0
+0
+0
+0
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts 
+or issues caused or contributed to by the business? (Yes/No) 
+	
+Yes
+RateGain Travel Technologies Ltd
+140
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+	
+Employees at RateGain can anonymously report issues related to violations of human rights through an 
+email ID and phone number available on the intranet. The company has a dedicated ICC committee and 
+email ID specifically designed for employees to report sexual harassment issues. Moreover, the company’s 
+policies and code of conduct are appropriately defined to address and redress grievances related to human 
+rights issues. This comprehensive approach ensures a safe and supportive work environment, promoting 
+employee well-being and upholding human rights standards within the organization.
+6.	
+Number of Complaints on the following made by employees and workers: 
+ FY 2022-23 
+ FY 2021-22 
+Filed  
+during 
+the year
+Pending 
+resolution  
+at the end  
+of year
+Remarks
+Filed 
+during  
+the year
+Pending 
+resolution 
+ at the end 
+of year
+Remarks
+Sexual Harassment
+Nil
+Nil
+NA
+1
+Nil
+The complaint by the 
+employee 
+was 
+duly 
+received, extended to 
+the ICC, studied and 
+resolved appropriately 
+in 
+accordance 
+with 
+Rule 7 of the Sexual 
+Harassment 
+of 
+Women at Workplace 
+(Prevention, Prohibition 
+and Redressal) Rules, 
+2013.
+Discrimination at 
+workplace
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Child Labour
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Forced Labour/
+Involuntary Labour
+NIl
+NIl
+NA
+NIl
+NIl
+NA
+Wages
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Other human rights 
+related issues
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+7.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment 
+cases. 
+	
+RateGain has implemented well-defined policies and procedures, including a code of conduct, to prevent 
+adverse consequences for complainants in cases of discrimination and harassment. In the event that such 
+cases are filed, the Human Resources team treats them with utmost seriousness. A proper investigation 
+is led by senior HR personnel to ensure a fair and thorough examination of the matter. This approach 
+underscores the company’s commitment to creating a safe and respectful work environment, where all 
+employees are treated with dignity and equality.
+8.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No) 
+	
+No
+9.	
+Assessments for the year: 
+% of your plants and offices that were assessed  
+(by entity or statutory authorities or third parties)
+Child labour
+100%
+Forced/involuntary labour
+100%
+Sexual harassment
+100%
+Discrimination at workplace
+100%
+Wages
+100%
+Others – please specify
+Corporate Overview
+Financial Statements
+Statutory Reports
+141
+Annual Report 2022-23
+10.	 Provide details of any corrective actions taken or underway to address significant risks / concerns 
+arising from the assessments at Question 9 above. 
+	
+Not Applicable
+LEADERSHIP INDICATORS 
+1.	
+Details of a business process being modified / introduced as a result of addressing human rights 
+grievances/complaints. 
+	
+RateGain is in the process of implementing an online system that will enable employees to share their 
+complaints in the form of tickets. This system will serve as the central point for complaint resolution 
+and will include a virtual help desk for prompt assistance. Furthermore, the company conducts regular 
+sensitization sessions for its employees on the Code of Conduct through various training programs. 
+This proactive approach reinforces the company’s commitment to fostering a respectful and compliant 
+work environment, where employees can voice their concerns and receive appropriate support.
+2.	
+Details of the scope and coverage of any Human rights due-diligence conducted. 
+	
+The Company has a Code of Conduct in place to ensure that all Human Rights protocols are respected and 
+are being followed.
+3.	
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of 
+the Rights of Persons with Disabilities Act, 2016? 
+	
+Yes, the office is accessible to differently abled visitors, as per the requirements of the Rights of Persons 
+with Disabilities Act, 2016.
+PRINCIPLE 6
+Businesses should respect and make efforts to protect and restore the environment
+ESSENTIAL INDICATORS
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+Please specify unit 
+ FY 2022-23 
+ FY 2021-22 
+Total electricity consumption (A)
+Gigajoules
+795.91
+627.72
+Total fuel consumption (B)
+Gigajoules
+21.31
+11.28
+Energy consumption through other sources (C)
+Gigajoules
+0
+0
+Total energy consumption (A+B+C)
+Gigajoules
+817.23
+638.99
+Energy intensity per rupee of turnover (Total 
+energy consumption/ turnover in lakh rupees)
+Gigajoules/lakh INR
+ 0.072
+0.088
+Energy intensity per employee (Total energy 
+consumption/ number of employees)
+Gigajoules/number of 
+employees
+ 1.682
+1.392
+	
+The total energy consumed i.e., electricity and fossil fuel combustion were gathered from monthly 
+electricity bills and diesel generator bills provided by the building management, covering the FY 2021-22 
+and FY 2022-23 periods. The bills provided the values in kWh, and a conversion tool was used to convert 
+it into Gigajoules.
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an 
+external agency? (Y/N) If yes, name of the external agency. If yes, disclose whether targets set under 
+the PAT scheme have been achieved. In case targets have not been achieved, provide the remedial 
+action taken, if any.
+	
+No. RateGain has not conducted any external assurance for its electricity consumption.
+RateGain Travel Technologies Ltd
+142
+ 2.	 Does the entity have any sites / facilities identified as designated consumers (DCs) under the 
+Performance, Achieve and Trade (PAT) Scheme of the Government of India? (Y/N) 
+	
+No. As on March 31st, 2023, the PAT (Perform, Achieve, Trade) scheme, which aims to reduce specific 
+energy consumption in energy-intensive industries, is not applicable to technology/SaaS companies. 
+Therefore, the PAT scheme does not apply to the operations and activities of the company at this time.
+3.	
+Provide details of the following disclosures related to water, in the following format: 
+Parameter
+Please specify unit
+ FY 2022-23 
+ FY 2021-22 
+Water withdrawal by source (in kilolitres)
+(i) 	 Surface water
+kilolitres
+Nil
+Nil
+(ii) 	 Groundwater
+kilolitres
+2715.43
+ 2262.86
+(iii) 	 Third party water
+kilolitres
+Nil
+Nil
+(iv) 	 Seawater / desalinated water
+kilolitres
+Nil
+Nil
+(v) 	 Others
+kilolitres
+Nil
+Nil
+Total volume of water withdrawal (in kilolitres)  
+(i + ii + iii + iv + v)
+kilolitres
+2715.43
+2262.86
+Total volume of water consumption (in kilolitres)
+kilolitres
+2715.43
+2262.86
+Water intensity per rupee of turnover (Water 
+consumed / turnover in lakh rupees)
+Kilolitres/ lakh INR
+ 0.238
+ 0.311
+Water intensity per employee (Water consumed / 
+number of employees)
+Kilolitres/ number  
+of employees
+ 5.587
+ 4.930
+	
+The water source details, and total water withdrawal numbers were determined based on the details 
+shared by the building management, covering the FY 2021-22 and FY 2022-23 periods. Since the water 
+consumption was at a building level, a proportionate allotment was made for RateGain’s consumption, 
+considering it occupies one floor in the building.
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an 
+external agency? (Y/N) If yes name of the external agency.
+	
+No. RateGain has not conducted any external assurance for its water usage.
+4.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its 
+coverage and implementation.
+	
+Yes. RateGain’s office is housed in a building in Noida that has a Zero Liquid Discharge system implemented. 
+5.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format: 
+	
+RateGain’s operations do not generate air emissions that lead to particulate air pollution. However, the 
+company does track the GHG emissions due to its operations, as captured in the next section.
+6.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the 
+following format: 
+Parameter
+Unit
+ FY 2022-23 
+ FY 2021-22 
+Total Scope 1 emissions (Break-up of the GHG into 
+CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+tCO2e
+26.09
+25.83
+Total Scope 2 emissions (Break-up of the GHG into 
+CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+tCO2e
+203.07
+160.16
+Total Scope 1 and Scope 2 emissions per rupee of 
+turnover (in lakh rupees)
+tCO2 e/ lakh INR
+0.020
+0.026
+Total Scope 1 and Scope 2 emission per employee
+ tCO2 e/ number 
+of employees
+ 0.472
+ 0.405
+Corporate Overview
+Financial Statements
+Statutory Reports
+143
+Annual Report 2022-23
+	
+RateGain has used globally-accepted methods based on the GHG protocol to calculate its emission 
+footprint resulting from purchased electricity at office, office air conditioning, fossil fuel use for energy 
+backup under its Scope 1 and Scope 2 emissions. Emission factors have been drawn out of recognized 
+sources, prioritizing India-based benchmarks (Ex: CEA) and supplementing global benchmarks (Ex: IPCC). 
+Based on these exercises, RateGain has taken note of the data gaps that exist currently and will be putting 
+measures in place to address these in the subsequent reporting cycles.
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an 
+external agency? (Y/N) If yes name of the external agency.
+	
+No. RateGain has not conducted any external assurance for its GHG emissions.
+7.	
+Does the entity have any project related to reducing Green House Gas emission? If Yes, then 
+provide details. 
+	
+Yes, the company is in the process of completing the migration of its entire IT infrastructure from an 
+in-house data center to a cloud-based data center. This strategic move to the cloud offers numerous 
+benefits, including increased scalability, flexibility, and cost-efficiency. Cloud-based data centers enable 
+the company to optimize its operations, enhance data security, and leverage advanced technologies and 
+services. As the migration nears completion, the company is well-positioned to further improve its digital 
+capabilities and provide enhanced services to its customers.
+	
+RateGain’s premises at Club 125 facility in Noida proudly holds the prestigious ESG LEED Gold Standard 
+Certification. This remarkable achievement reflects RateGain’s unwavering commitment to Environmental, 
+Social and Governance (ESG) principles, as well as its dedication to sustainable and eco-friendly practices. 
+The LEED Gold Standard Certification signifies the facility’s exemplary green building design and 
+efficient use of resources, setting a benchmark for environmental stewardship in the region. Through this 
+recognition, RateGain establishes itself as a trailblazer in the industry, showcasing its passion for promoting 
+sustainability and responsible business practices.
+8.	
+Provide details related to waste management by the entity, in the following format: 
+Parameter
+Parameter
+ FY 2022-23 
+ FY 2021-22 
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+metric tonnes
+Nil
+Nil
+E-waste (B)
+metric tonnes
+0.3110
+0.2610
+Bio-medical waste (C)
+metric tonnes
+Nil
+Nil
+Construction and demolition waste (D)
+metric tonnes
+Nil
+Nil
+Battery waste (E)
+metric tonnes
+0.0015
+Nil
+Radioactive waste (F)
+metric tonnes
+Nil
+Nil
+Other Hazardous waste. Please specify, if any. (G)
+metric tonnes
+Nil
+Nil
+Other Non-hazardous waste generated (H) - Mix of 
+Wet and Dry waste from the premises
+metric tonnes
+3.8016
+3.1680
+Total (A+B + C + D + E + F + G + H)
+metric tonnes
+4.1141
+3.4290
+For each category of waste generated, total waste recovered through recycling, re-using or other 
+recovery operations (in metric tonnes)
+Category of waste
+(i) 	 Recycled
+metric tonnes
+Nil
+Nil
+(ii) 	 Re-used
+metric tonnes
+(iii) 	 Other recovery operations
+metric tonnes
+Total
+metric tonnes
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i) 	 Incineration
+metric tonnes
+Nil
+Nil
+(ii) 	 Landfilling
+metric tonnes
+((iii) 	Other disposal operations
+metric tonnes
+Total
+metric tonnes
+RateGain Travel Technologies Ltd
+144
+	
+The waste type details and quantities of total waste were determined by collecting daily data based on 
+approximation of waste generated in separate bins in the office. E-waste and battery waste were collected 
+through certificates from authorised recyclers, covering the FY 2021-22 and FY 2022-23 periods.
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an 
+external agency? (Y/N) If yes, name of the external agency.
+	
+No. RateGain has not conducted any external assurance for its waste management.
+9.	
+Briefly describe the waste management practices adopted in your establishments. Describe the 
+strategy adopted by your company to reduce usage of hazardous and toxic chemicals in your products 
+and processes and the practices adopted to manage such wastes. 
+	
+The Company takes waste management seriously and implements appropriate measures to manage waste 
+effectively. Waste generated in the company is collected and segregated using proper dustbins. Wet and 
+dry waste is handed over to the city municipal corporation for management. E-waste is sent to certified 
+third-party recyclers for safe disposal and recycling. Furthermore, old and worn-out batteries are exchanged 
+during the purchase of new batteries, ensuring responsible disposal and environmental protection. 
+These initiatives reflect the Company’s commitment to sustainable waste management practices.
+10.	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, 
+wildlife sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation 
+zones etc.) where environmental approvals / clearances are required, please specify details in the 
+following format:
+S. No.
+Location of 
+operations/
+offices
+Type of 
+operations
+Whether the conditions of environmental approval 
+/ clearance are being complied with? (Y/N) If no, the 
+reasons there of and corrective action taken, if any.
+Not Applicable
+11.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable 
+laws, in the current financial year:
+Name and 
+brief details  
+of project
+EIA 
+Notification 
+No.
+Date
+Whether conducted by 
+independent external 
+agency (Yes / No)
+Results communicated 
+in public domain  
+(Yes / No)
+Relevant  
+Web link
+Not Applicable
+12.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such 
+as the Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) 
+Act, Environment protection act and rules thereunder (Y/N). If not, provide details of all such 
+non-compliances.
+	
+Yes, RateGain has complied with applicable environmental law/regulations / guidelines applicable in India. 
+No fine/penalty/action was initiated against the entity under any of the applicable environmental laws/
+regulation/guidelines
+S. No.
+Specify the law / regulation 
+/ guidelines which was not 
+complied with
+Any fines / penalties / action taken 
+by regulatory agencies such as 
+pollution control boards or by courts
+Corrective 
+action taken,  
+if any
+Not Applicable
+Corporate Overview
+Financial Statements
+Statutory Reports
+145
+Annual Report 2022-23
+LEADERSHIP INDICATORS 
+1.	
+Provide break-up of the total energy consumed (in Joules or multiples) from renewable and 
+non-renewable sources, in the following format: 
+Parameter
+Please specify unit
+ FY 2022-23  FY 2021-22 
+From renewable sources
+Total electricity consumption (A)
+Gigajoules
+Nil
+Nil
+Total fuel consumption (B)
+Gigajoules
+Energy consumption through other sources (C)
+Gigajoules
+Total energy consumed from renewable sources 
+(A+B+C)
+Gigajoules
+From non-renewable sources
+Total electricity consumption (D)
+Gigajoules
+795.91
+627.72
+Total fuel consumption (E)
+Gigajoules
+21.31
+11.28
+Energy consumption through other sources (F)
+Gigajoules
+ Nil
+Nil
+Total energy consumed from non-renewable 
+sources (D+E+F)
+Gigajoules
+817.23
+638.99
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an 
+external agency? (Y/N) If yes, name of the external agency. 
+	
+No, independent assessment/ evaluation/ assurance has been carried out by an external agency.
+2.	
+Provide the following details related to water discharged: 
+Parameter
+Please specify unit
+ FY 2022-23 
+ FY 2021-22 
+Water discharge by destination and level of treatment (in kilolitres) 
+(i) 	 To Surface water
+kilolitres
+Nil
+Nil
+(ii) 	 To Groundwater
+kilolitres
+(iii) 	 To Seawater
+kilolitres
+(iv) 	 Sent to third-parties
+kilolitres
+(v) 	 Others
+kilolitres
+	
+- 	
+No treatment
+kilolitres
+	
+- 	
+With treatment
+kilolitres
+Total water discharged (in kilolitres)
+kilolitres
+	
+With an operational Zero Liquid Discharge (ZLD) system in place, the wastewater generated in the office 
+premises is treated and reused for landscaping activities. Hence, there is no discharge of wastewater to 
+the environment. 
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an 
+external agency? (Y/N), If yes, name of the external agency. 
+	
+No
+3.	
+Water withdrawal, consumption and discharge in areas of water stress (in kilolitres): 
+	
+RateGain’s office in Noida does not fall within a water stressed region or any notified areas demarcated by 
+Central Ground Water Board (CGWB). The company ensures to utilize the piped municipal supply to cater 
+the daily water need. 
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an 
+external agency? (Y/N) If yes, name of the external agency.
+	
+No. This is not applicable since RateGain does not operate in a water stressed region.
+RateGain Travel Technologies Ltd
+146
+4.	
+Please provide details of total Scope 3 emissions & its intensity, in the following format: 
+Parameter
+Unit
+ FY 2022-23 
+ FY 2021-22 
+Total Scope 3 emissions (Break-up of the GHG into 
+CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+tCO2e
+ 13056.58
+12463.18
+Total Scope 3 emissions per rupee of turnover
+tCO2e/ lakh INR
+ 1.153
+ 1.713
+Total Scope 3 emission intensity (optional) - the 
+relevant metric may be selected by the entity
+tCO2e/ number  
+of employees
+ 26.865
+27.153
+	
+RateGain has used globally-accepted methods based on the GHG protocol to calculate its emission 
+footprint resulting from data center operations (Category 1), purchased goods (Category 1), upstream 
+transport (Category 4), business travel (Category 6), employee commute (Category 7). Where necessary 
+data or methods were not available, recognized calculators have been used (recommended by UK 
+DEFRA). Wherever necessary, factors have been drawn out of recognized sources, prioritizing India-based 
+benchmarks (Ex: India GHG Protocol) and supplementing global benchmarks (IPCC, DEFRA) etc. 
+	
+The emissions calculations for hotel stays covers 48% of its domestic bookings and 31% of its 
+international bookings in FY21-22, 94% of its domestic bookings and 59% of its international bookings 
+in FY22-23. This considers only the transactions for which the company’s systems had the complete 
+information recorded. 
+	
+Based on these exercises, RateGain has taken note of the data gaps that exist currently and will be putting 
+measures in place to address these in the subsequent reporting cycles.
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an 
+external agency? (Y/N) If yes, name of the external agency.
+	
+No. RateGain has not conducted any external assurance for its GHG emissions.
+5.	
+With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, 
+provide details of significant direct & indirect impact of the entity on biodiversity in such areas 
+along-with prevention and remediation activities. 
+	
+The company does not operate in ecologically sensitive areas. Hence, this question is not applicable.
+6.	
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to 
+improve resource efficiency, or reduce impact due to emissions / effluent discharge / waste generated, 
+please provide details of the same as well as outcome of such initiatives, as per the following format: 
+S. No.
+Initiative 
+undertaken
+Details of the initiative (Web-link, if any, may 
+be provided along-with summary)
+Outcome of the 
+initiative
+Corrective 
+action 
+taken, if any
+1
+Shift to cloud-
+based 
+data 
+center
+Shifting the whole IT infrastructure from inhouse 
+data center to cloud-based center
+Operational 
+efficiency 
+in the usage of the 
+company products
+NA
+2
+Sustainable 
+IT 
+initiative
+The product development approaches have 
+been embedded with sustainable IT practices 
+across 
+the 
+lifecycle. 
+It 
+includes, 
+moving 
+towards 
+serverless 
+environments, 
+putting 
+services to sleep when not in use, migration 
+of services to AWS Graviton.
+Significant 
+reduction 
+in 
+GHG 
+emissions 
+associated with hosting 
+the application
+NA
+3
+E - w a s t e 
+collection and 
+safe 
+disposal 
+initiative
+The E-waste collected is handed over to certified 
+E-waste recycler for effective management and 
+safe disposal of waste.
+Increasing 
+the 
+availability of recycled 
+materials for reuse.
+NA
+4
+Two 
+bin 
+system 
+of 
+w
+a
+s
+t
+e 
+collection
+Wet waste and Dry waste are collected in two 
+separate bins and provided to the City Municipal 
+Corporation for its management.
+Waste segregation helps 
+better 
+management 
+of waste.
+NA
+Corporate Overview
+Financial Statements
+Statutory Reports
+147
+Annual Report 2022-23
+7.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 
+words/web link. 
+	
+Yes
+	
+RateGain’s Business Continuity Plan strives to manage the restoration of vital company services during 
+facility disruptions brought on by natural or artificial disasters. The plan focuses on localized disasters and 
+is separate from the IT Disaster Recovery Plan, which addresses technology facilities’ recovery. It assumes 
+a viable IT Disaster Recovery Plan, available space for relocation, and maintenance of the plan. Apart from 
+this, the plan’s sections cover business continuity strategy for facility disruptions, identifying Recovery 
+Team functions and assigning specific responsibilities, outlining the sequence of activities and sub-team 
+responsibilities for recovery.
+8.	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. 
+What mitigation or adaptation measures have been taken by the entity in this regard. 
+	
+A substantial portion of the company’s operational footprint is attributed to the data center that houses 
+its products. In response to its environmental responsibility, the company has been closely monitoring 
+the development of data center providers offering green data center locations situated near its business 
+markets. As part of its commitment to sustainability, the company intends to explore the possibility of 
+adopting such eco-friendly alternatives in the near future. By making this move, the company aims to 
+reduce its environmental impact and contribute to a more sustainable and eco-conscious approach to 
+data center operations.
+PRINCIPLE 7
+Businesses, when engaging in influencing public and regulatory policy, should do so 
+in a manner that is responsible and transparent
+ESSENTIAL INDICATORS
+1.	
+a)	
+Number of affiliations with trade and industry chambers/ associations. 
+	
+	
+One
+	
+b)	
+List the top 10 trade and industry chambers/ associations (determined based on the total 
+members of such body) the entity is a member of/ affiliated to. 
+S. No.
+Name of the trade and industry chambers/ 
+associations
+Reach of trade and industry chambers/ 
+associations (State/National)
+1
+Federation of Indian Chambers of Commerce & 
+Industry (FICCI)
+National
+2.	
+Provide details of corrective action taken or underway on any issues related to anti-competitive 
+conduct by the entity, based on adverse orders from regulatory authorities. 
+	
+No incidents of anti-competitive behaviour reported
+Name of authority
+Brief of the case
+Corrective action taken
+LEADERSHIP INDICATORS 
+1.	
+Details of public policy positions advocated by the entity: 
+S. No.
+Public policy 
+advocated
+Method 
+resorted for 
+such advocacy
+Whether information 
+available in public 
+domain? (Yes/No)
+Frequency of Review 
+by Board (Annually/ 
+Half yearly/ Quarterly / 
+Others - please specify)
+Web Link,  
+if available
+None
+RateGain Travel Technologies Ltd
+148
+PRINCIPLE 8
+Businesses should promote inclusive growth and equitable development
+ESSENTIAL INDICATORS
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable 
+laws, in the current financial year. 
+	
+The Company has not undertaken any SIAs in the current financial year.
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being 
+undertaken by your entity, in the following format: 
+	
+Not Applicable
+3.	
+Describe the mechanisms to receive and redress grievances of the community. 
+	
+As a provider of SaaS services, the nature of RateGain’s business has limited exposure to vulnerable 
+sections of the community. However, the Company is committed to its Corporate Social Responsibility 
+(CSR) activities, which are carried out through NGO partners. These partners have a proven track record 
+in their respective areas and have established effective systems to receive feedback and grievances from 
+the community they serve. Utilizing these feedback systems, they can gain insights into areas that require 
+focus and direction, ensuring that CSR efforts are aligned with the community’s needs and aspirations. 
+Through these initiatives, RateGain aims to make a positive impact and contribute to the welfare and 
+development of society.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers: 
+ FY 2022-23
+ FY 2021-22
+Directly sourced from MSMEs/ small producers
+17.32%
+33.01%
+Sourced directly from within the district and neighboring districts
+67.10%
+43.54%
+LEADERSHIP INDICATORS 
+1.	
+Details of beneficiaries of CSR Projects: 
+S. No.
+CSR Project
+No. of persons 
+benefitted from CSR 
+Projects
+% of beneficiaries 
+from vulnerable and 
+marginalized groups
+1.
+Assisting vulnerable and underprivileged 
+children and women (Aashray Society)
+50
+100%
+2.
+Aid in Education of underprivileged 
+Children (Little India Foundation)
+9800
+100%
+3.
+Shikshaantra 
+Plus 
+programme 
+on 
+Awareness Sessions - WASH, Life Skills 
+and Events (Khushii NGO)
+500
+100%
+Corporate Overview
+Financial Statements
+Statutory Reports
+149
+Annual Report 2022-23
+PRINCIPLE 9
+Businesses should engage with and provide value to their consumers in a responsible 
+manner
+ESSENTIAL INDICATORS
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback. 
+	
+The company has 24X7 live chat support, Call and Email support, dedicated helpdesk and customer 
+success managers across each business unit and region. All consumer complaints and feedback are 
+recorded on Salesforce application.
+	
+Hospitality support: There are 3 ways clients can register their complaints/requests with the company. 
+1) They can send an email to help@rategain.com which will be forwarded automatically to the Salesforce 
+tool and create a ticket and through the Salesforce Dashboard the customer success team will pick up a 
+ticket and answer it accordingly. 2) They can call on the support numbers and the consultant who picked 
+up the call will answer the query and record this as a ticket on Salesforce tool in form of ticket. 3) Clients 
+can reach out through Zendesk chat tool integrated on the company’s Hospitality products which will be 
+visible to them after they login and support team members will answer their query/issue/request. 
+	
+Travel Support: Clients can send an email to travel.cs@rategain.com which will be forwarded automatically 
+to the Salesforce tool and create a ticket and through the Salesforce Dashboard, the customer success 
+team will pick up a ticket and answer it accordingly.
+2.	
+Turnover of products and/ services as a percentage of turnover from all products/service that carry 
+information about: 
+As a percentage to  
+total turnover
+Environmental and social parameters relevant to the product
+NA
+Safe and responsible usage
+Recycling and/or safe disposal
+3.	
+Number of consumer complaints in respect of the following:
+ FY 2022-23 (Current 
+Financial Year) 
+Remarks
+ FY 2021-22 (Previous 
+Financial Year) 
+Remarks
+Received 
+during 
+the year
+Pending 
+resolution 
+at end of 
+year
+Received 
+during the 
+year
+Pending 
+resolution 
+at end of 
+year
+Data privacy
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Advertising
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Cyber-security
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Delivery of 
+essential 
+services
+35168
+441
+The numbers represent 
+global 
+data, 
+as 
+the 
+company 
+has 
+a 
+significant 
+market 
+presence 
+in 
+Europe 
+and 
+America. 
+The 
+customer requests are 
+created globally and the 
+employees in India are 
+working to address the 
+complaints. 
+Providing 
+India specific number 
+may under report the 
+exact picture.
+31288
+267
+The numbers represented 
+for FY 22-23 here capture 
+the complaints globally 
+that 
+were 
+received 
+throughout 
+the 
+year, 
+including the short window 
+during 
+which 
+RateGain 
+experienced a cyberattack 
+(Ref the response to Q5 
+below). During this attack, 
+customer complaints were 
+about 
+non-availability 
+of services. There were 
+no 
+concerns 
+about 
+its 
+customers 
+experiencing 
+cyberattack or data privacy 
+violations.
+Restrictive 
+Trade Practices
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Unfair Trade 
+Practices
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Other
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+RateGain Travel Technologies Ltd
+150
+4.	
+Details of instances of product recalls on account of safety issues:
+Number
+Reasons for recall
+Voluntary recalls
+NA
+Forced recalls
+5.	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If 
+available, provide a web-link of the policy.
+	
+Yes, following the cyberattack in May 2022, the Company appointed a leading cyber security firm to 
+conduct forensic audit investigation. Based on their guidance, a complete containment, restoration, root 
+cause analysis actions were conducted. While the Company has maintained a highly secure environment, 
+there is always room for improvement. Lessons have been taken from this incident, and an action plan 
+has been put in place to improve and introduce changes to the environment that reduce risk of future 
+similar events.
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and 
+delivery of essential services; cyber security and data privacy of customers; re-occurrence of instances 
+of product recalls; penalty / action taken by regulatory authorities on safety of products / services. 
+	
+All the complaints received are assigned to different teams to take corrective action. For example, in case of 
+any bugs or enhancements are required in the products, the engineering team takes the necessary action. 
+After completion of the corrective action, the complaints/requests are closed on the Salesforce platform.
+LEADERSHIP INDICATORS 
+1.	
+Channels / platforms where information on products and services of the entity can be accessed 
+(provide web link, if available). 
+	
+RateGain publishes information about its products and services through multiple online channels, 
+predominantly through its website and social channels.
+	
+•	
+https://www.linkedin.com/company/rategain/ 
+	
+•	
+https://www.linkedin.com/company/bcvsocial 
+	
+•	
+https://www.linkedin.com/company/adara 
+	
+•	
+https://www.linkedin.com/company/myhotelshop-a-rategain-company/
+	
+•	
+https://rategain.com/offerings/ 
+	
+•	
+https://www.youtube.com/@RateGainCompany 
+	
+•	
+https://www.bcvsocial.com/ 
+	
+•	
+https://adara.com/ 
+	
+•	
+https://rev-ai.io/ 
+	
+•	
+https://airgain.ai/
+	
+•	
+https://myhotelshop.com/ 
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products 
+and/or services.
+	
+RateGain’s SaaS services come with a user guide to ease their use. In addition, training sessions, quarterly 
+and monthly business reviews are conducted for the clients to address usage concerns and queries. 
+	
+Considering the nature of RateGain’s SaaS products, it is highly unlikely that irresponsible use of products 
+is possible by consumers.
+Corporate Overview
+Financial Statements
+Statutory Reports
+151
+Annual Report 2022-23
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services. 
+	
+RateGain considers Business continuity to be a critical aspect of its delivery and ensures minimal disruption 
+to its services. In case of a planned outage, the company proactively shares information about the timing 
+of the outage, the duration, and the emergency contact number in case they need any help.
+4.	
+Does the entity display product information on the product over and above what is mandated as per 
+local laws? (Yes/No/Not applicable) 
+	
+Not Applicable. Since RateGain is a SaaS service provider, this does not apply to its operations. 
+	
+Did your entity carry out any survey with regard to consumer satisfaction relating to the major 
+products / services of the entity, significant locations of operation of the entity or the entity as a 
+whole? (Yes/No)
+	
+Yes
+5.	
+Provide the following information relating to data breaches:
+	
+a.	
+Number of instances of data breaches along-with impact - One 
+	
+b.	
+Percentage of data breaches involving personally identifiable information of customers - Zero
+ 

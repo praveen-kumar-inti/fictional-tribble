@@ -1,0 +1,5005 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Corporate Office - One Skymark, Tower-D, Plot No. H-10B, Sector-98, Noida-201304 
+T: +91120 4770770     F: +91120 4770771     CIN: L72200DL2000PLC108985 
+Registered Office - 136, First Floor, Devika Tower, Nehru Place, New Delhi-110019 
+One 97 Communications Limited 
+compliance.officer@paytm.com 
+www.paytm.com 
+ 
+August 21, 2023 
+ 
+BSE Limited 
+Department of Corporate Services,  
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, Fort,  
+Mumbai – 400 001  
+ 
+Scrip Code: 543396 
+National Stock Exchange of India Limited 
+The Listing Department, 
+Exchange Plaza,  
+Bandra Kurla Complex, 
+ Mumbai – 400 051 
+ 
+Symbol: PAYTM 
+ 
+Sub:  Disclosure under Regulation 34 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015) - Business Responsibility and Sustainability Report for the financial year 
+2022-23 
+ 
+Dear Sir / Ma’am, 
+ 
+Pursuant to Regulation 34 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, we are enclosing herewith the Business Responsibility and Sustainability Report of the Company 
+for the financial year 2022-23 which also forms part of the Annual Report for the financial year 2022-
+23. 
+ 
+This disclosure will also be hosted on the Company's website viz. www.paytm.com. 
+ 
+Kindly take the same on record.  
+ 
+Thanking you 
+ 
+Yours faithfully, 
+ 
+For One 97 Communications Limited 
+ 
+ 
+ 
+Sunil Kumar Bansal 
+Company Secretary & Compliance Officer 
+ 
+Encl.: As above 
+ 
+  
+ 
+SUNIL KUMAR 
+BANSAL
+Digitally signed by 
+SUNIL KUMAR BANSAL 
+Date: 2023.08.21 
+18:15:05 +05'30'
+Annual Report 
+2023
+1
+Statutory Reports
+1
+Corporate Identity Number (CIN) of the 
+Listed Entity
+L72200DL2000PLC108985
+2
+Name of the Listed Entity
+One 97 Communications Limited
+3
+Year of incorporation
+2000
+4
+Registered office address
+First Floor, Devika Tower, Nehru Place, New Delhi 
+– 110019
+5
+Corporate address
+One Skymark, Tower D, Plot No. H-10B, 
+Sector-98, Noida–201304
+6
+E-mail
+compliance.officer@paytm.com
+7
+Telephone
++91-120- 4770770
+8
+Website
+www.paytm.com
+9
+Financial year for which reporting is 
+being done.
+FY 2022-23
+10
+Name of the Stock Exchange(s) where 
+shares are listed.
+The Equity shares of the Company are listed 
+and traded on National Stock Exchange of India 
+Limited and BSE Limited
+11
+Paid-up Capital (H)
+Rs. 63,37,88,217
+12
+Name and contact details (telephone, 
+email address) of the person who may 
+be contacted in case of any queries on 
+the BRSR report.
+Name: Sunil Kumar Bansal
+Company Secretary and Compliance Officer 
+Telephone Number: +91 120 4770770
+Email: compliance.officer@paytm.com
+13
+Reporting boundary - Are the 
+disclosures under this report made on 
+a standalone basis (i.e. only for the 
+entity) or on a consolidated basis (i.e. 
+for the entity and all the entities which 
+form a part of its consolidated financial 
+statements, taken together).
+Standalone basis
+Section A – General Disclosures
+Details of the Listed entity
+Business Responsibility &  
+Sustainability Report
+Annual Report 
+2023
+2
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+S. 
+No.
+Description of Main 
+Activity
+Description of Business Activity
+% of Turnover 
+of the entity
+1
+Payment and 
+financial services
+Payment services for consumers and 
+merchants, which enables them to send and 
+receive payments both online and in-store. 
+Financial Services include digital distribution of 
+credit, insurance, and wealth management for 
+consumers and merchants.
+80%
+2
+Commerce and 
+cloud services
+Commerce and Cloud services include ticketing 
+for travel and entertainment. It also includes 
+advertising, and loyalty programs for merchants.
+20%
+Location
+Number of plants
+Number of offices
+Total
+National
+0
+56
+56
+International
+0
+17
+17
+S. 
+No. Product/Service
+NIC Code
+% of total Turnover 
+contributed
+1
+Key services offered by the Company include 
+recharge and bill payment on the Paytm app; 
+payment gateway services; and EDC (Electronic 
+Data Capture) payment devices
+     63999
+100
+Locations
+Number
+National (No. of States)
+The Company provides services in all states of India.
+International (No. of Countries)
+20
+Products/services
+14.	Details of business activities (accounting for 90% of the turnover):  
+Note: In addition, we have other non-operating income
+15.	Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+III	 Operations 
+16.	Number of locations where plants and/or operations/offices of the entity are situated:
+Note: International locations represent the number of registered offices, of the subsidiaries (including 
+wholly owned) of the listed entity.
+17.	 Market served by the entity.
+a.	 Number of Locations
+Annual Report 
+2023
+3
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+S. 
+No. Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+Employees
+1
+Permanent (D)*
+25,959
+24,310
+93.65%
+1,649
+6.35%
+2
+Other than Permanent (E)^
+NIL
+NIL
+NIL
+NIL
+NIL
+3
+Total Employees (D+E)
+25,959
+24,310
+93.65%
+1,649
+6.35%
+Workers
+4
+Permanent (F)
+NIL
+NIL
+NIL
+NIL
+NIL
+5
+Other than Permanent (G)
+NIL
+NIL
+NIL
+NIL
+NIL
+6
+Total workers (F +G)
+NIL
+NIL
+NIL
+NIL
+NIL
+Note: International locations represent the number of countries with recorded revenue from an 
+export service provided for the fiscal year 2022-23, either by the listed entity, or by its subsidiaries 
+(including wholly owned).
+b.	 What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+Approximately 1%.
+c.	 A brief on types of customers
+	
+The Company offers payments, commerce and cloud, and financial services/solutions to over 9.2 
+crores transacting users every month who benefit from our aforesaid diverse range of services. 
+These services are available on a pan India basis to individuals spanning across various age groups.
+	
+The offerings by the Company cater to a wide spectrum of customer requirements, facilitating 
+seamless money transfers, merchant payments, bill payments, e-commerce transactions 
+including on-line payments, and access to a variety of other financial services.
+	
+Our merchant network has grown significantly, reaching 3.56 crores (35.6 million) merchants. 
+Large and medium-sized merchants leverage features like payment gateway, POS machines 
+and loyalty programs to enhance overall customer experience. Simultaneously, the Company 
+actively empowers millions of small merchants by offering payment acceptance via products 
+such as Paytm QR and Soundbox.
+IV  Employees 
+18.	Details as at the end of Financial Year: 2023
+a.	 Employees and workers (including differently abled):
+*Permanent Employees include Full Time Managerial Grade (MG) and Sales Grade (SG) employees 
+^As our PSA Consultants (CG) are not on Company payrolls and paid out as Business Consulting payout. Hence, they have not 
+been included.
+Definition according to SEBI Guideline on BRSR Page 3: (https://www.sebi.gov.in/sebi_data/
+commondocs/may-2021/Business%20responsibility%20and%20sustainability%20reporting%20
+by%20listed%20entitiesAnnexure2_p.PDF)
+Annual Report 
+2023
+4
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+S. 
+No.
+Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+Differently Abled Employees
+1
+Permanent (D)
+10
+10
+100%
+0
+0
+2
+Other than Permanent (E)
+0
+0
+0
+0
+0
+3
+Total differently abled 
+employees (D + E)
+10
+10
+100%
+0
+0
+Differently Abled Workers
+4
+Permanent (F)
+NIL
+NIL
+NIL
+NIL
+NIL
+5
+Other than Permanent (G)
+NIL
+NIL
+NIL
+NIL
+NIL
+6
+Total differently abled workers 
+(F + G)
+NIL
+NIL
+NIL
+NIL
+NIL
+S. No.
+Total
+(A)
+No. and percentage of Females
+No. (B)
+% (B/A)
+Board of Directors*
+7
+1
+14.29%
+Key Management Personnel^
+2#
+0
+0
+FY 22-23
+(Turnover rate in current 
+FY)
+FY 21-22
+(Turnover rate in previous 
+FY)
+FY 20-21
+(Turnover rate in the year 
+prior to the previous FY)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent 
+Employees
+67.70%
+35.34% 64.59% 35.84%
+46.55% 37.46% 35.82%
+26.91% 34.33%
+Permanent 
+Workers
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+b.	 Differently abled Employees and workers:
+Note: Above data includes those who have declared themselves as disabled and have submitted their disability certificates as 
+proof
+19.	Participation/Inclusion/Representation of women
+* Board of Directors - Vijay Shekhar Sharma, Ravi Chandra Adusumali, Neeraj Arora, Madhur Deora, Ashit Ranjit Lilani, Pallavi 
+Shardul Shroff and Gopalasamudram S Sundararajan
+^Key Management Personnel - Vijay Shekhar Sharma, Madhur Deora 
+#Mr. Amit Khera was a KMP (Company Secretary and Compliance Officer) who left the Company in mid of March 2023
+20.	Turnover rate for permanent employees and workers
+Note: Turnover rate for Permanent Employees includes Confirmed MG +SG employees (Entity 
+transfers from the Company to other entities are not included in attrition). MG & SG employees on 
+probation are not included since they are yet to be confirmed.
+Annual Report 
+2023
+5
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+S.
+No
+Name of the holding/
+subsidiary/ associate companies/ joint ventures (A)
+Indicate whether 
+holding/ 
+Subsidiary/ 
+Associate/ Joint 
+Venture
+% of 
+shares 
+held by 
+listed 
+entity
+Does the entity 
+indicated at column 
+A, participate in the 
+Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)*
+1.
+One 97 Communications India Limited
+Subsidiary
+100.00%
+No
+2.
+Paytm Entertainment Limited
+Subsidiary
+100.00%
+No
+3.
+Paytm Money Limited
+Subsidiary
+100.00%
+No
+4.
+Paytm Financial Services Limited
+Associate
+48.78%
+No
+5.
+Admirable Software Limited 1
+Associate
+48.78%
+No
+6.
+Paytm Payments Services Limited
+Subsidiary
+100.00%
+No
+7.
+Wasteland Entertainment Private Limited
+Subsidiary
+100.00%
+No
+8.
+Orbgen Technologies Private Limited
+Subsidiary
+100.00%
+No
+9.
+Paytm Services Private Limited
+Subsidiary
+100.00%
+No
+10.
+Paytm Insurance Broking Private Limited
+Subsidiary
+100.00%
+No
+11.
+Foster Payment Networks Private Limited 2
+Associate
+48.80%
+No
+12.
+Little Internet Private Limited
+Subsidiary
+62.53%
+No
+13.
+Nearbuy India Private Limited 3
+Subsidiary
+62.53%
+No
+14.
+Urja Money Private Limited 4
+Subsidiary
+83.34%
+No
+15.
+Fincollect Services Private Limited 5
+Subsidiary
+83.34%
+No
+16.
+Mobiquest Mobile Technologies Private Limited 6
+Subsidiary
+66.34%
+No
+17.
+Xceed IT Solutions Private Limited 7
+Subsidiary
+66.34%
+No
+18.
+Paytm First Games Private Limited (Name changed to First 
+Games Technology Private Limited w.e.f. April 20, 2023)8
+Joint Venture
+55%
+No
+19.
+Paytm Payments Bank Limited 9
+Associate
+49.00%
+No
+20.
+Paytm Life Insurance Limited
+Associate
+49.00%
+No
+21.
+Paytm General Insurance Limited
+Associate
+49.00%
+No
+22.
+Paytm Insuretech Private Limited (formerly known as 
+QoRQL Private Limited)
+Associate
+32.45%
+No
+23.
+One97 Communications FZ-LLC
+Subsidiary
+100.00%
+No
+24.
+One97 Communications Nigeria Limited
+Subsidiary
+100.00%
+No
+25.
+One97 Communications Singapore Private Limited 10
+Subsidiary
+100.00%
+No
+26.
+One97 USA Inc.
+Subsidiary
+100.00%
+No
+27.
+One97 Communications Tanzania Private Limited 11
+Subsidiary
+100.00%
+No
+28.
+One97 Communications Rwanda Private Limited11 
+Subsidiary
+100.00%
+No
+29.
+One 97 Communications Bangladesh Private Limited11
+Subsidiary
+70.00%
+No
+30.
+One97 Uganda Limited11
+Subsidiary
+100.00%
+No
+31.
+One 97 Communications Malaysia Sdn. Bhd.11 
+Subsidiary
+100.00%
+No
+32.
+One 97 Benin SA11 
+Subsidiary
+100.00%
+No
+33.
+One 97 Ivory Coast SA11
+Subsidiary
+100.00%
+No
+V. Holding, Subsidiary and Associate Companies (including joint ventures)
+21.	(a) Names of holding / subsidiary / associate companies / joint ventures
+Annual Report 
+2023
+6
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+1	 WOS of Paytm Financial Services Limited
+2	 Including 4.90% held through Paytm Payments Bank Limited
+3	 WOS of Little Internet Private Limited
+4	 Including 15.87% held through Admirable Software Limited
+5	 WOS of Urja Money Private Limited
+6	 Including 0.63% held through Admirable Software Limited. The entities have issued preference shares as well to the Holding 
+Company
+7	 WOS of Mobiquest Mobile Technologies Private Limited
+8	 Joint Venture of Paytm Entertainment Limited
+9	 Including 10% held through One 97 Communications India Limited. As per Banking Regulation Act, 1949, voting rights in a 
+banking Company are capped at 26% in case the investor holds more than 26% in the bank
+10 Including 43.75% held through One 97 Communications India Limited
+11	 Subsidiary of One97 Communications Singapore Private Limited
+S.
+No
+Name of the holding/
+subsidiary/ associate companies/ joint ventures (A)
+Indicate whether 
+holding/ 
+Subsidiary/ 
+Associate/ Joint 
+Venture
+% of 
+shares 
+held by 
+listed 
+entity
+Does the entity 
+indicated at column 
+A, participate in the 
+Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)*
+34.
+Paytm Labs Inc.11
+Subsidiary
+100.00%
+No
+35.
+One Nine Seven Communication Nepal Private Limited11 
+Subsidiary
+100.00%
+No
+36.
+One Nine Seven Digital Solutions Limited11 
+Subsidiary
+100.00%
+No
+37.
+One Nine Seven Communications Saudi Arabia For 
+Communication and Information Technology11 
+Subsidiary
+100.00%
+No
+38.
+First Games Singapore Pte Ltd. (Formerly Paytm First 
+Games Singapore Pte. Ltd.) 
+Joint Venture
+55%
+No
+39.
+Paytm Technology Beijing Co. Ltd. (Name changed to 
+Bluefield Technology Beijing Co. Ltd. w.e.f. July 06, 2023)12
+Joint Venture
+55%
+No
+40.
+Socomo Technologies Private Limited 
+Associate
+12.75%
+No
+41.
+Infinity Transoft Solution Private Limited13
+Associate
+26.57%
+No
+42.
+Eatgood Technologies Private Limited13
+Associate
+23.24%
+No
+Note: Some of the subsidiary/associate companies have their own business responsibility initiatives 
+and participate in those of the Company’s only as and when required/agreed. 
+VI	CSR Details14 
+22.	(i) Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No) – Yes15 
+(ii)	Turnover (in Rs.)  Rs. 6,028 Crores
+(iii)	Net worth (in Rs.) Rs. 12,287 Crores
+12 WOS of First Games Technology Private Limited
+13 The entities have issued preference shares as well to the Holding Company
+14  Please refer to details on Corporate Social Responsibility as covered in the Board’s Report. 
+15 However, the average net profit of the Company made during three (3) immediately preceding financial years is negative and 
+hence, the Company is not statutorily required to spend any amount on CSR activities for the financial year 2022-23
+Annual Report 
+2023
+7
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+VII	 Transparency and Disclosures Compliances
+23.	Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines 
+on Responsible Business Conduct:
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance 
+Redressal 
+Mechanism in 
+(Yes/No) (If Yes, 
+then provide web-
+link for grievance 
+redress policy)
+FY 22-23
+ Current Financial Year
+FY 21-22
+ Previous Financial Year
+Number of 
+Complaints 
+Filed 
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+Complaints 
+Filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Investors 
+(other than 
+shareholders)
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+Shareholders
+Yes. It is publicly 
+available.
+https://ir.paytm.
+com/policies-and-
+guidelines
+17
+NIL
+NIL
+40
+2
+The 2 complaints 
+pending at the 
+end of the FY 
+2021-22 were 
+redressed within 
+due timelines 
+in compliance 
+with SEBI Listing 
+Regulations and in 
+accordance with 
+Investor Grievance 
+Policy of the 
+Company
+Employees & 
+workers
+Yes. It is publicly 
+available. 
+https://paytm.
+com/document/
+ir/policies-and-
+guidelines/
+Anti-Bribery-Anti-
+Corruption-Policy-
+Ver1.2.pdf
+https://paytm.
+com/document/
+ir/policies-and-
+guidelines/Whistle-
+Blower-Vigil-
+mechanism-policy.
+pdf
+27
+5
+Nil
+18
+0
+Nil
+Annual Report 
+2023
+8
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance 
+Redressal 
+Mechanism in 
+(Yes/No) (If Yes, 
+then provide web-
+link for grievance 
+redress policy)
+FY 22-23
+ Current Financial Year
+FY 21-22
+ Previous Financial Year
+Number of 
+Complaints 
+Filed 
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+Complaints 
+Filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Customers16
+Yes
+https://paytm.com/
+company/terms-
+and-conditions?co
+mpany=one97&tab
+=terms
+9,847
+0
+a)	 2,395-Merchant 
+Helpdesk
+b)	 7,452 - 
+Customer 
+Helpdesk
+1,739
+0
+Merchant 
+Helpdesk
+Value Chain 
+Partners*
+No*
+NA
+NA
+NA
+NA
+NA
+NA
+Others 
+(please 
+specify)
+NIL
+16 The data for FY 21-22 consists of only merchant complaints. However, the data for FY 22-23 consist of merchants and users' 
+complaints. Hence, there is a difference in the number of complaints. Further, the complaints mentioned herein are received 
+through following channels: RBI complaints, Banking Ombudsman (BO), Nodal, Grievance (GRO)
+*As of now the value chain partners register their complaints through the following email - vendorhelpdesk@paytm.com, 
+procuresupport@paytm.com
+Note: Purchase team is in a process to develop a ticketing module which is an online tool to track 
+the real time grievances.  The process is in the testing phase and the system will be ready in the 
+next 2-3 months.
+24.	Overview of the entity’s material responsible business conduct issues
+Please indicate material responsible business conduct and sustainability issues pertaining to 
+environmental and social matters that present a risk or an opportunity to your business, rationale 
+Annual Report 
+2023
+9
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+for identifying the same, approach to adapt or mitigate the risk along-with its financial implications, 
+as per the following format: 
+S. 
+No.
+Material issues 
+identified
+Indicate 
+whether   risk 
+or opportunity 
+(R/O)
+Rationale for identifying risk/ opportunity
+In case 
+of risk, 
+approach 
+to adapt or 
+mitigate
+Financial 
+implications 
+of the risk or 
+opportunities 
+(indicate positive 
+or negative 
+implications)
+1
+Business Ethics 
+& transparency
+Opportunity
+Embracing strong business ethics and 
+transparency can offer fintech companies a 
+notable edge in the prevailing competitive 
+landscape. With steadfast dedication to 
+ethical conduct, transparent practices, and 
+safeguarding consumers, the Company 
+continues to strengthen trust with 
+regulators, partners, and customers.
+Additionally, upholding ethical principles 
+creates a work environment that attracts 
+and retains top tier talent seeking to 
+contribute to an organisation esteemed for 
+its unwavering integrity and responsible 
+practice.
+Not 
+applicable
+Positive
+2
+Customer 
+satisfaction
+Opportunity
+The Company has established its reputation 
+and brand and enjoys stakeholders’ 
+confidence.
+We are committed to delivering high levels 
+of customer-experience and satisfaction 
+to our user base, and have put in place 
+requisite frameworks and measures to 
+gauge customer satisfaction across key 
+journeys, touch points and business lines.
+We have a dedicated grievance redressal 
+mechanism for our customers and we 
+plan to continue improving the mechanism 
+by providing customers with multiple 
+channels to raise their grievances, such as 
+a dedicated helpline, email support, and an 
+in-app chat feature.
+Keeping customers informed about the 
+progress of their complaints is essential in 
+building trust. We are working on setting 
+realistic timeframes for resolution of issues.
+Not 
+applicable
+Positive
+Annual Report 
+2023
+10
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+S. 
+No.
+Material issues 
+identified
+Indicate 
+whether   risk 
+or opportunity 
+(R/O)
+Rationale for identifying risk/ opportunity
+In case 
+of risk, 
+approach 
+to adapt or 
+mitigate
+Financial 
+implications 
+of the risk or 
+opportunities 
+(indicate positive 
+or negative 
+implications)
+3
+Data privacy
+Opportunity
+The Company embraces data protection 
+and privacy as the foundation of the 
+business operations. In this digital age, 
+we recognize the utmost importance 
+of safeguarding sensitive information, 
+especially with the widespread adoption 
+of remote working conditions, which has 
+further amplified the significance of these 
+measures.
+Not 
+applicable
+Positive
+4
+Financial 
+inclusion 
+& product 
+innovation
+Opportunity
+Addressing financial inclusion can be 
+an opportunity for fintech companies to 
+demonstrate their commitment to social 
+responsibility, build trust with customers, 
+and tap into underserved markets, thereby 
+expanding their customer base and 
+potential for growth.
+Developing solutions that address societal 
+challenges such as financial inclusion, 
+accessibility and sustainability can lead 
+to positive brand perception, increased 
+customer loyalty, and new market 
+opportunities. By proactively integrating 
+social responsibility into the innovation 
+processes, we can create a positive impact 
+on society while driving our own success in 
+the market.
+The Company is committed to enhancing 
+customer satisfaction via product 
+innovation, efficient processes, digital 
+solutions, easy access to products and 
+services and fair marketing practices.
+Not 
+applicable
+Positive
+5
+Employee 
+wellness 
+and talent 
+management
+Opportunity
+We recognize that building a positive 
+work culture and prioritizing employee 
+engagement are vital components 
+for achieving long-term success. 
+Our commitment to effective talent 
+management practices allows us to identify 
+high-potential individuals and nurture their 
+skills to prepare them for leadership roles 
+as our Company continues to expand and 
+flourish.
+Not 
+applicable
+Positive
+Annual Report 
+2023
+11
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+S. 
+No.
+Material issues 
+identified
+Indicate 
+whether   risk 
+or opportunity 
+(R/O)
+Rationale for identifying risk/ opportunity
+In case 
+of risk, 
+approach 
+to adapt or 
+mitigate
+Financial 
+implications 
+of the risk or 
+opportunities 
+(indicate positive 
+or negative 
+implications)
+6
+Community 
+Development
+Opportunity
+The Company, as a responsible corporate 
+business, embraces an unwavering 
+commitment to Corporate Social 
+Responsibility (CSR), aimed at enhancing 
+the quality of life for individuals within the 
+communities it serves. Our CSR Policy 
+stands as a testament to our dedication 
+in creating a positive impact on society’s 
+well-being. By actively engaging with 
+the communities in which we operate, 
+the Company strives to be a catalyst for 
+positive change, fostering sustainable 
+development and empowering those in 
+need. 
+(Currently, CSR activities are being carried 
+out through Paytm Foundation, a trust set 
+up by the Company.)
+Not 
+applicable
+Positive
+7
+Environment 
+sensitivity/
+sustainable 
+awareness
+Opportunity
+While our energy consumption is modest, 
+we are committed to minimizing it further, 
+cutting carbon footprints, and lowering 
+costs. By efficiently managing energy, we 
+are reducing emissions and expenses. Our 
+dedication to combat climate change has 
+driven us to adopt eco-friendly solutions 
+like VRV/VRF AC systems and LED bulbs, 
+reducing carbon output. As environmental 
+awareness grows, we are meeting 
+consumer demands for sustainability. We 
+have implemented a robust waste collection 
+plan aligned with the Central Pollution 
+Control Board’s (CPCB) Extended Producer 
+Responsibility. Additionally, Company has 
+significantly curbed paper usage across 
+its operations, contributing to our eco-
+conscious approach.
+Not 
+applicable
+Positive
+Annual Report 
+2023
+12
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+Principle
+Applicable Policies with Link
+Principle 1: Businesses should 
+conduct and govern themselves 
+with Ethics, Transparency and 
+Accountability
+Code of Conduct
+Code of Conduct for Board of Directors and the Senior 
+Management Team
+Whistle Blower Policy/Vigil Mechanism
+Anti-Bribery & Anti-corruption Policy
+Policy on Related-Party Transaction
+Anti-Money Laundering
+Code of Conduct to regulate, monitor and report trading 
+by designated persons and their immediate relatives
+Code of practices and procedures for fair disclosure of 
+unpublished price sensitive information
+Risk Assessment and Management Policy
+Policy on familiarization of Independent Director
+Policy on material events and information
+Principle 2:  Businesses should 
+provide goods and services that are 
+safe and contribute to sustainability 
+throughout their life cycle
+Sustainable Sourcing Policy
+Principle 3: Businesses should 
+promote the wellbeing of all 
+employees
+Policy on Prevention of Sexual Harassment
+Whistle Blower Policy/Vigil Mechanism
+Employee Grievance Redressal Policy
+Insurance Policies
+Disciplinary Action Policy
+Nomination and Remuneration Policy
+Principle 4: Businesses should 
+respect the interests of, and 
+be responsive towards all 
+stakeholders, especially those who 
+are disadvantaged, vulnerable and 
+marginalized
+Web Archival Policy
+Corporate Social Responsibility Policy
+Policy for preservation of documents
+Annual Report 
+2023
+13
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+Principle
+Applicable Policies with Link
+Principle 5: Businesses should 
+respect and promote human rights
+Policy on Prevention of Sexual Harassment
+Equal Employment Opportunity Policy for Persons with 
+Disabilities
+Code of Conduct (Internal)
+Nomination and Remuneration Policy
+Principle 6:  Business should respect, 
+protect, and make efforts to restore 
+the environment
+Sustainability Policy
+Principle 7: Businesses, when 
+engaging in influencing public and 
+regulatory policy, should do so in a 
+responsible manner
+Policy for Determining Material Subsidiaries
+Code of practices and procedures for fair disclosure of 
+unpublished price sensitive information
+Principle 8: Businesses should 
+support inclusive growth and 
+equitable development
+Corporate Social Responsibility Policy
+Learning and Development
+Principle 9: Businesses should 
+engage with and provide value to 
+their customers and consumers in a 
+responsible manner
+Acceptable Usage Policy
+Information Security Policy
+This section is aimed at helping businesses demonstrate the structures, policies and processes put 
+in place towards adopting the NGRBC Principles and Core Elements.
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1. a.	Whether your entity’s policy/
+policies cover each principle 
+and its core elements of the 
+NGRBCs(Yes/No)
+Yes Yes
+Yes
+Yes
+Yes
+Yes Yes
+Yes
+Yes
+b. Has the policy been approved by 
+the Board? (Yes/No)
+Yes Yes
+Yes
+Yes
+Yes
+Yes Yes
+Yes
+Yes
+c. Web Link of the Policies, if 
+available
+Yes No
+Yes
+Yes
+Yes
+No Yes
+Yes
+No
+2. Whether the entity has translated the 
+policy into procedures. (Yes / No)
+Yes No
+Yes
+Yes
+Yes
+No Yes
+Yes
+Yes
+3. Do the enlisted policies extend to 
+your value chain partners? (Yes/No)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+4. Name of the national and international 
+codes/certifications/labels/ standards 
+(e.g. Forest Stewardship Council, 
+Fairtrade, Rainforest Alliance, 
+Trustea) standards (e.g. SA 8000, 
+OHSAS, ISO, BIS) adopted by your 
+entity and mapped to each principle. 
+entity and mapped to each principle.
+NIL NIL
+NIL
+NIL
+NIL
+NIL NIL
+NIL
+Yes
+ISO 
+27001
+Annual Report 
+2023
+14
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+5. Specific commitments, goals and 
+targets set by the entity with defined 
+timelines
+No
+No Yes.
+1.      
+Conducting 
+safety training 
+for value chain 
+partners by FY 
+ending March 
+2024.
+2. Ensuring 
+human rights 
+training for 
+employees 
+by FY ending 
+March 2024
+3. Through 
+continuous 
+learning and 
+professional 
+growth 
+opportunities, 
+we aim to 
+empower our 
+workforce, 
+enhancing 
+their 
+capabilities, 
+and fostering 
+a thriving and 
+dynamic work 
+environment.
+No Yes
+1.      
+Conducting 
+safety 
+training for 
+value chain 
+partners by 
+FY ending 
+March 2024.
+2. Ensuring 
+human 
+rights 
+training for 
+employees 
+by FY 
+ending 
+March 2024
+No
+No Yes.
+To create 
+a positive 
+and lasting 
+impact in 
+the lives of 
+communities. 
+To achieve 
+this, we 
+will identify 
+key focus 
+areas and 
+actively work 
+towards 
+uplifting 
+these 
+communities 
+through our 
+initiatives 
+and efforts.
+No
+6. Performance of the entity against 
+the specific commitments, goals and 
+targets along-with reasons in case 
+the same are not met
+No commitment was made last year
+Governance, leadership, and oversight
+7. Statement by director responsible for the business responsibility & sustainability report highlighting ESG 
+related challenges, targets and achievements
+We are delighted to present the Company’s Business Responsibility and Sustainability Report for the year, which 
+details our achievements and commitment towards promoting environmental, social, and governance (ESG) 
+principles. We are India’s leading mobile payments and financial services distribution company, and the pioneer 
+of the mobile QR payments revolution in India. The Company’s mission is to serve half a billion Indians and bring 
+them to mainstream of economy with help of technology.
+As a prominent digital financial services platform, we are dedicated towards working with relevant stakeholders 
+to establish a robust ESG framework that aligns with our mission of creating sustainable value.   We have 
+consistently invested in technology and built a strong digital infrastructure, as outlined in the report. OCL builds 
+technologies that help small businesses with payments and commerce, and we take great pride in extending 
+financial services to underserved communities and promoting financial literacy in India. Through our various 
+collaborations, we have provided access to affordable and convenient digital financial services.
+Annual Report 
+2023
+15
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+We are equally committed to fostering a diverse and inclusive workplace that promotes equal opportunities and 
+have implemented concrete measures to enhance diversity across all levels of our organization.
+In conclusion, our commitment to ESG principles is fundamental to our long-term success and sustainability as 
+a business. We will continue to prioritize these issues to achieve our goals and advance our vision of a more 
+responsible and inclusive future. 
+8. Details of the highest authority 
+responsible for implementation 
+and oversight of the Business 
+Responsibility policy(ies)
+CSR Committee comprises of:
+>	
+Mr. Vijay Shekhar Sharma
+>	
+Mr. Ravi Chandra Adusumalli
+>	
+Mr. Gopalasamudram S Sundararajan
+9. Does the entity have a specified 
+Committee of the Board/ Director 
+responsible for decision-making on 
+sustainability related issues? (Yes / No). 
+If yes, provide details
+CSR committee shall be responsible for decision making and has 
+approved the formulation of an ESG Committee to implement/ monitor its 
+execution.
+10.	Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether review was 
+undertaken by Director / 
+Committee of the Board/ Any 
+other Committee
+Frequency: Annually (A) / Half 
+yearly (H) / Quarterly (Q) / Any 
+other – please specify
+P1 P2 P3 P4 P5 P6 P7 P8 P9 P1 P2 P3 P4 P5 P6 P7 P8 P9
+Performance against 
+above policies & follow 
+up action
+No
+NIL
+Compliance with statutory 
+requirements of relevance 
+to the principles, and 
+rectification of any non-
+compliances
+Yes
+Half yearly
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+11.
+Has the entity carried out independent 
+assessment/ evaluation of the working of 
+its policies by an external agency? (Yes/
+No). If yes, provide name of the agency.
+No independent assessment has been carried out
+Annual Report 
+2023
+16
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+Questions
+P1 P2 P3 P4 P5 P6 P7 P8
+P9
+The entity does not consider the Principles material to its 
+business (Yes/No)
+NA since question (1) above is Yes.
+The entity is not at a stage where it is in a position to formulate 
+and implement the policies on specified principles (Yes/No)
+The entity does not have the financial or/human and technical 
+resources available for the task (Yes/No)
+It is planned to be done in the next financial year (Yes/No)
+Any other reason (please specify)
+12.	If answer to question (1) above is “No” i.e., not all Principles are covered by a policy, reasons 
+to be stated:
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping entities demonstrate their performance in integrating the Principles 
+and Core Elements with key processes and decisions. The information sought is categorized as 
+“Essential” and “Leadership”. While the essential indicators are expected to be disclosed by every 
+entity that is mandated to file this report, the leadership indicators may be voluntarily disclosed by 
+entities which aspire to progress to a higher level in their quest to be socially, environmentally, and 
+ethically responsible.
+PRINCIPLE 1 Businesses should conduct and govern themselves with integrity, 
+and in a manner that is Ethical, Transparent and Accountable.
+Essential Indicators
+1.	 Percentage coverage by training and awareness programmes on any of the principles during 
+the financial year:
+Segment
+Total number 
+of training and 
+awareness 
+programmes 
+held
+Topics / principles covered under the 
+training and its impact
+%age of persons in 
+respective category 
+covered by the 
+awareness programmes
+Board of 
+Directors (BoD)
+1
+1.	 Cyber Security Awareness
+2.	 Overview of Data Privacy Bill
+100%
+Key Managerial 
+Personnel 
+(KMP)
+2*
+1.	 Cyber security training on LMS 
+(Learning Management System)
+2.	 POSH (Prevention of Sexual 
+Harassment) on LMS.
+The impact of these sessions was 
+focused on building safe work 
+environment and Company risk mitigation
+The sessions were 
+assigned to all 3 KMPs. 
+Completion rate as 
+below:
+1. Cybersecurity digital 
+module- 100%
+2. POSH- 100% 
+Annual Report 
+2023
+17
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+Segment
+Total number 
+of training and 
+awareness 
+programmes 
+held
+Topics / principles covered under the 
+training and its impact
+%age of persons in 
+respective category 
+covered by the 
+awareness programmes
+Employees 
+other than BoD 
+and KMPs
+41 Trainings 
+(Unique count)
+1.	 COC – (Company’s code of conduct)
+2.	 Anti Money Laundering (AML) for 
+designated employees (Compliance 
+team)
+3.	 Insider trading awareness
+4.	 POSH Trainings
+Career Aiding Skills for growth & 
+development like:
+1.	 Tech Upskilling - Cloud related 
+skilling AWS & Tech Talks for 
+knowledge sharing
+2.	 Product Upskilling - Product related 
+skilling & knowledge sharing for 
+Product Managers
+3.	 Behavioural Upskilling – Learning 
+Hour for everyday soft skills, 
+Customer Service, Team Leading, 
+Campus to Corporate Program, 
+Interviewing effectiveness etc.
+4.	 Tool related skilling on topics like 
+Excel, Python, SQL, etc.
+•	 COC -Company’s 
+Code of conduct 
+82.76%
+•	 Anti-money 
+Laundering (AML) 
+for designated 
+employees 
+(Compliance team) - 
+100% 
+•	 Insider trading 
+awareness for 
+targeted employees 
+-100% 
+•	 POSH Training - 70% 
+•	 Career Aiding 
+Skills for growth & 
+development - 49% 
+collectively
+Workers
+NIL
+*Trainings were conducted for all the 3 KMPs but Amit Khera left the organization in mid-March 2023. However, he had completed 
+the trainings assigned to him.
+2.	 Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in 
+proceedings (by the entity or by directors / KMPs) with regulators/ law enforcement agencies/ 
+judicial institutions, in the financial year, in the following format (Note: the entity shall make 
+disclosures on the basis of materiality as specified in Regulation 30 of SEBI (Listing Obligations 
+and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+Annual Report 
+2023
+18
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+NGRBC
+Principle
+Name of the 
+regulatory/ 
+enforcement 
+agencies/ judicial 
+institutions
+Amount 
+(In J)
+Brief of the 
+Case
+Has an appeal 
+been preferred? 
+(Yes/No)
+Monetary
+Penalty/ Fine
+P1-P9
+NA
+NIL
+NA
+NA
+Settlement
+P1-P9
+NA
+NIL
+NA
+NA
+Compounding fee
+P1-P9
+NA
+NIL
+NA
+NA
+NGRBC 
+Principle
+Name of the regulatory/ 
+enforcement agencies/ judicial 
+institutions
+Brief of 
+the Case
+Has an 
+appeal been 
+preferred? 
+(Yes/No)
+Non-Monetary
+Imprisonment
+P1-P9
+NIL
+No Case
+NA
+Punishment
+P1-P9
+NIL
+No Case
+NA
+Case Details
+Name of the regulatory/enforcement agency/
+judicial intuitions
+NIL
+NA
+3.	 Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in 
+cases where monetary or non-monetary action has been appealed.
+4.	 Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief 
+and if available, provide a web link to the policy.
+	
+Yes, we have an Anti-Bribery and Anti-Corruption Policy. The Company is committed to 
+maintaining highest level of professional and ethical standards in the conduct of its business. 
+The Company has a zero tolerance towards bribery and corruption in any form, whether directly 
+or indirectly through a third party. Further, the Company is committed to upholding all such laws 
+and regulations, as may be applicable, in every jurisdiction where it has its operations.
+	
+Web Link - https://paytm.com/document/ir/policies-and-guidelines/Anti-Bribery-Anti-
+Corruption-Policy-Ver1.2.pdf
+Annual Report 
+2023
+19
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+5.	 Number of Directors/KMPs/employees/workers against whom disciplinary action was taken 
+by any law enforcement agency for the charges of bribery/ corruption:
+6.	 Details of complaints with regard to conflict of interest:
+FY 22-23
+Current 
+Financial Year
+FY 21-22
+Previous 
+Financial Year
+Directors
+NIL
+NIL
+KMPs
+NIL
+NIL
+Employees
+NIL
+NIL
+Workers
+NIL
+NIL
+Particulars
+FY 22-23  
+Current Financial Year
+FY 21-22
+Previous Financial Year
+Number
+Remarks
+Number
+Remarks
+Number of complaints received 
+in relation to issues of Conflict of 
+Interest of the Directors
+NIL
+NIL
+NIL
+NIL
+Number of complaints received 
+in relation to issues of Conflict of 
+Interest of the KMPs
+NIL
+NIL
+NIL
+NIL
+7.	 Provide details of any corrective action taken or underway on issues related to fines / penalties 
+/ action taken by regulators/ law enforcement agencies/ judicial institutions on cases of corruption 
+and conflicts of interest.
+NIL
+Annual Report 
+2023
+20
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+2	 a.	 Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+Yes. As a responsible corporation, the Company strives to reduce the environmental impacts of its 
+operations. We aim at sourcing the most energy efficient and sustainable products (such as ensuring 
+that all our electrical appliances are 5-star rated for energy efficiency) and services available in the 
+market from known and reputed vendor.
+b.	 If yes, what percentage of inputs were sourced sustainably?
+Currently, it is not being tracked
+3	 Describe the processes in place to safely reclaim your products for reusing, recycling and 
+disposing at the end of life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste 
+and (d) other waste.
+Given the nature of its business, the Company has limited scope to use recycled material as 
+processed inputs. All waste that is generated on our premises is disposed-off to Government 
+authorized agencies who have sorting/processing units of their own. 
+FY 22-23
+Current Financial 
+Year
+FY 21-22
+Previous Financial 
+Year
+Details of Improvements in Environmental 
+and social impacts
+R&D (₹)
+90%
+68% Reduced 
+paper 
+usage, 
+transitioning 
+to 
+software solutions and enhancing data 
+management through adoption of Electronic 
+Data Capture (EDC) devices, softwares 
+capitalised, soundbox etc.
+CAPEX (₹)
+4%
+0% Promoting sustainable growth of digital 
+payments and enabling affordable access 
+to financial services through additions to 
+Project infinity – PG system developed in-
+house.
+Principle 2: Businesses should provide goods and services in a manner that is 
+sustainable and safe
+Essential Indicators
+1.	 Percentage of R&D and capital expenditure (capex) investments in specific technologies to 
+improve the environmental and social impacts of product and processes to total R&D and capex 
+investments made by the entity, respectively.
+Annual Report 
+2023
+21
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+The Company has a process to dispose-off E - waste assets. We also strictly follow our E-Waste 
+Policy for e-waste generated through our business activities. We dispose-off our e-waste through 
+CPCB listed e-waste vendors.
+https://business.paytm.com/ewaste-compliance-tnc
+4	 Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / 
+No). If yes, whether the waste collection plan is in line with the Extended Producer Responsibility 
+(EPR) plan submitted to Pollution Control Boards? If not, provide steps taken to address the same.
+Yes, EPR E-waste, Plastic Waste and Battery Waste Management Rules are applicable to the 
+Company, and the waste collection plan is in line with the EPR plan submitted to CPCB.
+Annual Report 
+2023
+22
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+PRINCIPLE 3 Businesses should respect and promote the well-being of all 
+employees, including those in their value chain.
+Essential Indicators
+1.	 a.	 Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total 
+(A)
+Health 
+Insurance
+Accident 
+Insurance
+Maternity 
+Benefits
+Paternity 
+Benefits
+Day Care 
+Facilities *
+Term Life 
+Insurance
+Number 
+(B)
+%
+(B/A)
+Number 
+(C)
+%
+(C/A)
+Number 
+(D)
+%
+(D/A)
+Number 
+(E)
+%
+(E/A)
+Number 
+(F)
+%
+(F/A)
+Number 
+(G)
+%
+(G/A)
+Permanent employees 17
+Male
+24,310
+24,310 100% 24,310 100%
+NA
+NA
+24,310
+100%
+NA
+NA
+24,310 100%
+Female
+1,649
+1,649
+100%
+1,649
+100%
+1,649
+100%
+NA
+NA
+1,649
+100%
+1,649
+100%
+Total
+25,959 25,959 100% 25,959 100%
+1,649
+6.35% 24,310 93.65%
+1,649
+6.35% 25,959 100%
+Other than Permanent employees
+Male
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Female
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Total
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Category
+% of workers covered by
+Total 
+(A)
+Health 
+Insurance
+Accident 
+Insurance
+Maternity 
+benefits
+Paternity 
+Benefits
+Day Care 
+facilities
+No. 
+(B)
+%
+(B/A)
+No.  
+(C)
+%
+(C/A)
+No.  
+(D)
+%
+(D/A)
+No.  
+(E)
+%
+(E/A)
+No. 
+(F)
+%  
+(F/A)
+Permanent workers
+Male
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Female
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Total
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Other than Permanent workers
+Male
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Female
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Total
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+b.	 Details of measures for the well-being of workers:
+17 The Child day-care facility extends an enhanced employee benefit to support our colleagues with small children so that each of us can work 
+towards our career aspirations without compromising on childcare. Further, enhanced childcare benefit policy reflects our commitment towards 
+enabling workforce diversity and hybrid work model.
+The Day care facility is applicable for mothers. This is in compliance with the Maternity Benefit Act,1961 as well as the relevant guidelines laid out by 
+the Government.
+For Single parents of either gender, either parent for same gender couples, Parents of either gender with a child clinically diagnosed with special 
+needs (Physical or Mental disability), these are special cases and require approval of the Head of the Department. However, no such claim has been 
+availed yet.
+The children clinically diagnosed with special needs (Physical or Mental disability) are entitled to be admitted into a day-care centre that provides 
+care for children with special needs.
+*The Company doesn't have Day-care facility on the premises. Due to a large workforce working from home mode, we have tie-ups with nationally 
+renowned third-party day-care facility centres in various cities which has been communicated to employees and full payment is provided directly to 
+the day-care center.
+Annual Report 
+2023
+23
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+2.	 Details of retirement benefits, for Current Financial Year and Previous Financial Year.
+Benefits
+FY 22-23
+Current Financial Year
+FY 21-22
+Previous Financial Year
+No. of 
+employees 
+covered as 
+% of total 
+employees
+No. of 
+workers 
+covered as 
+% of total 
+workers
+Deducted 
+and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+% of total 
+employees
+No. of 
+workers 
+covered as 
+% of total 
+workers
+Deducted 
+and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+PF
+99.89%*
+NIL
+Y
+99.76%
+NIL
+Y
+Gratuity
+100%
+NIL
+NA
+100%
+NIL
+NA
+ESI
+48.02%**
+NIL
+Y
+29.17%
+NIL
+Y
+Others - please 
+specify
+NIL
+For FY’23:
+* 28 out of 25,959 Employees have not opted for PF 
+** 12,466 employees are covered in ESIC (32 MG & 12,434 SG)
+For FY’22
+* 26 out of 10,775 Employees have not opted for PF
+** 3,143 employees are covered in ESIC (1 MG and 3142 SG)
+3.	 Accessibility of workplaces
+	
+Are the premises / offices of the entity accessible to differently abled employees and workers, 
+as per the requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any 
+steps are being taken by the entity in this regard.
+	
+Yes, we have wheelchairs and signages for inclusive restrooms in our major office, which are 
+accessible to persons with physical disabilities.  We also have ramps for easy access to the 
+Company’s premises.
+4.	 Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities 
+Act, 2016? If so, provide a web-link to the policy.
+	
+The Company has adopted an Equal Employment Opportunity Policy for Persons with Disabilities 
+in order to comply with the Rights of Persons with Disabilities Act, 2016 along with the Right of 
+Persons with Disabilities Rules, 2017 (“Act”)., to empower, protect and further the interests of 
+persons with Disabilities employed in the Company. The policy outlines the company’s approach 
+towards disabled employees.
+	
+a.	 This policy describes how we are creating an inclusive workplace and work culture in which 
+disabled employees are treated with respect and dignity. 
+Annual Report 
+2023
+24
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+Gender
+Permanent Employees*
+Permanent Workers
+Return to 
+work rate in %
+Retention rate 
+in %
+Return to 
+work rate in %
+Retention rate 
+in %
+Male
+100%
+81.21%
+NIL
+NIL
+Female
+100%
+68.63%
+NIL
+NIL
+Total
+100%
+78.24%
+NIL
+NIL
+	
+b.	 This policy is designed to create equal opportunity(ies) in all aspects of employment for 
+disabled persons and to maintain a non-discriminatory and inclusive work environment 
+which enables robust career advancement for people with disabilities, including those who 
+acquire Disability during their employment tenure.
+	
+c.	 This policy contains provisions to ensure that adequate facilities and amenities, as well as 
+physical and digital infrastructure to cater to the needs of the persons with disabilities and 
+to enable them to discharge their duties in the Company effectively.
+	
+The policy can be accessed at Equal Employment Opportunity Policy for Persons with Disabilities.
+	
+https://paytm.com/document/ir/policies-and-guidelines/Equal-opportunities-for-Employees.
+pdf
+5.	 Return to work and retention rates of permanent employees and workers that took parental 
+leave.
+* Above data does not include 37 employees who took parental leaves during FY 22-23 and they are due to return in the next fiscal 
+year as their parental leave will end post 31st March 2023.
+6.	 Is there a mechanism available to receive and redress grievances for the following categories 
+of employees and worker? If yes, give details of the mechanism in brief.
+Particulars
+Yes/No (If yes give the details of the 
+mechanisms in brief
+Permanent workers
+No
+Other than permanent workers
+No
+Permanent Employees
+Yes
+Other than permanent employees
+No
+The Company has a robust employee grievance redressal mechanism which is managed through 
+the Consequence Management Policy. It provides an easy and readily accessible redressal platform 
+to the employees for prompt redressal of their grievances. The Company does not tolerate any 
+direct or indirect retaliation against employees who raise grievances and will take necessary actions 
+in case anyone is found to have engaged in any such retaliation. The employees and workers who 
+face any kind of discontent or dissatisfaction owing to work or culture related issues, team related 
+issues, or any other issue can report the same to the reporting manager/Skip manager/HR Business 
+Annual Report 
+2023
+25
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+Partner/ HOD (head of the department) or CHRO (Chief Human Resources Officer) according to the 
+defined stages for redressal in the policy. We also provide specific helpdesk IDs for queries related 
+to PF (Provident Fund), payroll etc.
+In addition, the Anti Bribery and Whistle-Blower mechanism provides a formal platform to share 
+grievances on various matters. The Compliance Officer ensures the mandatory training of internal 
+stakeholders once a year to enhance their compliance with our policies. The details of the grievance 
+mechanism are shared with employees through a specific module. They can raise their concerns 
+pertaining to bribery or corruption using our vigil mechanism. We have appointed Navex Global to 
+facilitate reporting in a protected manner which will keep the identity of complainants confidential. 
+The Company has a POSH Policy and has an Internal Complaints Committee (ICC) in compliance 
+with the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 
+2013. Our policy on the same is placed on the Company’s website. The ICC comprises a majority of 
+women members. Members of the ICC are responsible for conducting inquiries pertaining to such 
+complaints. On a regular basis, we sensitise our employees on the prevention of sexual harassment 
+at the workplace through workshops, group meetings, online training modules and awareness 
+programmes.
+Link for POSH Policy- https://paytm.com/document/ir/policies-and-guidelines/Prevention-of-
+Sexual-Harassment-at-Workplace-Policy.pdf
+Link for Whistle-blower Policy- https://paytm.com/document/ir/policies-and-guidelines/Whistle-
+Blower-Vigil-mechanism-policy.pdf
+7.	 Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+Category
+FY 22-23
+Current Financial Year
+FY 21-22
+Previous Financial Year
+Total 
+employees/ 
+workers in 
+respective 
+category 
+(A)
+No. of 
+employees/ 
+workers in 
+respective 
+category, who 
+are part of 
+association(s) or 
+Union (B)
+% (B/A)
+Total 
+employees/ 
+workers in 
+respective 
+category 
+(C)
+No. of 
+employees/ 
+workers in 
+respective 
+category, who 
+are part of 
+association(s) 
+or Union (D)
+% (D/C)
+Total Permanent Employees
+Male
+24,310
+NIL
+NIL
+9,475
+NIL
+NIL
+Female
+1,649
+NIL
+NIL
+1,300
+NIL
+NIL
+Total Permanent Workers
+Male
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Female
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Annual Report 
+2023
+26
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+8.	 Details of training given to employees and workers:
+Category
+FY 22-23
+Current Financial Year
+FY 21-22
+Previous Financial Year
+Total 
+(A)
+On Health 
+& Safety 
+Measures
+On Skill 
+Upgradation
+Total 
+(D)
+On Health 
+& Safety 
+Measures
+On Skill 
+Upgradation
+No. (B)
+% 
+(B/A
+No. (C)
+% 
+(C/A)
+No. (E)
+% 
+(E/D)
+No. ( F)
+% 
+(F/D)
+Employees
+Male
+24,310
+804
+3.3%
+11,754
+48.4%
+9,475
+1023
+10.8%
+6019
+63.5%
+Female
+1,649
+296
+17.9%
+968
+58.7%
+1,300
+140
+10.7%
+821
+63.2%
+Total
+25,959
+1,100
+4.2%
+12,722
+49.0%
+10,775
+1163
+10.8%
+6840
+63.5%
+Workers
+Male
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Female
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Total
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+9.	 Details of performance and career development reviews of employees and worker:
+Category
+FY 22-23
+Current Financial Year
+FY 21-22
+Previous Financial Year
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C)
+Employees
+Male
+24,310
+22,308
+91.8%
+9,475
+7,040
+74.3%
+Female
+1,649
+1,316
+79.8%
+1,300
+813
+62.5%
+Total
+25,959
+23,624
+91.0%
+10,775
+7,853
+72.8%
+Workers
+Male
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Female
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Total
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Note: The employees who have joined on or before 30th Sept 2022 are the eligible employees for 
+the annual performance review for FY’22-23
+Front line sales are provided real time performance review on a monthly basis and are part of the 
+career progression plan which enables them for a real time review and progression during the year.
+Annual Report 
+2023
+27
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+10.	Health and safety management system:
+a.	 Whether an occupational health 
+and safety management system 
+has been implemented by the 
+entity? (Yes/No). If yes, the 
+coverage such system?
+Yes.
+There are minimal occupational health and safety risks 
+considering our nature of the business. 
+While the Company is currently developing an exclusive OHS 
+(Occupational Health and Safety) Policy and framework, 
+employee well-being and safety continue to be a priority for 
+the Company. The following Health and Safety management 
+system have been implemented-:
+a)	The Company has ensured physical and electronic security 
+including man-guarding, installation of Access Control 
+Systems, CCTV monitoring, and fire-fighting systems at 
+all our offices.
+b)	The 
+admin 
+team 
+conducts 
+emergency/disaster 
+management drills, including fire-fighting drills at regular 
+intervals in all offices. The buildings are in line with the 
+National Building Code.
+c)	Offices are ergonomically designed with ergonomic 
+modular furniture for the comfort of employees.
+d)	Central heating, ventilation, and cooling system with air 
+filters are installed in the offices and there is a provision 
+of fresh air in all our offices through the installation of air 
+purifiers. Air purifying plants have been placed in all our 
+offices that help in cleaning the indoor air.
+e)	Centralized helpline number for employees to reach out 
+to the administration department for any work-related 
+hazards.
+f)	 The Company has tied up with nearby hospitals for 
+emergency medical support.
+g)	Safe drinking water, hygienic and clean offices, and food 
+safety are provided across all our offices.
+Annual Report 
+2023
+28
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+h)	The Company’s admin team ensures periodic checks, 
+maintenance, and certification of all electromechanical 
+equipment including Lifts, HVAC (heat, ventilation and air 
+conditioning), fire systems, DG (Diesel Generator) sets, 
+UPS (Uninterruptible Power Supply).
+i)	 For emergency support, oxygen concentrators, masks, and 
+PPE (Personal Protective Equipment) kits were provisioned 
+at all offices during Covid-19.
+b.	 What are the processes used to 
+identify work-related hazards 
+and assess risks on a routine 
+and non-routine basis by the 
+entity?
+To minimize the risks, the following checks are undertaken by 
+the Company:
+•	 Security Checks (Physical security including man-
+guarding, Access Control System, CCTV monitoring, Fire-
+fighting systems)
+•	 Disaster Management Plan is in place and the Company 
+conducts fire drill exercise annually.
+•	 Water testing to measure Total Dissolved Solid (TDS) 
+•	 Heating Ventilation Air Conditioning (HVAC) checks at 
+regular intervals.
+•	 Building safety, periodic maintenance of electromechanical 
+devices like lifts, UPS, Diesel Generators
+•	 Maintain office hygiene and cleanliness.
+•	 Necessary precautions, such as installation of thermal 
+scanners, office sanitization, and social distancing, were 
+undertaken as per govt. guidelines to prevent the risks 
+associated with the COVID-19 pandemic. 
+•	 Hybrid Office System/Work from Home Policy was 
+introduced.
+•	 Security guards deployed at the bank premises are trained 
+on fire safety equipment. 
+•	 Regular advisories are issued on various safety-related 
+aspects, such as weather warnings, fire safety and 
+security, etc.
+Annual Report 
+2023
+29
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+c.	 Whether you have processes 
+for workers to report the work-
+related hazards and to remove 
+themselves from such risks. 
+(Y/N)
+Yes, the centralized Helpline number and email is provided 
+to all the employees to report any kind of risks. Our Quick 
+Response Teams are deployed at all major offices for 
+immediate support. The HR and Admin teams regularly 
+organise sessions on health and safety awareness which 
+are conducted by experts on different subject matters for all 
+employees. Regular communication/mailers related to health 
+and safety are also sent to all employees.
+Mental health wellness sessions were organized for the 
+employees in collaboration with doctors from prominent 
+hospitals. We have tied up with various hospitals for employee 
+discounts on medical tests and treatment. 
+During COVID-19 pandemic, various initiatives were taken by 
+the Company, such as office sanitisation, hand sanitisation, 
+social distancing, and mandatory face masks as per Govt. 
+guidelines. Vaccination drives were organised at all offices 
+for our employees and their families. The team arranged 
+and distributed masks, sanitizers, oxygen cylinders, and 
+concentrators to safeguard employees’ health during the 
+pandemic.
+Mental health wellness sessions were organised for the 
+employees in collaboration with doctors from prominent 
+hospitals.
+A total of 182 “Breast cancer sessions” and 168 sessions on 
+“All about Headaches” were conducted.
+d.	 Do the employees/ worker 
+of the entity have access to 
+non-occupational medical and 
+healthcare services? (Yes/ No)
+Yes. Employees and workers have medical and term insurance 
+which covers the healthcare benefits for all the employees
+11.	 Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category
+FY 22-23
+Current 
+Financial Year
+FY 21-22
+Previous 
+Financial Year
+Lost Time Injury Frequency Rate (LTIFR) 
+(per one million-person hours worked)
+Employees
+NIL
+NIL
+Workers
+NIL
+NIL
+Total recordable work-related injuries
+Employees
+NIL
+NIL
+Workers
+NIL
+NIL
+Annual Report 
+2023
+30
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+Safety Incident/Number
+Category
+FY 22-23
+Current 
+Financial Year
+FY 21-22
+Previous 
+Financial Year
+No. of fatalities
+Employees
+11
+37
+Workers
+NIL
+NIL
+High consequence work-related injury or 
+ill-health (excluding fatalities)
+Employees
+NIL
+NIL
+Workers
+NIL
+NIL
+12.	Describe the measures taken by the entity to ensure a safe and healthy workplace.
+The following measures have been taken by the Company to ensure a safe and healthy workplace:
+•	 Physical and electronic security measures, such as man guarding, Access Control System, CCTV 
+monitoring and Fire-fighting systems.
+•	 Fire and burglar alarms with fire and smoke sensors are installed for early fire detection.
+•	 Fire extinguishers are available in all offices for immediate fire-fighting, and regular maintenance 
+of the equipment is ensured.
+•	 Comprehensive training and awareness about best practices and firefighting are provided to 
+guards and employees. The Company conducts regular mock drills, fire drills, and physical 
+verification of fire safety equipment, along with evacuation plans.
+•	 Auto fire suppressants are installed in data/server rooms in selected offices.
+•	 Earthling pits and lightning conductors are installed in buildings to discharge lightning safely.
+•	 Important contact numbers for the nearest fire brigade, police station, ambulance, etc., are 
+displayed at buildings/offices.
+•	 Public address systems are installed at office premises to facilitate communication during 
+emergencies.
+•	 Emergency Evacuation plans, floor plans, and exit paths are displayed on each floor.
+•	 CCTV cameras are used for detecting and recording all activities, including sabotage, if any.
+•	 First-Aid Boxes are available in all offices, and regular first-aid training is provided to all employees 
+and security guards.
+•	 Employees’ dependents are enrolled under Mediclaim to provide medical coverage. 
+•	 Free-of-cost shuttles are provided for employees to commute from the nearest metro station to 
+the office, promoting convenience and reducing transportation risks.
+•	 The Company ensures cleanliness and hygiene in the dining area to maintain a healthy 
+environment.
+Annual Report 
+2023
+31
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+13.	Number of Complaints on the following made by employees and workers:
+FY 22-23
+Current Financial Year
+FY 21-22
+Previous Financial Year
+Filed 
+during the 
+year
+Pending 
+resolution at 
+the end of 
+year
+Remarks
+Filed 
+during the 
+year
+Pending 
+resolution at 
+the end of 
+year
+Remarks
+Working 
+Conditions
+NIL
+NA
+NIL
+NIL
+NA
+NIL
+Health & Safety
+NIL
+NA
+NIL
+NIL
+NA
+NIL
+14.	Assessments for the year:
+% of your plants and offices that were assessed 
+(by entity or statutory authorities or third parties)
+Health and safety practices
+NIL
+Working Conditions
+NIL
+Note: The Company offers world-class workplaces for its employees. These workplaces have well-
+appointed, safe and hygienic workspaces and ambient conditions. There were queries on COVID-
+related medical support which were handled and resolved by the COVID helpdesk.
+SkymarkOne Noida building (which is the Company’s corporate office location) is an Indian Green 
+Building Council Platinum certified building with indoor environmental quality more efficient than 
+conventional designs like energy-efficient windows, LED lighting, energy-efficient appliances, 
+geothermal heat pumps, energy-efficient insulation etc. Internal team assesses the health, safety, 
+and environmental performance across applicable offices. Major offices are given training on fire 
+safety and evacuation drills. Fire drills and audits are conducted in the office premises to ensure the 
+maintenance of safety standards. 
+During the year, there were no accidents of any employee of the Company whilst on duty. To 
+prevent the spread of COVID-19, during the year, the Company took necessary precautions at all 
+its offices, which included sanitation facilities, social distancing, installation of thermal scanners 
+and installation of air purifiers which do not use chemicals or produce ozone. Detailed standard 
+operating procedures and guidelines/advisories were issued periodically to the employees of the 
+Company. The Company adheres to directives issued by the government/local authorities pertaining 
+to COVID-19. 
+Annual Report 
+2023
+32
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+15.	Provide details of any corrective action taken or underway to address safety-related incidents 
+(if any) and on significant risks / concerns arising from assessments of health & safety 
+practices and working conditions.
+	
+During the year, there were no accidents reported whilst on duty.
+Leadership Indicator
+1.	 Does the entity extend any life insurance or any compensatory package in the event of death 
+of (A) Employees (Y/N) (B) Workers (Y/N).
+	
+Yes, we have GTL (Group term Life insurance coverage) for all the permanent employees and. 
+Assistance for PF and Gratuity settlement is also extended to the family on the priority basis.
+3.	 Provide the number of employees / workers having suffered high consequence work- related 
+injury / ill-health / fatalities (as reported in Q11 of Essential Indicators above), who have been 
+rehabilitated and placed in suitable employment or whose family members have been placed 
+in suitable employment:
+Total no. of affected employees/ 
+workers
+No. of employees/workers that are 
+rehabilitated and placed in suitable 
+employment or whose family members 
+have been placed in suitable employment
+FY 22-23
+Current 
+Financial Year
+FY 21-22
+Previous 
+Financial Year
+FY 22-23
+Current Financial 
+Year
+FY 21-22
+Previous Financial 
+Year
+Employees
+11
+37
+NIL
+1
+Workers
+NIL
+NIL
+NIL
+NIL
+4.	 Does the entity provide transition assistance programs to facilitate continued employability and 
+the management of career endings resulting from retirement or termination of employment? 
+(Yes/ No)
+Yes. The Company provides gratuity to employees who fulfil the criteria at the time of retirement. 
+The retiring employees also have detailed understanding of our business, processes and systems. 
+Hence, in order to leverage such experienced people, we appoint them as an external consultant as 
+per Company’s requirements on a case-to-case basis.
+Annual Report 
+2023
+33
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+Principle 4: Businesses should respect the interests of and be 
+responsive to all its stakeholders
+Essential Indicators
+1.	 Describe the processes for identifying key stakeholder groups of the entity.
+	
+The stakeholders have been identified on the basis of:
+•	 those who are directly or indirectly related to our activities, products or services like employees 
+or merchants;
+•	 those for whom the Company has legal, commercial, operational, or ethical/moral responsibilities 
+like regulatory bodies; and
+•	 those who can influence or have impact on our decision-making like board/investors.
+Stakeholders are the individuals or organizations that are internal or external to the Company and 
+who have an interest in its operations. The favourable or adverse view of these stakeholders may 
+have an impact on the reputation of the organization, which is why it is crucial to identify them. 
+We believe healthy stakeholder relationships are key to long-term value creation. Anyone adding 
+value to the business of the Company or anyone impacted by its operations are identified as a core 
+stakeholder.
+2.	 List stakeholder groups identified as key for your entity and the frequency of engagement 
+with each stakeholder group.
+Stakeholder 
+Group
+Whether 
+identified 
+Vulnerable & 
+Marginalized 
+Group 
+(Yes/No)
+Channels of 
+communication 
+(Email, SMS, 
+Newspaper, 
+Pamphlets, 
+Advertisement, 
+Community 
+Meetings, Notice 
+Board, Website), 
+Others
+Frequency 
+of 
+engagement 
+(Annually/   
+Half/ yearly/ 
+Quarterly/ 
+others 
+- please 
+specify)
+Purpose and scope of engagement 
+including key topics and concerns 
+raised during engagement
+Employees
+No
+Emails
+Weekly
+•	 Learning and development
+•	 Organizational updates
+Newsletter
+Quarterly
+•	 Employee recognition and 
+engagement activities
+•	 Employee performance review 
+and career development
+Customers
+No
+Social Media
+Weekly
+To stay in touch with the customer 
+throughout and address any issues 
+that the customer may have
+Annual Report 
+2023
+34
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+Stakeholder 
+Group
+Whether 
+identified 
+Vulnerable & 
+Marginalized 
+Group 
+(Yes/No)
+Channels of 
+communication 
+(Email, SMS, 
+Newspaper, 
+Pamphlets, 
+Advertisement, 
+Community 
+Meetings, Notice 
+Board, Website), 
+Others
+Frequency 
+of 
+engagement 
+(Annually/   
+Half/ yearly/ 
+Quarterly/ 
+others 
+- please 
+specify)
+Purpose and scope of engagement 
+including key topics and concerns 
+raised during engagement
+Merchants
+No
+Business App
+Everyday
+•	 Resolving queries
+•	 Support on the soundbox
+•	 Support on information related 
+to business with Company’s
+Vendors/
+suppliers
+No
+Emails
+Everyday
+•	 Resolving queries and assessing 
+performance.
+•	 Contract negotiation and 
+exploring new scope of work
+Partners
+No
+Emails
+Fortnightly
+Resolving queries and operational 
+challenges
+Shareholders/
+investors
+No
+Face-to-face 
+meetings
+Monthly
+•	 These are aimed at providing 
+relevant information as well as 
+understanding stakeholders’ 
+perspectives on Company’s 
+performance and strategy.
+•	 To update them with the recent 
+market development
+Government 
+bodies
+No
+Face to face 
+meetings
+Weekly
+Discussions with relevant 
+Ministries, Departments within 
+Ministries, Sectoral Regulators, 
+various Committees constituted 
+by the Government on existing 
+and proposed regulations / 
+orders / directives and advisories 
+undertaken on need basis.
+Annual Report 
+2023
+35
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+Stakeholder 
+Group
+Whether 
+identified 
+Vulnerable & 
+Marginalized 
+Group 
+(Yes/No)
+Channels of 
+communication 
+(Email, SMS, 
+Newspaper, 
+Pamphlets, 
+Advertisement, 
+Community 
+Meetings, Notice 
+Board, Website), 
+Others
+Frequency 
+of 
+engagement 
+(Annually/   
+Half/ yearly/ 
+Quarterly/ 
+others 
+- please 
+specify)
+Purpose and scope of engagement 
+including key topics and concerns 
+raised during engagement
+Media
+No
+Emails
+Monthly
+Sustained brand narrative 
+communication through press 
+releases, social posts and SE 
+filings. The announcements 
+include partnerships, product 
+launches, business updates and 
+more. This also includes engaging 
+with the media in industry 
+stories, or resolving queries with 
+spokesperson statements.
+Board 
+members
+No
+Board Meetings
+Quarterly
+Company conducts a proactive and 
+focused engagements which helps 
+identify significant material issues 
+for the Company, evaluate business 
+strategy and operations, products, 
+services and solutions, to minimize 
+reputational risk and positively 
+influence our internal and external 
+environment
+Leadership Indicators
+1.	 Provide the processes for consultation between stakeholders and the Board on economic, 
+environmental, and social topics or if consultation is delegated, how is feedback from such 
+consultations provided to the Board.
+We have established a CSR committee which has an overall responsibility for the effective operation, 
+setting guidance, direction and overseeing policies and progress on the Company’s ESG related 
+activities and shall offer advice to the Board and management on these matters. The responsibilities 
+of the CSR committee include the following:
+•	 To formulate and recommend to the Board, a Corporate Social Responsibility Policy which shall 
+indicate the activities to be undertaken by the Company as specified in Schedule VII of the 
+Companies Act, 2013, as amended;
+Annual Report 
+2023
+36
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+•	 To review and recommend the amount of expenditure to be incurred on the CSR activities;
+•	 To monitor the corporate social responsibility policy of the Company and its implementation 
+from time to time;
+•	 To monitor the Company’s ESG framework, strategy, goals and disclosures;
+•	 To constitute an ESG sub-committee (management level committee) which will provide an 
+oversight on key policies and programs required to implement ESG strategy as well as monitor 
+its execution; and
+•	 Any other matter as the Corporate Social Responsibility Committee may deem appropriate after 
+approval of the Board or as may be directed by the Board from time to time and/or as may be 
+required under applicable law, as and when amended from time to time.
+2.	 Whether stakeholder consultation is used to support the identification and management 
+of environmental, and social topics (Yes / No). If so, provide details of instances as to how 
+the inputs received from stakeholders on these topics were incorporated into policies and 
+activities of the entity.
+Yes, we consider stakeholder consultation a significant step towards identifying and managing ESG 
+topics and have therefore conducted a materiality assessment exercise to this effect. The analysis 
+included a finalisation of ESG issues material to our business viz. consultations with internal and 
+external stakeholders inclusive of shareholders/investors, employees, customers, partners, vendors/
+suppliers and merchants on the degree of relevance of our material topics. 
+The material topics identified include business ethics & transparency, customer satisfaction, data 
+privacy, financial inclusion & product innovation, employee wellness and talent management, 
+community development and environment sensitivity/sustainable awareness.
+Through this identification and prioritisation process, we aim to continue our sustainability journey. 
+Annual Report 
+2023
+37
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+Principle 5: Businesses should respect and promote human rights
+Essential Indicators
+1.	 Employees and workers who have been provided training on human rights issues and policy 
+(ies) of the entity:
+The Company promotes a culture of fairness and inclusion. Policies and processes like POSH, 
+Whistleblower, Grievance Redressal, Equal Employment Opportunity, Code of Conduct etc. are 
+in place to protect human rights of employees. The Company policies are well defined and the 
+employees are regularly educated and trained as these policies are disseminated through the 
+electronic medium.
+Every employee has been given a briefing during their onboarding for these policies. Every employee 
+undergoes a couple of mandatory training on LMS within 30 days of joining to get a deeper 
+understanding. The respective team tracks these trainings and ensures that they are completed 
+within a stipulated time.
+Category
+FY 22-23
+Current Financial Year
+FY 21-22
+Previous Financial Year
+Total (A)
+No. of 
+employees/ 
+workers
+covered (B)
+% (B/A) Total (C)
+No. of 
+employees/ 
+workers
+covered (D)
+% (D/C)
+Employees
+Permanent
+25,959
+21,484
+82.76%
+10,755
+7,070
+65.6%
+Other than 
+Permanent
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Total Employees
+25,959
+21,484
+82.76%
+10,755
+7,070
+65.6%
+Workers
+Permanent
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Other than 
+Permanent
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Total Workers
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Note: Employees undergo COC trainings which broadly covers various aspects of human rights. 
+The frontline salesforce team also undergoes such trainings as a refresher training by the regional 
+SPOCs.
+Annual Report 
+2023
+38
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+Category
+FY 22-23
+Current Financial Year
+FY 21-22
+Previous Financial Year
+Total 
+(A)
+Equal 
+Minimum 
+Wage to
+More than
+Minimum Wage
+Total 
+(D)
+Equal
+Minimum Wage 
+To
+Morethan
+Minimum Wage
+No. (B)
+% 
+(B/A
+No. (C)
+% 
+(C/A)
+No. (E)
+% 
+(E/D)
+No. ( F)
+% 
+(F/D)
+Employees
+Permanent
+Male
+24,310
+NIL
+NIL
+24,310
+100%
+9,475
+NIL
+NIL
+9,475
+100%
+Female
+1,649
+NIL
+NIL
+1,649
+100%
+1,300
+NIL
+NIL
+1,300
+100%
+Other than Permanent
+Male
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Female
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Workers
+Permanent
+Male
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Female
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Other than Permanent
+Male
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Female
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+2.	 Details of minimum wages paid to employees and workers, in the following format:
+3.	 Details of remuneration/salary/wages, in the following format
+Gender
+Male
+Female
+Number
+Median 
+remuneration/ 
+salary/ wages of 
+respective category
+Number
+Median 
+remuneration/ 
+salary/ wages of
+respective category
+Board of Directors (BoD)
+4 18
+14.3
+1
+20.5
+Key Managerial Personnel
+2
+31.8
+NA
+NIL
+Employees other than BoD 
+and KMP*
+24,308
+0.33
+1,649
+0.92
+Workers
+NIL
+NA
+NIL
+NA
+*in H lacs per month
+18 This doesn’t include the Executive Directors who are covered in the KMPs (in below row), Mr. Mark Schwartz whose term as an 
+Independent Director expired during the fiscal year and includes Mr. Ravi Chandra Adusumalli who doesn’t draw any remuneration.
+Annual Report 
+2023
+39
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+4	 Do you have a focal point (Individual/ Committee) responsible for addressing human rights 
+impacts or issues caused or contributed to by the business? (Yes/No)
+	
+Yes. The internal team of the Company who owns Anti- Bribery and Anti-Corruption (ABAC) Policy 
+manage and oversee all the concerns/complaints raised via the whistle blower mechanism. The 
+status of the said complaints is presented in the quarterly Audit Committee/Board meetings, in 
+compliance with ABAC and Vigil Mechanism/Whistle Blower Mechanism Policy of the Company. 
+	
+The Company has zero tolerance for sexual harassment at workplace and is compliant with 
+provisions relating to the Sexual Harassment of Women at Workplace (Prevention, Prohibition 
+and Redressal) Act, 2013. We have an ICC responsible to investigate and provide redressal for 
+any kind of sexual harassment. A helpline number and a designated email ID for ICC is shared to 
+employees to raise complaints or get counselling.
+	
+The Company also promotes a non-discriminatory work environment and abides by the equal 
+opportunity for all policy. It also has a Consequence Management Policy where any kind of 
+reported or suspected misconduct is corrected or investigated upon by following a disciplinary 
+procedure setup by the disciplinary action committee. The committee is responsible for 
+maintaining the repository of the investigations as well.
+5	 Describe the internal mechanisms in place to redress grievances related to human rights 
+issues.
+	
+The organization has a Consequence Management Policy that makes the employees aware 
+of the various corrective actions the Company might take against erring employees and the 
+process that will follow if any misconduct is noticed/suspected/reported. The policy is available 
+on the intranet, Deep Purple.
+	
+Our leadership fosters a culture of accessibility, providing employees with direct access to them 
+through the HRMS platform for any grievances or concerns.
+	
+As per the whistle-blower mechanism, the Company expects all the stakeholders to comply with 
+the mechanism and shall raise the concerns, if any, for the instances like bribery, suspicion of 
+corruption, behavioural issues, discrimination etc via this vigil mechanism. The identity of the 
+complainants shall remain confidential during the investigation and may be disclosed only on 
+‘need to know’ basis. The Company has enabled web portal “Navex Global” to take anonymous 
+complaints and facilitate reporting of the protected disclosures routed through the web links, 
+toll-free number and application access mentioned in detail on the Intranet, Deep Purple. The 
+details of the same are also available in the ABAC Policy as available on the Company’s website.
+	
+For every protected disclosure raised on the Navex portal, a unique case number allocated that 
+can be further leveraged to provide necessary information and track the status of complaint 
+raised by the complainant. The Company timely investigates all the complaints reported 
+under the whistle blowing mechanism. The investigating team shall ensure compliance with 
+all the regulatory requirements during the course of investigation. After the completion of the 
+Annual Report 
+2023
+40
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+investigation, a report is submitted with recommended measures to the concerned stakeholders 
+(including the Disciplinary Action Committee) and appropriate disciplinary actions are initiated 
+based on the findings and recommendations of such a report. The stakeholders are guided by 
+the existing Consequence Management Policy. The policy reinforces the complainants, who 
+raise complaints on a concrete and reasonable belief about a violation, that they will not be 
+subjected to any kind of retaliation such as discrimination, reprisal, harassment, victimization 
+etc. irrespective of the concern being ultimately substantiated.
+6.	 Number of Complaints on the following made by employees and workers:
+Category
+FY 22-23
+Current Financial Year
+FY 21-22
+Previous Financial Year
+Filed 
+during 
+the year
+Pending 
+resolution 
+at the end 
+of the year
+Remarks
+Filed 
+during 
+the 
+year
+Pending 
+resolution 
+at the end 
+of the year
+Remarks
+Sexual 
+Harassment
+5
+1
+Out of the 4 disposed cases, 
+1 case was withdrawn by the 
+complainant. The 1 pending 
+complaint has been closed after 
+March 31, 2023 
+3
+1
+One case 
+withdrawn by 
+the complainant
+Discrimination   
+at workplace
+14
+1
+HR team was unable to 
+investigate as the Complainant 
+chose to remain anonymous and 
+did not specify any names of the 
+accused individual(s)
+9
+0
+NIL
+Child Labour
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Forced labour/
+involuntary 
+labour
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Wages
+5
+0
+NIL
+NIL
+NIL
+NIL
+Other human 
+rights related 
+issues (breach 
+of Code of 
+Conduct, 
+Suspected 
+Fraud, Bribery/
+Kickbacks)
+8
+4
+Complaints could not be 
+investigated due to incomplete 
+details. Reminders were sent to 
+the Complainants via Navex Tool 
+to share their contact details 
+as well as details relating to the 
+accused so that investigating 
+team would be in a position to 
+investigate the matters.
+No response has been received 
+from the Complainant yet.
+9
+9
+NIL
+Annual Report 
+2023
+41
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+7	 Mechanisms to prevent ad-verse consequences to the complainant in discrimination and 
+harassment cases.
+	
+As mentioned in our Code of Conduct, the Company and all its affiliate Companies shall provide 
+equal opportunities to all its employees / Personnel and all qualified applicants for employment 
+without regard to their race, caste, religion, colour, ancestry, marital status, work experience, 
+gender, sexual orientation, age, nationality, ethnic origin or disability.  We have adopted policies 
+which reinforce to the stakeholders, who raise complaints on a concrete and reasonable belief 
+about a violation, that they will not be subjected to any kind of retaliation such as discrimination, 
+reprisal, harassment, victimization etc. irrespective of the concern being ultimately substantiated.
+	
+The Company has zero tolerance for any kind of harassment and discrimination. Our Human 
+Resource policies and Code of Conduct promote diversity and equality in the workplace, as well 
+as compliance with all local labour laws, while encouraging the adoption of international best 
+practices.
+	
+Employee policies and practices are administered in a manner consistent with applicable laws 
+and other provisions of this Code, respect for the right to privacy and the right to be heard, and 
+that in all matters equal opportunity is provided to those eligible and decisions are based on 
+merit.
+	
+In addition, The POSH Policy has been formed under the provisions of The Sexual Harassment 
+of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013, to prohibit, prevent or 
+deter the commission of acts of sexual harassment at workplace and to provide the procedure 
+for the redressal of complaints pertaining to sexual harassment. In case any allegations of sexual 
+harassment are substantiated by the ICC, appropriate disciplinary action shall be taken against 
+the accused. Disciplinary action may include transfer, withholding promotion, suspension or 
+even dismissal. This action shall be in addition to any legal recourse sought by the complainant.
+	
+The Company also has a whistle blower mechanism that empowers its employees to raise the 
+concerns, if any, for the instances like bribery, suspicion of corruption, behavioural issues, 
+discrimination etc via this vigil mechanism.  Complaints reported to any internal stakeholder 
+(reporting manager/ HR team/ Compliance Officer) of any potential violation shall be channelled 
+to the whistle blowing mechanism, immediately. The identity of the complainants shall remain 
+confidential during the investigation. The Company has enabled the web portal “Navex Global” 
+to take anonymous complaints and facilitate reporting of the protected disclosures routed 
+through the web links, toll-free number and application access mentioned in detail on the 
+Intranet, Deep Purple. The Company will timely investigate all the complaints reported under 
+the whistle blowing mechanism after the due approval from a member of the Disciplinary Action 
+Committee. The investigating team shall ensure compliance with all the regulatory requirements 
+during the course of investigation. After the completion of the investigation, a report shall be 
+submitted with recommended measures to the Disciplinary Action Committee. The Disciplinary 
+Action Committee shall initiate disciplinary actions as appropriate based on the findings and 
+recommendations of such a report. The committee would be guided by the existing Consequence 
+Annual Report 
+2023
+42
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+management Policy. The details of the same are also available in the ABAC Policy as available on 
+the Company’s website.
+	
+The organization on a regular basis sensitises its employees on the prevention of sexual 
+harassment at the workplace through workshops, group meetings, online training modules and 
+awareness programmes which are held on a regular basis.
+8	 Do human rights requirements form part of your business agreements and contracts?
+	
+(Yes/No)
+	
+Yes, our Code of Conduct is applicable to all our employees, employees of service providers 
+or vendors, employees of business partners, consultants, retainers, trainees or any individual 
+engaged providing services to the Company who have to comply with all applicable laws, 
+including labour laws which forms a part of our vendor/service provider contracts and business 
+requirements.
+9	 Assessment for the Year
+% of your plants and offices that were assessed (by 
+entity or statutory authorities or third parties)
+Child Labour
+NIL
+Forced/involuntary labour
+NIL
+Sexual Harassment
+NIL
+Discrimination at workplace
+NIL
+Wages
+NIL
+Others, please specify
+NIL
+10.	Provide details of any corrective actions taken or underway to address significant risks / 
+concerns arising from the assessments at Question 9 above.
+	
+Not Applicable. Although, we internally make sure to amend and follow compliances from time 
+to time. 
+Leadership Indicator
+3.	 Is the premise/office of the entity accessible to differently abled visitors, as per the 
+requirements of the Rights of Persons with Disabilities Act, 2016?
+	
+Yes
+4.	 Details on assessment of value chain partners:
+Annual Report 
+2023
+43
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+% of value chain partners (by value of business done 
+with such partners) that were assessed
+Sexual Harassment
+This is currently not explicitly assessed or measured.
+Discrimination at workplace
+Child Labour
+Forced Labour/Involuntary Labour
+Wages
+Others – please specify
+Note: Terms and conditions incorporated in the Purchase order are already described and value 
+chain partners are expected to follow terms and conditions 
+Our Code of Conduct applies to all directors and employees of the Company, its subsidiaries and 
+its affiliates, and employees of service providers or vendors, employees of business partners, 
+consultants, retainers, trainees or any individual engaged providing services within the Company’s 
+premises.
+Annual Report 
+2023
+44
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+Principle 6: Businesses should respect and make efforts to protect and restore 
+the environment.
+Essential Indicators
+1.	 Details of total energy consumption (in Joules or multiples) and energy intensity, in the 
+following format:
+Parameter
+FY 22-23
+(Current 
+Financial Year)
+FY 21-22
+(Previous 
+Financial Year)
+Total electricity consumption (A)
+10,747.44 GJ
+6,197.47 GJ
+Total fuel consumption (B)
+39,961.30 GJ
+8,526.96 GJ
+Energy consumption through other sources (C)
+-
+-
+Total energy consumption (A+B+C)
+50,708.74 GJ
+14,724.43 GJ
+Energy intensity per rupee of turnover
+(Total energy consumption/ turnover in rupees)
+841.22 J/H
+378.29 J/H
+Energy intensity (optional) - the relevant metric may be 
+selected by the entity
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an 
+external agency? (Y/N) If yes, name of the external agency.
+No assessment/evaluation/assurance carried out by an external agency during the year.
+2.	 Does the entity have any sites / facilities identified as designated consumers (DCs) under 
+the Performance, Achieve and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, 
+disclose whether targets set under the PAT scheme have been achieved. In case targets have 
+not been achieved, provide the remedial action taken, if any.
+	
+Not applicable
+3.	 Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 22-23
+(Current 
+Financial Year)
+FY 21-22
+(Previous 
+Financial Year)
+Water withdrawal by source (in kilolitres)
+(i)	 Surface water
+-
+-
+(ii)	Groundwater
+-
+-
+(iii)	Third party water – Packaged drinking water
+515
+344
+(iv)	Seawater / desalinated water
+-
+-
+(v)	Others - Municipal Supply
+-
+-
+Total volume of water withdrawal (in kilolitres)  
+(i + ii + iii + iv + v)
+515
+344
+Annual Report 
+2023
+45
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+Parameter
+FY 22-23
+(Current 
+Financial Year)
+FY 21-22
+(Previous 
+Financial Year)
+Total volume of water consumption (in kilolitres)
+515
+344
+Water   intensity   per   rupee   of turnover (Water 
+consumed / turnover)
+0.00000854 L/H
+0.00000884 L/H
+Water   intensity (optional) -   the relevant metric may be 
+selected by the entity
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an 
+external agency? (Y/N) If yes, name of the external agency.
+No assessment/evaluation/assurance carried out by an external agency during the year.
+4.	 Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of 
+its coverage and implementation.
+	
+Not applicable
+5.	 Please provide details of air emissions (other than GHG emissions) by the entity, in the 
+following format:
+Parameter
+Please specify 
+unit
+FY 22-23
+(Current 
+Financial Year)
+FY 21-22
+(Previous 
+Financial Year)
+NOx
+TPY
+35.75
+7.81
+SOx
+TPY
+0.50
+0.12
+Particulate matter (PM)
+TPY
+0.94
+0.20
+Persistent organic pollutants (POP)
+TPY
+Not being tracked
+Volatile organic compounds (VOC)
+TPY
+4.64
+1.00
+Hazardous air pollutants (HAP)
+TPY
+0.0372
+0.0082
+Others	– please Specify (CO)
+TPY
+23.03
+4.91
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an 
+external agency? (Y/N) If yes, name of the external agency.
+No assessment/evaluation/assurance carried out by an external agency during the year.
+Annual Report 
+2023
+46
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+6.	 Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, 
+in the following format:
+Parameter
+Unit
+FY 22-23
+(Current 
+Financial Year)
+FY 21-22
+(Previous 
+Financial Year)
+Total Scope 1 emissions (Break-up of 
+the GHG into CO2, CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available)
+tCO2e
+4,150.42
+4,344.56
+Total Scope 2 emissions (Break-up of 
+the GHG into CO2, CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available)
+tCO2e
+2,125.01
+1,185.42
+Total Scope 1 and Scope 2 emissions 
+per rupee of turnover
+KgCO2e/H
+0.000104
+0.000142
+Total Scope 1 and Scope 2 emission 
+intensity (optional) - the relevant 
+metric may be selected by the entity
+-
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an 
+external agency? (Y/N) If yes, name of the external agency.
+No assessment/evaluation/assurance carried out by an external agency during the year. 
+7.	 Does the entity have any project related to reducing Green House Gas emission? If yes, then 
+provide details.
+	
+We proudly represent our country in international forums, actively promoting sustainability 
+efforts. Since December 2017, our CEO, Mr. Vijay Shekhar Sharma, has served as the United 
+Nations Environment Programme's ("UNEP") Patron for Clean Air, playing a key role in driving 
+environmental action and awareness. He advocates for UNEP's global #BreatheLife campaign, a 
+significant initiative focused on improving air quality and encouraging policy changes and citizen 
+involvement for a healthier future. Additionally, our Founder sits on the Advisory Board of the 
+Green Digital Finance Alliance, established by Ant Financial Services and UNEP. This alliance 
+aims to leverage digital finance and fintech-powered innovations to reshape the financial 
+system, aligning it more effectively with the goals of sustainable development.
+	
+We are committed to adopting environmentally friendly practices in all our major offices to 
+conserve energy. This includes using LED lights, prohibiting one-time use plastic, employing 
+energy-efficient appliances, and implementing sensor-based water faucets and lighting systems 
+in toilets, among other initiatives.
+Annual Report 
+2023
+47
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+8.	 Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 22-23
+(Current 
+Financial Year)
+FY 21-22
+(Previous 
+Financial Year)
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+Not applicable
+Not applicable
+Flexible Plastic Waste
+59 MT
+NA –Authorization 
+applied in the year 
+2022
+E-waste (B)
+129.01 MT*
+9.32 MT
+Bio-medical waste (C)
+Not applicable
+Not applicable
+Construction and demolition Waste (D)
+Not applicable
+Not applicable
+Battery waste (E)
+1.06 MT
+0.90 MT
+Radioactive waste (F)
+Not applicable
+Not applicable
+Other Hazardous   waste.   Please specify, if any. (G)
+Not applicable
+Not applicable
+Non-hazardous waste. Please specify, if any. (H) (Break-up 
+by composition i.e., by materials relevant to the sector) – 
+1)	 Dry and wet waste (tissues, paper napkins, food 
+leftovers, tea bags etc.)
+2)	Paper, magazines, cardboards, etc.  
+13 MT
+Data not captured 
+for the last FY
+Total (A+B + C + D + E + F + G+ H)
+202.07 MT
+10.22 MT
+For each category of waste generated, total waste recovered through recycling, re-using or 
+other recovery operations (in metric tonnes)
+Category of waste
+ 
+ 
+(i)	 Recycled
+202.07 MT
+10.22 MT
+(ii)	Re-used
+0
+0
+(iii)	Other recovery operations – Coprocessing, 
+Incineration with energy recovery
+0
+0
+Total
+202.07 MT
+10.22 MT
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+ 
+ 
+(i) Incineration
+NIL
+NIL
+(ii) Landfilling
+NIL
+NIL
+(iii) Other disposal operations
+NIL
+NIL
+Total
+NIL
+NIL
+*The increase in electronic waste produced during the fiscal year 2022-23 can be attributed to Paytm's soundbox collection, 
+retrieval, and upgrade campaign.
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an 
+external agency? (Y/N) If yes, name of the external agency.
+No assessment/evaluation/assurance carried out by an external agency during the year.
+Annual Report 
+2023
+48
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+9.	 Briefly describe the waste management practices adopted in your establishments. Describe 
+the strategy adopted by your company to reduce usage of hazardous and toxic chemicals in 
+your products and processes and the practices adopted to manage such wastes.
+	
+The nature of the Company’s business does not involve the use of hazardous or toxic chemicals. 
+To handle e-waste responsibly, the Company has established comprehensive systems across 
+all its locations in India. 
+	
+Our commitment to environmental responsibility extends to the disposal of e-waste assets, which 
+are managed through a systematic process. We strictly adhere to our comprehensive E-Waste 
+Policy, ensuring the proper disposal of E-waste resulting from our business activities. To meet 
+these standards, we collaborate with e-waste vendors listed by CPCB, assuring responsible 
+and compliant e-waste management practices throughout our operations. Additionally, the 
+Company has formulated a comprehensive waste collection plan in strict adherence to the 
+Extended Producer Responsibility (EPR) plan submitted to CPCB.
+	
+To effectively manage other waste, the Company segregates and stores generated waste into 
+two categories: dry waste and wet waste. Suitable bins are used for this purpose. All wastes 
+generated in our premises is carefully managed through our partnership with Government 
+authorized agencies equipped with sorting and processing units. 
+10.	If the entity has operations/offices in/around ecologically sensitive areas (such as national 
+parks, wildlife sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, 
+coastal regulation zones etc.) where environmental approvals / clearances are required, 
+please specify details in the following format:
+S. 
+No.
+Location of 
+operations/offices
+Type of operations
+Whether the conditions of environmental 
+approval / clearance are being complied 
+with? (Y/N) If no, the reasons thereof and 
+corrective action taken, if any.
+1
+NIL
+NIL
+There are no offices and/or operating sites in 
+or around ecologically sensitive areas where 
+environmental approvals are required.
+11.	 Details of environmental impact assessments of projects undertaken by the entity based on 
+applicable laws, in the current financial year:
+Name and 
+brief details 
+of project
+EIA
+Notification 
+No.
+Date
+Whether 
+conducted by 
+independent 
+external agency
+(Yes / No)
+Results 
+communicated in 
+public domain
+(Yes / No)
+Relevant 
+Web link
+NA. As per the Environmental Impact Assessment (EIA) Notification 2006 environmental impact 
+assessment is to be done by the third-party consultants for new projects only, the conditions are: 
+built up area for covered construction ≥20,000 sq.mtrs and <1,50,000 sq.mtrs.
+Since all offices have built-up area lesser than threshold, there is no requirement to undertake EIA.
+Annual Report 
+2023
+49
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+12.	Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; 
+such as the Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of 
+Pollution) Act, Environment protection act and rules thereunder (Y/N). If not, provide details 
+of all such non-compliances, in the following format:
+	
+The Company is in compliance with all applicable environmental laws.
+S. 
+No.
+Specify the law / 
+regulation / guidelines 
+which was not 
+complied with
+Provide details  
+of the non- 
+compliance
+Any fines / penalties / action 
+taken by regulatory agencies 
+such as pollution control 
+boards or by courts
+Corrective 
+action taken if 
+any
+NIL
+NA
+NA
+NA
+Leadership Indicators
+1.	 Provide break-up of the total energy consumed (in Joules or multiples) from renewable and 
+non-renewable sources, in the following format: 
+Parameter
+FY 22-23
+(Current 
+Financial Year)
+FY 21-22
+(Previous 
+Financial Year)
+From renewable sources
+Total electricity consumption (A)
+NIL
+NIL
+Total fuel consumption (B)
+NIL
+NIL
+Energy consumption through other sources (C)
+NIL
+NIL
+Total energy consumed from renewable sources (A+B+C)
+NIL
+NIL
+From non-renewable sources
+Total electricity consumption (D)
+10,747.44 GJ
+6,197.47 GJ
+Total fuel consumption (E)
+39,961.30 GJ
+8,526.96 GJ
+Energy consumption through other sources (F)
+NIL
+NIL
+Total energy consumed from non-renewable (D+E+F)
+50,708.74 GJ
+14,724.43 GJ
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an 
+external agency? (Y/N) If yes, name of the external agency. 
+No assessment/evaluation/assurance carried out by an external agency during the year.
+Annual Report 
+2023
+50
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+Parameter
+FY 22-23
+(Current 
+Financial Year)
+FY 21-22
+(Previous 
+Financial Year)
+Water discharge by destination and level of treatment (in kilolitres)
+(i)	 To Surface water
+NA
+NA
+	
+-	
+No treatment
+	
+-	
+With treatment – please specify level of Treatment
+(ii)	To Groundwater
+NA
+NA
+	
+-	
+No treatment
+	
+-	
+With treatment – please specify level of Treatment
+(iii) To Seawater
+NA
+NA
+	
+-	
+No treatment
+	
+-	
+With treatment – please specify level of Treatment
+(iv) Sent to third-parties
+NA
+NA
+	
+-	
+No treatment
+	
+-	
+With treatment – please specify level of Treatment
+(v) Others
+NA
+NA
+	
+-	
+No treatment
+	
+-	
+With treatment – please specify level of Treatment
+Total water discharged (in kilolitres)
+NA
+NA
+2.	 Provide the following details related to water discharged: 
+	
+At all our operating sites, the effluents are treated through primary, secondary and tertiary 
+systems and are reused in the process and domestic purpose.
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an 
+external agency? (Y/N) If yes, name of the external agency.
+No assessment was carried out by an external agency during the year. 
+4.	 Please provide details of total Scope 3 emissions & its intensity, in the following format:
+Parameter
+Unit
+FY 22-23
+(Current 
+Financial Year)
+FY 21-22
+(Previous 
+Financial Year)
+Total Scope 3 emissions (Break-up of the 
+GHG into CO2, CH4, N2O, HFCs, PFCs, 
+SF6, NF3, if available)
+Metric tonnes 
+of CO2
+equivalent
+Not Done
+Not Done
+Total Scope 3 emissions per rupee of turnover
+Not Done
+Not Done
+Total Scope 3 emission intensity 
+(optional) – the relevant metric may be 
+selected by the entity
+Not Done
+Not Done
+Annual Report 
+2023
+51
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an 
+external agency? (Y/N) If yes, name of the external agency.
+No assessment being done.
+5.	 With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators 
+above, provide details of significant direct & indirect impact of the entity on biodiversity in 
+such areas along-with prevention and remediation activities.
+	
+Not applicable
+6.	 If the entity has undertaken any specific initiatives or used innovative technology or solutions 
+to improve resource efficiency, or reduce impact due to emissions / effluent discharge / waste 
+generated, please provide details of the same as well as outcome of such initiatives, as per 
+the following format:
+S. 
+No.
+Initiative 
+undertaken
+Details of the initiative (Web-link, if any, 
+may be provided along-with summary)
+Outcome of the initiative
+1
+Paytm 
+Soundbox
+Paytm Soundbox provides instant audio 
+confirmation for the amount received. It 
+also has our All-in-One QR Code, enabling 
+merchants to accept payments from 
+multiple instruments like Paytm Wallet, 
+Debit & Credit Cards, Net Banking and 
+Paytm UPI.
+The feature is available in 11 languages 
+(English, Hindi, Kannada, Telugu, Tamil, 
+Malayalam, 
+Punjabi, 
+Marathi, 
+Gujarati, 
+Bangla, Odia), which facilitated its usage 
+across the country.
+In last FY (01 April 2022- 31 March 
+2023), a total of 13721 million 
+Sound-box-based transactions 
+have been completed through 
+Paytm-enabled Sound boxes. 
+This has enabled saving paper 
+slips worth 12.07 million pounds 
+in last one year. (Considering 
+each paper slip 5.7cm*10 cm, 
+having 70 GSM paper)
+7.	 Does the entity have a business continuity and disaster management plan? Give details in 100 
+words/ web link.
+	
+The Company has a disaster management plan which defines the procedures to be followed 
+in the event of a natural or man-made emergencies or disasters, political turmoil or criminal 
+action which affects business operations and develops into emergency events. The Disaster 
+Management Plan outlines the procedures to be followed in such event.
+The Emergency Response Plan (ERP) process document covers the following aspects-:
+•	 Formation of ERT (emergency response team): An Emergency Response Team (ERT) is a group 
+of people who prepare for and respond towards any emergency incident. Natural calamities 
+and unnatural disasters could be fires, explosions, the release of potentially toxic chemicals, 
+falls from height, confined space incidents, acts of terrorism, etc. The ERT provides knowledge 
+& awareness in building experience through an overview of emergency preparedness-related 
+requirements.
+Annual Report 
+2023
+52
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+•	 Formation QRT (Quick response team): Quick Response Team shall operate on 24/7 basis as first 
+responder and consists of one driver and two Civil Defence Volunteers trained in firefighting, 
+search & rescue, first aid, etc. During a fire or other emergency, the Emergency Coordinator has 
+primary responsibility for assisting firefighters and emergency personnel and coordinating the 
+response of the staff and systems. Other responsibilities include designating and training of 
+QRT in fire prevention technique.
+•	 Incident Report: An incident report is a thorough documentation of the incident, including all 
+relevant details that caused it and any outcomes reported. The incidents are required to be 
+recorded & documented to serve as a guideline, in order to prepare, prevent and minimize the 
+impact of such emergencies in future.
+Annual Report 
+2023
+53
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+PRINCIPLE 7 Businesses, when engaging in influencing public and regulatory 
+policy, should do so in a manner that is responsible and transparent.
+Essential Indicators
+1.	 a.	 Number of affiliations with trade and industry chambers/ associations.
+	
+The Company is affiliated to ten trade and industry chamber/associations.
+b.	 List the top 10 trade and industry chambers/ associations (determined based 
+on the total members of such body) the entity is a member of/ affiliated to.
+S. 
+No.
+Name of the trade and industry chambers/ 
+associations
+Reach of trade and industry chambers/ 
+associations (State/National)
+1
+Associated Chambers of Commerce and 
+Industry of India (ASSOCHAM)
+National
+2
+International Chamber of Commerce (ICC)
+National
+3
+National Association of Software and Services 
+Companies (NASSCOM)
+National
+4
+Internet & Mobile Association of India (IAMAI)
+National
+5
+Confederation of Indian Industry (CII)
+National
+6
+Payments Council of India (PCI)
+National
+7
+Fintech Convergence Council (FCC)
+National
+8
+Federation of Indian Chambers of Commerce 
+and Industry (FICCI)
+National
+9
+Alliance of Digital India Foundation (ADIF)
+National
+10
+Advertising Standards Council of India
+National
+2	 Provide details of corrective action taken or underway on any issues related to anti- competitive 
+conduct by the entity, based on adverse orders from regulatory authorities.
+Name of Authority
+Brief of the Case
+Corrective action taken
+There were no incidents of anti-competitive behaviour involving the Company during the 
+reporting period (2022-23).
+Annual Report 
+2023
+54
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+S. 
+No. Public Policy Advocated
+Method resorted 
+for such advocacy
+Whether 
+information 
+available 
+in public 
+domain 
+(yes/no)
+Frequency 
+of Review 
+(Annually/
+Half 
+yearly/ 
+Quarterly/
+Others– 
+please 
+specify)
+Web-link, if 
+available
+1.
+Submitted inputs on draft 
+Digital Personal Data 
+Protection Bill
+Submission 
+to Ministry of 
+Electronics and 
+Information 
+Technology (MeitY), 
+submission to 
+Industry bodies
+No
+NA
+NA
+2
+Submission requesting 
+introduction of a new 
+category of IoT devices for 
+incentives under NABARD's 
+Financial Inclusion Fund 
+scheme and RBI’s Payments 
+Infrastructure Development 
+Scheme
+Submission to 
+industry bodies
+No
+NA
+NA
+3
+Submission of detailed 
+response to Telecom 
+Regulatory Authority (TRAI) 
+for implementation of Calling 
+Name Presentation (CNAP) 
+implementation for Telecom 
+Networks in India.
+Submission to TRAI
+No
+NA
+NA
+4
+Submission to MeitY and 
+Ministry of Home Affairs 
+for implementation of 
+Whitelisting for Fintech 
+platforms on social media 
+platforms
+Submission to MeitY 
+and Ministry of 
+Home Affairs
+No
+NA
+NA
+Leadership Indicators
+1.	 Details of public policy positions advocated by the entity:
+Annual Report 
+2023
+55
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+S. 
+No. Public Policy Advocated
+Method resorted 
+for such advocacy
+Whether 
+information 
+available 
+in public 
+domain 
+(yes/no)
+Frequency 
+of Review 
+(Annually/
+Half 
+yearly/ 
+Quarterly/
+Others– 
+please 
+specify)
+Web-link, if 
+available
+5
+Submission to Dept. of 
+Telecommunications for 
+removal of restrictions on 
+M2M SIM cards used in IOT 
+based payment acceptance 
+devices.
+Submission 
+to Dept. of 
+Telecommunications 
+No
+NA
+NA
+6
+Oral evidence to 
+‘Parliamentary Standing 
+Committee on Finance’ on 
+the subject ‘Anti-competitive 
+practices by Big Tech 
+companies’
+Oral evidence and 
+Direct submission 
+of response to 
+Parliamentary 
+Standing Committee
+Yes
+NA
+https://
+loksabhadocs.
+nic.in/
+lsscommittee/
+Finance/17_
+Finance_53.pdf 
+7
+Response to ‘Standing 
+Committee on 
+Communications & IT ‘on 
+subject ‘Digital Payment and 
+online security measures for 
+data protection’
+Direct submission to 
+Standing Committee
+No
+NA
+NA
+Annual Report 
+2023
+56
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+Name and 
+brief details 
+of the Project
+SIA 
+notification 
+Number
+Date of 
+Notification
+Weather 
+conducted by 
+independent 
+external Agency 
+(Yes or No)
+Result 
+communicated 
+in Public Domain 
+(Yes/No)
+Relevant 
+Weblink
+No such project was initiated in the current financial year which requires Social Impact Assessment.
+S. 
+No.
+Name of the Project 
+for which R&R is 
+going
+State
+District
+Number of 
+projects 
+Affected 
+Families
+% of PAFs 
+covered by 
+R&R
+Amount Paid 
+to PAFs in 
+FY (In H)
+ NA
+Principle 8: Businesses should promote inclusive growth and equitable 
+development
+Essential Indicator
+1.	 Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on 
+applicable laws, in the current financial year.
+2.	 Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is 
+being undertaken by your entity, in the following format:
+3.	 Describe the mechanisms to receive and redress grievances of the community.
+	
+Given the nature of the business, this is not applicable to the Company. 
+4.	 Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY 22-23
+Current 
+Financial Year
+FY 21-22
+Previous 
+Financial Year
+Directly sourced from MSMEs/ small producers
+NA
+NA
+Sourced directly from within the district and neighbouring 
+districts
+NA
+NA
+Leadership Indicator
+1.	 Provide details of actions taken to mitigate any negative social impacts identified in the Social 
+Impact Assessments (Reference: Question 1 of Essential Indicators above):
+Details of negative social impact Identified
+Corrective Action Taken
+Not applicable
+Annual Report 
+2023
+57
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+2.	 Provide the following information on CSR projects undertaken by your entity in designated 
+aspirational districts as identified by government bodies:
+S. 
+No. State
+Aspirational 
+district *
+Amount 
+spent (in H)
+1.
+UNEP - Air Quality Action Forum
+Paytm Foundation in collaboration with UNEP has set 
+up AQAF (Air Quality Action Forum). Till now under 
+AQAF, consultation meetings have been organized 
+with 80+ stakeholders on various issues concerning 
+air pollution and solutions that could lead to preventing 
+air pollution.
+Our Reach - Pan India 
+No
+1,01,25,000
+2.
+Strengthening rural education and promoting digital 
+skilling - Distribution of 150 laptops and dongles for 
+education, research, digital skilling or overall growth 
+and benefit to more than 2500 direct beneficiaries 
+Our Reach – Himachal Pradesh
+No
+59,39,730
+3.
+Shikshit Bharat - An initiative by Paytm Foundation 
+promoting education and digital literacy by donating 
+10 laptops to underprivileged students. Our Reach –
+Himachal Pradesh
+No
+30,000
+* Projects have been undertaken through Paytm Foundation in other districts.
+3a	Do you have a preferential procurement policy where you give preference to purchase from 
+suppliers comprising marginalized /vulnerable groups? (Yes/No)
+	
+No
+3b	From which marginalized /vulnerable groups do you procure?
+	
+There is a Procurement Policy in place, but the nature of business limits such purchases. 
+During the year, the Company procured various articles from NGOs. These organizations serve 
+communities from marginalized backgrounds.
+3c	What percentage of total procurement (by value) does it consti-tute?
+	
+NA
+Note: Even though the funds were released in FY 2022 - 2023, for the iTNT hub (as called out in the Board Report section of this 
+Annual Report), the hub was inaugurated on 15th May 2023. Therefore the beneficiaries have not been identified here.
+Annual Report 
+2023
+58
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+S. 
+No. CSR Project
+No.  of persons 
+benefitted from CSR 
+Projects
+% of beneficiaries 
+from vulnerable and 
+marginalized groups
+1
+Shikshit Bharat
+30+
+100%
+2
+Strengthening rural education and 
+promoting digital skilling
+2500+
+NA
+3
+UNEP Air Quality Action Forum (AQAF) 
+NA
+NA
+S. 
+No.
+Intellectual property 
+based on traditional 
+knowledge
+Owned/Acquired 
+(Yes/No)
+Benefits Shared Yes 
+or No
+Basis of calculating 
+benefits share
+Not applicable
+Name of the Authority
+Brief of the case
+Corrective Action taken
+Not applicable
+4.	 Details of the benefits derived and shared from the intellectual properties owned or acquired 
+by your entity (in the current financial year), based on traditional knowledge:
+5.	 Details of corrective actions taken or underway, based on any adverse order in intellectual 
+property related disputes wherein usage of traditional knowledge is involved.
+6.	 Details of beneficiaries of CSR Projects:
+Annual Report 
+2023
+59
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+Principles 9 Businesses should engage with and provide value to their 
+consumers in a responsible manner
+Essential Indicators
+1.	 Describe the mechanisms in place to receive and respond to consumer complaints and 
+feedback.
+Grievance redressal-Lending
+We have formulated an escalation matrix to ensure that concerns of the consumers are routed and 
+addressed by the right team. The below escalation matrix is available for the consumers to read and 
+understand in order to ensure a timely redressal of their concerns.
+The Company recommends them to carefully go through the help pages that provide self-help 
+to the customers. For queries and concerns that are not addressed through the help pages, the 
+customers can contact the customer support team through the Paytm App. In order to create a 
+ticket, they can click on the below links based on the Product.
+Postpaid – 
+Social Media Twitter Handle - @Paytmcare
+24*7 In App Support - https://m.paytm.me/paytm_post
+Personal Loan - 
+Social Media Twitter Handle - @Paytmcare
+24*7 In App Support - https://m.paytm.me/ccloan
+Co-Branded Credit Cards
+Social Media Twitter Handle - @Paytmcare
+24*7 In App Support – https://m.paytm.me/paytm_crecard
+Merchant Cash Advance
+24*7 In App Support – https://b.paytm.me/Help_Support (Please use via Mobile)
+Call Center - 0120-4440440
+Social Media – 
+https://twitter.com/PaytmBusiness
+https://www.facebook.com/Paytmforbusiness
+https://www.instagram.com/paytmbusiness/
+https://www.linkedin.com/company/paytm-for-business/
+Our in-app support channel is able to resolve a vast majority of customer complaints. In any 
+uncommon scenario, where one wishes to escalate the concern to next level, one needs to ensure 
+that they have already exhausted the previous level(s) and their concern remains un-resolved or 
+not resolved to their satisfaction.
+Annual Report 
+2023
+60
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+Service Levels
+Service Levels for Lending Products
+Level 1
+Complaints Registration:
+•	 One can register complaint with our Customer Support by clicking on any of the above links.
+•	 We offer customer support service 24 hours a day and 7 days a week.
+Resolution of Complaints:
+•	 We are committed to providing customers with our first response within 24 hours of receiving 
+the complaint.
+•	 Resolution of the complaint may get delayed due to operational or technical reasons. In such a 
+scenario, concerned customers will be proactively informed of the timelines during which their 
+complaint will be addressed.
+•	 Complaints related to ‘Suspected Fraud’ often take longer to investigate due to the involvement 
+of multiple agencies. The resolution time in such cases is dependent on the severity and 
+complexity of the case. One shall be proactively informed of the timelines in such cases.
+Level 2
+1.	 Complaints Registration: Before reaching out to Level 2, we request the customers to contact 
+Level 1 support channels mentioned above. If they have already reached out to Level 1 and have 
+not received a satisfactory resolution, they can share the details of their complaint on the below 
+e-mail ID.
+2.	 Important Note – Complainant will need to mention the Level 1 Ticket # in the subject line of 
+the e-mail. If complainant does not have a Level 1 ticket #, they can always raise a ticket using 
+the links. Any complaint at Level 2 will not be entertained if the Level 1 ticket number is not 
+mentioned. 
+	
+•	 One can register a complaint on grievance-redressal_lending@paytm.com. 
+3.	 Resolution of Complaints:
+	
+•	 We are committed to providing a first response within 24 hours of receiving the complaint.
+	
+•	 We aim to resolve all Level 2 complaints within 3 business days. Any delay in the resolution 
+time shall be proactively communicated to the concerned customer.
+Annual Report 
+2023
+61
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+2.	 Turnover of products and/ services as a percentage of turnover from all products/service that 
+carry information about:
+As a percentage to total 
+turnover
+Environmental and social parameters relevant to the products
+NA
+Safe and responsible usages 
+NA
+Recycling and /or safe disposal
+NA
+3.	 Number of consumer complaints in respect of following:
+Category
+FY 22-23
+(Current Financial Year)
+FY 21-22
+(Previous Financial Year)
+Received 
+during the 
+year
+Pending 
+resolution at 
+the end of 
+year
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution at 
+the end of 
+year
+Remarks
+Data privacy
+ 6
+2
+-
+0
+0
+-
+Advertising
+5
+0
+-
+0
+0
+-
+Cyber-security
+0
+0
+-
+0
+0
+-
+Delivery of 
+Essential Services
+-
+-
+-
+-
+-
+-
+Restrictive Trade 
+Practices
+-
+-
+-
+-
+-
+-
+Unfair Trade 
+Practices
+-
+-
+-
+-
+-
+-
+Other
+9,900
+52
+-
+1,784
+35
+-
+4.	 Details of instances of product recalls on account of safety issues:
+Number
+Reasons for Recall
+Voluntary recalls
+NIL
+Forced recalls
+5.	 Does the entity have a framework/ policy on cyber security and risks related to data privacy? 
+(Yes/No) If available, provide a web-link of the policy.
+	
+Yes. 
+	
+Privacy Policy (paytm.com)
+	
+https://paytm.com/company/terms-and-conditions?company=one97&tab=privacy
+Annual Report 
+2023
+62
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+6.	 Provide details of any corrective actions taken or underway on issues relating to advertising, 
+and delivery of essential services; cyber security and data privacy of customers; re-occurrence 
+of instances of product recalls; penalty / action taken by regulatory authorities on safety of 
+products / services.
+	
+No penalties/regulatory action has been levied or taken on the above-mentioned parameters. 
+Leadership Indicator
+1
+Channels / 
+platforms where 
+information on 
+products and 
+services of the 
+entity can be 
+accessed (provide 
+web link, if 
+available).
+Customer awareness articles and campaigns on Print and social media 
+Through its various campaigns, the Company has ensured that its users 
+get the right information and are made aware of all the features that 
+make their life simpler. We regularly update users with information to 
+prevent cyber frauds through the app, social media, blogs and articles. 
+Blogs:
+Paytm QR and Paytm UPI Are Free: Understanding the Latest NPCI 
+Circular On Wallet Interoperability With UPI
+https://paytm.com/blog/payments/upi/paytm-qr-and-paytm-
+upi-are-free-understanding-the-latest-npci-circular-on-wallet-
+interoperability-with-upi/
+Paytm UPI LITE now active on these 10 banks for lightning-fast payments
+https://paytm.com/blog/payments/paytm-upi-lite-now-active-on-
+these-10-banks/
+Launching Cancel Protect for Train Tickets – Empowering Users with 
+100% Refund on Cancellation, Avail Instant Refund With No Questions 
+Asked Policy
+https://paytm.com/blog/investor-relations/paytm-empowers-users-to-
+get-100-refund-on-cancellation-of-train-tickets-with-cancel-protect-
+provides-instant-refund-with-no-questions-asked-policy/
+How to Set up a UPI Lite Account on Paytm?
+https://paytm.com/blog/payments/upi/how-to-set-up-a-upi-lite-
+account-on-paytm/
+The company signed MoU with Government of Andhra Pradesh at 
+Global Investors Summit 2023, to drive initiatives in Financial Inclusion, 
+Public Health, Cyber Security
+https://paytm.com/blog/payments/corporate/paytm-signs-mou-with-
+government-of-andhra-pradesh-at-global-investors-summit-2023/
+Announcing our collaboration with MeitY for ‘G20-Stay Safe Online’ 
+Campaign, to drive greater awareness among citizens on Cyber Safety
+https://paytm.com/blog/payments/our-collaboration-with-meity-for-
+g20-stay-safe-online-campaign/
+India’s Pioneer in Digital Payments Paytm Launched UPI LITE for 
+Seamless UPI Transactions
+https://paytm.com/blog/payments/upi/paytm-launched-upi-lite-for-
+seamless-upi-transactions/
+Annual Report 
+2023
+63
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+Simplify Loan Repayment with Paytm’s EMI Options
+https://paytm.com/blog/loan/loan-repayment-with-paytms-emi-
+options/
+We are truly the Pioneer of QR Payments – How We Are Enabling India’s 
+Small Vendors
+https://paytm.com/blog/investor-relations/paytm-is-truly-the-pioneer-
+of-qr-payments-how-we-are-enabling-indias-small-vendors/
+How does Credit Score Help in Availing Loan?
+https://paytm.com/blog/credit-score/how-does-credit-score-help-in-
+availing-loan/
+Guide to Pradhan Mantri Garib Kalyan Yojana
+https://paytm.com/blog/saving-schemes/guide-to-pradhan-mantri-
+garib-kalyan-yojana/
+Pradhan Mantri Awas Yojana Scheme: Documents Required, Eligibility 
+& Features
+https://paytm.com/blog/saving-schemes/government-schemes/pmay-
+pradhan-mantri-awas-yojana-scheme/
+Short Term FD Vs Long Term FD- Which is the Better Option of 
+Investment?
+https://paytm.com/blog/fixed-deposit/short-term-fd-vs-long-term-fd/
+Detect Fake SMSs within Seconds! 
+https://paytm.com/blog/paytm-help/how-to-detect-fake-sms/
+New Income Tax Slab Rates for FY 2023-24
+https://paytm.com/blog/income-tax/check-the-new-income-tax-
+slabs-update/
+Key Highlights & Takeaways of Union Budget
+https://paytm.com/blog/tax/key-highlights-of-union-budget/
+2
+Steps taken to 
+inform and educate 
+consumers about 
+safe and respon-
+sible usage of 
+products and/or 
+services.
+We comply with all disclosure requirements relating to its products 
+and services, as per AMFI/SEBI guidelines. Furthermore, the Company 
+proactively takes measures to educate its customers and issues general 
+advisory to all users to protect them from malicious activities such as 
+cyber fraud.
+3
+Mechanisms in 
+place to inform 
+consumers of any 
+risk of disruption/
+discontinuation of 
+essential services
+We proactively inform our customers whenever in case of out-ages 
+through SMS and our app. Communications on any dis-ruption/ 
+discontinuation of essential services, albeit rare, are in-timated to 
+customers through emails, call centres, the Company’s website and 
+other modes of electronic communication.
+Annual Report 
+2023
+64
+Statutory Reports
+Business Responsibility 
+& Sustainability Report
+4
+Does the entity 
+display product 
+information on 
+the product over 
+and above what is 
+mandated as per 
+local laws? (Yes/
+No/Not Applicable) 
+If yes, provide 
+details in brief. Did 
+your entity carry 
+out any survey with 
+regard to consumer 
+satisfaction relating 
+to the major 
+products / services 
+of the entity, 
+significant locations 
+of operation of the 
+entity or the entity 
+as a whole? (Yes/
+No)
+Our primary research work includes surveys and in-depth interviews of 
+consumers, customers and other relevant ecosystem participants, and 
+consultations with market participants and experts. In addition to the 
+primary research, quantitative market information is also derived based 
+on data from trusted portals and industry publications.
+We seek feedback from our customers quarterly and customer 
+complaints/grievances are reviewed for a root cause analysis, which 
+also gives opportunity to improve the services.
+Annual Customer Surveys are conducted and the recent customer 
+survey shows
+The drivers that impact the overall satisfaction are taken into account 
+and the teamwork towards improving the gaps
+5
+Provide the following 
+information relating 
+to data breaches:
+a.	 Number of 
+instances of data 
+breaches along-
+with impact
+b.	 Percentage of 
+data breaches 
+involving 
+personally 
+identifiable 
+information of 
+customers
+a)	 No cases
+b)	 The Company did not witness any instances of data breaches during 
+the year. We also have cyber risk insurance policies

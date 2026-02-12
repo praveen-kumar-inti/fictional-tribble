@@ -1,0 +1,3330 @@
+ 
+Ramco Systems Limited 
+Corporate Office: 64, Sardar Patel Road, Taramani, Chennai 600 113, Tamilnadu, India. 
+Tel: +91 44 2235 4510 / 6653 4000, Fax: +91 44 2235 5704│CIN : L72300TN1997PLC037550 
+ 
+Registered Office: 47, P.S.K. Nagar, Rajapalayam 626 108, Tamilnadu, India. 
+ 
+Global Offices: India│Singapore│ Malaysia│Indonesia│HongKong│China│Vietnam│Macau│Japan│Philippines│Australia│ 
+New Zealand│UAE│Saudi Arabia│USA│Canada│United Kingdom│Germany│Switzerland│Spain│Sudan│South Africa 
+www.ramco.com 
+ 
+ 
+July 14, 2023 
+ 
+National Stock Exchange of India Ltd., 
+Exchange Plaza, 5th Floor, 
+Plot No:C/1, G Block, 
+Bandra Kurla Complex, Bandra (E), 
+Mumbai – 400 051. 
+Scrip: RAMCOSYS 
+BSE Ltd., 
+Corporate Relationship Department, 
+Phiroze Jeejheebhoy Towers, 
+Dalal Street, Mumbai – 400 001. 
+Scrip: 532370 
+ 
+Dear Sir/Madam, 
+ 
+Sub: Business Responsibility and Sustainability Report FY 2022-23 
+ 
+Please find enclosed the Business Responsibility and Sustainability Report FY 2022-23.  
+ 
+The aforesaid intimation is also being hosted on the website of the Company www.ramco.com.  
+ 
+Kindly take on record the same. 
+ 
+Thanking you,  
+For RAMCO SYSTEMS LIMITED  
+ 
+ 
+VIJAYARAGHAVAN NE 
+COMPANY SECRETARY 
+ 
+Encl: As above 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VIJAYA 
+RAGHAVAN
+Digitally signed by 
+VIJAYA RAGHAVAN 
+Date: 2023.07.14 
+19:37:16 +05'30'
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT
+ [Pursuant to Regulation 34(2)(f) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (“SEBI LODR”)]
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of the listed entity:
+1.	
+Corporate Identity Number (CIN) of the Listed Entity
+L72300TN1997PLC037550
+2.	
+Name of the Listed Entity
+Ramco Systems Limited
+3.	
+Year of incorporation
+19-02-1997
+4.	
+Registered office address
+No. 47, P.S.K Nagar, Rajapalayam – 626 108
+5.	
+Corporate office address
+No. 64, Sardar Patel Road, Taramani, 
+Chennai 600 113
+6.
+E-mail
+investorrelations@ramco.com
+7.
+Telephone
+044 2235 4510
+8.
+Website
+www.ramco.com
+9.	
+Financial year for which reporting is being done
+April 01, 2022 to March 31, 2023
+10.	 Name of the Stock Exchange(s) where shares are listed
+BSE Ltd. and National Stock Exchange of 
+India Limited
+11.	
+Paid-up Capital
+Rs. 35,26,31,450/-
+12.	 Name and contact details (telephone, email address) of the person who
+may be contacted in case of any queries on the BRSR report
+Vijayaraghavan NE,  
+Company Secretary 
+investorrelations@ramco.com 
+044-2235 4510
+13.	 Reporting boundary - Are the disclosures under this report made on a
+standalone basis (i.e. only for the entity) or on a consolidated basis (i.e. 
+for the entity and all the entities which form a part of its consolidated
+financial statements, taken together).
+Standalone Basis
+II.
+Products/Services
+14.
+Details of business activities (accounting for 90% of the turnover):
+S. No.
+Description of Main Activity
+Description of Business Activity
+% of Turnover of the entity
+1.
+Information and Communication
+Computer programming, consultancy 
+and related activities
+100%
+15.
+Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. No.
+Product/Service
+NIC Code
+% of total Turnover 
+contributed
+1.
+Writing, modifying, testing of computer program to meet the 
+needs of a particular client excluding web page designing
+62011
+99.98%
+2.
+Providing software support and maintenance to the clients 
+62013
+0.01%
+3.
+Data processing, hosting and related activities; Data processing 
+activities including report writing
+63111
+0.01%
+Note: Company is in the business of development and sale of Enterprise Resource Planning (ERP) software and 
+providing related software services, including hosting and manage payroll services. The Company considers it as only 
+one operating segment i.e Software Solutions & Services. However, the break up given above is only to facilitate inputting 
+the data for the purpose of filing in XBRL format.
+1
+BRSR 2022-23
+Financial Statements 
+Corporate Overview
+Statutory Reports
+III.
+Operations
+16.
+Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of offices
+Total
+National
+NA
+6
+6
+International
+NA
+5
+5
+17.
+Markets served by the entity:
+a.
+Number of locations
+Locations
+Number
+National (No. of States)
+4
+International (No. of Countries)
+20*
+*No of countries include locations where the Company has direct presence and presence through subsidiaries.
+b.
+What is the contribution of exports as a %
+of the total turnover of the entity?
+62.44%
+c.
+A brief on types of customers
+Ramco empowers organizations to embrace digital transformation 
+through its innovative enterprise solutions. Our customer base 
+primarily consists of business-to-business (B2B) entities. We provide 
+cloud and mobile-based enterprise software in the following space:
+1.
+Global Payroll & HR
+2.
+	Enterprise Resource Planning (ERP) to address the niche
+requirements for asset-heavy industries, Facilities Management 
+and Logistics Service Providers
+3.
+	(Maintenance & Engineering) (M&E) and Maintenance, Repair and
+Overhaul (MRO) for Aviation, catering to the specific requirements
+of Airlines, MROs, Defense, Heli operators, and major Urban Air
+Mobility companies (including Electric Vertical Take-off and Landing
+(eVTOL), Drones/Unmanned Aircraft Systems (UAS)
+IV.
+Employees
+18.
+Details as at the end of financial year:
+a.
+Employees and workers (including differently abled):
+S.No.
+Particulars
+Total 
+(A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+EMPLOYEES#
+1.
+Permanent (D)
+1912
+1146
+60%
+766
+40%
+2.
+Other than 
+Permanent (E)
+158
+89
+56%
+69
+44%
+3.
+Total employees 
+(D + E)
+2070
+1235
+60%
+835
+40%
+Ramco Systems Limited 
+2
+S.No.
+Particulars
+Total 
+(A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+WORKERS
+4.
+Permanent (F)
+NIL
+5.
+Other than 
+Permanent (G)
+6.
+Total workers(F + G)
+#Excluding KMPs 
+Note: Owing to the nature of our business model, we do not have worker category staff. 
+b.
+Differently abled Employees and workers:
+S. No.
+Particulars
+Total 
+(A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+DIFFERENTLY ABLED EMPLOYEES
+1.
+Permanent (D)
+1
+1
+100%
+0
+-
+2.
+Other than Permanent (E)
+0
+0
+-
+0
+-
+3.
+Total differently abled 
+employees (D + E)
+1
+1
+100%
+0
+-
+DIFFERENTLY ABLED WORKERS
+4.
+Permanent (F)
+Not Applicable
+5.
+Other than permanent (G)
+6.
+Total differently abled 
+workers (F + G)
+19.
+Participation/Inclusion/Representation of women:
+Total 
+(A)
+No. and % of Females
+No. (B)
+% (B / A)
+Board of Directors
+8
+1
+12.5%
+Key Management Personnel
+3
+0
+0%
+		Note: Mr.Abhinav Ramasubramaniam Raja, Whole Time Director, is included both under Board of Directors & Key 
+Management Personnel category.
+3
+BRSR 2022-23
+Financial Statements 
+Corporate Overview
+Statutory Reports
+20.
+A)	
+Turnover rate for permanent employees and workers (Disclose trends for the past 3 years):
+FY 2022-23
+FY 2021-22
+FY 2020-21
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent 
+Employees 
+(Including 
+involuntary 
+resignations)
+36%
+37% 
+36%
+39.6% 
+38.1% 
+39% 
+25.3%
+27.4% 
+26% 
+Permanent 
+Employees 
+(Excluding 
+involuntary 
+resignations)
+22%
+24% 
+ 23%
+33% 
+34% 
+33.5% 
+17%
+17% 
+17%
+Permanent 
+Workers
+Not Applicable
+V.
+Holding, Subsidiary and Associate Companies (including joint ventures)
+21.
+(a)	 Names of holding / subsidiary / associate companies / joint ventures:
+S. No.
+Name of the holding /
+Subsidiary/ Associate 
+Companies/ Jointventures (A)
+Indicate whether 
+holding/ Subsidiary/ 
+Associate/Joint 
+Venture
+% of shares 
+held by 
+listed entity
+Does the entity indicated 
+at column A, participate in 
+the Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+1.
+Ramco Systems Corporation 
+100 Overlook Center, Suite 2008, 
+2nd Floor, Princeton, NJ - 08540, 
+USA
+Subsidiary
+98%
+No
+2.
+Ramco Systems Ltd.  
+Dorfplatz 3, CH- 4418, 
+Reigoldswil, Switzerland
+Subsidiary
+100%
+No
+3.
+Ramco Systems Pte. Ltd. 
+79 Anson Road, #15-04/05, 
+Singapore - 079906
+Subsidiary
+100%
+No
+4.
+Ramco Systems Sdn. Bhd.  
+3B-5-3, Block 3B, Level 5 Plaza 
+Sentral, Jalan Stesen Sentral 5, 
+Kuala Lumpur – 50470, Malaysia
+Subsidiary
+100%
+No
+5.
+RSL Enterprise Solutions (Pty) 
+Ltd. 
+2nd Floor, Suite 56 & 03 102 
+Stephen Dlamini Road, Musgrave 
+Durban - 4001, South Africa
+Subsidiary
+100%
+No
+6.
+Ramco Systems Canada Inc. 
+25th Floor, 666 Burrard Street 
+Vancouver, BC V6C 2X8, Canada
+Subsidiary
+100% held 
+by Sl. No. 1
+No
+Ramco Systems Limited 
+4
+S. No.
+Name of the holding /
+Subsidiary/ Associate 
+Companies/ Jointventures (A)
+Indicate whether 
+holding/ Subsidiary/ 
+Associate/Joint 
+Venture
+% of shares 
+held by 
+listed entity
+Does the entity indicated 
+at column A, participate in 
+the Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+7.
+Ramco Systems FZ-LLC 
+Suite No.210, 2nd Floor, BT 
+Building, EIB 04, Dubai Internet 
+City, PO Box - 500189,  
+Dubai – U.A.E.
+Subsidiary
+100%
+No
+8.
+R S L Software Co. Ltd. 
+House number 306, Second 
+Floor, Block 21, Riyadh, 
+Khartoum, Sudan
+Subsidiary
+100%
+No
+9.
+Ramco Systems Australia Pty Ltd. 
+Level 17, 60, City Road, 
+Southbank, Melbourne,  
+VIC - 3006, Australia
+Subsidiary
+100%
+No
+10.
+Ramco System Inc. 
+17th Floor, BDO Equitable Tower, 
+8751 Paseo de Roxas Makati, 
+1227 Metro Manila, Philippines
+Subsidiary
+100%
+No
+11.
+Ramco Systems (Shanghai) 
+Co. Ltd. 
+Unit No. 336 Suite B, Floor 3, 
+No.99 Gongping Road, Hongkou 
+District, Shanghai, China
+Subsidiary
+100%
+No
+12.
+PT Ramco Systems Indonesia 
+The Executive Center, Suite 
+28 at Level 30, South Tower, 
+Sampoerna Strategic Square, 
+JI. Jend. Sudirman Kav. 45-46, 
+South Jakarta - 12930, Indonesia
+Subsidiary
+100%
+No
+13.
+Ramco System Vietnam 
+Company Limited  
+Room 24, 16th Floor, Saigon 
+Tower, 29 Le Duan Boulevard, 
+District 1, Ho Chi Minh City, 
+Vietnam
+Subsidiary
+100%
+No
+14.
+Ramco Systems Macau Limited 
+Block G, 14th Floor, China Plaza, 
+No. 762-804 Avenida da Praia 
+Grande, Macao
+Subsidiary of Sl. No.3
+-
+No
+15.
+Ramco Software Japan Limited 
+3-2-5-704, Ebisu, Shibuya-ku,
+Tokyo, Japan
+Subsidiary
+100%
+No
+16.
+Ramco Systems Defense and 
+Security Incorporated 
+545 E John Carpenter FWY, Suite 
+900, Irving TX- 75062, USA
+Subsidiary
+100% held 
+by Sl. No. 1
+No
+5
+BRSR 2022-23
+Financial Statements 
+Corporate Overview
+Statutory Reports
+S. No.
+Name of the holding /
+Subsidiary/ Associate 
+Companies/ Jointventures (A)
+Indicate whether 
+holding/ Subsidiary/ 
+Associate/Joint 
+Venture
+% of shares 
+held by 
+listed entity
+Does the entity indicated 
+at column A, participate in 
+the Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+17.
+CityWorks (Pty.) Ltd. 
+6 & 7 Point Bay, 5 Signal Road, 
+Point Waterfront, Durban - 4001, 
+South Africa
+Associate
+30% held by 
+Sl. No. 5
+No
+18.
+Ramco Middle East for 
+Information Technology, Hamad 
+Tower, 4th Floor, King Fahd 
+Branch Road, Al Olaya, Riyadh - 
+12212, Kingdom of Saudi Arabia
+Subsidiary
+100%
+No
+19.
+Ramco System LLC,  
+Office 223 Desk 01 and 03, 2nd 
+Floor, Regus Building, D Ring 
+Road, Old Air, Regus Business 
+Centre, No. 65, 
+Doha, Qatar 
+Subsidiary
+100%
+No
+VI.
+CSR Details
+22.	 (i)	
+Whether CSR is applicable as per Section 135 of Companies Act, 2013: (Yes/No)
+Yes
+(ii)
+Turnover (Rs. Mln.)
+2,478.15
+(iii)
+Net worth (Rs. Mln.)
+8,561.35
+VII. Transparency and Disclosures Compliances
+23.	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+Stakeholder 
+group from 
+whom complaint 
+is received
+Grievance 
+Redressal 
+Mechanism 
+in Place 
+(Yes/No) 
+(If yes, then 
+provide 
+web-link for 
+grievance 
+redress 
+policy)
+FY 2022-23
+FY 2021-22
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the 
+year
+Remarks
+Communities
+Yes*
+0
+0
+-
+0
+0
+-
+Investors 
+(other than 
+Shareholders)
+Yes*
+0
+0
+-
+0
+0
+-
+Shareholders
+Yes*
+1
+0
+-
+0
+0
+-
+Ramco Systems Limited 
+6
+Stakeholder 
+group from 
+whom complaint 
+is received
+Grievance 
+Redressal 
+Mechanism 
+in Place 
+(Yes/No) 
+(If yes, then 
+provide 
+web-link for 
+grievance 
+redress 
+policy)
+FY 2022-23
+FY 2021-22
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the 
+year
+Remarks
+Employees and 
+workers
+Yes*
+0
+0
+-
+0
+0
+-
+Customers
+Yes*
+0
+0
+-
+0
+0
+-
+Value Chain 
+Partners
+Yes*
+0
+0
+-
+0
+0
+-
+Other  
+(please specify)
+-
+-
+-
+-
+-
+-
+-
+* Policy Link: https://www.ramco.com/investor-relations/corporate-governance/policies-and-codes
+24.
+Overview of the entity’s material responsible business conduct issues:
+		Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or
+mitigate the risk along-with its financial implications, as per the following format:
+S. No.
+Material 
+issue 
+identified
+ Risk/ 
+Opportunity
+Rationale for identifying the 
+risk / opportunity
+In case of risk, approach 
+to adapt or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate positive 
+or negative 
+implications)
+1.
+Energy 
+Management
+Risk
+Energy is often necessary 
+to operate processing units, 
+machinery, and other facilities 
+that are not directly involved 
+in manufacturing in the 
+software and IT business. As 
+a result, a firm’s decisions 
+about the energy intensity 
+of its operations and the 
+sources of its energy may 
+change over time, impacting 
+the organization’s operating 
+efficiency and risk profile.
+Energy efficiency and 
+switching to renewable 
+energy sources, is a 
+priority that reduces 
+carbon emissions, can 
+reduce our operating 
+costs and is aligned with 
+the agenda of moving 
+towards carbon neutrality. 
+Ramco takes focused 
+initiatives to reduce 
+Company’s specific 
+and absolute energy 
+consumption. 
+Negative
+7
+BRSR 2022-23
+Financial Statements 
+Corporate Overview
+Statutory Reports
+S. No.
+Material 
+issue 
+identified
+ Risk/ 
+Opportunity
+Rationale for identifying the 
+risk / opportunity
+In case of risk, approach 
+to adapt or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate positive 
+or negative 
+implications)
+2.
+Climate 
+Change
+Risk
+Climate change events bring 
+physical dangers such as 
+sea level rise and increased 
+cyclonic effect, as well as 
+transitional concerns such as 
+renewable energy mandates. 
+Such occurrences have the 
+potential to have an impact 
+on the business. As a result, 
+assessment and mitigation of 
+such hazards is very vital. 
+Ramco is focusing on 
+Net Zero and developing 
+technology-enabled 
+climate-centric solutions 
+for our customers.
+Negative
+3.
+Diversity, 
+Equity and 
+Inclusion
+Opportunity
+A Company’s high diversity 
+and inclusion rate reflects its 
+employees’ sense of belonging 
+and justice. Furthermore, 
+increasing diversity and 
+inclusion helps businesses 
+support vulnerable populations, 
+resulting in the construction of 
+community brand image.
+-
+Positive
+4.
+Human 
+Rights
+Risk
+Companies that prioritise 
+human rights highlight their 
+dedication to developing 
+long-term, mutually beneficial 
+partnerships with individuals 
+influenced or touched by their 
+operations, such as consumers, 
+communities, workers, and 
+investors. This includes 
+demonstrating concern for the 
+people whose lives they interact 
+with.
+Ramco has a robust 
+Human Capital 
+Management (HCM) 
+tool which helps Ramco 
+optimize the various HR 
+functions. It helps the 
+Company in Competency 
+planning and better 
+staffing. 
+Negative
+5.
+Digital Talent 
+Empowerment
+Opportunity
+Empowering digital talent in the 
+workplace is critical because it 
+provides employees with new 
+skills and chances to engage 
+more effectively and show their 
+potential, as a result, increasing 
+employee engagement and 
+efficiency in performance.
+-
+Positive
+Ramco Systems Limited 
+8
+S. No.
+Material 
+issue 
+identified
+ Risk/ 
+Opportunity
+Rationale for identifying the 
+risk / opportunity
+In case of risk, approach 
+to adapt or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate positive 
+or negative 
+implications)
+6.
+Talent 
+Acquisition, 
+Development 
+& Retention
+Risk
+Higher staff retention rates 
+indicate that the Company’s 
+policies and practises are 
+sound. A high attrition rate, 
+on the other hand, signals 
+low employee satisfaction 
+to investors. Ensuring good 
+worker wellbeing can increase 
+employee morale while 
+decreasing onboarding costs.
+The primary focus is 
+to create a motivated 
+workforce that will 
+contribute to higher levels 
+of business performance. 
+We rely on the right 
+talent for servicing 
+customer needs, business 
+sustainability, and future 
+growth.
+Negative
+7.
+Education 
+and Skill 
+Development
+Opportunity
+Employee re-skilling enables 
+businesses to stay up with 
+the dynamic shift in demand 
+for new technology while also 
+sustaining the growing firm. It 
+develops a workforce that is 
+adaptable, nimble, and eager to 
+learn, and that can take on new 
+duties when the organisation 
+requires assistance.
+-
+Positive
+8.
+Customer 
+Relations
+Risk
+Customer satisfaction is a 
+critical success indicator as it 
+assesses how well firms deliver 
+products and services that 
+meet or exceed consumers’ 
+expectations, providing insight 
+into an organization’s overall 
+success. A poor customer 
+experience relationship can 
+lead to customer loss or a drop 
+in customer loyalty. Similarly, 
+client loss and reputational 
+damage can result in decreased 
+sales and revenue.
+Our trust-based 
+relationships with 
+customers enable us 
+for success. Ramco 
+engages with customers 
+across the year in ways 
+to reinforce trust and 
+strengthen relationship. 
+With dedicated customer 
+support team and quality 
+team we ensure utmost 
+customer satisfaction
+Negative
+9.
+Risk 
+Management
+Risk
+Maintaining competitive 
+superiority in this dynamic 
+demand and supply side 
+environment needs that the 
+Company be resilient to 
+shocks. This is controlled 
+through a strong enterprise 
+risk management approach 
+that assesses and manages 
+financial and non-financial 
+threats.
+Maintaining our position of 
+competitive dominance in 
+this dynamic demand and 
+supply-side environment 
+necessitates that our 
+business is resilient 
+to handle shocks. 
+Management of this 
+is enabled through a 
+robust enterprise risk 
+management process that 
+evaluates and addresses 
+both financial and non-
+financial risks.
+Negative
+9
+BRSR 2022-23
+Financial Statements 
+Corporate Overview
+Statutory Reports
+S. No.
+Material 
+issue 
+identified
+ Risk/ 
+Opportunity
+Rationale for identifying the 
+risk / opportunity
+In case of risk, approach 
+to adapt or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate positive 
+or negative 
+implications)
+10.
+Business 
+Ethics and 
+Compliance
+Risk
+The significant issue relevant 
+to business ethics and the 
+management of business 
+ethics issues such as fraud, 
+executive misbehaviour, 
+unethical practises, money 
+laundering, or anti-trust crimes. 
+Ethics infractions can result in 
+police investigations, expensive 
+fines, settlement fees, and 
+reputational damage. 
+We comply with the Laws 
+of the countries and 
+geographies in which we 
+operate is a business 
+imperative that protects 
+the Company. 
+Negative
+11.
+Data Privacy 
+and Security
+Risk
+Companies are graded based 
+on the amount of personal data 
+they gather, their exposure to 
+changing or expanding privacy 
+rules, their vulnerability to 
+prospective data breaches, 
+and their data protection 
+mechanisms.
+Ramco uses data 
+protection practices to 
+ensure that the customer’s 
+data is secure. We have 
+a ISO 27001 certified 
+process in place.
+Negative
+12.
+Corporate 
+Governance
+Risk
+Businesses are evaluated 
+based on their performance 
+in all important governance 
+concerns, such as ownership 
+and control, Board’s 
+compensation, accounting, 
+corporate ethics, and tax 
+transparency. Additionally, 
+this topic investigates how 
+corporate governance and 
+business ethics practises affect 
+a Company’s Shareholders and 
+other investors.
+As being exposed to 
+Reputation Risk and 
+Legal Risk, Ramco 
+Systems hold strong 
+corporate governance 
+for achieving long-term 
+mission of aligning the 
+Company’s interests with 
+stakeholders.
+Negative
+13.
+Innovation
+Opportunity
+Businesses that innovate stay 
+relevant and ahead of the 
+competition. It enables them to 
+contribute value to the industry 
+while also meeting the needs 
+of their customers along with 
+tapping into a wider market 
+presence. 
+-
+Positive
+For details on the mitigation please refer the section "A Sustainable Future"
+Ramco Systems Limited 
+10
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This Section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards 
+adopting the National Guidelines on Responsible Business Conduct (“NGRBC”) Principles and Core Elements.
+Disclosure Questions
+P 
+1
+P 
+2
+P 
+3
+P 
+4
+P 
+5
+P 
+6
+P 
+7
+P 
+8
+P 
+9
+Policy and management processes
+1.
+a.	
+Whether your entity’s policy/policies
+cover each principle and its core 
+elements of the NGRBCs. (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+b.
+	Has the policy been approved by the
+Board? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+c.
+Weblink of the Policies, if available
+https://www.ramco.com/investor-relations/corporate-governance/policies-and-codes
+2.
+	Whether the entity has translated the
+policy into procedures. (Yes / No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3.
+	Do the enlisted policies extend to your
+value chain partners? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+Yes
+No
+4.
+	Name of the national and international
+codes/certifications/labels/ standards (e.g.
+Forest 
+Stewardship 
+Council, 
+Fairtrade,
+Rainforest Alliance, Trustee) standards (e.g.
+SA 8000, OHSAS, ISO, BIS) adopted by your
+entity and mapped to each principle.
+ -
+ISO 
+9001: 
+2015 
+& 
+ISO 
+20000-
+1:2018
+-
+-
+-
+-
+-
+-
+ISO 
+27001 
+:2013
+5.
+	Specific commitments, goals and targets
+set by the entity with defined timelines, if
+any.
+Ramco is dedicated to delivering cutting-edge enterprise solutions that drive 
+organizational transformation. Our focus on customer delight together with our 
+commitment to innovation and fostering a culture of excellence sets us apart in 
+the marketplace. As an organization, we have already implemented numerous 
+best practices recommended by NGRBC. However, as we have adopted BRSR 
+reporting for the first time this year and conducted initial stages of materiality 
+assessment, we aim to establish well-defined objectives and targets in the 
+upcoming reporting period.
+6.
+	Performance of the entity against the
+specific commitments, goals and targets
+along-with reasons in case the same are
+not met.
+Not Applicable
+Governance, leadership and oversight
+7.
+	Statement by Director responsible for the business responsibility report, highlighting ESG related challenges,
+targets and achievements (listed entity has flexibility regarding the placement of this disclosure)
+Dear Stakeholders,
+	I am delighted to share with you Ramco Systems Limited’s commitment to embracing Environmental, Social, and Governance
+(ESG) practices and driving sustainable growth for a better future. Our dedication to addressing ESG-related challenges and
+delivering maximum value to our stakeholders is at the core of our business philosophy.
+	In an industry that faces various ESG-related challenges, such as data privacy and security, compliance and regulatory
+issues, and upholding ethical conduct and good governance, Ramco remains steadfast in addressing these challenges. We
+understand the importance of responsible business practices and their impact on our stakeholders and the world at large.
+	In line with this, we at Ramco have been implementing various sustainable business practices that promote social responsibility 
+and environmental stewardship. We have been proactively procuring energy-efficient office equipment, encouraging
+sustainable modes of transportation among our employees, and responsibly managing waste through recycling of outdated
+electronic equipment. We believe that small actions can create a significant positive impact on our environment.
+	With our emphasis on an Employee-Centric culture, we take pride in fostering an inclusive and diverse work environment
+where employee growth, well-being, and diversity are paramount. We recognize that our diverse talent pool brings unique
+perspectives and contributes to our overall success. Ramco values and respects the diversity of its workforce and is committed 
+to providing equal opportunities for all.
+	The Board and management of Ramco are dedicated to upholding responsible governance, integrity, and ethical conduct
+at all levels. We believe that strong governance practices are essential for ensuring optimal performance and building trust
+among our stakeholders.
+	Moving forward, Ramco will continue to generate a positive impact in ecological balance, societal development, and
+governance practices. We have successfully embarked on our ESG journey and continue to remain committed, thereby
+striving to create a sustainable future for generations to come.
+Thank you for your continued support and trust in Ramco Systems Limited.
+11
+BRSR 2022-23
+Financial Statements 
+Corporate Overview
+Statutory Reports
+8.
+	Details of the highest authority responsible
+for implementation and oversight of the
+Business Responsibility policy (ies).
+1.
+Mr. P R Venketrama Raja, Director
+DIN:00331406
+	Chairman of the Board is a Non-Executive & Non-Independent
+Director and Promoter, is responsible for implementation.
+2. 
+	Mr. Raghuveer Sandesh Bilagi, Chief Operating Officer Business
+Responsibility Head.
+9.
+	Does the entity have a specified Committee of
+the Board/ Director responsible for decision 
+making on sustainability related issues? (Yes /
+No). If yes, provide details.
+Yes 
+CSR Committee:
+Sl. No. 
+Name of Director 
+Designation /Nature of Directorship
+1
+Mr. P R Venketrama Raja
+Chairman/Non-Executive & 
+Non-Independent Director
+2
+Mr. M M Venkatachalam
+Member/Non-Executive & 
+Independent Director
+3
+Mr. A V Dharmakrishnan
+Member/Non-Executive &  
+Non-Independent Director
+10.
+Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether review was undertaken by 
+Director / Committee of the Board/
+Frequency
+Any other Committee
+(Annually/Half yearly/Quarterly/ Any 
+other – please specify)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Performance 
+against 
+above 
+policies and follow up action
+Committee of the Board
+Annually
+Compliance 
+with 
+statutory 
+requirements of relevance to the 
+principles, and, rectification of 
+any non-compliances
+Committee of the Board
+Annually
+11.
+	Has 
+the 
+entity 
+carried 
+out 
+independent assessment evaluation
+of the working of its policies by an
+external agency? (Yes/No). If yes,
+provide name of the agency:
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+No
+Yes, ISO 
+9001: 2015 
+& ISO 
+20000-
+1:2018 is 
+certified 
+by TUV 
+Rheinland.
+No 
+No
+No 
+No 
+No
+No 
+Yes, ISO/
+IEC 
+27001:2013 
+is certified 
+by TUV 
+Rheinland. 
+12.
+	If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated:
+Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+The entity does not consider the Principles 
+material to its business (Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+The entity is not at a stage where it is in 
+a position to formulate and implement the 
+policies on specified principles (Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+The entity does not have the financial or/
+human and technical resources available 
+for the task (Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+It is planned to be done in the next financial 
+year (Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Any other reason (please specify)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Ramco Systems Limited 
+12
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+PRINCIPLE 1: Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable
+Essential Indicators
+1.
+Percentage coverage by training and awareness programmes on any of the principles during the financial year:
+Segment
+Total number 
+of training and 
+awareness 
+programmes held
+Topics/ principles covered under the training 
+and its impact
+% age of persons in 
+respective category 
+covered by the 
+awareness programmes
+Board of Directors
+4
+Recent statutory pronouncements and business 
+updates
+100%
+Key Managerial 
+Personnel
+5
+Recent statutory pronouncements, business 
+updates, Compliance updates - ESG and BRSR 
+awareness sessions.
+100%
+Employees other 
+than Board of 
+Directors and KMPs
+472
+1.
+	Developing Behavioural capability of
+employees
+2.
+Assessing the employees
+3.
+	Developing Functional capability of
+employees
+4.
+	Developing Leadership capability of
+employees
+5.
+	Developing Process related capability of
+employees
+6.
+	Developing capability of Freshers
+7.
+	Developing Technical capability of
+employees
+8.
+Leadership Capability
+9.
+Strategic Leadership
+10.
+People Manager Capability
+11.
+Developing Individual Capability
+65.67%
+Workers
+Not Applicable
+2.
+	Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the entity or by
+Directors / KMPs) with regulators/ Law enforcement agencies/ judicial institutions, in the financial year, in the following format; 
+Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30 of SEBI LODR and as disclosed
+in the entity’s website):
+Monetary
+NGRBC 
+Principle
+Name of the 
+regulatory/ enforcement 
+agencies/judicial 
+institutions
+Amount 
+(In INR)
+Brief of the 
+Case
+Has an 
+appeal been 
+preferred? 
+(Yes/No)
+Penalty/ Fine
+NA
+NA
+0
+NA
+NA
+Settlement
+NA
+NA
+0
+NA
+NA
+Compounding 
+fee
+NA
+NA
+0
+NA
+NA
+Non-Monetary
+NGRBC 
+Principle
+Name of the regulatory/ 
+enforcement agencies/ judicial 
+institutions
+Brief of the 
+Case
+Has an appeal been 
+preferred? (Yes/No)
+Imprisonment
+NA
+NA
+NA
+NA
+Punishment
+NA
+NA
+NA
+NA
+*There were no fines/ penalties/punishment/ award/ compounding fees/ settlement fees which were paid during the year.
+13
+BRSR 2022-23
+Financial Statements 
+Corporate Overview
+Statutory Reports
+3.
+Of the instances disclosed in Question 2 above, details of the Appeal/Revision preferred in cases where monetary
+or non-monetary action has been appealed.
+Case Details
+Name of the regulatory/ enforcement agencies/ 
+ judicial institutions
+NA
+NA
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide
+a web-link to the policy.
+	Yes, The Company has an Anti-Corruption and an Anti-Bribery statement which is stated in the Company Code of Conduct
+(COC). All employees of Ramco shall comply with all applicable national and international anti-corruption Laws and Regulations 
+and are committed to the prevention, deterrence, and detection of fraud, bribery, and all other corrupt business practices.
+Appropriate action will be taken for any breach of this COC, including dismissal through termination. For more information,
+check out the Company’s Code of Conduct.
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any Law enforcement
+agency for the charges of bribery/ corruption:
+FY 2022-23
+FY 2021-22
+Directors
+0
+0
+KMPs
+0
+0
+Employees
+0
+0
+Workers
+Not Applicable
+6.
+Details of complaints with regard to conflict of interest:
+FY 2022-23
+FY 2021-22
+Number
+Remarks
+Number
+Remarks
+Number of complaints received 
+in relation to issues of Conflict of 
+Interest of the Directors
+0
+NA
+0
+NA
+Number of complaints received 
+in relation to issues of Conflict of 
+Interest of the KMPs
+0
+NA
+0
+NA
+7.
+	Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by
+regulators/ Law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+There were no such cases/ issues during the year where taking corrective action was required. 
+Leadership Indicators
+1.
+Awareness programmes conducted for value chain partners on any of the principles during the financial year:
+Total number of 
+awareness  
+programmes held
+Topics / principles 
+covered under 
+ the training
+%age of value chain partners covered  
+(by value of business done with such partners) under the 
+awareness programmes
+2
+HRP Foundation for 
+Customers
+100%
+Ramco Systems Limited 
+14
+2.	
+Does the entity have processes in place to avoid/ manage conflict of interests involving Members of the Board? (Yes/
+No) If yes, provide details of the same.
+	Yes, all the Directors provide annual declaration to adherence to code of conduct covering conflict of interest. Code of
+Conduct.
+PRINCIPLE 2: Businesses should provide goods and services in a manner that is sustainable and safe
+Essential Indicators
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental 
+and social impacts of product and processes to total R&D and capex investments made by the entity, respectively:
+FY 2022-23
+FY 2021-22
+Details of improvements in  
+environmental and social impacts
+R&D
+0
+0
+NA
+Capex
+0
+0
+NA
+2.
+a.	
+Does the entity have procedures in place for sustainable
+sourcing? (Yes/No)
+No
+b.
+If yes, what % of inputs were sourced sustainably?
+0%
+3.
+	Describe the processes in place to safely reclaim your products
+for reusing, recycling and disposing at the end of life, for (a) 
+Plastics (including packaging) (b) E-waste (c) Hazardous waste
+and (d) other waste.
+For safely reclaiming the products for reusing, 
+recycling and disposing at the end of life, we have 
+a disposal system which fall under the E-waste 
+category. Servers, Network, Storage, Desktops and 
+laptops, which have become obsolete or which are 
+declared as end of life by the manufacturer are the 
+candidates meant for E-waste. These assets are 
+either replaced or disposed through certified E-waste 
+disposal partners that are retained for records. 
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to
+the entity’s activities (Yes / No). If yes, whether the waste collection 
+plan is in line with the Extended Producer Responsibility (EPR)
+plan submitted to Pollution Control Boards? If not, provide steps
+taken to address the same.
+No
+PRINCIPLE 3: Businesses should respect and promote the well-being of all employees, including those in their value chains
+Essential Indicators
+1.
+a.	
+Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total 
+(A)
+Health 
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity Benefits
+Day Care 
+facilities
+Number 
+ (B)
+% (B / 
+A)
+Number 
+©
+% C / A) Number 
+(D)
+% (D / 
+A)
+Number 
+(E)
+% (E / A) Number 
+ (F)
+% (F / 
+A)
+Permanent employees
+Male
+1146
+1146
+100%
+1146
+100%
+NA
+NA
+1146
+100%
+0
+0%
+Female
+766
+766
+100%
+766
+100%
+766
+100%
+NA
+NA
+0
+0%
+Total
+1912
+1912
+100%
+1912
+100%
+766
+100%
+1146
+100%
+0
+0%
+15
+BRSR 2022-23
+Financial Statements 
+Corporate Overview
+Statutory Reports
+Category
+% of employees covered by
+Total 
+(A)
+Health 
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity Benefits
+Day Care 
+facilities
+Number 
+ (B)
+% (B / 
+A)
+Number 
+©
+% C / A) Number 
+(D)
+% (D / 
+A)
+Number 
+(E)
+% (E / A) Number 
+ (F)
+% (F / 
+A)
+Female
+69
+0
+0%
+0
+0%
+0
+0% 
+0
+0%
+0
+0%
+Total
+158
+0
+0%
+0
+0%
+0*
+0%
+0*
+0%
+0
+0%
+		*Other than permanent employees are recruited for a limited period of time. During their tenure with the Company, no
+persons have availed the maternity & paternity leave.
+b.
+Details of measures for the well-being of workers:
+Category
+% of workers covered by
+Total 
+(A)
+Health insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+Benefits
+Day Care 
+facilities
+Number 
+ (B)
+% B / 
+A)
+Number  
+©
+% (C 
+/ A)
+Number  
+(D)
+% (D 
+/ A)
+Number  
+(E)
+% (E 
+/ A)
+Number 
+(F)
+% (F 
+/ A)
+Permanent workers
+Male
+Not Applicable
+Female
+Total
+Other than Permanent workers
+Male
+Not Applicable
+Female
+Total
+2.
+Details of retirement benefits, for current financial year and previous financial year:
+Benefits
+FY 2022-23
+FY 2021-22
+No. of 
+employees 
+covered as 
+a %of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % 
+ of total 
+workers
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+PF
+100%
+NA
+Yes
+100%
+NA
+Yes
+Gratuity
+100%
+Yes
+100%
+Yes
+ESI
+0%*
+NA
+0%
+Yes
+Others – Please 
+Specify**
+100%
+Yes
+100%
+Yes
+*None of the employees are eligible for coverage under ESI.
+** In addition to the above, the Company has Superannuation Scheme and National Pension Scheme, the participation in 
+which, by the employees is optional and voluntary.
+Ramco Systems Limited 
+16
+6.
+	Is there a mechanism available to receive and redress grievances for the following categories of employees and
+worker? If yes, give details of the mechanism in brief.
+Yes/No (If Yes, then give details of the mechanism in brief)
+Permanent workers
+NA
+Other than Permanent workers
+NA
+Permanent employees
+Yes. 
+Ramco encourages employees to address concerns initially through 
+open communication and dialogue with their immediate supervisors. 
+In case of unsatisfactory responses, employees can escalate their 
+grievances to the location HR department for assistance. The Company 
+provides a comprehensive code of conduct that outlines offenses and a 
+progressive discipline framework.
+Other than Permanent Employees
+3.
+Accessibility of workplaces
+Are the premises / offices of the entity accessible to 
+differently abled employees and workers, as per the 
+requirements of the Rights of Persons with Disabilities 
+Act, 2016? If not, whether any steps are being taken by 
+the entity in this regard.
+The Company’s premises are generally friendly to all disabled 
+visitors and employees. The Company periodically reviews the 
+requirements and takes necessary initiatives for improvement. 
+4.
+Does the entity have an equal opportunity policy as per 
+the Rights of persons with Disabilities Act, 2016? If so, 
+provide a web-link to the policy.
+Yes, its mentioned in the handbook as well as BRSR Policy. 
+5.
+Return to work and Retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent employees
+Permanent workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+100%
+84%
+Not Applicable
+Female
+100%
+13%
+Total
+100%
+29%
+17
+BRSR 2022-23
+Financial Statements 
+Corporate Overview
+Statutory Reports
+7.
+Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+Category
+FY 2022-23
+FY 2021-22
+Total 
+employees 
+/ workers in 
+respective 
+category (A)
+No. of 
+employees 
+ / workers in 
+respective 
+category, who 
+are part of 
+association(s) 
+or Union (B)
+% (B / A)
+Total 
+employees 
+/ workers 
+ in respective 
+category (C)
+No. of 
+employees/ 
+workers in 
+respective 
+category, who 
+are part of 
+association 
+(s) or
+Union(D)
+% (D / C)
+Total Permanent 
+Employees
+1912
+0
+0%
+1796
+0
+0%
+Male
+1146
+0
+0%
+1076
+0
+0%
+Female
+766
+0
+0%
+720
+0
+0%
+Total
+Permanent Workers
+Not Applicable
+Male
+Female
+8.
+Details of training given to employees and workers:
+Category
+FY 2022-23
+FY 2021-22
+Total 
+(A)
+On Health and 
+safety measures
+On Skill 
+upgradation
+Total (D)
+On Health 
+and safety 
+measures
+On Skill 
+upgradation
+No. 
+(B)
+% (B 
+/ A)
+No. 
+(C)
+% (C / 
+A)
+No 
+(E)
+% (E 
+/ D)
+No. 
+(F)
+% (F / 
+D)
+Employees
+Male
+1146
+311
+27%
+1146
+100%
+1076
+18
+0.1%
+919
+85%
+Female
+766
+298
+38%
+766
+100%
+720
+13
+0.1%
+720
+100%
+Total
+1912
+609
+32%
+1912*
+100%
+1796
+31
+0.1%
+1639*
+91%
+ Workers
+Male
+Not Applicable
+Female
+Total
+* The actual number of employees trained, including those resigned, is greater than the total number of employees. 
+Ramco Systems Limited 
+18
+	
+Category
+FY 2022-23
+FY 2021-22
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C)
+Employees
+Male
+1146
+1053
+91.8%
+1076
+885
+82.2%
+Female
+766
+724
+94.5%
+720
+592
+82.2%
+Total
+1912
+1777*
+93%
+1796
+1477*
+82.2%
+Workers
+Male
+Not Applicable
+Female
+Total
+*The performance evaluation and carrier development reviews exclude those who have not completed six months of service
+during the respective financial years.
+10.
+Health and safety management system:
+a.
+	Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No). 
+If yes, the coverage such system?
+Yes,
+		The Company attaches importance to OHS measures. Health & safety aspects are integrated into the corporate
+governance structure. Health and safety are ensured by conducting workshops and programs on wellbeing that includes
+ergonomics, physical and mental wellbeing which are key in improving productivity and wellbeing of the employees.
+b.
+	What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by
+the entity?
+		The Company encourages its employees to report any work-related hazards to Admin and/or HR departments, which
+are addressed promptly.
+c.	
+Whether you have processes for workers to report the work-related hazards and to remove themselves from such risks. 
+(Y/N) NA
+d.	
+Do the employees/ worker of the entity have access to non-occupational medical and healthcare services? (Yes/ No)
+		Yes, the employees are covered by a comprehensive health insurance benefit including coverage of pre-existing ailments 
+that provides access to healthcare.
+9.
+Details of performance and career development reviews of employees and worker:
+19
+BRSR 2022-23
+Financial Statements 
+Corporate Overview
+Statutory Reports
+11.
+Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category
+FY 2022-23
+FY 2021-22
+Lost Time Injury Frequency Rate (LTIFR) (per one million-
+person hours worked)
+Employees
+0
+0
+Workers
+NA
+NA
+Total recordable work-related injuries
+Employees
+0
+0
+Workers
+NA
+NA
+No. of fatalities
+Employees
+0
+0
+Workers
+NA
+NA
+High consequence work-related injury 
+or ill-health (excluding fatalities)
+Employees
+0
+0
+Workers
+NA
+NA
+No. of fatalities
+0
+0
+NA
+NA
+High consequence work-related injury 
+or ill-health (excluding fatalities)
+0
+0
+NA
+NA
+12.
+Describe the measures taken by the entity to ensure a safe and healthy workplace.
+	The Company conducts regular fire and safety drills, and has stationed fire wardens on every floor. Prescribed temperatures
+are maintained. Strict sanitation standards are adhered to ensure a clean workplace. Medical practitioners are available on
+request. The Company encourages employees to report any incidents or near-misses, so that these can be prevented in
+future.
+13.
+Number of Complaints on the following made by employees and workers:
+FY 2022-23
+FY 2021-22
+Filed 
+during the 
+year
+Pending 
+resolution 
+ at the end 
+of year
+Remarks
+Filed during 
+the year
+Pending 
+resolution 
+ at the end 
+of year
+Remarks
+Working Conditions
+0
+0
+0
+0
+0
+0
+Health & Safety
+0
+0
+0
+0
+0
+0
+Ramco Systems Limited 
+20
+2.
+	List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder
+group.
+Stakeholder Group
+Whether identified 
+ as Vulnerable & 
+ Marginalized 
+Group 
+ (Yes/No)
+Channels of  
+communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, 
+Notice Board, Website),  
+Other
+Frequency of  
+engagement 
+(Annually/ 
+Half yearly/ 
+Quarterly/ 
+others – please 
+specify)
+Purpose and scope 
+of engagement 
+including key topics 
+and concerns raised 
+during such 
+engagement
+Employees 
+No
+Email, SMS, Meetings, Website, 
+social media, Circulars, etc.
+Regular
+Regular employee 
+engagement 
+including training 
+and awareness, 
+concern and queries, 
+performance appraisals 
+etc
+Customers
+No
+Email, SMS, Meetings, 
+Website, Business interactions, 
+Advertisement
+Regular
+Information about the 
+product, hearing and 
+resolving concerns 
+and questions
+14.
+Assessments for the year:
+% of your plants and offices that were assessed (by entity 
+or statutory authorities or third parties)
+Health and safety practices
+100%
+Working Conditions
+100%
+15.
+	Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on
+significant risks / concerns arising from assessments of health & safety practices and working conditions.
+	Any issues which are brought to the notice of the concerned department is addressed immediately and communicated back
+to the complainant on the correction action taken.
+PRINCIPLE 4 : Businesses should respect the interests of and be responsive to all its stakeholders
+Essential Indicators
+1.
+Describe the processes for identifying key stakeholder groups of the entity.
+	Our stakeholder identification process involves recognizing and analysing individuals or groups that impacts the Company,
+which are impacted by its operations, and have a significant influence on its success. This includes stakeholders such as
+customers, employees, investors, suppliers, regulatory authorities, local communities, and the environment. The Company
+assesses the impact it has on its stakeholders, such as providing innovative IT solutions, creating employment opportunities,
+fostering digital inclusion, and promoting responsible data management aligned with the Sustainable Development Goals
+(SDGs). This stakeholder-centric approach enables the Company to address their needs and concerns while working towards
+a sustainable future.
+21
+BRSR 2022-23
+Financial Statements 
+Corporate Overview
+Statutory Reports
+Stakeholder Group
+Whether identified 
+ as Vulnerable & 
+ Marginalized 
+Group 
+ (Yes/No)
+Channels of  
+communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, 
+Notice Board, Website),  
+Other
+Frequency of  
+engagement 
+(Annually/ 
+Half yearly/ 
+Quarterly/ 
+others – please 
+specify)
+Purpose and scope 
+of engagement 
+including key topics 
+and concerns raised 
+during such 
+engagement
+Shareholders and 
+Investors
+No
+Annual General Meeting, Investors 
+Meet, Email, Website, Newspaper, 
+Stock Exchange Filings, Letters 
+etc.
+Periodic
+Performance of the 
+Company and major 
+highlights of the year 
+and upcoming year
+Suppliers & Vendors
+No
+Email, SMS, Business Meetings
+Regular
+Compliance, service 
+quality, deadlines and 
+due dates, concerns 
+and queries
+Government & 
+Regulatory bodies
+No
+Email, Meetings, Website, Annual 
+Report, Stock Exchange Filings, 
+Industry Body Representations
+As and when 
+required
+Periodic compliances
+Local communities
+May be (in some 
+cases)
+Onsite Community Meetings,  
+Direct engagement through project 
+teams
+Regular
+CSR Project 
+Implementation and 
+success
+PRINCIPLE 5: Businesses should respect and promote human rights
+Essential Indicators
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the
+following format:
+Category
+FY 2022-23
+FY 2021-22
+Total (A)
+No. employees 
+workers 
+covered (B)
+% (B / A)
+Total (C)
+No. employees 
+workers 
+covered (D)
+% (D / C)
+Employees
+Permanent
+1912
+100
+5%
+1796
+0
+0%
+Other than 
+permanent
+158
+NA
+NA
+177
+NA
+NA
+Total Employees
+2070
+100
+4.8%
+1973
+0
+0%
+Workers
+Permanent
+NA
+NA
+NA
+NA
+NA
+NA
+Other than 
+permanent
+NA
+NA
+NA
+NA
+NA
+NA
+Total Workers
+NA
+NA
+NA
+NA
+NA
+NA
+Ramco Systems Limited 
+22
+2.
+Details of minimum wages paid to employees and workers, in the following format:
+Category
+FY 2022-23
+FY 2021-22
+Total 
+(A)
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+Total (D)
+Equal to Minimum 
+Wage
+More than 
+Minimum Wage
+No.(B)
+% (B/A)
+No. (C)
+% (C 
+/A)
+No.(E)
+% (E/D)
+No.(F)
+% (F/D)
+Employees
+Permanent
+Male
+1146
+0
+-
+1146
+100%
+1076
+0
+-
+1076
+100%
+Female
+766
+0
+-
+766
+100%
+720
+0
+-
+720
+100%
+Other than 
+permanent
+Male
+89
+0
+-
+89
+100%
+109
+0
+-
+109
+100%
+Female
+69
+0
+-
+69
+100%
+68
+0
+-
+68
+100%
+Workers
+Permanent
+Not Applicable
+Male
+Female
+Other than 
+permanent
+Male
+Female
+3.
+Details of remuneration/salary/wages, in the following format:
+Male
+Female
+Number
+Median remuneration 
+salary/ wages of 
+respective category 
+(In Rs.)
+Number
+Median 
+remuneration/ salary/ 
+wages of respective 
+category (In Rs.)
+Board of Directors 
+(BOD)
+7
+345,000
+1
+300,000
+Key Managerial 
+Personnel
+3
+2,480,000
+0
+-
+Employees other 
+than BoD and KMP
+1146
+912,270
+766
+560,894
+Workers
+Not Applicable
+BOD comprises all Directors, including Independent Directors. While calculating the median, the sitting fees paid to Non-
+Executive Directors and the remuneration & sitting fees paid to Executive Director are considered.
+Note: Mr. Abinav Ramasubramaniam Raja, Whole Time Director is covered under both, KMP and Board of Directors.
+23
+BRSR 2022-23
+Financial Statements 
+Corporate Overview
+Statutory Reports
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused 
+or contributed to by the business? (Yes/No)
+	Yes, Internal Complaints Committee, People related decisions are centred around the core values of the organisation.
+5.
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+	For grievance redressal related to Human Rights issues, the actions are guided by International Human Rights principles
+encompassed by the NGRBC, and the Universal Declaration of Human Rights, including those contained within the
+International Bill of Rights and the International Labour Organization’s 1998 Declaration on Fundamental Principles and
+Rights at Work. An email can be sent to InvestorRelations@ramco.com and the designated official for assisting and handling
+Investor and Shareholder grievances: Mr. Vijayaraghavan NE Company Secretary & Compliance Officer Ramco Systems
+Limited
+6.
+Number of Complaints on the following made by employees and workers:
+FY 2022-23
+FY 2021-22
+Filed during 
+ the year
+Pending 
+resolution 
+at the end of 
+year
+Remarks
+Filed during 
+ the year
+Pending 
+resolution 
+at the end of 
+year
+Remarks
+Sexual Harassment
+0
+0
+0
+0
+0
+0
+Discrimination at 
+workplace
+0
+0
+0
+0
+0
+0
+Child Labour
+0
+0
+0
+0
+0
+0
+Forced Labour/
+Involuntary  
+Labour
+0
+0
+0
+0
+0
+0
+Wages
+0
+0
+0
+0
+0
+0
+Other human  
+rights related issues
+0
+0
+0
+0
+0
+0
+7.
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	To prevent adverse consequences to the complaint in such cases, the concerned will be given a furlough, typically a time off,
+counselling or a reassignment to a different department or location if necessary. The complainant’s privacy and confidentiality
+will be protected during the process. If the complaint is substantiated, appropriate disciplinary actions against the accused
+party will be taken which may include reprimands, suspension, or termination.
+8.
+Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+Yes, Minimum wages, prohibition of employment of child labour etc. as per local regulatory requirement, are ensured.
+Ramco Systems Limited 
+24
+9.
+Assessments for the year:
+Particulars
+%age of your plants and offices that were assessed (by entity or 
+statutory authorities or third parties)
+Child labour
+100%
+Forced/involuntary labour
+100%
+Sexual harassment
+100% 
+Discrimination at workplace
+100% 
+Wages
+100%
+Others – please specify
+100%*
+* Assessments done through Grievance redressal mechanism in respect of other than human rights related issues.
+10.
+	Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the
+assessments at Question 9 above.
+There were no such cases/issues arising from the assessments where taking corrective action was required.
+Leadership Indicators
+1.
+	Details of a business process being modified / introduced as a result of addressing human rights grievances/
+complaints.
+	The Company revisits the policies on a regular basis based on performance reviews to ensure that fair and unbiased practises
+are followed. Various trainings such as Prevention of Sexual harassment and discrimination at workplace are also held at the
+workplace to ensure awareness is created which contributes to an inclusive workplace culture.
+3.
+	Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of
+Persons with Disabilities Act, 2016?
+	The Company’s premises are generally friendly to all disabled visitors and employees. The Company periodically reviews the
+requirements and takes necessary initiatives for improvement. 
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the environment
+Essential Indicators
+1.
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+FY 2022-23 (GJ)
+FY 2021-22 (GJ)
+Total electricity consumption (A) (In GJ)
+10,045.53
+7,951.86
+Total fuel consumption (B) (In GJ)
+540.12
+373.20
+Energy consumption through other sources (C) 
+0
+0
+Total energy consumption (A+B+C) (In GJ)
+10,585.65
+8,325.06
+Energy intensity per lacs rupee of turnover (Total energy consumption 
+(In GJ) /turnover in rupees (“lakhs”))
+0.4272
+0.2978
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by 
+an external agency? (Y/N) If yes, name of the external agency.
+No
+25
+BRSR 2022-23
+Financial Statements 
+Corporate Overview
+Statutory Reports
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve and 
+Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme have
+been achieved. In case targets have not been achieved, provide the remedial action taken, if any.
+	The Company does not have any sites/ facilities/ offices which are identified as designated consumers under the Performance, 
+Achieve and Trade (PAT) Scheme of the Government of India.
+3.
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+Water withdrawal by source (in kilolitres)
+(i)
+Surface water
+0
+0
+(ii)
+Groundwater
+0
+0
+(iii) Third party water
+9,274
+3,945
+(iv) Seawater / desalinated water
+0
+0
+(v)
+Others (Drinking Water)
+363.265
+130.84
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+9,637.26
+4,075.84
+Total volume of water consumption (in kilolitres)
+9,637.26
+4,075.84
+Water intensity per lakh rupee of turnover (Water consumed (in KL) / 
+turnover in rupees (“lakh”))
+0.3889
+0.1458
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by 
+an external agency? (Y/N) If yes, name of the external agency.
+No
+4.
+	Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and
+implementation.
+No, considering the nature of the business, Zero Liquid Discharge Treatment does not apply to the Company.
+5.
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please specify unit
+FY 2022-23
+FY 2021-22
+Nox
+Parts per Mln. by volume
+0
+0
+Sox
+Parts per Mln. by volume
+0
+0
+Particulate matter (PM)
+Microgram per cubic metre
+0
+0
+Persistent organic pollutants (POP) Microgram per cubic metre
+0
+0
+Volatile organic compounds (VOC) Microgram per cubic metre
+0
+0
+Hazardous air pollutants (HAP)
+Microgram per cubic metre
+0
+0
+Others– please specify
+-
+0
+0
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by 
+an external agency? (Y/N) If yes, name of the external agency.
+No
+Ramco Systems Limited 
+26
+6.
+	Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following
+format:
+Parameter
+Unit
+FY 2022-23
+FY 2021-22
+Total Scope 1 emissions (Break-up of the GHG into 
+CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of 
+CO2 equivalent
+33.74
+23.32
+Total Scope 2 emissions (Break-up of the GHG 
+into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, 
+ if available)
+Metric tonnes of 
+CO2 equivalent
+2,260.24
+1,789.17
+Total Scope 1 and Scope 2 emissions per “lacs” 
+rupees of turnover.
+0.0926
+0.0648
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an 
+external agency? (Y/N) If yes, name of the external agency.
+No
+7.
+Does the entity have any project related to reducing Green House Gas emission? If yes, then provide details
+NA
+8.
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+0.162
+0.118
+E-waste (B)*
+2.718
+0.5
+Bio-medical waste (C)
+0
+0
+Construction and demolition waste (D)
+0
+0
+Battery waste (E)
+0
+0
+Radioactive waste (F)
+0
+0
+Other Hazardous waste. Please specify, if any. (G)
+0
+0
+Other Non-hazardous waste generated (H). Please specify, if any. (Break-up by 
+composition i.e. by materials relevant to the sector) Paper Waste
+0.279
+1.605
+Total (A+B + C + D + E + F + G + H)
+3.159
+2.223
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations (in 
+metric tonnes)
+Category of waste
+(i)
+Recycled
+1.343
+0
+(ii)
+Re-used
+0
+0
+(iii)
+Other recovery operations
+0
+0
+Total
+1.343
+0
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i)
+Incineration
+0
+1.505
+(ii)
+Landfilling
+0
+0
+(iii)
+Other disposal operations
+0.441
+2.736
+Total
+0.441
+4.241
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an 
+external agency? (Y/N) If yes, name of the external agency.
+No
+*Certain category of waste is not disposed. 
+27
+BRSR 2022-23
+Financial Statements 
+Corporate Overview
+Statutory Reports
+9.	
+Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by
+your Company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices
+adopted to manage such wastes.
+	For safely reclaiming the products for reusing, recycling and disposing at the end of life, we have a disposal system which
+fall under the E-waste category. Servers, Network, Storage, Desktops and laptops, which have become obsolete, or which
+are declared as end of life by the manufacturer are the candidates meant for E-waste. These assets are either replaced
+or disposed through certified E-waste disposal partners that are retained for records. These assets are either replaced or
+disposed through certified E-waste disposal partners that are retained for records. Additionally, we do not deal with hazardous
+or toxic chemicals in our products.
+10.	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental
+approvals / clearances are required, please specify details in the following format:
+S.No.
+Location of operations/
+offices
+Type of 
+operations
+Whether the conditions of environmental approval /
+clearance are being complied with? (Y/N) If no, the 
+reasons thereof and corrective action taken, if any.
+NA
+NA
+NA
+NA
+11.
+	Details of environmental impact assessments of projects undertaken by the entity based on applicable Laws, in the
+current financial year:
+Name and brief 
+details  
+of project
+EIA 
+Notification No.
+Date
+Whether 
+conducted by 
+independent 
+external agency 
+(Yes / No)
+Results 
+communicated in 
+ public domain 
+(Yes / No)
+Relevant Web link
+NA
+NA
+NA
+NA
+NA
+NA
+12.
+	Is the entity compliant with the applicable Environmental Law/ Regulations/ Guidelines in India, such as the Water
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection Act
+and Rules thereunder (Y/N). If not, provide details of all such non-compliances, in the following format:
+S. 
+No.
+Specify the Law/ 
+Regulation/ Guidelines 
+which was not  
+complied with*
+Provide details of 
+the non- compliance
+Any fines / penalties 
+ /action taken by 
+regulatory agencies such 
+as pollution 
+control boards or by 
+courts
+Corrective action taken, if 
+any
+NA
+NA
+NA
+NA
+NA
+	*The Company is compliant with the applicable Environmental Law/Regulations/ Guidelines in India. As a result, there were
+no fines/ penalties or actions taken by regulatory agencies such as pollution control boards or courts where taking corrective
+action was required. 
+Ramco Systems Limited 
+28
+PRINCIPLE 7: Businesses when engaging in influencing public and regulatory policy, should do so in a manner that is 
+responsible and transparent
+Essential Indicators
+1.
+a.	
+Number of affiliations with trade and industry chambers/ associations.
+7*
+		*With the IT industry thriving globally, the Company believes that it is imperative for organizations to work hand in hand,
+in order to further promote the development of the sector. Alliances with trade bodies or chamber of commerce not only
+aligns with the country’s tech vision but also helps enable and accelerate the pace of global digital transformation.
+b.
+	List the top 10 trade and industry chambers/ associations (determined based on the total members of such
+body) the entity is a member of/ affiliated to.
+S.No.
+Name of the trade and industry chambers/ associations
+Reach of trade and industry 
+chambers/ associations  
+(State/National)
+1
+Australian Payroll Association (APA), Australia
+National
+2
+The Association of Payroll Specialists (TAPS), Australia
+National
+3
+Global Payroll Association (GPA), United Kingdom
+National
+4
+Global Payroll Management Institute (GPMI), United States of America 
+National
+5
+National Association of Software and Service Companies (NASSCOM), India
+National
+6
+American Chamber of Commerce (AMCHAM), Singapore
+National
+7
+Middle East Facility Management Association (MEFMA), United Arab Emirates
+National
+2.
+	Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the
+entity, based on adverse orders from regulatory authorities.
+Name of authority
+Brief of the case
+Corrective action taken
+-
+-
+-
+	
+There were no cases/ issues related to anti-competitive conduct in the FY2022-23 where taking corrective action was required.
+PRINCIPLE 8: Businesses should promote inclusive growth and equitable development
+Essential Indicators
+1.
+	Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable Laws, in the
+current financial year.
+Name and brief details of 
+project
+SIA 
+Notification 
+No.
+Date of 
+notification
+Whether 
+conducted 
+by independent 
+external agency 
+ (Yes /No)
+Results  
+communicated in 
+public domain 
+(Yes / No)
+Relevant Web 
+link
+-
+-
+-
+-
+-
+-
+There were no projects undertaken by the Company as it is not mandatory to conduct Social Impact Assessments.
+2.
+	Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by
+your entity, in the following format:
+S. 
+No.
+Name of Project for 
+which R&R is 
+ongoing
+State
+District
+No. of Project  
+Affected Families 
+(PAFs)
+% of PAFs 
+covered 
+ by R&R
+Amounts paid to  
+PAFs in the FY (In INR)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+29
+BRSR 2022-23
+Financial Statements 
+Corporate Overview
+Statutory Reports
+3.
+Describe the mechanisms to receive and redress grievances of the community.
+	An email can be written to wecare@ramco.com and the related Committee (Corporate Social Responsibility Committee) shall
+take care of the matter from there.
+4.
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY 2022-23
+FY 2021-22
+Directly sourced from MSMEs/ small producers
+19.37%
+13.83%
+Sourced directly from within the district and neighbouring districts*
+53.69%
+50.62%
+* Represents procurement made from vendors within the state.
+PRINCIPLE 9: Businesses should engage with and provide value to their consumers in a responsible manner
+Essential Indicators
+1.
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+1.	
+The Company has a rtrack system, an online tracking system to track all technical consumer issues during the lifecycle
+of the contract/ agreement with the Company.
+2.	
+An escalation mechanism is set up to track all technical consumer issues.
+3.	
+The reports of technical issues raised and responded are shared with the customers.
+2.
+Turnover of products and/ services as a % of turnover from all products/service that carry information about:
+As a % to total turnover
+Environmental and social parameters relevant to the product
+NA
+Safe and responsible usage
+NA
+Recycling and/or safe disposal
+NA
+3.
+Number of consumer complaints in respect of the following:
+FY 2022-23
+Remarks
+FY 2021-22
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Data privacy
+0
+0
+-
+0
+0
+-
+Advertising
+0
+0
+-
+0
+0
+-
+Cyber-security
+0
+0
+-
+0
+0
+-
+Delivery of essential 
+services
+0
+0
+-
+0
+0
+-
+Restrictive Trade Practices
+0
+0
+-
+0
+0
+-
+Unfair Trade Practices
+0
+0
+-
+0
+0
+-
+Other
+0
+0
+-
+0
+0
+-
+4.
+Details of instances of product recalls on account of safety issues:
+Number
+Reasons for recall
+Voluntary recalls
+NA
+NA
+Forced recalls
+NA
+NA
+Ramco Systems Limited 
+30
+5.
+	Does the entity have a framework/ policy on cyber security and risks related to data privacy?
+(Yes/No) If available, provide a web-link of the policy.
+	Yes, we have a policy and framework in place. Additionally, we are ISO 27001:2013 certified. https://www.ramco.com/privacy-
+policy.
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential 
+services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty /
+action taken by regulatory authorities on safety of products / services.
+	No such cases have occurred the required taking any corrective actions on advertising, delivering of essential services, cyber
+security and data privacy, re-occurrence of instances of product recalls, penalties or actions taken by regulatory authorities
+on safety of products / services.
+Leadership Indicators
+1.	
+Channels / platforms where information on products and services of the entity can be accessed (provide web link, if
+available).
+	All the Company’s products are listed on the Company website. More details about the products & services can be accessed
+by visiting at www.ramco.com.
+2.
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.
+	The Company deals in software products and all relevant product and technical information are made available to the Clients
+in a written proposal and/or included in the executed contracts. Also, the marketing communications adhere to all legal statues
+with respect to product labelling and display of product information.
+3.
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.
+	The Company will ensure that disruption/discontinuation of essential services is kept to a minimum and will inform customers
+on email for any risk of disruption/discontinuation of essential services.
+31
+BRSR 2022-23
+Financial Statements 
+Corporate Overview
+Statutory Reports

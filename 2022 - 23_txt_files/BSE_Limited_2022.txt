@@ -1,0 +1,3431 @@
+110
+Business Responsibility & Sustainability Report
+Business Responsibility & 
+Sustainability Report 
+SECTION A: GENERAL DISCLOSURES
+I.	 DETAILS OF THE LISTED ENTITY
+Sr. 
+No.
+Particulars
+Response
+1
+Corporate Identity Number (CIN) of the Listed Entity
+L67120MH2005PLC155188
+2
+Name of the Listed Entity
+BSE Limited
+3
+Year of incorporation
+2005
+4
+Registered office address
+25th floor, P.J. Towers, Dalal Street, Fort, Mumbai 400 001
+5
+Corporate address
+25th floor, P.J. Towers, Dalal Street, Fort, Mumbai 400 001
+6
+E-mail
+vishal.bhat@bseindia.com
+7
+Telephone
+022 22728001
+8
+Website
+www.bseindia.com
+9
+Financial year for which reporting is being done
+FY 2022-2023
+10
+Name of the Stock Exchange(s) where shares are listed
+National Stock Exchange (NSE)
+11
+Paid-up Capital
+27.09 crores
+12
+Name and contact details (telephone, email address) of the person who may be 
+contacted in case of any queries on the BRSR report
+Shri Shankar Jadhav
+Phone No: 022-22728001 
+shankar.jadhav@bseindia.com
+13
+Reporting boundary - Are the disclosures under this report made on a standalone 
+basis (i.e. only for the entity) or on a consolidated basis (i.e. for the entity and 
+all the entities which form a part of its consolidated financial statements, taken 
+together)
+Standalone basis
+II.	 PRODUCTS/SERVICES
+	
+14.	Details of business activities (accounting for 90% of the turnover):
+S. 
+No.
+Description of Main Activity
+Description of Business Activity
+% of Turnover of the entity
+1
+Financial & Insurance Services
+Other Financial Activity
+100
+	
+15.	Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. 
+No.
+Product/Service
+NIC Code
+% of total Turnover contributed
+1
+Trading platform for Securities
+66110
+45.09
+2
+Listing of Securities
+66110
+48.43
+Total
+93.52
+111
+ANNUAL REPORT
+2022-2023
+III.	 OPERATIONS
+	
+16.	Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of Plants
+Number of Offices
+Total
+National
+NA
+31
+31
+International
+NA
+0
+0
+	
+17.	Markets served by the entity:
+	
+	
+a.	 Number of locations
+Locations
+Number
+National (No. of States)
+28 states and 8 Union Territories
+International (No. of Countries)
+Some of the global entities do operate in our markets through their representative office in India
+	
+	
+b. 	 What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+	
+	
+4.82%
+	
+	
+c.	 A brief on types of customers
+	
+	
+	
+BSE is a capital market where savings and investments are channelled between suppliers and those requiring capital. BSE provides a 
+secured, efficient and transparent platform for listing and trading in equity, currencies, debt instruments, derivatives, mutual funds and other 
+securities as permitted by the regulator. BSE’s Sensex serves as an economic barometer indicating financial growth of the country.
+	
+	
+	
+Our customers are as below:
+	
+	
+	
+Companies listed on BSE exchange platform
+	
+	
+	
+BSE serves as a market for selling and buying of securities of corporates, government, institutions etc. The companies/institutions who 
+need to raise capital in their early stages / for expansion purpose, list and sell their securities to investors such as general public, financial 
+institutions etc through the platform provided by the stock exchange. Regulatory guidelines are followed while listing any company/institution 
+on the stock exchange. All the security dealings at the exchange are controlled as per rules and regulations laid down by the exchange and 
+regulatory bodies.
+	
+	
+	
+Members/Brokers trading on the exchange platform
+	
+	
+	
+These are licensed traders who are authorised to buy and sell securities on the exchange platform. Typically, members/brokers buy and sell 
+securities on behalf of their end customers who could be general public, company, institution etc. The dealings of the members/brokers are 
+governed by the exchange as per rules and regulations laid down by the exchange and regulatory bodies.
+	
+	
+	
+Data Vendors
+	
+	
+	
+BSE Information Products offers an extensive range of market data and reference data products (Real Time, Delayed, End of day, Historical) 
+to a wide range of customers including Data Vendors, Charting Software Vendors, Algo Traders, Websites, Television Channels, Mobile app 
+developers, Custodians etc.
+	
+	
+	
+Investors
+	
+	
+	
+Investors are general public, company, institution etc having capital to invest. Such investors transact on BSE’s platform through intermediaries 
+like Members/Brokers.
+	
+	
+	
+Market Regulators
+	
+	
+	
+Regulator is a government agency that is set up to exercise regulatory function. The primary objective of the capital market regulators is 
+to protect the interests of the investors, promote development and regulate the capital markets. Company ensures compliances on the 
+regulatory framework as prescribed by the regulators from time to time.
+112
+Business Responsibility & Sustainability Report
+IV.	 EMPLOYEES
+	
+18.	Details as at the end of Financial Year:
+	
+	
+a.	 Employees and workers (including differently abled):
+Sr. 
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+EMPLOYEES
+1
+Permanent (D)
+ 498
+ 361
+72%
+137
+28%
+2
+Other than Permanent (E)
+ 573
+ 451
+79%
+122
+21%
+3
+Total employees (D + E)
+ 1,071
+ 812
+76%
+259
+24%
+WORKERS
+4
+Permanent (F)
+NA
+NA
+NA
+NA
+NA
+5
+Other than Permanent (G)
+NA
+NA
+NA
+NA
+NA
+6
+Total employees (F + G)
+NA
+NA
+NA
+NA
+NA
+	
+	
+b. 	 Differently abled Employees and workers:
+Sr. 
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+DIFFERENTLY ABLED EMPLOYEES
+1
+Permanent (D)
+0
+0
+0%
+0
+0%
+2
+Other than Permanent (E)
+0
+0
+0%
+0
+0%
+3
+Total differently abled employees (D + E)
+0
+0
+0%
+0
+0%
+DIFFERENTLY ABLED WORKERS
+4
+Permanent (F)
+NA
+NA
+NA
+NA
+NA
+5
+Other than Permanent (G)
+NA
+NA
+NA
+NA
+NA
+6
+Total differently abled workers (F + G)
+NA
+NA
+NA
+NA
+NA
+	
+19.	Participation/Inclusion/Representation of women
+Total (A)
+No. and percentage of Females
+No. B
+% (B / A)
+Board of Directors
+9
+2
+22%
+Key Management Personnel
+28
+4
+14%
+	
+20.	Turnover rate for permanent employees and workers
+FY - 2022-2023
+FY - 2021-2022
+FY - 2020-2021
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+12
+20
+14
+13
+15
+13
+8
+11
+9
+Permanent Workers
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+113
+ANNUAL REPORT
+2022-2023
+V.	 HOLDING, SUBSIDIARY AND ASSOCIATE COMPANIES (INCLUDING JOINT VENTURES)
+	
+21.	(a)	 Names of holding / subsidiary / associate companies / joint ventures
+S. 
+No.
+Name of the holding / subsidiary / associate companies / joint 
+ventures (A)*
+Indicate whether 
+holding/ Subsidiary/ 
+Associate/ Joint 
+Venture
+% of shares 
+held by listed 
+entity
+Does the entity indicated 
+at column A, participate in 
+the Business Responsibility 
+initiatives of the listed entity? 
+(Yes/No)**
+1
+Indian Clearing Corporation Limited (ICCL)
+Subsidiary
+100
+Yes
+2
+BSE Investments Limited
+Subsidiary
+100
+Yes
+3
+BSE E-Agricultural Markets Limited (BEAM)
+Subsidiary
+60
+Yes
+4
+BSE EBIX Insurance Broking Private Limited
+Subsidiary
+40
+Yes
+5
+Hindustan Power Exchange Limited
+Subsidiary
+22.62
+Yes
+6
+BSE Administration and Supervision Limited (BASL)
+Subsidiary
+100
+Yes
+7
+BSE Sammaan CSR Limited (Liquidated on November 22, 2022)
+Subsidiary
+100
+Yes
+8
+BSE Institute Limited
+Subsidiary
+100
+Yes
+9
+BSE Institute of Research Development & Innovation
+Subsidiary
+100
+Yes
+10
+BIL – Ryerson Technology Startup Incubator Foundation
+Subsidiary
+51
+Yes
+11
+BSE Technologies Private Limited (BTPL)
+Subsidiary
+100
+Yes
+12
+BSE Tech Infra Services Private Limited
+Subsidiary
+100
+Yes
+13
+BSE EBIX Insuretech Private Limited
+Associate
+40
+Yes
+14
+BSE CSR Integrated Foundation
+Subsidiary
+100
+Yes
+15
+India International Clearing Corporation (IFSC) Limited (India ICC)
+Subsidiary
+59.93
+Yes
+16
+India International Exchange (IFSC) Limited ( India INX)
+Subsidiary
+61.92
+Yes
+17
+India INX Global Access IFSC Limited
+Subsidiary
+100
+Yes
+18
+India International Bullion Holding IFSC Limited
+Associate
+40
+Yes
+19
+Asia Index Private Limited
+Joint Venture
+50
+Yes
+20
+Central Depository Services (India) Limited (CDSL)
+Associate
+20
+Yes
+21
+CDSL Ventures Limited
+Subsidiary
+100
+Yes
+22
+CDSL Insurance Repository Limited
+Subsidiary
+51
+Yes
+23
+CDSL Commodity Repository Limited
+Subsidiary
+76
+Yes
+24
+BFSI Sector Skill Council of India Limited
+Associate
+51.22
+Yes
+25
+India International Bullion Exchange (IFSC) Limited
+Associate
+100
+Yes
+26
+India International Depository (IFSC) Limited
+Associate
+100
+Yes
+*Includes holding companies of Subsidiaries and Associate companies.
+** Participation in the BRSR initiatives is wherever feasible
+VI.	 CSR DETAILS
+	
+22.	(i)	 Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No) – YES
+	
+	
+(ii)	 Turnover (in `) – 59,958 lakhs
+	
+	
+(iii)	 Net worth (in `) – 2,07,469 lakhs
+114
+Business Responsibility & Sustainability Report
+VII.	TRANSPARENCY AND DISCLOSURES COMPLIANCES
+	
+23.	Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business 
+Conduct:
+Stakeholder 
+group from 
+whom complaint 
+is received
+Grievance Redressal Mechanism 
+in Place (Yes/No)
+(If Yes, then provide web-link for 
+grievance redress policy)
+FY 2022-2023
+FY 2021-2022
+Number of 
+complaints 
+filed during the 
+year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the 
+year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the 
+year
+Remarks
+Communities
+Yes. Communities can reach us on 
+our helpline OR send us an email 
+to corp.comm@bseindia.com. 
+Coordinates of our regional service 
+centre are also available on our 
+website www.bseindia.com
+ 3
+ 1
+ Nil
+ -
+ -
+ Nil
+Investors (Other 
+than shareholders)
+Yes
+https://www.bseindia.com/investor_
+relations.html
+ -
+ -
+ Nil
+ -
+ -
+ Nil
+Shareholders
+Yes
+https://www.bseindia.com/investor_
+relations.html
+ 7
+ -
+ Nil
+ 1
+ -
+ Nil
+Employees and 
+workers
+Yes. The policies related to 
+employee grievance redressal are 
+available on the intranet portal of 
+the company
+ -
+ -
+ Nil
+ -
+ -
+ Nil
+Customers
+Yes. Refer link https://www.
+bseindia.com/members.html
+ 1,82,854
+ 1,189
+Nil
+ 1,13,219
+ 14
+Nil
+Value Chain 
+Partners
+Yes. The value chain partners can 
+raise their grievences with their 
+respective relationship manager, 
+contact point, reporting manager etc 
+of the company
+ -
+ -
+ Nil
+ -
+ -
+ Nil
+Other (please 
+specify)
+NA
+ -
+ -
+ Nil
+ -
+ -
+ Nil
+115
+ANNUAL REPORT
+2022-2023
+	
+24.	Overview of the entity’s material responsible business conduct issues
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters that present a risk or an opportunity to your 
+business, rationale for identifying the same, approach to adapt or mitigate the risk along-with its financial implications, as per the following format
+Sr. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / opportunity
+In case of risk, approach to adapt or mitigate
+Financial implications 
+of 
+the 
+risk 
+or 
+opportunity 
+(Indicate 
+positive or negative 
+implications)
+1
+Data 
+Privacy 
+& 
+Data Security
+Risk
+Protection of Classified Corporate Information / Data 
+from unauthorized access / use, unauthorized Change 
+/ modification, unauthorized disruption / destruction 
+of information, unauthorized transfer on removable 
+or any other media, unauthorized deletion, and 
+unauthorized disclosure, inspection or recording.
+In this world of digitalization, cyber attacks have 
+increased exponentially. This includes Ransomware 
+attacks including sabotage to computer systems. 
+Reputational damage from hacktivism (e.g. Maze 
+attack). Unintended impacts from the use of 
+cyberspace 
+Data Privacy is the right to have some control over 
+how your personal information is collected, used 
+and shared “Privacy encompasses the rights and 
+obligations of individuals and organizations with 
+respect to the collection, use, disclosure and retention 
+of personally identifiable information”
+Company has established data privacy policy to manage the privacy 
+of personal information collected, received, processed, stored, dealt 
+with or handled by the organization or on behalf of the organization 
+and to establish and implement necessary processes and controls 
+to ensure the privacy of personal information handled by the 
+organization or on behalf of the organization.
+Company has 24x7 365 Days, Next Gen Cyber Security Operation 
+Center to monitor such cyber alerts. Whenever there is an alert, BSE 
+Next Gen SOC team takes necessory action.
+Regulatory Systems, Networks and Cyber Audits are performed Bi-
+Annually.
+Periodical training and awareness programs are conducted by IT 
+Security team for employees and contractual staff on cyber security.
+General awarness in the form of computer screen savers on the 
+importance of various cyber security measures, cyber vigilance, non 
+sharing of confidential information etc are posted periodically.
+Negative
+2
+Business Continuity 
+Risk 
+Risk
+Any delay in achieving DR - RTO and RPO by 
+organization could result into financial risk and 
+business reputation.
+1.	 Established process to implement all changes at Disaster 
+recovery as soon as it is implemented at Primary site.
+2. 	 Monthly automated checks of DR service availability.
+3. 	 Quarterly Mock drills to ensure all DR functionalities are working 
+appropriately.
+4. 	 Redundant connectivity available from 2 different service 
+providers.
+5.	 All 
+our 
+Applications, 
+Servers, 
+Network 
+& 
+Security 
+Devices redundancy built-in. In case of a hardware failure our 
+systems are equipped to fallback on the redundant setup, either 
+automatic or manual as design may be.
+6. 	 All applications and systems have a DRS (Disaster Recovery Site) 
+setup  with performance & capacity  similar to PDC (Primary 
+Data Centre).
+Negative
+116
+Business Responsibility & Sustainability Report
+Sr. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / opportunity
+In case of risk, approach to adapt or mitigate
+Financial implications 
+of 
+the 
+risk 
+or 
+opportunity 
+(Indicate 
+positive or negative 
+implications)
+7. 	 We have complete automation of all our  BOD (Beginning of 
+day) and EOD (End of day) activities both at PDC and DRS. The 
+invoke/switchover of systems to DRS and switching back to PDC 
+is also completely automated.
+8. 	 Regular backup is scheduled and performed of critical 
+databases.
+9. 	 Proper Release & Version Management System in place to 
+ensure timely release & code sync between PR and DR sites.  
+All changes on PDC and DRS is followed by mock on the Live 
+environment.
+10. 	All company applications/systems can be accessed via multiple 
+locations  to perform Operations and monitoring. Remote 
+accessibility via secured connectivity.
+11. 	Well-planned DR & BCP yearly planner to ensure appropriate 
+DR Mock   & Live Testing including various Business Continuity 
+Scenarios (BCP) in alignment with BCMS ISO 22301-2019 
+certification.
+12. 	Training & Awareness sessions scheduled at regular intervals to 
+ensure competency of employees.
+3
+Negative Publicity
+Risk
+Any negative comment or stories written in negative 
+light in media may impact the brand and reputation 
+of company.
+1. 	 Dedicated team which is responsible for review of media 
+comments.
+2. 	 Team essentially reviews all comments and provides responses.
+3. 	 Usage of services of media agencies.
+4. 	 Proactive management of relationships / response systems 
+across media through media specialists.
+Negative
+4
+Non-compliance 
+with 
+applicable 
+laws 
+and 
+regulations
+Risk
+Any instance of regulatory non-compliance or receipt 
+of notices from regulators/statutory authorities could 
+result into monetary penalty and reputational risk for 
+company.
+1. 	 Dedicated department which is responsible for SEBI related 
+compliance, Corporate laws, Labour laws, Tax laws etc.
+2. 	 Periodic review by SEBI prescribed Committee’s (Regulatory 
+oversight committee).
+3. 	 Implementation of Legatrix Software to monitor compliance to all 
+laws.
+4. 	 Review by Internal Control & Compliance.
+5. 	 Review by Internal audit department.
+6. 	 Regular consultations with consultants.
+7. 	 Secretarial Audit, Internal Audit and External audit.
+8. 	 Reporting to Audit committee.
+Negative
+117
+ANNUAL REPORT
+2022-2023
+Sr. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / opportunity
+In case of risk, approach to adapt or mitigate
+Financial implications 
+of 
+the 
+risk 
+or 
+opportunity 
+(Indicate 
+positive or negative 
+implications)
+5
+Physical 
+building 
+security
+Risk
+BSE is one of the few public institutions of national 
+importance in India.  It is synonymous with 
+development of capital markets and investments in 
+India. Considering its significance to the economy and 
+people of India, it was the BSE building which was the 
+first place of attack in the 1993 serial bomb blasts 
+resulting in 84 casualties and hundreds of injuries. 
+Since then, BSE has continuously been on heightened 
+risk of another terror attack based on intelligence 
+inputs.
+Bollards/Crash Barriers are installed at 5 approach points to prevent 
+vehicle from reaching the BSE premises. No vehicles (except 
+essential services vehicles like Police, Cash Van, Ambulance etc) are 
+permitted to enter BSE premises. The BSE building is guarded by 
+4 levels of security including BSE's personal security and Mumbai 
+Police. Periodical joint mock drills are carried out by Mumbai Police, 
+Special Commandos and SRPF along with BSE security guards. 
+Decoy attempts are carried out by Mumbai Police to check alertness 
+of BSE security guards.
+Negative
+6
+Investor Awareness
+Opportunity
+We believe, investor education and awareness is 
+the key to the wealth and financial well being of the 
+investors. Protecting the interest of the investors 
+dealing in securities is one of the main objectives of 
+BSE. The capital market can grow only when investors 
+find it safe for them to invest and they are assured 
+that the rules governing the market are fair and just 
+to all the players.
+The grievances of investors against listed companies and BSE Trading 
+Members are redressed by BSE. BSE also assists in the arbitration 
+process both, between Trading Members inter-se and between 
+Trading Members and non - Trading Members.  With a view to ensure 
+speedy and effective resolution of claims, differences and disputes 
+between Trading Members inter-se and between Trading Members 
+and non - Trading Members, BSE has laid down a set of procedures 
+for arbitration thereof. These procedures are duly embodied in the 
+Rules, Bye-laws and Regulations of BSE, which have been duly 
+approved by the Government of India / Securities and Exchange 
+Board of India (SEBI).
+Positive
+7
+Corporate 
+Social 
+responsibility
+Opportunity
+BSE has carried out various incubation programs 
+for helping founders at growth stage and providing 
+them support  in terms of infrastructure, mentorship, 
+investor connects, peer network, industry connects, 
+access to funds and international market access 
+thereby resulting in generation of employment. 
+Some of the programs carried out were ZSI Nurtery, 
+empower, Samridh AcceleratHer Program etc.
+-
+Positive
+118
+Business Responsibility & Sustainability Report
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting the NGRBC Principles and 
+Core Elements.
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1.	 a.	 Whether your entity’s policy/
+policies cover each principle 
+and its core elements of the 
+NGRBCs. (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+	
+b.	 Has the policy been approved 
+by the Board? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+	
+c. 	 Web Link of the Policies, if 
+available
+Yes#
+Yes#
+Yes#
+Yes#
+Yes#
+Yes#
+Yes#
+Yes#
+Yes#
+2.	 Whether the entity has translated 
+the policy into procedures. (Yes / 
+No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3.	 Do the enlisted policies extend to 
+your value chain partners? (Yes/No)
+Yes##
+Yes##
+Yes##
+Yes##
+Yes##
+Yes##
+Yes##
+Yes##
+Yes##
+4.	 Name 
+of 
+the 
+national 
+and 
+international codes/certifications/
+labels/ standards (e.g. Forest 
+Stewardship Council, Fairtrade, 
+Rainforest 
+Alliance, 
+Trustea) 
+standards (e.g. SA 8000, OHSAS, 
+ISO, BIS) adopted by your entity 
+and mapped to each principle.
+ISO 9001 : 
+2015, Indian 
+Accounting 
+Standards 
+(Ind AS)
+Nil
+ISO 45001 : 
+2018 & Form 
+B from Director 
+of Maharashtra 
+Fire Service
+ISO 
+9001 : 
+2015
+Nil
+ISO 14064 
+: 2018, ISO 
+14046 : 
+2014, ISO 
+50001 : 
+2018 & ISO 
+22301 : 
+2019
+Nil
+Nil
+ISO/IEC 
+27001:2013, 
+ISO 22301 : 
+2019 & ISO 
+9001 : 2015
+5.	 Specific 
+commitments, 
+goals 
+and targets set by the entity with 
+defined timelines, if any.
+The goal of the company is to comply and adhere to all the possible principles of the BRSR.
+6.	 Performance of the entity against 
+the specific commitments, goals 
+and targets along-with reasons in 
+case the same are not met.
+Not applicable
+Governance, leadership and oversight
+7.	 Statement by director responsible 
+for the business responsibility 
+report, 
+highlighting 
+ESG 
+related challenges, targets and 
+achievements (listed entity has 
+flexibility regarding the placement 
+of this disclosure)
+BSE is committed to doing business in a responsible and sustainable manner with the highest standards of 
+integrity. BSE has joined the global efforts to reduce the adverse impact of climate change and is committed 
+to managing its energy consumption more efficiently. Our primary focus is to reduce our carbon impact and to 
+support the listed companies in achieving their ESG related compliances while fostering a strong and inclusive 
+culture.
+We are focused on achieving our ESG causes with initiatives like responsible usage of energy & water, effective 
+plastic and paper waste management, protection of human rights, engagement with our stake holders, 
+employee, and social welfare.
+We understand the need for creating consumer awareness related to investments in capital markets. BSE has 
+set up an Investor Protection Fund (IPF) which is responsible for creating capital markets related awareness 
+amongst the investor community in India.
+BSE has a diverse Board and a robust governance framework. Adoption of various policies and controls have 
+helped build a strong governance structure.
+119
+ANNUAL REPORT
+2022-2023
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+8.	 Details of the highest authority 
+responsible for implementation 
+and oversight of the Business 
+Responsibility policy (ies).
+Shri Shankar Jadhav, Chief General Manager
+Phone no: 022-22728001
+Email address: shankar.jadhav@bseindia.com
+9.	 Does the entity have a specified 
+Committee of the Board/ Director 
+responsible for decision making on 
+sustainability related issues? (Yes / 
+No). If yes, provide details.
+CSR & ESG committee is responsible for overseeing and decision making on sustainability issues
+# The policies are available on the internal portal
+## Polices are applicable to value chain partners wherever relevant
+10.	Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether review was undertaken by 
+Director / Committee of the Board/ Any other 
+Committee
+Frequency (Annually/ Half yearly/Quarterly/Any 
+other – please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8 P9
+Performance against above policies and 
+follow up action
+CSR & ESG Committee
+Annually
+Compliance with statutory requirements 
+of relevance to the principles, and, 
+rectification of any non-compliances
+The company is compliant with the applicable regulations.
+11.	 Has the entity carried out independent assessment/ evaluation of the working of its policies by an external agency?
+	
+(Yes/No). If yes, provide name of the agency.
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The policies are reviewed and updated by internal departments of the company from time to time.
+12.	If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated:
+Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity does not consider the Principles material to its business 
+(Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+The entity is not at a stage where it is in a position to formulate and 
+implement the policies on specified principles (Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+The entity does not have the financial or/human and technical resources 
+available for the task (Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+It is planned to be done in the next financial year (Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Any other reason (please specify)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+120
+Business Responsibility & Sustainability Report
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+PRINCIPLE 1:
+Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, Transparent and Accountable.
+Essential Indicators
+1.	 Percentage coverage by training and awareness programmes on any of the Principles during the financial year:
+Segment
+Total number 
+of training and 
+awareness 
+programmes held
+Topics / principles covered under the training and its impact
+% age of persons 
+in respective 
+category covered 
+by the awareness 
+programmes
+Board of Directors
+15
+1.	 Nature of the industry in which company operates
+2.	 Business model of the company
+3.	 Code of Conduct
+4. 	 Statutory and internal policies of the Company
+5. 	 Regulatory compliances
+6.	 Risk management framework
+7.	 Trading operations
+8.	 Corporate Social Responsibility
+9.	 Audit observations along with action plan for mitigation of various risks etc
+100
+Key Managerial 
+Personnel, Employees 
+other than BoD and 
+KMPs
+53
+Training Programmes:
+1.	 Information Security and Risks
+2.	 Social Engineering Attacks
+3.	 Physical Security
+4.	 Mobile Device Security
+5.	 Incident Reporting
+6.	 Business Continuity
+7. 	 ISMS and BCMS Policies and Procedures
+8. 	 Skill Upgradation
+9. 	 Health & Wellness
+10. 	Human Rights
+11. 	Fire Safety & Evacuation mock drills
+12. 	Heartstart Defibrillator training
+Awareness Programs
+1.	 Cyber Security Best Practices
+2.	 Smishing
+3.	 Digital Payment and Cyber Security
+4.	 Ransomware
+5. 	 Responsible use of water, paper, electricity etc
+100
+Workers
+Not applicable
+Not applicable
+Not applicable
+	
+The Board of Directors, KMP’s and employees have attended one or more training/awareness programs during the financial year
+121
+ANNUAL REPORT
+2022-2023
+2.	 Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the entity or by 
+directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year, in the following format
+	
+(Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30 of SEBI (Listing Obligations and Disclosure Obligations) 
+Regulations, 2015 and as disclosed on the entity’s website):
+Monetary
+NGRBC Principle
+Name of the regulatory/ 
+enforcement agencies/ 
+judicial institutions
+Amount (In INR)
+Brief of the Case
+Has an appeal 
+been preferred? 
+(Yes/No)
+Penalty/ Fine
+Businesses should 
+conduct and govern 
+themselves with 
+integrity and in 
+a manner that is 
+Ethical, Transparent 
+and Accountable.
+Securities and Exchange 
+Board of India (SEBI)
+3,00,00,000
+SEBI has passed an Order dated April 
+12, 2022 against BSE Ltd imposing 
+a penalty of ` 3 crores in the matter 
+of supervision and inspection of Karvy 
+Stock Broking Ltd. BSE Ltd has filed 
+an Appeal No. 284 of 2022 before 
+Hon’ble Securities Appellate Tribunal 
+challenging SEBI Order dated April 12, 
+2022. The Hon’ble Securities Appellate 
+Tribunal has stayed the said SEBI Order 
+vide its Order dated November 14, 
+2022 and the said Appeal is pending.
+Yes
+Penalty/ Fine
+Businesses should 
+conduct and govern 
+themselves with 
+integrity and in 
+a manner that is 
+Ethical, Transparent 
+and Accountable.
+Securities and Exchange 
+Board of India (SEBI)
+3,00,000
+SEBI has passed an Order dated July 
+29, 2022 against BSE Ltd imposing 
+a penalty of ` 3 lakhs for alleged 
+violation of Regulation 38 (2) of 
+Securities Contracts (Regulation) (Stock 
+Exchanges and Clearing Corporations) 
+Regulations, 2018. BSE has challenged 
+the said SEBI Order before Hon’ble 
+Securities Appellate Tribunal by filing an 
+Appeal No. 563 of 2022. The Hon’ble 
+Securities Appellate Tribunal, vide its 
+Order dated January 30, 2023 has 
+stayed the said SEBI Order and the said 
+Appeal is pending.
+Yes
+Settlement
+-
+Nil
+Nil
+Nil
+Nil
+Compounding fee
+-
+Nil
+Nil
+Nil
+Nil
+Non-Monetary
+NGRBC Principle
+Name of the regulatory/ enforcement 
+agencies/ judicial institutions
+Brief of the Case
+Has an appeal been 
+preferred? (Yes/No)
+Imprisonment
+Nil
+Nil
+Nil
+Nil
+Punishment
+Nil
+Nil
+Nil
+Nil
+122
+Business Responsibility & Sustainability Report
+3.	 Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or non-monetary 
+action has been appealed.
+Case Details
+Name of the regulatory/ enforcement agencies/ 
+judicial institutions
+SEBI has passed an Order dated April 12, 2022 against BSE Ltd imposing a penalty 
+of ` 3 crores in the matter of supervision and inspection of Karvy Stock Broking Ltd. 
+BSE Ltd has filed an Appeal No. 284 of 2022 before Hon’ble Securities Appellate 
+Tribunal challenging SEBI Order dated April 12, 2022. The Hon’ble Securities 
+Appellate Tribunal has stayed the said SEBI Order vide its Order dated November 14, 
+2022 and the said Appeal is pending.
+Securities and Exchange Board of India (SEBI)
+SEBI has passed an Order dated July 29, 2022 against BSE Ltd imposing a penalty of 
+` 3 lakhs for alleged violation of Regulation 38 (2) of Securities Contracts (Regulation) 
+(Stock Exchanges and Clearing Corporations) Regulations, 2018. BSE has challenged 
+the said SEBI Order before Hon’ble Securities Appellate Tribunal by filing an Appeal 
+No. 563 of 2022. The Hon’ble Securities Appellate Tribunal, vide its Order dated 
+January 30, 2023 has stayed the said SEBI Order and the said Appeal is pending.
+Securities and Exchange Board of India (SEBI)
+4.	 Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide a web-link to 
+the policy.
+	
+Company has policies like Code of Ethics for Directors and KMP’s and Ethical Code of Conduct for employees. The Directors, KMP’s and employees, 
+are governed through the above-mentioned policies.
+5.	 Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement agency for the 
+charges of bribery/ corruption:
+FY 2022-2023
+FY 2021-2022
+Directors
+Nil
+Nil
+KMPs
+Nil
+Nil
+Employees
+Nil
+Nil
+Workers
+Not applicable
+Not applicable
+6.	 Details of complaints with regard to conflict of interest:
+FY 2022-2023
+FY 2021-2022
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to issues of Conflict of 
+Interest of the Directors
+Nil
+Nil
+Nil
+Nil
+Number of complaints received in relation to issues of Conflict of 
+Interest of the KMPs
+Nil
+Nil
+Nil
+Nil
+7. 	 Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by regulators/ law 
+enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+	
+Nil
+123
+ANNUAL REPORT
+2022-2023
+Leadership Indicators
+1.	 Awareness programmes conducted for value chain partners on any of the Principles during the financial year:
+	
+Company has conducted various awareness programs for value chain partners during the financial year like Investor awareness, Cyber Security Best 
+Practices, Smishing, Digital Payment & Cyber Security, Ransomware, Product awareness, Responsible use of water, paper, electricity etc, Fire Safety 
+& Mock fire drills, Heartstart Defibrillator training, Physical Security, Facility Management etc.
+2. 	 Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? (Yes/No) If Yes, 
+provide details of the same.
+	
+Yes. There is a Code of Conduct for Directors and Senior Management which covers the guidelines for avoiding/managing conflict of interests. A 
+declaration confirming adherence to this Code of conduct is availed from all the Board members and Senior Management (including KMPs) on annual 
+basis.
+PRINCIPLE 2:
+Businesses should provide goods and services in a manner that is sustainable and safe
+Essential Indicators
+1.	 Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental and social 
+impacts of product and processes to total R&D and capex investments made by the entity, respectively.
+Financial Year 2022-2023
+Financial Year 2021-2022
+Details of improvements in environmental 
+and social impacts
+R&D
+NA
+NA
+NA
+Capex
+NA
+NA
+NA
+	
+Given the nature of the company’s business activities there is no direct environmental or social impact.
+2.	 a.	 Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+	
+b. 	 If yes, what percentage of inputs were sourced sustainably?
+	
+Yes. The resources consumed by the company are limited to running of day-to-day operations. The IT hardware are procured / sourced through 
+authorized OEM / vendors. Evaluation of vendors/suppliers is carried out at the time of selecting and onboarding vendors/suppliers. The E-Waste 
+generated at the end of the product life is recycled / disposed through government authorised recycler.
+3.	 Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, for (a) Plastics 
+(including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+	
+Given the nature of the company’s business, the scope for reusing, recycling is limited. However, following procedures are followed for below 
+mentioned waste categories
+a.	 Plastic waste – Biodegradable plastic garbage bags are used for collecting and disposing waste. Used plastic water bottles are sent for recycling 
+to authorised recycler.
+b.	 E-Waste – We have appointed authorised E-Waste recycler for sustainable recycling / disposing of E-Waste as per the guidelines laid out by the 
+government / local bodies. Our E-Waste consists of computers, laptops, servers, printers etc.
+c.	 Hazardous waste – Not applicable as we do not generate any hazardous waste
+d.	 Other waste – includes waste like used paper which is sent for recycling to authorised recycler.
+124
+Business Responsibility & Sustainability Report
+4. 	 Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether the waste collection 
+plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control Boards? If not, provide steps taken 
+to address the same.
+	
+Not applicable
+Leadership Indicators
+1.	 Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing industry) or for its 
+services (for service industry)? If yes, provide details in the following format?
+	
+Not applicable
+2.	 If there are any significant social or environmental concerns and/or risks arising from production or disposal of your products / 
+services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, briefly describe the same 
+along-with action taken to mitigate the same.
+	
+Not applicable
+3.	 Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing industry) or 
+providing services (for service industry).
+	
+Not applicable
+4.	 Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, and safely disposed, 
+as per the following format:
+	
+Not applicable
+5. 	 Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
+	
+Not applicable
+PRINCIPLE 3:
+Businesses should respect and promote the well-being of all employees, including those in their value chains
+1.	 Details of measures for the well-being of employees
+Category
+% of employees covered by
+Total (A)
+Health Insurance
+Accident Insurance
+Maternity benefits
+Paternity benefits
+Day care facilities
+Number 
+(B)
+% (B / A)
+Number 
+(C)
+% (C / A)
+Number 
+(D)
+% (D / A)
+Number 
+(E)
+% (E / A)
+Number 
+(F)
+% (F / A)
+Permanent employees
+Male
+361
+361
+100
+361
+100
+NA
+NA
+NA
+NA
+NA
+NA
+Female
+137
+137
+100
+137
+100
+137
+100
+NA
+NA
+NA
+NA
+Total
+498
+498
+100
+498
+100
+137
+28
+NA
+NA
+NA
+NA
+Other than permanent employees
+Male
+451
+437
+97
+199
+44
+0
+0
+250
+55
+0
+0
+Female
+122
+116
+95
+58
+48
+120
+98
+0
+0
+0
+0
+Total
+573
+553
+97
+257
+45
+120
+21
+250
+44
+0
+0
+125
+ANNUAL REPORT
+2022-2023
+	
+b. 	 Details of measures for the well-being of workers:
+Category
+% of workers covered by
+Total (A)
+Health Insurance
+Accident Insurance
+Maternity benefits
+Paternity benefits
+Day care facilities
+Number 
+(B)
+% (B / A)
+Number 
+(C)
+% (C / A)
+Number 
+(D)
+% (D / A)
+Number 
+(E)
+% (E / A)
+Number 
+(F)
+% (F / A)
+Permanent workers
+Male
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Female
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Total
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Other than Permanent Workers
+Male
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Female
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Total
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+2.	 Details of retirement benefits, for Current FY and Previous Financial Year.
+Benefits
+FY 2022-2023
+FY 2021-2022
+No. of employees 
+covered as a % of 
+total employees
+No. of workers 
+covered as a % of 
+total workers
+Deducted and 
+deposited with 
+the authority
+(Y/N/N.A.)
+No. of employees 
+covered as a % of 
+total employees
+No. of workers 
+covered as a % of 
+total workers
+Deducted and 
+deposited with 
+the authority
+(Y/N/N.A.)
+PF
+100
+NA
+Y
+100
+NA
+Y
+Gratuity
+100
+NA
+Y
+100
+NA
+Y
+ESI
+NA
+NA
+NA
+NA
+NA
+NA
+Leave encashment
+100
+NA
+NA
+100
+NA
+NA
+3. 	 Accessibility of workplaces 
+	
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the requirements of the Rights 
+of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard.
+	
+Yes. Our office building is accessible to differently abled employees and visitors. Ramps are built at the entrance gates for better accessibility. 
+Wheelchair is also available for movement of differently abled employees and visitors.
+4.	 Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide a web-link to 
+the policy.
+	
+Company believes in providing equal employment opportunity to all groups of people. We ensure non-discrimination and respect for persons with 
+disabilities. In order to provide comfort & support to the senior and disabled individual stakeholders, company has in place a golf cart facility which 
+helps them to reach the entrance gate. Company has also installed a ramp for such individual stakeholders to enter the premises conveniently. A 
+special lift is used for senior and disabled stake holders for reaching upper floors in the main office building. A wheelchair is also available for senior 
+126
+Business Responsibility & Sustainability Report
+and disabled persons.
+5.	 Return to work and Retention rates of permanent employees and workers that took parental leave.
+Permanent employees
+Permanent workers
+Gender
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+NA
+NA
+NA
+NA
+Female
+100
+100
+NA
+NA
+Total
+NA
+NA
+NA
+NA
+6. 	 Is there a mechanism available to receive and redress grievances for the following categories of employees and worker? If yes, give 
+details of the mechanism in brief.
+Yes/No (If Yes, then give details of the mechanism in brief)
+Permanent Workers
+Not applicable
+Other than Permanent Workers
+Not applicable
+Permanent Employees
+Yes
+Other than Permanent Employees
+Yes
+	
+BSE has a culture of ethical approach wherein its employees can raise and discuss their concerns, issues, complaints with their immediate Managers, 
+HOD’s, Human Resource personnel and Executive Management Committee members.
+	
+Complaints related to sexual harassment can be raised directly by the employees with any member of the Internal Complaints Committee OR with 
+designated senior women official from Human Resource Department.
+	
+Complaints related to Ethical code of conduct are dealt at senior levels with utmost care and transparency.
+	
+Policies related to Antisexual Harassment, Ethical code of conduct etc are available on company’s internal portal. Additionally, company regularly 
+sensitizes its employees on various policies related to human resources.
+	
+Contractual staff are also governed under the same policies as that for permanent employees.
+7. 	 Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+Total employees 
+/ workers in 
+respective 
+category (A)
+No. of employees 
+/ workers in 
+respective category, 
+who are part of 
+association(s) or 
+Union (B)
+% (B / A)
+Total employees 
+/ workers in 
+respective 
+category (C)
+No. of employees 
+/ workers in 
+respective category, 
+who are part of 
+association(s) or 
+Union (D)
+% (D / C)
+Total Permanent Employees
+498
+103
+21%
+485
+106
+22%
+Male
+361
+91
+25%
+346
+93
+27%
+127
+ANNUAL REPORT
+2022-2023
+Female
+137
+12
+9%
+139
+13
+9%
+8.	 Details of training given to employees and workers:
+Category
+FY 2022-2023
+FY 2021-2022
+Total (A)
+On Health and safety 
+measures
+On Skill upgradation
+Total
+(D)
+On Health and safety 
+measures
+On Skill upgradation
+No. (B)
+% (B / A)
+No. (C )
+% (C / A)
+No. (E )
+% (E / D)
+No. (F)
+% (F / D)
+Employees
+Male
+361
+361
+100
+150
+42
+346
+13
+4
+157
+45
+Female
+137
+137
+100
+56
+41
+139
+73
+53
+100
+72
+Total
+498
+498
+100
+206
+41
+485
+86
+18
+257
+53
+Workers
+Male
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Female
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Total
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+9.	 Details of performance and career development reviews of employees and worker:
+Category
+FY 2022-2023
+FY 2021-2022
+Total (A)
+No. (B)
+% (B / A)
+Total (C )
+No. (D)
+% (D / C)
+Employees
+Male
+361
+270
+75
+346
+253
+73
+Female
+137
+125
+91
+139
+126
+91
+Total
+498
+395
+79
+485
+379
+78
+Workers
+Male
+NA
+NA
+NA
+NA
+NA
+NA
+Female
+NA
+NA
+NA
+NA
+NA
+NA
+Total
+NA
+NA
+NA
+NA
+NA
+NA
+10.	Health and safety management system:
+a. 	 Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No). If yes, the 
+coverage such system?
+	
+	
+Health and safety management system has been implemented by the company. Below initiatives are taken by the company:
+ 
+• BSE has a dedicated medical centre where Doctor is available during certain hours of the day. Access to this medical centre is granted to all 
+BSE employees, BSE group company employees and contractual staff. This service is provided free of cost by BSE.
+ 
+• All BSE employees and their immediate family members are covered under Medical Insurance
+ 
+• In order to promote Physical and Mental wellbeing, various initiatives were launched thereby helping employees to develop healthy habits
+ 
+• Fire & First-aid Marshals have been deployed on each floor. These marshals have been given basic training to provide first hand response for 
+incidents like Fire, Emergency evacuation, Cardiac arrest etc.
+ 
+• Defibrillators are available in the building premises. Certain officials are trained to use the defibrillators incase of emergency
+128
+Business Responsibility & Sustainability Report
+ 
+• Company has facilitated top up Mediclaim for their dependents like parents and inlaws.
+ 
+• Assistance in terms of receiving medical insurance is extended by the company in the event of hospitalization of any employee OR his 
+dependent member
+ 
+• Fire Exit signages are fixed at various locations on each floor which serves as a guide during emergency evacuation
+ 
+• Fire extinguishers are placed on each floor so that they can be effectively used incase of emergency
+ 
+• Emergency contact nos like BSE Fire Department, BSE Security, Ambulance, Nearest hospital, Blood Bank etc are displayed on each floor at 
+prominent locations
+ 
+• Periodic mock fire evacuation drills are conducted which helps personal to respond to any fire that can occur in the premises
+ 
+• While potable water is used for drinking purpose, periodic testing of water of overhead tanks and underground tanks is also carried out
+ 
+• Upkeep of the office areas is maintained thereby providing a clean and hygienic office environment to the employees and other staff of the 
+company
+	
+b. 	 What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by the entity?
+	
+We try and identify work related hazards through regular inspections. We regularly visually assess office areas, electrical equipments and any 
+other potential hazard which may be harmful to our employees. Additionally, we carry out third party assessment of fire and electrical equipments 
+as a precautionary measure.
+	
+c.	  Whether you have processes for workers to report the work-related hazards and to remove themselves from such risks. (Y/N)
+	
+	
+Not applicable
+	
+d. 	 Do the employees/ worker of the entity have access to non-occupational medical and healthcare services? (Yes/ No)
+	
+	
+Yes. All our employees are covered under medical insurance.
+11. 	Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category
+2022-2023
+2021-2022
+Lost Time Injury Frequency Rate (LTIFR) (per one million-person hours worked)
+Employees
+Nil
+Nil
+Workers
+NA
+NA
+Total recordable work-related injuries
+Employees
+Nil
+Nil
+Workers
+NA
+NA
+No. of fatalities
+Employees
+Nil
+Nil
+Workers
+NA
+NA
+High consequence work-related injury or ill-health (excluding fatalities)
+Employees
+Nil
+Nil
+Workers
+NA
+NA
+12.	Describe the measures taken by the entity to ensure a safe and healthy workplace.
+	
+Following measures are taken to ensure a safe and healthy workplace
+ 
+• Smoke detectors and Fire Alarm systems are installed in the premises
+ 
+• Periodic mock fire drills are conducted which helps personal to respond to any fire that can occur in the premises
+• Fire & First-aid Marshals have been deployed on each floor. These marshals have been given basic training to provide first hand response for 
+incidents like Fire, Emergency evacuation, Cardiac arrest etc.
+129
+ANNUAL REPORT
+2022-2023
+129
+• Fire Exit signages are fixed at various locations on each floor which serves as a guide during emergency evacuation
+• Fire extinguishers are placed on each floor so that they can be effectively used incase of emergency
+• Automated External Defibrillator training is provided to employees.
+• Emergency contact nos like BSE Fire Department, BSE Security, Ambulance, Nearest hospital, Blood Bank etc are displayed on each floor at 
+prominent locations
+• We have a primary dedicated medical centre in our office building. Medical treatment at this centre is provided free of cost to BSE and its group 
+company employees and its contractual staff
+• Frequent checks of equipment’s like Air Conditioners, DG sets, Chillers etc are carried out to mitigate any wear and tear due to continued use
+• All persons visiting BSE premises are mandated to enter through DFMD and frisked through HHMD by Security personal on duty and their 
+belongings are thoroughly scanned through X-ray baggage scanner machines while entering in BSE premises
+• Smoke extract fan & Public Announcement (PA) system are checked at regular intervals
+• Cleanliness and Hygiene is maintained to avoid slips, trips and fall accidents
+13.	Number of Complaints on the following made by employees and workers:
+FY 2022-2023
+FY 2021-2022
+Filed during the 
+year
+Pending resolution at 
+the end of year
+Remarks
+Filed during 
+the year
+Pending resolution at the 
+end of year
+Remarks
+Working Conditions
+ 3,685
+ -
+ -
+ 2,437
+ -
+ -
+Health & Safety
+ -
+ -
+ -
+ -
+ -
+ -
+	
+The above count includes complaints made by employees of group companies, contractual staff and other occupants of the building
+14. 	Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory authorities or third parties)
+Health and safety practices
+100
+Working Conditions
+100
+	
+Third party assessment is carried out for P.J. Towers, Mumbai by M/S. Quality Certification Services for Working Conditions and by M/S. PwC for Safety 
+practices being primary centre for exchange operations. The offices located outside Mumbai are Investor Service Centres with minimal manpower and 
+infrastructure. Thus, the assessment for these offices is carried out by the entity itself.
+15. Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant risks / 
+concerns arising from assessments of health & safety practices and working conditions.
+1.	 New software has been recently installed, to verify and recover the data at shorter duration to rescue the occupants of building during emergency 
+evacuation operation.
+2.	 More than 200 cameras are installed in BSE premises for safety of its employees, contractual staff, other occupants of the building and visitors.
+130
+Business Responsibility & Sustainability Report
+130
+ANNUAL REPORT
+2022-2023
+Leadership Indicators
+1. 	 Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees (Y/N) (B) Workers 
+(Y/N).
+	
+Employees - Yes
+	
+Workers – Not applicable
+2.	 Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by the value chain 
+partners.
+	
+Company ensures statutory dues like Provident Fund, ESIC etc are deducted by the value chain partners and deposited with the relevant authorities. 
+We have personal from Human Resource and Internal Audit Department who ensures all such dues have been paid by the vendor(s). Payment 
+acknowledgement receipts are also verified by BSE.
+3.	 Provide the number of employees / workers having suffered high consequence work-related injury / ill-health / fatalities (as reported 
+in Q11 of Essential Indicators above), who have been are rehabilitated and placed in suitable employment or whose family members 
+have been placed in suitable employment:
+Total no. of affected employees/ workers
+No. of employees/workers that are rehabilitated 
+and placed in suitable employment or whose family 
+members have been placed in suitable employment
+FY 2022-2023
+FY 2021-2022
+FY 2022-2023
+FY 2021-2022
+Employees
+0
+0
+0
+0
+Workers
+NA
+NA
+NA
+NA
+4.	 Does the entity provide transition assistance programs to facilitate continued employability and the management of career endings 
+resulting from retirement or termination of employment? (Yes/ No)
+	
+No
+5.	 Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such partners) that were assessed
+Health and safety practices
+NA
+Working Conditions
+NA
+	
+Given the nature of company’s business, its value chain partners are limited to supplying equipment’s & manpower required for running its business 
+operations. General assessment of value chain partners is carried out while onboarding them. Company does not carry out assessment with respect 
+to health and safety and working conditions of value chain partners offices, factories etc. However, company expects its value chain partners to follow 
+all Health & Safety related guidelines issued by local authorities from time to time.
+6.	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from assessments of 
+health and safety practices and working conditions of value chain partners.
+	
+Not applicable
+131
+ANNUAL REPORT
+2022-2023
+PRINCIPLE 4:
+Businesses should respect the interests of and be responsive to all its stakeholders
+Essential Indicators
+1. 	 Describe the processes for identifying key stakeholder groups of the entity.
+	
+The process of identification of key stakeholders is based on the significance of each stake holder on the business activities of BSE. The key 
+stakeholders identified by BSE are:
+ 
+• Shareholders
+ 
+• Investors (investing in BSE listed companies)
+ 
+• Customers
+ 
+• Regulators
+ 
+• Employees
+ 
+• Business & Channel Partners
+2. 	 List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/No)
+Channels 
+of 
+communication
+(Email, 
+SMS, 
+Newspaper, 
+Pamphlets, 
+Advertisement, 
+Community Meetings, Notice 
+Board, Website), Other
+Frequency of 
+engagement
+(Annually/ Half 
+yearly/ Quarterly 
+/ others – please 
+specify)
+Purpose and scope of engagement including 
+key topics and concerns raised during such 
+engagement’
+Shareholders
+No
+Annual/Quarterly Reports, Investor 
+Calls, Filing with Stock Exchange, 
+Annual General meeting, Email, 
+SMS, Newspaper advertisement, 
+Website, Media releases etc
+Ongoing
+Announcement of Quarterly & Annual results, Board 
+Meeting intimation and outcome, Other company 
+disclosures, Present key business performance 
+highlights etc
+Investors 
+(Investing in 
+BSE Listed 
+Companies)
+ No
+Help 
+Desk, 
+Emails, 
+Website, 
+Notices, Media release, Newspaper 
+advertisement
+Ongoing
+Share Price, Financial Analytics, Announcement of 
+Quarterly & Annual results, Board Meeting intimation 
+and outcome, Other company disclosures etc
+ Members
+ No
+ Relationship Managers, Help Desk, 
+Emails, Direct Contact, Website, 
+Notices, Media releases, SMS, 
+Newspaper advertisement
+Ongoing
+Information on various services offered by the 
+company, Addressing grievances, Communication 
+on new products/services, Share Price, Financial 
+Analytics etc
+Regulators
+No
+Emails, Physical & Virtual Meetings, 
+Notices, Media releases
+Ongoing
+Regulatory 
+inspections, Audits, 
+queries 
+and 
+discussions with respect to various regulations
+Employees
+No
+Intranet, Emails, Direct Contact, 
+Leadership programs, Employee 
+engagement programs, SMS, Calls, 
+Website
+Ongoing
+Knowledge sharing, Training, Induction programs, 
+seeking feedback, Programs on skill development, 
+health and wellness, Fire & safety etc, Celebration of 
+various festivals and events etc.
+Business & 
+Channel Partners
+No
+Emails, Direct Contact, SMS, Calls, 
+Website
+Ongoing
+Training, Induction, Program on skill development, 
+health and wellness, Fire & safety etc, Celebration of 
+various festivals and events etc.
+132
+Business Responsibility & Sustainability Report
+Leadership Indicators
+1.	 Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social topics or if 
+consultation is delegated, how is feedback from such consultations provided to the Board.
+	
+The shareholders can ask questions to the Management and Board related to any aspect of the company like financials, future growth plans, 
+operations of the company etc.
+	
+Investor calls are conducted after announcement of quarterly results to address queries/concerns of the investors.
+	
+Company has CSR & ESG committee which assists Board in fulfilling its commitment towards society on environment and social front.
+2. 	 Whether stakeholder consultation is used to support the identification and management of environmental, and social topics (Yes 
+/ No). If so, provide details of instances as to how the inputs received from stakeholders on these topics were incorporated into 
+policies and activities of the entity.
+	
+Yes. Stakeholder consultation is sought and implemented in various policies and processes of the company wherever feasible.
+3. 	 Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ marginalized stakeholder 
+groups.
+	
+The company does not have any vulnerable/ marginalized stakeholder group except for CSR beneficiaries.
+PRINCIPLE 5:
+Businesses should respect and promote human rights
+Essential Indicators
+1.	 Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the following format
+Category
+FY 2022-2023
+FY 2021-2022
+Total (A)
+No. of employees / 
+workers covered (B)
+% (B / A)
+Total (C )
+No. of employees / 
+workers covered (D)
+% (D / C)
+Employees
+Permanent
+498
+120
+24
+0
+0
+0
+Other than permanent
+0
+0
+0
+0
+0
+0
+Total Employees
+498
+120
+24
+0
+0
+0
+Workers
+Permanent
+NA
+NA
+NA
+NA
+NA
+NA
+Other than permanent
+NA
+NA
+NA
+NA
+NA
+NA
+Total Workers
+NA
+NA
+NA
+NA
+NA
+NA
+133
+ANNUAL REPORT
+2022-2023
+2.	 Details of minimum wages paid to employees and workers, in the following format:
+Category
+FY 2022-2023
+FY 2021-2022
+Total (A)
+Equal to Minimum 
+Wage
+More than Minimum 
+Wage
+Total (D)
+Equal to Minimum 
+Wage
+More than Minimum 
+Wage
+No. (B)
+% (B / A)
+No. (C )
+% (C / A)
+No. (E)
+% (E / D)
+No. (F )
+% (F / D)
+Employees
+Permanent
+498
+0
+0
+498
+100
+485
+0
+0
+485
+100
+Male
+361
+0
+0
+361
+100
+346
+0
+0
+346
+100
+Female
+137
+0
+0
+137
+100
+139
+0
+0
+139
+100
+Other than permanent
+573
+216
+38
+357
+62
+546
+164
+30
+382
+70
+Male
+451
+176
+39
+275
+61
+431
+133
+31
+298
+69
+Female
+122
+40
+33
+82
+67
+115
+31
+27
+79
+69
+Workers
+Permanent
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Other than permanent
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+3.	 Details of remuneration/salary/wages, in the following format:
+Male
+Female
+Number
+Median remuneration/ salary/ 
+wages of respective category
+Number
+Median remuneration/ salary/ 
+wages of respective category
+Board of Directors (BoD)
+ 7
+ 28,30,000
+ 2
+ 15,45,000
+Key Managerial Personnel
+ 24
+ 1,15,42,018
+ 4
+ 1,13,39,575
+Employees other than BoD and KMP
+ 238
+ 15,83,458
+ 124
+ 12,09,118
+Workers
+NA
+NA
+NA
+NA
+4. 	 Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused or contributed 
+to by the business? (Yes/No)
+	
+Yes. BSE’s Human Resource Department is responsible for addressing Human Rights issues caused or contributed by the business within the 
+company. CSR & ESG committee is responsible for addressing Human Rights issues arising outside company.
+5. 	 Describe the internal mechanisms in place to redress grievances related to human rights issues
+	
+Company ensures ethical business and employment practices are followed. BSE has incorporated topics related to Human Rights in its induction 
+program thereby giving insights on core human values to all its new joinees. Additionally, BSE has several policies related to human Rights such as 
+Antisexual Harassment Policy, Human Rights Policy, Grievance redressal mechanism etc to address Human Rights of its employees and contractual 
+staff.
+134
+Business Responsibility & Sustainability Report
+6. 	 Number of Complaints on the following made by employees and workers:
+FY 2022-2023
+FY 2021-2022
+Filed during the 
+year
+Pending resolution 
+at the end of year
+Remarks
+Filed during the 
+year
+Pending resolution 
+at the end of year
+Remarks
+Sexual Harassment
+0
+0
+-
+0
+0
+-
+Discrimination at workplace
+0
+0
+-
+0
+0
+-
+Child Labour
+0
+0
+-
+0
+0
+-
+Forced Labour/Involuntary Labour
+0
+0
+-
+0
+0
+-
+Wages
+0
+0
+-
+0
+0
+-
+Other human rights related issues
+0
+0
+-
+0
+0
+-
+7.	 Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	
+Utmost care and confidentiality are maintained in matters / complaints pertaining to harassment and discrimination. Adequate measures are provided 
+to the complainant who raises concern/disclosure under the whistle blower policy OR Sexual harassment policy.
+8. 	 Do human rights requirements form part of your business agreements and contracts?
+	
+Yes
+9.	 Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory authorities or third parties)
+Child labour
+100
+Forced/involuntary labour
+100
+Sexual harassment
+100
+Discrimination at workplace
+100
+Wages
+100
+Others – please specify
+NA
+10. 	Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments at 
+Question 9 above.
+	
+Not applicable
+Leadership Indicators
+1. 	 Details of a business process being modified / introduced as a result of addressing human rights grievances/complaints.
+	
+Not applicable
+2.	 Details of the scope and coverage of any Human rights due-diligence conducted.
+	
+Not applicable
+3.	 Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of Persons with 
+Disabilities Act, 2016?
+	
+Yes. Our office building is accessible to differently abled employees and visitors. Ramps are built at the entrance gates for better accessibility. 
+Wheelchair is also available for movement of differently abled employees and visitors.
+135
+ANNUAL REPORT
+2022-2023
+4. 	 Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such partners) that were assessed
+Sexual harassment
+100
+Discrimination at workplace
+100
+Child labour
+100
+Forced/involuntary labour
+100
+Wages
+100
+Others – please specify
+100
+	
+Assessment is done by the entity for contractual staff deployed in the company’s premises
+5. 	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments at 
+Question 4 above.
+	
+Not applicable
+PRINCIPLE 6:
+Businesses should respect and make efforts to protect and restore the environment
+Essential Indicators
+1.	 Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+FY 2022-2023
+FY 2021-2022
+Total electricity consumption (A)
+1,34,28,747 – KWH 
+4,83,43,48,92,00,000- Joules
+67,16,157 – KWH 
+2,41,78,16,52,00,000 – Joules
+Total fuel consumption (B)
+Nil
+Nil
+Energy consumption through other sources (C )
+Nil
+Nil
+Total energy consumption (A+B+C)
+1,34,28,747 – KWH 
+4,83,43,48,92,00,000- Joules
+67,16,157 – KWH 
+2,41,78,16,52,00,000 – Joules
+Energy 
+intensity 
+per 
+rupee 
+of 
+turnover
+(Total energy consumption/ turnover in rupees)
+8,063
+3,983
+Energy intensity (optional) – the relevant metric may be 
+selected by the entity
+-
+-
+	
+Independent assessment was carried out by M/s. Quality Certification Services
+2. 	 Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve and Trade (PAT) 
+Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme have been achieved. In case 
+targets have not been achieved, provide the remedial action taken, if any.
+	
+Not applicable
+3. 	 Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 2022-2023
+FY 2021-2022
+Water withdrawal by source (in kilolitres)
+Nil
+Nil
+(i) 	 Surface water
+Nil
+Nil
+(ii) 	 Groundwater
+Nil
+Nil
+136
+Business Responsibility & Sustainability Report
+Parameter
+FY 2022-2023
+FY 2021-2022
+(iii) 	Third party water (in kilolitres)
+Nil
+30
+(iv) 	Seawater / desalinated water
+Nil
+Nil
+(v) 	 Others MCGM & Bottled Water (in kilolitres)
+27,270
+22,970
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+ 27,270
+ 22,970
+Total volume of water consumption (in kilolitres)
+ 27,270
+ 23,000
+Water intensity per rupee of turnover (Water consumed / turnover)
+0.0045482
+0.0037893
+Water intensity (optional) – the relevant metric may be selected by the entity
+-
+-
+	
+Independent assessment was carried out by M/s. Quality Certification Services
+4. 	 Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and implementation.
+	
+No
+5.	 Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please specify unit
+FY 2022-2023
+FY 2021-2022
+Nox
+mg/m3
+9
+Not measured
+Sox
+mg/m3
+6
+Not measured
+Particulate matter (PM) (PM10)
+mg/m3
+14
+Not measured
+Particulate matter (PM) (PM 2.5)
+mg/m3
+24
+Not measured
+Persistent organic pollutants (POP)
+-
+ND
+Not measured
+Volatile organic compounds (VOC)
+-
+ND
+Not measured
+Hazardous air pollutants (HAP)
+-
+ND
+Not measured
+Others – please specify
+-
+-
+-
+	
+Independent assessment was carried out by M/s. Quality Certification Services
+6.	 Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+Parameter
+Unit
+FY 2022-2023
+FY 2021-2022
+Total Scope 1 emissions (Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of CO2 
+equivalent
+Nil
+Nil
+Total Scope 2 emissions (Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of CO2 
+equivalent
+4,982
+2,491
+Total Scope 1 and Scope 2 emissions per rupee of turnover
+0.000831
+0.000411
+Total Scope 1 and Scope 2 emission intensity (optional) – the 
+relevant metric may be selected by the entity
+-
+-
+	
+Independent assessment was carried out by M/s. Quality Certification Services
+7.	 Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details.
+	
+No.
+137
+ANNUAL REPORT
+2022-2023
+8.	 Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2022-2023
+FY 2021-2022
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+0.28
+0.08
+E-waste (B)
+0.00
+22.48
+Battery waste (E )
+0.00
+0.00
+Radioactive waste (F)
+0.00
+0.00
+Other Hazardous waste. Please specify, if any. (G)
+0.00
+0.00
+Other Non-hazardous waste generated (H). Please specify, if any. (Break-up by composition i.e. 
+by materials relevant to the sector)
+0.38
+0.00
+Total (A+B + C + D + E + F + G + H)
+0.66
+22.56
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations (in metric 
+tonnes)
+Category of waste
+(i)	 Recycled
+	
+PET Bottles
+0.28
+0.08
+	
+Paper Waste
+0.38
+0
+	
+E waste
+0
+22.48
+(ii)	 Re-used
+0
+0
+(iii)	 Other recovery operations
+0
+0
+Total
+0.66
+22.56
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i)	 Incineration
+0
+0
+(ii)	 Landfilling
+0
+0
+(iii)	 Other disposal operations
+0
+0
+Total
+0
+0
+	
+Independent assessment was carried out by M/s. Quality Certification Services
+9.	 Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by your company 
+to reduce usage of hazardous and toxic chemicals in your products and processes and the practices adopted to manage such 
+wastes.
+	
+Our waste consists of E-Waste, used paper and onetime use plastic water bottle waste.
+	
+E-Waste is sent for recycling to authorised recycler. Used plastic water bottles and used paper waste is also sent for recycling to authorised recycler.
+	
+Digitization of processes to the extent possible is carried out to reduce use of paper. BSE has also introduced Corporate Announcement Filing System 
+(CAFS) to the equity listed companies. This is paperless submission. BSE has also introduced digital filing and document submission to minimize use 
+of paper.
+138
+Business Responsibility & Sustainability Report
+10.	If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, biosphere 
+reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals / clearances are 
+required, please specify details in the following format:
+	
+Not applicable
+11.	Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the current financial 
+year:
+	
+Not applicable
+12.	Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water (Prevention and 
+Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and rules thereunder (Y/N). If not, 
+provide details of all such non-compliances, in the following format:
+	
+Not applicable
+Leadership Indicators
+1.	 Provide break-up of the total energy consumed (in Joules or multiples) from renewable and non-renewable sources, in the following 
+format:
+Parameter
+FY 2022-2023
+FY 2021-2022
+From renewable sources
+Total electricity consumption (A)
+Nil
+Nil
+Total fuel consumption (B)
+Nil
+Nil
+Energy consumption through other sources (C )
+Nil
+Nil
+Total energy consumed from renewable sources (A+B+C)
+Nil
+Nil
+From non-renewable sources
+Total electricity consumption (D)
+1,34,28,747 – KWH 
+4,83,43,48,92,00,000- 
+Joules
+67,16,157 – KWH 
+2,41,78,16,52,00,000 
+– Joules
+Total fuel consumption (E )
+Nil
+Nil
+Energy consumption through other sources (F)
+Nil
+Nil
+Total energy consumed from non-renewable sources (D+E+F)
+1,34,28,747 – KWH
+4,83,43,48,92,00,000- 
+Joules
+67,16,157 – KWH
+ 2,41,78,16,52,00,000 
+– Joules
+	
+Independent assessment was carried out by M/s. Quality Certification Services
+2. 	 Provide the following details related to water discharged:
+Parameter
+FY 2022-2023
+FY 2021-2022
+Water discharge by destination and level of treatment (in kilolitres)
+-
+-
+(i) 	 To Surface water
+-
+-
+	
+No treatment
+-
+-
+	
+With treatment – please specify level of treatment
+-
+-
+(ii) 	 To Groundwater
+-
+-
+	
+No treatment
+-
+-
+	
+With treatment – please specify level of treatment
+-
+-
+139
+ANNUAL REPORT
+2022-2023
+Parameter
+FY 2022-2023
+FY 2021-2022
+(iii) 	To Seawater
+-
+-
+	
+No treatment (Via Municipality Drain) (Mainly Washing & Flushing Water)
+Approximately 80% of 
+the water consumed 
+by the company is 
+discharged in the 
+Municipal drain which 
+finally is let out by the 
+Municipal corporation in 
+the sea.
+Approximately 80% of 
+the water consumed 
+by the company is 
+discharged in the 
+Municipal drain which 
+finally is let out by the 
+Municipal corporation in 
+the sea.
+	
+With treatment – please specify level of treatment
+-
+-
+(iv) 	Sent to third-parties
+-
+-
+	
+No treatment
+-
+-
+	
+With treatment – please specify level of treatment
+-
+-
+(v) 	 Others
+-
+-
+	
+No treatment
+-
+-
+	
+With treatment – please specify level of treatment
+-
+-
+Total water discharged (in kilolitres)
+-
+-
+	
+Independent assessment was carried out by M/s. Quality Certification Services
+3. 	 Water withdrawal, consumption and discharge in areas of water stress (in kilolitres):
+	
+For each facility / plant located in areas of water stress, provide the following information:
+	
+	
+Not applicable
+4. 	 Please provide details of total Scope 3 emissions & its intensity, in the following format:
+	
+Not available
+5. 	 With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide details of significant 
+direct & indirect impact of the entity on biodiversity in such areas along-with prevention and remediation activities.
+	
+No adverse impact to the environment is caused by the entity
+140
+Business Responsibility & Sustainability Report
+6.	 If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource efficiency, or 
+reduce impact due to emissions / effluent discharge / waste generated, please provide details of the same as well as outcome of 
+such initiatives, as per the following format:
+Sr. 
+No.
+Initiative undertaken
+Details of the initiative (Web-link, if any, may be provided along-
+with summary)
+Outcome of the initiative
+1.
+Replacement 
+of 
+existing 
+lights with LED lights
+We regularly replace high energy consuming electrical equipment with 
+modern efficient devices such as replacing the induction ballasts with 
+electronic ballasts and the fluorescent lights with LED lights.
+Saving 
+on 
+electricity 
+consumption
+2.
+Waterless Urinals
+We have installed waterless urinals at certain floors which has helped 
+save around 55,000 litres of water per month
+Around 55,000 litres of 
+water saved per month
+3.
+Sensor based taps
+Sensor taps are installed on certain floors thereby resulting in water 
+saving
+Water saving is done.
+4.
+Recycling of plastic bottles
+Used plastic water bottles are sent for recycling
+Plastic is recycled instead of 
+adding to landfills.
+5.
+Sensor based lights
+Motion sensors are fitted in certain washrooms thereby automatically 
+switching off the lights when the washrooms are not in use
+Saving 
+on 
+electricity 
+consumption
+7. 	 Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link.
+	
+BSE provides an efficient and transparent market for trading in equity, debt instruments, derivatives, mutual funds. BSE provides a host of other 
+services to capital market participants including risk management, clearing, settlement, market data services and education. It has a global reach with 
+customers around the world and a nation-wide presence. BSE systems and processes are designed to safeguard market integrity, drive the growth of 
+the Indian capital market and stimulate innovation and competition across all market segments. The exchange products include currency, derivatives 
+and equity, data-feed and indexes.
+	
+BSE has been identified as critical infrastructure by National Critical Information Infrastructure Protection Centre (NCIIPC). In the event of disruption 
+of any one or more of the ‘Critical Systems’ the BSE shall, within 30 minutes of the incident, declare that incident as ‘Disaster’ and take measures to 
+restore operations including from DRS within 45 minutes of the declaration of ‘Disaster’.
+	
+Various Policies, Procedures & Scope documents related to Business Continuity Plan are available on the company’s intranet portal.
+	
+The Policies and Procedures are based on regulatory requirements (SEBI) best practices in market and international standards.
+	
+Policies, Procedures & Scope documents related to Business Continuity Plan are made available on the company’s intranet portal for reference to 
+employee and vendor staff.
+	
+Periodic Trainings with quiz are conducted on various topic related to Business Continuity and Disaster Recovery
+	
+The Business continuity and Disaster recovery of BSE is independently audited basis regulatory requirements and terms of reference.
+	
+BSE has also been awarded ISO 22301 : 2019 (International Standard Organization Business Continuity Management System) Certification
+8. 	 Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation or adaptation 
+measures have been taken by the entity in this regard.
+	
+BSE’s services are virtual in nature. The various equipment used by BSE are limited to running its operations. There is no direct adverse impact to the 
+environment, arising from the value chain of the entity.
+9. 	 Percentage of value chain partners (by value of business done with such partners) that were assessed for environmental impacts.
+	
+Not applicable
+141
+ANNUAL REPORT
+2022-2023
+PRINCIPLE 7:
+Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is responsible and transparent
+Essential Indicators
+1.	 a.	 Number of affiliations with trade and industry chambers/ associations.
+	
+	
+BSE was a member with eleven (11) trade and industry chambers/ associations.
+b. 	 List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) the entity is a 
+member of/ affiliated to.
+S. 
+No.
+Name of the trade and industry chambers/ associations
+Reach of trade and industry chambers/ associations
+(State/National)
+1
+Asia Society India Centre
+National
+2
+The Council of EU Chambers of Commerce in India
+National
+3
+Federation of Indian Chambers of Commerce and Industry
+National
+4
+Assocham
+National
+5
+Chamber of Commerce and Industry (IMC)
+National
+6
+Bombay Management Association (BMA)
+National
+7
+The Press Club
+National
+8
+Indian Banks Association
+National
+9
+Bombay Chamber of Commerce & Industry
+National
+10
+Indo-German Chamber of Commerce
+National
+2. 	 Provide details of corrective action taken or underway on any issues related to anti- competitive conduct by the entity, based on 
+adverse orders from regulatory authorities
+	
+Nil
+Leadership Indicators
+1. 	 Details of public policy positions advocated by the entity:
+	
+Nil
+PRINCIPLE 8:
+Businesses should promote inclusive growth and equitable development
+Essential Indicators
+1. 	 Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the current financial 
+year.
+	
+Not applicable
+2. 	 Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your entity, in the 
+following format:
+	
+Not applicable
+3. 	 Describe the mechanisms to receive and redress grievances of the community.
+	
+Not applicable
+142
+Business Responsibility & Sustainability Report
+4. 	 Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+	
+Not applicable
+Leadership Indicators
+1.	 Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments (Reference: 
+Question 1 of Essential Indicators above):
+	
+Not applicable
+2. 	 Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as identified by 
+government bodies:
+	
+Nil
+3. 	 (a) 	Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising marginalized /
+vulnerable groups? (Yes/No)
+	
+	
+The resources used at BSE is limited to running its operations. Equal opportunity is provided to all our vendors.
+	
+(b) 	From which marginalized /vulnerable groups do you procure?
+	
+	
+Not applicable
+	
+(c) 	What percentage of total procurement (by value) does it constitute?
+	
+	
+Not applicable
+4. 	 Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the current financial 
+year), based on traditional knowledge:
+	
+Not applicable
+5.	 Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes wherein usage 
+of traditional knowledge is involved.
+	
+Not applicable
+6.	 Details of beneficiaries of CSR Projects:
+S. 
+No.
+CSR Project
+No. of persons benefitted from CSR Projects
+% of beneficiaries from vulnerable and 
+marginalized groups
+1
+ORGAN India - Parashar Foundation 
+towards 24x7 Helpline
+1,156
+Not ascertainable
+2
+Prime Minister’s National Relief Fund
+Public at large
+Not ascertainable
+143
+ANNUAL REPORT
+2022-2023
+PRINCIPLE 9:
+Businesses should engage with and provide value to their consumers in a responsible manner
+Essential Indicators
+1. 	 Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+The consumers of the company and mechanisms in place to receive and respond to their complaints are as follows:
+	
+Investors
+	
+Exchange provides various services to investors electronically through its online platform and physically through the dedicated investor service centres 
+set for this purpose.
+	
+Complaints can be logged by investors against Trading Members and Listed companies.
+	
+A detailed investor grievance charter is available on the below weblink
+	
+https://www.bseindia.com/static/investors/investor_charter.aspx
+	
+Members
+	
+A dedicated help line is provided for addressing any issues faced by the broker members. Members can also refer below link for online complaint 
+resolution
+	
+https://www.bseindia.com/members/index.aspx
+	
+Companies listed on BSE platform
+	
+The companies listed on BSE platform can raise their grievances with their respective relationship manager through email OR over phone call. The 
+relationship manager will try and resolve the complaint individually or through respective department of the company.
+	
+Data Vendors
+	
+The data vendors can reach out to Information Products (data feed) team through Email / Phone call for any queries/issues. Data feed team is 
+responsible for addressing the client queries/issues.
+2. 	 Turnover of products and/ services as a percentage of turnover from all products/service that carry information about:
+	
+Not applicable
+3.	 Number of consumer complaints in respect of the following:
+FY 2022-2023
+Remarks
+FY 2021-2022
+Remarks
+Received during 
+the year
+Pending resolution 
+at end of year
+Received during 
+the year
+Pending resolution 
+at end of year
+Data privacy
+Nil
+Nil
+-
+Nil
+Nil
+-
+Advertising
+Nil
+Nil
+-
+Nil
+Nil
+-
+Cyber-security
+Nil
+Nil
+-
+Nil
+Nil
+-
+Delivery of essential services
+Nil
+Nil
+-
+Nil
+Nil
+-
+Restrictive Trade Practices
+Nil
+Nil
+-
+Nil
+Nil
+-
+Unfair Trade Practices
+Nil
+Nil
+-
+Nil
+Nil
+-
+Other
+Nil
+Nil
+-
+Nil
+Nil
+-
+144
+Business Responsibility & Sustainability Report
+4.	 Details of instances of product recalls on account of safety issues:
+	
+Not applicable
+5. 	 Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, provide a web-link 
+of the policy.
+	
+Yes. BSE has policy on cyber security, cyber risks related to data privacy. The same is available on the internal portal of the organization.
+6.	 Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential services; 
+cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action taken by regulatory 
+authorities on safety of products / services.
+	
+Not applicable
+Leadership Indicators
+1. 	 Channels / platforms where information on products and services of the entity can be accessed (provide web link, if available).
+	
+The information on the products and services offered by BSE is available on our website www.bseindia.com
+2.	 Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.
+	
+BSE has set up an Investor Protection Fund (IPF) to meet the claims of investors against defaulter Members, in accordance with the Guidelines issued 
+by the Ministry of Finance, Government of India. BSE Investor Protection Fund is responsible for creating Capital markets related awareness among 
+the investor community in India. BSE IPF regularly runs investor awareness campaigns through various channels like television, print media, social 
+media etc.
+	
+Regional seminars on investor education for general investors are conducted on regular basis through our network of trained Resource Persons as 
+well as in collaboration with SEBI and CDSL, wherever possible in the local language of that area.
+	
+BSE recognises college and university students as the future potential investors. BSE goes a step ahead by conducting investor awareness programs 
+for college and university students whereby students are educated on financial literacy, potential risks and precautionary measures to be taken while 
+dealing in capital markets etc.
+3.	 Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.
+	
+The Exchange as part of its policy is required to inform market participants availing the essential services i.e dealing on the platforms of the Exchange; 
+any disruption of these services.
+	
+Therefore, in the event of occurrence of such disruption, Exchange broadcast message immediately through ticker/SMS/Emails to its participants and 
+by publishing on the BSE’s website.
+4. 	 Does the entity display product information on the product over and above what is mandated as per local laws? (Yes/No/Not 
+Applicable) If yes, provide details in brief. Did your entity carry out any survey with regard to consumer satisfaction relating to the 
+major products / services of the entity, significant locations of operation of the entity or the entity as a whole? (Yes/No)
+	
+Not applicable
+5.	  Provide the following information relating to data breaches:
+	
+a. 	 Number of instances of data breaches along-with impact
+	
+	
+Nil
+	
+b.	 Percentage of data breaches involving personally identifiable information of customers
+	
+	
+Nil

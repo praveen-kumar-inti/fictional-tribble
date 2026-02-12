@@ -1,0 +1,2885 @@
+ 
+AXISCADES Technologies Limited 
+(Formerly AXISCADES Engineering Technologies Limited) 
+CIN No.: L72200KA1990PLC084435 
+ 
+Reg. Office: Block C, Second Floor, Kirloskar Business Park, Bengaluru - 60024, Karnataka, INDIA 
+Ph: +91 80 4193 9000 | Fax: +91 80 4193 9099 | Email: info@axiscades.com | www.axiscades.com 
+ 
+September 06, 2023 
+ 
+The Manager  
+ 
+ 
+ 
+ Listing Department 
+Dppt. of Corporate Services  
+ 
+ The National Stock Exchange of India Limited 
+BSE Limited 
+ 
+ 
+ 
+ 
+ Exchange Plaza, 5 Floor, Plot C/1, G Block 
+Phirozee Jeejeebhoy Tower, Dalal Street 
+ Bandra – Kurla Complex, Bandra(E), 
+Mumbai 400 001 
+ 
+ 
+ 
+ Mumbai 400 051 
+BSE Scrip Code: 532395 
+ 
+ 
+ NSE Symbol: AXISCADES 
+ 
+Dear Sir/Madam, 
+ 
+Sub.: Submission of Business Responsibility and Sustainability Report for FY 2022-23 
+ 
+ 
+Pursuant to Regulation 34(2)(f) of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, please find enclosed the Business Responsibility and Sustainability Report 
+for FY 2022-23, which also forms part of the Annual Report for FY 2022-23. 
+ 
+Kindly take the above information on record. 
+ 
+Yours faithfully, 
+For AXISCADES Technologies Limited 
+ 
+ 
+ 
+Sonal Dudani 
+Company Secretary & Compliance Officer 
+ 
+Encl: A/a 
+ 
+ 
+SONAL 
+KISHORE 
+DUDANI
+Digitally signed by 
+SONAL KISHORE 
+DUDANI 
+Date: 2023.09.06 
+14:36:09 +05'30'
+1
+Annexure X
+Business Responsibility & Sustainability Report
+Section A) General Disclosures 
+I.	
+Details of the listed entity
+1.
+Corporate Identity Number (CIN) of the Listed Entity
+L72200KA1990PLC084435
+2.
+Name of the Listed Entity
+AXISCADES Technologies Limited
+3.
+Year of incorporation
+24-08-1990
+4.
+Registered office address
+Block C, Second Floor, Kirloskar Business Park, Bengaluru 
+560024
+5.
+Corporate address
+Block C, Second Floor, Kirloskar Business Park, Bengaluru 
+560024
+6.
+E-mail
+info@axiscades.com
+7.
+Telephone
++91 80 4193 9000
+8.
+Website
+www.axiscades.com
+9.
+Financial year for which reporting is being done
+2022-23
+10.
+Name of the Stock Exchange(s) where shares are listed
+National Stock Exchange of India Limited and BSE Limited
+11.
+Paid-up Capital
+` 19,09,96,550/-
+12.
+Name and contact details (telephone, email address) of the 
+person who may be contacted in case of any queries on the 
+BRSR report
+Ms. Sonal Dudani, Telephone: +91 80 4193 9000 and 
+email address: secretary@axiscades.com
+13.
+Reporting boundary - Are the disclosures under this report 
+made on a standalone basis (i.e. only for the entity) or on 
+a consolidated basis (i.e. for the entity and all the entities 
+which form a part of its consolidated financial statements, 
+taken together)
+The disclosures under this report are made on a standalone 
+basis.
+II.	
+Product & Services
+14.	 Details of business activities (accounting for 90% of the turnover):
+S No
+Description of 
+Main Activity 
+Description of Business Activity 
+% of turnover 
+of the entity 
+1
+Technology services 
+and solutions
+Provide engineering and technology solutions and services to top tier OEM’s 
+and reknown brands in aerospace, heavy engineering, automotive and 
+energy sectors. Segment also includes semiconductor business in the form of 
+programming tools, processors / micro processors, memory devices etc. along 
+with other embedded engineering services and platforms that allow customers 
+to realize their product and business vision in a short time frame.
+100%
+15.	 Products/Services sold by the entity (accounting for 90% of the entity’s turnover):
+S No
+Product /Service
+NIC Code 
+% of the total turnover contributed  
+1
+Technology services and solutions and strategic technology 
+Solutions
+620
+100
+2
+III.	
+Operations 
+16.	 Number of locations where plants and/or operations/offices of the entity are situated 
+Location 
+Number of Plants 
+Number of Offices  
+Total  
+National 
+0
+5
+5
+International 
+0
+7
+7
+17.	 Markets served by the entity:
+a.	
+Number of Locations 
+Locations 
+Number 
+National ( No of States)
+4
+International ( No of Countries ) 
+3
+b.	
+What is the contribution of exports as a percentage of the total turnover of the entity? 
+	
+73.73%
+c. 	
+A brief on types of customers 
+	
+AXISCADES is a leading, end to end technology and engineering solutions provider aiding creation of innovative, 
+sustainable and safer products worldwide. The company offers Product Engineering Solutions across Embedded 
+Software and Hardware, Digitization and Automation, Mechanical Engineering, System Integration, Test Solutions, 
+Manufacturing Engineering, Technical Publications, and Aftermarket Solutions.
+	
+The solutions comprehensive portfolio covers the complete product development lifecycle from concept evaluation to 
+manufacturing support and certification for Fortune 500 Companies in the Aerospace, Defense, Heavy Engineering, 
+Automotive, Medical Devices & Industrial Product industries. The company is known for its robust system of certifications 
+and best practices that address customer requirements and domain expertise.
+	
+Aerospace:
+	
+AXISCADES with a rich pedigree of over 25 years in aerospace offers solutions that extend from concept generation 
+phase to manufacturing support and certification, making us a preferred engineering & technology partner for aerospace 
+OEMs and tier 1 Suppliers to conceptualize and build futuristic aircrafts. Our deep domain expertise across commercial, 
+business and military aircraft both in fixed wing and rotary aircraft segments has enabled us to adopt customer centric 
+approach and an ability to co-create innovative solutions.
+	
+Automotive
+	
+AXISCADES has established itself as a prominent player in the automotive industry, offering a wide range of capabilities 
+and services to help businesses stay competitive in today’s dynamic market by creating world class products and driving 
+innovation through our end-end engineering capabilities.
+• 
+Strong pedigree in product design and manufacturing engineering solutions
+• 
+AR, VR, AI, ML capabilities that will help you be the leader in Industry 4.0 adoption
+• 
+Preferred partner for EU and NA Auto OEMs in Commercial vehicles, Trucks, Buses, Cars & SUVs
+• 
+A wide array of Engineering Solutions expertise in BIW/CIW, Chassis, Powertrain, Interiors, Plastics, Localization, 
+Prototyping, SCM, Body control & display electronics, Advanced Driver Assistance, Telematics and Infotainment, 
+Active and Passive safety systems, and After-market solutions like TPM
+	
+With our commitment to innovation, quality, and customer satisfaction, AXISCADES continues to drive the transformation 
+of the automotive industry, enabling businesses to thrive in the digital age.
+	
+Defence & Homeland security
+	
+AXISCADES is recognized as the preferred partner to the global aerospace & defence industry, addressing the strategic 
+needs across air, ground and marine systems. Engineers designing Aerospace and Defence solutions face ever-
+increasing challenges of implementing complex systems, while ensuring stringent product quality, security standards 
+and certification criteria.
+	
+Our portfolio of offerings include
+	
+Avionics, Electronic Warfare Systems & C4I2, Test solutions and ground handling and support equipment, Software and 
+Simulation, RF & Microwave and Optics, RADAR, SONAR, Telemetry, Airborne Systems, Naval Systems.
+3
+	
+Heavy Engineering (Off Highway and Industrial)
+	
+AXISCADES excels in providing end-to-end engineering design and development services, ensuring the creation of 
+cutting-edge technologies that meet the industry’s highest standards. With a dedicated team of experienced engineers 
+and domain experts, the company offers a wide range of capabilities, including concept development, 3D modeling, 
+system integration, prototyping, Design Validation, Simulation, Engineering Software Development & PLM customization, 
+Manufacturing Support etc.
+	
+AXISCADES’ service offerings in the Heavy Engineering & Off-highway industry are aimed at empowering organizations 
+to overcome challenges and achieve sustainable growth. By combining engineering expertise, digital transformation 
+solutions, advanced manufacturing capabilities, and comprehensive after-sales support, AXISCADES continues to make 
+a significant impact on the industry.
+	
+Energy
+	
+We at AXISCADES offer a complete package of domain expertise right from the concept development stage, analysis, 
+testing, manufacturing and validation. A reliable team of highly trained professionals, who work efficiently to ensure 
+your investments return high value at minimal risk, with future proofing, is our indispensable asset
+• 
+Product Engineering Solutions
+• 
+Simulation and Validation
+• 
+Manufacturing Engineering Solutions
+• 
+After Sales Solutions
+• 
+Enterprise Engineering Solutions
+	
+With extensive research on siting of turbines in challenging conditions, our domain experts join hands with OEMs to 
+build on ideas and expertise to break the barriers for innovation.
+	
+Medical Devices
+	
+AXISCADES has entered into the foray of medical devices sector. It is a relatively new sector that we have ventured into 
+and is expected to grow at a significant pace in the coming years. Below are some of the service offerings we provide:
+• 
+Engaged in Orthopedic, Patient Monitoring Systems & Lab / Hospital Equipment Segments
+• 
+Product development with Electro Mechanical Packaging
+• 
+Value Engineering with Localization for existing/emerging markets
+	
+Regulatory compliance Services.
+IV. 	 Employees
+18. 	 Details as at the end of Financial Year:
+18.a	Employees and Workers (including differently abled):
+Sl No.
+Particulars 
+Total
+(A)
+Male
+Female 
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+Employees 
+1
+Permanent (D)
+1766
+1578
+89.35%
+188
+10.65%
+2
+Other than Permanent (E) 
+78
+66
+84.62%
+12
+15.38%
+3
+Total Employees
+(D+E)
+1844
+1644
+89.15%
+200
+10.85%
+Differently abled employees
+Nil
+Workers 
+4
+Permanent (F)
+NA
+NA
+NA
+NA
+NA
+5
+Other than Permanent (G)
+NA
+NA
+NA
+NA
+NA
+6
+Total (F+G)
+NA
+NA
+NA
+NA
+NA
+Differently abled workers
+Nil
+4
+19	
+Participation/Inclusion/Representation of Women 
+Particulars 
+Total 
+(A)
+No. and percentage of Females 
+No.(B)
+% ( B/A)
+Board of Directors 
+9
+1
+11.11
+Key Management Personnel
+3
+1
+33.33
+20. 	 Turnover rate for permanent employees and workers.
+Turnover Rate - FY2023
+Turnover Rate – FY2022
+Turnover Rate – FY2021
+Male 
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees 
+17%
+2%
+19%
+19%
+2%
+21%
+16%
+3%
+19%
+Permanent Workers 
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+V.	
+Holding, Subsidiary and Associate Companies (Including joint ventures)
+21.	 (a) Names of holding/subsidiary/associate companies/joint ventures 
+S 
+No.
+Name of the holding / subsidiary 
+/ associate companies / joint 
+ventures (A) 
+Indicate whether holding/ Subsidiary/
+Associate/ Joint Venture
+% of 
+shares 
+held by 
+listed 
+entity 
+Does the entity 
+indicated at column 
+A, participate in the 
+Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No) 
+1
+Jupiter Capital Private Limited
+Holding Company
+66.18
+No
+2
+AXISCADES Aerospace & 
+Technologies Private Limited
+Wholly Owned Subsidiary
+100%
+No. However, our 
+subsidiaries share our 
+vision and values and are 
+responsible businesses.
+3
+AXISCADES Technology Canada Inc.
+Wholly Owned Subsidiary
+100%
+4
+AXISCADES Inc.
+Wholly Owned Subsidiary
+100%
+5
+Axis Mechanical Engineering Design 
+(Wuxi) Co. Ltd
+Wholly Owned Subsidiary
+100%
+6
+AXISCADES GmbH
+Wholly Owned Subsidiary
+100%
+7
+Mistral Solutions Private Limited
+Subsidiary
+99.20%
+8
+Explosoft Tech Solutions Private 
+Limited
+Wholly Owned Subsidiary
+100%
+9
+Cades Studec Technologies (India) 
+Private Limited
+Subsidiary
+76%
+10
+Enertec Controls Limited
+Step down subsidiary*
+51.84%
+11
+AXISCADES UK Ltd.
+Step down subsidiary#
+100%
+12
+Aero Electronics Pvt. Ltd.
+Step down subsidiary$
+100%
+13
+Mistral Technologies Pvt Ltd.
+Step down subsidiary**
+100%
+14
+Mistral Solutions Inc.
+Step down subsidiary##
+100%
+15
+AXISCADES Aerospace Infrastructure 
+Private Limited
+Step down subsidiary$$
+100%
+*Enertec Controls Limited is the step down subsidiary of AXISCADES Technologies Limited. 51.84% shares are held by AXISCADES 
+Aerospace & Technologies Private Limited which is the Wholly Owned Subsidiary of AXISCADES Technologies Limited.
+#AXISCADES UK Limited is the step down subsidiary of AXISCADES Technologies Limited. 100% shares are held by AXISCADES 
+Inc. which is the Wholly Owned Subsidiary of AXISCADES Technologies Limited.
+$Aero Electronics Private Limited is the step down subsidiary of AXISCADES Technologies Limited. 100% shares are held by Mistral 
+Solutions Private Limited  which is the Subsidiary of AXISCADES Technologies Limited.
+**Mistral Technologies Private Limited is the step down subsidiary of AXISCADES Technologies Limited. 100% shares are held by 
+Mistral Solutions Private Limited  which is the Subsidiary of AXISCADES Technologies Limited.
+5
+##Mistral Solutions Inc. is the step down subsidiary of AXISCADES Technologies Limited. 100% shares are held by Mistral Solutions 
+Private Limited which is the Subsidiary of AXISCADES Technologies Limited.
+$$AXISCADES Aerospace Infrastructure Private Limited is the step down subsidiary of AXISCADES Technologies Limited. 100% 
+shares are held by AXISCADES Aerospace & Technologies Private Limited which is the Wholly Owned Subsidiary of AXISCADES 
+Technologies Limited.
+VI.	 CSR Details 
+22.	 (i)	 Whether CSR is applicable as per section 135 of Companies Act, 2013: No 
+	
+(ii)	 Turnover (in `): 2,83,14,85,163.00
+	
+(iii)	 Net worth (in `): 1,13,83,76,500.00
+VII. 	Transparency and Disclosures Compliances 
+23.	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+Stakeholder 
+Group from 
+whom 
+complaint is 
+received 
+Grievance Redressal 
+Mechanism in Place.
+Yes/No
+If yes link 
+FY2023
+FY2022
+Number of 
+complaints 
+filed 
+during the 
+year 
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year 
+Remarks 
+Number of 
+complaints 
+filed 
+during the 
+year 
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks 
+Communities 
+https://www.
+axiscades.com/
+contact.html
+Nil
+Nil
+No 
+Complaints
+Nil
+Nil
+No 
+Complaints
+Investors 
+(Other than 
+Shareholders)
+https://www.
+axiscades.com/
+investor-relations.html
+Nil
+Nil
+No 
+Complaints
+ Nil
+ Nil
+No 
+Complaints
+Shareholders
+https://www.
+axiscades.com/
+investor-relations.html
+ Nil
+Nil
+No 
+Complaints
+ Nil
+ Nil
+No 
+Complaints
+Employees & 
+Workers 
+https://www.
+axiscades.com/
+investor-relations.html
+ Nil
+Nil
+No 
+Complaints
+Nil
+Nil
+No 
+Complaints
+Customers 
+https://www.
+axiscades.com/
+contact.html
+ Nil
+Nil 
+No 
+Complaints
+Nil
+Nil
+No 
+Complaints
+Value Chain 
+Partners 
+https://www.
+axiscades.com/
+contact.html
+Nil
+Nil
+No 
+Complaints
+Nil
+Nil
+No 
+Complaints
+Other (Please 
+specify) 
+6
+24. 	 Overview of the entity’s material responsible business conduct issues 
+	
+Indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters that 
+present a risk or an opportunity to your business, the rationale for identifying the same, approach to adapt or mitigate the 
+risk along with its financial implications, as per the following format
+Sl 
+No
+Material 
+Issue 
+Identified 
+Risk / 
+Opportunity 
+(R / O)
+Rational for identifying 
+risk or opportunity 
+In case of risk approach to 
+adapt or mitigate 
+The financial implication 
+of risk or opportunity 
+(Indicate positive or 
+negative implications)
+1
+Environmental: 
+Climate 
+Change
+R
+We believe climate 
+change risks impacts 
+our businesses and that 
+of our customers. If not 
+managed adequately, 
+could adversely affect our 
+operations, reputation 
+and profitability.
+• We have undertaken a 
+commitment to safeguard 
+our environment through 
+prevention of pollution and 
+minimize consumption of 
+resources; understand and 
+assess the impact of our 
+services on environment 
+and plan for reduction of 
+pollution; sustainable waste 
+management; training 
+and building awareness 
+to all stakeholders in the 
+value chain; adhere  and 
+comply with all applicable 
+environmental laws, 
+regulation.
+• External environmental 
+conditions such as floods, 
+storms, draught etc. which 
+have the capacity to affect 
+out environmental impact 
+negatively are planned 
+for accordingly with the 
+Business Continuity Plan.
+Negative Implications
+2
+Environmental: 
+Climate 
+actions 
+initiated by our 
+clients
+O
+AXISCADES is one of 
+the leading technology 
+solutions providers, 
+catering to the futuristic 
+needs including climate 
+change initiatives 
+supported by our 
+customers
+-
+Positive Implications
+7
+Sl 
+No
+Material 
+Issue 
+Identified 
+Risk / 
+Opportunity 
+(R / O)
+Rational for identifying 
+risk or opportunity 
+In case of risk approach to 
+adapt or mitigate 
+The financial implication 
+of risk or opportunity 
+(Indicate positive or 
+negative implications)
+3
+Societal: 
+Employee 
+Experience
+O
+Human resources 
+is a material issue 
+for AXISCADES. We 
+prioritise employee 
+well-being, diversity, 
+and development to 
+mitigate risks and 
+maximise opportunities. 
+By fostering a positive 
+work environment 
+and investing in 
+our workforce, we 
+anticipate financial 
+benefits, increased 
+employee satisfaction, 
+and enhanced 
+client relationships, 
+contributing to our long-
+term sustainability and 
+success.
+-
+Positive Implications
+4
+Governance: 
+Data Security
+R
+Advancement in 
+technology resulting in 
+increased vulnerability to 
+cyber attacks
+• We deploy robust measures, 
+ensure compliance with 
+regulations, conduct 
+employee training, and 
+develop incident response 
+plans.
+• We deploy monitoring tools 
+to ensure data security 
+such as DLP, SIEM/XDR 
+and Encryption wherever 
+possible.
+• Adequate insurance 
+coverage including cyber 
+risk.
+Negative Implications
+8
+SECTION B: Management and Process Disclosures
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting the 
+NGRBC Principles and Core Elements.
+Disclosure Questions 
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and Management Processes 
+1. 	
+a. Whether your entity’s policy/policies cover each principle 
+and its core elements of the NGRBCs. (Yes/No) 
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+	
+b. Has the policy been approved by the Board? (Yes/No) 
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+	
+c. Web Link of the Policies, if available 
+https://www.axiscades.com/investor-relations.html
+Corporate Governance > Corporate Policies
+2.	
+Whether the entity has translated the policy into procedures. 
+(Yes / No) 
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+3.	
+Do the enlisted policies extend to your value chain partners? 
+(Yes/No) 
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+4.	
+Name of the national and international codes/certifications/
+labels/ standards (e.g. Forest Stewardship Council, Fairtrade, 
+Rainforest Alliance, Trustea) standards (e.g. SA 8000, OHSAS, 
+ISO, BIS) adopted by your entity and mapped to each principle.
+AS 9100D, ISO 9100 : 2015, 
+ISO 14001 : 2015, ISO27001 : 2015
+5.	
+Specific commitments, goals and targets set by the entity with 
+defined timelines, if any.
+Minimize energy consumption by 5 %  in current year as 
+compared to Base year 2022
+6.	
+Performance of the entity against the specific commitments, 
+goals and targets along-with reasons in case the same are not 
+met.
+Not Applicable
+Governance, leadership and oversight
+7.	
+Statement by director responsible for the business responsibility report, highlighting ESG related challenges, targets and 
+achievements (listed entity has flexibility regarding the placement of this disclosure) 
+	
+The statement by the director responsible for the business responsibility and ESG priorities is included in the letter to the 
+shareholders from the Chairman of the Company on page No. 4
+8.	
+Details of the highest authority responsible for implementation 
+and oversight of the Business Responsibility policy (ies). 
+Name: Mr. Arun Krishnamurthi
+Designation: CEO & Managing Director
+9.	
+Does the entity have a specified Committee of the Board/ Director 
+responsible for decision making on sustainability related issues? 
+(Yes / No).
+	
+If yes, details.
+Yes, Managing Director is responsible for decisions on 
+sustainability related issues.
+10.	 Details of Review of NGRBCs by the Company:
+Subject  for Review 
+Indicate whether review was 
+undertaken by Director / Committee 
+of the Board/ Any other Committee
+Frequency
+(Annually/ Half yearly/ Quarterly/ 
+Any other – please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above policies and 
+follow up action
+Director
+Annually
+Compliance with statutory requirements of 
+relevance to the principles, and, rectification 
+of any non-compliances
+Director
+Annually
+11.	 Has the entity carried out independent assessment/ evaluation of the working of 
+its policies by an external agency? (Yes/No). If yes, Name of the agency.
+ 
+Name of the agency: NVT Quality Certification International
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+12.	 If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated: 
+Questions: 
+	
+Not Applicable.
+9
+Section C) Principle 1. Businesses should conduct and govern themselves with integrity and in a manner 
+that is ethical, transparent and accountable. 
+Essential Indicators: 
+1.	
+Percentage coverage by training and awareness programmes on any of the Principles during the financial year: 
+Segment 
+Total Number 
+of training and 
+awareness 
+programmes held 
+Topics / principles covered under the training 
+and its impact 
+% of persons in 
+respective category 
+covered by the 
+awareness programmes 
+Board of Directors 
+4
+• 
+Macro-economic environment and industry 
+developments, as and when necessary.
+• 
+Business 
+overview, 
+operations, 
+financial 
+statements and other material updates.
+• 
+Update on statutory compliances for Board 
+members including their roles, rights and 
+responsibilities.
+• 
+Regulatory updates in the areas of Companies 
+Act, Listing Regulations and other related 
+regulations.
+100%
+Key 
+Managerial 
+Personnel 
+1
+PIT Regulations
+100%
+Employees 
+other 
+than 
+BoD 
+and 
+KMPs
+12
+Topics relating to principles covered through 
+Corporate & HR Induction sessions
+51%
+Workers 
+NA
+NA
+NA
+2. 	
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by 
+the entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial 
+year, in the following format (Note: the entity shall make disclosures on the basis of materiality as specified in 
+Regulation 30 of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on the 
+entity’s website):
+	
+No prosecution was initiated and no penalties were imposed by any statutory authorities under the Companies Act, SEBI Act, 
+SCRA, Depositories Act and Rules, Regulations and Guidelines framed under these Acts against/on the Company, its Directors 
+and officers. However, during the year under review, Stock Exchanges (National Stock Exchange of India Limited and BSE 
+Limited) imposed a fine of amount is Rs. 6,40,000 (BSE and NSE - Rs. 3,20,000 each) consequent to non-compliance with 
+regulation 17(1) of SEBI listing regulations, with respect to composition of Board of Directors.
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision are preferred in cases where 
+monetary or non-monetary action has been appealed. 
+Case Details 
+Name of the regulatory /enforcement agencies/judicial institutions 
+NA
+NA 
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, details in brief and if available, a web-link 
+to the policy. 
+	
+Yes: AXISCADES has well defined anti- corruption policy.
+ 
+Name: ANTI CORRUPTION POLICY, AXC-PL-ACP, Ver 2.0 
+	
+Availability: AXISCADES intranet: 
+	
+https://www.axiscades.com/investor-relations.html
+	
+Corporate Governance>Corporate Policies
+	
+Following are the key points of the policy: 
+10
+	
+Commercial Bribery: The receipt of bribes or personal payments by company employees, or by spouse, family or friends on 
+behalf of the employee, from suppliers, contractors, contract workmen, customers, other employees, government staff or 
+any other person or body will be treated as a violation of the Anti-Corruption policy. Any attempt to bribe an employee must 
+also be reported to the management.
+	
+Receiving Favors, Gifts & Hospitality: No employee shall receive any gift, favor or hospitality from any person, be it 
+a  contractor, supplier, customer etc. Receiving of favors or hospitality which may be of value personally to the individual 
+is strictly prohibited, even though the same may not have a commercial value. An example of this would be a contractor 
+securing admission to a school for the child of an employee.
+	
+Fraud & Dishonesty in transaction: The Company policy prohibits fraud, and establishes procedures to be followed 
+concerning the recognition, reporting and investigation of suspected fraud.  Fraud includes, but is not limited to:
+• 
+Dishonest or fraudulent act
+• 
+Theft of Company property, including information
+• 
+Forgery or alteration of negotiable instruments such as Company cheques and drafts
+• 
+Conversion to personal use of cash, securities, supplies or any other Company asset
+• 
+Using Company resources for personal benefit. For example asking a Company employee to carry out some personal 
+work in one’s residence.
+• 
+Unauthorized handling or reporting of Company transactions; and Falsification of Company records or financial 
+statements for personal or other reasons.
+• 
+Tapping/ intercepting telephone/ mobile conversations and passing on the same to outsiders or to any person not 
+authorized to receive such information.
+	
+DICIPLINARY ACTIONS:  Any employee who violates the terms of this policy will be subject to disciplinary action.  Any 
+employee who has direct knowledge of potential violations of this policy but fails to report such potential violations to 
+company management will be subject to disciplinary action. In all cases disciplinary action may include termination of 
+employment.
+5. 	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law 
+enforcement agency for the charges of bribery/ corruption: 
+FY2023
+FY2022
+Directors 
+NIL
+NIL
+KMPs
+NIL
+NIL
+Employees 
+NIL
+NIL
+Workers 
+NA
+NA
+6.	
+Details of complaints with regard to conflict of interest
+Particulars 
+FY2023
+FY2022
+Number
+Remarks 
+Number
+Remarks 
+Number of complaints received in relation to issues of 
+Conflict of Interest of the Directors
+Nil
+NA
+Nil
+NA
+Number of complaints received in relation to issues of 
+Conflict of Interest of the KMPs
+Nil
+NA
+Nil
+NA
+7.	
+Details of any corrective action taken or underway on issues related to fines / penalties / action taken by 
+regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest. 
+	
+Not Applicable
+11
+Section C) Principle 2. Businesses should provide goods and services in a manner that is sustainable and safe.
+Essential Indicators:
+1.	
+Percentage of R&D and capital expenditure (CAPEX) investments in specific technologies to improve the 
+environmental and social impacts of product and processes to total R&D and capex investments made by the 
+entity, respectively.
+Category 
+FY2023
+FY2022
+Details of improvements in environmental and social impacts
+R&D
+0
+0
+-
+Capex 
+0
+0
+We have taken a commitment to safeguard our environment through prevention 
+and reduction of pollution and minimize consumption of resources; understand and 
+assess the impact of our services on environment; sustainable waste management; 
+training and building awareness to all stakeholders in the value chain; adhere and 
+comply with all applicable environmental laws, regulation.
+2.	
+Sustainable Sourcing 
+a.	
+Does the entity have procedures in place for sustainable sourcing? (Yes/No) 
+	
+Yes
+b.	
+If yes, what percentage of inputs were sourced sustainably? 
+	
+Our procurement policy factors environmental considerations in sourcing including but not limited to vendor selection. 
+However, we do not undertake material purchases since we are an IT services Company and do not manufacture any 
+product.
+3.	
+Processes in place to reclaim products for reuse, recycle, and safe disposal of products at the end of life for
+a. 	
+Plastics ( Including Packaging ) 
+b. 	
+E-Waste
+c. 	
+Hazardous waste 
+d. 	
+other waste 
+	
+The Company being an IT Services Company, there are no products of the Company to reclaim at the end of life. 
+However, the Company recycles and disposes its wastes via authorised vendors.
+4.	
+Extended Producer Responsibility (EPR)
+	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether the waste 
+collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control Boards? If not, 
+steps taken to address the same.
+	
+EPR is not applicable for AXISCADES Technologies Limited as it is IT Service Company.
+Section C) Principle 3. Businesses should respect and promote the well-being of all employees, including 
+those in their value chains.
+1.	
+a. Details of measures for the well-being of employees 
+Category
+% of employees covered by
+Total 
+A
+Health Insurance
+Accident 
+insurance
+Maternity 
+Benefits
+Paternity 
+Benefits
+Day Care 
+Facilities
+Number 
+B
+% 
+(B/A)
+Number 
+C
+%
+(C/A)
+Number 
+D
+% 
+(D/A)
+Number 
+E
+% 
+(E/A)
+Number 
+F
+% 
+(F/A)
+Permanent employees
+Male
+1578
+1578
+100%
+1578
+100%
+0
+0%
+1578
+100%
+-
+-
+Female
+188
+188
+100%
+188
+100%
+188
+100%
+0
+0%
+-
+-
+Total 
+1766
+1766
+100%
+1766
+100%
+188 10.65%
+1578
+89.35%
+-
+-
+Other than permanent employees
+Male
+27
+27
+100%
+-
+-
+-
+-
+-
+-
+-
+-
+Female 
+5
+5
+100%
+-
+-
+-
+-
+-
+-
+-
+-
+Total 
+32
+32
+100%
+-
+-
+-
+-
+-
+-
+-
+-
+12
+b. 	 Details of measures for the well-being of Workers 
+Category
+% of workers covered by
+Total 
+A
+Health Insurance
+Accident 
+insurance
+Maternity 
+Benefits
+Paternity 
+Benefits
+Day Care 
+Facilities
+Number 
+B
+% 
+(B/A)
+Number 
+C
+%
+(C/A)
+Number 
+D
+% 
+(D/A)
+Number 
+E
+% 
+(E/A)
+Number 
+F
+% 
+(F/A)
+Permanent workers
+Male
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Female
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Total 
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Other than permanent workers 
+Male
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Female 
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Total 
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+2.	
+Details of retirement benefits, for current financial year and previous financial year  
+Benefits 
+FY 2023 
+FY 2022 
+Number of 
+employees 
+covered as 
+% of total 
+employees 
+Number of 
+Workers 
+covered as 
+% of total 
+workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A)
+Number of 
+employees 
+covered as 
+% of total 
+employees 
+Number of 
+Workers 
+covered as 
+% of total 
+workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A)
+PF
+100%
+NA
+Yes
+100%
+NA
+Yes
+Gratuity 
+100%
+NA
+N.A
+100%
+NA
+N.A
+ESI
+0%
+0%
+Yes
+0%
+0%
+Yes
+Others – specify 
+NA
+N.A
+NA
+N.A
+3.	
+Accessibility of workplaces 
+	
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the requirements of the 
+Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard. 
+	
+Yes, All of our office/locations are accessible for differently abled/physically disabled. 
+4. 	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so,  a 
+web-link to the policy. 
+	
+Yes, the Company has an equal opportunity policy. These policies can be accessed through the link: https://www.axiscades.
+com/investor-relations.html
+	
+Corporate Governance >Corporate Policies
+5. 	
+Return to work and Retention rates of permanent employees and workers that took parental leave. 
+Gender 
+Permanent Employees 
+Permanent Workers  
+Return to work Rate 
+Retention Rate
+Return to work Rate 
+Retention Rate 
+Male 
+100
+100
+NA
+NA
+Female 
+60
+60
+NA
+NA
+Total 
+160
+160
+NA
+NA
+13
+6. 	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+worker? If yes, give details of the mechanism in brief.
+Yes/No ( if yes then give details of the mechanism in brief ) 
+Permanent Workers 
+NA
+Other than Permanent Workers 
+NA
+Permanent Employees 
+Yes, AXISCADES has a grievance redressal policy that is published 
+in the policy section for the employees. The policy highlights the 
+workflow thus enabling the employees to raise concerns and track 
+the status of the concerns.
+Other than permanent Employees 
+7.	
+Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+Category 
+FY2023
+FY2022
+Total 
+employees
+/workers in 
+respective 
+category (A)
+Total employees/
+workers in respective 
+category, who are part 
+of association (s) or 
+Union (B)
+% B/A
+Total 
+employees
+/workers in 
+respective 
+category (A)
+Total employees/
+workers in respective 
+category, who are part 
+of association (s) or 
+Union (B)
+% B/A
+Total Permanent Employees 
+Male 
+1578
+0
+-
+1117
+0
+-
+Female 
+188
+0
+-
+138
+0
+-
+Total Permanent Workers 
+Male 
+NA
+NA
+NA
+NA
+NA
+NA
+Female 
+NA
+NA
+NA
+NA
+NA
+NA
+8.	
+Details of Training imparted to the employees and workers on health & safety measures and on skill upgradation
+Category
+FY2023
+FY2022
+Total 
+(A)
+On health and 
+safety Measures
+On skill 
+upgradation
+Total 
+(D)
+On health and 
+safety Measures
+On skill 
+upgradation
+NO. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No.(F)
+%(F/D)
+Employees
+Male
+1629
+806
+49.48%
+1095
+67.22%
+1117
+467
+41.81%
+547
+48.97% 
+Female
+211
+129
+61.14%
+175
+82.94%
+138
+76
+55.07%
+77
+ 55.80%
+Others
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+Total
+1840
+935
+50.82%
+1270
+69.02%
+1255
+543
+43.27%
+624
+49.72%
+Workers
+Male
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Female
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Others
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Total
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+9.	
+Details of performance and career development reviews of employees and workers:
+Category
+FY2023
+FY2022
+Total (A)
+No.(B)
+% (B/A)
+Total C
+No.(D)
+% (D/C)
+Employees
+Male 
+1221
+887
+72.65%
+1146
+944
+82.37%
+Female 
+141
+99
+70.21%
+137
+105
+76.64%
+Total 
+1362
+986
+72.39%
+1283
+1049
+81.76%
+Workers
+Male
+NA
+NA
+NA
+NA
+NA
+NA
+Female 
+NA
+NA
+NA
+NA
+NA
+NA
+Total 
+NA
+NA
+NA
+NA
+NA
+NA
+14
+10.	 Health and safety management system
+a.	
+Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No). If yes, 
+the coverage of such system? 
+Yes.
+•  
+Water portable test
+•  
+Food test
+•  
+Air quality test
+•  
+Lux level test
+•  
+Fire extinguisher test
+•  
+Smoke detector test
+•  
+Fire drill training
+•  
+Cleaning of ac ducts
+b. 	
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by the 
+entity? 
+• 
+Preventive maintenance of electrical equipment   - Quarterly 
+• 
+Maintenance of transformers and electrical panel – Yearly 
+• 
+Fire extinguishers maintenance – monthly 
+• 
+Restricted area – electrical rooms, UPS rooms, AC rooms.
+	
+Work place safety related risks are monitored periodically to ensure adequate safety measures are effectively implemented 
+and functional. The monitoring process includes regular inspection (to measure unsafe conditions and unsafe acts), 
+internal audits, management review meetings, mock drills. Mitigation plan and controls are provided to eliminate the 
+identified hazards and risks.
+c.	
+Whether you have processes for workers to report the work related hazards and to remove themselves from such risks. 
+(Y/N) 
+	
+Yes
+d. 	
+Do the employees/ worker of the entity have access to non-occupational medical and healthcare services? (Yes/ No) 
+	
+Yes, the Company organizes general medical and healthcare services on a periodic basis in the interest of employees 
+well-being.
+11.	 Details of safety related incidents 
+Safety Incident / Number 
+Category 
+FY2023
+FY2022
+Lost Time Injury Frequency Rate (LTIFR) Per One million -person hours worked 
+Employees 
+Nil
+Nil
+Workers 
+NA
+NA
+Total recordable work-related injuries 
+Employees 
+Nil
+Nil
+Workers 
+NA
+NA
+No of fatalities 
+Employees 
+Nil
+Nil
+Workers 
+NA
+NA
+High consequence work-related injury or ill-health (excluding fatalities)
+Employees 
+Nil
+Nil
+Workers 
+NA
+NA
+12.	 Measures taken by the entity to ensure a safe and healthy work place.
+	
+At AXISCADES, we are committed to maintaining a safe and healthy workplace for our employees. We prioritize the well-
+being of our workforce by implementing various measures and practices. This includes adhering to relevant safety regulations, 
+conducting regular assessments to identify and address potential hazards, providing necessary training on safety protocols, 
+and fostering a culture of open communication. By focusing on the safety and health of our employees, we aim to create an 
+environment where everyone can work with confidence and contribute to the success of our organization.
+15
+13. 	 Number of complaints made by employees and workers 
+FY2023
+FY2022
+Filed during 
+the year 
+Pending 
+resolutions at the 
+end of the year 
+Remarks 
+Filed during 
+the year 
+Pending 
+resolutions at the 
+end of the year 
+Remarks 
+Working Conditions
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Health & Safety 
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+14. 	 Assessments for the year 
+% of plants and offices that were assessed 
+(by entity or statutory authorities or third parties)
+Health and safety practices  
+100%
+Working Conditions 
+NA
+15.	 Details of any corrective action taken or underway to address safety-related incidents (if any) and on significant 
+risks / concerns arising from assessments of health & safety practices and working conditions.
+	
+No such incidents has taken place during the year.
+Section C) Principle 4. Businesses should respect the interests of and be responsive to all its stakeholders.
+Essential Indicators:
+1.	
+Process for identification of key stakeholders
+	
+At AXISCADES, the process of identifying key stakeholders involves a systematic approach to understand and engage with 
+individuals and groups who have a direct or indirect interest in our operations. We begin by conducting a stakeholder analysis 
+to identify and categorize stakeholders based on their level of influence, impact, and dependency on our organization. This 
+analysis considers a wide range of stakeholders, including clients, employees, investors, regulatory bodies, local communities, 
+and industry associations. We also consider emerging trends and issues that may affect our stakeholders. Regular 
+communication, feedback mechanisms, surveys, and engagement initiatives are used to foster productive relationships and 
+address the needs and expectations of our key stakeholders.
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder 
+group 
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/No)
+Channels of communication
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website), Other
+Frequency of 
+engagement
+(Annually/ Half 
+yearly/ Quarterly 
+/ others – please 
+specify)
+Purpose and scope of 
+engagement including 
+key topics and concerns 
+raised during such 
+engagement
+Customers 
+No
+• Annual report
+• Customer satisfaction surveys
+• Customer experience centers
+As and when 
+required
+• Better services
+• Competitive pricing and 
+product quality
+• Optimizing 
+environmental 
+performance
+Employees 
+No
+• Transparent performance 
+management systems 
+• Skill development, career 
+development and welfare 
+initiatives
+• Inter departmental updated and 
+in-house magazines
+As and when 
+required
+• Ethical practices
+• Employee safety and 
+wellbeing
+• Work life balance and 
+career growth
+16
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/No)
+Channels of communication
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website), Other
+Frequency of 
+engagement
+(Annually/ Half 
+yearly/ Quarterly 
+/ others – please 
+specify)
+Purpose and scope of 
+engagement including 
+key topics and concerns 
+raised during such 
+engagement
+Suppliers
+No
+• Email communication
+• Supplier location visits
+• Annual report
+• As and when 
+required.
+• Annual supplier 
+location visits as 
+applicable
+• Stronger partnerships
+• Fair business practices
+• Governance
+Investors and 
+shareholders
+No
+• Annual report
+• Quarterly report
+• Media
+• Website
+As and when 
+required
+• Growth and profitability
+• Operational efficiency
+• Future expansion 
+strategies
+Regulators / 
+Government 
+Authorities 
+No
+• Interactions as and when 
+required
+• Regulatory compliance reporting
+• Industry bodies memberships
+• Stock Exchange filings
+• Annual reports
+• Quarterly reports 
+• Media
+• Website
+As and when 
+required
+• Transparency and ethics
+• Regulatory compliance
+• Timely and transparent 
+reporting
+Section C) Principle 5. Businesses should respect and promote human rights 
+Essential Indicators 
+1.	
+Training on human rights issues and policies 
+Category 
+FY2023
+FY2022
+Total (A)
+Number of 
+employees / 
+workers covered (B)
+% (B/A)
+Total (C)
+Number of 
+employees / workers 
+covered (D)
+% (D/C)
+Employees
+Permanent 
+1766
+756
+42.81%
+1158
+447
+38.60%
+Other than Permanent 
+78
+78
+100%
+97
+96
+98.97%
+Total Employees 
+1844
+834
+45.23%
+1255
+543
+43.27%
+Workers
+Permanent 
+NA
+NA
+NA
+NA
+NA
+NA
+Other than Permanent 
+NA
+NA
+NA
+NA
+NA
+NA
+Total Workers 
+NA
+NA
+NA
+NA
+NA
+NA
+17
+2.	
+Details of minimum wages paid to employees and workers, in the following format 
+Category 
+FY2023
+FY2022
+Total (A)
+Equal to 
+Minimum 
+Wage 
+More than 
+Minimum Wage
+Total (D)
+Equal 
+Minimum 
+Wage
+More than 
+minimum wage
+No. 
+(B)
+% 
+(B/A)
+No. 
+(C)
+% (C/A)
+No. 
+(E)
+% 
+(E/D)
+No. 
+(F)
+% (F/D)
+Employees
+Permanent 
+1766
+0
+0%
+1766
+100%
+1158
+0
+0%
+1158
+100%
+Male
+1578
+0
+0%
+1578
+100%
+1054
+0
+0%
+1054
+100%
+Female 
+188
+0
+0%
+188
+100%
+104
+0
+0%
+104
+100%
+Other 
+than 
+Permanent 
+Male
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Workers
+Permanent 
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Male
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Female 
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Other 
+than 
+Permanent 
+Male
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Female
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+3.	
+Details of remuneration/ salary/ wages (including differently abled)
+Category 
+Male 
+Female 
+Number 
+Median remuneration/
+salary/wages of respective 
+category 
+Number 
+Median remuneration/
+salary/wages of respective 
+category 
+Board of Directors 
+9
+3,15,000
+1
+12,50,000
+Key Managerial Personnel 
+2
+6,00,000
+1
+6,00,000
+Employees other than BoD and KMP
+1564
+8,90,881
+201
+6,91,262
+Workers 
+NA
+NA
+NA
+NA
+4.	
+Focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused or 
+contributed to by the business? (Yes/No) 
+	
+Yes
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues. 
+	
+AXISCADES is committed to providing a safe and positive work environment. In keeping with this philosophy, the organization 
+has an open-door policy. Robust grievance redressal mechanism is defined and implemented through Grievance Redressal 
+Policy which is applicable to all employees of AXISCADES including contractual hires. All complaints are fairly investigated as 
+per the standard process which also ensures protection against retaliation.
+18
+6.	
+Disclosure of complaints made by employees and workers on sexual harassment, discrimination at workplace, 
+Child Labour, Forced Labour/Involuntary Labour, Wages or other human rights related issues.
+Category 
+FY2023
+FY2022
+Filed 
+during 
+the year 
+Pending 
+Resolution at the 
+end of the year 
+Remarks 
+Filed 
+during 
+the year 
+Pending 
+Resolution at the 
+end of the year 
+Remarks 
+Sexual Harassment 
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Discrimination at workplace 
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Child Labour
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Forced Labour/Involuntary Labour 
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Wages
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Other human right related issues 
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+7.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases. 
+Yes, available as a policy and process.
+8.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No) 
+	
+Yes
+9.	
+Assessments of the year
+Category 
+% of plants and offices that were assesses by the entity or 
+by the statutory authorities or third parties  
+Child Labour 
+100%
+Forced/Involuntary Labour 
+100%
+Sexual harassment 
+100%
+Discrimination at workplace 
+100%
+Wages 
+100%
+Others – please specify
+NA
+10.	 Details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 9 above. 
+	
+Adequate control measures are being implemented to address human rights requirements.
+Section C) Principle 6. Businesses should respect and make efforts to protect and restore the environment. 
+Essential Indicators:
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity
+Parameter 
+FY23
+FY22
+Total electricity consumption (A) 
+2,084,159.00
+1,566,542.00
+Total fuel consumption (B)
+1,607.83
+1,795.36
+Energy consumption through other sources (C)
+-
+-
+Total energy consumption (A+B+C) 
+2,085,766.83
+1,568,337.36
+Energy intensity per rupee of turnover 
+(Total energy consumption/ turnover in rupees)
+73.66 GJ/INR Lakh 
+Revenue
+86.18 GJ/INR Lakh 
+Revenue
+Energy intensity (optional) – the relevant metric may be selected by the entity
+Any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the external 
+agency.
+No. 
+19
+2.	
+Sites / facilities identified as designated consumers (DCs) under the Performance, Achieve and Trade (PAT) 
+Scheme of the Government of India? (Y/N) 
+	
+If yes, disclose whether targets set under the PAT scheme have been achieved. In case targets have not been achieved, the 
+remedial action taken, if any.
+	
+No, the organization is not classified as a designated consumer for the Performance, Achieve, and Trade (PAT) program 
+administered by the Bureau of Energy Efficiency (BEE).
+3.	
+Details of the following disclosures related to water
+Parameter 
+FY23
+FY22
+Water Withdrawal by Source (In Kiloliters) 
+(i)	
+Surface water
+Nil
+Nil
+(ii)	
+Groundwater
+6,063
+3,796
+(iii)	 Third party water
+170
+80.16
+(iv)	 Seawater / desalinated water
+Nil
+Nil
+(v)	
+Others
+Nil
+Nil
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+6,233
+3,876.16
+Total volume of water consumption (in kilolitres)
+6,233
+3,876.16
+Water intensity per rupee of turnover (Water consumed / turnover)
+0.22 KL/INR 
+Lakh Revenue
+0.21 KL/INR 
+Lakh Revenue
+Water intensity (optional) – the relevant metric may be selected by the entity
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) 
+If yes, name of the external agency
+No
+4.	
+Mechanism for Zero Liquid Discharge? If yes,  details of its coverage and implementation.
+	
+Yes. The wastewater generated at our sites is treated through the sewage treatment plants (STPs) and the recycled water is 
+used for sanitation and gardening purposes.
+5.	
+Details of air emissions (other than GHG emissions) by the entity
+Parameter
+Please specify unit 
+FY23
+FY22
+NOx
+Mg/Nm3
+121.2
+55
+SOx
+ Mg/Nm3 
+33.4
+56.6
+Particulate Matter (PM)
+Mg/Nm3
+48.6
+ 61.1
+Persistent organic pollutants (POP)
+NA
+NA
+NA
+Volatile organic compounds (VOC)
+ppm
+0.042
+0.045
+Hazardous air pollutants (HAP)
+NA
+NA
+NA
+Others – please specify 
+Independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) 
+Yes – Reported based on independent assessment covering the registered office carried out by Scientific & Industrial Research 
+Centre.
+20
+6.	
+Details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & their intensity
+Parameter 
+Unit
+FY23
+FY22
+Total Scope 1 emissions 
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of 
+CO2 equivalent 
+Nil
+Nil
+Total Scope 2 emissions 
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available) 
+Metric tonnes of 
+CO2 equivalent 
+205.36
+614.81
+Total Scope 1 and Scope 2 emissions per rupee of turnover 
+Metric Tonnes of 
+CO2 equivalent
+9.60E+00
+2.40E+00
+Total Scope 1 and Scope 2 emission intensity (optional) – the relevant 
+metric may be selected by the entity 
+NA
+Nil
+Nil
+Independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) 
+If yes, name of the external agency
+No
+7.	
+Project related to reducing Green House Gas emission? If yes, details.
+	
+Yes, AXISCADES has selected a project on minimizing energy consumption.
+	
+Project name: Minimize energy consumption 
+	
+Target: Reduction by 5% from previous year
+ 
+Stakeholders : This project involves all the employees of the AXISCADES and led by Quality Assurance team
+	
+Key improvements
+• 
+Awareness programs, mailers, signboards wherever possible
+• 
+Replace old bulbs with LEDs
+• 
+Keep rating in mind while buying electric goods
+• 
+Awareness on to turn off the appliance like Fan, Induction Stove etc., when you’re done.
+• 
+Turn off unnecessary lights.
+• 
+Run AC at 23+- degrees temperature only.
+• 
+Use power strips for multiple gadgets.
+• 
+Unplug unused electronics.
+• 
+Use natural light.
+• 
+Turn water off when washing hands
+• 
+Fix the leaky faucet
+• 
+Ditch the desktop computer
+8.	
+Details of waste generated, re-cycled re-used and disposed off
+Parameter 
+FY23
+FY22
+Total Waste generated (in metric tonnes)
+Plastic waste ( A)
+0
+0
+E-waste ( B)
+0
+1
+Bio-medical waste ( C)
+0
+0
+Construction and demolition waste (D)
+0
+0
+Battery waste (E)
+0.45
+0
+Radioactive waste (F)
+0
+0
+Other Hazardous waste (G)
+0
+0
+Other Non-hazardous waste generated (H)
+(Break-up by composition i.e by materials relevant to the sector 
+0
+0
+Total ( A+B+C+D+E+F+G+H)
+0.45
+1
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations 
+(in metric tonnes) 
+Category of waste 
+21
+Parameter 
+FY23
+FY22
+i.	
+Re-cycled 
+0
+0
+ii.	
+Re-used 
+0
+0
+iii.	
+Other recovery operations 
+0
+0
+Total 
+0
+0
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes) 
+Category of Waste 
+i.	
+Incineration
+0
+0
+ii.	
+Landfilling 
+0
+0
+iii.	
+Other disposal operations 
+0
+0
+Total 
+0
+0
+Independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) 
+Yes – We responsibly dispose our E-waste through our authorized vendors “V Power Solutions” and “H.M.G. Ecocare Recycling 
+Private Limited.”
+9.	
+Details of waste management practices, strategy adopted by the company to reduce usage of hazardous and 
+toxic chemicals in our products and processes and the practices adopted to manage such wastes
+	
+At our organization, we follow the process of managing canteen garbage, biodegradable waste and utility waste, which 
+is sorted into dry and wet categories and moved to a disposable location on a daily basis, before being disposed of by the 
+building owner. This is in accordance with the BBMP requirements, and the waste is collected from the building by a BBMP-
+authorized staff. The Karnataka pollution control board (KSPCB) has certified our structure
+	
+Authorization no – H-112022
+	
+PCB ID – 83165
+ 
+Valid up to – 11/12/2024 
+	
+E-waste  - Identify the E waste to be disposed of, remove the hardware from the system if can be reusable, create inventory 
+of e waste, connect with certified vendor for e waste dispose, will be disposed by authorized vendor and certificate will be 
+provided by them. Below is the details of Agency who disposed our e waste last time.
+ 
+V Power Solutions and H.M.G. Ecocare Recycling Private Limited.
+10.	 Operations/offices if any in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental 
+approvals / clearances are required, 
+	
+Our campuses are built on government-approved land in industrial zones and do not fall within or adjacent to protected areas 
+or high-biodiversity areas.
+Sl. 
+No.
+Location of 
+operations/
+offices 
+Type of 
+operations 
+Whether the conditions of environmental approval / clearance are being 
+complied with? (Y/N) 
+If no, the reasons thereof and corrective action taken, if any. 
+NA
+NA
+NA
+11.	 Details of environmental impact assessments (EIA) of projects undertaken by the entity based on applicable laws, 
+in the current financial year:
+	
+We have not conducted environmental impact assessments (EIA) of our operations and as per the Environmental Impact 
+Assessment (“EIA”) notification 2006, the Company is not required to comply with certain environmental regulations or 
+assessments.
+Name and 
+brief details 
+of project 
+EIA 
+Notification 
+No.
+Date
+Whether conducted by 
+independent external 
+agency (Yes / No) 
+Results communicated 
+in public domain 
+(Yes / No) 
+Relevant Web 
+Link  
+None
+-
+-
+-
+-
+22
+12.	 Compliance with the applicable environmental law/ regulations/ guidelines in India; such as the Water (Prevention 
+and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and rules 
+thereunder (Y/N). 
+	
+Yes, we are compliant with applicable environmental laws / regulations / guidelines in India. 
+Sl 
+No
+Law / regulation / 
+guidelines which was 
+not complied with 
+Details of 
+the non-
+compliance 
+Any fines / penalties / action taken by 
+regulatory agencies such as pollution control 
+boards or by courts
+Corrective action  
+taken, if any 
+None
+-
+-
+-
+Section C) Principle 7. Businesses, when engaging in influencing public and regulatory policy, should do 
+so in a manner that is responsible and transparent.
+Essential Indicators 
+1 a.	 Number of affiliations with trade and industry chambers/associations.
+	
+5
+   b.	 List the top 10 trade and industry chambers/associations ( determined based on the total members of such body ) the entity 
+is a member of /affiliated to 
+Sl 
+No
+Name of the trade and industry chambers/associations 
+The reach of trade and industry chambers/
+associations (State/National/International)
+1
+NASSCOM
+National
+2
+FICCI
+National
+3
+Society of Indian Aerospace Technologies and Industries (SIATI)
+National
+4
+Hanseatic Engineering & Consulting Association e.V. (HECAS)
+International
+5
+Hamburg Aviation Membership
+International
+2.	
+Details of corrective action taken or underway on any issues related to anticompetitive conduct by the entity, 
+based on adverse orders from regular authorities.
+Name of authority 
+Brief of the case 
+Corrective actions taken 
+NA
+NA
+NA
+Section C) Principle 8. Businesses should promote inclusive growth and equitable development 
+Essential Indicators
+1.	
+Details of social impact assessments (SIA) of projects undertaken by the entity based on applicable laws, in the 
+current financial year.
+Name and brief 
+details of the 
+project
+SIA 
+notification 
+No.
+Date of 
+notification 
+Whether conducted by an 
+independent external agency 
+(Yes/No) 
+Results 
+communicated in 
+public domain (Yes/ 
+No) 
+Relevant 
+weblink 
+This section is not applicable to AXISCADES as there were no projects that required Social Impact Assessment (SIA) to be 
+undertaken under the law.
+2.	
+Information on project(s) for which ongoing rehabilitation and resettlement (R&R) is being undertaken by the 
+entity
+Sl No
+Name of  project 
+for which R&R is 
+ongoing 
+State 
+District  
+No. of project-affected 
+families  
+% of PAFs 
+covered by 
+R&R
+Amount paid 
+to PAFs in 
+FY23 
+NA
+-
+-
+-
+-
+-
+3. 	
+Mechanisms to receive and redress grievances of the community 
+	
+On the contact us page in our website, we have a section that allows queries to be posted from external communities. The 
+queries get re-directed to the corporate team for resolution and response.
+23
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers
+Particulars 
+FY23
+FY22
+Directly sourced from MSMEs/small producers
+36%
+28%
+Sourced directly from within the district and neighbouring districts 
+NA
+NA
+Section C) Principle 9. Businesses should engage with and provide value to their consumers in a responsible 
+manner 
+Essential Indicators
+1.	
+Describe the mechanism in place to receive and respond to consumer complaints and feedback
+ 
+AXISCADES has a Quality management team which conducts regular feedback from customers as per Company’s established 
+QMS documented information formats. Customer complaints & feedbacks are received through email, transmittal letter 
+communications and verbal communications directly to the project management teams. The project management teams 
+acknowledge, analyze incidents and develop an action plan to resolve the same to ensure customer satisfaction.
+2.	
+Turnover of products and /services as a percentage of turnover from all products/service that carry information 
+about:
+Particulars 
+As a percentage to total turnover 
+Environmental and social parameters relevant to the product 
+-
+Safe and responsible usage 
+-
+Recycling and/or safe disposal 
+-
+This metric is not relevant to AXISCADES as our main business is providing IT Services, and it does not involve the manufacturing 
+of any product which would carry the information.
+3.	
+Number of consumer complaints in respect of the following 
+Particulars 
+FY2023
+Remarks
+FY2022
+Remarks 
+Received 
+during the 
+year 
+Pending 
+resolution at 
+end of year
+Received 
+during the 
+year 
+Pending 
+resolution at 
+end of year
+Data Privacy
+NIL
+NIL
+NA
+NIL
+NIL
+NA
+Advertising
+NIL
+NIL
+NA
+NIL
+NIL
+NA
+Cyber-security 
+NIL
+NIL
+NA
+NIL
+NIL
+NA
+Delivery of essential services 
+NIL
+NIL
+NA
+NIL
+NIL
+NA
+Restrictive Trade Practices 
+NIL
+NIL
+NA
+NIL
+NIL
+NA
+Unfair Trade Practices 
+NIL
+NIL
+NA
+NIL
+NIL
+NA
+Other 
+NIL
+NIL
+NA
+NIL
+NIL
+NA
+4.	
+Details of instances of product recalls on account of safety issues:
+Particulars 
+Number 
+Reasons for recall 
+Voluntary recalls 
+NIL
+NA
+Forced recalls 
+NIL
+NA
+5.	
+Framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, web-link of the 
+policy. 
+	
+No - We are in process of implementing a new data protection / privacy framework to be complaint under GDPR and Digital 
+Personal Data Protection Act of India.
+6.	
+Details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential 
+services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / 
+action taken by regulatory authorities on safety of products / services.
+	
+None

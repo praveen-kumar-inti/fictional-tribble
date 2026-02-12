@@ -1,0 +1,2979 @@
+90
+91
+AMRUTANJAN HEALTH CARE LIMITED
+Annual Report
+2022-23
+Corporate Overview
+Financial Statements
+Statutory Reports
+Section A: GENERAL DISCLOSURES
+I.	
+Details of the listed entity
+1
+Corporate Identity Number (CIN) of the Listed Entity
+L24231TN1936PLC000017
+2
+Name of the Listed Entity
+AMRUTANJAN HEALTH CARE LIMITED
+3
+Year of incorporation
+1936
+4
+Registered office address
+No. 103, (Old No. 42-45) LUZ CHURCH ROAD, 
+MYLAPORE CHENNAI TN 600004
+5
+Corporate office address
+No. 103, (Old No. 42-45) LUZ CHURCH ROAD, 
+MYLAPORE CHENNAI TN 600004
+6
+E-mail
+shares@amrutanjan.com
+7
+Telephone
+044-24994465
+8
+Website
+www.amrutanjan.com
+9
+Financial year for which reporting is being done
+APRIL 2022- MARCH 23
+10
+Name of the Stock Exchange(s) where shares are listed
+1. National Stock Exchange of India Limited (NSE) 
+2. BSE Limited
+11
+Paid-up Capital
+₹2,92,30,630
+12
+Name and contact details (telephone, email address) of the person 
+who may be contacted in case of any queries on the BRSR report
+S. Jeyakanth
+Chief Operating Officer  
+(Supply Chain & Product Delivery)
+9841829493
+Jeyakanths@amrutanjan.com
+13
+Reporting boundary - Are the disclosures under this report made 
+on a standalone basis (i.e. only for the entity) or on a consolidated 
+basis (i.e. for the entity and all the entities which form a part of its 
+consolidated financial statements, taken together).
+Standalone Basis
+II.	
+Products/ Services
+14.	 Details of business activities (accounting for 90% of the turnover):
+S 
+No Description of Main Activity
+Description of Business Activity
+% of the Turnover 
+of the entity
+1
+Ayurvedic pharmaceutical preparations 
+and fruit-based beverages
+Manufacturing, Sales, Distribution and marketing of 
+pain balms and fruit-based beverages
+79%
+2
+Women Hygiene Products 
+Sales, Distribution and Marketing
+18%
+15.	 Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S 
+No Product/Service
+NIC Code
+% of the total Turnover contributed
+1
+Ayurvedic Pain Balm and Women Hygiene products
+21003
+90%
+Foreword
+Dear Partners and Stakeholders,
+Amrutanjan stands proudly as a beacon of traditional wisdom and modern innovation, expressing the essence of Ayurveda 
+while embracing modern pharmaceutical developments. It is my unique honour, as Chairman and Managing Director of 
+Amrutanjan, to welcome you to our first-ever Business Responsibility and Sustainability Reporting (BRSR), a monument to our 
+unrelenting dedication to holistic advancement.
+Our journey has been marked by a genuine commitment to improving the well-being of individuals and communities while also 
+protecting the environment. In this effort, we are governed by ideas that reconcile Ayurvedic tenets with the demands of a 
+continually changing world. Our business decisions have an impact that extends far beyond our balance sheets and into the 
+area of social and environmental impact.
+Today, I am delighted to support the Securities and Exchange Board of India’s (SEBI) comprehensive reporting system, known 
+as BRSR. This framework illustrates our unwavering commitment to transparency, responsibility, and long-term governance. It 
+is more than just a formality; it reflects our conviction in the profound interdependence of corporate entity and the well-being 
+of the world and its inhabitants.
+Amrutanjan recognises the critical necessity of aligning our practises with the principles of responsible corporate behaviour 
+in an era characterised by increasing environmental concerns and heightened social expectations. We heartily support the 
+BRSR framework as a catalyst for transformation, propelling us forward on our path to a more sustainable and equitable future.
+As we dig into the world of Environmental, Social, and Governance (ESG) disclosures, we recognise the need to protect our 
+natural resources, nurture our communities, and uphold the best governance standards. Our commitment to the Net Zero 
+objective by 2030 demonstrates our determination to reduce our carbon footprint and positively contribute to the worldwide 
+fight against climate change.
+We consider our stakeholders to be essential partners in this transforming journey. We hope to confront the problems that lie 
+ahead by establishing a culture of collaboration and empowerment. Our commitment to sustainable development is not only 
+a responsibility we gladly accept but also a means of increasing value creation for our shareholders and stakeholders alike.
+This report illustrates our complete approach to sustainability, which is inextricably linked to our overall company strategy. It 
+embodies Amrutanjan’s heart and soul, magnifying our mission of encouraging wellness and prosperity for everybody.
+Finally, I want to express my profound appreciation to each of you—our shareholders, customers, workers, partners, and the 
+larger society—for your unflinching support during this journey. Let us continue to walk hand in hand towards a future in which 
+Ayurvedic and holistic wellness principles meet the demands of a modern, linked society, and Amrutanjan’s legacy is not only 
+protected but also enhanced for future generations.
+With best wishes,
+S. Sambhu Prasad
+Chairman & Managing Director
+BUSINESS RESPONSIBILITY AND  
+SUSTAINABILITY REPORT
+ANNEXURE D
+92
+93
+AMRUTANJAN HEALTH CARE LIMITED
+Annual Report
+2022-23
+Corporate Overview
+Financial Statements
+Statutory Reports
+III.	 Operations
+16.	 Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of Plants
+Number of Offices
+Total
+National
+3
+6
+9
+International
+0
+1
+1
+17.	 Markets served by the entity:
+a)	
+Number of Locations
+Locations
+Number
+National (Number of States)
+28
+International (Number of Countries)
+19
+b).	 What is the contribution of exports as a percentage of the total turnover of the entity?
+2%
+c).	 A brief on types of customers
+(i)	 Retailers through stockist and distributors. 
+(ii)	 Customers through modern trade channel.
+IV.	 Employees
+18.	 Details as at the end of financial year:
+a). Employees and workers (including differently abled):
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+Employees
+Permanent
+449
+426
+94.88
+23
+5.12
+Other than Permanent
+349
+325
+93.12
+24
+6.88
+Total Employees
+798
+751
+94.11
+47
+5.89
+Workers
+Permanent
+88
+87
+98.86
+1
+1.14
+Other than Permanent
+264
+142
+53.79
+122
+46.21
+Total Workers
+352
+229
+65.06
+123
+34.94
+b). Differently abled Employees and workers:
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+Differently abled Employees
+Permanent
+449
+2
+0.44
+0
+0
+Other than Permanent
+349
+0
+0
+0
+0
+Total differently abled employees
+798
+2
+0.25
+0
+0
+Differently abled Workers
+Permanent
+88
+0
+0
+0
+0
+Other than Permanent
+264
+1
+0.37
+0
+0
+Total differently abled workers
+352
+1
+0.28
+0
+0
+19.	 Participation/Inclusion/Representation of women
+Particulars
+Total (A)
+Number & % of Females
+No. (B)
+% (B/A)
+Board of Directors
+6
+1
+16.67
+Key Management Personnel
+3
+0
+0
+20.	 Turnover rate for permanent employees and workers
+FY 2022 - 23
+FY 2021 - 22
+FY 2020 - 21
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+44.37
+24
+43.33
+38.3
+31.03
+37.92
+18.43
+11.11
+17.98
+Permanent Workers
+2.3
+0
+2.27
+0
+0
+0
+1.22
+0
+1.2
+V.	
+Holding, Subsidiary and Associate Companies (including joint ventures)
+21. (a) Names of holding / subsidiary / associate companies / joint ventures
+S 
+No
+Name of the holding / 
+subsidiary / associate 
+companies / joint ventures
+Indicate whether 
+holding/ Subsidiary/ 
+Associate/ Joint Venture
+% of shares  
+held by listed 
+entity
+Does the entities indicated in the 
+above table participate in the 
+Business Responsibility initiatives  
+of the listed entity? (Yes/No)
+NIL
+VI.	 CSR Details
+22.
+(i) Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No): Yes
+(ii) Turnover (in Rs/INR): 37,963.60 (lakh)
+(iii) Net worth (in Rs/INR): 29,077.19 (lakh)
+VII.	 Transparency and Disclosures Compliances
+23.	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+Stakeholder group from 
+whom complaint is 
+received
+Redressal 
+Mechanism  
+in Place (Yes/No) 
+(If yes, then provide 
+web- link for 
+grievance redress 
+policy)
+FY 2022 - 23
+FY 2021 - 22
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities
+Yes 
+https://www.
+amrutanjan.com/
+contact.html
+NIL
+Investors  
+(Other than shareholders)
+Yes 
+https://www.
+amrutanjan.com/
+contact-address.
+html
+NIL
+Shareholders
+5
+0
+5
+0
+Employees & Workers
+Yes 
+whistleblower@
+amrutanjan.com
+NIL
+Customers
+27
+0
+50
+0
+Value chain partners
+NIL
+Others
+NIL
+94
+95
+AMRUTANJAN HEALTH CARE LIMITED
+Annual Report
+2022-23
+Corporate Overview
+Financial Statements
+Statutory Reports
+24.	 Overview of the entity’s material responsible business conduct issues
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters 
+that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or mitigate the risk 
+along-with its financial implications, as per the following format:
+S 
+No
+Material issue 
+identified
+Indicate 
+whether risk  
+or opportunity
+Rationale for identifying the risk / 
+opportunity
+In case of risk, 
+approach to adapt or 
+mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+1
+Employee 
+health and 
+safety
+Risk 
+Non adoption of adequate safety 
+practices and procedures leading to 
+accidents and injuries
+Site based Safety 
+Committee and Risk 
+Management in place 
+such as Safety Trainings, 
+Permit to Work, 
+Incident Reporting and 
+Investigation, Work Place 
+Inspection
+Negative
+Opportunity
+Adoption of good safety system and 
+practices leading to high employee 
+morale and motivation
+Positive
+2
+Customer 
+Welfare 
+Risk
+1. Product Liability: Compromised 
+customer welfare will lead to lawsuits 
+and product recalls leading to 
+Reputation Damage
+2. Adhering to high quality ingredients 
+and manufacturing standards leads to 
+market Competition and Cost pressures
+Stakeholder Engagement 
+and Collaborations
+Negative
+Opportunity:
+1. Brand Loyalty and Customer 
+Retention
+2. Expanding Market Reach
+Positive
+3
+Improving 
+social capital 
+value & 
+Environmental 
+impact
+Opportunity
+1. Enhancing community health care;
+2. Improving education in rural villages;
+3. Improving health & safety of 
+employees;
+4. Skill development for social capital
+5. CSR projects based on shared values 
+and need assessments;
+6. Promote diversity, equality and 
+inclusion within the organization
+7. Talent management and employee 
+retention;
+8. Net zero commitment
+9. Solar power installations,
+10. Reduction of plastic in products,
+11. Water usage reduction in Plants
+12. Animal welfare projects through CSR
+Positive
+4
+Information 
+Security/Cyber 
+Security 
+Risk 
+1. Non-availability of service or failure of 
+multiple systems leading to disruptions 
+in business operations due to lack of 
+adequate processes.
+2. Cyber Security
+3. Disaster Recovery Systems
+Information systems, 
+back up and disaster 
+recovery policies 
+are in place and are 
+periodically reviewed.
+Promoting User 
+awareness on cyber 
+security/risks through 
+periodic training and 
+information exchange
+Negative
+S 
+No
+Material issue 
+identified
+Indicate 
+whether risk  
+or opportunity
+Rationale for identifying the risk / 
+opportunity
+In case of risk, 
+approach to adapt or 
+mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+5
+Increased ESG 
+awareness 
+among 
+stakeholders
+Opportunity
+1. Inclusion of sustainability, circularity 
+and other ESG aspects in our operations 
+through governance & policies;
+2. Mandatory & voluntary ESG 
+disclosures to improve ESG rating;
+3. Effective resource management 
+through monitoring of ESG targets 
+resulting in better economic 
+performance;
+4. Embedding ESG practices in value 
+chain
+ESG targets for reduction 
+of environmental 
+footprint and GHG 
+emissions, additing value 
+to social aspects and 
+improving governance.
+Collaboration with 
+value chain partners 
+Sustainable sourcing
+Negative
+6
+Business Ethics
+Risk
+1. Ethical lapses can lead to violations of 
+industry regulations and laws, resulting 
+in severe penalties, fines, and potential 
+product recalls
+2. Engaging in unethical practices 
+such as unfair negotiations, bribery, 
+or exploitation of suppliers can strain 
+supplier and stakeholder relationships
+1. Frequent training 
+programmes on business 
+ethics and code of 
+conduct
+2. Creation of committee 
+for stakeholder 
+engagement and improve 
+redressal mechanism
+Negative
+Section B: MANAGEMENT AND PROCESS DISCLOSURES
+The National Guidelines for Responsible Business Conduct (NGRBC) as prescribed by the Ministry of Corporate Affairs advocates 
+nine principles referred as P1-P9 as given below:
+S. No. Description of the Principle
+P1
+Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, Transparent and 
+Accountable.
+P2
+Businesses should provide goods and services in a manner that is sustainable and safe.
+P3
+Businesses should respect and promote the well-being of all employees, including those in their value chains.
+P4
+Businesses should respect the interests of and be responsive to all its stakeholders.
+P5
+Businesses should respect and promote human rights.
+P6
+Businesses should respect and make efforts to protect and restore the environment.
+P7
+Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is responsible 
+and transparent.
+P8
+Businesses should promote inclusive growth and equitable development.
+P9
+Businesses should engage with and provide value to their consumers in a responsible manner.
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1. a. Whether your entity’s policy/policies cover each principle and its core 
+elements of the NGRBCs. (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+b. Has the policy been approved by the Board? (Yes/No)
+Y
+N
+N
+Y
+Y
+Y
+N
+Y
+N
+c. Web Link of the Policies, if available
+https://www.amrutanjan.com/policy.html
+2. Whether the entity has translated the policy into procedures. (Yes / No)
+No. However, Amrutanjan has SOPs for most of  
+the key processes.
+3. Do the enlisted policies extend to your value chain partners? (Yes/No)
+N
+N
+N
+N
+N
+N
+N
+N
+N
+4. Name of the national and international codes/certifications/labels/ 
+standards (e.g. Forest Stewardship Council, Fairtrade, Rainforest 
+Alliance, Trustee) standards (e.g. SA 8000, OHSAS, ISO, BIS) adopted by 
+your entity and mapped to each principle.
+ISO 9001, ISO 22000, NABH Accreditation
+5. Specific commitments, goals and targets set by the entity with defined 
+timelines, if any.
+NIL
+6. Performance of the entity against the specific commitments, goals 
+and targets along-with reasons in case the same are not met.
+NA
+96
+97
+AMRUTANJAN HEALTH CARE LIMITED
+Annual Report
+2022-23
+Corporate Overview
+Financial Statements
+Statutory Reports
+Governance, leadership and oversight
+7. Statement by director responsible for the business responsibility report, highlighting ESG related challenges, targets 
+and achievements
+Amrutanjan is fully committed to the continuing improvement of our ESG-related initiatives. We are reaffirming our unshakable 
+commitment to numerous critical areas, such as climate preservation, responsible resource management, promoting equal 
+opportunities, establishing trust, prioritising the needs of all generations, and actively interacting with and supporting our local 
+communities. This year, we successfully launched our ESG committee, which plays critical role in driving our company-wide 
+ESG goals. As we begin our first entity-level review, we are advantageously positioned to create specific environmental, social, 
+and governance (ESG) goals in the coming fiscal year. The implementation of the SEBI-mandated Business Responsibility and 
+Sustainability Reporting (BRSR) has been essential in advancing our organisation’s commitment to sustainability. Through this 
+reporting approach, we have been able to demonstrate our tremendous success in decreasing emissions, conserving water, 
+promoting sustainable packaging, cultivating diversity, and ensuring transparent governance. These activities, including 
+installation of 120 kW solar power plant at Head Office last year, not only illustrate our commitment to sustainability but also 
+strengthen our alignment with the United Nations Sustainable Development Goals (SDGs). By adhering to the BRSR, we are 
+able to effectively communicate our sustainability goals and accomplishments to our stakeholders.
+8. Details of the highest authority responsible for implementation and oversight of the Business Responsibility policy (ies).
+S. Sambhu Prasad
+Chairman & Managing Director
+9. Does the entity have a specified Committee of the Board/ Director responsible for decision making on sustainability 
+related issues? (Yes / No). If yes, provide details.
+Yes
+Chairman & Managing Director of the company is responsible for decision making on sustainability issues.
+10. Details of Review of NGRBCs by the Company:
+Subject for review
+Indicates whether review was undertaken by Director/ 
+Committee of the board/ Any other committee
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above policies and follow up action
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Compliance with statutory requirements of relevance to the 
+principles, and rectification of any non-compliances
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Subject for review
+Frequency (Annually/ Half yearly/ Quarterly/ Any other)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above policies and follow up action
+YLY
+YLY
+YLY
+YLY
+YLY
+YLY
+YLY
+YLY
+YLY
+Compliance with statutory requirements of relevance to  
+the principles, and, rectification of any non-compliances
+YLY
+YLY
+YLY
+YLY
+YLY
+YLY
+YLY
+YLY
+YLY
+11. Details of Review of NGRBCs by the Company:
+Has the entity carried out independent assessment/ evaluation  
+of the working of its policies by an external agency? (Yes/No)  
+If Yes, provide the name of the agency.
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+N
+N
+N
+N
+N
+N
+N
+N
+N
+12. If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated:
+Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity does not consider the Principles material to its 
+business (Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+The entity is not at a stage where it is in a position to 
+formulate and implement the policies on specified principles 
+(Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+The entity does not have the financial or/human and 
+technical resources available for the task (Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+It is planned to be done in the next financial year (Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Any other reason
+Section C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+PRINCIPLE 1 Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable.
+Essential Indicator
+1. Percentage coverage by training and awareness programmes on any of the Principles during the financial year:
+Segment
+Total number 
+of training and 
+awareness 
+programmes held
+Topics/ Principles covered under the training  
+and its impact
+% of persons in 
+respective category 
+covered by the 
+awareness programmes
+Board of Directors
+During the year, the Board engaged in various updates pertaining to business, regulatory, safety, ESG 
+matters, etc. These topics provided insights on the said principles.
+Key Management 
+Personnel
+7
+Code of Conduct, Brand Management, PoSH, Goal 
+Alignment, Master Class on world class organization, 
+Phishing Awareness, Data Protection
+100%
+Employees other 
+than BoD and KMPs
+14
+Fire safety, Code of Conduct, CSE Sales training, QMS 
+Internal Auditor, Labour law, Sales force management - 
+ABM, Handling of Accidental Cases & 5s,TN Draft rules 
+on wages, IR, OSH & NC, OnLine Advanced Excel Training, 
+CSE Refresher programme,QMS Internal Auditor Training 
+based on ISO 9001 : 2015 standards for the Associates of 
+Amrutanjan Health Care Limited (AHCL)
+100%
+Workers
+4
+Female Hygiene,Code of Conduct, Fire Safety,5S Training
+100%
+2. Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings with 
+regulators/ law enforcement agencies/ judicial institutions in FY23
+Monetary
+NGRBC 
+Principle
+Name of the regulatory/ enforcement 
+agencies/ judicial institutions
+Amount 
+(in INR)
+Brief of 
+the case
+Has an appeal been 
+preferred? Yes/ No)
+Penalty/ Fine
+NIL
+NA
+NA
+NA
+NA
+Settlement
+NIL
+NA
+NA
+NA
+NA
+Compounding fee
+NIL
+NA
+NA
+NA
+NA
+Non-Monetary
+NGRBC 
+Principle
+Name of the regulatory/ enforcement 
+agencies/ judicial institutions
+Brief of 
+the case
+Has an appeal been 
+preferred? Yes/ No)
+Imprisonment
+NIL
+NA
+NA
+NA
+Punishment
+NIL
+NA
+NA
+NA
+3. Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or 
+non-monetary action has been appealed.
+Case Details
+Name of the regulatory/ enforcement agencies/ judicial institutions
+NIL
+NA
+4. Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide 
+a web-link to the policy.
+The company does not have a separate anti-corruption or anti-bribery policy. However, the Code of Conduct for employees and 
+the Procurement Policy contain adequate provisions that deal with anti-corruption and anti-bribery.
+5. Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/ corruption:
+FY 2022 - 23
+FY 2021 - 22
+Board of Directors
+NIL
+NIL
+Key Management Personnel
+NIL
+NIL
+Employees other than BoD and KMPs
+NIL
+NIL
+Workers
+NIL
+NIL
+98
+99
+AMRUTANJAN HEALTH CARE LIMITED
+Annual Report
+2022-23
+Corporate Overview
+Financial Statements
+Statutory Reports
+6. Details of complaints with regard to conflict of interest.
+FY 2022 - 23
+FY 2021 - 22
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to issues of Conflict of Interest  
+of the Directors
+NIL
+NIL
+Number of complaints received in relation to issues of Conflict of Interest  
+of the KMPs
+NIL
+NIL
+1. Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by 
+regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest
+NA
+Leadership Indicator
+1. Awareness programmes conducted for value chain partners on any of the Principles during the financial year:
+Total number of training and 
+awareness programmes held
+Topics/ Principles covered under the 
+training and its impact
+% of the value chain partners covered 
+under the awareness programmes
+NIL
+2. Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? (Yes/
+No, If Yes, provide details of the same.)
+Yes. The company has laid down a Code of Conduct for all Board Members and Senior Management of the Company. The Code 
+of Conduct has necessary provisions to avoid/manage conflict of interest. 
+Further, the Directors and the Senior Management are required to disclose to the Board, on an annual basis, that they have not 
+entered into any financial/commercial transactions with the Company where they may be deemed to have a personal interest 
+that may have a potential conflict with the interest of the Company at large. 
+PRINCIPLE 2 Businesses should provide goods and services in a manner that is sustainable and safe.
+Essential Indicator
+1. Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental 
+and social impacts of product and processes to total R&D and capex investments made by the entity, respectively.
+FY 2022 - 23 FY 2021 - 22
+Details of improvements in  
+environmental and social impacts
+R&D
+NIL
+Capex
+₹60 lakh
+NIL
+Installed 120 kW Solar Plant at HO which is expected 
+to offset 2,48,784 kg CO2 emissions annually
+2. a. Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+b. If yes, what percentage of inputs were sourced sustainably?
+No
+3. Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, 
+for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+The expired stocks lying with the Depots/Distributors are taken back and disposed off safely through an authorized agency.
+4. Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether the 
+waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control 
+Boards? If not, provide steps taken to address the same
+Yes.
+Vendor is identified and the registration of our entity with the Central Pollution Control Board is under process. 
+Leadership Indicator
+1. Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing 
+industry) or for its services (for service industry)? If yes, provide details in the following format? No
+NIC Code
+Name of the 
+Product/ 
+Service
+% of the total 
+turnover 
+contributed
+Boundary for which the 
+Life Cycle Perspective/ 
+Assessment was conducted
+Whether conducted by 
+independent external 
+agency (Yes/ No)
+Result communicated 
+in public domain  
+(Yes/ No)
+NA
+NA
+NA
+NA
+NA
+NA
+2. If there are any significant social or environmental concerns and/or risks arising from production or disposal of your 
+products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, briefly 
+describe the same along-with action taken to mitigate the same.
+Name of the Product/ Service
+Description of the risk/ concern
+Action taken
+NA
+NA
+NA
+3. Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing 
+industry) or providing services (for service industry).
+Recycled or Re-used input material to total material
+FY 2022 - 23
+FY 2021 - 22
+NA
+NA
+NA
+4. Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, and 
+safely disposed, as per the following format:
+FY 2022 - 23
+FY 2021 - 22
+Re-Used
+Recycled
+Safely Disposed
+Re-Used
+Recycled
+Safely Disposed
+Plastics (Including packaging)
+NA
+NA
+NA
+NA
+NA
+NA
+E-waste
+NA
+NA
+NA
+NA
+NA
+NA
+Hazardous waste
+NA
+NA
+NA
+NA
+NA
+NA
+Other waste
+NA
+NA
+NA
+NA
+NA
+NA
+5. Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
+Name of the Product/ Service
+Reclaimed products and their packaging materials as % of total products sold  
+in respective category
+NA
+NA
+PRINCIPLE 3 Businesses should respect and promote the well-being of all employees, including those in their value 
+chains.
+Essential Indicator
+1. a. Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total  
+(A)
+Health  
+Insurance
+Accident 
+Insurance
+Maternity 
+Benefits
+Paternity 
+Benefits
+Day Care 
+Facilities
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (D)
+% (D/A)
+No. (E)
+% (E/A)
+No. (F)
+% (F/A)
+Permanent Employees
+Male
+426
+426
+100
+426
+100
+NA
+NA
+0
+0
+0
+0
+Female
+23
+23
+100
+23
+100
+23
+100
+NA
+NA
+0
+0
+Total
+449
+449
+100
+426
+100
+23
+100
+0
+0
+0
+0
+Other than Permanent Employees
+Male
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Female
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Total
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+100
+101
+AMRUTANJAN HEALTH CARE LIMITED
+Annual Report
+2022-23
+Corporate Overview
+Financial Statements
+Statutory Reports
+b. Details of measures for the well-being of workers:
+Category
+% of workers covered by
+Total  
+(A)
+Health  
+Insurance
+Accident 
+Insurance
+Maternity 
+Benefits
+Paternity 
+Benefits
+Day Care 
+Facilities
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (D)
+% (D/A)
+No. (E)
+% (E/A)
+No. (F)
+% (F/A)
+Permanent Workers
+Male
+87
+87
+100
+87
+100
+NA
+NA
+NA
+NA
+NA
+NA
+Female
+1
+1
+100
+1
+100
+1
+100
+0
+0
+NA
+0
+Total
+88
+88
+100
+88
+100
+1
+100
+0
+0
+0
+0
+Other than Permanent Workers
+Male
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Female
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Total
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2. Details of retirement benefits for current and previous financial year.
+Benefits
+FY 2022 - 23
+FY 2021 - 22
+No. of employees 
+covered as a % of 
+total employees
+No. of workers 
+covered as a %  
+of total workers
+Deducted and 
+deposited with 
+the authority 
+(Yes/ No/ N.A.)
+No. of employees 
+covered as a % of 
+total employees
+No. of workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited with 
+the authority 
+(Yes/ No/ N.A.)
+PF
+100
+100
+Yes
+100
+100
+Yes
+Gratuity
+100
+100
+Yes
+100
+100
+Yes
+ESI
+3.33
+12.50
+Yes
+6.72
+10.20
+Yes
+Other
+NA
+NA
+NA
+NA
+NA
+NA
+3. Accessibility of workplaces
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the requirements of the 
+Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard.
+All facilities have ground and first floors with accessibility through staircase. Differently abled employees and workers have 
+no issues in accessing their workstation. Access through elevators will be provided when the company goes for expansion of 
+facilities.
+4. Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide 
+a web-link to the policy.
+We do not have any specific policy for equal opportunity.
+5. Return to work and Retention rates of permanent employees and workers that took parental leave. No employee took 
+parental leave in 2022-23
+Gender
+Permanent Employees
+Permanent Workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+NA
+NA
+NA
+NA
+Female
+NA
+NA
+NA
+NA
+Total
+NA
+NA
+NA
+NA
+6. Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+worker? If yes, give details of the mechanism in brief.
+Yes/No (If Yes, then give details of the mechanism in brief)
+Permanent Employees
+Yes.
+HR executives visit the workplaces and the factories periodically and on need 
+basis to review and redress grievances of the employees/workers through 
+one-on-one discussions. Suggestion boxes are also kept at all locations 
+to enable sharing of grievances and suggestions for improving the work 
+environment and processes. Company is planning to create Committees to 
+address workers/employee grievances. Permanent Workers also have their 
+Union to represent their grievances.
+Other than Permanent Employees
+Permanent Workers
+Other than Permanent Workers
+7. Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+Category
+FY 2022 - 23
+FY 2021 - 22
+Total employees/ 
+workers in 
+respective 
+category (A)
+No. of employees/ 
+workers in respective 
+category, who are part of 
+association(s) or union (B) 
+% 
+(B/A)
+Total employees/ 
+workers in 
+respective 
+category (A) 
+No. of employees/ 
+workers in respective 
+category, who are part of 
+association(s) or union (B) 
+% 
+(B/A) 
+Total Permanent 
+Employees
+449
+0
+0
+460
+0
+0
+- Male
+426
+0
+0
+431
+0
+0
+- Female
+23
+0
+0
+29
+0
+0
+Total Permanent 
+Workers
+88
+88
+100
+88
+88
+100
+- Male
+87
+87
+100
+87
+87
+100
+- Female
+1
+1
+100
+1
+1
+100
+8. Details of training given to employees and workers:
+All the employees have access to relevant learning and development opportunities. The learning needs are identified by a 
+combination of self, manager and department head and classified under functional, behavioural and organizational needs.
+Category
+FY 2022 - 23
+FY 2021 - 22
+Total  
+(A)
+On Health and 
+Safety measures
+On Skill 
+Upgradation
+Total  
+(D)
+On Health and 
+Safety measures
+On Skill 
+Upgradation
+No. (B)
+& (B/A)
+No. (C)
+% (C/A)
+No. (E)
+& (E/D)
+No. (F)
+% (F/D)
+Employees
+Male
+549
+62
+11
+527
+96
+617
+43
+7
+588
+95
+Female
+26
+22
+85
+15
+58
+30
+24
+80
+12
+40
+Total
+575
+84
+96
+542
+154
+647
+67
+87
+600
+135
+Workers
+Male
+97
+65
+67
+0
+0
+97
+46
+47.42
+0
+0
+Female
+70
+44
+63
+0
+0
+70
+0
+0
+0
+0
+Total
+167
+109
+65.27
+0
+0
+167
+46
+27.54
+0
+0
+9. Details of performance and career development reviews of employees and worker:
+All the employees undergo Performance and Career Development Reviews through Annual Appraisals. Discussions are 
+also carried out periodically and feedback for development is provided. Workers career development is benchmarked with 
+the number of years of service and the productivity in line with the mutually agreed wage settlement signed between the 
+Management and the affiliated Union. 
+Category
+FY 2022 - 23
+FY 2021 - 22
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C)
+Employees
+Male
+426
+426
+100
+529
+529
+100
+Female
+23
+23
+100
+1
+1
+100
+Total
+449
+449
+100
+530
+530
+100
+10. Health and safety management system:
+a). Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No). If yes, the 
+coverage such system?
+Yes.
+All our Plants have Safety Committees consisting of Executives and Workers. The Committee does periodical review of safety 
+measures and recommend improvement as may be required
+102
+103
+AMRUTANJAN HEALTH CARE LIMITED
+Annual Report
+2022-23
+Corporate Overview
+Financial Statements
+Statutory Reports
+b). What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by the 
+entity?
+Safety Committee meets at least once in a quarter and on need basis to identify and assess work-related hazards and provide 
+suggestions to management for addressing the safety issues.
+c). Whether you have processes for workers to report the work related hazards and to riremove themselves from such risks. 
+(Y/N).
+Yes
+Safety Committee reviews the suggestions or complaints of the workers with regard to work related hazards and take 
+appropriate action.
+d). Do the employees/ worker of the entity have access to non-occupational medical and health care services? (Yes/ No).
+Company owned Ambulance/Vehicles are available at the Plants for transferring the workers to nearby medical centres for 
+medical emergencies. 
+11. Details of safety related incidents.
+Safety incident/ Number
+Category
+FY 2022 - 23
+FY 2021 - 22
+Lost Time Injury Frequency Rate (LTIFR) (per one million-person hours worked)
+Employees
+NIL
+NIL
+Workers
+NIL
+NIL
+Total recordable work-related injuries Total recordable work-related injuries
+Employees
+NIL
+NIL
+Workers
+NIL
+NIL
+Number of fatalities
+Employees
+NIL
+NIL
+Workers
+NIL
+NIL
+High consequence work-related injury or ill-health (excluding fatalities)
+Employees
+NIL
+NIL
+Workers
+NIL
+NIL
+12. Describe the measures taken by the entity to ensure a safe and healthy workplace.
+We recognize that Safety and Good health of our employees, workers, visitors, contract workers are of paramount importance 
+for our business. We ensure that manufacturing and allied process and activities are regularly assessed for risk that can be 
+mitigated to prevent injuries and occupational hazards. As a condition of employment, all employees are required to comply 
+with all safety and environmental rules and regulations. Each employee understands that they are individually responsible for 
+their own safety and the safety of those around them. Through safe work behaviour of all employees, visitors, and contractors, 
+we aim towards zero incidences and accidents. Awareness of a safer workplaces is created and employee participation is 
+encouraged to our safety goals and targets. 
+Safety trainings were provided to all workers and employees. We have conducted Safety Day in our plants as part of creating 
+awareness on safety procedures. Our workers were encouraged to report to the respective Plant HRs of any unsafe practices. We 
+have also organised general check up, dental camps and eye camps for Workers and Employees at Plants and at Corporate office.
+13. Number of Complaints on the following made by employees and workers:
+FY 2022 - 23
+FY 2021 - 22
+Filled during 
+the year
+Pending resolution  
+at the end of year
+Remarks
+Filled during 
+the year
+Pending resolution  
+at the end of year
+Remarks
+Working Conditions
+NIL
+NIL
+Health & Safety
+NIL
+NIL
+14. Assessments for the year
+% of your plants and offices that were assessed (by entity or statutory 
+authorities or third parties)
+Health and safety practices
+100%. By the Inspector of Factories
+Working conditions
+100%. By the Inspector of Factories
+15. Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on 
+significant risks / concerns arising from assessments of health & safety practices and working conditions.
+1. Dilapidated compound wall was renovated and reconditioned at one of our Plants
+2. Concrete manhole was replaced inside the premises around the drainage area.
+Leadership Indicator
+1. Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees (Y/N) 
+(B) Workers (Y/N).
+(a)	 Employees	
+Yes
+(b)	 Workers	
+Yes
+2. Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by 
+the value chain partners:
+We obtain proof of payment of statutory dues paid by the value chain partners in respect of services provided to the Company. 
+Necessary clauses are incorporated in the agreement with the value chain partners for ensuring compliance.
+3. Provide the number of employees / workers having suffered high consequence work- related injury / ill-health 
+/ fatalities (as reported in Q11 of Essential Indicators above), who have been rehabilitated and placed in suitable 
+employment or whose family members have been placed in suitable employment:
+Total number of affected 
+employees/ workers
+No. of employees/workers that are rehabilitated 
+and placed in suitable employment or whose family 
+members have been placed in suitable employment
+FY 2022 - 23 FY 2021 - 22
+FY 2022 - 23
+FY 2021 - 22
+Employees
+NIL
+NIL
+Workers
+NIL
+NIL
+4. Does the entity provide transition assistance programs to facilitate continued employability and the management of 
+career endings resulting from retirement or termination of employment? (Yes/ No)
+No
+5. Details on assessment of value chain partners:
+% of value chain partners that were assessed (by value of business 
+done with such partners)
+Health and safety practices
+NIL
+Working conditions
+NIL
+6. Provide details of any corrective actions taken or underway to address significant risks / concerns arising from 
+assessments of health and safety practices and working conditions of value chain partners.
+NA
+PRINCIPLE 4 Businesses should respect the interests of and be responsive to all its stakeholders.
+Essential Indicator
+1. Describe the processes for identifying key stakeholder groups of the entity.
+At Amrutanjan, a stakeholder is any person, organisation, community, or institution that either impact its operations/
+brand perception or getting impacted by its business. To understand stakeholders’ needs and expectations and establish 
+sustainable short-, medium-, and long-term strategies, Amrutanjan collaborates with a wide range of stakeholders. 
+Amrutanjan believes that business risks and opportunities can be managed only through continuous involvement with all 
+its stakeholders. The company’s management, business, and functional heads identify the key stakeholders with respect to 
+their level and area of operations, which include investors, shareholders, customers, business partners (including suppliers, 
+service providers, and distributors), employees and workers, regulatory bodies, trade bodies, and other organisations, as 
+well as the local community.
+104
+105
+AMRUTANJAN HEALTH CARE LIMITED
+Annual Report
+2022-23
+Corporate Overview
+Financial Statements
+Statutory Reports
+2. List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder 
+group.
+Stakeholder Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/ No)
+Channels of communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website, Other)
+Frequency of 
+engagement 
+(Annually/ Half- yearly/ 
+Quarterly/ Other)
+Purpose and scope of 
+engagement including key 
+topics and concern raised 
+during such engagement
+Investor
+No
+Newspapers/ Email/ 
+Advertisement / Website / 
+video calls
+Quarterly, Half yearly 
+and Annually
+To explain business 
+highlights & performance
+Shareholders
+Customers
+No
+Newspaper, Advertisement, 
+Website, Pamphlets
+Throughout the year
+To create customer 
+awareness of brand and 
+product ranges
+Business partners 
+(including suppliers, 
+service providers, 
+and distributors)
+No
+Email, SMS, Pamphlet
+Throughout the year
+To address their concerns, 
+grievances and to get 
+feedback
+Employees and 
+workers
+No
+Email, Meetings, Notice 
+Board
+Throughout the year
+To achieve employee 
+engagement, train 
+and motivate to attain 
+organisational goals
+Regulatory bodies
+No
+Email, Disclosures through 
+Filings, Returns
+As required from time 
+to time
+To provide information & 
+disclosures as required 
+under the Regulations and 
+to respond to their queries
+Trade bodies and 
+other organisation
+No
+Email, Notice Board, 
+Meetings
+As required from time 
+to time
+To maintain cordial 
+relationships and to 
+discuss on labour welfare
+Local community
+Yes
+Community Meetings,  
+Notice Board
+As required from time 
+to time
+To engage them in our 
+operations or support 
+them on their basic needs
+Leadership Indicator
+1. Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social 
+topics or if consultation is delegated, how is feedback from such consultations provided to the Board.
+The management has formed a core group of top executives of the Company (ESG Committee) which meets as frequently 
+as necessary to discuss the environment, health and safety matters impacting our business operations and provide 
+recommendations to the management. Basis the recommendations, the management takes decisions to make investment or 
+improvement in the process which would support maintaining the environmental and safety standards within the organisation.
+2. Whether stakeholder consultation is used to support the identification and management of environmental, and social 
+topics (Yes / No). If so, provide details of instances as to how the inputs received from stakeholders on these topics were 
+incorporated into policies and activities of the entity.
+Based on the recommendations of ESG Committee, more processes have been automated that has resulted in less paper work. 
+Installation of solar panels have been completed at the Corporate Office in Chennai.
+3. Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/
+marginalized stakeholder groups. 
+No major concerns have been received during the year. 
+PRINCIPLE 5 Businesses should respect and promote human rights.
+Essential Indicator
+1. Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the 
+following format:
+Category
+FY 2022 - 23
+FY 2021 - 22
+Total (A)
+No. of employees / 
+workers (B)
+% (B/A)
+Total (C)
+No. of employees / 
+workers (D)
+% (D/C)
+Employees
+Permanent
+575
+0
+0
+647
+0
+0
+Other than Permanent
+NA
+NA
+NA
+351
+NA
+NA
+Total Employees
+575
+0
+0
+998
+0
+0
+Workers
+Permanent
+0
+0
+0
+87
+0
+0
+Other than Permanent
+NA
+NA
+NA
+273
+NA
+NA
+Total Workers
+0
+0
+0
+360
+0
+0
+2. Details of minimum wages paid to employees and workers.
+Category
+FY 2022 - 23
+FY 2021 - 22
+Total  
+(A)
+Equal to  
+minimum wage
+More than 
+minimum wage
+Total  
+(D)
+Equal to 
+minimum wage
+More than 
+minimum wage
+No. (B) & (B/A) No. (C) % (C/A)
+No. (E) & (E/D) No. (F) % (F/D)
+Employees
+Male
+426
+0
+0%
+426
+100
+43`
+0
+0
+43
+100
+Female
+23
+0
+0%
+23
+100
+29
+0
+0
+29
+100
+Total
+449
+0
+0%
+449
+100
+460
+0
+0
+460
+100
+Workers
+Male
+87
+0
+0
+87
+100%
+87
+0
+0
+87
+100
+Female
+1
+0
+0
+1
+100%
+1
+0
+0
+1
+100
+Total
+88
+0
+0
+88
+100%
+88
+0
+0
+88
+100
+3. Details of remuneration/salary/wages, in the following format:
+Male
+Female
+Number Median remuneration/ salary/ 
+wages of respective category
+Number Median remuneration/ salary/ 
+wages of respective category
+Board of Directors
+6
+11,45,000
+2
+4,68,500
+Key Management Personnel
+3
+51,19,000
+0
+NA
+Employees other than BoD and KMPs
+457
+4,25,240
+25
+4,50,200
+Workers
+87
+8,36,596
+1
+5,75,299
+4. Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused 
+or contributed to by the business? (Yes/No) 
+No
+5. Describe the internal mechanisms in place to redress grievances related to human rights issues:
+No internal mechanism exists. 
+106
+107
+AMRUTANJAN HEALTH CARE LIMITED
+Annual Report
+2022-23
+Corporate Overview
+Financial Statements
+Statutory Reports
+6. Number of complaints on the following made by employees and workers.
+FY 2022 - 23
+FY 2021 - 22
+Filled during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Filled during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Sexual Harassment
+0
+0
+No complaints
+0
+0
+No complaints
+Discrimination at workplace
+0
+0
+No complaints
+0
+0
+No complaints
+Child Labour
+0
+0
+No complaints
+0
+0
+No complaints
+Forced Labour/ Involuntary Labour
+0
+0
+No complaints
+0
+0
+No complaints
+Wages
+0
+0
+No complaints
+0
+0
+No complaints
+Other human rights related issues
+0
+0
+No complaints
+0
+0
+No complaints
+7. Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+The Company’s committed to workplace free of harassment, including sexual harassment at the workplace, and has zero 
+tolerance for such unacceptable conduct. The Company encourages reporting of any harassment concerns and is responsive 
+to complaints about harassment or other unwelcome or offensive conduct. The Company has in place a Policy on Prevention 
+of Sexual Harassment in line with the requirements of the Sexual Harassment of Women at the Place (Prevention, Prohibition 
+and Redressal) Act, 2013 (POSH Policy). An internal Complaint Committee is in place to redress and the complaints received 
+regarding sexual harassment. All employees are covered under this Policy. Necessary disclosures in relation to the sexual 
+harassment complaints received and redressal thereof are provided in Board’s Report 2013. The Company has also a Whistle 
+Blower Policy to report genuine concerns and grievances. 
+8. Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+No.
+We are in the process of including human rights requirements as part of all business agreements and contracts.
+9. Assessment of the year.
+% of your plant and offices that were assessed (by entity or statutory 
+authorities or third parties)
+Sexual Harassment
+0
+Discrimination at workplace
+0
+Child Labour
+100
+Forced Labour/ Involuntary Labour
+100
+Wages
+100
+Other human rights related issues
+0
+10. Provide details of any corrective actions taken or underway to address significant risks / concerns carising from the 
+assessments at Question 9 above.
+NA
+Leadership Indicator
+1. Details of a business process being modified / introduced as a result of addressing human rights grievances/
+complaints.
+Not applicable. No such situation had arisen.
+2. Details of the scope and coverage of any human rights due diligence conducted. 
+No human rights due diligence was required to be conducted. 
+3. Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of 
+Persons with Disabilities Act, 2016?
+Currently we have only staircase for accessibility for 1+1 floors. Elevators shall be provided when we go for expansion of 
+facilities. Arrangement is in place to receive differently-abled visitors according to their comforts.
+4. Details on assessment of value chain partners:
+% of value chain partners that were assessed (by value of business 
+done with such partners)
+Sexual Harassment
+NIL
+Discrimination at workplace
+Child Labour
+Forced Labour/ Involuntary Labour
+Wages
+Other – Please specify
+5. Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 4 above. 
+For prevention of sexual harassment, we have an internal comittee and we have been giving the mandatory trainings related 
+to POSH to create awareness among all employees. We have our code of conduct which gives insights on discrimiation at 
+workplace. We do not engage any employee/trainees who are less than 18 years of age. 
+PRINCIPLE 6 Businesses should respect and make effort to protect and restore the environment.
+Essential Indicator
+1. Details of total energy consumption and energy intensity.
+Parameter
+Unit
+FY 2022 - 23
+FY 2021 - 22
+Total electricity consumption (Grid + DG Set) (A)
+MJ
+57,98,361.60
+56,08,274.40
+Total fuel consumption (B)
+MJ
+47,79,564.24
+43,23,532.62
+Energy consumption through other sources (C)
+MJ
+86,07,335.73
+73,21,666.53
+Total energy consumption (A + B + C)
+MJ
+1,91,85,261.57 1,72,53,473.55
+Energy intensity per rupee of turnover (Total energy consumption/ Turnover in rupees)
+0.0051
+0.0043
+Energy intensity (Optional) - the relevant metric may be selected by the entity
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Yes/No), If yes, 
+name of the external agency.
+No
+2. Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve 
+and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme 
+have been achieved. In case targets have not been achieved provide the remedial action taken, if any.
+No
+3. Provide details of the following disclosures related to water.
+Parameter
+Unit
+FY 2022 - 23
+FY 2021 - 22
+Water Withdrawal by source
+(i) Surface Water
+KL
+NA
+NA
+(ii) GroundWater
+KL
+24,075.00
+20,650.00
+(iii) Third party Water
+KL
+7,742.00
+7,424.00
+(iv) Sea Water/ Desalinated Water
+KL
+NA
+NA
+(v) Others
+KL
+NA
+NA
+Total volume of water withdrawal (i + ii + iii + iv + v)
+KL
+31,817.00
+28,074.00
+Total volume of water consumption
+KL
+31,817.00
+28,074.00
+Water intensity per rupee of turnover (Total water consumption/ Turnover in rupees)
+0.000008
+0.00007
+Water intensity (Optional) - the relevant metric may be selected by the entity
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency.
+No
+108
+109
+AMRUTANJAN HEALTH CARE LIMITED
+Annual Report
+2022-23
+Corporate Overview
+Financial Statements
+Statutory Reports
+4. Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation.
+No
+5. Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Unit
+FY 2022 - 23
+FY 2021 - 22
+NOx
+ppm
+13
+14
+SOx
+ppm
+9
+8
+Particulate matter (PM)
+mg/Nm3
+61
+57
+Persistent organic pollutants (POP)
+NA
+NA
+NA
+Volatile organic compounds (VOC)
+NA
+NA
+NA
+Hazardous air pollutants (HAP)
+NA
+NA
+NA
+Others
+NA
+NA
+NA
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency.
+No
+6. Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity.
+Parameter
+Unit
+FY 2022 - 23
+FY 2021 - 22
+Total Scope 1 emissions -  
+(Break-up of the GHG into CO2, CH₄, N₂O, HFCs, PFCs, SF6, NF3, if available)
+kg CO2e
+10,83,598
+9,38,930
+Total Scope 1 emissions - 
+Break-up of the GHG into CO2, CH₄, N₂O, HFCs, PFCs, SF6, NF3, if available)
+kg CO2e
+11,16,312
+10,91,645
+Total Scope 1 and Scope 2 emissions per rupee turnover  
+(Total Scope 1 and Scope 2 emissions / Turnover in rupees)
+0.00058
+0.00050
+Total Scope 1 and Scope 2 emissions intensity (Optional) - the relevant metric 
+may be selected by the entity
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency.
+No 
+7. Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details: Yes
+Retrofit emission control device to be fixed in our DG Genset (Work in Progress).
+8. Provide details related to waste management by the entity:
+Parameter
+Unit
+FY 2022 - 23
+FY 2021 - 22
+Total waste generated
+Plastic waste (A)
+Mt
+269
+50
+E-waste (B)
+NA
+NA
+NA
+Bio-medical waste (C)
+NA
+NA
+NA
+Construction and demolition waste (D)
+NA
+NA
+NA
+Battery waste (E)
+NA
+NA
+NA
+Radioactive waste (F)
+NA
+NA
+NA
+Other Hazardous waste (G)
+NA
+NA
+NA
+Other Non-Hazardous waste (H)
+NA
+NA
+NA
+Total (A + B + C + D + E + F + G + H)
+Mt
+269
+50
+Parameter
+Unit
+FY 2022 - 23
+FY 2021 - 22
+For each category of waste generated, total waste recovered through recycling, re-using or  
+other recovery operations
+Category of waste
+(i) Recycled
+NIL
+NIL
+(ii) Re-used
+NIL
+NIL
+(iii) Other recovery operations
+NIL
+NIL
+Total (i + ii + iii)
+0
+0
+For each category of waste generated, total waste disposed by nature of disposal method
+Category of waste
+(i) Incineration
+NIL
+NIL
+(ii) Landfilling
+NIL
+NIL
+(iii) Other disposal operations
+NIL
+NIL
+Total (i + ii + iii)
+0
+0
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency.
+No
+9. Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted 
+by your company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices 
+adopted to manage such wastes.
+No hazardous and toxic chemicals used in our process. Plastic waste is given to authorized Pollution control board vendor for 
+recycling. EPR registration is under process.
+10. If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental 
+approvals / clearances are required, please specify details in the following format:
+S No Location of operations/ 
+offices
+Types of 
+operations
+Whether the conditions of environmental approval / clearance 
+are being complied with? (Y/N) If no, the reasons thereof and 
+corrective action taken, if any.
+NA
+11. Details of Environmental Impact Assessments (EIA) of projects undertaken by the entity based on applicable laws, in 
+the current financial year:
+Name and brief details of 
+project
+EIA 
+notification 
+number
+Date of 
+notification
+Whether conducted by 
+independent external 
+agency (Yes/ No)
+Results communicated in 
+public domain (Yes/ No)
+Relevant 
+Web link
+No new project undertaken in 
+the current year
+NA
+NA
+NA
+NA
+NA
+12. Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and 
+rules thereunder (Y/N). If not, provide details of all such non-compliances:
+Yes
+Amrutanjan complies with all applicable laws, regulations and guidelines.
+S No
+Specify the law/ regulation/ 
+guidelines which was not 
+compiled with
+Provide details of 
+the non- compliance
+Any fines / penalties / action taken  
+by regulatory agencies such as  
+pollution control boards or by courts
+Corrective 
+action taken
+NA
+NA
+NA
+NA
+110
+111
+AMRUTANJAN HEALTH CARE LIMITED
+Annual Report
+2022-23
+Corporate Overview
+Financial Statements
+Statutory Reports
+Leadership Indicator
+1. Provide break-up of the total energy consumed from renewable and non-renewable sources.
+Parameter
+Unit
+FY 2022 - 23
+FY 2021 - 22
+From renewable sources
+Total electricity consumption (A)
+MJ
+0
+0
+Total fuel consumption (B)
+MJ
+0
+0
+Energy consumption through other sources (C)
+MJ
+0
+0
+Total energy consumed from renewable sources (A + B + C)
+MJ
+0
+0
+From non-renewable sources
+Total electricity consumption (D)
+MJ
+50,96,768.4
+47,50,642.8
+Total fuel consumption (E)
+MJ
+47,79,564.24
+47,79,564.24
+Energy consumption through other sources (F)
+MJ
+86,07,335.73
+73,21,666.53
+Total energy consumed from non- renewable sources (D + E + F)
+MJ
+1,84,83,668.37
+1,68,518,73.57
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency.
+No
+2. Provide the following details related to water discharge.
+Parameter
+Unit
+FY 2022 - 23
+FY 2021 - 22
+Water discharge by destination and level of treatment
+(i)	 To Surface Water
+- No treatment
+- With treatment (Specify level of treatment)
+(ii)	 To Groundwater
+- No treatment
+- With treatment (Specify level of treatment)
+(iii)	 To Sea Water
+- No treatment
+- With treatment (Specify level of treatment)
+(iv)	 Sent to third-parties
+- No treatment
+- With treatment (Specify level of treatment)
+(v)	 Other
+- No treatment
+- With treatment (Specify level of treatment)
+Total water discharged
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency.
+3. Water withdrawal, consumption and discharge in areas of water stress.
+For each facility/ plant located in areas of water stress:
+(i) Name of the area:
+(ii) Nature of operations:
+(iii) Water withdrawal, consumption and discharge:
+Parameter
+Unit
+FY 2022 - 23
+FY 2021 - 22
+Water withdrawal by source
+(i)	 Surface Water
+(ii)	 Ground Water
+(iii)	 Third party Water
+(iv)	 Sea Water/ Desalinated Water
+(v)	 Others
+Total volume of water withdrawal (i + ii + iii + iv + v)
+Total volume of water consumption
+Water intensity per rupee of turnover (Total water consumption/ Turnover in rupees)
+Water intensity (Optional) - the relevant metric may be selected by the entity
+Parameter
+Unit
+FY 2022 - 23
+FY 2021 - 22
+Water discharge by destination and level of treatment
+(i)	 Into Surface Water
+- No treatment
+- With treatment (Specify level of treatment)
+(ii)	 Into Groundwater
+- No treatment
+- With treatment (Specify level of treatment)
+(iii)	 Into Sea Water
+- No treatment
+- With treatment (Specify level of treatment)
+(iv)	 Sent to third-parties
+- No treatment
+- With treatment (Specify level of treatment)
+(v)	 Other
+- No treatment
+- With treatment (Specify level of treatment)
+Total water discharged
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency.
+4. Provide details of total Scope 3 emissions & its intensity.
+Parameter
+Unit
+FY 2022 - 23
+FY 2021 - 22
+Total Scope 3 emissions -  
+(Break-up of the GHG into CO2, CH₄, N₂O, HFCs, PFCs, SF6, NF3, if available)
+Total Scope 3 emissions per rupee turnover (Total Scope 3 emissions / Turnover  
+in rupees)
+Total Scope 3 emissions intensity (Optional) - the relevant metric may be selected  
+by the entity
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency.
+5. With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide details 
+of significant direct & indirect impact of the entity on biodiversity in such areas along- with prevention and remediation 
+activities.
+112
+113
+AMRUTANJAN HEALTH CARE LIMITED
+Annual Report
+2022-23
+Corporate Overview
+Financial Statements
+Statutory Reports
+6. If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource 
+efficiency, or reduce impact due to emissions / effluent discharge / waste generated, please provide details of the same 
+as well as outcome of such initiatives.
+S No Initiative undertaken
+Details of initiative (Web link if any, may be provided  
+along with summary)
+Outcome of the initiative
+7. Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link.
+8. Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation 
+or adaptation measures have been taken by the entity in this regard
+9. Percentage of value chain partners (by value of business done with such partners) that were assessed for 
+environmental impacts.
+PRINCIPLE 7 Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is 
+responsible and transparent.
+Essential Indicator
+1 (a). Number of affiliations with trade & industry chambers/associations. Amrutanjan has affiliations with six (6) trade & 
+industry chambers/associations. They are:
+(a)	 Association of Manufacturers of Ayurvedic Medicines (AMAM)
+(b)	 Madras Chamber of Commerce & Industry
+(c)	 All India Manufacturers’ Organisation (AIMO)
+(d)	 Employers’ Federation Of South India
+(e)	 Madras Management Association
+(f)	 Confederation of Indian Industry (CII)
+b. List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) the entity 
+is a member of/ affiliated to:
+S No Name of the trade and industry chambers/ associations
+Reach of trade and industry chambers/ 
+associations (State/ National)
+1
+Association of Manufacturers of Ayurvedic Medicines (AMAM)
+National
+2
+Madras Chamber of Commerce & Industry
+State
+3
+All India Manufacturer's Organisation (AIMO)
+National
+4
+Employers' Federation Of South India
+National
+5
+Madras Management Association
+State
+6
+Confederation of Indian Industry (CII)
+National
+2. Provide details of corrective action taken or underway on any issues related to anti- competitive conduct by the 
+entity, based on adverse orders from regulatory authorities.
+NA
+Leadership Indicator
+1. Details of public policy positions advocated by the entity:
+S No Public policy 
+advocated
+Method re-stored 
+for such advocacy
+Whether in-formation available 
+in public do-main? (Yes/ No)
+Frequency of re-view by board 
+(Annually/ Half- yearly/  
+Quarterly/ Other)
+Web link,  
+if available
+NA
+PRINCIPLE 8 Businesses should promote inclusive growth and equitable development.
+Essential Indicator
+1. Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the 
+current financial year.
+Name and brief details of project
+SIA 
+notification 
+number
+Date of 
+notification
+Whether conducted by 
+independent external 
+agency (Yes/ No)
+Results communicated 
+in public domain  
+(Yes/ No)
+Relevant 
+Web link
+Not applicable
+NA
+2. Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by 
+your entity.
+S No
+Name of project for which  
+R&R is ongoing
+State District
+No. of project affected 
+families (PAFs)
+% of PAFs 
+covered by R&R
+Amounts paid to 
+PAFs in the  
+FY (in INR)
+Not applicable
+NA
+3. Describe the mechanisms to receive and redress grievances of the community.
+Amrutanjan encourages local communities to come forward and report grievances associated with our operations. In the 
+absence of the factory manager, members of the local community can file complaints with the factory administrator. Following 
+the company’s policies and legal requirements, grievances are addressed according to the nature of the incident. If grievances 
+cannot be resolved or addressed at the factory level, they are escalated to the Head Office, where the general manager of 
+Human Resources handles the situation.
+4. Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY 2022 - 23
+FY 2021 - 22
+Directly sourced from MSMEs/ Small producers
+40.59
+37.92
+Sourced directly from within the district and neighbouring districts
+19.94
+17.72
+Leadership Indicator
+1. Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments 
+(Reference: Question 1 of Essential Indicators above):
+Details of negative social impact identified
+Corrective action taken
+Not applicable
+NA
+2. Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as 
+identified by government bodies:
+S No
+State
+Aspirational Districts
+Amount Spent (in INR)
+1
+Tamil Nadu
+NIL
+1,23,06,802
+2
+Uttar Pradesh
+NIL
+5,75,000
+3
+Telangana
+NIL
+7,00,000
+4
+Andhra Pradesh
+NIL
+2,62,500
+3. a. Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising 
+marginalized /vulnerable groups? (Yes/No)
+No
+(b) From which marginalized /vulnerable groups do you procure?
+NA
+(c) What percentage of total procurement (by value) does it constitute?
+NA
+114
+115
+AMRUTANJAN HEALTH CARE LIMITED
+Annual Report
+2022-23
+Corporate Overview
+Financial Statements
+Statutory Reports
+4. Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the 
+current financial year), based on traditional knowledge:
+S No
+Intellectual property based on traditional 
+knowledge
+Owned/ Ac-quired 
+(Yes/ No)
+Benefits shared 
+(Yes/ No)
+Basis of calculating 
+benefits share
+NA
+NA
+NA
+NA
+5. Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes 
+wherein usage of traditional knowledge is involved.
+Name of authority
+Brief of the case
+Corrective action taken
+NA
+NA
+NA
+6. Details of beneficiaries of CSR projects:
+S No CSR Project
+Number of persons benefited 
+from CSR projects
+% of beneficiaries from vulnerable 
+and marginalized groups
+1
+People for Animals
+All animals in the shelter
+2
+IIMPACT
+120 girls
+100%
+3
+Sevalaya
+1300 young girls
+Mixed population
+4
+Single teacher School
+274
+100%
+5
+Single teacher School
+10
+100%
+6
+Hand in Hand
+1796 students
+Mixed population
+7
+Children garden school
+1000+
+Mixed population
+8
+Digital class solution (Mylapore/Aranavoyal /
+Thirupporur) by Next Education
+300 students
+100%
+9
+Avvai Home & Orphanage for Girls
+200
+100%
+10
+Aranvoyal Panchayat Union
+Village residents
+Mixed population
+11
+Panchayat Union Primary School, Melsembedu
+74 students
+100%
+12
+Panchayat Union Middle School, Ayalacheri
+91 students
+100%
+13
+The Akshaya Patra Foundation
+350 students
+100%
+14
+Aishwarya Trust
+8 children
+100%
+15
+Indian Vision Institute
+4030 children
+Mixed population
+16
+GMR Varalakshmi Foundation
+200 students
+100%
+17
+Inspector of Police, Tiru-vanmiyur PS
+General Public
+Mixed population
+18
+Madras Christian Col-lege
+23 students
+100%
+19
+Aid India
+218 students
+100%
+20 Government Boys High School, Tirupporur
+100 students
+100%
+21
+Social Service Trust, Chen-nai
+General Public
+Mixed population
+22 Deena Bandu Ashram
+275 students & staffs
+100%
+23 Sevalaya
+360 students
+100%
+PRINCIPLE 9 Businesses should engage with and provide value to their consumers in a responsible manner.
+Essential Indicator
+1. Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+Customer complaints are received through Toll-free telephone, Customer care mail ID and through sales force. All product 
+labels are printed with the above customer contact information. The complaints will be registered by marketing department 
+and sent to QA for investigation. After investigation, the root cause will be identified and appropriate CAPA will be taken and 
+communicated to the complainant for the genuine complaints with replacement of product. (SOP : QA/SOP/016)
+2. Turnover of products and/ services as a percentage of turnover from all products/service that carry information about:
+As a percentage to total turnover
+Environmental and social parameters relevant to the product.
+20%
+Safe and responsible usage
+100%
+Recycling and/or safe disposal
+80%
+3. Number of consumer complaints in respect of the following:
+FY 2022 - 23
+FY 2021 - 22
+Received 
+during 
+the year
+Pending resolution 
+at the end of year
+Remarks
+Received 
+during 
+the year
+Pending resolution 
+at the end of year
+Remarks
+Data Privacy
+NIL
+NIL
+NIL
+NIL
+Advertising
+NIL
+NIL
+NIL
+NIL
+Cyber- security
+NIL
+NIL
+NIL
+NIL
+Delivery of essential services
+NIL
+NIL
+NIL
+NIL
+Restrictive trade practices
+NIL
+NIL
+NIL
+NIL
+Unfair trade practices
+NIL
+NIL
+NIL
+NIL
+Other
+2
+0
+18
+0
+4. Details of instances of product recalls on account of safety issues:
+Number
+Reasons for recall
+Voluntary recalls
+NIL
+NA
+Forced recalls
+NIL
+NA
+5. Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, 
+provide a web-link of the policy.
+Yes. Web-link: https://www.worldofamrutanjan.com/privacy_policy
+Information & Cyber Security Standard Operating Procedures(SOPs) are already available in the company’s website. The IT 
+Policy is currently getting updated with the Cyber Security SOPs and Cyber Security Assessment is also going to be undertaken 
+during FY23-24.
+6. Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential 
+services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action 
+taken by regulatory authorities on safety of products / services.
+NIL
+Leadership Indicator
+1. Channels / platforms where information on products and services of the entity can be accessed (provide web link, 
+if available).
+Web-link: https://www.amrutanjan.com
+Amrutanjan website covers all our products & its uses and the services which we provide.
+2. Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.
+All our products primary packing (labels) and secondary packing (unit carton) are having the usage and safety information 
+namely: Directions (for use), Indication, Caution and Storage.
+3. Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.
+We will inform all the stakeholders through proper medium / channel, in case of any disruption / discontinuation of services.
+4. Does the entity display product information on the product over and above what is mandated as per local laws? (Yes/
+No/Not Applicable)
+If yes, provide details in brief.
+Yes.
+Licence No. 368 as per Certificate of Licence to Manufacture for Sale of Ayurvedic Drugs (Form 25D)
+Did your entity carry out any survey with regard to consumer satisfaction relating to the major products / services of the entity, 
+significant locations of operation of the entity or the entity as a whole? (Yes/No)
+Yes.
+Through external service providing agencies annual survey on customer satisfaction of our products has been conducted.
+5. Provide the following information relating to data breaches:
+a
+Number of instances of data breaches along-with impact
+0
+b
+Percentage of data breaches involving personally identifiable information of customers
+0
+No breaches were reported in 2022-23

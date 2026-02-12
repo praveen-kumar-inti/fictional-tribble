@@ -1,0 +1,2538 @@
+Affle (India) Limited 
+Regd. Office | A47 Lower Ground Floor, Hauz Khas, Off Amar Bhawan, New Delhi-110016 
+Communication Office |3rd Floor, Tower-B, Awfis Unitech Cyber Park, Sector – 39, Gurugram-122002, Haryana 
+(P) 0124-4598749 (W)  www.affle.com CIN: L65990DL1994PLC408172 
+ 
+ 
+ 
+AIL/AGM/BRSR/2022-23 
+ 
+ 
+ 
+ 
+ 
+                          August 29, 2023 
+   
+To 
+BSE Limited 
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Mumbai 400 001 
+ 
+ 
+Scrip Code: 542752 
+National Stock Exchange of India Ltd 
+Exchange Plaza, 5th Floor, Plot No. C-l, G 
+Block, Bandra Kurla Complex, Bandra (East), 
+Mumbai - 400 051 
+ 
+Symbol: AFFLE 
+ 
+Sub: Business Responsibility and Sustainability Report for FY 2022-2023 
+ 
+Dear Sir/ Madam,  
+ 
+In compliance with Regulation 34(2)(f) of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, please find attached herewith the Business Responsibility and Sustainability Report 
+forming part of the Annual Report of the Company for FY 2022-23. 
+ 
+Kindly take the above information on records. 
+ 
+Thanking you, 
+ 
+For Affle (India) Limited 
+ 
+ 
+ 
+ 
+Parmita Choudhury 
+Company Secretary & Compliance Officer 
+ 
+Encl: As above 
+ 
+ 
+PARMITA 
+CHOUD
+HURY
+Digitally signed 
+by PARMITA 
+CHOUDHURY 
+Date: 2023.08.29 
+11:55:59 +05'30'
+AFFLE (INDIA) LIMITED
+154
+INTEGRATED ANNUAL REPORT 2022-23
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of the listed entity
+S. No.
+Particulars
+1.
+Corporate Identity Number (CIN)
+L65990DL1994PLC408172
+2.
+Name
+Affle (India) Limited
+3.
+Year of incorporation
+1994
+4.
+Registered office address
+A47 Lower Ground Floor, Hauz Khas, Off Amar 
+Bhawan, New Delhi-110016
+5.
+Corporate address
+3rd Floor, Tower-B, Awfis Unitech Cyber Park, 
+Sector – 39, Gurugram-122002, Haryana
+6.
+E-mail
+compliance@affle.com
+7.
+Telephone
+0124-4598749
+8.
+Website
+www.affle.com
+9.
+Financial year for which reporting is 
+being done
+FY 2022-23
+10.
+Paid-up capital
+Rs. 266.50 million
+11.
+Name of the Stock Exchange(s) where 
+shares are listed
+1. BSE Limited
+2. National Stock Exchange of India Limited
+12.
+Name and contact details (telephone, 
+email address) of the person who may be 
+contacted in case of any queries on the 
+BRSR report
+Karish Manchanda,
+Investors Relations and Strategy,
+Email – investor.relations@affle.com
+13.
+Reporting boundary
+Disclosures made in this report are on a 
+consolidated basis unless otherwise stated
+II.	 Products/services
+	
+14.	Details of business activities (accounting for 90% of the turnover):
+S. No.
+Description of Main 
+Activity
+Description of
+Business Activity
+% of turnover in 
+FY2022-23
+1.
+Information and 
+Communication
+Mobile Advertising (Consumer Platform)
+99.3%
+App Development, Offline-to-Online commerce 
+and data analytics (Enterprise Platform)
+0.7%
+BUSINESS RESPONSIBILITY AND 
+SUSTAINABILITY REPORT
+*GRI 2-1
+155
+	
+15.	Products / Services sold by the entity (accounting for 90% of the entity’s turnover):
+S. No.
+Product/Service
+NIC Code
+% of total turnover 
+contributed
+1.
+Consumer Platform
+62099
+99.3%
+2.
+Enterprise Platform
+62099
+0.7%
+III.	 Operations
+16.	Number of locations where plants and / or operations / offices of the entity are situated:
+Location
+No. of plants
+No. of offices
+Total
+National
+Not applicable
+3
+3
+International
+9
+9
+17.	 Markets served by the entity
+a.	 Number of locations:
+Locations
+No.
+National (no. of states)
+Pan-India
+International (no. of countries)
+>130
+b.	 What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+The contribution of exports of Affle (India) Limited on a standalone basis was 13.4% as a percentage 
+of the total turnover of the entity for the financial year 2022-23.
+c.	 A brief on types of customers
+	
+Our customers primarily comprise of Business to Consumer (“B2C”) companies who engage 
+with us either directly or through their advertising agencies across industry verticals including (1) 
+e-commerce, ed-tech and entertainment; (2) fintech, FMCG and foodtech; (3) gaming, government 
+and groceries; and (4) health-tech and hospitality (collectively, the “Category EFGH” industries for 
+the Company).
+	
+As of March 31, 2023, we had over 90% of our revenue from the categories E, F, G & H and 74.5% 
+of our revenue came from customers who directly engaged with us, while the rest 25.5% of our 
+revenue came from customers who engaged with us through their advertising agencies.
+AFFLE (INDIA) LIMITED
+156
+INTEGRATED ANNUAL REPORT 2022-23
+IV.	 Employees
+18.	 Details as at the end of the financial year
+a.	 Employees and workers (including differently abled):
+S. No.
+Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+Employees
+1.
+Permanent1 (D) 
+551
+353
+64.1%
+198
+35.9%
+2.
+Other than permanent2 (E)
+11
+5
+45.5%
+6
+54.5%
+3.
+Total employees (D + E) 
+562
+358
+63.7%
+204
+36.3%
+Workers
+1.
+Permanent (F)
+-
+-
+-
+-
+-
+2.
+Other than permanent (G)
+-
+-
+-
+-
+-
+3.
+Total workers (F+G)
+-
+-
+-
+-
+-
+Notes:
+1.	
+Permanent -  Employees without any fixed/pre-defined period of employment. This includes 
+	
+full-time as well as contractual employees if the employment agreement or the contract does 
+	
+not has any fixed expiry or termination date. 
+	
+2.	
+Other than permanent -  Employees whose agreement or contract expires after a fixed period 
+	
+	
+or once a particular project is complete.
+b.	 Differently abled employees and workers:
+S. No.
+Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+Differently abled employees
+1.
+Permanent (D)
+-
+-
+-
+-
+-
+2.
+Other than permanent (E)
+-
+-
+-
+-
+-
+3.
+Total differently abled 
+employees (D + E) 
+-
+-
+-
+-
+-
+Differently abled employees
+1.
+Permanent (F)
+-
+-
+-
+-
+-
+2.
+Other than permanent (G)
+-
+-
+-
+-
+-
+3.
+Total differently abled 
+employees (F + G) 
+-
+-
+-
+-
+-
+19.	Participation/Inclusion/Representation of women:
+Total
+(A)
+No. and percentage of females
+No. (B)
+% (B / A)
+Board of Directors
+10
+4
+40.0%
+Key Managerial Personnel
+4
+1
+25.0%
+Note: Board of Directors & Key Managerial Personnel of Affle (India) Limited are on a standalone basis.
+*GRI 2-7
+157
+20.	Turnover rate for permanent employees and workers:
+FY 2022-23
+FY 2021-22
+FY 2020-2021
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent 
+employees
+30.3%
+30.9%
+30.6%
+25.2%
+21.7%
+23.4%
+26.7%
+18.1%
+22.4%
+Permanent 
+workers
+-
+-
+-
+-
+-
+-
+-
+-
+-
+V.	 Holding, Subsidiary and Associate Companies (including Joint Ventures)
+21.	 (a) Names of Holding / Subsidiary / Associate Companies / Joint Ventures:	
+S. No.
+Name of the Holding/
+Subsidiary/ Associate/ Joint 
+Ventures (A)
+Indicate whether 
+Holding/ Subsidiary/ 
+Associate/Joint 
+Venture
+% of 
+shares 
+held 
+by the 
+Company
+Does the entity 
+indicated at column 
+A, participate 
+in the Business 
+Responsibility 
+initiatives of the 
+Company? (Yes/No)
+1.
+Affle Holdings Pte. Ltd.
+Holding Company
+46.8%
+Yes, Business 
+Responsibility 
+initiatives of the 
+Company are 
+extended to the 
+foreign subsidiaries 
+to the extent as 
+required under laws 
+of the country of 
+their operation.
+2.
+Affle International Pte. Ltd
+Wholly owned 
+Subsidiary
+100.0%
+3.
+PT. Affle Indonesia
+Step-down Subsidiary
+100.0%
+4.
+Affle MEA FZ-LLC
+Step-down Subsidiary
+100.0%
+5.
+Mediasmart Mobile S.L
+Step-down Subsidiary
+100.0%
+6.
+Appnext Pte. Ltd.
+Step-down Subsidiary
+95.0%
+7.
+Appnext Technologies Limited   
+Step-down Subsidiary
+100.0%
+8.
+Jampp (Ireland) Ltd.  
+Step-down Subsidiary
+100.0%
+9.
+Atommica LLC   
+Step-down Subsidiary
+100.0%
+10.
+Jampp EMEA GmbH  
+Step-down Subsidiary
+100.0%
+11.
+Jampp APAC Pte. Ltd.  
+Step-down Subsidiary
+100.0%
+12.
+Jampp HQ S.A. (earlier known as 
+Devego S.A.)  
+Step-down Subsidiary
+100.0%
+13.
+Jampp Ltd.  
+Step-down Subsidiary
+100.0%
+14.
+Jampp Veiculacao de Publicidade 
+Limitada  
+Step-down Subsidiary
+100.0%
+15.
+Jampp Inc.
+Step-down Subsidiary
+100.0%
+VI.	 CSR Details
+22.	CSR Activities
+	
+i.	
+Whether CSR is applicable as per section 135 of Companies Act, 2013: Yes
+ii.	
+Turnover: Rs. 4,947.97 million
+iii.	
+Net worth: Rs. 9,090.72 million
+*GRI 2-2, 2-7
+AFFLE (INDIA) LIMITED
+158
+INTEGRATED ANNUAL REPORT 2022-23
+VII.	Transparency and Disclosures Compliances
+23.	Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on 
+	
+Responsible Business Conduct (NGRBC):
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance 
+redressal 
+mechanism 
+in place 
+(Yes/No)
+If Yes, then 
+provide 
+web-link for 
+grievance 
+redress 
+policy
+FY 2022-23
+FY 2021-22
+Number of 
+complaints 
+filed 
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution 
+at the end 
+of the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at the end 
+of the year
+Remarks
+Communities
+Grievance 
+Redressal/
+Whistle 
+Blower 
+Policy 
+available 
+at: https://
+affle.com/
+images/pdf/
+Whistle%20
+Blower%20
+Policy.pdf
+-
+-
+-
+-
+-
+-
+Investors 
+(other than 
+shareholders)
+-
+-
+-
+-
+-
+-
+Shareholders
+1
+-
+-
+2
+-
+-
+Employees 
+and workers
+-
+-
+-
+-
+-
+-
+Customers
+-
+-
+-
+-
+-
+-
+Value Chain   
+Partners
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Others 
+(please 
+specify)
+-
+-
+-
+-
+-
+-
+24. Overview of the entity’s material responsible business conduct issues: 
+Please indicate material responsible business conduct and sustainability issues pertaining to 
+environmental and social matters that present a risk or an opportunity to your business, rationale 
+for identifying the same, approach to adapt or mitigate the risk along-with its financial implications:
+The Company, being a technology business is low resource intensive with minimal impact on the 
+environment or society. As such, many of the material topics identified and mapped are proactive in 
+nature and offer an opportunity towards sustainable growth instead of being a risk to the business.
+*GRI 2-16, 2-25, 2-26
+159
+S. 
+No
+Material issue identified
+Indicate 
+whether risk 
+or opportunity 
+Financial implications of the risk 
+or opportunity (Indicate positive 
+or negative implications)
+1.
+Customers and Partners Satisfaction
+Opportunity
+Positive implication
+2.
+Data Security and Privacy
+Risk
+Negative implication
+3.
+Technology Innovation
+Opportunity
+Positive implication
+4.
+Brand and Reputation Management
+Opportunity
+Positive implication 
+5.
+Employee Training and Upskilling
+Opportunity
+Positive implication
+6.
+Employee Welfare and Well-being
+Opportunity 
+Positive implication
+7.
+Transparency, Disclosures and 
+Regulatory Compliance
+Risk
+Negative implication
+8.
+Economic Performance and Financial 
+Inclusion
+Opportunity
+Positive implication
+9.
+Risk Management
+-
+Negative Implication
+10.
+Board Diversity, Performance and 
+Independence
+Opportunity
+Positive implication
+11.
+Stakeholders Relations
+Opportunity
+Positive implication
+12.
+Environmental Sustainability
+Risk 
+Neutral implication
+Further details on ‘Rationale for identifying the risk/opportunity’ and our ‘approach to adapt or mitigate the 
+impact’ is available under the Materiality Assessment on pages 58-61 of this integrated annual report.
+AFFLE (INDIA) LIMITED
+160
+INTEGRATED ANNUAL REPORT 2022-23
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place 
+towards adopting the NGRBC Principles and Core Elements.
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1.	 a. Whether your entity’s policy / policies 
+cover each principle and its core elements 
+of the NGRBCs. (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+     b. Has the policy been approved by the 
+Board?  (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+    c. Web Link of the Policies
+h t t p s : //a f f l e .co m / i m a g e s /p d f/ B u s i n e s s % 2 0
+Responsibility%20and%20Sustainibility%20Policy.pdf
+2.	 Whether the entity has translated the 
+policy into procedures. (Yes / No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3.	 Do the enlisted policies extend to your 
+value chain partners? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+4.	 Name of the national and international 
+codes/certifications/labels/standards (e.g.   
+Forest Stewardship Council, Fairtrade, 
+Rainforest Alliance, Trustea) standards (e.g. 
+SA 8000, OHSAS, ISO, BIS) adopted by the 
+Company and mapped to each principle.
+None
+5.	 Specific commitments, goals and targets 
+set by the entity with defined timelines,
+if any.
+•	 Set up the process for donating used laptops/
+hardware to charitable organisations and reduce 
+direct disposal of e-waste
+•	 Implement Vendor Code of Conduct
+•	 Enhance ESG data collection and disclosure process
+•	 Engage with external consultants to establish goals 
+and targets along with optimization/improvement 
+plan in the upcoming 18 months
+6.	Performance of the entity against the 
+specific commitments, goals and targets 
+along-with reasons in case the same are 
+not met.
+Affle has established qualitative ESG standards and 
+policies for FY2023 and is currently in the process of 
+engaging with external technical consultants to help 
+establish quantitative targets of the Company. The 
+Company's progress towards achieving these qualitative 
+targets may be reported in the next fiscal year.
+*GRI 2-23, 2-24
+161
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Governance, leadership and oversight
+7.	 Statement by director responsible for the 
+business responsibility report, highlighting 
+ESG related challenges, targets and 
+achievements
+At Affle, we recognize the importance of integrating 
+sustainability across our organisation. We continue to 
+benchmark our governance, ESG practices and financial 
+reporting with industry leading standards. Our proactive 
+adoption of ESG in FY2020-21 and perpetual initiatives 
+towards enabling a sustainable well-governed ecosystem 
+reinforces our commitment towards inclusive value 
+creation for the stakeholders and the society at large.
+Affle being in the mobile advertising technology 
+business, is significantly less resource intensive in 
+terms of environmental impact or related material 
+inputs. However, as a responsible Company, we resolve 
+to accelerate the evolution of ESG to make a positive 
+impact on people and the planet. We are committed 
+to make conscious efforts towards managing energy, 
+water and waste more efficiently. Recently, we revised 
+our e-waste strategy as part of our waste management 
+approach, with the aim of minimizing waste and its 
+environmental impact. Our revised policy aims to 
+minimize e-waste by donating used laptops/hardware 
+to charitable organisations in the working condition, 
+aligned to the 3R (Reduce, Recycle and Reuse) principle 
+of waste management. This shall also contribute to the 
+digital inclusiveness and academic well-being of the 
+communities around us.
+During the year FY2023, we continued our efforts of 
+implementing sustainable business practices across 
+organisation, focused on: 1. enhancing cyber security 
+and data protection capabilities to ensure the security 
+and privacy for our customers and 2. creating an 
+inclusive workplace free from all forms of discrimination 
+and harassment.  On the governance front, our ESG 
+Committee 
+conducts 
+regular 
+evaluations 
+of 
+the 
+Company’s ESG practices. We assess all critical policies 
+to ensure that they align with our values & objectives 
+and integrate sustainability considerations into all our 
+business processes, corporate decisions and strategic 
+goals. In order to reinforce our policy framework, during 
+FY2023 we have introduced two new policies, namely 
+the ESG Policy and the Vendor Code of Conduct. 
+Additionally, we have revised and updated the BRSR 
+and IT Hardware Standards Policy to promote business 
+sustainability and foster long-term resilience.
+With the aim of positive impact towards a better 
+tomorrow, Affle is broadening its sustainability 
+initiatives and working more closely to address 
+previously identified major material topics which have 
+high relevance to its business.
+*GRI 2-22, 306-1
+AFFLE (INDIA) LIMITED
+162
+INTEGRATED ANNUAL REPORT 2022-23
+8.	 Details of the highest authority 
+responsible for implementation and 
+oversight of the business responsibility 
+policy (ies):
+The Board oversees recommendations of the ESG 
+Committee related to business responsibility. ESG 
+committee ensures long-term positive value creation 
+across the enterprise-wide materiality topics identified 
+for all the stakeholders.
+9.	 Does the entity have a specified 
+Committee of the board / director 
+responsible for decision making on 
+sustainability related issues? If yes, 
+provide details.
+The ESG Committee is responsible for decision making 
+on sustainability related issues.
+163
+10. Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether review was undertaken 
+by Director / Committee of the Board/ 
+Any other Committee
+Frequency
+(Annually/ Half yearly/ Quarterly/ 
+Any other – please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6 P7
+P8
+P9
+A. Performance against above policies and 
+follow up action
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Annually
+B. Compliance with statutory requirements 
+of relevance to the principles, and 
+rectification of any non-compliances
+Affle complies with the applicable laws of the land it operates in.
+11.	Has the entity carried out independent 
+assessment/ evaluation of the working of 
+its policies by an external agency? (Yes/
+No). If yes, provide name of the agency.
+    P1             P2            P3            P4            P5            P6            P7            P8            P9
+No
+12. If answer to question (1) above is “No” i.e. 
+not all Principles are covered by a policy, 
+reasons to be stated:
+    
+Questions
+    P1             P2            P3            P4            P5            P6            P7            P8            P9
+A. The entity does not consider the 
+Principles material to its business
+(Yes/No)
+Our response to question (1) in table above is Yes for all principles and hence this is not 
+applicable.
+B. The entity is not at a stage where it is in a 
+position to formulate and implement the 
+policies on specified principles (Yes/No)
+C. The entity does not have the financial or/
+human and technical resources available 
+for the task (Yes/No)
+D. It is planned to be done in the next 
+financial year (Yes/No)
+E. Any other reason (please specify)
+AFFLE (INDIA) LIMITED
+164
+INTEGRATED ANNUAL REPORT 2022-23
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+This section sets out the Company’s performance in integrating the Principles and Core Elements with key 
+processes and decisions. The sustainability disclosure pertaining to the essential indicators under each of the 
+nine principles is given below.
+Principle 1: Businesses should conduct and govern themselves with integrity and in a manner that is Ethical, 
+Transparent and Accountable.
+Essential Indicators
+1.	 Percentage coverage by training and awareness programmes on any of the principles during the financial 
+year:
+	
+Segment
+Total number of 
+training and awareness 
+programmes held
+Topics / principles covered 
+under the training and its 
+impact
+% of persons in respective 
+category covered by the 
+awareness programmes
+Board of Directors
+1
+i.	 Roles, responsibilities and 
+duties as director
+ii.	 Business Overview
+iii.	Company’s vision and 
+growth ahead
+iv.	Overview of policies and 
+code of conduct as per 
+applicable rules
+100.0%
+Key Managerial 
+Personnel
+2
+i.	 Training on Human Rights 
+& Anti-Corruption & Anti 
+Bribery Policies
+ii.  Training on Prevention 
+of Sexual Harassment at 
+Workplace
+100.0%
+Employees other 
+than BoD and 
+KMPs
+Workers
+2.	 Details of fines / penalties / punishment / award / compounding fees / settlement amount paid in 
+proceedings (by the entity or by directors / KMPs) with regulators / law enforcement agencies / judicial 
+institutions, in the financial year, in the following format (Note: the entity shall make disclosures on the 
+basis of materiality as specified in Regulation 30 of SEBI (Listing Obligations and Disclosure Obligations) 
+Regulations, 2015 and as disclosed on the entity’s website):
+Monetary
+NGRBC 
+Principle
+Name of the 
+regulatory / 
+enforcement 
+agencies judicial 
+institutions
+Amount
+(In INR)
+Brief
+of the
+case
+Has an 
+appeal 
+been 
+preferred?
+(Yes/No)
+Penalty / Fine
+None
+Settlement
+Compounding fee
+Non-monetary
+Imprisonment
+None
+Punishment
+*GRI 2-17, 205-2, 404-2
+165
+3.	 Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where 
+monetary or non-monetary action has been appealed.
+Case Details
+Name of the regulatory / enforcement agencies / judicial institutions
+Not applicable
+4.	 Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, 
+provide a web-link to the policy.
+	
+Anti-Bribery and Anti-Corruption Policy of the Company is available at the website of the Company at 
+https://affle.com/images/pdf/2022/Anti%20Corruption%20&%20Anti%20Bribery%20Policy.pdf
+5.	 Number of Directors / KMPs / employees / workers against whom disciplinary action was taken by any law 
+enforcement agency for the charges of bribery / corruption:
+	
+FY 2022-23
+FY 2021-22
+Directors
+None
+KMPs
+Employees
+Workers
+6.	 Details of complaints with regard to conflict of interest:
+FY 2022-23
+FY 2021-22
+Number
+Remarks
+Number Remarks
+Number of complaints received in relation to issues of 
+Conflict of Interest of the Directors
+None
+Number of complaints received in relation to issues of 
+Conflict of Interest of the KMPs
+7.	 Provide details of any corrective action taken or underway on issues related to fines / penalties / action 
+taken by regulators / law enforcement agencies / judicial institutions, on cases of corruption and conflicts 
+of interest.
+	
+Not applicable
+Principle 2:  Businesses should provide goods and services in a manner that is sustainable and safe
+Essential Indicators
+1.	 Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the 
+environmental and social impacts of product and processes to total R&D and capex investments made by 
+the entity, respectively.
+	
+FY 2022-23 (%)
+FY 2021-22 (%)
+Details of improvements in environmental
+and social impacts
+R&D
+The Company is in the business of mobile advertising and the R&D / Capex is spent towards 
+building and enhancing mobile technologies which have very limited direct impact on 
+utilization of environmental resources. However, as an indirect impact, our tech R&D helps 
+reduce the usage of paper involved in traditional forms of advertising, thus our technology is 
+environmental and social friendly.
+Capex
+*GRI 2-15, 205-2
+AFFLE (INDIA) LIMITED
+166
+INTEGRATED ANNUAL REPORT 2022-23
+2.	 Does the entity have procedures in place for sustainable sourcing? If yes, what percentage of inputs were 
+sourced sustainably?
+	
+The Company is in the process of setting up procedures for sustainable sourcing to the extent applicable 
+to the Company.
+3.	 Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the 
+end of life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) Other waste.
+	
+Not applicable. Affle, being in mobile advertising technology business has no tangible product for reusing, 
+recycling and disposing at the end of life.
+4.	 Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities. If yes, whether 
+the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to 
+Pollution Control Boards? If not, provide steps taken to address the same.
+	
+Not applicable
+Principle 3:  Businesses should respect and promote the well-being of all employees, including those in their 
+value chains
+Essential Indicators
+1.	 a. Details of measures for the well-being of employees:
+% of employees covered by
+Cate-
+gory 
+Total
+(A)
+Health
+Insurance
+Accident 
+Insurance
+Maternity 
+benefits
+Paternity 
+benefits
+Day care 
+facilities
+No.(B)
+%(B/A)
+No.(C)
+%(C/A)
+No.(D)
+%(D/A)
+No.(E)
+%(E/A)
+No.(F)
+%(F/A)
+Permanent employees
+Male 
+353
+320
+90.7%
+320
+90.7%
+-
+-
+340
+96.3%
+340
+96.3%
+Female
+198
+179
+90.4%
+179
+90.4%
+193
+97.5%
+-
+-
+193
+97.5%
+Total
+551
+499
+90.6%
+499
+90.6%
+193
+35.0%
+340
+61.7%
+533
+96.7%
+Other than permanent employees
+Male
+5
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female
+6
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Total
+11
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+*GRI 401-3
+167
+	
+b. Details of measures for the well-being of workers:
+% of workers covered by
+Total
+(A)
+Health
+Insurance
+Accident 
+Insurance
+Maternity 
+benefits
+Paternity 
+benefits
+Day care 
+facilities
+No.(B)
+%(B/A)
+No.(C)
+%(C/A)
+No.(D)
+%(D/A)
+No.(E)
+%(E/A)
+No.(F)
+%(F/A)
+Permanent employees
+Male 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Total
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Other than permanent employees
+Male
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Total
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+2.	 Details of retirement benefits, for current financial year and previous financial year:
+FY 2022-23
+FY 2021-22
+Benefits
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted 
+and 
+deposited 
+with the 
+authority
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted 
+and 
+deposited 
+with the 
+authority
+PF
+93.6%
+-
+Yes
+91.7%
+-
+Yes
+Gratuity
+100.0%
+-
+Not 
+applicable
+100.0%
+-
+Not 
+applicable
+Employee State 
+Insurance (ESI)
+-
+-
+Not 
+applicable
+-
+-
+Not 
+applicable
+Others 
+-
+-
+-
+-
+-
+-
+
+Note:
+	
+Retirement benefits of Affle (India) Limited are on a standalone basis
+3.	 Accessibility of workplaces
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the 
+requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken 
+by the entity in this regard?
+The Company currently do not have differently abled employees. The Company has an equal opportunity 
+policy statement and is open to employing differently abled in its human resource base.
+4.	 Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? 
+If so, provide a web-link to the policy.
+	
+The Company’s statement on equal opportunity is part of its Human Rights Policy Statement available on 
+the website at https://affle.com/images/pdf/2022/Human%20Rights%20Policy%20Statement.pdf.
+*GRI 2-23, 2-24
+AFFLE (INDIA) LIMITED
+168
+INTEGRATED ANNUAL REPORT 2022-23
+5.	 Return to work and Retention rates of permanent employees and workers that took parental leave.
+Permanent employees
+Permanent workers
+Gender
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+100.0%
+100.0%
+-
+-
+Female
+100.0%
+100.0%
+-
+-
+Total
+100.0%
+100.0%
+-
+-
+6.	 Is there a mechanism available to receive and redress grievances for the following categories of employees 
+and workers? If yes, give details of the mechanism in brief: 
+Yes/No. If yes, then give details 
+of the mechanism in brief
+Permanent Workers
+Yes, The Vigil Mechanism/ Whistle Blower 
+Policy is available on the website of the 
+Company at https://affle.com/images/pdf/
+Whistle%20Blower%20Policy.pdf
+Other than Permanent Workers
+Permanent Employees
+Other than Permanent Employees
+7.	 Membership of employees and worker in association(s) or unions recognised by the Company:
+The Company does not have employees and workers association(s) or unions.
+8.	 Details of training given to employees and workers:
+FY 2022-23
+FY 2021-22
+Total
+(A)
+Health and safety 
+measures
+Skill 
+upgradation
+Total
+(D)
+Health and 
+safety measures
+Skill 
+upgradation
+No.(B)
+% (B/A)
+No.(C) % (C/A)
+No.(E)
+% (E/D) No. (F)
+% (F/D)
+Employees
+Male
+358
+358
+100.0%
+85
+23.7%
+361
+15
+4.2%
+240
+66.5%
+Female
+204
+204
+100.0%
+71
+34.8%
+196
+6
+3.1%
+125
+63.8%
+Total
+562
+562
+100.0%
+156
+27.8%
+557
+21
+3.8%
+365
+65.5%
+Workers
+Male
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Total
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+*GRI 2-16, 2-25, 2-26, 2-30, 401-3, 404-2
+169
+9.	 Details of performance and career development reviews of employees and worker:
+	
+FY 2022-23
+FY 2021-22
+Total (A)
+No. (B)
+% (B / A)
+Total (C)
+No. (D)
+% (D / C)
+Employees
+Male
+358
+358
+100.0%
+361
+361
+100.0%
+Female
+204
+204
+100.0%
+196
+196
+100.0%
+Total
+562
+562
+100.0%
+557
+557
+100.0%
+Workers
+Male
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+Total
+-
+-
+-
+-
+-
+-
+10.	Health and safety management system
+a.	 Whether an occupational health and safety management system has been implemented by the entity? 
+(Yes/No).  If yes, the coverage of such system?
+	
+No, there are no significant occupational health and safety risks due to the nature of our business. 
+With regards to safety, relevant alerts are sent to employees on safety related aspects on a need basis. 
+Psychological training was conducted to help employees develop mental fitness through Mind Fitness 
+and Stress Management, particularly during the pandemic times. During Covid-19, an internal assistance 
+channel was formed to extend medical information to the employees on a real-time basis and an internal 
+Covid Response Team was formed for continuous employees’ assistance.
+	
+Affle Care program is established for all the Afflers and their families. It is a holistic counselling program 
+to support the emotional, practical and physical well-being available 24x7 and completely free of cost.
+b.	 What are the processes used to identify work-related hazards and assess risks on a routine and non-
+routine basis by the entity?
+	
+Given the nature of our business, this is not directly applicable.
+c.	 Whether you have processes for workers to report the work-related hazards and to remove themselves 
+from such risks.
+	
+	
+Not applicable
+d.	 Do the employees / worker of the entity have access to non-occupational medical and healthcare 
+services? (Yes/No).  
+	
+Yes
+*GRI 404-3
+AFFLE (INDIA) LIMITED
+170
+INTEGRATED ANNUAL REPORT 2022-23
+11.	Details of safety related incidents:
+	
+Safety Incident/Number
+Category
+FY 2022-23
+FY 2021-22
+Lost Time Injury Frequency Rate 
+(LTIFR) (per one million-person 
+hours worked)
+Employees
+-
+-
+Workers
+-
+-
+Total recordable work-related 
+injuries
+Employees
+-
+-
+Workers
+-
+-
+No. of fatalities
+Employees
+-
+-
+Workers
+-
+-
+High consequence work-related 
+injury or ill-health (excluding 
+fatalities)
+Employees
+-
+-
+Workers
+-
+-
+12.	Describe the measures taken by the entity to ensure a safe and healthy workplace.
+	
+The Company provides a workplace environment that is safe, hygienic, humane and upholds the dignity 
+of the employees. The Company has imparted training to all the employees on Prevention of Sexual 
+Harassment at Workplace. Psychological training was conducted to help employees develop mental fitness 
+through Mind Fitness and Stress Management, particularly during the pandemic times. During Covid-19, 
+Affle formed an internal assistance channel to extend medical information to the employees on a real-time 
+basis. Affle Care program was launched for all Afflers and their families. It is a holistic counselling program 
+to support the emotional, practical and physical well-being available 24x7 and completely free of cost.
+13.	Number of complaints on the following made by employees and workers:
+	
+FY 2022-23
+FY 2021-22
+Filed during 
+the year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Filed 
+during the 
+year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Working conditions
+-
+-
+-
+-
+-
+-
+Health & Safety
+-
+-
+-
+-
+-
+-
+14.	Assessments for the year:
+	
+% of your plants and offices that were assessed
+(by entity or statutory authorities or third parties)
+Health & Safety practices
+Not applicable
+Working conditions
+15.	Provide details of any corrective action taken or underway to address safety-related incidents (if any) 
+and on significant risks / concerns arising from assessments of health & safety practices and working 
+conditions.
+	
+Not applicable
+171
+Principle 4: Businesses should respect the interests of and be responsive to all its stakeholders
+Essential Indicators
+1.	 Describe the processes for identifying key stakeholder groups of the entity.
+	
+Stakeholder engagement is a continuous process at Affle. We have identified our global stakeholders’ 
+groups that can be impacted by our strategic and operational decisions or instead impact us. We continue 
+to engage with them regularly and stakeholder inclusiveness is a part of our core strategy. 
+2.	 List stakeholder groups identified as key for your entity and the frequency of engagement with each 
+stakeholder group.
+Stakeholder 
+Group
+Whether 
+identified as 
+vulnerable and 
+marginalized 
+group
+(Yes/No)
+Channels of communication 
+(Email, SMS, Newspaper,
+Pamphlets, Advertisements, 
+Community Meetings, 
+Notice Board, Website), 
+Other
+Frequency of 
+engagement 
+(annually / half 
+yearly / quarterly / 
+others)
+Purpose and scope 
+of engagement 
+including key topics 
+and concerns 
+raised during such 
+engagement
+The Company recognizes stakeholders’ groups which includes shareholders, investors, employees, 
+customers, publishers & ecosystem-level partners, government, regulators, trade bodies, NGOs 
+and the society at large. For detailed stakeholder mapping including channels of communication, 
+stakeholders’ expectations and other details, please refer pages 46-47 of this Annual Report.
+Principle 5: Businesses should respect and promote human rights
+                                               
+Essential Indicators
+1.	 Employees and workers who have been provided training on human rights issues and policy(ies) of the 
+entity:
+FY 2022-23
+FY 2021-22
+Total (A)
+No. of 
+employees 
+/ workers 
+covered (B)
+% (B / A)
+Total (C)
+No. of 
+employees 
+/ workers 
+covered (D)
+% (D / C)
+Employees
+Permanent
+551
+551
+100.0%
+543
+543
+100.0%
+Other than 
+permanent
+11
+11
+100.0%
+14
+14
+100.0%
+Total Employees
+562
+562
+100.0%
+557
+557
+100.0%
+Workers
+Permanent
+-
+-
+-
+-
+-
+-
+Other than 
+permanent
+-
+-
+-
+-
+-
+-
+Total Workers
+-
+-
+-
+-
+-
+-
+Note: 
+1. 	 Split between Permanent employees and Other than Permanent employees for FY2021-22 has been 
+reclassified.
+*GRI 2-29
+AFFLE (INDIA) LIMITED
+172
+INTEGRATED ANNUAL REPORT 2022-23
+2.	 Details of minimum wages paid to employees and workers:
+FY 2022-23
+FY 2021-22
+Total 
+(A)
+Equal to
+Minimum 
+Wage 
+More than
+Minimum 
+Wage (C)
+Total 
+(D)
+Equal to
+Minimum 
+Wage 
+More than
+Minimum 
+Wage (C)
+No. (B)
+% 
+(B/A)
+No. (C)
+% 
+(C/A)
+No. (E)
+% 
+(E/D)
+No. (F)
+% 
+(F/D)
+Employees
+Permanent
+299
+0
+0.0%
+299
+100.0%
+303
+0
+0.0%
+303
+100.0%
+Male
+199
+0
+0.0%
+199
+100.0%
+206
+0
+0.0%
+206
+100.0%
+Female
+100
+0
+0.0%
+100
+100.0%
+97
+0
+0.0%
+97
+100.0%
+Other than 
+Permanent
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Male
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Workers
+Permanent
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Male
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Other than 
+Permanent
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Male
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+	
+Note:
+	
+The minimum wages paid to employees of Affle (India) Limited are on standalone basis.
+3.	 Details of remuneration/salary/wages:
+Particulars 
+Male
+Female
+Number
+Median remuneration/ 
+salary/ wages of respective 
+category
+Number
+Median remuneration/ 
+salary/ wages of respective 
+category
+Board of 
+Directors (BoD)
+5
+1,170,000
+2
+945,000
+Key Managerial 
+Personnel (KMP)
+4
+5,901,790
+1
+1,471,998
+Employees other 
+than BoD and 
+KMP
+263
+773,754
+139
+678,893
+Workers
+-
+-
+-
+-
+	
+Note:
+	
+Board of Directors, Key Managerial Personnel and employees of Affle (India) Limited are on standalone 
+basis.
+173
+4.	 Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or 
+issues caused or contributed to by the business?  (Yes/No)
+	
+Yes, the ESG Committee is responsible for addressing all matters related to Environment, Social and 
+Governance. 
+5.	 Describe the internal mechanisms in place to redress grievances related to human rights issues.
+	
+The Company is committed to protecting the fundamental rights of the individuals that have a direct 
+business relationship with the Company. It strives to uphold the human rights principles and contribute to 
+the fulfilment of human rights based upon the United Nations Guiding Principles on Business and Human 
+Rights (“UN Guiding Principles”).
+6.	 Number of complaints on the following made by employees and workers:
+FY 2022-23
+FY 2021-22
+Filed during 
+the year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Filed 
+during the 
+year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Sexual Harassment
+-
+-
+-
+-
+-
+-
+Discrimination at 
+workplace
+-
+-
+-
+-
+-
+-
+Child labour
+-
+-
+-
+-
+-
+-
+Forced labour / 
+involuntary labour
+-
+-
+-
+-
+-
+-
+Wages
+-
+-
+-
+-
+-
+-
+Other human rights 
+related issues
+-
+-
+-
+-
+-
+-
+7.	 Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	
+The Company strives to ensure that the complaint shall be examined independently without any prejudice
+	
+or influence to prevent adverse consequences to the complainant.
+8.	 Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+	
+Yes
+9.	 Assessments for the year:
+% of plants and offices that were assessed (by entity or 
+statutory authorities or third parties)
+Child labour
+No complaint or concern was received by the Company and as 
+such no assessment was required.
+Forced / involuntary labour
+Sexual harassment
+Discrimination at workplace
+Wages
+Others – please specify
+*GRI 2-16, 2-25, 2-26, 406-1
+AFFLE (INDIA) LIMITED
+174
+INTEGRATED ANNUAL REPORT 2022-23
+10.	Provide details of any corrective actions taken or underway to address significant risks / concerns arising 
+from the assessments at Question 9 above. 
+	
+Not applicable
+Principle 6: Businesses should respect and make efforts to protect and restore the environment
+Affle majorly operates through leased office spaces in commercial buildings, having centralized electricity 
+& water supply and waste management systems. Due to this, Affle cannot solely manage or optimize these 
+systems. Despite exercising due diligence during the year, it was challenging for the Company to accurately 
+track and quantify our utilization of day-to-day resources.
+Essential Indicators
+1.	 Details of total energy consumption (in Joules or multiples) and energy intensity:
+	
+Parameter
+FY 2022-23
+FY 2021-22
+Total electricity consumption (A)
+-
+-
+Total fuel consumption (B)
+-
+-
+Energy consumption through other sources (C) 
+-
+-
+Total energy consumption (A+B+C)
+-
+-
+Energy intensity per rupee of turnover
+(Total energy consumption/ turnover in rupees)
+-
+-
+Energy intensity (optional) – the relevant metric 
+may be selected by the entity
+-
+-
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? If yes, name of the external agency.
+	
+The Company is in the process of engaging an external agency.
+2.	 Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, 
+Achieve and Trade (PAT) Scheme of the Government of India? If yes, disclose whether targets set under the 
+PAT scheme have been achieved. In case targets have not been achieved, provide remedial action taken.
+	
+Not applicable
+*GRI 302-1, 303-1
+175
+3.	 Provide details of the following disclosures related to water:
+	
+Parameter
+FY2022-23
+FY2021-22
+Water withdrawal by source (in kilo litres)
+i.   Surface water
+-
+-
+ii.  Groundwater
+-
+-
+iii. Third party water
+-
+-
+iv. Seawater / desalinated water
+-
+-
+v.  Others
+-
+-
+Total volume of water withdrawal
+(in kilolitres) (i + ii + iii + iv + v)
+-
+-
+Total volume of water consumption (in kilolitres)
+-
+-
+Water intensity per rupee of turnover
+(Water consumed / turnover)
+-
+-
+Water intensity (optional) – the relevant metric 
+may be selected by the entity
+-
+-
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Yes/No) If yes, name of the external agency.
+	
+The Company is in the process of engaging an external agency.
+4.	 Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage 
+and implementation.
+	
+Not applicable 
+5.	 Please provide details of air emissions (other than GHG emissions) by the entity:
+Parameter
+FY 2022-23
+FY 2021-22
+NOx
+Though the very nature of the business of the 
+Company has limited impact on environment, the 
+Company continuously aims to reduce even the 
+limited impact on the environment by identifying 
+ways to optimize resources. The Company is in the 
+process of engaging with a third-party consultant 
+on this matter.
+Sox
+Particulate matter (PM)
+Persistent organic pollutants (POP)
+Volatile organic compounds (VOC)
+Hazardous air pollutants (HAP)
+Others – please specify
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? If yes, name of the external agency
+	
+The Company is in the process of engaging an external agency.
+AFFLE (INDIA) LIMITED
+176
+INTEGRATED ANNUAL REPORT 2022-23
+6.	 Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) and its intensity:
+	
+Parameter
+Unit
+FY 2022-23
+FY 2021-22
+Total Scope 1 emissions (Break-up 
+of the GHG into CO2, CH4, N2O, 
+HFCs, PFCs, SF6, NF3, if available)
+Metric 
+tonnes 
+of CO2 
+equivalent
+Though the very nature of the business of the 
+Company has limited impact on environment, the 
+Company continuously aims to reduce even the 
+limited impact on the environment by identifying 
+ways to optimize resources. The Company is in the 
+process of engaging with a third-party consultant 
+on this matter.
+Total Scope 2 emissions (Break-up 
+of the GHG into CO2, CH4, N2O, 
+HFCs, PFCs, SF6, NF3, if available)
+Metric 
+tonnes 
+of CO2 
+equivalent
+Total Scope 1 and Scope 2 
+emissions per rupee of turnover
+Total Scope 1 and Scope 2 emission 
+intensity (optional) – the relevant 
+metric may be selected by the entity
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency?  If yes, name of the external agency.
+	
+The Company is in the process of engaging an external agency.
+7.	 Does the entity have any project related to reducing Green House Gas emission? If yes, then provide 
+details.
+	
+Not applicable
+8.	 Provide details related to waste management by the entity:
+Parameter
+FY 2022-23
+FY 2021-22
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+Though the very nature of the business of the 
+Company has limited impact on environment, the 
+Company continuously aims to reduce even the 
+limited impact on the environment by identifying 
+ways to optimize resources. The Company is in the 
+process of engaging with a third-party consultant 
+on this matter.
+E-waste (B)
+Bio-medical waste (C)
+Construction and demolition waste (D)
+Battery waste (E)
+Radioactive waste (F)
+Other Hazardous waste. Please specify, if any. (G)
+Other Non-hazardous waste generated (H).
+Please specify, if any. (Break-up by composition i.e. 
+by materials relevant to the sector)
+Total (A+B + C + D + E + F + G+ H)
+*GRI 305-1
+177
+For each category of waste generated, total waste recovered through recycling, re-using or other 
+recovery operations (in metric tonnes)
+Category of waste
+i. Recycled
+ii. Re-used
+iii. Other recovery operation
+Total
+For each category of waste generated, total waste disposed by nature of disposal method (in metric 
+tonnes)
+Category of waste
+(i) Incineration
+(ii) Landfilling
+(iii) Other disposal operations
+Total
+	
+Note: Indicate if any independent assessment / evaluation / assurance has been carried out by an external 
+agency? If yes, name of the external agency.
+	
+The Company is in the process of engaging an external agency.
+9.	 Briefly describe the waste management practices adopted in your establishments. Describe the strategy 
+adopted by your company to reduce usage of hazardous and toxic chemicals in your products and 
+processes and the practices adopted to manage such wastes.
+	
+Not applicable
+10.	If the entity has operations / offices in / around ecologically sensitive areas (such as national parks, 
+wildlife sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones 
+etc.) where environmental approvals / clearances are required, please specify details:
+S. No.
+Location of 
+operations/
+offices
+Type of 
+operations
+Whether the conditions of environmental 
+approval / clearance are being complied 
+with? (Yes/No) If no, the reasons thereof 
+and corrective action taken, if any.
+Not applicable
+11.	Details of environmental impact assessments of projects undertaken by the entity based on applicable 
+laws, in the current financial year:
+Name and 
+brief details 
+of project
+EIA 
+Notification 
+No.
+Date
+Whether conducted by 
+independent external 
+agency
+(Yes / No)
+Results 
+communicated 
+in public 
+domain
+(Yes / No)
+Relevant
+web link
+Not applicable
+AFFLE (INDIA) LIMITED
+178
+INTEGRATED ANNUAL REPORT 2022-23
+12.	Is the entity compliant with the applicable environmental law / regulations / guidelines in India, such 
+as the Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, 
+Environment protection act and rules thereunder. If not, provide details of all such non-compliances:
+	
+There are no instances of non-compliance with applicable environmental law/ regulations/ guidelines in 
+India, such as the Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) 
+Act, Environment Protection Act and rules thereunder.
+Principle 7:  Businesses, when engaging in influencing public and regulatory policy, should do so in a manner 
+that is responsible and transparent
+Essential Indicators
+1.	 a.	Number of affiliations with trade and industry chambers / associations. Three (3)
+       
+	
+b.	List the top 10 trade and industry chambers / associations (determined based on the total members of 
+	
+such body) the entity is a member of / affiliated to:
+	
+	
+S. No.
+Name of the trade and industry chambers/ 
+associations
+Reach of trade and industry chambers/ 
+associations (State/National/ International)
+1.
+ Mobile Marketing Association (MMA)
+International
+2.
+Internet and Mobile Association of India (IAMAI)
+National
+3.
+Interactive Advertising Bureau (IAB)
+International
+2.	 Provide details of corrective action taken or underway on any issues related to anticompetitive conduct by 
+the entity, based on adverse orders from regulatory authorities.
+S. No.
+Name of authority
+Brief of the case
+Corrective action taken
+Not applicable
+Principle 8: Businesses should promote inclusive growth and equitable development
+Essential Indicators
+1.	 Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, 
+in the current financial year.
+Name and 
+brief details 
+of project
+SIA 
+Notification 
+No.
+Date of 
+notification
+Whether conducted by 
+independent external 
+agency
+(Yes/No)
+Results 
+communicated 
+in public 
+domain
+(Yes/No)
+Relevant web 
+link
+Not applicable
+2.	 Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being 
+undertaken by your entity.
+S. 
+No.
+Name of 
+Project for 
+which R&R is 
+ongoing
+State
+District
+No. of Project 
+Affected 
+Families 
+(PAFs)
+% of PAFs 
+covered by 
+R&R
+Amounts paid to
+PAFs in the FY (In INR)
+Not applicable
+*GRI 2-28, 305-1
+179
+3.	 Describe the mechanisms to receive and redress grievances of the community.
+	
+The Company follows an open grievance policy and as such members of the community can send an email 
+at compliance@affle.com to the Company sharing their concerns, if any.
+4.	 Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+Parameter
+FY 2022-23
+FY 2021-22
+Directly sourced from MSMEs small producers
+Not applicable
+Sourced directly from within the district and 
+neighbouring districts
+Principle 9:  Businesses should engage with and provide value to their consumers in a responsible manner
+Essential Indicators
+1.	 Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+The Company is in the B2B domain. Our customers are organisations for whom we have a dedicated team 
+internally to handle their complaints, provide support and receive feedback.
+2.	 Turnover of products and / services as a percentage of turnover from all products / service that carry 
+information about:
+Parameter
+As a percentage to
+total turnover
+Environmental and social parameters relevant to the product
+Not applicable
+Safe and responsible usage
+Recycling and / or safe disposal
+3.	 Number of consumer complaints in respect of the following:
+FY 2022-23
+FY 2021-22
+Received 
+during the 
+year
+Pending 
+resolution 
+at end of 
+year
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution 
+at end of 
+year
+Remarks
+Data privacy
+-
+-
+-
+-
+-
+-
+Advertising
+-
+-
+-
+-
+-
+-
+Cyber-security
+-
+-
+-
+-
+-
+-
+Delivery of essential 
+services
+-
+-
+-
+-
+-
+-
+Restrictive trade 
+practice
+-
+-
+-
+-
+-
+-
+Unfair trade 
+practices
+-
+-
+-
+-
+-
+-
+Other
+-
+-
+-
+-
+-
+-
+*GRI 2-16, 2-25, 2-26
+AFFLE (INDIA) LIMITED
+180
+INTEGRATED ANNUAL REPORT 2022-23
+4.	 Details of instances of product recalls on account of safety issues:
+Number
+Reasons for recall
+Voluntary recalls
+Not applicable
+Forced recalls
+5.	 Does the entity have a framework / policy on cyber security and risks related to data privacy? (Yes / No) 
+If available, provide a web-link of the policy.
+	
+The Company’s Privacy Statement is available at https://affle.com/privacy-policy
+6.	 Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery 
+of essential services; cyber security and data privacy of customers; re-occurrence of instances of product 
+recalls; penalty / action taken by regulatory authorities on safety of products / services.
+	
+None

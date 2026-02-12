@@ -1,0 +1,2690 @@
+ 
+ 
+BLACK BOX LIMITED (Formerly AGC Networks Limited) 
+Registered Office: 501, 5th Floor, Building No. 9, Airoli Knowledge Park, MIDC Industrial Area, Airoli, Navi Mumbai 400 708, India 
+BLACKBOX.COM | CIN: L32200MH1986PLC040652 | Tel: +91 22 6661 7272 
+                    Telephone: +91 22 6661 7272 | Email: info.india@blackbox.com 
+  
+ 
+BBOX/SD/SE/2023/71 
+ 
+September 4, 2023 
+ 
+ To, 
+Corporate Relationship Department 
+Bombay Stock Exchange Limited  
+P.J. Towers, Dalal Street,  
+Fort, Mumbai 400001 
+Corporate Relationship Department 
+National Stock Exchange Limited 
+Exchange Plaza, Bandra Kurla Complex, 
+Bandra East, Mumbai 400051 
+ 
+Sub: Submission of Business Responsibility and Sustainability Report for FY 2022-23. 
+ 
+Ref.:  Scrip code: BSE: 500463/NSE: BBOX 
+ 
+ 
+Dear Sir/Madam, 
+ 
+ 
+Pursuant to the SEBI Circular SEBI/HO/CFD/CMD-2/P/CIR/2021/562 dated May 10, 2021 we hereby submit the 
+Business responsibility and sustainability report for FY 2022-23. 
+ 
+The copy of the aforesaid Report is attached herewith for your perusal and is also available on the website of the 
+Company at www.blackbox.com. 
+ 
+This is for your information, record and necessary dissemination to all the stakeholders. 
+ 
+For Black Box Limited 
+(Formerly Known as AGC Networks Limited) 
+ 
+ 
+ 
+Aditya Goswami  
+Company Secretary & Compliance Officer 
+Encl.: A/a. 
+ADITYA 
+GOSWAMI
+Digitally signed by ADITYA GOSWAMI 
+DN: c=IN, postalCode=453331, st=MADHYA PRADESH, 
+l=INDORE, o=Personal, 
+serialNumber=90d7e0ec8731fc2b22a434065ca2d7edd45
+92cb05acf78877a4e25df6339ba91, 
+pseudonym=2c490576c4864618897246fba4b85835, 
+2.5.4.20=f18e7acba1999269290f6f4428a8f089e04d754a1
+d35fa95784d6edafe1ceb4c, 
+email=ADITYA.GOSWAMI@BLACKBOX.COM, cn=ADITYA 
+GOSWAMI 
+Date: 2023.09.04 17:44:47 +05'30'
+Innovate     Integrate     Elevate
+Black Box Limited
+Page 1
+BUSINESS RESPONSIBILITY & SUSTAINABILITY 
+REPORTING
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of the listed entity
+1.	
+Corporate Identification Number (CIN)
+L32200MH1986PLC040652
+2.	
+Name of the Company
+Black Box Limited (Formerly known as AGC 
+Networks Limited)
+3.	
+Year of Incorporation
+1986
+4.	
+Registered Office Address
+501, 5th Floor, Building No.9, Airoli Knowledge Park, 
+MIDC Industrial Area, Airoli, Navi Mumbai - 400708
+5.	
+Corporate Address
+501, 5th Floor, Building No.9, Airoli Knowledge Park, 
+MIDC Industrial Area, Airoli, Navi Mumbai -400708
+6.	
+Website
+www.blackbox.com
+7.	
+Email id
+investors@blackbox.com
+8.	
+Telephone
++91 22 6661 7272
+9.	
+Financial Year Reported
+April 1, 2022 to March 31, 2023
+10.	 Name of the Stock Exchange(s) where shares are 
+listed
+The Bombay Stock Exchange (BSE) and National 
+Stock Exchange of India (NSE).
+11.	
+Paid Up Capital
+` 33,58,09,220
+12.	 Name and contact details (telephone, email address) 
+of the person who may be contacted in case of any 
+queries on the BRSR report:
+Ms. Neelam Kapoor
+T: +91 22 6661 7272
+Email: Sustainability.ESG@BlackBox.com
+13.	
+Reporting boundary:
+Black Box Limited + Integrated Geographies
+II.	
+Products/Services
+14.	 Details of business activities (accounting for 90% of the turnover):
+Sr. No.
+Description of Main Activity
+Description of Business 
+Activity
+% of Turnover of the entity
+1
+Information & Communication 
+Technologies (ICT) Solution Integration
+IT Products & Services
+and Consulting
+100%
+15.	 Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+Sr. No.
+Product/Service
+NIC Code
+% of total Turnover 
+contributed
+1
+Information & Communication 
+Technologies (ICT) Solution Integration
+62019
+100%
+Black Box Limited
+Page 2
+III.	 Operations
+16. Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of offices
+National
+13
+International
+33
+17.	 Markets served by the entity:
+	
+a.	
+Number of locations
+Locations
+Number
+National (No. of States)
+28 States + 8 Union Territories
+International (No. of Countries)
+45
+	
+b.	
+What is the contribution of exports as a percentage of the total turnover of the entity? 0%
+	
+c.	
+A brief on types of customers –
+	
+	
+Customers from various verticals like IT/ITeS, Retail, Manufacturing, Government, Healthcare, Hospitality, 
+Business Services, BFSI, and Financial Services.
+IV.	 Employees
+18.	 Details as of at the end of the Financial Year:
+	
+a.	
+Employees (including differently abled):
+Sr. No.
+Particulars
+Total
+Male
+Female
+No.
+%
+No.
+%
+Employees
+1.
+Permanent
+443
+386
+87.1%
+57
+12.9%
+2.
+Other than Permanent
+395
+367
+92.9%
+28
+7.1%
+3.
+Total employees
+838
+753
+89.9%
+85
+10.1%
+	
+b.	
+Differently Abled Employees:
+Sr. No
+Particulars
+Total
+Male
+Female
+No.
+%
+No.
+%
+Differently Abled Employees
+1.
+Permanent
+3
+1
+33.3%
+2
+66.7%
+2.
+Other than Permanent
+2
+2
+0.0%
+0
+0.0%
+3.
+Total differently abled 
+employees
+5
+3
+60.0%
+2
+40.0%
+19.	 Participation/Inclusion/Representation of women
+Total
+No. and percentage of Females
+No.
+%
+Board of Directors
+8
+2
+25%
+Key Management Personnel
+5
+1
+20%
+Innovate     Integrate     Elevate
+Black Box Limited
+Page 3
+20.	 Turnover rate for permanent employees
+FY 2022-23
+FY 2021-22
+FY 2020-21
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+19%
+1%
+20%
+20%
+4%
+24%
+14%
+1%
+15%
+V.	
+Holding, Subsidiary and Associate Companies (including Joint Ventures)
+21.	 Details of holding, subsidiary, associate companies and joint ventures have been provided in Directors 
+Report. Please refer Page No. 53 of Directors Report.
+VI.	 CSR Details
+22.	 a.	
+Whether CSR is applicable as per section 135 of the Companies Act, 2013: YES
+	
+b.	
+Turnover - ` 356 crores
+	
+c.	
+Net worth - ` 329 crores
+VII.	 Transparency and Disclosures Compliances
+23.	 Complaints / Grievances on any of the Principles (Principles 1 to 9) under the National Guidelines on 
+Responsible Business Conduct:
+Stakeholder 
+group from whom 
+complaint is 
+received
+Grievance 
+Redressal 
+Mechanism 
+in	
+Place 
+(Yes/No)
+FY 2022-23
+FY 2021-22
+(If Yes, then 
+provide 
+web-link for 
+grievance 
+redress 
+policy)
+Number of 
+complaints 
+filed 
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed 
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities
+Yes**
+0
+0
+-
+0
+0
+-
+Investors (other 
+than shareholders)
+0
+0
+-
+0
+0
+-
+Shareholders
+123
+5
+-
+78
+5
+-
+Employees and 
+workers
+0
+0
+-
+0
+0
+-
+Customers
+0
+0
+-
+0
+0
+-
+Value Chain 
+Partners
+Yes**
+0
+0
+-
+0
+0
+-
+Other (please 
+specify) - Social 
+Media
+0
+0
+-
+0
+0
+-
+Investors (other 
+than shareholders)
+0
+0
+-
+0
+0
+-
+	
+NOTE: Any concerns / stakeholder concerns are taken care of in the ordinary course of business and are not 
+in the nature of complaints.
+	
+** Please find here the policy which details the grievance redressal mechanism available for all our stakeholders. 
+https://www.blackbox.com/investors/Whistle-Blower-Policy
+Black Box Limited
+Page 4
+24.	 Overview of the entity’s material responsible business conduct issues
+Material 
+issues 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying the risk / 
+opportunity
+In case of risk, approach 
+to adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+Customer 
+Centricity
+Opportunity
+Objectives 
+and 
+principles 
+have 
+been 
+mapped with various industry trends and 
+global frameworks, including Sustainability 
+Accounting Standards Board (SASB), Global 
+Reporting Initiative (GRI), ESG matrices, 
+and National Voluntary Guidelines (NVGs). 
+This analysis has enabled the identification 
+of risks and opportunities for Black Box. 
+Further, our engagements with both 
+internal and external stakeholders give 
+us better insights into their concerns 
+and help us identify material issues that 
+can 
+potentially 
+impact 
+our 
+business 
+operations and value creation abilities, our 
+stakeholders, and the larger ecosystem.
+We prioritize, review, and refine our list of 
+material issues in line with the findings from 
+our continuous Stakeholder engagements. 
+They are also aligned with the guidelines 
+of sustainability standards and current 
+business and economic realities.
+Positive
+Sustainable 
+and resilient
+supply chain
+Opportunity
+Positive
+Occupational 
+health and
+safety
+Risk
+We aim to keep ourselves 
+consistently updated with 
+the latest norms.
+Positive
+Privacy and
+Data Security
+Risk & 
+Opportunity
+Rationale:
+Businesses are increasingly reliant on 
+digital 
+communications 
+and 
+Internet-
+based transactions to operate in a seamless 
+geotechnical landscape.
+Taking steps to address the security of the 
+organization’s critical data can help prevent 
+business problems by showing resiliency, 
+minimizing impacts, and recovering from 
+security breaches.
+The privacy of data and its security 
+specifically is becoming a major risk 
+generally due to increasing digitization, 
+interconnectivity, multiple and fluid entry 
+points, and the need to meet regulatory 
+compliance and contractual customer 
+requirements.
+Black Box has 
+implemented controls to 
+reduce and mitigate cyber 
+threats and data privacy 
+and security-related risks 
+and constantly seeks 
+to improve security 
+by having a robust 
+information security 
+posture implemented 
+through the use of 
+policies, processes, and 
+controls that reduce the 
+overall risk and/or impact 
+of a cybersecurity threat 
+as well as safeguard and 
+secure sensitive data. 
+Our risk mitigation can 
+be categorized into 
+three control areas- a) 
+Prevention, b) Detection, 
+and c) Remediation.
+General Positive: 
+Easier business 
+process automation, 
+increased trust 
+and credibility 
+from customers 
+and stakeholders, 
+improved data 
+management 
+control procedures 
+and security, brand 
+reputation. 
+General Negative: 
+Breach of privacy 
+and data security 
+leading to financial 
+and reputational 
+loss.
+Innovate     Integrate     Elevate
+Black Box Limited
+Page 5
+Material 
+issues 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying the risk / 
+opportunity
+In case of risk, approach 
+to adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+Tangible Impacts of Risks –
+1)	 Financial /customer impacts, reputational 
+damage, and loss of customer trust and 
+future engagements
+2)	 This may lead to higher premiums for 
+getting globally cyber-insured.
+3) 	Impact 
+on 
+technology-related 
+operational efficiency and productively 
+service customers and increases costs.
+Tangible Opportunities –
+1)	 Reduce 
+security 
+and 
+data 
+privacy 
+violation-related 
+incidents, 
+building 
+customers’ trust.
+2)	 Grow and expand existing business 
+accounts/revenue while winning new 
+accounts.
+3)	 Easier to get cyber-insured globally 
+with lesser premiums as confidence in 
+security controls grows.
+4)	 Lower costs by building operational 
+efficiency due to fewer security incidents 
+leading to better customer support and 
+service through a resilient infrastructure.
+Through adequate 
+preventive, detective, 
+administrative, and 
+technical controls spread 
+across the above areas 
+and constantly trying to 
+improve them, Black Box 
+safeguards the business 
+interests of the company, 
+by reducing cyber 
+incidents, and protecting 
+sensitive data of itself & 
+its customers benefitting 
+stakeholders at large.
+1)	 Financial 
+Implications of 
+Risks -
+a)	 Positive - None
+b)	Negative –
+Risk of loss 
+of revenue, 
+customer trust, 
+contracts, 
+higher global 
+cyber-insurance 
+premiums, 
+operational 
+efficiency 
+impacts, and 
+lower overall 
+security posture.
+2)	 Financial 
+Implications of 
+Opportunities–
+a)	 Positive
+	
+Better privacy 
+and data security.
+	
+This leads to 
+existing account 
+expansion and 
+new customer 
+account 
+creation, leading 
+to revenue. 
+Lowers costs 
+on operational 
+efficiency and 
+possibly cyber 
+insurance.
+b)	Negative –  None
+Black Box Limited
+Page 6
+Material 
+issues 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying the risk / 
+opportunity
+In case of risk, approach 
+to adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+Human 
+Resource
+Risk & 
+Opportunity
+Opportunity: Human Resource is one 
+of the key strategic imperative for the 
+company and we consistently invest in the 
+growth and development and alignment 
+of employees to the Company growth 
+strategy. 
+Risk: Market demand for skilled talent is 
+high and hence continuously investing 
+in upskilling new employees to make 
+them business ready. At the same time, 
+automating and streamlining processes is 
+of vital importance. 
+We have a meritocratic,
+transparent and equal
+opportunity culture. 
+We provide growth 
+and development 
+opportunities to high-
+performing employees 
+ahead of time. 
+We have supported our
+employees and their 
+families during COVID-19 
+by enabling technology 
+to work from home 
+and facilitating health 
+and vaccination related 
+assistance to ensure 
+their well-being. We 
+have invested in hiring 
+key and critical talent to 
+accelerate digital product 
+and process offerings 
+to our customers. We 
+invest in initiatives 
+to promote learning 
+and development, 
+performance support, 
+career growth, 
+engagement, diversity 
+and inclusion at the 
+workplace.
+We have a robust 
+grievance redressal 
+mechanism to address 
+employee concerns. 
+We measure employee 
+alignment at regular 
+intervals to take correct 
+actions, if any.
+Positive: Easier 
+business process 
+automation, 
+increased trust 
+and the credibility 
+of stakeholders, 
+improved data 
+management and 
+protected brand 
+reputation. 
+Negatives: Breach 
+of privacy and data 
+security.
+Innovate     Integrate     Elevate
+Black Box Limited
+Page 7
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+P1	
+Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, Transparent, 
+and Accountable.
+P2	 Businesses should provide goods and services in a manner that is sustainable and safe.
+P3	 Businesses should respect and promote the well-being of all employees, including those in their value chains.
+P4	 Businesses should respect the interests of and be responsive to all its stakeholders.
+P5	 Businesses should respect and promote human rights.
+P6	 Businesses should respect and make efforts to protect and restore the environment.
+P7	 Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is 
+responsible and transparent.
+P8	 Businesses should promote inclusive growth and equitable development.
+P9	 Businesses should engage with and provide value to their consumers in a responsible manner.
+Disclosure Questions
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+Policy and management processes
+1.	
+a.	
+Whether your entity’s policy/policies 
+cover each principle and its core elements 
+of the NGRBCs. (Yes/No)
+Yes, Black Box policies cover each principle and its core 
+elements of the NGRBCs
+	
+b.	
+Has the policy been approved by the 
+Board? (Yes/No)
+Yes. All policies covering the above-mentioned principles 
+have been approved by the Board.
+	
+c.	
+Web Link of the Policies, if available
+All Black Box policies aligned to the 9 Principles are uploaded 
+on the intranet for the information and implementation by the 
+internal stakeholders. They are also publicly available on the 
+Black Box official website: https://www.blackbox.com/en-in/
+investors/corporate-governance/policies
+2.	
+Whether the entity has translated the policy 
+into procedures? (Yes / No)
+Yes, all our policies are effectively implemented, and our 
+processes are monitored, reviewed, and updated periodically.
+3.	
+Do the enlisted policies extend to your value 
+chain partners? (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+4.	
+Name of the National and International codes/
+certifications/labels/standards (e.g. Forest 
+Stewardship Council, Fairtrade, Rainforest 
+Alliance, Trustee) standards (e.g. SA 8000, 
+OHSAS, ISO, BIS) adopted by your entity and 
+mapped to each principle.
+The Company is committed to providing a safe, healthy, and 
+harassment-free work environment to all its employees, as 
+per ISO, BI and OHSAS. The Company has adopted employee-
+oriented policies covering areas, such as Human Rights Policy, 
+Diversity, Equity and Inclusion Policy, employee benefits, and 
+prevention of sexual harassment at the workplace, which 
+endeavors to provide an environment of care, nurturance, and 
+opportunity to accomplish professional aspirations. The Code 
+of Conduct and Business Ethics and other company policies 
+align with the general laws and regulations, sound ethical 
+practices and professional standards followed nationally.
+Black Box Limited
+Page 8
+The Company has Anti-Bribery and Anti-Corruption Policy, 
+Policy on Related Party Transactions, Anti-Money Laundering, 
+and the Whistle Blower Policy. The Whistle Blower policy 
+(https://www.blackbox.com/investors/Whistle-Blower-
+Policy) confirms the requirements as stipulated by the 
+Companies Act, 2013 and the rules thereunder and of the 
+applicable securities laws and regulations. The Whistle Blower 
+policy broadly conforms to the standards set by the standard 
+regulator of the country.
+5. 
+Specific commitments, goals, and targets set 
+by the entity with defined timelines, if any.
+Black Box is committed to an ESG Roadmap across all 
+aspects of ESG. We have set long-term targets that lead us 
+on a decarbonization pathway, ensuring we become carbon 
+neutral (net zero) by 2050. The goals and targets are as follows:
+1.	
+Regulatory Compliance – Black Box Limited strives to be 
+in continuous compliance with applicable environmental 
+and safety laws, regulations and acts. Required surveys 
+or reports are being completed in a timely manner and 
+returned to the governing agency or state bureau within 
+the allotted timeframe.
+2.	
+Team Member Training – Environmental training issues 
+that affected personnel are being trained on including 
+Hazard Communication (HAZCOM), Material Safety Data 
+Sheets (MSDS), Accident Reporting, and Fleet Vehicle 
+Maintenance Procedures.
+3.	
+Licenses and Permits – All required licenses and permits 
+are being renewed in advance of the current license or 
+permit expiration date.
+4.	
+Vehicle Emissions – All fleet vehicle drivers are responsible 
+for ensuring that all required state vehicle emission 
+checks are completed by the required date (month and 
+year).
+5.	
+Conservation of Natural Resources – Black Box Limited 
+offices are committed to local recycling efforts, such 
+as recycling paper and keeping a check on e-waste 
+generation.
+6.	
+Environmental Management Services (EMS) Review 
+Plan – Black Box Limited reviews the EMS plan at least 
+annually and makes changes when regulatory updates 
+are implemented, or when organizational operating 
+changes occur.
+6.	
+Performance of the entity against the 
+specific commitments, goals, and targets 
+along with reasons in case the same are not 
+met.
+We track and update the key parameters in policies and record 
+them for learning and development to enhance our policies.
+Innovate     Integrate     Elevate
+Black Box Limited
+Page 9
+Governance, leadership and oversight
+7.	
+Statement by director responsible for the business responsibility report, highlighting ESG related challenges, 
+targets and achievements (listed entity has flexibility regarding the placement of this disclosure)
+	
+Please find our Whole-time Director’s message on Page No. 10
+8.	
+Details of the highest authority responsible for 
+implementation and oversight of the Business 
+Responsibility policy (ies).
+Executive Management + Functional Heads
+9. 
+Does the entity have a specified Committee of 
+the Board/ Director responsible for decision 
+making on sustainability related issues? (Yes 
+/ No).
+Yes, 
+the 
+Executive 
+Management 
+communicates 
+the 
+importance of the EMS throughout the organization, provides 
+necessary resources, and reviews EMS performance with an 
+eye on continual improvement.
+CSR Committee looks at community/social-related initiatives 
+and for sustainability-related activities within the organization 
+by the CSR team.
+10.	 Details of Review of NGRBC’s by the Company:
+Subject for Review
+Indicate whether the 
+review was undertaken by 
+the Director / Committee 
+of the Board/ Any other 
+Committee
+Frequency
+(Annually/ Half yearly/ 
+Quarterly/ Any other – please 
+specify)
+Performance against above policies and 
+follow up action
+Board Committees and 
+respective functional heads
+ Need-to basis
+Compliance with statutory requirements of 
+relevance to the principles and rectification of 
+any non-compliances
+Board Committees and 
+respective functional heads
+ Need-to basis
+11.	
+Has the entity carried out independent 
+assessment/ evaluation of the working of its 
+policies by an external agency? (Yes/No). If 
+yes, provide name of the agency.
+No, however all policies and processes are subject to audits 
+/ reviews done internally in the company from time to time.
+12.	 If answer to question (1) above is “No” i.e. not 
+all Principles are covered by a policy, reasons 
+to be stated: 
+NA
+Black Box Limited
+Page 10
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+PRINCIPLE 1: Businesses should conduct and govern themselves with Integrity, and in a manner that is Ethical, 
+Transparent, and Accountable.
+1.	
+ESSENTIAL INDICATORS -
+ 
+Percentage coverage by training and awareness programs on any of the Principles during the financial 
+year:
+Segment
+Topics/principles covered under the training and its 
+impact
+%age of persons in respective 
+category covered by the 
+awareness programmes
+Board of Directors
+During the year, the Board engaged in various updates 
+pertaining to business, regulatory, safety, ESG matters, 
+Audit, Compliances etc. These topics provided insights 
+on the said Principles.
+100%
+Key
+Managerial 
+Personnel
+Health and Safety (Principle 2 and Principle 3), Skill 
+Upgradation (Principle 3), Human Rights (Principle 5), 
+Anti-Corruption (Principle 1), ESG
+(Principle 2 and Principle 6), Prevention of Sexual 
+Harassment at the Workplace (Principle 1), Anti-
+money Laundering Policy (Principle 1), and Anti-bribery 
+(Principle 1), Tenant Education (Principle 9).
+100%
+Employees other 
+than BoD and KMPs
+90%
+2. 
+Details of fines/penalties/punishment/award/compounding fees/settlement amount paid in proceedings 
+(by the entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the 
+financial year, in the following format (Note: the entity shall make disclosures on the basis of materiality as 
+specified in Regulation 30 of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as 
+disclosed on the entity’s website)
+	
+No instances
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where 
+monetary or non-monetary action has been appealed. 
+	
+Not Applicable
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, 
+provide a web-link to the policy. 
+	
+Black Box Limited has a policy on Anti-Corruption and Bribery, detailing our zero-tolerance approach to bribery 
+and corruption. The Anti-Corruption and Bribery Policy applies to all the associates of Black Box and the subsidiary 
+companies. We are committed to act professionally, fairly and with integrity in all our business dealings and 
+relationships wherever we operate, implement and enforce effective systems to counter bribery. Please find 
+policy weblink - https://www.blackbox.com/investors/Anti-Bribery-And-Corruption-policy
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law 
+enforcement agency for the charges of bribery/corruption: 
+	
+There has been no disciplinary action taken by any law enforcement agency for charges of bribery/corruption 
+against any Directors, KMPs or employees in FY 22-23-or FY 21-22.
+Innovate     Integrate     Elevate
+Black Box Limited
+Page 11
+7.	
+Details of complaints with regard to conflict of interest: 
+	
+There have been no complaints received in relation to issues of Conflict of Interest of the Directors or KMPs in FY 
+22-23 or FY 21-22
+8. 
+Provide details of any corrective action taken or underway on issues related to fines/penalties/action taken 
+by regulators/law enforcement agencies/judicial institutions on cases of corruption and conflicts of interest. 
+	
+Not Applicable
+LEADERSHIP INDICATORS
+1. 
+Awareness programs conducted for value chain partners on any of the Principles during the financial year? 
+	
+Yes, we do on regular basis in our vendor interactions and communications.
+2. 
+Does the entity have processes in place to avoid/manage conflict of interests involving members of the 
+Board? (Yes/No) If yes, provide details of the same.
+	
+Yes, the entity has processes in place to avoid/manage conflict of interests involving members of the Board. 
+Please find the link - https://www.blackbox.com/investors/Code-Of-Conduct-Directors
+PRINCIPLE 2: Businesses should provide goods and services in a manner that is sustainable and safe.
+ESSENTIAL INDICATORS
+1. 
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the 
+environmental and social impacts of product and processes to total R&D and capex investments made by 
+the entity, respectively.
+FY 2023
+Details of improvements in environmental and social impacts
+R&D
+Not Applicable
+Capex
+A nominal amount has 
+been contributed towards 
+capex.
+Investment in new -vehicles to reduce carbon footprint LED 
+Lighting installed and HVAC Upgrades Environmental Impact 
+Reduction: Black Box has implemented measures to minimize its 
+own environmental impact, such as reducing energy consumption 
+in office facilities, encouraging telecommuting and remote 
+collaboration, and adopting sustainable transportation practices.
+2.	
+A.	
+Does the entity have procedures in place for sustainable sourcing? (Yes/No) 
+	
+	
+YES, To align with sustainable sourcing, Black Box has a policy on Responsible Supply Chain whereby it is 
+ensured that its supply chain partners adhere to ethical and sustainable practices. This includes verifying 
+that suppliers follow responsible sourcing of materials, labor practices, and environmental regulations. On 
+the other hand, through the Energy Efficiency approach, Black Box prioritizes energy-efficient solutions 
+in its technology offerings, such as promoting energy-efficient servers, networking equipment, and data 
+centers. This helps clients reduce their carbon footprint and energy consumption. The E-waste Management 
+program is to responsibly manage electronic waste (e-waste) generated from its products and services, if 
+any. Through the Green Procurement procedure, Black Box procures products and services from vendors 
+who have strong environmental commitments, such as using renewable energy, reducing packaging waste, 
+and employing eco-friendly manufacturing processes. Through these sustainable sourcing practices, Black 
+Box  aims to reduce its environmental impact, support ethical supply chains, and contribute to a more 
+sustainable IT industry.
+Black Box Limited
+Page 12
+	
+B.	
+If yes, what percentage of inputs were sourced sustainably? 
+	
+	
+We are mostly dependent on our OEMs and vendor partners for all procurement and sourcing of finished 
+products. We don’t quantify the sustainable sourcing as we don’t purchase raw material, but we believe that 
+most of our sourcing qualifies for sustainable sourcing.
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling, and disposing at the 
+end of life, for:
+	
+(a)	 Plastics (including packaging) (b) E-waste (c) Hazardous waste, and (d) other waste.
+	
+	
+We are primarily an Information & Communication Technologies (ICT) Solution Integration and consulting 
+firm, the overall carbon footprint is minimal. Even our technology products have a low carbon footprint. 
+Following are some activities:
+	
+	
+a.	
+Plastics (including packaging) - All our facilities use 100% biodegradable plastic garbage bags to collect 
+and dispose of dry and wet waste. We are engaged with a vendor partner who collects our Wet and Dry 
+waste to Compost/Recycle it in an eco-friendly manner.
+	
+	
+b.	
+Many locations recycle consumables, and all locations e-waste recycle at local distribution outlets.
+	
+	
+c.	
+Our services do not involve producing or disposing of hazardous waste of any kind. Hence, it is not 
+applicable to our services business.
+	
+	
+d.	
+Black Box globally also participates with WEEE, Conflict Minerals, ROHS Compliance activities.
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes/No). If yes, 
+whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted 
+to Pollution Control Boards? If not, provide steps taken to address the same.
+	
+Not Applicable
+LEADERSHIP INDICATORS
+1.	
+Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for the 
+manufacturing industry) or for its services (for the service industry)? If yes, provide details in the following 
+format. 
+	
+Yes, Black Box conducts Life Cycle Assessments (LCA) on our internal operations to reduce emissions and 
+minimize environmental impact.
+NIC 
+Code
+Nameof 
+Product
+/Service
+% of total 
+Turnover 
+contributed
+The boundary for which 
+the Life Cycle Perspective / 
+Assessment was conducted
+Whether 
+conducted by 
+an independent 
+external agency
+(Yes/No)
+Results 
+communicated 
+in the public 
+domain (Yes/
+No)
+62019
+Information & 
+Communication 
+Technologies 
+(ICT) Solution 
+Integration
+100%
+Use stage-performance tracking 
+of use stage comparison of 
+laptop and desktop has been
+conducted for a service life cycle; 
+strategy development,
+service design, transition, 
+operation, and continual service 
+improvement for
+one of our global clients’ services
+No
+No
+Innovate     Integrate     Elevate
+Black Box Limited
+Page 13
+2.	
+If there are any significant social or environmental concerns and/or risks arising from the production or disposal 
+of your products/services, as identified in the Life Cycle Perspective/Assessments (LCA) or through any other 
+means, briefly describe the same along with the action taken to mitigate them. Black Box has identified that the 
+usage of desktops resulted in emissions, however, adequate measures are being taken to reduce the usage of 
+desktop systems against laptop systems.
+3.	
+Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing 
+industry) or providing services (for service industry).
+Indicate Input Material
+Recycle or Reused input material to total material
+FY 2022-23
+Current Financial year
+FY 2021-22
+Previous Financial year
+Paper
+100%
+100%
+Electronics
+Nominal
+4.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tons) reused, recycled, and 
+safely disposed, as per the following format : Not Applicable
+5.	
+Reclaimed products and their packaging materials (as a percentage of products sold) for each product category: 
+Not Applicable
+PRINCIPLE 3: Businesses should respect and promote the well-being of all employees, including those in their 
+value chains.
+ESSENTIAL INDICATORS:
+1.	
+Details of measures for the well-being of employees
+Category
+% of Employees covered by
+Total
+Health Insurance
+Accident 
+Insurance
+Maternity 
+Benefits
+Paternity 
+Benefits
+Day Care 
+Facilities
+Number
+%
+Number
+%
+Number
+%
+Number
+%
+Number
+%
+Permanent Employees
+Male
+386
+386
+100%
+386
+100%
+NA
+NA
+386
+100%
+124
+32.1
+Female
+57
+57
+100%
+57
+100%
+57
+100%
+NA
+NA
+31
+54.3
+Total
+443
+443
+100%
+443
+100%
+57
+100%
+386
+100%
+155
+35.0
+Other than permanent
+Male
+367
+357
+97%
+357
+97%
+NA
+NA
+357
+97%
+NA
+NA
+Female
+28
+28
+100%
+28
+100%
+28
+100%
+NA
+NA
+NA
+NA
+Total
+395
+385
+97%
+385
+97%
+28
+7%
+357
+90%
+NA
+NA
+Black Box Limited
+Page 14
+2. 
+Details of retirement benefits, for Current FY and Previous Financial Year
+Benefits
+FY 2023
+FY 2022
+No. of employees 
+covered as a % of total 
+employees
+Deducted and 
+deposited with the 
+authority (Y/N/N.A.)
+No. of employees 
+covered as a % of total 
+employees
+Deducted and 
+deposited with the 
+authority (Y/N/N.A.)
+PF
+100%
+Y
+100%
+Y
+Gratuity
+100%
+Y
+100%
+Y
+ESI
+NA
+NA
+NA
+NA
+3.	
+Accessibility of Workplaces
+ 
+Are the premises/offices of the entity accessible to differently abled employees and workers, as per the 
+requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken 
+by the entity in this regard. 
+	
+All the offices are accessible to differently abled employees and workers. The company infrastructure is adequate 
+for associates with disabilities to have barrier-free access to common facilities. This includes not only physical 
+environment and transportation; information and communications with technologies and systems are also as 
+per the persons with disabilities.
+	
+We have earned a top score on the 2022 Disability Equality Index® and have been named the “Best Place to Work 
+for Disability Inclusion.” www.disabilityin.org
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If 
+so, provide a web-link to the policy 
+	
+Yes, we are Equal Opportunity Employer and strongly endorse the right of equal opportunity for associates who 
+are differently abled. We commit to carrying out the provisions of the Rights of Persons with Disabilities Act, 2016 
+(“Act”) in letter and spirit including providing specific opportunities in identified positions where they could be 
+employed.
+5.	
+Return to work and retention rates of permanent employees and workers who took parental leave.
+Permanent Employees
+Return to work Rate
+Retention Rate
+Male
+100%
+100%
+Female
+100%
+100%
+	
+On completion of their parental leave, employees’ return to work rate has been 100%. However, in this financial 
+year, there were no female employees availing the maternity leave; the company maintains a supportive work 
+environment that encourages employees to resume their careers post-parental leave.
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees 
+and workers? If yes, give details of the mechanism in brief. 
+	
+Yes, the company has necessary mechanisms to redress grievances, such as Code of Conduct, Whistleblower 
+Policy, and Prevention of Bribery & Corruption Policy. Any employee can raise a grievance under these policies 
+and the concern can be raised through the email to whistleblower.indiabbl@blackbox.com. There are identified 
+Ethics officers and Chief Ethics Officers to investigate the concerns and advise for appropriate action to be taken.
+	
+Please find web link - https://www.blackbox.com/investors/Whistle-Blower-Policy
+Innovate     Integrate     Elevate
+Black Box Limited
+Page 15
+7.	
+Membership of employees and worker in association(s) or Unions recognized by the listed entity: 
+Not Applicable
+8.	
+Details of training given to employees
+Category
+FY 2022-23
+FY 2021-22
+Total (A)
+On Health & 
+Safety measures
+On Skill 
+upgradation
+Total (D)
+On Health & 
+Safety measures
+On Skill 
+upgradation
+Number 
+(B)
+% (B/A)
+Number 
+(C)
+% (C/A)
+Number 
+(E)
+% (E/D)
+Number 
+(F)
+% (F/D)
+Employees
+Male
+386
+308
+80%
+168
+44%
+359
+251
+70%
+146
+41%
+Female
+57
+34
+60%
+31
+54%
+46
+28
+60%
+0
+0%
+Total
+443
+342
+77%
+199
+45%
+405
+272
+67%
+146
+36%
+9.	
+Details of performance and career development reviews of employees and workers:
+	
+Black Box Limited covers 100% eligible population related to performance & career development review. The 
+company has a robust HCM tool to conduct regular performance reviews and enable performance discussions 
+and feedback for development between employees and managers.
+10.	 Health and safety management system:
+	
+a.	
+Whether an occupational health and safety management system has been implemented by the entity? 
+(Yes/ No). If yes, the coverage of such a system? – Yes
+ 
+ 
+• 
+The Company has guidelines to ensure the safety of employees
+ 
+ 
+• 
+Frequent equipment checks, such as air conditioners, chillers, UPS, etc. are performed habitually
+ 
+ 
+• 
+We conduct Quarterly Fire Drill Training at all our branches to respond to any fire emergencies
+ 
+ 
+• 
+Employees are informed about emergency exits and assembly points
+ 
+ 
+• 
+Sprinklers, smoke detectors, and fire extinguishers are placed in office premises across all regions
+ 
+ 
+• 
+Emergency contact details are displayed on the notice board with contacts of the nearest police station, 
+hospitals, and fire brigade
+ 
+ 
+• 
+Live plants are kept in open areas to help with oxygen levels
+ 
+ 
+• 
+24/7 facility emergency contact number is displayed on the company nameplate
+ 
+ 
+• 
+Company arranged Covid vaccination camps for the employees and their families
+ 
+ 
+• 
+During the pandemic, the company has tracked the vaccination status of employees and helped them 
+book appointments for vaccination and update their vaccination status from time to time
+	
+b.	
+What are the processes used to identify work-related hazards and assess risks on a routine and non-
+routine basis by the entity?
+	
+	
+Black Box places the highest emphasis on Health and Safety; this includes regular inspections of the 
+workplace to identify potential hazards and unsafe practices; no hazardous equipment or flammable liquids 
+are used by the entity, which is harmful, dangerous, or injurious to the employees.
+Black Box Limited
+Page 16
+	
+c.	
+Whether you have processes for workers to report work-related hazards and to remove themselves 
+from such risks. 
+	
+	
+All employees can report work related hazards through local admin to enable prompt reporting, investigation, 
+and learning. Admin identifies the root cause of the incident and implements corrective and preventive 
+measures to prevent the recurrence of similar incidents. In addition to this reporting, the team conducts 
+regular safety audits, safety assessments, and safety walk-downs to identify and address any safety risks in 
+the workplace.
+	
+d.	
+Do the employees/ worker of the entity have access to non-occupational medical and healthcare 
+services?
+	
+	
+Yes, we always have first-aid kits available. A well-maintained medical room with medical bed and wheelchair 
+is available for employees who are unwell (currently available in the corporate office). Medical emergency 
+numbers are displayed on the notice boards of doctors and ambulances in each region. A medical emergency 
+facility is available on campus with trained doctors and nurses. We have also conducted health check-up 
+camps, yoga sessions, etc. for all employees across all regions.
+11.	
+Details of safety related incidents are in the following format: 
+	
+There is no loss from any kind of injury. Hence, the Lost Time Injury Frequency Rate (LTIFR) is NIL.
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace.
+	
+Black Box is committed to providing healthy and safe working conditions to all associates and ensures the 
+establishment, implementation, maintenance, and continual improvement of processes needed for the 
+elimination of hazards and minimization of risks. BBL has a health, safety, and environment policy to ensure safe 
+and healthy working conditions for associates and instill awareness amongst associates through training and 
+communication.
+13.	 Number of complaints on the following made by employees and workers: 
+	
+Black Box has always prioritized their associates’ health, safety, and well-being through establishing, implementing, 
+maintaining, and continually improving the processes and practices that guarantee a healthy and safe working 
+environment for all the associates. There were no complaints concerning working conditions or health & safety in 
+FY 22- 23 and FY 21-22.
+14.	 Assessments for the year:
+	
+No external assessment has been undertaken. However, we adhere to maintaining health & safety practices and 
+employee-friendly working conditions.
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and 
+on significant risks/concerns arising from assessments of health & safety practices and working conditions
+	
+There were no safety-related incidents or significant risks/concerns arising from assessments of health & safety 
+practices and working conditions. Black Box has processes in place for taking corrective actions, if necessary, 
+to eliminate the causes of actual and potential non-conformances or incidents and enforce corrective actions. 
+Black Box implements and records changes in the documented procedure, and the steps are standardized in the 
+relevant operational control procedure to ensure the prevention of incidents in the future.
+Innovate     Integrate     Elevate
+Black Box Limited
+Page 17
+Leadership Indicators
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of the death of (A) 
+Employees
+	
+Yes, Black Box Limited has comprehensive coverage for employees under the Group Mediclaim Policy and Group 
+Personal Accidental Insurance policy. This benefit is extended to employees across all levels.
+2.	
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and 
+deposited by the value chain partners.
+	
+The company adheres to statutory compliances related to workers, such as Minimum Wage payment, Provident 
+Fund, etc. The partners are warned of strict actions to be taken by default in these areas.
+3.	
+Provide the number of employees/workers who have suffered high-consequence work-related injury / ill-
+health / fatalities (as reported in Q11 of the Essential Indicators above), who have been rehabilitated and 
+placed in suitable employment, or whose family members have been placed in suitable employment: 
+	
+Not Applicable
+4.	
+Does the entity provide transition assistance programs to facilitate continued employability and the 
+management of career endings resulting from retirement or termination of employment?
+	
+Black Box provides transition assistance programs for all employees during career endings resulting from 
+retirement. However, this practice is not followed for termination cases.
+5.	
+Details on the assessment of value chain partners:
+	
+No assessment has been undertaken. However, value chain partners maintain their own processes in adherence 
+to the applicable laws.
+6. 
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising 
+from assessments of the health and safety practices and working conditions of value chain partners
+	
+Not Applicable
+PRINCIPLE 4: Businesses should respect the interests of and be responsive to all their stakeholders
+ESSENTIAL INDICATORS
+1.	
+Describe the processes for identifying key stakeholder groups of the entity.
+	
+Openness, transparency, and integrity are the basis of our stakeholder engagement approach at Black Box. We 
+ensure that our process of stakeholder engagement is continuous – undertaken throughout the year - and has 
+organization-wide reach as well as impact. We follow a robust process for the identification and prioritization 
+of our stakeholders. We recognize the importance of trust-based relationships and ensure transparent, timely, 
+and relevant engagement and communication with all the stakeholders. This also helps us to understand their 
+explicit and tacit needs that inform our strategy and operational decisions.
+	
+The management team connects with a diverse range of stakeholders through formal and informal mechanisms. 
+Our Stakeholder Relationship Committee maintains oversight of the stakeholder engagement mechanism for 
+the company. We engage with our stakeholders, and their inputs are considered in the materiality assessment 
+process, which gives us an insight into their outlook and future risks. It creates a framework for the business 
+heads to identify and report on key stakeholder concerns. These inputs help us identify the topics that matter to 
+our business.
+Black Box Limited
+Page 18
+2. 
+List stakeholder groups identified as key for your entity and the frequency of engagement with each 
+stakeholder group:
+Stakeholder 
+Group
+Whether 
+identified 
+as a 
+Vulnerable & 
+Marginalized 
+Group (Yes/
+No)
+Channels of communication
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, 
+Notice Board, Website), 
+Other
+Frequency of 
+engagement
+(Annually/ 
+Half yearly 
+/ Quarterly/
+others – please 
+specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Shareholders / 
+Investors
+No
+Quarterly results, Investor 
+presentations, Annual 
+Report, Annual General 
+Meeting, Investor/analysts 
+calls and meetings, Media 
+releases, Website.
+Ongoing 
+engagement
+To present business 
+operations and financial 
+performance highlights to 
+investors.
+To answer investor queries on 
+financial performance
+To discuss publicly available 
+company information to 
+shareholders and investors
+Customers
+No
+Multi-modal distribution 
+network and engagement 
+(email, SMS, app, 
+calls, chatbot, postal 
+communication, call center, 
+digital platform, website) 
+channels, Customer 
+Satisfaction measurement 
+and relationship 
+management, Media 
+campaigns, advertising, 
+road / reverse road shows 
+etc.
+Direct contact programs for 
+key clients/customers
+Ongoing
+Branding and Business 
+Promotion
+Regular updates on launch 
+of new products & solutions, 
+new features information is 
+shared with customers.
+Communication pertaining 
+to customer experience on 
+website, e-platforms etc. are 
+shared.
+Communications on cross-
+selling various solution 
+& products are sent to 
+customers.
+Technology 
+Partners & 
+vendors
+No
+Partner meets, workshops, 
+conferences and forums, 
+one-to-one meetings, 
+telephonic and email 
+communication, updating 
+partner management 
+portal, app training, etc.
+Ongoing
+All activities pertaining to 
+infrastructure and services 
+are done by our partners with 
+periodic engagements like:
+Assignment and closure of 
+jobs.
+Discussion on the scope of 
+work and other details.
+Taking No Due confirmations 
+from them at set intervals.
+Educating them on business 
+ethics, integrity, and code of 
+conduct. (Annually)
+Innovate     Integrate     Elevate
+Black Box Limited
+Page 19
+Stakeholder 
+Group
+Whether 
+identified 
+as a 
+Vulnerable & 
+Marginalized 
+Group (Yes/
+No)
+Channels of communication
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, 
+Notice Board, Website), 
+Other
+Frequency of 
+engagement
+(Annually/ 
+Half yearly 
+/ Quarterly/
+others – please 
+specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Employees
+No
+Direct contact, Email, 
+Employee app/websites, 
+Town-halls - CEO connect 
+and senior leadership 
+connects programs, team 
+engagements, survey, SMS, 
+Calls, Website.
+Ongoing
+To create an effective 
+communication channel and 
+inform employees on key 
+developments within the 
+company.
+Align them to the shared 
+purposes of the company 
+and business strategy; further 
+to create opportunities to 
+take employee feedback, 
+suggestions, and ideas and 
+involve them in the delivery of 
+the company’s commitment 
+towards set goals.
+Communities
+Yes
+Community development 
+initiatives, proposals and 
+requests for new initiatives, 
+interviews with local 
+NGOs and community 
+representatives, meetings 
+with associations/ NGOs, 
+local community meetings, 
+press releases, and social 
+media.
+As per 
+requirement 
+basis.
+-	
+Recruitment and 
+Awareness - monitor, 
+review, and reporting of 
+activities.
+-	
+CSR activities for 
+various communities 
+including Person With 
+Disabilities (PWDs) and the 
+environment.
+-	
+Providing equal work 
+opportunities irrespective 
+of their backgrounds
+LEADERSHIP INDICATORS
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, 
+and social topics, or if consultation is delegated, how is feedback from such consultations provided to the 
+Board?
+	
+The Board and its committees work with the regulatory requirements as an outline to address ESG-related 
+expectations and to improve performance. The ESG program, continuous stakeholder interaction on ESG topics, 
+and integration with business planning and strategy are overseen by a cross-functional team that includes cross-
+functional stakeholders who are contacted, consulted, and intimated as per the agreed mode of communication, 
+for e.g., employees communicate through email. The concerned person taking care of ESG policy reports to the 
+HR Head, who in turn updates the performance to the Management Committee as well as to the Board. Our 
+Board of Directors develops strategies and an execution roadmap to address the identified and prioritized list.
+Black Box Limited
+Page 20
+2. 
+Whether stakeholder consultation is used to support the identification and management of environmental, 
+and social topics (Yes / No). If so, provide details of instances as to how the inputs received from stakeholders 
+on these topics were incorporated into the policies and activities of the entity.
+	
+Yes, our engagements with internal and external stakeholders provide us with better insights into their 
+concerns. They help us identify material issues that can potentially impact our business operations and value-
+creation abilities for the company, stakeholders, and the larger ecosystem. We prioritize, review, and refine 
+our list of material issues in line with the findings from our continuous stakeholder engagements. They are 
+also aligned with the guidelines of sustainability standards and current business and economic realities.
+On the basis of general suggestions and applicable rules, the company has carried out the required changes in 
+both the setup and process. For eg. the replacement of 120 end-of-life vehicles with 2022/2023 Fuel Efficient New 
+Vehicles (Vans) or the surrender of 100K SQFT of Global Office Space that was not required by the company are 
+both actions providing GHG reductions (Scope 1).
+3.	
+Provide details of instances of engagement with and actions taken to, address the concerns of vulnerable/
+marginalized stakeholder groups.
+	
+Facilitating an environment of regular engagement with communities, and providing facilities for community 
+members to engage with each other is key to the success of an initiative.
+	
+We are committed to fostering an inclusive workplace for all team members, enabling us to make Black Box the 
+employer of choice for the best talent while driving excellence for our customers. We have earned a top score on 
+the 2022 Disability Equality Index® and have been named the “Best Place to Work for Disability Inclusion.”
+	
+www.disabilityin.org
+	
+School Improvement and Education – Ran a program to rejuvenate two schools in Delhi and Gwalior by providing 
+sponsorship to 67 differently-abled students.
+	
+Sponsorship for Differently-abled Patients - Sponsored custom-designed wheelchairs for 27 patients at the All 
+India Institute of Physical Medicine and Rehabilitation (AIIPMR) in Mumbai.
+	
+Mother and Child Malnutrition Project – Sponsored medical checkups, medicine, and vitamins for mothers and 
+children in the tribal belt of Trimbakeshwar and adjacent villages.
+	
+Equal opportunity - We are equal opportunity employer and strongly endorse the right to equal opportunity for 
+associates who are differently abled.
+	
+www.blackbox.com/en-in/discover-bb/csr
+Principle 5: Businesses should respect and promote human rights
+ESSENTIAL INDICATORS
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the 
+entity, in the following format:
+Category
+FY 2022-23
+Current Financial Year
+FY 2021-22
+Previous Financial Year
+Total
+No. of employees 
+covered
+%
+Total
+No. of employees 
+covered
+%
+Permanent
+443
+367
+83%
+405
+131
+32%
+Other than Permanent
+395
+0
+0%
+311
+0
+0%
+Total Employees
+838
+367
+44%
+716
+131
+18%
+Innovate     Integrate     Elevate
+Black Box Limited
+Page 21
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+Category
+FY 2022-23
+Current Financial Year
+FY 2021-22
+Previous Financial Year
+Total 
+(A)
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+Total 
+(D)
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+Number 
+(B)
+% (B/A)
+Number 
+(C)
+% (C/A)
+Number 
+(E)
+% (E/D)
+Number 
+(F)
+% (F/D)
+Employees
+Permanent
+Male
+386
+0
+0%
+386
+100%
+359
+0
+0%
+359
+100%
+Female
+57
+0
+0%
+57
+100%
+46
+0
+0%
+46
+100%
+Total
+443
+0
+0%
+443
+100%
+405
+0
+0%
+405
+100%
+Other than Permanent
+Male
+367
+86
+23%
+281
+77%
+310
+39
+13%
+271
+87%
+Female
+28
+19
+68%
+9
+32%
+11
+0
+0%
+11
+100%
+Total
+395
+105
+27%
+290
+73%
+321
+39
+12%
+282
+88%
+3.	
+Details of remuneration/salary/wages have been provided in Corporate Governance Report 
+Board of Directors
+Male
+Female
+Number
+(Median remuneration/ 
+salary/ wages of 
+respective category) *
+Number
+(Median remuneration/ 
+salary/ wages of 
+respective category) *
+Board of Directors (BoD)
+6
+4,16,667
+2
+58,29,351
+Key Managerial Personnel
+4
+7,26,321
+1
+1,13,58,701
+Employees other than BoD 
+and KMP
+385
+10,62,000
+56
+7,17,500
+* Independent Directors are paid remuneration in the form of sitting fees and Mrs. Mahua Mukherjee (Executive 
+Director and Chief People Officer) and Mr. Aditya Goswami,  (Company Secretary and Compliance Officer) are 
+being paid remuneration in capacity of employees.
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or 
+issues caused or contributed to by the business? 
+	
+Yes, The value chain partners are regularly assessed internally on various parameters including human rights 
+related matters and their adherence which may include sexual harassment practices, non-deployment of child 
+labor, adherence of minimum wages laws, better work-place environment, infrastructure for differently abled 
+employees etc. For more information, email ids are: whistleblower.indiabbl@blackbox.com or komal.seshagiri@
+blackbox.com
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+	
+None
+6.	
+Number of complaints on the following made by employees 
+	
+No complaints were received.
+Black Box Limited
+Page 22
+7.	
+Mechanisms to prevent adverse consequences for the complainant in discrimination and harassment cases.
+	
+The company has zero tolerance for sexual harassment at the workplace and has adopted a comprehensive 
+policy on preventing, prohibiting, and redressing sexual harassment of women in the workplace. The company 
+has an Internal Compliance Committee under the sexual harassment of Women at workplace (Prevention, 
+Prohibition, and Redressal) Act, 2013. Members of the ICC are responsible for conducting inquiries related to 
+such complaints. Throughout the process, the ICC will safeguard the identities of all parties involved as well 
+as the contents of complaints and inquiry proceedings. The whistleblower policy provides for adequate 
+safeguards against victimization of persons who use the mechanism through protected disclosures and 
+has a process for providing direct access to the Chief Ethics Officer or Chairman of the Ethics Committee
+wherever required.
+	
+Please find the policy link below – https://www.blackbox.com/investors/Whistle-Blower-Policy
+8.	
+Do human rights requirements form part of your business agreements and contracts? 
+	
+Yes, Human Rights form a part of the business agreements, like Labor Laws compliance, including statutory 
+requirements, such as child labor, forced labor, and compulsory labor, which are investigated during on-boarding 
+of suppliers. The vendors are required to sign this clause as a part of the contract.
+9.	
+Assessments for the year: 
+	
+No external assessment has been carried out. However, we are adhering to applicable laws internally within the 
+organization.
+10. Provide details of any corrective actions taken or underway to address significant risks / concerns arising 
+from the assessments in Question 9 above. 
+	
+No significant risk / Not Applicable
+LEADERSHIP INDICATORS
+1. 
+Details of a business process being modified / introduced as a result of addressing human rights grievances/
+complaints.
+	
+The company believes that it has upheld the basic principles of human rights in all its dealings. The company 
+regularly creates awareness among its employees about the Code of Conduct.
+2.	
+Details of the scope and coverage of any Human rights due-diligence conducted.
+	
+https://www.blackbox.com/investors/Whistle-Blower-Policy
+3. 
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the 
+Rights of Persons with Disabilities Act, 2016? - 
+	
+The registered office of the company has infrastructure enabled for differently abled visitors. Similarly, other 
+offices with the presence of persons with disabilities are enabled with the necessary infrastructure support.
+4.	
+Details on the assessment of value chain partners: 
+	
+The value chain partners are assessed on sexual harassment, child labor, wages, etc.
+5.	
+Provide details of any corrective actions taken or underway to address significant risks/concerns arising 
+from the assessments in Question 4 above.
+	
+Not Applicable
+Innovate     Integrate     Elevate
+Black Box Limited
+Page 23
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the environment
+ESSENTIAL INDICATORS
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+FY 22-23
+FY 21-22
+Total electricity consumption (A) – mWh units
+577,021
+376,798
+Total fuel consumption (B) - Units
+5,958
+3,869
+Energy consumption through other sources (C)
+-
+-
+Total energy consumption (A+B+C)
+582,979
+380,666
+Energy intensity per rupee of turnover (Total energy consumption/
+turnover in rupees)
+0.00016
+0.00012
+Energy intensity (optional) – the relevant metric may be selected by the 
+entity
+-
+-
+2. 
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, 
+Achieve, and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set 
+under the PAT scheme have been achieved. In case targets have not been achieved, provide the remedial 
+action taken, if any. 
+	
+We are not registered under the PAT (Perform, Achieve & Trade) scheme of the Government of India for any of our 
+pan India locations.
+3.	
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 22-23
+(Current Financial Year)
+FY 21-22
+(Previous Financial Year)
+Water withdrawal by source (in kiloliters)
+(i) 	 Surface water
+-
+-
+(ii) 	 Groundwater
+-
+-
+(iii) 	 Third party water
+339,324 KL
+507,936 KL
+(iv) 	 Seawater / desalinated water
+-
+-
+(v) 	 Others
+-
+-
+Total volume of water withdrawal
+(in kilolitres) (i + ii + iii + iv + v)
+-
+-
+Total volume of water consumption
+(in kilolitres)
+339,324 KL
+507,936 KL
+Water intensity per rupee of turnover (Water consumed 
+/ turnover)
+0.00092
+0.00017
+Water intensity (optional) – the relevant metric may be 
+selected by the entity
+-
+-
+4.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage 
+and implementation. 
+	
+We regularly engage with the respective landlords to implement ZLD for all our rented facilities.
+Black Box Limited
+Page 24
+5.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+DETAILS
+NOx
+Not Detected
+SOx
+Not Detected
+Particulate matter (PM)
+2.4 µg/m3 – PM 10  6.2 µg/m3 – PM 2.5
+Persistent organic Pollutants (POP)
+Not applicable
+Volatile organic compounds (VOC)
+Not Detected
+Hazardous air pollutants (HAP)
+Not applicable
+Others – please specify
+Carbon Dioxide, Carbon Monoxide, Ammonia, Formaldehyde, Oxygen, 
+Hydrogen Sulphide – Within specified limited/Not detected
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency. 
+Yes, Equinox Labs
+6.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) and their intensity in the 
+following format: 
+	
+Black Box procures products and services from vendors who have strong environmental commitments, such as 
+using renewable energy, reducing packaging waste, and employing eco-friendly manufacturing processes. We 
+are committed to reducing greenhouse gas emissions. This is an on-going initiative, and we track this periodically.
+7.	
+Does the entity have any project related to reducing Green House Gas emission? If yes, then provide details. 
+	
+Black Box has set long-term targets leading us on a decarbonization pathway, ensuring we become carbon 
+neutral (net zero) by 2050. We prioritize energy-efficient solutions in its technology offerings, such as promoting 
+energy-efficient servers, networking equipment, and data centers. This helps clients reduce their carbon footprint 
+and energy consumption.
+8.	
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 22-23
+Total waste generated (in metric tons)
+Plastic waste
+Not tracked currently as we have negligible plastic waste, and it is 
+majorly managed by the facility owners and hence not tracked.
+E-waste
+1250 kg
+Bio-medical waste
+Not applicable. We do not produce or dispose of any kind of 
+biomedical, construction debris or radioactive waste.
+Construction and demolition waste
+Battery waste
+Included in e-waste
+Radioactive waste
+Not applicable
+Not applicable
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery 
+operations (in metric tons)
+Category of waste
+(i)	
+Recycled
+We use only recycled paper, paper cups, envelopes, paper rim
+(ii)	 Re-used
+-
+(iii)	 Other recovery operations
+-
+Total
+Innovate     Integrate     Elevate
+Black Box Limited
+Page 25
+Parameter
+FY 22-23
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tons)
+Category of waste
+(i)	
+Incineration
+(ii)	 Landfilling
+Our waste generation is minimal and consequently there is no 
+requirement of incineration or landfilling activities.
+(iii)	 Other disposal operations (Sanitary 
+waste managed by vendor)
+312 kg
+-
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency. 
+No
+9. 
+Briefly describe the waste management practices adopted in your establishments. Describe the strategy 
+adopted by your company to reduce the usage of hazardous and toxic chemicals in your products and 
+processes and the practices adopted to manage such waste.
+	
+Black Box Limited practices minimum wastage: We have kept separate bins for wet and dry waste, which is then 
+easy to segregate for the building waste management team. Since we are predominantly service-based and not 
+a manufacturing company, hazardous and toxic chemical waste does not apply to us.
+10. If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife 
+sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones, etc.) 
+where environmental approvals / clearances are required, please specify details in the following format:
+	
+Black Box Limited does not have operations/offices in/around ecologically sensitive areas where environmental 
+approvals / clearances are required.
+11.	
+Details of environmental impact assessments of projects undertaken by the entity based on applicable 
+laws in the current financial year:
+	
+NIL
+12.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as 
+the Water (Prevention and Control of Pollution) Act, the Air (Prevention and Control of Pollution) Act, the 
+Environment protection act, and the rules thereunder (Y/N).
+	
+Black Box complies with applicable environmental laws and regulations.
+LEADERSHIP INDICATORS
+n	
+Electricity from various states electricity board
+n	
+Generator backup from property generator set
+n	
+Third-party water, which we get from municipal water sources
+n	
+Bottled drinking water is supplied by agencies – Water Test report available
+n	
+Air at Mumbai and other offices was tested and found to be good for the working environment
+Black Box Limited
+Page 26
+1.	
+Provide break-up of the total energy consumed (in joules or multiples) from renewable and non-renewable 
+sources, in the following format: 
+	
+Black Box has set long-term targets leading us on a decarbonization pathway; we aim to become carbon neutral 
+(net zero) by 2050. We prioritize energy-efficient solutions in our technology offerings, such as promoting energy-
+efficient servers, networking equipment, and data centers. This helps clients reduce their carbon footprint and 
+energy consumption.
+	
+Currently, we do not have a process to track; however, we are in the process of introducing the same.
+2.	
+Provide the following details related to water discharge: 
+	
+Currently, we regularly engage with our landlords for all rented facilities, because of which we individually cannot 
+track them; however, we are in the process of introducing the same.
+3.	
+Water withdrawal, consumption, and discharge in areas of water stress (in kiloliters): 
+	
+Currently, we regularly engage with our landlords for all rented facilities, because of which we individually cannot 
+track them; however, we are in the process of introducing the same.
+4.	
+Please provide details of total Scope 3 emissions and their intensity in the following format: 
+	
+Not applicable
+5.	
+With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, 
+provide details of significant direct and indirect impact of the entity on biodiversity in such areas, along 
+with prevention and remediation activities: 
+	
+Not applicable
+6. 
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve 
+resource efficiency, or reduce impact due to emissions / effluent discharge / waste generated, please 
+provide details of the same as well as the outcome of such initiatives as per the following format:
+Sr. No
+Initiative undertaken
+Details of the initiative (Web-link, if any, 
+may be provided along-with summary)
+Outcome of the initiative
+1
+Live plants kept in open 
+areas
+Managed by our vendor
+Helps with oxygen levels
+2
+LED lights from 
+conventional lights
+Replacing conventional lights to cut down 
+on energy consumption
+Energy consumption reduced 
+to an extent
+3
+Motion sensors
+Installed at specific areas in office
+Reduced the use of additional 
+electricity consumption
+4
+Air Conditioner power 
+consumption
+Our vendor services AC’s regularly. 
+AC’s are switched off at unused places. 
+Minimum pleasant degree is maintained.
+Results seen in monthly 
+electricity bills.
+5
+Drinking Water Testing
+Conforms to IS 10500 : 2012
+Pollutant –free drinking water
+6
+Air Quality Testing
+Office air quality tested
+Air Quality found good for the 
+working environment
+7.	
+Does the entity have a business continuity and disaster management plan?
+	
+The purpose of the Disaster Recovery plan at Black Box is to ensure documented standards/procedures for 
+developing disaster recovery plans and for maintaining disaster recovery arrangements throughout the 
+enterprise. The plan includes,
+	
+-	
+A formal process for developing disaster recovery plans and maintaining them for critical applications across 
+the enterprise is established therein
+Innovate     Integrate     Elevate
+Black Box Limited
+Page 27
+	
+-	
+The plan specifies that:
+	
+	
+n	
+It provides for all critical parts of the system
+	
+	
+n	
+Has ownership defined for the plan that will ensure regular maintenance updating or following 
+significant changes to business processes or problems encountered during tests
+	
+	
+n	
+Distributed to all individuals who may require them in case of an emergency
+	
+-	
+The disaster recovery plan contains,
+	
+	
+n	
+A list of Services that would need to be recovered
+	
+	
+n	
+A schedule of key tasks to be carried out, identifying responsibilities for each task
+	
+	
+n	
+Sufficient details, so that they can be followed by individuals who do not normally carry the out same
+	
+	
+n	
+Procedures to be followed in completing key tasks and activities, including emergency fallback & 
+resumption procedures
+	
+-	
+As per the procedure, the DR plan:
+	
+	
+n	
+Covers critical IT facilities and key user areas
+	
+	
+n	
+Are tested at least once a year, using realistic simulations, to demonstrate whether critical services can 
+be resumed within critical timelines
+	
+	
+n	
+Requires relevant staff to be informed of their responsibilities and be trained to discharge them
+	
+	
+Please find link - https://www.blackbox.com/en-in/discover-bb/covid-19-response/business-continuity-plan
+8. 
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What 
+mitigation or adaptation measures have been taken by the entity in this regard?
+	
+No significant adverse impact on the environment has occurred or reported so far.
+9.	
+Percentage of value chain partners (by value of business done with such partners) that were assessed for 
+environmental impacts. 
+	
+Our value chain partners adhere to and carry out their own assessments for environmental impacts.
+PRINCIPLE 7: Businesses, when engaging in influencing public and regulatory policy, should do so in a manner 
+that is responsible and transparent.
+ESSENTIAL INDICATORS
+1. 
+a. 
+Number of affiliations with trade and industry chambers/ associations.
+	
+	
+Black Box is affiliated with many trade and industry chambers/ associations to ensure a collaborative 
+environment that helps us to access knowledge, build a network, improve our reputation, advertise, educate, 
+market, and collaborate with the government for policy changes that help businesses and the society.
+	
+b.	
+List the top trade and industry chambers/ associations (determined based on the total members of 
+such body) the entity is a member of/ affiliated to.
+	
+	
+As a listed entity in India and by virtue of law, we are part of trade associations like the CII Corporate 
+Governance Council, the CII Western Region Council and are affiliated to AVIXA.
+	
+	
+We are also part of International forums and trade associations like the ICS in Europe, among others.
+Black Box Limited
+Page 28
+2.	
+Provide details of corrective action taken or underway on any issues related to anti- competitive conduct 
+by the entity, based on adverse orders from regulatory authorities.
+	
+There are no orders from regulatory authorities on any issues of anti-competitive conduct.
+LEADERSHIP INDICATORS
+1.	
+Details of public policy positions advocated by the entity:
+	
+At Black Box, our utmost priority is to create value for all members of the Black Box ecosystem – our customers, 
+partners, investors, and associates. We do this by setting key objectives across business, technologies, and 
+sustainability initiatives across various geographies even as we focus on people and planet alike. We achieve these 
+objectives in myriad ways – one of which involves forging and maintaining purposeful, symbiotic partnerships 
+with our stakeholders, including industry associations, fellow organizations, government representatives, and 
+more.
+PRINCIPLE 8: Businesses should promote inclusive growth and equitable development.
+ESSENTIAL INDICATORS
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, 
+in the current financial year
+	
+SIA is not applicable to any of the projects undertaken by the company. However, the company assesses the 
+effectiveness of all projects undertaken voluntarily as a part of Black Box’s way of giving back to society.
+2.	
+Provide information on the project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being 
+undertaken by your entity, in the following format:
+	
+During COVID-19 Pandemic, we made sure that optimum measures were taken for the Black Box employees, 
+here are some of them:
+	
+1.	
+Providing all the support to work in safe Work from Home Environment
+	
+2.	
+Providing needed COVID-19 inoculation to the employees and his/her family
+	
+3.	
+Financial support through the company’s medical policy at the time of any medical emergency
+	
+Some of the key CSR Activities are highlighted as follows:
+	
+1.	
+We continue to prioritize our efforts to empower Persons with Disabilities (PwDs), through our CSR projects. 
+The focus is on creating an environment that provides PwDs with equal opportunities and enabling them 
+to participate as independent and productive members of society. We have continued our affiliation with 
+Sarthak Foundation by sponsoring the training of 18 PWDs through their intervention named JEET (Job 
+Entrepreneurship and Empowerment Training). This 3-month long extensive training aims at enabling 
+youth with disability to live financially independent lives through vocational skill building and placement 
+support creation. Black Box supported Sarthak Foundation donating INR 3 Lakhs for FY’23.
+	
+2.	
+We even carried out a beach cleaning drive at one of the beaches in Mumbai, India in FY’23 as part of our CSR 
+initiatives.
+	
+3.	
+We have participated in Tata Marathon and promoted the cause of PwD through Banners and Placards.
+Innovate     Integrate     Elevate
+Black Box Limited
+Page 29
+3.	
+Describe the mechanisms to receive and redress grievances of the community.
+	
+There is regular engagement with key community institutions and representatives from key neighborhoods 
+across India. Stakeholders can find more information about our initiatives and contact us for any of their queries 
+and concerns by clicking the following link:
+	
+https://www.blackbox.com/investors/Whistle-Blower-Policy
+	
+Email Address: whistleblower.indiabbl@blackbox.com
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY 2022-23
+Current Financial Year
+ FY 2021-22
+Previous Financial Year
+Directly sourced from MSMEs/ small producers
+32%
+13%
+LEADERSHIP INDICATORS
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact 
+Assessments (Reference: Question 1 of Essential Indicators above): There are NO negative impacts.
+1.	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational 
+districts as identified by government bodies:
+	
+It is not applicable.
+2.	
+A.	
+Do you have a preferential procurement policy where you give preference to purchase from suppliers 
+comprising marginalized /vulnerable groups? - No
+	
+B.	
+From which marginalized /vulnerable groups do you procure?- Not Applicable
+	
+C.	
+What percentage of total procurement (by value) does it constitute?
+	
+	
+Being an IT Services provider, our major procurement is for IT-related products and services which are 
+sourced through large multinational OEMs directly or through distributors. However, Black Box continually 
+strives to procure locally, sustainably, and from marginalized /vulnerable suppliers for requirements in any 
+other areas. We prefer local suppliers of goods and services to help create economic opportunities in the 
+communities in which we operate.  
+3. 
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity 
+(in the current financial year), based on traditional knowledge: 
+	
+NA
+5.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related 
+disputes wherein usage of traditional knowledge is involved. 
+	
+NA
+6. 
+Details of beneficiaries of CSR Projects:
+	
+We continue to prioritize our efforts to empower Persons with Disabilities (PwDs) through our CSR projects. 
+The focus was on creating an environment that provides PwDs with equal opportunities and enables them to 
+participate as independent and productive members of society.
+	
+Please refer to Annexure VII to Director’s Report - Report on Corporate Social Responsibility on Page No. 84
+Black Box Limited
+Page 30
+PRINCIPLE 9: Businesses should engage with and provide value to their consumers in a responsible manner
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+Supporting an omnichannel customer support channel has become more complex than ever because of the 
+global remote and hybrid work methods. The respective regional representatives and the managers of each 
+regional office ensure that ongoing customer engagement and proper customer relationships are maintained. 
+The efforts are to solve customer grievances in the shortest period of time.
+	
+We utilize channels like websites, emails, contact numbers, contact centres, and social media to answer queries 
+and concerns. We try to address those concerns within 24 hours.
+2.	
+Turnover of products and/ services as a percentage of turnover from all products /service that carry 
+information about: 
+	
+Black Box is not a manufacturer of products. As an organization, we provide digital transformation and consulting 
+and business reengineering services and solutions to customers. We ensure the creation of a safe and responsible 
+environment where the usage of materials and/or the recycling and/or disposal of waste-electronic and otherwise 
+are as per applicable laws. Black Box works with our customers on similar lines and delivers services that help 
+advance their technology transformation roadmap using tools, framework, and in creating a safe and recycled 
+materials framework.
+3.	
+Number of consumer complaints in respect of the following: 
+	
+No complaints. As per standard practice, we do not consider reviews or comments as complaints.
+4.	
+Details of instances of product recalls on account of safety issues: 
+	
+No instance of product recall.
+	
+Does the entity have a framework/policy on cyber security and risks related to data privacy? (Yes/No) If available, 
+provide a web-link of the policy. https://www.blackbox.com/en-us/legal/privacy-policy
+5.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery 
+of essential services; cyber security and data privacy of customers; re-occurrence of instances of product 
+recalls; penalty/action taken by regulatory authorities on safety of products/services.
+	
+As of now, no issues have been reported; there were no corrective actions taken or underway on any of the above 
+issues.
+LEADERSHIP INDICATORS
+1.	
+Channels/platforms where information on products and services of the entity can be accessed (provide web link, 
+if available). https://www.blackbox.com
+ 
+ 
+ 
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.
+	
+Awareness of safety through:
+	
+i.	
+Social Media – Regular updates related to Black Box services or any updates about the solutions or products.
+	
+iii.	 Outreaches – We are regularly connecting through contact programs and updating new developments in 
+solutions or products business. All the information is regularly updated on our website.
+Innovate     Integrate     Elevate
+Black Box Limited
+Page 31
+	
+ii.	
+Safety emails – This is a regular feature for both internal and external customers where we inform/update 
+them on any changes or development in the solutions or products segment.
+	
+iv.	 Newsletters – Newsletters are again a regular feature that keeps us abreast with the latest developments or 
+updates in the policy.
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.
+	
+Mailers or website updates on the End of Sales or End of Life of a product.
+4.	
+Does the entity display product information on the product over and above what is mandated as per local 
+laws? (Yes/No/Not Applicable) If yes, provide details in brief. Did your entity carry out any survey with 
+regard to consumer satisfaction relating to the major products/services of the entity, significant locations 
+of operation of the entity, or the entity as a whole? (Yes/No): 
+	
+We don’t manufacture any products.
+5.	
+Provide the following information relating to data breaches:
+	
+A.	
+Number of instances of data breaches along with impact: No instance of the data breach.
+	
+B.	
+Percentage of data breaches involving personally identifiable information of customers: 0%

@@ -1,0 +1,3851 @@
+ 
+Date: September 05, 2023 
+To, 
+ 
+ 
+ 
+ 
+ 
+To, 
+Department of Corporate Services, 
+ 
+Listing Department, 
+BSE Limited  
+ 
+ 
+ 
+National Stock Exchange of India Limited 
+Phiroze Jeejeebhoy Towers, 
+ 
+ 
+Exchange plaza, Plot No. C/1, G Block 
+Dalal Street 
+ 
+ 
+ 
+ 
+Bandra Kurla Complex, Bandra East, 
+Mumbai - 400001 
+ 
+ 
+ 
+Mumbai – 400051 
+Scrip Code: 543333 
+ 
+ 
+ 
+Scrip Symbol: CARTRADE 
+ISIN: INE290S01011 
+ 
+Dear Sir/Madam, 
+ 
+Sub.: Business Responsibility and Sustainability Report for the Financial Year ended 
+March 31, 2023 
+ 
+In terms of the requirements of Regulation 34(2)(f) of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, please find enclosed copy of Business 
+Responsibility and Sustainability Report (“BRSR”) of the Company for the Financial Year 
+2022-23. 
+ 
+The BRSR also forms the part of the Annual Report of the Company for the Financial Year 
+2022 23, submitted to the exchanges vide intimation dated September 05, 2023. 
+ 
+The BRSR is also made available on the website of the Company at https://cartradetech.com/ 
+ 
+You are requested to kindly take the above information on record. 
+Thanking you, 
+ 
+Yours faithfully 
+For CarTrade Tech Limited 
+ 
+ 
+________________________________________ 
+Lalbahadur Pal 
+Company Secretary and Compliance officer 
+Mem. No. A40812  
+ 
+Enclosed a/a  
+PAL LAL 
+BAHADUR 
+DEEPNARAYAN
+Digitally signed by 
+PAL LAL BAHADUR 
+DEEPNARAYAN
+1
+Cartrade Tech Limited | Annual Report 2022-23
+Financial Statements
+Statutory Reports
+Corporate Overview
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of the listed entity
+1.
+Corporate Identity Number (CIN) of the Listed 
+Entity
+L74900MH2000PLC126237
+2.
+Name of the Listed Entity
+CARTRADE TECH LIMITED
+3.
+Year of incorporation
+2000
+4.
+Registered office address
+12th Floor Vishwaroop IT Park, Sector 30A, Vashi, Navi Mumbai 
+400705
+5.
+Corporate address 
+12th Floor Vishwaroop IT Park, Sector 30A, Vashi, Navi Mumbai 
+400705
+6.
+E-mail 
+investor@cartrade.com
+7.
+Telephone 
+022-67398888
+8.
+Website
+https://cartradetech.com/
+9.
+Financial year for which reporting is being done 
+FY23 (April 01, 2022 to March 31, 2023)
+10.
+Name of the Stock Exchange(s) where shares are 
+listed 
+National Stock Exchange of India Limited (NSE)
+and BSE Limited (BSE)
+11.
+Paid-up Capital 
+₹ 46,84,43,170
+12.
+Name and contact details (telephone, email 
+address) of the person who may be contacted in 
+case of any queries on the BRSR report 
+Lalbahadur Pal	
+	
+	
+Contact No.: 022-67398888	 	
+	
+Email ID: legal@cartrade.com	
+	
+	
+13.
+Reporting boundary - Are the disclosures under 
+this report made on a standalone basis (i.e., only 
+for the entity) or on a consolidated basis (i.e., for 
+the entity and all the entities which form a part of its 
+consolidated financial statements, taken together). 
+Standalone
+II.	
+Products/services
+14.   Details of business activities (accounting for 90% of the turnover):
+S. 
+No.
+Description of the main activity
+Description of business activity
+% of the turnover of 
+the entity
+1
+Operation of web-portals, online 
+classified media and allied services.
+Data Processing, hosting and related
+activities; web portal
+100
+15. 	 Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. 
+No.
+Product/Service
+NIC Code
+% of Total Turnover
+contributed
+1
+Operation of web-portals, online 
+classified media and allied services.
+63122
+100
+III.	
+Operations
+16.  Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of offices^
+Total
+National
+NA*
+4
+4
+International
+NA*
+-
+-
+* The Company is an automotive marketplace and does not undertake any manufacturing activity.
+^ The Company provides services to clients across the whole of India through its digital platforms. 
+Business Responsibility & Sustainability Reporting
+2
+Transforming Automotive Buying and Selling through Digitalisation
+17.  Markets served by the entity:
+a.  	 Number of locations
+Locations 
+Number 
+National^ (No. of States)
+36 (28 states and 8 Union Territories)
+International (No. of Countries)
+-
+^The Company, being an automotive marketplace, provides services to clients across the whole of India through its digital 
+platforms.
+b. 	 What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+2.75% (Income from Google Advert Inc, Google LLC, Microsoft Online Inc. and Pubmatic)
+c. 	
+A brief on types of customers
+	
+CarTrade Tech Limited (“the Company”) is a multi-channel auto platform (online and offline marketplace) that offers a 
+variety of solutions across the automotive transaction value chain such as the buying, selling, marketing, valuation, and 
+financing of new and used cars, two-wheelers. Through our various platforms, we help customers, vehicle dealerships, 
+vehicle OEMs, and other businesses to buy and sell their vehicles. 
+IV.	 Employees
+18. 	 Details as at the end of the Financial Year:
+a. 	
+Employees (including differently-abled): 
+S. 
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+EMPLOYEES
+1.
+Permanent (D)
+945
+708
+75%
+237
+25%
+2.
+Other than 
+Permanent (E)*
+5
+5
+100%
+0
+0%
+3.
+Total employees^
+(D + E)
+950
+713
+75%
+237
+25%
+As on March 31, 2023
+* Other than permanent employees refers to consultants. 
+^ The entire workforce of the Company is categorised as ‘Employees’. Therefore, the information required in all sections in the 
+‘Workers’ category is not applicable to the Company.
+b. 	 Differently abled Employees:
+S. 
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+Differently-abled employees
+1.
+Permanent (D)
+0
+0
+0
+0
+0
+2.
+Other than 
+Permanent (E)
+0
+0
+0
+0
+0
+3.
+Total differently 
+abled employees 
+(D + E)
+0
+0
+0
+0
+0
+19.  Participation/Inclusion/Representation of women
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+6
+2
+33.3%
+Key Management Personnel *
+3
+1
+33.3%
+As on March 31, 2023
+* Key Management Personnel are Chairman & Managing Director (MD), Executive Director & Chief Financial Officer (CFO), 
+and Company Secretary (CS) & Compliance Officer
+Business Responsibility & Sustainability Reporting
+3
+Cartrade Tech Limited | Annual Report 2022-23
+Financial Statements
+Statutory Reports
+Corporate Overview
+20.  Turnover rate for permanent employees and workers 
+FY 23
+FY 22
+FY 21
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent 
+Employees
+40.00%
+59.84%
+44.60%
+33.17%
+37.78%
+34.14%
+29.57%
+35.20%
+30.90%
+V.	
+Holding, Subsidiary and Associate Companies (including joint ventures) 
+21.	 (a)	 Names of holding / subsidiary / associate companies / joint ventures
+S. 
+No.
+Name of the holding / 
+subsidiary / associate 
+companies / joint ventures 
+(A)
+Indicate whether 
+holding/ Subsidiary/ 
+Associate/ Joint 
+Venture
+% of shares 
+held by 
+listed entity
+Does the entity indicated in 
+column A, participate in the 
+Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+1
+Shriram Automall India Limited
+Subsidiary
+55.43
+No 
+2
+CarTradeExchange Solutions 
+Private Limited#
+Subsidiary
+55.43
+No
+3
+Adroit Inspection Services 
+Private Limited#
+Subsidiary
+55.43
+No
+4
+Augeo Asset Management 
+Private Limited#
+Subsidiary
+55.43
+No
+5
+CarTrade Finance Private 
+Limited
+Subsidiary
+100
+No
+6
+CarTrade Foundation
+Subsidiary
+100
+No
+#Indirect subsidiary company (step down Subsidiary) of the Company.
+VI.	 CSR Details 
+22.	 (i) 	 Whether CSR is applicable as per section 135 of Companies Act, 2013: Yes
+	
+(ii) 	 Turnover (in `): ₹ 156.67 cr
+	
+(iii) 	Net worth (in `): ₹ 1,998.45 cr
+Note: CSR Expenditure not applicable as Two percent of Average net profit of the Company for last three financial years as per section 135(5) 
+of the Act is negative.
+Business Responsibility & Sustainability Reporting
+4
+Transforming Automotive Buying and Selling through Digitalisation
+VII.	 Transparency and Disclosures Compliances 
+23. 	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct: 
+Stakeholder 
+group from 
+whom 
+complaint is 
+receiveds
+Grievance 
+Redressal 
+Mechanism in Place 
+(If yes, then 
+provide web link for 
+grievance redress 
+policy)
+FY23
+FY22
+Number of 
+complaints 
+filed 
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution 
+at the 
+close of 
+the year
+Remarks
+Number of 
+complaints 
+filed 
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution 
+at the 
+close of 
+the year
+Remarks
+Communities
+The Company 
+has a Stakeholder 
+Grievance Redressal 
+Policy which 
+defines the process 
+and procedure 
+for capturing 
+and addressing 
+grievances of all the 
+stakeholders. The 
+policy can be found 
+on our website, on the 
+below weblink:
+https://cartradetech.
+com/corporate-
+governance.html 
+0
+0
+No 
+complaints 
+were 
+received
+0
+0
+No complaints were received
+Investors 
+(other than
+shareholders)
+0
+0
+No 
+complaints 
+were 
+received
+0
+0
+No complaints were received
+Shareholders
+10
+0
+There were 
+no investor 
+complaints 
+pending for 
+resolution 
+at the end 
+of the year
+41
+The Company’s Registrar and Transfer 
+Agent (“RTA”) provides share transfer 
+related services to shareholders. 
+The 
+Company’s 
+Stakeholders 
+Relationship 
+Committee 
+of 
+the 
+Board 
+monitors/oversees 
+redressal 
+of grievances of investors, including 
+complaints 
+related 
+to 
+transfer/ 
+transmission of shares, non-receipt of 
+annual report, non-receipt of declared 
+dividends, issue of new/ duplicate 
+certificates, general meetings etc. 
+There is a dedicated email id for 
+receiving 
+investor 
+complaints: 
+investor@cartrade.com. 
+Details of investors complaints received 
+are filed on a quarterly basis with the 
+Stock Exchanges where the shares of 
+the Company are listed.
+Employees 
+and workers
+0
+0
+No 
+complaints 
+were 
+received
+0
+0
+The 
+Company 
+has 
+framed 
+Vigil 
+Mechanism & Whistle Blower Policy 
+and Code of Conduct, and ensures all 
+employees abide by these.
+Consumers
+0
+0
+No 
+complaints 
+were 
+received
+0
+0
+The Company has a dedicated email ID 
+viz. contact@cartrade.com, support@
+carwale.com, contact@carwale.com, and 
+contact@bikewale.com for customers to 
+register their grievance or complaints, if 
+any.
+Value Chain 
+Partners
+0
+0
+No 
+complaints 
+were 
+received
+0
+0
+The Company has a dedicated email ID 
+i.e., contact@carwale.com for suppli­
+ers to register their grievance or com­
+plaints, if any.
+ OEMs
+0
+0
+No 
+complaints 
+were 
+received
+0
+0
+The Company has a dedicated email 
+ID OEMs contact@carwale.com for 
+OEMs to register their grievance or 
+complaints, if any.
+Business Responsibility & Sustainability Reporting
+5
+Cartrade Tech Limited | Annual Report 2022-23
+Financial Statements
+Statutory Reports
+Corporate Overview
+24. 	 Overview of the entity’s material responsible business conduct issues
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or 
+mitigate the risk along with its financial implications.
+S. 
+No.
+Material 
+issue
+identified
+Indicate 
+whether 
+risk or 
+opportunity
+Rationale for identifying
+the risk/opportunity
+In case of
+risk, approach to adapt or
+mitigate
+Financial
+implications
+of the risk or
+opportunity
+1
+Human 
+Capital 
+Development
+Risk/ 
+Opportunity
+Opportunity: Our 
+skilled employee 
+base is instrumental 
+towards the Company’s 
+leadership position in the 
+automotive marketplace 
+space. A motivated 
+talent pool with strong 
+business and technical 
+expertise helps deliver 
+high quality products/
+services and innovation. 
+We consistently invest 
+in the growth and 
+development of our 
+employees to harmonise 
+the expectations of our 
+human capital with those 
+of the Company’s growth 
+strategy. 
+Risk: Constant upskilling 
+of the workforce is critical 
+to build capabilities to 
+navigate the evolving 
+technological and 
+business landscape. 
+Inadequate human capital 
+development and lack 
+of skillset can lead to 
+business disruption in 
+such cases. Additionally, 
+there exists strong market 
+demand for skilled and 
+experienced talent which 
+poses a risk of high 
+attrition and flight of talent.
+We have put in place 
+a robust mechanism to 
+identify and recruit talent 
+with required skills from 
+leading engineering 
+institutions and business 
+schools as well as through 
+internal employee referrals 
+and independent external 
+agencies.
+We have adopted 
+competitive compensation 
+framework and we 
+benchmark our employee 
+benefits and salary to 
+ensure that our practices 
+are in line with best industry 
+standards. 
+Our Learning and 
+Development (L&D) 
+programme is aimed at 
+promoting career growth, 
+leadership development, 
+and gaining technical as 
+well as soft skills through 
+regular workshops and 
+training sessions.
+We have an equal 
+opportunity culture that 
+fosters diversity and 
+inclusion within our 
+workforce. We also have 
+a transparent grievance 
+redressal mechanism 
+for managing employee 
+concerns.
+We also engage with our 
+employees at regular 
+intervals to seek their 
+feedback on HR policies 
+and practices and take 
+corrective actions, wherever 
+necessary.  
+Positive: 
+Development and 
+retention of skilled 
+talent helps business 
+growth, productivity 
+and innovation. 
+Negative: High 
+attrition can impact 
+productivity, 
+efficiency and 
+innovation which 
+leads to business 
+disruption and 
+negative financial 
+impact.
+Business Responsibility & Sustainability Reporting
+6
+Transforming Automotive Buying and Selling through Digitalisation
+S. 
+No.
+Material 
+issue
+identified
+Indicate 
+whether 
+risk or 
+opportunity
+Rationale for identifying
+the risk/opportunity
+In case of
+risk, approach to adapt or
+mitigate
+Financial
+implications
+of the risk or
+opportunity
+2
+Consumer  
+satisfaction
+Opportunity
+Opportunity: Consumers lie 
+at the heart of any business 
+strategy, thus incorporating 
+consumer centricity is the 
+only viable approach to 
+achieve growth.
+We have incorporated 
+Consumer centricity within 
+all our policies, practices, 
+and strategies. We stress 
+extensively on engagement 
+with consumer and seek 
+feedback to redefine  our 
+offerings. We ensure that 
+the Consumer facing em-
+ployees are well trained 
+to effectively handle the 
+needs and concerns of our 
+Consumers and ensure 
+their satisfac-tion with our 
+products and services.
+Positive: High 
+Consumer satisfaction 
+can lead to strong 
+business growth. It 
+can also help create 
+a strong brand 
+reputation and a loyal 
+Consumer base who 
+could be potential 
+market for Company’s 
+other existing/ 
+new products and 
+services.
+3
+Data privacy & 
+Cybersecurity
+Risk
+Risk: Cyber-attacks 
+and data breaches 
+are becoming major 
+risks due to increasing 
+digitisation and large-
+scale use of technology 
+and its integration across 
+platforms. Vulnerable 
+systems can compromise 
+the security of intellectual 
+property or critical data 
+as well as confidential 
+information of stakeholders, 
+including personally 
+identifiable information 
+(PII) which could damage 
+Company’s trust and 
+reputation. 
+We are constantly in the 
+process of strengthening our 
+digital infrastructure in terms 
+of technical safeguards and 
+ongoing monitoring of new 
+and existing threats. 
+We have adopted a robust 
+cybersecurity and data 
+management framework 
+and controls which is 
+supervised by the Board and 
+the senior management. 
+We also regularly review 
+our data and IT security 
+policies and procedures 
+and also conduct training 
+and awareness sessions for 
+our stakeholders to better 
+equip them in dealing with 
+instances of cyber-attacks 
+and data breaches.
+We design our platforms, 
+offerings, and policies 
+to facilitate compliance 
+with evolving privacy and 
+data security laws and 
+regulations. Additionally, we 
+have also procured a Cyber 
+Insurance Policy for our 
+system.
+Negative: Weak 
+data governance 
+can result in data 
+breaches which can 
+damage reputation 
+and impact business 
+growth. It could also 
+lead to legal liabilities 
+which could result in 
+additional financial 
+burden. Investments 
+in technology and 
+digital infrastructure to 
+strengthen IT systems 
+will result in increased 
+operational costs. 
+Business Responsibility & Sustainability Reporting
+7
+Cartrade Tech Limited | Annual Report 2022-23
+Financial Statements
+Statutory Reports
+Corporate Overview
+S. 
+No.
+Material 
+issue
+identified
+Indicate 
+whether 
+risk or 
+opportunity
+Rationale for identifying
+the risk/opportunity
+In case of
+risk, approach to adapt or
+mitigate
+Financial
+implications
+of the risk or
+opportunity
+4
+Technology/ 
+Digital 
+adoption
+Risk/ 
+Opportunity
+Opportunity: State-of-
+the-art technological 
+infrastructure helps the 
+business stay ahead of the 
+curve. 
+Risk: Rapid technological 
+change, changes in user 
+and customer requirements 
+and preferences, frequent 
+introduction of new services 
+and products embodying 
+new technologies, 
+including apps, and the 
+emergence of new industry 
+standards and practices 
+that could render our 
+existing websites, apps and 
+technology obsolete.
+We have invested heavily in 
+our technological capabilities 
+across our platforms. We 
+have an advanced and 
+sophisticated technology 
+platform. Our technology 
+platforms are both scalable 
+and vertically integrated 
+across the entire value 
+chain, which allows us to 
+address each step of the 
+vehicle life cycle. The end-
+to-end technology platforms 
+largely developed by our 
+in-house team allow us to 
+offer a seamless solution to 
+our customers.
+Positive: 
+Sophisticated 
+technology helps 
+improve efficiency 
+levels and scaling up 
+of business thereby 
+helping growth. It 
+also helps us provide 
+a better experience 
+and more value to our 
+customers.
+Negative: Lack 
+of adequate 
+technological 
+infrastructure 
+can result in 
+business becoming 
+uncompetitive
+5
+Energy 
+management
+Risk/ 
+Opportunity
+Opportunity: Improvement 
+in energy efficiency levels 
+helps reduce carbon 
+footprint and reduces 
+operational costs. 
+Risk: Energy management 
+has assumed paramount 
+importance considering 
+the concerns surrounding 
+increasing carbon 
+emissions and climate 
+change. Recognition of 
+this risk has also meant 
+evolution of stringent 
+climate and environment 
+related regulations which 
+need to be adhered to.
+Even though our business 
+operations are not energy 
+intensive in nature, we are 
+committed to curtail energy 
+consumption and improve 
+energy efficiency levels 
+within our operations. We 
+are exploring initiatives like 
+sensor-based lighting, green 
+building certification, etc. to 
+reduce consumption within 
+our office spaces and also 
+considering other avenues.
+Positive: Energy 
+efficiency and cost 
+savings in the longer 
+run, leading to more 
+profitability
+Negative: Upfront 
+cost to be expended 
+towards efficiency 
+initiatives in the short 
+term
+6
+Circular 
+Economy and 
+promotion 
+of reuse/ 
+refurbishment
+Opportunity
+Opportunity:
+Resale of used vehicles 
+is one of business 
+segments of the 
+Company. Wider adoption 
+of circular economy 
+fosters  innovation and 
+design of products 
+(vehicles) designed for 
+extended use through 
+repair, refurbishment, or 
+remanufacturing.
+The Company is committed 
+to create an environment 
+of trust through our 
+infrastructure, processes, 
+and 4S (Sure, Secure, Safe, 
+Smart) promise to guarantee 
+quality of used vehicles 
+sold on our platforms. The 
+Company also promotes the 
+used vehicles through strong 
+focus on advertisement and 
+marketing. 
+Positive: Encouraging 
+circular economy 
+initiatives can lead to 
+expansion of market 
+opportunities for 
+reused vehicles
+7
+Community 
+engagement
+Opportunity
+Opportunity:
+We look at community 
+engagement through 
+corporate social 
+responsibility (CSR) as 
+an opportunity for the 
+Company to partake in the 
+country’s socio-economic 
+development.
+The Company is 
+committed to implement 
+a comprehensive CSR 
+programme which benefits 
+the community on multiple 
+fronts and adequately 
+disclose the impact 
+generated by our projects 
+as required by law. We 
+also plan to put in place 
+a mechanism to gather 
+feedback basis which 
+corrective actions can be 
+taken, if any.
+Positive: 
+Implementing an 
+effective CSR 
+programme will 
+help us build brand 
+reputation and trust 
+as we fulfil our social 
+obligation.
+Business Responsibility & Sustainability Reporting
+8
+Transforming Automotive Buying and Selling through Digitalisation
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+Disclosure                                               
+Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes 
+1.	
+a.	Whether your      entity’s policy/ 
+policies cover each principle and 
+its core elements of the NGRBCs. 
+(Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+	
+b. 	Has the policy been approved by 
+the Board? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+	
+c. 	Web Link of the Policies, if 
+available
+https://cartradetech.com/corporate-governance.html Some of them are available on the Intranet portal of the 
+Company, which are accessible only to the employees, However, all the relevant policies are made available 
+on need basis to the respective stakeholders.
+2. 	
+Whether the entity has translated the 
+policy into procedures. (Yes / No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3. 	
+Do the enlisted   policies extend to 
+your value chain partners? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+4. 	
+Name of the national and 
+international codes/certifications/
+labels/ standards adopted by your 
+entity and mapped to each principle.
+NGRBC
+NGRBC
+NGRBC
+NGRBC
+NGRBC
+NGRBC
+NGRBC
+NGRBC
+NGRBC
+5. 	
+Specific commitments, goals and 
+targets set by the entity with defined 
+timelines, if any.
+• Zero cases 
+of fines / 
+penalties / 
+punishment 
+from any 
+regulatory/
+enforcing 
+agency in 
+reporting 
+year.
+• Increase 
+awareness 
+about the 
+benefits of 
+EVs to our 
+consumer 
+and 
+stakeholders 
+at large.
+• Zero 
+fatalities
+• Ensure 
+100% 
+assessment 
+of offices 
+on health 
+and safety, 
+and working 
+conditions 
+every year
+• 100% 
+adherence 
+to concerns 
+raised by 
+stakeholders
+• Zero 
+complaints 
+on human 
+rights 
+related 
+issues
+• Ensure 
+100% 
+recycling 
+of e-waste 
+from our 
+operations.
+• Zero 
+adverse 
+orders from 
+regulatory 
+authorities 
+for anti-
+competitive 
+conduct
+• Increase of 
+our overall 
+procurement 
+from small 
+businesses, 
+wherever 
+possible.
+• Zero 
+consumer 
+complaints 
+• Zero data 
+privacy 
+breach of 
+consumers
+6. 	
+Performance of the entity against the 
+specific commitments, goals, and 
+targets along-with reasons in case 
+the same are not met.
+• All 
+employees 
+are made 
+aware 
+about the 
+Anti-Bribery 
+& Anti-
+Corruption 
+Policy and 
+Code of 
+Conduct. 
+• There 
+were no 
+cases of 
+fines & 
+penalties on 
+any account 
+in the 
+reporting 
+year.
+• Published 
+opinion 
+articles/ 
+promotion 
+material or 
+posts on the 
+benefits of 
+EVs.
+• Plans to 
+get 100% 
+of offices 
+assessed 
+on health & 
+safety and 
+working 
+conditions 
+every year
+• We 
+captured all 
+stakeholder 
+feedbacks 
+and ensured 
+100% 
+grievance 
+redresser 
+of all 
+stakeholders.
+• No 
+complaints 
+were 
+received on 
+any human 
+rights issue 
+in the 
+reporting 
+year.
+• Installed 
+two EV 
+charging 
+stations at 
+our Vashi 
+office. 
+• Zero 
+e-waste 
+scrappage 
+during the 
+reporting 
+year.
+• No 
+adverse 
+orders from 
+regulatory 
+authorities 
+received 
+in the 
+reporting 
+year.
+• Provided 
+preference 
+for 
+procurement 
+from small 
+businesses 
+for relevant 
+supplies.
+• Zero 
+consumer 
+complaints 
+reported 
+in the 
+reporting 
+year.
+• No data 
+privacy 
+breach of 
+consumers 
+reported 
+in the 
+reporting 
+year.
+Business Responsibility & Sustainability Reporting
+9
+Cartrade Tech Limited | Annual Report 2022-23
+Financial Statements
+Statutory Reports
+Corporate Overview
+Disclosure                                               
+Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+7.   Statement by director responsible for the business responsibility report, highlighting ESG -related challenges, targets, and achievements
+      For the Company sustainability is not just a business imperative, but is at the core of our business model.  We empower Indian, smaller businesses such 
+as vehicle dealers, most of whom are local in terms of size and reach, to access a pan-India ecosystem. By bringing transparency, liquidity, and simplicity 
+to the Indian vehicle market, we make this market accessible for everyone. Consumers use our portals to research their used or new vehicle purchase 
+online, reducing the need to visit dealerships and thus carbon footprint created during the vehicle buying process. We also educate consumers on the fuel 
+efficiency and provide information on fuel efficient options for the vehicles that they are interested in purchasing.
+      We have a highly qualified and diversified Board and the CSR Committee of the Board which oversees the Company’s ESG journey. During the year 
+we further advanced our focus on integrating Environmental, Social and Governance (ESG) principles into our day-to-day operations. In line with our 
+commitment to transparent and ethical business conduct, we took steps to strengthen our policies, practices and management systems to strengthen our 
+commitments towards sustainability. We conducted an ESG materiality assessment to identify topics material to the Company and sector to help us outline 
+our priorities for the future and devise a roadmap to achieve the targets set. We also carried out a baseline assessment of our greenhouse gas (GHG) 
+emissions (Scope 1 & Scope 2). 
+      Going forward, we plan to integrate ESG risks into our Enterprise Risk Management (ERM) framework. We are also committed to build on the current 
+achievements by setting time-bound aspirational targets on various social and environmental parameters to continue to create value for all our stakeholders. 
+We will further our commitment to adhere to the principle of providing quality service to our customers. We are focused on development and growth of 
+our employees with strong emphasis on refining policies and practices related to Learning & Development, Compensation, Employee Wellbeing, and 
+Employee Engagement.
+      Reference should also be made to our Sustainability report which carries an exhaustive list of our ESG related challenges, targets and achievements.
+8. 	
+Details of the highest authority 
+responsible for implementation 
+and oversight of the Business 
+Responsibility policy (ies).
+Ms. Aneesha Bhandary 
+Executive Director and CFO
+DIN 07779195
+9. 	
+Does the entity have a specified 
+Committee of the Board/ Director 
+responsible for decision making on 
+sustainability-related issues? If yes, 
+provide details
+Yes
+CSR committee of the Board reviews the Company’s performance on sustainability-related activities, 
+performance and targets on an annual basis. The CSR committee is represented by the below members:
+Ms. Aneesha Bhandary (Chairperson, Executive Director)
+Mr. Vivek Gul Asrani (Member, Independent Director)
+Mr. Vinay Vinod Sanghi (Member, Executive Director)
+Risk Management Committee of the Board assesses the risks pertaining to ESG and certain principles of 
+BRSR.
+10. 	 Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether review was undertaken by 
+Director / Committee of the Board/ Any other 
+Committee
+Frequency (Annually/ Half yearly/ Quarterly/ Any other – 
+please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against 
+above policies and follow 
+up action
+Board/ Committee of the Board
+Need based
+Compliance with statutory 
+requirements of relevance 
+to the principles and 
+rectification of any non-
+compliances
+The Company is in compliance with all applicable regulations.
+11. Has the entity carried out independent assessment/ evaluation of the 
+working of its policies by an external agency? (Yes/No). If yes, provide name 
+of the agency.
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+No
+No
+No
+No
+No
+No
+No
+No
+No
+* An internal assessment of the working of the BRSR policies has been conducted. In due course, the Company shall have an 
+external assurance on the same as well.
+12. If answer to question (1) above is “No” i.e., not all Principles are covered by a policy, reasons to be stated:
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity does not consider the Principles material to its business (Yes/
+No)
+This question is not applicable since the answer to Q.1 
+is “yes”.
+The entity is not at a stage where it is in a position to formulate and 
+implement the policies on specified principles (Yes/No)
+The entity does not have the financial or/human and technical resources 
+availa-ble for the task (Yes/No)
+It is planned to be done in the next financial year (Yes/No)
+Any other reason (please specify)
+Business Responsibility & Sustainability Reporting
+10
+Transforming Automotive Buying and Selling through Digitalisation
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+PRINCIPLE 1: Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable.
+Essential Indicators
+1.  	 Percentage coverage by training and awareness programmes on any of the Principles during the financial year:
+Segment
+Total number 
+of training and 
+awareness 
+programmes held
+Topics / principles covered under the training and 
+its impact
+%age of 
+persons in 
+respective 
+category 
+covered by 
+the awareness 
+Programmes
+Board of Directors
+4
+During the year, the Company provided updates to 
+the Board of Directors and its committees covering 
+recent developments regarding strategy, operations, 
+regulations, 
+economy, 
+industry 
+and 
+business 
+environment, 
+risk 
+management, 
+technology 
+and 
+corporate governance along with NGRBC principles 
+which included topics like Code of Conduct, Anti-Bribery 
+& Anti-Corruption, Prevention of Sexual Harassment at 
+Workplace, etc. 
+100%
+Key Managerial 
+Personnel
+4
+During the performance review for each quarter, the 
+Company provided updates to the KMPs covering recent 
+developments regarding stakeholder management, 
+grievance redressal, risk management, data security, 
+hiring, human resources management and corporate 
+governance along with NGRBC principles which 
+included topics like Code of Conduct, Anti-Bribery & 
+Anti-Corruption, Prevention of Sexual Harassment at 
+Workplace, etc. 
+100%
+Employees other 
+than BoD and KMPs
+38
+During the year, the Company provided training to 
+its employees on conflict management, leadership 
+skills, Code of Conduct, data privacy, and Company’s 
+policy framework along with NGRBC principles which 
+included topics like Code of Conduct, Anti-Bribery & 
+Anti-Corruption, Prevention of Sexual Harassment at 
+Workplace, etc.
+100%
+2. 	
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the 
+entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year:
+	
+NIL
+3. 	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary 
+or non-monetary action has been appealed: 
+	
+NIL
+4. 	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, 
+provide a web-link to the policy. 
+	
+Yes.
+	
+The Company has an Anti-Bribery and Anti-Corruption Policy reflects our commitment to conduct business dealings based 
+on values of integrity and fairness and emphasises on our “Zero Tolerance” approach to bribery and corruption. Further, 
+the Company’s Whistle Blower policy provides a mechanism under which an employee/director of the Company may 
+report unethical behaviour, suspected or actual fraud, violation of code of conduct and personnel policies of the Company. 
+The Vigil Mechanism ensures standards of professionalism, honesty, integrity and ethical behaviour. The Policies are 
+available on our website at https://cartradetech.com/corporate-governance.html
+Business Responsibility & Sustainability Reporting
+11
+Cartrade Tech Limited | Annual Report 2022-23
+Financial Statements
+Statutory Reports
+Corporate Overview
+5. 	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law 
+enforcement agency for the charges of bribery/ corruption:  
+	
+NIL
+6. 	
+Details of complaints with regard to conflict of interest: 
+	
+NIL
+7. 	
+Provide details of any corrective action taken or underway on issues related to fines/penalties / action taken by 
+regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+	
+Since no complaints were received, no corrective actions were necessary.
+Leadership Indicators
+1. 	
+Awareness programmes conducted for value chain partners on any of the Principles during the financial year: 
+Total number of awareness  
+programmes held
+Topics/principles covered 
+under the training
+%age of value chain partners covered (by 
+value of business done with such partners) 
+under the  awareness programmes
+-
+-
+-
+	
+Management has plans to conduct awareness programme for value chain partners in the coming years. These programmes 
+will aim to educate, engage our value chain partners on the 9 principles of BRSR, facilitating a shared understanding and 
+commitment to sustainable and responsible business practices throughout the value chain.
+2. 	
+Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? 
+(Yes/No) If yes, provide details of the same.
+	
+Yes, we have put in place processes and guidelines to deal with conflict of interests through our Code of Conduct and 
+other polices. Every Director of the Company is required to disclose their concern or interest in all companies, businesses 
+or undertakings and any change therein, annually or upon any change, including their shareholding which is placed before 
+the Board and taken on record. In case of Independent Directors, during the term of appointment, they are expected not 
+to take up directorship in any company (whether in India or abroad) engaged in the same or similar businesses as that of 
+the Company or in a company, business or undertaking which competes or is likely to compete with the Company or which 
+could otherwise potentially give rise to a conflict with his/her duties with the Company. In adherence to the Company’s Act, 
+2013, the Directors do not participate in any discussions on agenda items, in which they are interested parties to refrain 
+from any conflict-of-interest situations. 
+	
+The Directors, on an annual basis, provide an affirmation that they have complied with the Company’s Code of Conduct 
+for the financial year and that there were no instances of conflict-of-interest during the year. The Company also ensures 
+that there is no material, financial and commercial transactions with the Company’s Directors, Key Managerial Personnel 
+or their relatives, which may have potential conflict with the interests of the Company at large.
+PRINCIPLE 2 Businesses should provide goods and services in a manner that is sustainable and safe
+Essential Indicators
+1. 	
+Percentage of R&D and capital expenditure (CAPEX) investments in specific technologies to improve the 
+environmental and social impacts of products and processes to total R&D and CAPEX investments made by the 
+entity, respectively.
+FY23
+FY22
+Details of improvements in environmental 
+and social impacts
+R&D
+0%
+0%
+Not applicable
+Capex
+0%
+0%
+Considering the nature of our business operations our 
+capex investments are largely towards IT infrastructure like 
+equipment and software to augment our digital initiatives 
+which in turn help improve quality of service to our 
+customers and also reduce our environmental footprint.
+Business Responsibility & Sustainability Reporting
+12
+Transforming Automotive Buying and Selling through Digitalisation
+2.	
+a. 	
+Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+	
+	
+Yes. We are a digital marketplace and thus do not source raw materials.
+	
+	
+However, the Company has formulated a sustainable sourcing policy ensuring our commitment to sourcing which 
+is transparent, managing health and safety risks, and minimising the environmental impact of our value chain. We 
+expect all our suppliers to operate in accordance with the principles as outlined in this Policy in addition to following 
+the necessary social, business integrity, and environmental sustainability standards.
+      	 b. 	 If yes, what percentage of inputs were sourced sustainably? 
+	
+	
+We intend to source sustainable, wherever applicable, as per requirements of our business operations on best effort basis.
+3.  	 Describe the processes in place to safely reclaim your products for reusing, recycling, and disposing at the end 
+of life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.  
+	
+Not applicable since the Company does not manufacture/ sell any tangible products.
+4.  	 Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether 
+the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution 
+Control Boards? If not, provide steps taken to address the same. 
+	
+Not applicable considering the type of business operations
+Leadership Indicators
+1. 	
+Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for the manufacturing 
+industry) or for its services (for the service industry)? If yes, provide details:
+	
+Given that our business operations do not entail production / selling of tangible products, Life Cycle Perspective / 
+Assessments (LCA) is not applicable.
+2. 	
+If there are any significant social or environmental concerns and/or risks arising from production or disposal of your 
+products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, briefly 
+describe the same along-with action taken to mitigate the same.
+Name of Product / 
+Service
+Description of the risk / 
+concern
+Action Taken
+Not Applicable
+3. 	
+Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing industry) 
+or providing services (for service industry).  
+Indicate input material
+Recycled or re-used input material to total material
+FY 23
+FY 22
+Not applicable since we don’t manufacture / sell any tangible products
+4. 	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, and safely 
+disposed: 
+FY 23
+FY 22
+Re-Used
+Recycled
+Safely 
+Disposed
+Re-Used
+Recycled
+Safely 
+Disposed
+Not applicable since we don’t manufacture / sell any tangible products
+Business Responsibility & Sustainability Reporting
+13
+Cartrade Tech Limited | Annual Report 2022-23
+Financial Statements
+Statutory Reports
+Corporate Overview
+5. 	
+Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
+Indicate product category
+Reclaimed products and their packaging materials 
+as % of total products sold in respective category
+Not applicable since we don’t manufacture / sell any tangible products
+PRINCIPLE 3 Businesses should respect and promote the well-being of all employees, including those in their value 
+chains
+Essential Indicators
+1.	
+a.	
+Details of measures for the well-being of employees:
+Category
+Total 
+(A)
+% of employees covered by
+Health 
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+Benefits
+Day Care 
+facilities
+Number 
+(B)     
+% (B 
+/ A)
+Number 
+(C)
+% (C 
+/ A)
+Number 
+(D)
+% 
+(D / A)
+Number 
+(E)
+% (E / 
+A)
+Number 
+(F)
+% (F / 
+A)
+Permanent employees
+Male
+708
+544
+77%
+544
+77%
+0
+0%
+708
+100%
+0
+0%
+Female
+237
+119
+50%
+119
+50%
+237
+100%
+0
+0%
+0
+0%
+Total
+945
+663
+70%
+663
+70%
+237
+25%
+708
+75%
+0
+0%
+Other than Permanent employees
+Male
+5
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+Female
+0
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+Total
+5
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+2. 	
+Details of retirement benefits.
+Benefits
+FY 23
+FY 21
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered 
+as a % of 
+total workers 
+Deducted 
+and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered 
+as a % of 
+total workers 
+Deducted 
+and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+Provident Fund
+98%
+-
+Yes
+97%
+-
+Yes
+Gratuity
+100
+-
+Yes
+100
+-
+Yes
+ESI*
+17
+-
+Yes
+7
+-
+Yes
+*Applicable for specific set of employees pursuant to Employees’ State Insurance Act, 1948.
+3.	
+Accessibility of workplaces: Are the premises / offices of the entity accessible to differently abled employees and 
+workers, as per the requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps 
+are being taken by the entity in this regard.
+	
+Yes, our offices have been made accessible to accommodate employees with disabilities so that their access to Company’s 
+facilities is not constrained. Accessibility factor has been considered in the design and layout of our offices to ensure that 
+they are easily accessible, as per the requirements of the Rights of Persons with Disabilities Act, 2016. The Vashi office is 
+equipped with ramps and elevators as well as wheelchairs to facilitate smooth movement for employees with disabilities. 
+Given the nature of our business operations, we strive to ensure that our technology infrastructure and systems are 
+aligned with the needs of the employees with disabilities. 
+4. 	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, 
+provide a web-link to the policy.
+	
+Yes, the Company is committed to ensure that our workforce is representative of all sections of the society by providing 
+equal and fair opportunities in employment and fostering an inclusive workplace in which all employees are treated 
+with respect and dignity. The Policy is available on the Intranet portal of the Company, which is accessible only to the 
+employees.
+Business Responsibility & Sustainability Reporting
+14
+Transforming Automotive Buying and Selling through Digitalisation
+5. 	
+Return to work and Retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent employees
+Permanent workers
+Return to work 
+rate
+Retention rate
+Return to work 
+rate
+Retention rate
+Male
+100%
+100%
+-
+-
+Female
+100%
+100%
+-
+-
+Total
+100%
+100%
+-
+-
+6. 	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+worker? If yes, give details of the mechanism in brief.
+Yes/No 
+If yes, then give details of the mechanism in brief
+Permanent Employees
+Yes
+The Company strives to create a workplace that is inclusive of 
+individuals belonging to any race, religion, sex, colour, caste, 
+creed, age, nationality, ethnic origin, marital status, sexual 
+orientation and disability. The Company does not tolerate any 
+form of discrimination, harassment, workplace bullying, and 
+retaliation.
+We foster a culture where employees can freely highlight their 
+concerns with the management and/or Human Resources. The 
+Company has a grievance redressal procedure for all employees. 
+Any aggrieved employee can approach his immediate superior 
+with his grievance. If the grievance it not redressed, it can be 
+escalated up the hierarchy. The HR department ensures that all 
+grievances are resolved within a reasonable period. 
+The Company has in place a Whistle Blower mechanism, which is 
+governed by the Vigil Mechanism & Whistle Blower Policy. There 
+is a governance mechanism in place to ensure confidentiality and 
+protection of whistle blower from any harassment or victimisation 
+like retaliation, threat or intimidation of termination/suspension 
+of service. 
+The Company also has in place a policy for prevention of sexual 
+harassment in accordance with the requirements of the Sexual 
+Harassment of Women at Workplace (Prevention, Prohibition & 
+Redressal) Act, 2013.
+Other than Permanent 
+Employees
+Yes
+7. 	
+Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+Category
+FY 23
+FY 22
+Total 
+employees / 
+workers in 
+respective 
+category (A)
+No. of 
+employees 
+/ workers in 
+respective 
+category, who 
+are part of 
+association(s) 
+or  Union (B)
+% (B / A)
+Total 
+employees / 
+workers in 
+respective 
+category (A)
+No. of 
+employees 
+/ workers in 
+respective 
+category, who 
+are part of 
+association(s) 
+or  Union (B)
+% (B / A)
+Total Permanent Employees
+Male 
+708
+0
+0%
+522
+0
+0%
+Female
+237
+0
+0%
+134
+0
+0%
+Total
+945
+0
+0%
+656
+0
+0%
+Business Responsibility & Sustainability Reporting
+15
+Cartrade Tech Limited | Annual Report 2022-23
+Financial Statements
+Statutory Reports
+Corporate Overview
+8. 	
+Details of training given to employees and workers:
+Category
+FY 23
+FY 22
+Total 
+(A)
+On Health and safety 
+measures
+On Skill upgradation
+Total 
+(A)
+On Health and safety 
+measures
+On Skill upgradation
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+Employees
+Male
+713
+706
+99%
+567
+80%
+525
+519
+99%
+445
+85%
+Female
+237
+236
+100%
+201
+85%
+134
+134
+100%
+107
+80%
+Total
+950
+942
+99%
+768
+81%
+659
+653
+99%
+552
+84%
+9. 	
+Details of performance and career development reviews of employees and worker:
+Category
+FY 23
+FY 22
+Total (A)
+No. (B)
+% (B / A)
+Total (A)
+No. (B)
+% (B / A)
+Employees
+Male
+713
+713
+100%
+525
+525
+100%
+Female
+237
+237
+100%
+134
+134
+100%
+Total
+950
+950
+100%
+659
+659
+100%
+10. 	 Health and safety management system:
+a. 	
+Whether an occupational health and safety management system has been implemented by the entity? If yes, the 
+coverage such system
+	
+Yes, given the nature of our business operations, we work out of offices that are not prone to health and safety risks.
+	
+However, we have formulated an organisation-wide Health & Safety (H&S policy) to create a safe and healthy working 
+environment at all our offices. All offices are equipped with safety systems like fire detection, fire extinguishers, safe 
+means of escape, assembly point, etc. Clear instructions and safety protocols are laid down and communicated to all 
+employees to through health and safety awareness sessions and visual materials like posters. Compliance of the safety 
+systems is regularly verified. We also have in place first aid facilities and health check-up camps organised on a regular 
+basis. 
+b. 	 What are the processes used to identify work-related hazards and assess risks on a routine and non-routine 
+basis by the entity? 
+	
+Given the nature of our business operations, we work out of offices that are not prone to work-related health and safety 
+hazards.
+	
+We rely on our H&S management system to identify and assess work-related risks and hazards. It identifies the potential 
+safety risks, reviews existing safeguards and suggests mitigation measures for these risks. We ensure to document the 
+risks and hazards identified along with their causes, consequences and mitigation measures.  We regularly provide health 
+and safety trainings to update employees on the various potential risks & hazards in an office environment such as fire 
+hazards, safe usage of stairs/elevators, basic first aid training, etc.
+c. 	
+Whether you have processes for workers to report the work-related hazards and to remove themselves from such 
+risks. 
+	
+Yes, we have processes in place for employees to report work-related hazards and it is included in the H&S Manual. 
+Additionally, we conduct safety trainings, mock drills, etc for raising awareness of the employees on a routine basis.
+d. 	 Do the employees/ worker of the entity have access to non-occupational medical and healthcare services? 
+	
+Yes, employees / workers have access to non-occupational medical and healthcare services which include group medical 
+insurance, accidental insurance, free medical consultations, etc. 
+Business Responsibility & Sustainability Reporting
+16
+Transforming Automotive Buying and Selling through Digitalisation
+11. 	 Details of safety related incidents: 
+Safety Incident/Number
+Category
+FY 23
+FY 22
+Lost Time Injury Frequency Rate (LTIFR) per one 
+million-person hours worked)
+Employees
+0
+0
+Workers
+0
+0
+Total recordable work-related injuries
+Employees
+0
+0
+Workers
+0
+0
+No. of fatalities
+Employees
+0
+0
+Workers
+0
+0
+High consequence work-related injury or ill-health 
+(excluding fatalities)
+Employees
+0
+0
+Workers
+0
+0
+12. 	 Describe the measures taken by the entity to ensure a safe and healthy workplace.
+	
+The Company has put in place various measures to ensure a safe and healthy working environment for all employees. The 
+Company has implemented a rigorous approach to identifying, assessing, mitigating and monitoring safety-related risks. 
+We regularly identify areas for improvement and take corrective action to prevent their recurrence with the goal of creating 
+a safe working environment. We provide frequent training programmes on standard safety measures and best practices 
+are communicated to all employees. We adhere to comprehensive security & safety guidelines and have equipped our 
+offices with safety systems like fire detection, fire extinguishers, safe means of escape, assembly point, first- aid kits, etc.
+13. 	 Number of Complaints on the following made by employees and workers:
+FY 23
+FY 22
+Filed during 
+the year
+Pending 
+resolution 
+at the end of 
+year
+Remarks
+Filed during 
+the year
+Pending 
+resolution 
+at the end of 
+year
+Remarks
+Working 
+Conditions
+0
+0
+NA
+0
+0
+NA
+Health & Safety
+0
+0
+NA
+0
+0
+NA
+14. 	 Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory 
+authorities or third parties)
+Health and safety practices
+-
+Working conditions 
+-
+15. 	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on 
+significant risks/concerns arising from assessments of health & safety practices and working conditions: 
+	
+Assessment of the Company’s H&S framework and the working conditions did not highlight any significant risks or 
+concerns. The Company has in place the mechanism to take corrective actions, whenever such risks and concerns arise. 
+We continuously strive to ensure the best standards of safety for our employees through regular risk assessment exercise 
+and providing adequate trainings.
+Leadership Indicators
+1. 	
+Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees 
+(B) Workers. 
+(Y/N)
+Employees*
+Y
+Workers
+NA
+*Note: Cover death due to accident.
+Business Responsibility & Sustainability Reporting
+17
+Cartrade Tech Limited | Annual Report 2022-23
+Financial Statements
+Statutory Reports
+Corporate Overview
+2. 	
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited 
+by the value chain partners. 
+	
+The Company has checks and balances in place to ensure that the value chain partners are compliant with the provisions 
+of the labour laws and are deducting and depositing the necessary statutory dues on time with the authorities. We prioritise 
+the deduction and deposit of statutory dues including ESIC and PF each month to maintain compliance with regulations. 
+We also ensure that we work with the value chain partners who are compliant with GST regulations. 
+	
+We have put in place appropriate terms & conditions in our contracts/ agreements with our value chain partners and 
+conduct audits, wherever required.
+3. 	
+Provide the number of employees / workers having suffered high consequence work-related injury / ill-health 
+/ fatalities (as reported in Q11 of Essential Indicators above), who have been are rehabilitated and placed in 
+suitable employment or whose family members have been placed in suitable employment:
+Total no. of affected employees/ 
+workers
+No. of employees/workers that are 
+rehabilitated and placed in suitable 
+employment or whose family 
+members have been placed in suitable 
+employment
+FY 22
+FY 22
+FY 23
+FY 22
+Employees
+0
+0
+0
+0
+Workers
+0
+0
+0
+0
+4. 	
+Does the entity provide transition assistance programmes to facilitate continued employability and the 
+management of career endings resulting from retirement or termination of employment? (Yes/ No) 
+	
+Yes, we facilitate an internal job postings (IJP) program for employees to explore opportunities across domains within 
+the organization. There were no retirements or termination of employment during the reporting year for which transition 
+assistance was necessitated. 
+5. 	
+Details on assessment of value chain partners:
+	
+Presently we do not assess health and safety practices of our value chain partners. However, we have formulated a 
+sustainable sourcing policy recently under the purview of which we will be evaluating suppliers’ compliance with identified 
+environment and social norms. 
+% of value chain partners (by value of business done with such partners) 
+that were assessed
+Health and safety practices
+0%
+Working Conditions
+0%
+6. 	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from 
+assessments of health and safety practices and working conditions of value chain partners.
+	
+Presently we do not assess health and safety practices of our value chain partners. However, we intend to implement an 
+assessment process to evaluate our value chain partners in these areas, to help us to consider and address any potential 
+risks or concerns related to health and safety practices and working conditions throughout our value chain.
+PRINCIPLE 4 Businesses should respect the interests of and be responsive to all its stakeholders
+Essential Indicators
+1. 	
+Describe the processes for identifying key stakeholder groups of the entity. 
+	
+The Company identifies stakeholders based on the Value Chain of the businesses and how they influence the Company. 
+We see stakeholders are those individuals or groups of individuals who are directly or indirectly affected by operations, as 
+well as those who have interests in business operations of the Company or have abilities to influence business operations 
+and outcomes of those operations. Internal and external stakeholders have been identified that have a direct impact on the 
+operations and working of company. The process of identifying these key stakeholders considers input and feedback from 
+various departments within the organisation, as well as senior management. This collaborative approach ensures that a 
+comprehensive assessment is made to identify the stakeholders who hold the most importance and influence in relation 
+to the Company’s activities.
+Business Responsibility & Sustainability Reporting
+18
+Transforming Automotive Buying and Selling through Digitalisation
+	
+The Company recognises that active cooperation of stakeholders is essential for a strong and sustainable business 
+performance. We have formulated a Stakeholder Engagement policy, on the principles of transparency and equitable 
+treatment that favours a consultative and collaborative engagement with all stakeholders, using effective and responsive 
+communication that makes it possible to forge relationships based on ongoing trust. By engaging in this process, the 
+Company effectively manages its relationships and engages with key stakeholders to meet their expectations and address 
+their concerns. 
+	
+This policy lays out a systematic approach towards management of stakeholder engagement practices and processes 
+to maximise value for both the stakeholders and the Company and outlines the principles for identifying stakeholders, 
+engaging and managing stakeholders.
+2. 	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder 
+group.
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalised 
+Group (Yes/No)
+Channels of 
+communication 
+(Email, SMS, 
+Newspaper, Pamphlets, 
+Advertisement, 
+Community Meetings, 
+Notice Board, Website), 
+Other
+Frequency of 
+engagement 
+(Annually/ 
+Half yearly/ 
+Quarterly / 
+others – please 
+specify)
+Purpose and scope of 
+engagement including 
+key topics and concerns 
+raised during such 
+engagement
+Internal 
+stakeholders- 
+Employees, 
+Workers, KMPs, 
+BoDs
+No
+•	 Employee Engagement 
+surveys
+•	 Trainings
+•	 Personal interactions 
+(including performance 
+appraisal discussions)
+•	 Internal magazines/ 
+newsletters
+•	 Departmental meetings
+•	 Townhall meetings
+•	 Familiarisation 
+programmemes for Board 
+members
+Others - need 
+based
+We regularly engage with 
+employees to discuss 
+various topics like employee 
+benefits, employee 
+recognition, performance 
+review and
+career development, 
+long-term strategy plans, 
+Learning and Development, 
+health and safety initiatives 
+and addressing
+queries about policies and 
+practices.
+Consumers
+No
+•	 Consumer Satisfaction 
+survey
+•	 Consumer feedback
+•	 Personal interactions
+•	 Marketing and advertising 
+activities
+•	 Company website and 
+email
+Others - need 
+based
+We regularly engage with 
+our consumers to update on 
+new products and services 
+through advertising and 
+marketing activities.
+We regularly interact with 
+consumers to resolve their 
+queries with regards to 
+use of our products and 
+services.
+We also periodically assess 
+consumers satisfaction 
+through surveys and to 
+understand the grievances 
+of consumers and take their 
+feedback on our products 
+and services.
+Suppliers
+No
+•	 One-on-one negotiations 
+and meetings 
+•	 Surveys
+Others - need 
+based
+We regularly engage 
+with suppliers to 
+discuss payment terms, 
+infrastructure, resolving 
+queries and payment of 
+statutory dues.
+Business Responsibility & Sustainability Reporting
+19
+Cartrade Tech Limited | Annual Report 2022-23
+Financial Statements
+Statutory Reports
+Corporate Overview
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalised 
+Group (Yes/No)
+Channels of 
+communication 
+(Email, SMS, 
+Newspaper, Pamphlets, 
+Advertisement, 
+Community Meetings, 
+Notice Board, Website), 
+Other
+Frequency of 
+engagement 
+(Annually/ 
+Half yearly/ 
+Quarterly / 
+others – please 
+specify)
+Purpose and scope of 
+engagement including 
+key topics and concerns 
+raised during such 
+engagement
+OEMs
+No
+•	 Personal interaction
+•	 Project based discussions
+•	 Newsletters
+•	 Research report
+Others - need 
+based
+We engage with our OEMs 
+to deliberate and decide on 
+our offerings and the details 
+around the same. We also 
+engage with them to resolve 
+queries and address issues 
+highlighted in consumer 
+feedback.
+Investors and 
+shareholders
+No
+•	 Annual General Meetings
+•	 Earnings calls
+•	 Annual Reports
+•	 Investor meets
+•	 Email broadcasts and 
+intimation
+•	 Individual meetings 
+with financial media, 
+shareholders and analysts
+Others- Need-
+based/Quarterly/ 
+Annually 
+We regularly engage with 
+investors and shareowners 
+to update on the information 
+having a bearing on the 
+performance/ operations 
+of the Company including 
+price sensitive information. 
+It also includes updating 
+about various statutory 
+requirements with respect 
+to their shareholding in 
+the Company, addressing 
+shareholders’ queries at the
+General Meetings, earnings 
+call with institutional 
+investors/ analysts in 
+respect of quarterly/ half-
+yearly/annual financial 
+results. 
+Communities
+No
+•	 Surveys
+•	 Personal interaction
+•	 Project based discussions
+•	 CSR activities
+Others- need 
+based
+We have mechanism in 
+place to engage with the 
+community to further their 
+advancement by reducing 
+social and economic 
+inequalities.
+Government 
+and Regulatory 
+Authorities
+No
+•	 Need based engagements 
+with national, state and 
+local/ municipal officials 
+•	 Participation in industry 
+and regulatory forums, 
+meetings between 
+regulators, and our board 
+and management.
+Others- need 
+based
+We engage with regulatory 
+bodies to discuss rules, 
+regulations and policies 
+affecting the industry and 
+sharing our point of view.
+Media
+No
+•	 Media briefings
+•	 Press releases
+•	 Marketing communication
+•	 Written and telephonic 
+interactions 
+Others- need 
+based
+Engagement with media 
+is done to address 
+business-related queries, 
+share updates about the 
+Company, new services 
+announcements, views on 
+industry landscape, etc
+Dealers/ Business  
+partners
+No
+•	 Surveys
+•	 One-on-one negotiations 
+and meetings
+Others- need 
+based
+We engage with our 
+dealers/ business partners 
+to deliberate and decide on 
+our offerings and the details 
+around the same. We also 
+engage with them to resolve 
+queries and address issues 
+highlighted in consumer  
+feedback.
+Business Responsibility & Sustainability Reporting
+20
+Transforming Automotive Buying and Selling through Digitalisation
+Leadership Indicators
+1. 	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, and 
+social topics or if consultation is delegated, how is feedback from such consultations provided to the Board.
+	
+The feedback received from consultations with the identified stakeholders through the formally outlined Stakeholder 
+engagement framework is presented by management to the Stakeholder Relationship Committee (SRC) of the Board. 
+It also provides supervises the mechanism for addressing grievances and complaints from stakeholders and aligning 
+Stakeholder priorities with the Company’s business strategy. The SRC updates the Board on compliance status on a 
+yearly basis and the suggestions by the Board are then implemented. The CSR committee also undertakes responsibility 
+for sustainability related matters and deliberates on key environmental and social issues and action plans.
+ 2. 	 Whether stakeholder consultation is used to support the identification and management of environmental, and 
+social topics. If so, provide details of instances as to how the inputs received from stakeholders on these topics 
+were incorporated into policies and activities of the entity. 
+	
+We believe in the importance of stakeholder consultation to identify and manage environmental and social issues. We have 
+put in place a mechanism to engage with our stakeholders on a regular basis to address their concerns and issues. We 
+believe this stakeholder engagement is essential to building trust among our stakeholders and align with their needs and 
+expectations. We engage with our internal and external stakeholders to have an improved understanding of the issues that 
+directly influence our ability to effectively deal with the risks the organisation and leverage on the opportunities available 
+to us. We ensure that we incorporate the inputs and feedback received through these consultations while formulating our 
+policies and practices. This aids the Company in effectively addressing key environmental and social issues relevant to 
+our operations, and drive business sustainability in general.
+3. 	
+Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ 
+marginalised stakeholder groups.
+	
+We regularly engage with all our stakeholders including those from the vulnerable/ marginalized groups in accordance 
+with the our Stakeholder Engagement Policy and Stakeholder Grievance Redressal Policy.
+PRINCIPLE 5 Businesses should respect and promote human rights
+Essential Indicators
+1. 	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity:
+Category
+FY 23
+FY 22
+Total (A)
+No. of 
+employees 
+/ workers 
+covered (B)
+% (B / A)
+Total (A)
+No. of 
+employees 
+/ workers 
+covered (B)
+% (B / A)
+Employees
+Permanent
+945
+945
+100.00%
+0
+0
+0%
+Other than 
+permanent
+5
+5
+100.00%
+0
+0
+0%
+Total 
+950
+950
+100.00%
+0
+0
+0%
+Business Responsibility & Sustainability Reporting
+21
+Cartrade Tech Limited | Annual Report 2022-23
+Financial Statements
+Statutory Reports
+Corporate Overview
+2. 	
+Details of minimum wages paid to employees and workers:
+Category
+FY 23
+FY 22
+Total 
+(A)
+Equal to Minimum 
+Wage
+More than Minimum 
+Wage
+Total 
+(A)
+Equal to Minimum 
+Wage
+More than Minimum 
+Wage
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+Employees
+Permanent
+Male
+708
+-
+-
+708
+100%
+522
+-
+-
+522
+100%
+Female
+237
+-
+-
+237
+100%
+134
+-
+-
+134
+100%
+Other than Permanent
+Male
+5
+ -
+ -
+5
+100%
+3
+-
+-
+3
+100%
+Female
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3. 	
+Details of remuneration/salary/wages: 
+Gender
+Male
+Female
+Number
+Median 
+remuneration/ salary/ 
+wages of respective 
+category
+Number
+Median 
+remuneration/ 
+salary/ wages of 
+respective category
+Board of Directors 
+(BoD)
+4
+812,500
+2
+5,556,386
+Key Managerial 
+Personnel
+2
+33,071,520
+1
+10,087,771
+Employees other 
+than BoD and KMP
+706
+473,887
+236
+323,227
+1.	
+Mr. Vinay Vinod Sanghi, Chairman & Managing Director and Mrs. Aneesha Bhandary, Executive Director & CFO are consider at both 
+head in the above table under “Board of Direstors” and “Key Managerial Personnel”; and
+2.	
+For remuneration to Non-executive Director sitting fee are consider for calculation of Median remuneration/ salary/ wages of respective 
+category.
+4. 	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues 
+caused or contributed to by the business?
+	
+Yes. All grievances, including human rights related grievances, are addressed through the formal procedure laid down in 
+the Stakeholder Grievance redressal policy. The policy can be found on our website https://cartradetech.com/corporate-
+governance.html
+	
+The Company also has in place a policy for prevention of sexual harassment in accordance with the requirements of the 
+Sexual Harassment of Women at Workplace (Prevention, Prohibition & Redressal) Act, 2013.
+5. 	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+	
+The Company remains committed to respect and protect human rights. We maintain zero tolerance towards any violation 
+or misconduct on grounds of misdemeanour. Our Company’s Code of Conduct and policies like Human Rights Policy, 
+Prevention of Sexual Harassment Policy, Vigil Mechanism & Whistle Blower Policy and other social policies cover human 
+rights aspects and compliance. 
+	
+Our Stakeholder Grievance redressal policy outlines the mechanism redressing all grievances, including human rights 
+concerns. Stakeholders can record their grievances via email, phone or in writing to the designated Stakeholder contact 
+officers. For effective and efficient grievance management, the Company has dedicated E-mail IDs icc@carwale.com.
+contact@cartrade.com, support@carwale.com, contact@carwale.com, and contact@bikewale.com. The Company 
+Secretary has been designated as Compliance Officer who is the authority responsible for the implementation, monitoring 
+and review of the grievance redressal policy.
+	
+The stakeholder contact officer along with the grievance owner department is responsible for investigating the grievance 
+and are mandated to create an action plan outlining the steps to be taken to resolve the grievances including identifying 
+roles and responsibilities for assigning actions and monitoring the actions undertaken. The resolution and closure of the 
+grievance is documented over an email and stakeholder would be provided a link to share their feedback.
+Business Responsibility & Sustainability Reporting
+22
+Transforming Automotive Buying and Selling through Digitalisation
+6. 	
+Number of Complaints on the following made by employees and workers:
+FY 23
+FY 22
+Filed during 
+the year
+Pending res­
+olution at the 
+end of year
+Remarks
+Filed during 
+the year
+Pending res­
+olution at the 
+end of year
+Remarks 
+Sexual 
+Harassment
+0
+0
+NA
+0
+0
+NA
+Discrimination at 
+workplace
+0
+0
+NA
+0
+0
+NA
+Child Labour
+0
+0
+NA
+0
+0
+NA
+Forced Labour/ 
+Involuntary 
+Labour
+0
+0
+NA
+0
+0
+NA
+Wages
+0
+0
+NA
+0
+0
+NA
+Human Rights 
+Issues
+0
+0
+NA
+0
+0
+NA
+7. 	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	
+Company’s Vigil Mechanism and Whistle-blower policy ensures that the whistle-blower and/or the person processing the 
+protected disclosure shall be protected from harassment, victimisation or use of any other unfair employment practice 
+against them. Moreover, the chairperson of the Audit Committee has been entrusted with the responsibility of ensuring that 
+actions or threats are treated as a separate Protected Disclosure, and he/she should investigate the same accordingly and 
+may also recommend appropriate steps to protect the Whistle-blower from exposure to such retaliatory action and ensure 
+implementation of such steps for the Whistle-blower’s protection.
+8. 	
+Do human rights requirements form part of your business agreements and contracts?
+	
+Yes, we make the best possible effort to ensure that our business contracts are in adherence with the all the applicable 
+human rights regulations and best practices.
+9. 	
+Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory 
+authorities or third parties)
+ Child labour 
+0%
+ Forced/involuntary labour 
+0%
+ Sexual harassment 
+0%
+ Discrimination at workplace 
+0%
+ Wages 
+0%
+ Others – please specify 
+0%
+10. 	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from 
+the assessments at Question 9 above.
+	
+Not Applicable
+Leadership Indicators
+1. 	
+Details of a business process being modified / introduced as a result of addressing human rights grievances/
+complaints. 
+	
+The Company did not receive any human rights complaints during the reporting year and thus, no modifications or changes 
+were required in the business processes to address such matters
+	
+However, we review and amend our policies and procedures regularly to ensure effectiveness of our systems to address 
+various concerns and issues. We also ensure that our policies and procedures are communicated effectively to employees 
+Business Responsibility & Sustainability Reporting
+23
+Cartrade Tech Limited | Annual Report 2022-23
+Financial Statements
+Statutory Reports
+Corporate Overview
+through trainings and employee handbook.
+2. 	
+Details of the scope and coverage of any Human rights due diligence conducted. 
+	
+No human rights due diligence exercise was conducted during the reporting year. However, we are cognisant of the 
+valuable role that business can play in the protection of human rights of its stakeholders as well as the society at large. We 
+are committed to respecting and protecting human rights of our employees, suppliers, business partners, customers and 
+communities.
+	
+We strive to ensure effectiveness of our policies and procedures to avoid occurrence of human rights violations. Going 
+ahead, we intend to conduct effective human rights due diligence to identify, assess and mitigate potential human rights 
+concerns. 
+3.	
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of 
+Persons with Disabilities Act, 2016? 
+	
+Yes, our offices have been made accessible to accommodate visitors with disabilities, in accordance with the Rights of 
+Persons with Disabilities Act, 2016. Accessibility factor has been considered in the design and layout of our offices to 
+ensure that they are easily accessible. Our Vashi office is are equipped with ramps and elevators as well as wheelchairs 
+to facilitate smooth movement for visitors with disabilities. 
+4. 	
+Details on assessment of value chain partners:
+	
+We are in process of formulating an assessment mechanism under the purview of our sustainable sourcing policy, to 
+evaluate our value chain partners on various human rights issues such as sexual harassment, discrimination at workplace, 
+child labour, forced labour/involuntary labour and wages etc. We intend to disclose the required information in the coming 
+years as and when we conduct these assessments.
+% of value chain partners (by value of business done with such partners) 
+that were assessed
+Sexual Harassment
+0%
+Discrimination at workplace
+0%
+Child Labour
+0%
+Forced Labour/Involuntary Labour
+0%
+Wages
+0%
+5. 	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 4 above.
+	
+Presently we have not conducted assessments of our value chain partners. However, we plan to conduct such 
+assessments to identify and address any significant risks or concerns that may arise from these assessments and help us 
+take appropriate corrective actions to mitigate any risks or concerns identified.
+PRINCIPLE 6 Businesses should respect and make efforts to protect and restore the environment
+Essential Indicators
+1. 	
+Details of total energy consumption (Gigajoules) and energy intensity:
+Parameter
+FY 23
+FY 22
+Total electricity consumption (A)
+1,617
+1,198
+Total fuel consumption (B)
+25
+17
+Energy consumption through other sources (C)
+-
+-
+Total energy consumption (A+B+C)
+1,642
+1,215
+Energy intensity per rupee of turnover (Total energy consumption/ turnover in 
+rupees) (GJ/₹)
+0.000001
+0.000001
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+No
+Business Responsibility & Sustainability Reporting
+24
+Transforming Automotive Buying and Selling through Digitalisation
+2. 	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, 
+Achieve and Trade (PAT) Scheme of the Government of India? If yes, disclose whether targets set under the PAT 
+scheme have been achieved. In case targets have not been achieved, provide the remedial action taken, if any.
+	
+Not applicable 
+3. 	
+Provide details of the following disclosures related to water:
+Parameter
+FY 23
+FY 22
+Water withdrawal by source (in kilolitres)
+(i) Surface water
+0
+0
+(ii) Groundwater
+394
+445
+(iii) Third party water
+4,176
+2,187
+(iv) Seawater / desalinated water
+0
+0
+(v) Others
+0
+0
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+4,570
+2,632
+Total volume of water consumption (in kilolitres)
+4,570
+2,632
+Water intensity per rupee of turnover (Water consumed / turnover) (KL/`)
+0.0000029
+0.0000021
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency?
+No
+4. 	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation.
+	
+The Company recognises the importance of water for our overall business continuity and fully understand the impacts 
+of untreated wastewater on the environment. At present, our office building in Vashi is equipped with Sewage Treatment 
+Plant (STPs). 
+5. 	
+Please provide details of air emissions (other than GHG emissions) by the entity:
+Parameter
+Please specify unit
+FY 23
+FY 22
+NOx
+-
+-
+-
+SOx
+-
+-
+-
+Particulate matter (PM)
+-
+-
+-
+Persistent organic pollutants (POP)
+-
+-
+-
+Volatile organic compounds (VOC)
+-
+-
+-
+Hazardous air pollutants (HAP)
+-
+-
+-
+Others – please specify
+-
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+No
+6. 	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity:
+Parameter
+Unit
+FY 23
+FY 22
+Total Scope 1 emissions 
+Metric tonnes of CO2 equivalent
+241.68
+250.21
+Total Scope 2 emissions (Co2)
+Metric tonnes of CO2 equivalent
+301.76
+223.44
+Total Scope 1 and Scope 2 emissions 
+per rupee of turnover
+Metric tonnes of CO2 equivalent 
+/ ₹ of turnover
+0.00000035
+0.00000038
+Total Scope 1 and Scope 2 emission per 
+Full Time Employee (FTE) 
+Metric tonnes of CO2 equivalent 
+/ employee
+0.68
+0.74
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency?
+No
+Business Responsibility & Sustainability Reporting
+25
+Cartrade Tech Limited | Annual Report 2022-23
+Financial Statements
+Statutory Reports
+Corporate Overview
+7. 	
+Does the entity have any project related to reducing Green House Gas emission? If yes, then provide details. 
+	
+Though our GHG emissions are minimal, we are in the process of assessing the effective ways further reduce our carbon 
+footprint. We have managed to reduce our per capita electricity consumption during the reporting year. We plan to further 
+reduce our electricity and fuel consumption. We are also exploring feasibility of adding EVs to our fleet and procuring 
+International Renewable Energy Certificates (IRECs) and purchasing carbon offsets in the longer run.
+8. 	
+Provide details related to waste management by the entity:
+Parameter
+FY 23
+FY 22
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+0
+0
+E-waste (B) 
+0
+1.75
+Bio-medical waste (C)
+0
+0
+Construction and demolition waste (D)
+0
+0
+Battery waste (E)
+0
+0
+Radioactive waste (F)
+0
+0
+Other Hazardous waste- ETP Sludge. (G)
+0
+0
+Non-hazardous waste generated (H):
+33.59
+19.33
+Total (A+B + C + D + E + F + G + H)
+33.59
+21.08
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery 
+operations (in metric tonnes)
+Category of waste
+(i) Recycled
+0
+0
+(ii) Re-used
+0
+0
+(iii) Other recovery operations
+0
+0
+Total
+0
+0
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i) Incineration
+0
+0
+(ii) Landfilling
+33.59
+21.08
+(iii) Other disposal operations (Sold to authorised recyclers)
+0
+0
+Total
+33.59
+21.08
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency?  
+No
+9. 	
+Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted 
+by your company to reduce usage of hazardous and toxic chemicals in your products and processes and the 
+practices adopted to manage such wastes- 
+	
+Given the nature of our business operations, the Company does not generate any waste which is hazardous and/or 
+toxic in nature, but the waste generated in normal course of operations is managed as per waste disposal process in 
+accordance with local municipal regulations. E-waste generated is responsibly disposed through authorised re-cyclers 
+and vendors, as per the guidelines of the E-waste (Management and Handling) Rules, 2011. 
+10. 	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife 
+sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where 
+environmental approvals/clearances are required, please specify details:
+S. 
+No
+Location of operations/
+offices 
+Type of operations 
+Whether the conditions of environmental approval / clearance 
+are being complied with? (Y/N) 
+If no, the reasons thereof and corrective action taken, if any.
+Not Applicable. The Company does not have any operations / offices in / around ecologically sensitive areas.
+Business Responsibility & Sustainability Reporting
+26
+Transforming Automotive Buying and Selling through Digitalisation
+11. 	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in 
+the current financial year:
+Name and 
+brief details 
+of project 
+EIA 
+Notification 
+No. 
+Date
+Whether conducted by 
+independent external 
+agency (Yes / No)
+Results communicated 
+in public domain 
+(Yes / No) 
+Relevant Web 
+link 
+Not Applicable. The Company has not undertaken any projects that require an Environmental Impact Assessment (EIA).
+12. 	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India, such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection 
+act and rules thereunder. If not, provide details of all such non-compliances:
+	
+The Company is compliant with all the environmental rules and regulations
+S. 
+No. 
+Specify the law / 
+regulation / guidelines 
+which was not complied 
+with 
+Provide details of the 
+non-compliance 
+Any fines / penalties / action taken 
+by regulatory agencies such as 
+pollution control boards or by 
+courts 
+Corrective 
+action taken, 
+if any 
+Not Applicable
+Leadership Indicators
+1.	
+ Provide break-up of the total energy consumed (in GJ) from renewable and non-renewable sources:
+Parameter
+FY 23
+FY 22
+From renewable sources
+Total electricity consumption (A)
+ -   
+ -   
+Total fuel consumption (B)
+ -   
+ -   
+Energy consumption through other sources (C)
+ -   
+ -   
+Total energy consumed from renewable sources (A+B+C)
+-   
+ -   
+From non-renewable sources
+Total electricity consumption (D)
+1,617
+1,198
+Total fuel consumption (E)
+25
+17
+Energy consumption through other sources (F)
+-
+-
+Total energy consumed from non-renewable sources (D+E+F)
+1,642
+1,215
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? If 
+yes, name of the external agency. 
+No
+2. 	
+Provide the following details related to water discharged:
+Parameter
+FY 23
+FY 22
+Water discharge by destination and level of treatment (in kilolitres)
+(i) To Surface water
+    
+- No treatment
+-
+-
+- With treatment – please specify level of treatment
+-
+-
+(ii) To Groundwater
+- No treatment
+-
+-
+- With treatment – please specify level of treatment
+-
+-
+(iii) To Seawater
+- No treatment
+-
+-
+- With treatment – please specify level of treatment
+-
+-
+(iv) Sent to third parties
+- No treatment
+2,941
+1,002
+- With treatment – primary, secondary and tertiary
+1,629
+1,629
+Total water discharged (in kilolitres)
+4,570
+2,632
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? If 
+yes, name of the external agency 
+No
+Business Responsibility & Sustainability Reporting
+27
+Cartrade Tech Limited | Annual Report 2022-23
+Financial Statements
+Statutory Reports
+Corporate Overview
+3. 	
+Water withdrawal, consumption, and discharge in areas of water stress (in kilolitres): For each facility / plant 
+located in areas of water stress, provide the following information: 
+	
+We do not have any operations in water stress areas.
+	
+(i) 	 Name of the area: 
+	
+(ii) 	 Nature of operations: 
+ 	
+(iii) 	 Water withdrawal, consumption, and discharge:
+Parameter
+FY 23
+FY 22
+Water withdrawal by source (in kilolitres)
+(i) Surface water
+    
+(ii) Groundwater
+-
+-
+(iii) Third party water
+-
+-
+(iv) Seawater / desalinated water
+-
+-
+Total volume of water withdrawal (in kilolitres) 
+-
+-
+Total volume of water consumption (in kilolitres)
+-
+-
+Water intensity per rupee of turnover (Water consumed / turnover)
+-
+-
+Water intensity (optional) – the relevant metric may be selected by the entity
+-
+-
+Water discharge by destination and level of treatment (in kilolitres)
+(i) Into Surface water
+- No treatment
+-
+-
+- With treatment – please specify level of treatment
+-
+-
+(ii) Into Groundwater
+- No treatment
+-
+-
+- With treatment – please specify level of treatment
+-
+-
+(iii) Into Seawater
+- No treatment
+-
+-
+- With treatment – please specify level of treatment
+-
+-
+(iv) Sent to third-parties
+-  No treatment
+-
+-
+- With treatment – please specify level of treatment
+-
+-
+(v) Others
+- No treatment
+-
+-
+- With treatment – please specify level of treatment
+-
+-
+Total water discharged (in kilolitres)
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+4. 	
+Please provide details of total Scope 3 emissions & its intensity:
+	
+We have not estimated our Scope 3 emissions yet. However, we plan to estimate and disclose the same in the coming 
+years.
+Parameter
+Unit 
+FY 23
+FY 22
+Total Scope 3 emissions
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available) 
+Metric tonnes of CO2 
+equivalent
+-
+-
+Total Scope 3 emissions per rupee of turnover 
+-
+-
+Total Scope 3 emission intensity (optional) – the 
+relevant metric may be selected by the entity 
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+No
+Business Responsibility & Sustainability Reporting
+28
+Transforming Automotive Buying and Selling through Digitalisation
+5. 	
+With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide 
+details of significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and 
+remediation activities. 
+	
+Not applicable since we do not have any operations in ecologically sensitive areas.
+6.	
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource efficiency, 
+or reduce impact due to emissions / effluent discharge / waste generated, please provide details of the same as well as 
+outcome of such initiatives:
+S. 
+No. 
+Initiative undertaken
+Details of the initiative 
+Outcome of the initiative
+Not applicable
+Not applicable
+Not applicable
+7. 	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link.
+	
+We follow a robust framework that identifies internal and external threats, along with development of effective mitigation 
+strategies. The process of risk identification, analysis, mitigation, and monitoring are undertaken periodically by the 
+Management Team and overseen by the Risk Management Committee. The detailed mitigation strategy for each risk 
+category is incorporated within the Management Discussion & Analysis section of the Annual Report.
+	
+Our infrastructure is configured such that we can recreate critical infrastructure on another environment when needed to 
+recover from a disaster. In addition, we use various automatic disaster mitigation and recovery measures, such as regular 
+and automated backups, monitoring tools and infrastructure components with built-in redundancy. 
+8. 	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation or 
+adaptation measures have been taken by the entity in this regard? 
+	
+The Company’s operations do not have any significant adverse impact to the environment considering the business model 
+and the type of procurement practices. 
+9. 	
+Percentage of value chain partners (by value of business done with such partners) that were assessed for environmental 
+impacts.
+	
+While we have currently not undertaken assessment of environmental impacts of our value chain, as part of our sustainability 
+commitment, we plan to shortly conduct an assessment to identify such key impacts and formulate a strategy to reduce 
+the impacts based on the findings.
+PRINCIPLE 7 Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that 
+is responsible and transparent
+Essential Indicators
+1. 	
+a. 	
+Number of affiliations with trade and industry chambers/ associations.
+	
+	
+Nil
+	
+b. 	 List the top 10 trade and industry chambers/ associations (determined based on the total members of such 
+body) the entity is a member of/ affiliated to.
+S. 
+No. 
+Name of the trade and industry chambers/ 
+associations
+Reach of trade and industry chambers/ associations 
+(State/National)
+Not applicable
+2. 	
+Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the 
+entity, based on adverse orders from regulatory authorities
+	
+Company has not received any adverse order from the regulatory authority.
+Name of authority 
+Brief of the case 
+Corrective action taken 
+Not applicable
+Business Responsibility & Sustainability Reporting
+29
+Cartrade Tech Limited | Annual Report 2022-23
+Financial Statements
+Statutory Reports
+Corporate Overview
+Leadership Indicators
+1.	
+Details of public policy positions advocated by the entity
+S. 
+No. 
+Public policy 
+advocated 
+ Method 
+resorted 
+for such 
+advocacy 
+Whether 
+information 
+available in public 
+domain? (Yes/No) 
+Frequency of Review by Board 
+(Annually/ Half yearly/ Quarterly 
+/ Others – please specify) 
+ Web Link, if 
+available 
+-
+-
+-
+-
+-
+-
+PRINCIPLE 8 Businesses should promote inclusive growth and equitable development
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the 
+current financial year.
+	
+The Company has not conducted any Social Impact Assessments (SIA) in compliance with laws such as the Right to Fair 
+Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 since the same was 
+not required considering the nature of our business operations. However, we recognise the importance of social impact 
+assessments in understanding and addressing the potential social implications of our business activities.
+Name and brief 
+details of project 
+SIA 
+Notification 
+No. 
+Date of 
+notification 
+Whether 
+information 
+available in public 
+domain? (Yes/No) 
+Results 
+communicated in 
+public domain 
+(Yes / No) 
+Relevant 
+Web link 
+-
+-
+-
+-
+-
+-
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken 
+by your entity:
+	
+Given the nature of our business operations, there has been zero displacement of population or livelihoods. As a result, 
+we have not undertaken any Rehabilitation and Resettlement (R&R) activities.
+S. 
+No. 
+Name of 
+Project for 
+which R&R is 
+ongoing
+State
+District
+No. of Project 
+Affected 
+Families 
+(PAFs)
+% of PAFs 
+covered by 
+R&R
+Amounts paid 
+to PAFs in the 
+FY (In `)
+Not applicable
+3.	
+Describe the mechanisms to receive and redress grievances of the community. 
+	
+The Company has a mechanism to interact with the members of the Community to understand and address their concerns, 
+if any. All grievances are addressed through the formal procedure laid down in the Stakeholder Grievance Redressal 
+Policy.
+4. 	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+Parameter
+FY 23
+FY 22
+Directly sourced from MSMEs/ small producers
+-
+-
+Sourced directly from within the district and neighbouring districts
+-
+-
+Note: Given the nature of our business operations, we do not procure any input/ raw materials. However, even for the limited 
+goods and services we procure, we try to give consideration to MSMEs/small producers and suppliers from within the district 
+and neighbouring districts.
+Leadership Indicators
+1. 	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments 
+(Reference: Question 1 of Essential Indicators above): 
+Details of negative social impact identified
+Corrective action taken
+Not applicable
+Business Responsibility & Sustainability Reporting
+30
+Transforming Automotive Buying and Selling through Digitalisation
+2. 	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational districts 
+as identified by government bodies: 
+we have not undertaken any Rehabilitation and Resettlement (R&R) activities.
+S. 
+No. 
+State
+Aspirational District
+Amount spent (In `)
+No CSR projects were undertaken in aspirational districts
+3. 	
+(a) 	 Do you have a preferential procurement policy where you give preference to purchase from suppliers 
+comprising marginalised /vulnerable groups? (Yes/No)
+	
+	
+Yes
+	
+(b) 	 From which marginalised /vulnerable groups do you procure?
+	
+	
+We try to apply preference to enterprises run by/ promote employment of women, people with disabilities, LGBTQ 
+owned, SC/ST owned enterprises in line with our Preferential Procurement Policy. Depending on the feasibility, we 
+also give preference to suppliers who are based locally or from neighboring districts in the areas of operation of the 
+Company and also give emphasis to micro, small and medium enterprises (MSMEs) in the procurement activities.
+	
+ (c) 	 What percentage of total procurement (by value) does it constitute?
+	
+	
+Zero.
+	
+Given the nature of our business operations, we do not procure any input/ raw materials. However, even for the limited 
+goods and services we procure, we intend to provide opportunities for suppliers from marginalized/ vulnerable groups and 
+have drafted a Procurement Policy accordingly. We make an effort to undertake our purchases by giving consideration to 
+small businesses as well enterprises run by/ that promote employment of women, people with disabilities, LGBTQ and SC/
+ST communities.
+4. 	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the 
+current financial year), based on traditional knowledge
+We have not engaged with any entity during the reporting period for deriving or sharing any benefits from the intellectual 
+properties owned and acquired by us.
+S. 
+No. 
+Intellectual Property based on 
+traditional knowledge
+Owned/ Acquired 
+(Yes/No)
+Benefit shared 
+(Yes / No)
+Basis of calculating 
+benefit share
+Not Applicable
+5. 	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related 
+disputes wherein usage of traditional knowledge is involved
+Name of authority 
+Brief of the case 
+Corrective action taken 
+Not applicable
+6. 	
+Details of beneficiaries of CSR Projects:
+S. 
+No. 
+CSR Project
+No. of persons benefitted from 
+CSR Projects
+% of beneficiaries from vulnerable 
+and marginalised groups
+The Company is in the process of developing a CSR programmeme to be undertaken in the coming years. At present, we are 
+not undertaking any CSR projects, but we recognise the importance of community engagement through CSR and plan to do 
+so in the coming years. 
+PRINCIPLE 9 Businesses should engage with and provide value to their consumers in a responsible manner
+Essential Indicators
+1. 	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback - 
+	
+Customers lie at the heart of our business strategy, and we have incorporated customer centricity within all our policies, 
+practices, and strategies. We treat customer complaints and grievances with utmost importance. We have a dedicated 
+email ID viz. contact@carwale.com to enable customers to raise complaints which are dealt with by our Social Media 
+team/ Customer Support team. The Customer Support team co-ordinate with the relevant stakeholders to appropriately 
+Business Responsibility & Sustainability Reporting
+31
+Cartrade Tech Limited | Annual Report 2022-23
+Financial Statements
+Statutory Reports
+Corporate Overview
+resolve the complaint/ issue raised. Customers can escalate a complaint in case they’re unsatisfied with the resolution 
+provided. Customers can also reach out to the Stakeholder contact officer as designated under the Stakeholder Grievance 
+Redressal policy to lodge their grievances. 
+2. 	
+Turnover of products and/ services as a percentage of turnover from all products/service that carry information 
+about:
+As a percentage to total turnover
+Environmental and social parameters relevant to the product
+-
+Safe and responsible usage
+-
+Recycling and/or safe disposal
+-
+3. 	
+Number of consumer complaints in respect of the following:
+FY 23
+FY 22
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Remark
+Received 
+during the 
+year
+Pending res­
+olution at end 
+of year
+Remarks 
+Data privacy
+0
+0
+None
+0
+0
+None
+Advertising
+0
+0
+None
+0
+0
+None
+Cyber-security
+0
+0
+None
+0
+0
+None
+Delivery of 
+essential services
+0
+0
+None
+0
+0
+None
+Restrictive Trade 
+Practices
+0
+0
+None
+0
+0
+None
+Unfair Trade 
+Prac-tices
+0
+0
+None
+0
+0
+None
+Other
+0
+0
+None
+0
+0
+None
+4. 	
+Details of instances of product recalls on account of safety issues:
+Number
+Reasons for recall
+Voluntary recalls
+0
+NA
+Forced recalls
+0
+NA
+5. 	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, 
+provide a web-link of the policy. – 
+	
+Yes, given the nature of our business operations, the Company places strong emphasis on the protection and respect of 
+privacy of data of all its stakeholders. This policy lays out our approach towards ensuring integrity and confidentiality of all 
+the information collected, received, stored, and handled during the course of our business operations.
+6. 	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential 
+services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action 
+taken by regulatory authorities on safety of products / services-
+	
+No such cases were raised for FY 2023 for the mentioned categories and hence no corrective actions were taken.
+Leadership Indicators
+1. 	
+Channels / platforms where information on products and services of the entity can be accessed (provide web link, 
+if available).
+	
+The information can be accessed through our website at https://cartradetech.com/. 
+ 2. 	 Steps taken to inform and educate consumers about safe and responsible usage of products and/or services
+	
+We engage with our consumers through one-on-one interactions, emails, newsletters etc. as well as through our website. 
+Business Responsibility & Sustainability Reporting
+32
+Transforming Automotive Buying and Selling through Digitalisation
+3. 	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services. 
+	
+Not applicable considering our service offerings.
+4.	
+ Does the entity display product information on the product over and above what is mandated as per local laws? 
+If yes, provide details in brief. Did your entity carry out any survey with regard to consumer satisfaction relating 
+to the major products / services of the entity, significant locations of operation of the entity or the entity as a 
+whole? (Yes/No)  
+	
+Not applicable considering the Company does not manufacture/ sell tangible products.
+	
+Yes. The Company periodically assess customer satisfaction through surveys and to understand the grievances of 
+customers and take their feedback on our products and services. We try to maintain regular engagement with customers 
+through various engagement channels like Customer Satisfaction survey, Customer feedback, Personal interactions, and 
+Marketing and advertising activities. 
+5. 	
+Provide the following information relating to data breaches: 
+	
+a. 	
+Number of instances of data breaches along-with impact 
+	
+	
+No instances of data breach were reported or observed during the reporting year.
+	
+b. 	 Percentage of data breaches involving personally identifiable information of customers 
+	
+	
+No instances of data breach were reported or observed during the reporting year. We recognise the need for robust 
+cyber security and data management practices to maintain integrity and confidentiality of all our customers’ privileged 
+information and thereby obtain their trust. We are constantly in the process of strengthening our digital infrastructure 
+in terms of technical safeguards and ongoing monitoring of new and existing threats. We have adopted a robust 
+cybersecurity and data management framework and controls which is supervised by the Board and the senior 
+management. We also regularly review our data and IT security policies and procedures and also conduct training 
+and awareness sessions for our stakeholders to better equip them in dealing with instances of cyber-attacks and data 
+breaches. We design our platforms, offerings, and policies to facilitate compliance with evolving privacy and data 
+security laws and regulations.
+Business Responsibility & Sustainability Reporting

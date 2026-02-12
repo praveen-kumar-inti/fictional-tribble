@@ -1,0 +1,2779 @@
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT
+[As per Regulation 34(2)(f) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015]
+SECTION A
+GENERAL DISCLOSURES
+I.	
+DETAILS
+1.
+Corporate Identity Number (CIN) of the 
+Company
+L67120MH1993PLC074411
+2.
+Name of the Company
+3i Infotech Limited
+3.
+Year of incorporation	
+1993
+4.
+Registered office address
+Tower # 5, International Infotech Park, Vashi Station Complex, Vashi, 
+Navi Mumbai – 400703
+5.
+Corporate office address      
+Tower 2, 6th Floor, E Wing, Seawoods Grand Central, Next to 
+Seawoods Darave Railway Station, Nerul Node, Seawoods Darave, 
+Navi Mumbai – 400706
+6.
+E-mail id
+investors@3i-infotech.com
+7.
+Telephone
++91-22-7123 8000
+8.
+Website
+www.3i-infotech.com
+9.
+Financial year for which reporting is being 
+done
+Financial year ended March 31, 2023
+10. Name of the Stock Exchange(s) where shares 
+are listed
+National Stock Exchange of India Limited and BSE Limited
+11. Paid-up Capital
+₹ 16,84,66,0420
+12. Name and contact details (telephone, email 
+address) of the person who may be contacted 
+in case of any queries on the Business 
+Responsibility and Sustainability Report 
+(BRSR)
+Mrs. Varika Rastogi
+Ph: +91-22-7123 8000
+Email ID: compliance@3i-infotech.com
+13. Reporting boundary
+Disclosures made in this report are on a standalone basis
+II.	
+PRODUCTS / SERVICES
+14.	 Details of business activities (accounting for 90% of the turnover):
+S. 
+No.
+Description of Main Activity
+Description of Business Activity
+% of Turnover of the 
+entity
+1
+Application Automation Analytics
+Application Automation Analytics
+41%
+2
+Business Process Services
+Business Process Services
+11%
+3
+Infrastructure Managed Service
+Infrastructure Managed Service
+31%
+4
+Others
+Others
+17%
+15.	 Products/Services sold by the Company (accounting for 90% of the Company’s turnover):
+S. 
+No.
+Product/Service
+NIC Code
+% of Total Turnover 
+contributed
+1
+Application Automation Analytics
+620
+41%
+2
+Business Process Services
+639
+11%
+3
+Infrastructure Managed Service
+631
+31%
+4
+Others
+17%
+Annexure II
+80
+Annual Report 2022 - 23
+III.	
+OPERATIONS
+16.	 Number of locations where plants and/or operations/offices of the Company are situated: 
+Location
+Number of plants
+Number of offices
+Total
+National
+1
+19
+20
+International
+0
+12
+12
+17.	 Markets served by the Company:
+a.	
+Number of locations
+Locations
+Number
+National (No. of States)
+8
+International (No. of Countries)
+12
+b.	
+What is the contribution of exports as a percentage of the total turnover of the Company?
+	
+During Financial year 2022-23, the Company earned about 25% of revenue from outside India
+c.	
+A brief on types of customers
+	
+One customer is IMS service and Rest billing are intercompany reimbursement of expenses and management cost
+IV.	 EMPLOYEES
+18.	 Details as at the end of Financial Year: March 31, 2023.
+a.	
+Employees (including differently abled):
+Sr. 
+No.
+Particulars
+Total (A)
+Male
+Female
+No.(B)
+%(B/A)
+No.(C)
+% (C/A)
+EMPLOYEES
+1
+Permanent (D)
+4279
+3446
+81%
+833
+19%
+2
+Other than Permanent (E)
+1810
+1146
+63%
+664
+37%
+3
+Total employees (D+E)
+6089
+4592
+75%
+1497
+25%
+Note: The Company does not have any workers as defined in the guidance note on BRSR, issued by SEBI.
+b.	
+Differently abled employees:
+	
+The Company is an equal opportunity employer and treats all employees at par. Based on the income tax declarations, the 
+Company had such employees.
+Sr. 
+No.
+Particulars
+Total (A)
+Male
+Female
+Number of 
+Employees (B)
+% (B/A)
+Number of 
+Employees (C)
+% (C/A)
+DIFFERENTLY ABLED EMPLOYEES
+1.
+Permanent (D)
+-
+        -
+     -
+-
+-
+2.
+Other than Permanent (E)
+-
+        -
+     -
+-
+-
+3.
+Total differently abled 
+employees (D + E)
+-
+        -
+     -
+-
+-
+Financial Statements
+Statutory Reports
+Corporate Overview
+81
+Annual Report 2022 - 23
+19.	 Participation/Inclusion/Representation of women:
+Particulars
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B/A)
+Board of Directors
+7*
+2
+28.57%
+Key Management Personnel *
+4
+1 
+25%
+*Includes Managing Directors and CEO who is also the Key Managerial Personnel of the Company.
+20.	 Turnover rate for permanent employees:
+FY2022-23
+FY2021-22
+FY2020-21
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+32.11%
+36.27%
+29%
+39%
+50%
+41%
+25%
+35%
+27%
+V.	
+HOLDING, SUBSIDIARY AND ASSOCIATE COMPANIES (INCLUDING JOINT VENTURES)
+21.	 (a)	 Names of holding / subsidiary / associate companies / joint ventures (As on March 31, 2023):
+S. 
+No.
+Name of the Holding/Subsidiary/
+Associate companies/Joint ventures (A)
+Indicate whether Holding/
+Subsidiary/Associate/ Joint 
+Venture
+% of shares held 
+by listed entity
+Does the entity indicated 
+at column A, participate 
+in the Business 
+Responsibility initiatives of 
+the listed entity? (Yes/No)
+Foreign Subsidiaries/Step Down 
+Subsidiaries:
+1
+3i Infotech Inc.
+Step Down Subsidiary
+100%
+NO
+2
+3i Infotech Asia Pacific Pte Limited
+Subsidiary
+100%
+NO
+3
+3i Infotech SDN BHD
+Step Down Subsidiary
+100%
+NO
+4
+3i Infotech (UK) Limited
+Subsidiary
+100%
+NO
+5
+3i Infotech (Thailand) Limited
+Step Down Subsidiary
+100%
+NO
+6
+3i Infotech Holdings Private Limited
+Subsidiary
+100%
+NO
+7
+3i Infotech Saudi Arabia LLC
+Subsidiary
+100%
+NO
+8
+3i Infotech (Africa) Limited
+Step Down Subsidiary
+100%
+NO
+9
+3i Infotech (Middle East) FZ LLC
+Step Down Subsidiary
+100%
+NO
+10
+3i Infotech (South Africa) (Pty) Limited
+Step Down Subsidiary
+100%
+NO
+11
+Rhyme Systems Limited
+Step Down Subsidiary
+100%
+NO
+12
+3i Infotech (Western Europe) Holdings 
+Limited
+Step Down Subsidiary
+100%
+NO
+13
+3i Infotech (Western Europe) Group 
+Limited
+Step Down Subsidiary
+100%
+NO
+14
+3i Infotech (Cyprus) Limited (formerly 
+known as Black-Barret Holdings Limited)
+Step Down Subsidiary
+100%
+NO
+15
+3i Infotech Software Solutions LLC
+Step Down Subsidiary
+100%
+NO
+16
+NuRe Digital SDN BHD
+Step Down Subsidiary
+100%
+NO
+17
+3i Infotech (Canada) Inc.
+Step Down Subsidiary
+100%
+NO
+18
+3i Infotech Nigeria Limited
+Step Down  Subsidiary
+100%
+NO
+19
+3i Infotech Netherlands B.V.
+Step Down  Subsidiary
+100%
+NO
+20
+NuRe Infotech Solutions Pte. Limited
+Subsidiary
+100%
+NO
+82
+Annual Report 2022 - 23
+S. 
+No.
+Name of the Holding/Subsidiary/
+Associate companies/Joint ventures (A)
+Indicate whether Holding/
+Subsidiary/Associate/ Joint 
+Venture
+% of shares held 
+by listed entity
+Does the entity indicated 
+at column A, participate 
+in the Business 
+Responsibility initiatives of 
+the listed entity? (Yes/No)
+21
+Process Central Limited
+Joint Venture
+47.50%
+NO
+22
+NuRe Edge Tech Inc
+Step Down  Subsidiary
+100%
+NO
+Indian Subsidiaries / Step Down 
+Subsidiaries
+100%
+NO
+23
+3i Infotech Consultancy Services Limited 
+Subsidiary
+100%
+NO
+24
+3i Infotech Digital BPS Limited
+Subsidiary
+100%
+NO
+25
+NuRe EdgeTech Private Limited
+Subsidiary
+100%
+NO
+26
+NuRe FutureTech Private Limited
+Subsidiary
+100%
+NO
+27
+NuRe CampusLabs Private Limited
+Subsidiary
+100%
+NO
+28
+Versares BPS Private Limited
+Step Down  Subsidiary
+100%
+NO
+29
+NuRe MediaTech Limited
+Subsidiary 
+100%
+NO
+30
+Professional Access Software 
+Development Private Limited
+Step Down Subsidiary
+100%
+NO
+VI.	 CSR DETAILS
+22.	 (i)	
+Whether Corporate Social Responsibility (CSR) is applicable as per section 135 of Companies Act, 2013:
+	
+	
+Not Applicable
+	
+(ii)	 Turnover : Not Applicable 	
+	
+(iii)	 Net worth : Not Applicable 	
+VII.	 TRANSPARENCY AND DISCLOSURES COMPLIANCES
+23.	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct :
+Stakeholder group from 
+whom complaint is 
+received
+Grievance 
+Redressal 
+Mechanism in 
+Place (Yes/No)
+FY 2022-23 
+(Current Financial Year)
+FY 2021-22 
+(Previous Financial Year)
+(If Yes, then 
+provide 
+web-link for 
+grievance 
+redress policy)
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the 
+year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the 
+year
+Remarks
+Communities
+-
+-
+-
+-
+-
+-
+-
+Investors (other than 
+shareholders)
+-
+-
+-
+-
+-
+-
+Shareholders
+-
+2
+0
+-
+22
+0
+-
+Employees and workers
+-
+-
+-
+-
+-
+-
+-
+Customers
+-
+-
+-
+-
+-
+-
+-
+Value Chain Partners
+-
+-
+-
+-
+-
+-
+-
+Other (please specify)
+-
+-
+-
+-
+-
+-
+-
+Financial Statements
+Statutory Reports
+Corporate Overview
+83
+Annual Report 2022 - 23
+24.	 Overview of the Company’s material responsible business conduct issues.
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to Company’s business, rationale for identifying the same, approach to adapt 
+or mitigate the risk along with its financial implications, as per the following format
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether risk or 
+opportunity
+Rationale for identifying 
+the risk/opportunity
+In case of risk, approach 
+to adapt or mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+1
+Customer Privacy
+Risk
+As the Company has a 
+dedicated vertical for 
+BPO and Digital BPS 
+services catering to 
+diverse clients in BFSI 
+and other critical domain 
+across the globe, it has 
+access to certain personal 
+data of Customer
+1.   Contractual 
+management 
+of Confidential 
+Information
+2.   Access controls to 
+such designated 
+information 
+3.   Periodic review of 
+the processes and 
+controls
+Positive - As it 
+substantially mitigates 
+any risk of statutory 
+penalties or contractual 
+fines
+2
+Data Security
+Risk
+Due to rise in Cyber-
+attack, risk of Data 
+breaches, data loss, data 
+manipulation and data 
+exposure is high
+1.   Efficient IT security 
+measures 
+2.   Compliance with ISO 
+standards related to 
+IT security
+3.   Training, orientation 
+and awareness to 
+employees
+Positive - As it 
+substantially mitigates 
+any risk of statutory 
+penalties or contractual 
+fines
+3
+Conflict of Interest
+Risk
+Due to the size and 
+scale of the organisation 
+along with its multiple 
+subsidiaries, the 
+governance structure and 
+decision making process 
+needs to be transparent 
+and fair
+1.   Detailed process 
+mapping under 
+MCAR structure 
+( Maker, Checker, 
+Approver and 
+Reviewer ) 
+2.   Detailed chart of 
+authority with defined 
+approval limits and 
+delegation power
+Positive - Overall 
+probability of integrity in 
+decision making remains 
+very high thus ensuring 
+business interests are at 
+the forefront
+4
+Diversity
+Opportunity
+To provide an inclusive 
+working environment 
+and culture with all 
+underrepresented 
+communities getting fair 
+chance for upskilling and 
+opportunity
+1.   By tracking the 
+Gender Ratio metrics 
+2.   By providing a safe 
+environment with 
+periodic awareness 
+and programs to 
+empower different 
+communities
+Positive - Issue of skill 
+gap is mitigated in cross 
+border business deals. 
+This has the added 
+advantage of expanding 
+the talent pool for the 
+industry.
+84
+Annual Report 2022 - 23
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether risk or 
+opportunity
+Rationale for identifying 
+the risk/opportunity
+In case of risk, approach 
+to adapt or mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+5
+Responsible AI
+Opportunity
+With the rise of 
+automation and artificial 
+intelligence, the 
+disruption of existing 
+technologies and services 
+is imminent
+1.   By defining the 
+policies, framework 
+and boundaries 
+for use of AI tools 
+in the process of 
+governance, delivery 
+and execution of 
+customer projects
+2.   By ensuring Company 
+is not averse to AI 
+and automation, but 
+adapts and builds 
+on the capabilities 
+to leverage cost 
+optimised services for 
+customers
+Positive - Efficient and 
+better of delivering 
+services to the end clients
+SECTION B
+MANAGEMENT AND PROCESS DISCLOSURES
+The National Guidelines for Responsible Business Conduct (NGRBCs) as prescribed by the Ministry of Corporate Affairs 
+advocates nine principles referred as P1-P9 as given below:
+P1 Businesses should conduct and govern themselves with integrity and in a manner that is Ethical, Transparent and Accountable.
+P2 Businesses should provide goods and services in a manner that is sustainable and safe.
+P3 Businesses should respect and promote the well-being of all employees, including those in their value chains.
+P4 Businesses should respect the interests of and be responsive to all its stakeholders.
+P5 Businesses should respect and promote human rights.
+P6 Businesses should respect and make efforts to protect and restore the environment.
+P7 Businesses when engaging in influencing public and regulatory policy, should do so in a manner that is responsible and 
+transparent.
+P8 Businesses should promote inclusive growth and equitable development.
+P9 Businesses should engage with and provide value to their consumers in a responsible manner.
+Financial Statements
+Statutory Reports
+Corporate Overview
+85
+Annual Report 2022 - 23
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6 
+P7
+P8
+P9
+1.
+(a)   Whether your entity’s policy/
+policies cover each principle and 
+its core elements of the NGRBCs. 
+(Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+(b)   Has the policy been approved by 
+the Board? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+(c)   Web Link of the Policies, if 
+available
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+2.
+Whether the entity has translated the 
+policy into procedures. (Yes / No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3.
+Do the enlisted policies extend to your 
+value chain partners? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+4. 
+Name of the national and international 
+codes/certifications/labels/ standards 
+(e.g. Forest Stewardship Council, 
+Fairtrade, Rainforest Alliance, Trustee) 
+standards (e.g. SA 8000, OHSAS, 
+ISO, BIS) adopted by your entity and 
+mapped to each principle.
+ISO 9001:2015
+Yes
+N/A
+Yes
+Yes
+N/A
+N/A
+N/A
+N/A
+Yes
+ISO 20000:2018
+Yes
+N/A
+Yes
+Yes
+N/A
+N/A
+N/A
+N/A
+Yes
+ISO 27001:2013
+Yes
+N/A
+Yes
+Yes
+N/A
+N/A
+N/A
+N/A
+Yes
+5.
+Specific commitments, goals and 
+targets set by the entity with defined 
+timelines, if any.
+We don’t have mandated targets, commitments, or evaluation process for all policies. We have procedures in place to track key 
+parameters like customer NPS, shareholder complaints, employee satisfaction surveys, consumption of resources like water, 
+paper, electricity consumption.
+6.
+Performance of the entity against 
+the specific commitments, goals and 
+targets along-with reasons in case the 
+same are not met.
+We track key parameters in policies and record it for learning and development to enhance our policies.
+Governance, leadership and oversight
+7.
+Statement by director responsible for the business responsibility report, highlighting ESG related challenges, targets and achievements  
+(listed entity has flexibility regarding the placement of this disclosure)
+Doing business in a responsible and sustainable manner is one of the key imperatives for us. We continuously engage in discussion with all our stakeholders to identify key 
+ESG issues and have identified Ethical Business Conduct, Efficient and Transparent Customer Service, Corporate Governance, Risk Management, Human Capital Development, 
+Engagement with Communities and Environmental Footprint to be some of the most important issues. We have a highly qualified and diversified Board and ESG executive 
+forum which oversees the Company’s ESG journey. We instituted practices like Comprehensive Code of Conduct and Business Ethics, sound risk culture, digitisation of 
+business, launching innovative products, investment in emerging areas of cybersecurity and information security, Employee welfare policies, monitoring consumption of 
+resources and taking targets towards reduction in consumption of electricity, fuel and paper and various other practices
+86
+Annual Report 2022 - 23
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6 
+P7
+P8
+P9
+8.
+Details of the highest authority 
+responsible for implementation and 
+oversight of the Business Responsibility 
+policy (ies).
+Mr. Thompson Gnanam, Managing Director and Global CEO (DIN-07865431)
+9.
+Does the entity have a specified 
+Committee of the Board/ Director 
+responsible for decision making on 
+sustainability related issues? (Yes / No). 
+If yes, provide details.
+The Company has in place an Executive level ESG forum comprising of various functional heads to oversee the sustainability 
+related issues.
+Financial Statements
+Statutory Reports
+Corporate Overview
+87
+Annual Report 2022 - 23
+10.	 Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether review was undertaken 
+by Director / Committee of the Board/ 
+Any other Committee
+Frequency(Annually/ Half yearly/ 
+Quarterly/ Any other – please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above 
+policies and follow up action
+All the policies of the Company are approved by the Board and reviewed periodically or on 
+a need basis by Executive Committee as a part of ESG review.
+The effectiveness of the policies is evaluated and necessary amendments to policies and 
+procedures are implemented.
+Compliance with statutory 
+requirements of relevance to the 
+principles and rectification of any 
+non-compliances
+The Company complies with the extant regulations and principles as are applicable.
+11.	 Has the Company carried out independent assessment/ evaluation of the working of its policies by an external 
+agency? (Yes/No). If yes, provide name of the agency.
+	
+No. The Company carried out independent assessment/evaluation of the working of its policies by an external agency.
+12.	 If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated:
+Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The Company does not consider the Principles 
+material to its business (Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+The Company is not at a stage where it is in a position 
+to formulate and implement the policies on specified 
+principles (Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+The Company does not have the financial or/human 
+and technical resources available for the task (Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+It is planned to be done in the next financial year (Yes/
+No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Any other reason (please specify)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+SECTION C
+PRINCIPLE WISE PERFORMANCE DISCLOSURES
+PRINCIPLE 1 BUSINESSES SHOULD CONDUCT AND GOVERN THEMSELVES WITH INTEGRITY, AND IN A MANNER 
+THAT IS ETHICAL, TRANSPARENT AND ACCOUNTABLE.
+ESSENTIAL INDICATORS
+1.	
+Percentage coverage by training and awareness programmes on any of the Principles during the financial year:
+Segment
+Total number 
+of training and 
+awareness 
+programmes held
+Topics/principles 
+covered under the 
+training and its impact
+%age of persons 
+in respective 
+category covered 
+by the awareness 
+programmes
+Board of Directors
+1
+Sustainable Growth 
+Model in the interest of 
+all stakeholders
+100%
+Key Managerial Personnel
+There is no specific training and awareness programmes 
+Employees other than BoD and KMPs
+There is no specific training and awareness programmes 
+Workers
+Not Applicable
+88
+Annual Report 2022 - 23
+2.	
+Details of fines/penalties / punishment / award / compounding fees /settlement amount paid in proceedings (by the 
+Company or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial 
+year, in the following format:
+	
+(Note: The Company shall make disclosures based on materiality as specified in Regulation 30 of SEBI (Listing Obligations 
+and Disclosure Obligations) Regulations, 2015 and as disclosed on the Company’s website):
+ 	
+Nil
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary 
+or non-monetary action has been appealed:
+	
+Not applicable
+4.	
+Does the Company have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, 
+provide a web-link to the policy:
+	
+The Company’s reputation for honesty, integrity and fair dealing is an invaluable component of the Company’s financial 
+success, and of the personal satisfaction of its Employees. Among the several anti-corruption legislations worldwide, the 
+one relevant to the Company, its Employees and third party agents is the U.S. Foreign Corrupt Practices Act (“FCPA”), the 
+Bribery Act, 2010 and the Prevention of Corruption Act, 1988 (“PCA”).
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/ corruption:
+Particulars
+FY2022-23
+FY2021-22
+Directors
+Nil
+Nil
+KMPs
+Nil
+Nil
+Employees
+Nil
+Nil
+Workers
+Nil
+Nil
+6.	
+Details of complaints regarding conflict of interest:
+Particulars
+FY2022-23
+FY2021-22
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to issues of 
+Conflict of Interest of the Directors
+Nil
+NA
+Nil
+NA
+Number of complaints received in relation to issues of 
+Conflict of interest of the KMPs
+Nil
+NA
+Nil
+NA
+7.	
+Details of any corrective action taken or underway on issues related to fines / penalties / action taken by regulators/ 
+law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest:
+	
+Not applicable
+LEADERSHIP INDICATORS
+1.	
+Awareness programmes conducted for value chain partners on any of the Principles during the financial year:
+	
+There is no specific awareness programmes for value chain partners.
+Financial Statements
+Statutory Reports
+Corporate Overview
+89
+Annual Report 2022 - 23
+2.	
+Does the entity have processes in place to avoid/manage conflict of interests involving members of the Board? If Yes, 
+provide details of the same:
+	
+Yes, the Company has Code of Conduct for Board of Directors and Senior Management Personnel which provides clear 
+guidelines for avoiding and disclosing actual or potential conflict of interest with the Company. The Company receives an 
+annual declaration from its Board of Directors and Senior Management Personnel on the entities they are interested in, and 
+ensures requisite approvals as required under the applicable laws are taken prior to entering into transactions with such 
+entities.
+PRINCIPLE 2 BUSINESSES SHOULD PROVIDE GOODS AND SERVICES IN A MANNER THAT IS SUSTAINABLE AND SAFE
+ESSENTIAL INDICATORS
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental 
+and social impacts of product and processes to total R&D and capex investments made by the Company, respectively:
+	
+Not applicable
+2.	
+a.	
+Does the Company have procedures in place for sustainable sourcing?
+	
+b.	
+If yes, what percentage of inputs were sourced sustainably?
+	
+	
+Not applicable
+3.	
+Describe the processes in place to safely reclaim your products for reusing recycling and disposing at the end of life:
+	
+Not applicable
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the Company’s activities (Yes / No). If yes, whether 
+the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution 
+Control Boards? If not, provide steps taken to address the same:
+	
+Not applicable
+LEADERSHIP INDICATORS
+1.	
+Has the Company conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing 
+industry) or for its services (for service industry)?
+	
+Not applicable
+2.	
+If there are any significant social or environmental concerns and/or risks arising from production or disposal of your 
+products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, 
+briefly describe the same along-with action taken to mitigate the same:
+	
+Not applicable
+3.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled and 
+safely disposed, as per the following format:
+	
+Not applicable
+4.	
+Reclaimed products and their packaging materials (as percentage of products sold) for each product category:
+	
+Not applicable
+90
+Annual Report 2022 - 23
+PRINCIPLE 3 BUSINESSES SHOULD RESPECT AND PROMOTE THE WELL-BEING OF ALL EMPLOYEES, INCLUDING 
+THOSE IN THEIR VALUE CHAINS
+ESSENTIAL INDICATORS
+1.	
+a. 	
+Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total No. 
+(A)
+Health insurance
+Accident insurance
+Maternity 
+benefits
+Paternity 
+Benefits
+Day Care 
+facilities
+No. (B)
+%(B/A)
+No. (C)
+%(C/A)
+Permanent employees
+Male
+6191
+2427
+39.20%
+2427
+39.20%
+NA
+NA
+NA
+Female
+2454
+497
+20.25%
+497
+20.25%
+Total
+8645
+2924
+33.82%
+2924
+33.82%
+Other than Permanent employees
+Male
+Nil 
+Nil
+Nil
+Nil
+Nil
+NA
+NA
+NA
+Female
+Nil 
+Nil
+Nil
+Nil
+Nil
+Total
+Nil
+Nil
+Nil
+Nil
+Nil
+2.	
+Details of retirement benefits, for current and previous Financial Year:
+Benefits
+FY 2022-23 
+(Current Financial Year)
+FY 2021-22 
+(Previous Financial Year)
+No of 
+employees 
+covered as 
+a % of total 
+employees
+No of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+No of 
+employees 
+covered as 
+a % of total 
+employees
+No of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+PF
+70%
+0
+6072
+78%
+0
+6686
+Gratuity
+0
+0
+NA
+0
+0
+NA
+ESI
+38%
+0
+3325
+37%
+0
+3160
+Others – please specify
+0
+-
+NA
+0
+-
+NA
+3.	
+Accessibility of workplaces are the premises / offices of the Company accessible to differently abled employees and 
+workers, as per the requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are 
+being taken by the Company in this regard: No
+	
+Following steps are taken by the Company
+	
+•	
+Asset Insurance covered across all Pan India locations- Which cover -different type of disasters - earthquake, STFI, 
+Terrorism.
+	
+•	
+Under Health and safety- We are conducting Food and Water test on quarterly basis.
+	
+•	
+Servicing of equipment- Office Air conditioning system and water coolers.
+	
+•	
+Indoor plants installed in office premised to maintain the CO2 level.
+	
+•	
+Employees covered under Corporate Group Medical and Accident insurance policy.
+Financial Statements
+Statutory Reports
+Corporate Overview
+91
+Annual Report 2022 - 23
+	
+Below mentioned details will implemented in future
+ 
+• 
+Procurement of Wheel chair and Stretcher at each location where is not available.
+ 
+• 
+Noise testing within office premises
+ 
+• 
+Indoor Air Quality testing within office premises
+ 
+• 
+DG set noise and stack monitoring
+ 
+• 
+Identification of Hazardous waste and disposal as per safety guidelines
+ 
+• 
+Health and safety policy need to implement along with safety checklist as per occupational health and safety 
+Guideline- 45001:2018 
+ 
+• 
+Lux level measurement on quarterly basis.
+4.	
+Does the Company have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, 
+provide a web-link to the policy: Yes
+	
+Scope: This policy will be applicable to all the employees at 3i Infotech Limited and its subsidiaries and aims to promote 
+inclusiveness and equal opportunity to all.
+	
+Equal Opportunity & Non-discrimination: The organisation would provide differently abled persons with necessary 
+facilities and amenities to enable them to effectively perform their duties for which they are employed. 
+	
+Accessibility: The organisation shall provide suitable infrastructure subject to practical feasibility to enable differently 
+abled employees to have access to common facilities including physical environment, information and communications 
+including technologies and systems without any inconvenience.
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave:
+Gender
+Permanent employees
+Permanent workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+100%
+100%
+Not Applicable
+Not Applicable
+Female
+93%
+93%
+Not Applicable
+Not Applicable
+Total
+97%
+97%
+Not Applicable
+Not Applicable
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+worker? If yes, give details of the mechanism in brief:
+Yes/No  
+(If Yes, then give details of the mechanism in brief)
+Permanent Employees
+This policy will be applicable to all the employees of 3i Infotech Limited and its 
+subsidiaries
+Other than Permanent Employees    The Company does not have any workers as defined in the guidance note on BRSR.
+“Grievances or complaint” includes any communication that expresses dissatisfaction, in respect of the conduct or any act of 
+omission or commission or deficiency of service and in the nature of seeking a remedial action but do not include the following: -
+i. 
+Complaints that are incomplete or not specific in nature;
+ii. 
+Communications in the nature of suggestions;
+iii. 
+Communications seeking guidance or explanation;
+92
+Annual Report 2022 - 23
+All Grievance related to fraud/suspected fraud or sexual harassment shall be excluded from the preview of this policy
+• 	
+The aggrieved employee shall represent his/her grievance either in person orally or in writing to the committee as per the 
+attached format
+• 	
+The Committee shall receive the application/complaint from employees and acknowledge the receipt within 3 working 
+days
+• 	
+The Committee shall analyse the complaints and submit its recommendations to the Global HR Head within 15 working 
+days from the date of receipt of application/complaints
+• 	
+The grievance needs to be redressed and disposed of as soon as possible however not exceeding 30 working days from 
+the date of receipt 
+•        If there is any dispute with regard to the procedure or the decision, then the matter shall be referred to MD and Global CEO
+•	
+In case the grievance is baseless or cannot be resolved, the committee shall communicate the same to employee
+Grievance Committee
+Mr. Mahendran Rajendran will be In-charge of the Grievance Cell and will maintain all the correspondence records etc. related 
+to such grievances and will liaison with concern authorities in this record. In case of any dispute with regard to the grievance 
+procedure the matter will be referred to the MD and Global CEO and his decision in this regard will be final and binding.
+7.	
+Membership of employees and worker in association(s) or Unions recognised by the Listed Company.
+Category
+FY 2022-23  
+(Current Financial Year)
+FY 2021-22  
+(Previous Financial Year)
+Total 
+employees/
+workers in 
+respective 
+category (A)
+No of 
+employees/
+workers in 
+respective 
+category, 
+who are 
+part of 
+association(s) 
+or Union (B)
+% (B / A)
+Total 
+employees /
+workers in 
+respective 
+category (C)
+No of 
+employees /
+workers in 
+respective 
+category, 
+who are 
+part of 
+association(s)
+or Union (D)
+% (D/C)
+Total Permanent Employees
+8645
+34
+0.39%
+8623
+38
+0.44%
+- Male
+6191
+27
+0.44%
+6553
+30
+0.46%
+- Female
+2454
+7
+0.29%
+2070
+8
+0.39%
+Total Permanent Workers
+0
+0
+0
+0
+0
+0
+- Male
+0
+0
+0
+0
+0
+0
+- Female
+0
+0
+0
+0
+0
+0
+8.	
+Details of training given to employees and workers:
+Category
+FY 2022-23 (Current Financial Year)
+FY 2021-22 (Previous Financial Year)
+Total (A)
+On Health and 
+safety measures
+On Skill 
+upgradation
+Total (D)
+On Health and 
+safety measures
+On Skill 
+upgradation
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Male
+6191
+4300
+69.46%
+347
+5.60%
+6553
+No drills were 
+conducted
+142
+2.17%
+Female
+2454
+1366
+55.66%
+140
+5.70%
+2070
+55
+2.66%
+Total
+8645
+5666
+65.54%
+487
+5.63%
+8623
+197
+2.28%
+Financial Statements
+Statutory Reports
+Corporate Overview
+93
+Annual Report 2022 - 23
+9.	
+Details of performance and career development reviews of employees and worker:
+Category
+FY2022-23
+FY2021-22
+Total (A)
+No. (B)
+% (B/A)
+Total (A)
+No. (B)
+% (B/ A)
+Employees*
+Male
+6191
+2378
+38%
+6191
+1732
+28%
+Female
+2454
+547
+22%
+2454
+285
+12%
+Total
+8645
+2925
+34%
+8645
+2017
+23%
+10.	 Health and safety management system:
+a.	
+Implementation of occupational health and safety management system by the Company along with extent of 
+coverage.
+	
+Not Applicable
+b.	
+Processes used to identify work-related hazards and assess risks on a routine and non-routine basis by the Company.
+	
+Not Applicable
+c.	
+Processes for identification and reporting of occupational hazards by workers and action to be taken.
+	
+This is not applicable to the Company since we do not have workers as in the guidance note on BRSR, issued by SEBI.
+d.	
+Do the employees/ workers of the Company have access to non-occupational medical and healthcare services?
+	
+No
+11.	 Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category
+FY 2022-23 
+(Current Financial Year)
+FY 2021-22 
+(Previous Financial Year)
+Lost Time Injury Frequency Rate (LTIFR) (per 
+one million-person hours worked)
+Employees
+Not Applicable
+Not Applicable
+Workers
+Not Applicable
+Not Applicable
+Total recordable work-related injuries
+Employees
+Not Applicable
+Not Applicable
+Workers
+Not Applicable
+Not Applicable
+No. of fatalities
+Employees
+Not Applicable
+Not Applicable
+Workers
+Not Applicable
+Not Applicable
+High consequence work-related injury or 
+ill-health (excluding fatalities)
+Employees
+Not Applicable
+Not Applicable
+Workers
+Not Applicable
+Not Applicable
+12.	 Measures taken by the Company to ensure a safe and healthy workplace:
+	
+•	
+Training on “Prevention of Sexual Harassment” for all employees
+	
+•	
+Fire Drills at all locations
+	
+•	
+Health Talk - Healthy way to handle life stressors
+	
+•	
+Health Talk - Women and Wellness
+	
+•	
+Health Talk -The Right Ergonomic Posture at the Workplace
+	
+•	
+Health Talk - Emotional Wellness
+	
+•	
+Health Talk - Diet & Nutrition
+94
+Annual Report 2022 - 23
+	
+•	
+Health Talk - Thyroid Awareness
+	
+•	
+Health Talk – Orthopedics
+	
+•	
+Health Talk – Gastrointestinal
+	
+•	
+Health Talk – Ophthalmology
+	
+•	
+Health Talk – Dermatology
+	
+•	
+Health Talk - Women’s Day special Gynac & Female health
+	
+•	
+Eye Check-up Camp at various locations
+	
+•	
+Health Insurance for Employees
+13.	 Number of Complaints on the following made by employees and workers:
+Particular
+FY2022-23
+FY 2021-22
+Filed during
+the year
+Pending 
+resolution at 
+the end of 
+year
+Remarks
+Filed during 
+the year
+Pending 
+resolution 
+At the end    
+of Year
+Remarks
+Working Conditions
+0
+0
+Nil
+0
+0
+Nil
+Health and Safety
+0
+0
+Nil
+0
+0
+Nil
+14.	 Assessments for the year:
+Particulars
+% of your plants and offices that were assessed (by entity or statutory authorities 
+or third parties)
+Health and safety practices
+NA
+Working Conditions
+NA
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on 
+significant risks / concerns arising from assessments of health and safety practices and working conditions:
+	
+Not applicable.
+LEADERSHIP INDICATORS
+1.	
+Does the Company extend any life insurance or any compensatory package in the event of death of employees (Y/N)?
+	
+No
+2.	
+Provide the measures undertaken by the Company to ensure that statutory dues have been deducted and deposited 
+by the value chain partners:
+	
+No
+Financial Statements
+Statutory Reports
+Corporate Overview
+95
+Annual Report 2022 - 23
+3.	
+Provide the number of employees / workers having suffered high consequence work-related injury / ill- health / 
+fatalities (as reported in Q11 of Essential Indicators above), who have been rehabilitated and placed in suitable 
+employment or whose family members have been placed in suitable employment:
+Particulars
+Total no.of affected employees/workers
+No. of employees/workers that are 
+rehabilitated and placed in suitable 
+employment or whose family members have 
+been placed in suitable employment
+FY 2022-23 (Current 
+Financial Year)
+FY 2021-22 (Previous 
+Financial Year)
+FY 2022-23 (Current 
+Financial Year)
+FY 2021-22 (Previous 
+Financial Year)
+Employees
+0
+0
+0
+0
+Workers
+NA
+NA
+NA
+NA
+4.	
+Does the Company provide transition assistance programs to facilitate continued employability and the management 
+of career endings resulting from retirement or termination of employment? (Yes/ No):
+	
+No the Company does not provide transition assistance programs
+5.	
+Details on assessment of value chain partners:
+Particulars
+% of value chain partners (by value of business done with such partners) that 
+were assessed
+Health and safety practices
+NA
+Working Conditions
+NA
+6.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from 
+assessments of health and safety practices and working conditions of value chain partners:
+	
+Not Applicable
+PRINCIPLE 4: BUSINESSES SHOULD RESPECT THE INTERESTS OF AND BE RESPONSIVE TO ALL ITS STAKEHOLDERS
+ESSENTIAL INDICATORS
+1.	
+Describe the processes for identifying key stakeholder groups of the Company:
+	
+The first step in stakeholder management is identifying your stakeholders. These can be internal or external.
+	
+Internal are those who are part of your organisation or your team with whom you interact more and are more accessible to 
+you.  You have more control over internal stakeholders.
+	
+External are those who are not part of your organisation but are having links with you for various business purposes. You 
+have less control over external stakeholders.
+2.	
+List stakeholder groups identified as key for your Company and the frequency of engagement with each stakeholder 
+group:
+Stakeholder Group
+Whether identified 
+as Vulnerable and 
+Marginalised Group 
+(Yes/ No)
+Channels of 
+communication (Email, 
+SMS, Newspaper, 
+Pamphlets, 
+Advertisement, 
+Community, Meetings, 
+Notice Board, Website) 
+Others
+Frequency of 
+engagement 
+(Annually/ Half 
+yearly/ Quarterly /
+others – please 
+specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Shareholders
+No
+Email, Newspaper, 
+Website
+Quarterly, Event 
+Basis
+•    Financial Results, 
+Investor related 
+information
+96
+Annual Report 2022 - 23
+LEADERSHIP INDICATORS
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental and social 
+topics or if consultation is delegated, how is feedback from such consultations provided to the Board:
+	
+Once stakeholders are identified, the next step is to have a plan for interacting with them to get them connected with us. 
+For this, a stakeholder engagement plan needs to be in place.  It ensures continuous and effective communication between 
+us and stakeholders.  
+	
+Plan should include information about
+	
+a)	
+Frequency of communication.
+	
+b)	
+Who will be engaged from either side in every segment of business.
+	
+c)	
+Mode of engagement i.e., questionnaire, interviews, periodic meetings, mailers etc.
+	
+d)	
+Decisions / Approvals from decision makers
+	
+Once the engagement plan for stakeholders is in place, it is important to bring it to execution.  This results in interaction with 
+stakeholders.  As this interaction will be more frequent and precise, it helps more and more in gaining trust of stakeholders 
+as well as monitoring stakeholders. 
+	
+Creating an open channel where stakeholders can voice their opinions is essential for the success of any organisation. 
+Stakeholders should be able to interact with us irrespective of factors like race, gender, culture, language etc.
+	
+This interaction needs to be bi-directional.  As we get opinions, suggestions, feedback from stakeholders, it is essential to 
+report back to stakeholders on how their needs / requirements / complaints are addressed. 
+2.	
+Whether stakeholder consultation is used to support the identification and management of environmental and 
+social topics (Yes / No). If so, provide details of instances as to how the inputs received from stakeholders on these 
+topics were incorporated into policies and activities of the Company:
+	
+In many cases, satisfaction as well as the performance of stakeholders affect the success or failure of our organisation, we 
+need to monitor them closely.
+	
+Periodically, the performance of the stakeholders needs to be monitored using various methods like public surveys, audits, 
+evaluation etc.  
+	
+Whenever required, action needs to be taken to get desired results from stakeholders or fulfil the requirements of 
+stakeholders.
+	
+Similarly, we need to report back to stakeholders informing them about the status of commitments made to them.
+3.	
+Provide details of instances of engagement with and actions taken to, address the concerns of vulnerable/ 
+marginalised stakeholder groups:
+	
+Not Applicable
+PRINCIPLE 5 BUSINESSES SHOULD RESPECT AND PROMOTE HUMAN RIGHTS
+ESSENTIAL INDICATORS
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the Company, in 
+the following format:
+	
+No Training had been provided to employee
+Financial Statements
+Statutory Reports
+Corporate Overview
+97
+Annual Report 2022 - 23
+2.	
+Details of minimum wages paid to employees:
+	
+Salaries paid to employees are much more than minimum rates of wages prescribed by the Government Authorities.
+Category
+FY 2022-23 (Current Financial Year)
+FY 2021-22 (Previous Financial Year)
+Total (A)
+Equal Minimum 
+Wage to
+More Minimum 
+wage than
+Total (D)
+Equal Minimum 
+Wage to
+More Minimum 
+Wage than
+No. (B)
+% (B/A) No. (C/A) % (C/A)
+No. (E)
+No. (D)
+No. (F)
+% (F/D)
+Employees
+Permanent
+4833
+125
+3%
+4708
+97%
+6291
+197
+3.13%
+6094
+96.87%
+Male
+3803
+75
+2%
+3728
+98%
+4974
+110
+2.21%
+4864
+97.79%
+Female
+1030
+50
+5%
+980
+95%
+1317
+87
+6.61%
+1230
+93.39%
+3.	
+Details of remuneration/salary:
+Particulars
+Male
+Female
+Number
+Median 
+remuneration/ 
+salary/ wages 
+of respective 
+category (₹)
+Number
+Median 
+remuneration/ 
+salary/ wages of 
+respective category
+Board of Directors (BOD)
+5
+22958214
+2
+0
+Key Managerial Personnel (KMP)
+3
+13506020
+1
+4787796
+Employees other than BOD and KMP
+5619
+478045
+1977
+366954
+Workers
+0
+Not Applicable
+0
+Not Applicable
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused 
+or contributed to by the business? (Yes/No). Yes
+	
+The employees may approach their respective Business HRs in case of any grievances.
+	
+As such, Business HRs serve as the primary point of contact for addressing such concerns in accordance with the Company’s 
+commitment to upholding human rights standards and ensuring a safe and respectful work environment for all employees. 
+To ensure all employees have unfretted access for raising such concerns, 3i Infotech has institutionalised transparent 
+Helpdesk Ticketing system which has visibility to senior leadership for effective redressal.
+5.	
+Internal mechanisms in place to redress grievances related to human rights issues:
+	
+The company has established a process where employees may reach out to their respective Business HRs through various 
+modes of communication, including but not limited to verbal, telephonic or mail. This mechanism ensures that employees 
+have a means to voice their concerns and seek redressal in a timely and effective manner. The company encourages 
+all employees to utilise this grievance redressal mechanism in accordance with its commitment to fostering a safe and 
+respectful work environment that upholds human rights standards. 3i Infotech had also institutionalised Grievance 
+Redressal Framework at work place with escalation mechanism to effectively address grievances on time.
+6.	
+Number of Complaints on the following made by employees and workers:
+Category
+FY2022-23
+FY2021-22
+Filed during 
+the year
+Pending 
+resolution at 
+the end of 
+year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at 
+the end of 
+year
+Remarks
+Sexual Harassment
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Discrimination at workplace
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Child Labour
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+98
+Annual Report 2022 - 23
+Category
+FY2022-23
+FY2021-22
+Filed during 
+the year
+Pending 
+resolution at 
+the end of 
+year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at 
+the end of 
+year
+Remarks
+Forced Labour/Involuntary 
+Labor
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Wages
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Other human rights related 
+issues
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+7.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases:
+	
+The company implemented various mechanisms such as:
+	
+Confidentiality: Ensuring that the complainant’s identified are kept confidential to prevent retaliation or discrimination. 
+POSH or any Grievance related matters are dealt with very high confidentiality for both complainant & any relevant 
+witnesses in such scenarios.
+	
+Fair and Impartial Investigation: Ensuring that any investigation of the complaint is conducted in a fair and impartial manner 
+and that the complainant is given an opportunity to present their case.
+8.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No).
+	
+Yes, Human rights requirements form a part of the Company’s business agreements and contracts as and where relevant.
+9.	
+Assessments for the year:
+Particulars
+% of your plants and offices that were assessed (by entity or statutory authorities 
+or third parties)
+Child labour
+Nil
+Forced/involuntary labour
+Nil
+Sexual harassment
+Nil
+Discrimination at workplace
+Nil
+Wages
+Nil
+Others – please specify
+Nil
+10.	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 9 above:
+	
+Not applicable.
+LEADERSHIP INDICATORS
+1.	
+Details of a business process being modified / introduced as a result of addressing human rights grievances/
+complaints:
+	
+Not applicable
+2.	
+Details of the scope and coverage of any Human rights due diligence conducted:
+	
+As part of Human Resource Framework, principles of Natural Justice is institutionalised in its employee lifecycle processes.
+3.	
+Is the premise/office of the Company accessible to differently abled visitors, as per the requirements of the Rights of 
+Persons with Disabilities Act, 2016?
+	
+Yes. The premise/office of the Company is accessible to differently abled visitors.
+Financial Statements
+Statutory Reports
+Corporate Overview
+99
+Annual Report 2022 - 23
+4.	
+Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such partners) that 
+were assessed
+Sexual Harassment
+In all of our dealings, the Company expects its value chain partners to uphold the same 
+values, beliefs, and business ethics as the Company. However, no formal examination of 
+value chain partners has been conducted.
+Discrimination at workplace
+Child Labour
+Forced Labour/Involuntary Labour
+Wages
+Others – please specify
+5.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 4 above.
+	
+Not Applicable
+PRINCIPLE 6: BUSINESSES SHOULD RESPECT AND MAKE EFFORTS TO PROTECT AND RESTORE THE ENVIRONMENT
+ESSENTIAL INDICATORS
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity:
+Parameter
+FY2023
+FY2022
+Total electricity consumption (A)
+2346783
+2432824
+Total fuel consumption (B)
+Nil
+Nil
+Energy consumption through other sources (C)
+NA
+NA
+Total energy consumption (A+B+C)
+2346783
+2432824
+Energy intensity per ` million of turnover
+-
+-
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency?
+No
+2.	
+Does the Company have any sites / facilities identified as designated consumers (DCs) under the Performance, 
+Achieve and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the 
+PAT scheme have been achieved. In case targets have not been achieved, provide the remedial action taken, if any.
+	
+Not applicable
+3.	
+Details of disclosures related to water: 
+Parameter
+FY 2023
+FY2022 
+Water withdrawal by source (in kiloliters)
+(i)   Surface water
+NA
+NA
+(ii)  Groundwater
+NA
+NA
+(iii) Third party water
+19319
+31328
+(iv) Seawater / desalinated water
+NA
+NA
+(v)  Others
+269.42
+222.82
+Total volume of water withdrawal (in kiloliters) (i + ii + iii + iv + v)
+19588.42
+31550.82
+Total volume of water consumption (in kiloliters)
+19588.42
+31550.82
+Water intensity per rupee of turnover (Water consumed / turnover)
+NA
+NA
+Water intensity (optional) – the relevant metric may be selected by the entity
+NA
+NA
+100
+Annual Report 2022 - 23
+4.	
+Has the Company implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation:
+	
+Not applicable
+5.	
+Details of air emissions (other than GHG emissions) by the Company:
+	
+Not applicable
+6.	
+Details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) and its intensity:
+	
+Not Applicable
+7.	
+Does the Company have any project related to reducing Green House Gas emission? If Yes, then provide details:
+	
+Yes
+	
+1.	
+Use of LED lights in premises
+	
+2.	
+Electricity Savings initiatives
+	
+3.	
+Encourage employees to take public transport
+8.	
+Provide details related to waste management by the Company:
+	
+Not Applicable
+9.	
+Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by 
+your Company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices 
+adopted to manage such wastes:
+	
+Not Applicable
+10.	 If the Company has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife 
+sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where 
+environmental approvals / clearances are required, please specify details;
+	
+Not applicable
+11.	 Details of environmental impact assessments of projects undertaken by the Company based on applicable laws, in 
+the current financial year(FY2022-23):
+ 	
+Not applicable
+12.	  Is the Company compliant with the applicable environmental law/ regulations/ guidelines in India, such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act 
+and rules thereunder (Y/N). If not, provide details of all such non- compliances:
+	
+Not Applicable
+LEADERSHIP INDICATORS
+1.	
+Provide break-up of the total energy consumed (in Joules or multiples) from renewable and non- renewable sources:
+	
+Not Applicable
+2.	
+Details related to water discharged:
+	
+Not Applicable
+Financial Statements
+Statutory Reports
+Corporate Overview
+101
+Annual Report 2022 - 23
+3.	
+Water withdrawal, consumption, and discharge in areas of water stress (in kiloliters):
+	
+For each facility / plant located in areas of water stress, provide the following information
+	
+(i)	
+Name of the area       
+	
+(ii)	
+Nature of operations
+	
+(iii)	 Water withdrawal, consumption, and discharge
+Parameter
+FY 2022-23  
+(Current Financial 
+Year)
+FY 2021-22 
+(Previous Financial 
+Year)
+Water withdrawal by source (in kilolitres)
+(i)   Surface water
+NA
+NA
+(ii)  Groundwater
+NA
+NA
+(iii) Third party water
+NA
+NA
+(iv) Seawater / desalinated water
+NA
+NA
+(v) Others
+NA
+NA
+Total volume of water withdrawal (in kilolitres)
+NA
+NA
+Total volume of water consumption (in kilolitres)
+19588.42
+31550.82
+Water intensity per rupee of turnover (Water consumed / turnover)
+Water intensity (optional) – the relevant metric may be selected by the entity
+Water discharge by destination and level of treatment (in kilolitres)
+(i) Into Surface water
+NA
+NA
+- No treatment
+NA
+NA
+- With treatment – please specify level of treatment
+NA
+NA
+(ii) Into Groundwater
+NA
+NA
+- No treatment
+NA
+NA
+- With treatment – please specify level of treatment
+NA
+NA
+(iii) Into Seawater
+NA
+NA
+- No treatment
+NA
+NA
+- With treatment – please specify level of treatment
+NA
+NA
+(iv) Sent to third-parties
+NA
+NA
+- No treatment
+NA
+NA
+- With treatment – please specify level of treatment
+NA
+NA
+(v) Others
+NA
+NA
+- No treatment
+NA
+NA
+- With treatment – please specify level of treatment
+NA
+NA
+Total water discharged (in kilolitres)
+NA
+NA
+102
+Annual Report 2022 - 23
+4.	
+Please provide details of total Scope 3 emissions and its intensity, in the following format:
+Parameter
+Unit
+FY 2022-23
+FY 2021-22
+Total Scope 3 emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of 
+CO2 equivalent
+NA
+NA
+Total Scope 3 emissions per rupee of turnover
+NA
+NA
+5.	
+With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide 
+details of significant direct and indirect impact of the Company on biodiversity in such areas along-with prevention 
+and remediation activities:
+	
+Our Company does not have any significant direct and indirect impact on ecologically sensitive areas.
+6.	
+If the Company has undertaken any specific initiatives or used innovative technology or solutions to improve resource 
+efficiency, or reduce impact due to emissions / effluent discharge / waste generated, please provide details of the 
+same as well as outcome of such initiatives, as per the following format:
+Sr. 
+No
+Initiative undertaken
+Details of the initiative (Web-link, if any, 
+may be provided along-with summary)
+Outcome of the initiative
+Not Applicable
+7.	
+Does the Company have a business continuity and disaster management plan? Give details in 100 words/ web link:
+https://nextcloudtest.3i-infotech.com/index.php/s/XS9FXxEK93jnTxb
+8.	
+Disclose any significant adverse impact to the environment, arising from the value chain of the Company. What 
+mitigation or adaptation measures have been taken by the Company in this regard?
+	
+Not Applicable
+9.	
+Percentage of value chain partners (by value of business done with such partners) that were assessed for 
+environmental impacts:
+	
+Not Applicable
+PRINCIPLE 7 BUSINESSES, WHEN ENGAGING IN INFLUENCING PUBLIC AND REGULATORY POLICY, SHOULD DO SO IN 
+A MANNER THAT IS RESPONSIBLE AND TRANSPARENT
+ESSENTIAL INDICATORS
+1.	
+a.	
+Number of affiliations with trade and industry chambers/ associations:
+	
+	
+2
+	
+b. 	
+List the top 10 trade and industry chambers/ associations (determined based on the total members of such 
+body) the Company is a member of/ affiliated to:
+Sr. 
+No.
+Name of the trade and industry chambers/ associations
+Reach of trade and industry chambers/ 
+associations (State/National)
+1
+BCCI - Bombay Chamber of Commerce & Industry
+State, Maharashtra
+2
+NASSCOM - National Association of Software and Service Companies
+National, India
+2.	
+Details of corrective action taken or underway on any issues related to anti-competitive conduct by the Company, 
+based on adverse orders from regulatory authorities:
+	
+Nil.
+LEADERSHIP INDICATORS
+1.	
+Details of public policy positions advocated by the Company:
+	
+Not Applicable
+Financial Statements
+Statutory Reports
+Corporate Overview
+103
+Annual Report 2022 - 23
+PRINCIPLE 8 BUSINESSES SHOULD PROMOTE INCLUSIVE GROWTH AND EQUITABLE DEVELOPMENT
+ESSENTIAL INDICATORS
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the Company based on applicable laws, in the 
+current financial year:
+	
+Not applicable
+2.	
+Information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your 
+Company:
+	
+Not applicable
+3.	
+Describe the mechanisms to receive and redress grievances of the community:
+	
+The Company has set up a framework of multiple mechanisms to receive and redress grievances, for the community.
+	
+The following steps are followed by the Company:
+	
+a. 	
+The Committee shall receive the application/complaint and shall analyse the complaints and submit its 
+recommendations.
+	
+b. 	
+Regular interactions with community by physical visits, virtual meetings, feedbacks, review of outcomes.
+	
+c. 	
+The grievance needs to be redressed and disposed of as soon as possible.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+Parameter
+FY 2022-23 
+(Current Financial 
+Year)
+FY 2021-22 
+(Previous Financial 
+Year)
+Directly sourced from MSMEs/ small producers
+37%
+24%
+Sourced directly from within the district and neighboring districts
+NA
+NA
+LEADERSHIP INDICATORS
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments 
+(Reference: Question 1 of Essential Indicators above):
+	
+Not applicable.
+2.	
+CSR projects undertaken by your Company in designated aspirational districts as identified by government:
+	
+Not Applicable
+3.	
+(a) 	 Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising 
+marginalised /vulnerable groups?   Not Applicable
+	
+(b)	 From which marginalised /vulnerable groups do you procure?  Not Applicable
+	
+(c)	 What percentage of total procurement (by value) does it constitute?
+	
+	
+Not Applicable
+4.	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your Company (in 
+the current financial year), based on traditional knowledge:
+	
+For Application Automation Analytics, we have Momenta+, Flexib+, CampusLab products which we have shown to 
+regulators as “Capital Work in Progress CWIP” - Under Development phase, hence we cannot comment on the value or 
+amount generated out of it. We can only say these products will generate value in FY24
+5.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes 
+wherein usage of traditional knowledge is involved:
+	
+No
+104
+Annual Report 2022 - 23
+6.	
+Details of beneficiaries of CSR Projects:
+	
+Not Applicable
+PRINCIPLE 9 BUSINESSES SHOULD ENGAGE WITH AND PROVIDE VALUE TO THEIR CONSUMERS IN A RESPONSIBLE 
+MANNER
+ESSENTIAL INDICATORS
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback:
+	
+•	
+Every business function has a mechanism to handle customer complaints and feedback.
+	
+•	
+Teams have defined escalation matrix which is used to handle customer complaints at various levels.
+	
+•	
+Every team has a customer representative who interacts with customers.
+	
+•	
+Whenever a customer gives any feedback, same is discussed among team members and based on this discussion, 
+future plans are prepared.
+	
+•	
+Periodic meetings with customers are planned to take care of their complaints as well as feedback.
+	
+•	
+If in case of any customer complaint, data including issue details are received by customer representative and solution 
+of issue is done by following below steps: 
+	
+	
+o	
+Customer Representative contacts internal concerned team and provide them details about complaints.
+	
+	
+o	
+Cross functional team performs effective root cause analysis of the issue.
+	
+	
+o	
+Correction is planned and implemented.
+	
+	
+o	
+Corrective actions are implemented.
+	
+	
+o	
+Preventive actions are implemented.
+	
+	
+o	
+All this data is provided to customer by representative as a part of closure of complaint.
+	
+	
+o	
+Follow up is taken to ensure customer has accepted the closure of the issue.
+2.	
+Turnover of products and/ services as a percentage of turnover from all products/service that carry information 
+about:
+As a % to total turnover
+Environmental and social parameters relevant to the product
+Not applicable to our products and services
+Safe and responsible usage, Recycling and/or safe disposal
+3.	
+Number of consumer complaints in respect of the following:
+FY2022-23
+FY2021-22
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Remarks
+Data privacy
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Advertising
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Cyber-security
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Delivery of essential services
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Restrictive Trade Practices
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Unfair Trade Practices
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Other
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Financial Statements
+Statutory Reports
+Corporate Overview
+105
+Annual Report 2022 - 23
+4.	
+Details of instances of product recalls on account of safety issues:
+	
+Not applicable
+5.	
+Does the Company have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, 
+provide a web-link of the policy:
+	
+ISO 27001 certification
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential 
+services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action 
+taken by regulatory authorities on safety of products / services:
+	
+Not applicable
+LEADERSHIP INDICATORS
+1.	
+Channels / platforms where information on products and services of the Company can be accessed (provide web 
+link, if available):
+	
+Information on products and services of the Company can be accessed on 3i-infotech.com 
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services:
+	
+Not Applicable
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services:
+	
+Consumers are informed of any risk of disruption/ discontinuation of essential services through the below means of 
+communication.
+	
+a) 	
+Website  
+	
+b)	
+Email and SMS
+	
+c)	
+Direct Customer visit
+4.	
+Does the Company display product information on the product over and above what is mandated as per local laws? 
+(Yes/No/Not Applicable) If yes, provide details in brief:
+	
+Not Applicable
+	
+Did your Company carry out any survey with regard to consumer satisfaction relating to the major products / services 
+of the Company, significant locations of operation of the Company or the Company as a whole? (Yes/No).
+	
+No
+5.	
+Provide the following information relating to data breaches:
+a.	
+Number of instances of data breaches along with impact
+	
+Not Applicable
+b. 
+Percentage of data breaches involving personally identifiable information of customers
+	
+Not Applicable
+106
+Annual Report 2022 - 23

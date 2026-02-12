@@ -1,0 +1,3363 @@
+ 
+ 
+Regd. Office: Marathon Futurex, A Wing, 25th Floor, 
+Mafatlal Mills Compound, N M Joshi Marg, Lower Parel (E), Mumbai - 400 013. 
+Phone: 91-22-2302 3333 • Fax: 91-22-2300 2036 • CIN:  L67120MH1997PLC112443 
+Website: www.cdslindia.com 
+Central Depository Services (India) Limited
+CDSL/CS/NSE/JB/2023/215                                                                                               August 08, 2023 
+ 
+The Manager, 
+Listing Compliance Department, 
+National Stock Exchange of India Ltd, 
+Exchange Plaza, Bandra Kurla Complex, 
+Bandra (East), Mumbai – 400051. 
+ 
+Symbol: CDSL 
+ISIN: INE736A01011 
+ 
+Subject: Business Responsibility and Sustainability Report for Financial Year 2022-23 
+ 
+Dear Sir/Madam, 
+ 
+Pursuant to Regulation 34(2)(f) of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations 2015, please find enclosed herewith Business Responsibility and Sustainability 
+Report (‘BRSR’) for the financial year 2022-2023, which also forms part of our Annual Report for 
+financial year 2022-23.  
+ 
+The 
+above 
+information 
+is 
+also 
+available 
+on 
+the 
+website 
+of the 
+Company 
+at 
+https://www.cdslindia.com/InvestorRels/AnnualReports.html  
+ 
+Kindly take the same on record. 
+ 
+ 
+Thanking you,  
+Yours faithfully, 
+For Central Depository Services (India) Limited 
+ 
+ 
+ 
+Nilay Shah 
+Group Company Secretary & Head Legal  
+Membership No.: A20586 
+Encl: a/a 
+NILAY 
+RAJENDRA 
+SHAH
+Digitally signed by 
+NILAY RAJENDRA 
+SHAH 
+Date: 2023.08.08 
+18:17:09 +05'30'
+Business Responsibility & Sustainability Report
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of the listed entity 
+Sr. 
+No.
+Particulars
+Details
+1.
+Corporate Identity Number (CIN) of the Listed Entity
+L67120MH1997PLC112443
+2.
+Name of the Listed Entity
+Central Depository Services (India) Limited
+3.
+Year of incorporation
+1997
+4.
+Registered office/Corporate address
+Unit No. A-2501, Marathon Futurex, Mafatlal Mills Compound, 
+N.M. Joshi Marg, Lower Parel (East), Mumbai - 400013
+5.
+E-mail
+shareholders@cdslindia.com
+6.
+Telephone
++91-22-23023333
+7.
+Website
+https://www.cdslindia.com
+8.
+Financial year for which reporting is being done
+2022-23
+9.
+Name of the Stock Exchange(s) where shares are listed
+National Stock Exchange of India Limited
+10.
+Paid-up Capital
+`10,450 Lakh
+11.
+Name and contact details (telephone, email address) of the person 
+who may be contacted in case of any queries on the BRSR report
+Name: Shri Nilay Shah
+Designation: Group Company Secretary and Head Legal
+Contact: + 91-22-23023333
+Email Id: shareholders@cdslindia.com
+12.
+Reporting boundary - Are the disclosures under this report made 
+on a standalone basis (i.e., only for the entity) or on a consolidated 
+basis (i.e., for the entity and all the entities which form a part of its 
+consolidated financial statements, taken together)
+Standalone
+II.	 Products/services
+14.	 Details of business activities (accounting for 90% of the turnover):
+S. 
+No.
+Description of Main Activity
+Description of Business Activity
+% Of Turnover of the entity
+1.
+Depository Services
+Financial services
+83%
+15.	 Products/Services sold by the entity (accounting for 90% of the turnover):
+S. 
+No.
+Product/Service
+NIC Code
+% of total Turnover contributed
+1.
+Depository Services
+64990
+83%
+III.	Operations
+16.	 Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of offices
+Total
+National
+-
+14
+14
+International
+-
+-
+-
+17.	 Markets served by the entity:
+a.	
+Number of locations
+Locations
+Number
+National (No. of States)
+Serving markets across India
+International (No. of Countries)
+-
+b.	
+What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+Not Applicable.
+Annexure-I
+130
+c.	
+A brief on types of customers
+	
+The depository’s business lines cater to a diverse group of customers such as Depository Participants, Issuers, Registrar 
+& Transfer Agents (RTAs), Clearing Members (CMs), Clearing Corporations (CCs).
+IV.	 Employees
+18.	 Details as at the end of Financial Year 2022-23
+a.	
+Employees (including differently abled):
+S. 
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+Employees
+1.
+Permanent (D)
+279
+211
+76%
+68
+24%
+2.
+Other than Permanent (E)
+167
+123
+74%
+44
+26%
+3.
+Total employees (D + E)
+446
+334
+75%
+112
+25%
+Note: The Company does not have any ‘worker’, as defined in the guidance note on BRSR, issued by SEBI. 
+b.	
+Differently abled employees:
+S. 
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+Differently abled employees
+1.
+Permanent (D)
+4
+3
+75%
+1
+25%
+2.
+Other than Permanent (E)
+0
+0
+0
+0
+0
+3.
+Total differently abled employees (D + E)
+4
+3
+75%
+1
+25%
+Note: The Company does not have any ‘worker’, as defined in the guidance note on BRSR, issued by SEBI. 
+19.	 Participation/Inclusion/Representation of women
+Total (A)
+No. and percentage of 
+Females
+No. (B)
+% (B/A)
+Board of Directors@
+9
+1
+11%
+Key Management Personnel*
+15
+1
+7%
+@ Board of Directors includes MD & CEO and Directors on Governing Board as on March 31, 2023.
+* Key Management Personnel refers to KMP as defined under Section 203(1) of the Companies Act, 2013 and SEBI (Depository & Participants) 
+Regulations, 2018 and does not include MD & CEO.
+20.	 Turnover rate for permanent employees:
+FY 2022-23
+FY 2021-22
+FY 2020-21
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+10.67%
+1.52%
+12.19%
+7.7%
+2.99%
+10.69%
+2.72%
+0.9%
+3.62%
+Permanent Workers
+Not Applicable
+V.	 Holding, Subsidiary and Associate Companies (including joint ventures)
+21.	 Names of holding/subsidiary/associate companies/joint ventures
+S. 
+No.
+Name of the holding/subsidiary/associate companies/
+joint ventures (A)
+Indicate whether 
+holding/Subsidiary/
+Associate/
+Joint Venture
+% of shares 
+held by 
+listed entity
+Does the entity indicated at column 
+A, participate in the Business 
+Responsibility initiatives of the 
+listed entity? (Yes/No)
+1.
+CDSL Ventures Limited
+Subsidiary
+100%
+No
+2.
+CDSL Insurance Repository Limited
+Subsidiary
+54.25%
+No
+3.
+CDSL Commodity Repository Limited
+Subsidiary
+52%
+No
+4.
+India International Bullion Holding IFSC Limited
+Associate
+20%
+No
+Corporate Overview
+Page 2 - 45
+Statutory Reports
+Page 46 - 157
+Financial Statements
+Page 158 - 283
+Annual Report 2022-23
+131
+VI.	 CSR Details
+22.	 (i)	
+Whether CSR is applicable as per Section 135 of Companies Act, 2013: (Yes/No): Yes.
+	
+(ii)	 Turnover (in ₹): ₹54,406.75 Lakh (as on March 31, 2023)
+	
+(iii)	 Net worth (in ₹): ₹96,585.54 Lakh (as on March 31, 2023)
+VII.	Transparency and Disclosures Compliances
+23.	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on 
+Responsible Business Conduct:
+Stakeholder group 
+from whom complaint 
+is received
+Grievance Redressal 
+Mechanism in Place 
+(Yes/No)
+FY 2022-23
+FY 2021-22
+(If Yes, then provide 
+web-link for grievance 
+redress policy)
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the year
+Remarks
+Communities
+-
+-
+-
+-
+-
+-
+-
+Investors (other than 
+shareholders)
+-
+-
+-
+-
+-
+-
+-
+Shareholders
+Yes**
+15
+0
+Complaints 
+were suitably 
+resolved in a 
+timely manner
+2
+0
+Complaints 
+were suitably 
+resolved in a 
+timely manner
+Employees and 
+workers
+Yes, Grievance redressal 
+mechanism is available 
+on the intranet portal of 
+the Company.
+1
+0
+Complaints 
+were suitably 
+resolved in a 
+timely manner
+0
+0
+-
+Customers
+Yes*
+6620
+124
+-
+15025
+476
+-
+Value Chain Partners
+Yes*
+0
+0
+-
+0
+0
+-
+Other (please specify) -
+-
+-
+-
+-
+-
+-
+* Customers/Value chain Partners can register their complaints/grievances at the Company’s following email id: complaints@cdslindia.com
+**Shareholders can register their complaints/grievances at the Company’s following email id: shareholders@cdslindia.com
+24.	 Overview of the entity’s material responsible business conduct issues
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or 
+mitigate the risk along-with its financial implications, as per the following format:
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk/
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or negative 
+implications)
+1.
+Digitisation
+(Social & 
+Environmental)
+Opportunity
+The Company recognizes the immense 
+social & environmental opportunity 
+in digitization for sustainability. By 
+electronically connecting stakeholders, 
+CDSL promotes paperless transactions, 
+actively reducing carbon footprints and 
+environmental harm. Our electronic 
+operations empower stakeholders to 
+embrace a “go green” approach.
+The Company aims to accelerate our 
+digital initiatives by innovating and 
+continuing to provide digital capital 
+market services such as eAGM, eDIS, 
+new 
+pledge/re-pledge 
+mechanism, 
+eCAS, and more. These initiatives cater 
+to evolving needs, providing convenient 
+accessibility from the comfort of one's 
+home.
+Not applicable
+Positive Impact:
+Through digital acceleration, 
+the Company has improvised 
+efficiency:
+	
+h Enabling 
+electronic 
+submission and receipt 
+of documents for DPs and 
+intermediaries.
+	
+h Eliminating paper-based 
+processes and workflows 
+to become a fully digital 
+organization.
+	
+h Enhancing 
+self-service 
+channels 
+to 
+provide 
+customers with efficient 
+and effective solutions for 
+routine needs, enhancing 
+their overall experience.
+132
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk/
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or negative 
+implications)
+2.
+Data Security
+Opportunity 
+& Risk
+Risk: Privacy and data security present 
+a significant risk for CDSL, especially 
+considering the increasing digitization 
+of financial services and the growth in 
+the number of digital users. As more 
+transactions and sensitive information 
+are being exchanged digitally, the risk of 
+cyber threats and unauthorized access 
+to privileged information becomes 
+increasingly prominent. Any breach 
+in data security could result in severe 
+consequences, including financial loss, 
+reputational damage, legal implications, 
+and loss of trust from stakeholders.
+Opportunity: However, by recognizing 
+data security as a material issue, 
+CDSL has the opportunity to establish 
+and maintain a robust information 
+security 
+structure. 
+This 
+entails 
+implementing advanced hardware & 
+software solutions, employing expert 
+manpower to monitor and respond 
+to potential threats, and developing 
+effective 
+operational 
+practices. 
+By 
+investing in these measures, CDSL can 
+mitigate cyber threats, ensure privacy 
+and data security for all stakeholders, 
+and safeguard privileged information. 
+Additionally, 
+having 
+a 
+strong 
+information security framework can 
+enhance CDSL's reputation as a trusted 
+depository, thereby facilitating business 
+expansion and attracting more investors 
+and market participants who value the 
+protection of their sensitive data.
+To address the risk of privacy and data 
+security, CDSL can implement several 
+measures:
+Robust 
+Information 
+Security 
+Infrastructure: 
+CDSL 
+invests 
+in 
+advanced 
+software 
+solutions, 
+firewalls, encryption techniques, and 
+intrusion detection systems to create 
+a secure environment for data storage 
+and transmission. This infrastructure 
+should be regularly updated and 
+tested to ensure its effectiveness 
+against emerging cyber threats.
+Expert Manpower: CDSL employs 
+a team of skilled professionals with 
+expertise in information security to 
+continuously monitor and respond 
+to potential threats. These experts 
+should be well-versed in the latest 
+security practices, industry standards, 
+and 
+regulations 
+to 
+ensure 
+the 
+implementation of effective security 
+measures.
+Training and Awareness: Conducting 
+regular 
+training 
+sessions 
+and 
+awareness programs for employees, 
+clients, 
+and 
+other 
+stakeholders 
+is vital. These initiatives should 
+focus on educating them about best 
+practices for data security, including 
+strong password management, safe 
+browsing 
+habits, 
+and 
+identifying 
+potential phishing attempts or social 
+engineering attacks.
+Positive:
+Business Expansion and 
+Market 
+Attraction: 
+By 
+proactively addressing data 
+security risks, CDSL can 
+enhance its reputation as a 
+trusted Depository. This can 
+attract new clients, investors, 
+and 
+market 
+participants 
+who 
+prioritize 
+the 
+protection of their sensitive 
+information. 
+Increased 
+business partnerships and 
+market attractiveness can 
+lead to positive financial 
+implications, such as revenue 
+growth and expanded market 
+share.
+Negative:
+Loss of Trust and Reputation, 
+Financial 
+Losses 
+and 
+Damages
+3.
+Diversity, 
+Equity and 
+inclusion
+Opportunity
+We ardently believe in advocating 
+for equity, diversity, and inclusion to 
+strengthen our business. Embracing a 
+workforce that is diverse and inclusive 
+can enhance performance, reputation, 
+innovation, and motivation. This will 
+contribute to fostering a more just 
+society while bolstering the strength of 
+our business.
+Not Applicable
+We prioritize providing equal 
+services to citizens across 
+the country, without any 
+differentiation, as we believe 
+in the power of inclusivity. 
+We actively seek out diverse 
+perspectives, 
+encouraging 
+innovation and creativity to 
+drive our business forward. 
+By continually learning and 
+evolving, we are dedicated to 
+making a positive impact on 
+society while strengthening 
+our business foundation.
+4.
+Social 
+responsibility 
+towards society
+Opportunity
+CDSL through its Corporate Social 
+Responsibility 
+(CSR) 
+programs 
+endeavors to enrich the lives of the 
+citizens of this country.
+CDSL believes that a nation progresses 
+when its communities are empowered. 
+Extending this belief to our Corporate 
+Social Initiatives, we remain committed 
+to enriching the lives of the citizens of 
+India. Our vision is to create a world 
+in which everyone can thrive through 
+social, environmental, and economic 
+progress.
+We 
+reached 
+out 
+to 
+the 
+socially 
+and 
+economically 
+disadvantaged 
+communities in association with 9 CSR 
+partners in FY 2022-23.
+CDSL focused on health, education, 
+environment, and research to leave a 
+visible impact.
+Not applicable
+Positive Impact:
+The Company recognizes the 
+importance of being socially 
+responsible and playing a 
+part in helping to uplift the 
+underprivileged.
+Our responsibility towards 
+contributing into the sectors 
+of education, environmental, 
+and 
+social 
+development 
+allows us to have a positive 
+impact on the Society.
+Corporate Overview
+Page 2 - 45
+Statutory Reports
+Page 46 - 157
+Financial Statements
+Page 158 - 283
+Annual Report 2022-23
+133
+S. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk/
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial implications of 
+the risk or opportunity 
+(Indicate positive or negative 
+implications)
+5.
+Financial 
+Literacy/
+Investor 
+Awareness
+Opportunity
+CDSL IPF conducts various investors 
+awareness 
+activities 
+aiming 
+at 
+promoting financial education from the 
+Depository point of view in particular 
+and other capital market initiatives in 
+general to educate investors to take an 
+informed decision with respect to any 
+matter related to capital market.
+Not Applicable
+Greater awareness amongst 
+investors 
+can 
+help 
+the 
+investors to take informed 
+investment decisions.
+6.
+Talent 
+Attraction and 
+Retention
+Risk
+By strategically focusing on talent 
+attraction, engagement, and retention, 
+your business can unlock additional 
+growth potential.
+Not Applicable
+Negative Impact:
+High attrition rates leads 
+to reduced efficiency and 
+associated financial losses.
+7.
+Governance 
+and 
+Compliance
+Opportunity 
+& Risk
+Opportunity: Effective compliance can 
+help in building brand trust.
+Robust compliance Risk Management 
+policies and procedures.
+Positive Impact: Effective 
+compliance 
+can 
+help 
+in 
+building reputation, brand 
+image 
+and 
+long 
+term 
+relationships.
+Negative Impact: Instances 
+of 
+non-compliances 
+can 
+result in fines/penalties, loss 
+of brand image.
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting 
+the NGRBC Principles and Core Elements
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1.	 a.	
+Whether your entity’s policy/policies cover each 
+principle and its core elements of the NGRBCs. 
+(Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+	
+b.	 Has the policy been approved by the Board? 
+(Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+	
+c.	
+Web Link of the Policies, if available
+https://www.cdslindia.com/InvestorRels/CorporateGovernance.html
+Some of the policies being internal documents are accessible only to the employees 
+through the Company’s intranet portal.
+2.	 Whether the entity has translated the policy into 
+procedures. (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3.	
+Do the enlisted policies extend to your value chain partners? (Yes/No)	
+	
+The Company has formalized the “Code of Conduct” for the directors and employees of the Company. The code also covers 
+all dealings with the vendor and other parties.
+4.	
+Name of the national and international codes/certifications/labels/standards (e.g. Forest Stewardship 
+Council, Fairtrade, Rainforest Alliance, Trustea) standards (e.g. SA 8000, OHSAS, ISO, BIS) adopted by 
+your entity and mapped to each principle.
+ 
+CDSL is certified for ISO 27001:2013 and ISO 22301:2019 Standards.
+ 
+Apart from the certifications, the Company is committed to providing a safe, healthy and harassment free work environment 
+to all its employees. The Company has adopted employee-oriented policies covering areas such as Diversity, Equity, and 
+prevention of sexual harassment at workplace, which endeavours to provide an environment of care, nurturance and 
+opportunity to accomplish professional aspirations.
+	
+The Company has adopted various policies for stakeholders and ensures good corporate governance practices as 
+stipulated under various regulatory statutes.
+134
+5.	
+Specific commitments, goals and targets set by the entity with defined timelines, if any.
+	
+As a Market Infrastructure Institution (MII), CDSL acknowledges its duty to drive sustainable progress with purpose 
+and has established clear commitments, goals, and targets. While there are no current mandatory targets or evaluation 
+processes for all policies, the company diligently monitors various aspects through ESG and CSR initiatives.
+ 
+Furthermore, we have formulated specific Environmental, Social, and Governance (ESG) goals as a key strategy for 
+achieving consistent, profitable, and responsible growth. Our mission is to address pressing concerns of our investors and 
+stakeholders, including climate change, green offerings, and promoting health, well-being, equity, diversity, and inclusion.
+ 
+You can find detailed information about CDSL’s ESG initiatives in the Annual Report.
+6.	
+Performance of the entity against specific commitments, goals and targets along-with reasons in case 
+the same are not met.
+	
+CDSL diligently monitors the progress of its sustainability growth goals and takes necessary actions when needed, 
+employing a robust governance mechanism. Various teams regularly report progress to the MD & CEO and Executive 
+Management Committee on a timely basis. This leads to assisting the Board in overseeing the ESG & CSR strategy, 
+governance, monitoring progress, and reviewing related policies, practices, initiatives, and goals to ensure their 
+effectiveness. While significant progress has been made, CDSL continues its commitment to enhancing performance and 
+addressing any existing gaps. The Company remains dedicated to sustainability and social responsibility, aiming to make 
+a positive impact on society and the environment.
+ 
+You can find detailed information about CDSL’s CSR initiatives in the Annual Report.
+Governance, leadership and oversight
+7.	
+Statement by director responsible for the business responsibility report, highlighting ESG related 
+challenges, targets and achievements
+	
+Please refer to the ESG initiatives and MD & CEO Message in the Annual Report.
+8.	
+Details of the highest authority responsible for implementation and oversight of the Business 
+Responsibility policy (ies).
+	
+The Board of Directors particularly the Managing Director & CEO is responsible for implementation of Business 
+Responsibility policies.
+9.	
+Does the entity have a specified Committee of the Board/Director responsible for decision making on 
+sustainability related issues? (Yes/No). If yes, provide details.
+ 
+Yes, Corporate Social Responsibility Committee and Risk Management Committee are the specified Committees of the 
+Board responsible for decision making on sustainability related issues.
+10.	 Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether review was undertaken 
+by Director/Committee of the  Board/Any 
+other Committee
+Frequency (Annually/Half yearly/
+Quarterly/Any other – please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above policies and follow 
+up action
+Policies as required by extant regulations and wherever stated in the report have been 
+approved by the Board/Committee of the Board.
+Relevant policies of the Company are reviewed periodically or on a need basis.
+Compliance with statutory requirements of 
+relevance to the principles, and, rectification 
+of any non-compliances
+Compliance with statutory requirements of relevance to the principles, and rectification 
+of any non-compliances is done by the necessary committees and the Board of Directors.
+Further, the Company complies with all applicable regulations. 
+11.	 Has the entity carried out independent assessment/evaluation of the working of its policies by an 
+external agency? (Yes/No). If yes, provide name of the agency.
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+No, the Board of Directors and Senior Management periodically review the policies in line with regulatory requirement and expectations 
+of the stakeholders. 
+Corporate Overview
+Page 2 - 45
+Statutory Reports
+Page 46 - 157
+Financial Statements
+Page 158 - 283
+Annual Report 2022-23
+135
+12.	 If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be 
+stated:
+Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity does not consider the Principles material to its business (Yes/No)
+Not Applicable
+The entity is not at a stage where it is in a position to formulate and implement the policies 
+on specified principles (Yes/No)
+The entity does not have the financial or/human and technical resources available for the 
+task (Yes/No)
+It is planned to be done in the next financial year (Yes/No)
+Any other reason (please specify)
+-
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core Elements 
+with key processes and decisions. The information sought is categorized as “Essential” and “Leadership”. While the essential 
+indicators are expected to be disclosed by every entity that is mandated to file this report, the leadership indicators may be 
+voluntarily disclosed by entities which aspire to progress to a higher level in their quest to be socially, environmentally and 
+ethically responsible.
+PRINCIPAL 1
+Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable.
+ESSENTIAL INDICATORS
+1.	
+Percentage coverage by training and awareness programmes on any of the Principles during the 
+financial year 2022-23:
+Segment
+Total number of training and awareness 
+programmes held
+Topics/principles covered under the training and 
+its impact
+Percentage 
+of persons in 
+respective 
+category covered 
+by the awareness 
+programmes
+Board of 
+Directors
+The Company conducted specific programs to facilitate the integration and understanding of new directors 
+and independent directors. These programs were designed to provide new directors with a comprehensive 
+overview of the company's operations, culture, governance structure, and strategic priorities.
+1.	 Induction Programme for new Directors
+2.	 Orientation & Familiarization Programme for Independent Directors
+3.	 Corporate Strategy
+4.	 Corporate Sustainability – Environmental, Social and Economic Responsibility.
+The Company provided regular presentations on various matters pertaining to the strategy of the 
+Company, business operations, regulatory updates, risk management mechanisms, and future outlook. 
+These presentations aimed to keep the directors and committee members informed and involved in the 
+decision-making process.
+100%
+Key 
+Managerial 
+Personnel*
+1.	 Training programs covers across all principals including topics such as but not limited to skill 
+upgradation like MS Excel for Business Intelligence Training, Communication & Presentation 
+Excellence Training, [Training on ESG (Environmental, Social and Corporate Governance) & Corporate 
+Risk Management to KMP]
+2.	 Health & Safety Training, Prevention of Sexual Harassment at Workplace (POSH) Training, New Labour 
+Codes - Implementation & (Standing Orders, Psychology of Strategic Leadership – Young Women
+100%
+Employees 
+other than 
+BOD
+Note: The Company does not have any ‘worker’, as defined in the guidance note on BRSR, issued by SEBI. 
+* Key Managerial Personnel refers to KMP as defined under Section 203 (1) of the Companies Act, 2013 and SEBI (Depository & Participants) Regulations, 
+2018.
+136
+2.	
+Details of fines/penalties/punishment/award/compounding fees/settlement amount paid in 
+proceedings (by the entity or by directors/KMPs) with regulators/law enforcement agencies/judicial 
+institutions, in the financial year, in the following format (Note: the entity shall make disclosures 
+on the basis of materiality as specified in Regulation 30 of SEBI (Listing Obligations and Disclosure 
+Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+Monetary
+NGRBC
+Principle
+Name of the regulatory/
+enforcement agencies/
+judicial institutions
+Amount
+(In ₹)
+Brief of 
+the Case
+Has an appeal 
+been preferred? 
+(Yes/No)
+Penalty/Fine
+Nil
+NA
+Nil
+NA
+NA
+Settlement
+Nil
+NA
+Nil
+NA
+NA
+Compounding fee
+Nil
+NA
+Nil
+NA
+NA
+Non-Monetary
+NGRBC 
+Principle
+Name of the regulatory/
+enforcement agencies/
+judicial institutions
+Brief of 
+the Case
+Has an appeal 
+been preferred? 
+(Yes/No)
+Imprisonment
+Nil
+NA
+NA
+NA
+Punishment
+Nil
+NA
+NA
+NA
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/Revision preferred in cases where 
+monetary or non-monetary action has been appealed.
+Case Details
+Name of the regulatory/enforcement agencies/judicial institutions
+NA
+NA
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if 
+available, provide a web-link to the policy.
+	
+Yes, we have in place a policy on Anti-Bribery & Anti-Corruption (ABC). This Policy emphasizes CDSL’s zero tolerance 
+towards bribery and corruption practices and reflects CDSL’s commitment for maintaining the highest ethical standards 
+and best practices of Corporate Governance.
+ 
+CDSL prohibits all forms of bribery and corruption practices involving, but not limited to, Public Official or a private 
+sector person or company.
+	
+The Company’s Anti-Bribery & Anti-Corruption (ABC) policy is available and easily accessible on the Company’s website. 
+The policy can be accessed at:
+	
+https://www.cdslindia.com/Anti-BriberyandAnti-CorruptionPolicy.pdf
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any 
+law enforcement agency for the charges of bribery/corruption:
+FY 2022-23
+FY 2021-22
+Directors
+Nil
+Nil
+KMPs
+Nil
+Nil
+Employees
+Nil
+Nil
+Workers
+NA
+NA
+6.	
+Details of complaints with regard to conflict of interest:
+FY 2022-23
+FY 2021-22
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to issues of Conflict of Interest of the Directors
+Nil
+NA
+Nil
+NA
+Number of complaints received in relation to issues of Conflict of Interest of the KMPs
+Nil
+NA
+Nil
+NA
+7.	
+Provide details of any corrective action taken or underway on issues related to fines/penalties/
+action taken by regulators/law enforcement agencies/judicial institutions, on cases of corruption and 
+conflicts of interest
+ 
+During the reporting period, there have been no instances of cases of corruption and conflicts of interest that requires 
+action by regulators/law enforcement agencies/judicial institutions.
+Corporate Overview
+Page 2 - 45
+Statutory Reports
+Page 46 - 157
+Financial Statements
+Page 158 - 283
+Annual Report 2022-23
+137
+LEADERSHIP INDICATORS
+1.	
+Awareness programmes conducted for value chain partners on any of the Principles during the 
+financial year:
+Total number 
+of awareness 
+programmes held
+Topics/principles covered under the training 
+%age of value chain partners 
+covered (by value of business 
+done with such partners) under 
+the awareness programmes 
+4
+Depository Participants Training - Includes functional and operational overview 
+about CDSL and CDAS system. 
+100%
+2
+Registrar & Transfer Agents Training (RTA) - Includes overview on CDSL.
+100%
+11
+NISM CPE Programs for Depository Operations Certification Examination (DOCE)
+100%
+1
+Compliance Officers/Internal & Concurrent Auditors Training 
+100%
+2.	
+Does the entity have processes in place to avoid/manage conflict of interests involving members of the 
+Board? (Yes/No) If Yes, provide details of the same.
+ 
+Yes, our company has code of conduct for Directors and senior management that addresses actual or potential conflict of 
+interest and ensures that business is conducted in ethical manner. Our Company’s code of conduct complies with all the 
+governed laws and regulations; including mechanisms to resolve ethical issues & unethical conduct, legitimate handling 
+of conflicts of interest and fostering culture of transparency, honesty and accountability. Independent Internal auditors 
+are appointed to ensure that appropriate systems and controls are maintained and their effectiveness or otherwise is 
+being reported to the Company’s Board of Directors. Directors and KMP are required to make appropriate disclosures 
+on potential areas of conflict of interest which would impair its ability to render fair, objective and unbiased services. 
+Further, interested directors recuse from participating in the interested items.
+PRINCIPAL 2
+Businesses should provide goods and services in a manner that is sustainable and safe.
+ESSENTIAL INDICATORS
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve 
+the environmental and social impacts of product and processes to total R&D and capex investments 
+made by the entity, respectively.
+FY 2022-23
+FY 2021-22
+Details of improvements in environmental and social impacts
+R&D
+Not Applicable
+Capex
+2.	
+a.	
+Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+	
+	
+No, the principle form of sourcing is an electronic form to our customers which is a sustainable medium from an 
+environment standpoint and further the cause of “going green”.
+	
+b.	
+If yes, what percentage of inputs were sourced sustainably?
+	
+	
+As the Company is in the depository business, the same is not applicable to the Company.
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the 
+end of life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+	
+Our primary waste products are data storage devices which are digitally degaussed to destroy the data. Later these 
+devices are disposed through reputed and certified disposers. Secondary waste generated by us is handed over to 
+premises manager, which in turn have processes to recycle, wherever possible like sewage treatment plant, organic waste 
+converter, bottle crushers, etc. Further, the Company has undertaken initiatives to reduce its paper usage.
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes/No). If 
+yes, whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan 
+submitted to Pollution Control Boards? If not, provide steps taken to address the same.
+	
+As the nature of the business is service oriented, Extended Producer Responsibility is not applicable.
+138
+LEADERSHIP INDICATORS
+1.	
+Has the entity conducted Life Cycle Perspective/Assessments (LCA) for any of its products (for 
+manufacturing industry) or for its services (for service industry)? If yes, provide details in the following 
+format?
+NIC Code
+Name of 
+product/
+service
+% of total 
+turnover 
+contributed
+Boundary for which the Life Cycle 
+Perspective/Assessment was 
+conducted
+Whether conducted by 
+independent external 
+agency (Yes/No)
+Results communicated in public 
+domain (Yes/No) If yes, provide 
+the web-link
+Not Applicable
+2.	
+If there are any significant social or environmental concerns and/or risks arising from production or 
+disposal of your products/services, as identified in the Life Cycle Perspective/Assessments (LCA) or 
+through any other means, briefly describe the same along-with action taken to mitigate the same.
+Name of Product/service
+Description of the risk/concern
+Action Taken
+Not Applicable
+3.	
+Percentage of recycled or reused input material to total material (by value) used in production (for 
+manufacturing industry) or providing services (for service industry).
+Indicate input material
+Recycled or re-used material to total material
+FY 2022-23
+FY 2021-22
+Nil
+4.	
+Reclaimed products and their packaging materials (as percentage of products sold) for each product 
+category.
+Indicate product category
+Reclaimed products and their packaging materials as % of total products sold in respective category
+Not Applicable
+PRINCIPAL 3
+Businesses should respect and promote the well-being of all employees, including those in their 
+value chains.
+ESSENTIAL INDICATORS
+1.	
+a.	
+Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total 
+(A)
+Health Insurance
+Accident Insurance
+Maternity benefits
+Paternity benefits
+Day Care facilities
+Number 
+(B)
+%
+(B/A)
+Number 
+(C)
+%
+(C/A)
+Number 
+(D)
+%
+(D/A)
+Number 
+(E)
+%
+(E/A)
+Number 
+(F)
+%
+(F/A)
+Permanent Employees
+Male
+211
+211
+100%
+211
+100%
+NA
+NA
+211
+100%
+211
+100%
+Female
+68
+68
+100%
+68
+100%
+68
+100%
+NA
+NA
+68
+100%
+Total
+279
+279
+100%
+279
+100%
+68
+24%
+211
+76%
+279
+100%
+Other than Permanent Employees
+Male
+Not Applicable
+Female
+Total
+Corporate Overview
+Page 2 - 45
+Statutory Reports
+Page 46 - 157
+Financial Statements
+Page 158 - 283
+Annual Report 2022-23
+139
+	
+c.	
+Details of measures for the well-being of workers:
+Category
+% of employees covered by
+Total (A)
+Health Insurance
+Accident Insurance
+Maternity benefits
+Paternity benefits
+Day Care facilities
+Number 
+(B)
+%
+(B/A)
+Number 
+(C)
+%
+(C/A)
+Number 
+(D)
+%
+(D/A)
+Number 
+(E)
+%
+(E/A)
+Number 
+(F)
+%
+(F/A)
+Permanent Employees
+Male
+The Company does not have any ‘worker’, as defined in the guidance note on BRSR, issued by SEBI.
+Female
+Total
+Other than Permanent Employees
+Male
+The Company does not have any ‘worker’, as defined in the guidance note on BRSR, issued by SEBI.
+Female
+Total
+2.	
+Details of retirement benefits, for Current FY and Previous Financial Year.
+Benefits
+FY 2022-23 
+FY 2021-22
+No. of employees 
+covered as a % of 
+total employees 
+No. of workers 
+covered as a % 
+of total workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N. A)
+No. of employees 
+covered as a % of 
+total employees 
+No. of workers 
+covered as a % 
+of total workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N. A)
+PF
+100%
+NA
+Yes
+100%
+NA
+Yes
+Gratuity
+100%
+NA
+Yes
+100%
+NA
+Yes
+ESI
+Please refer note 
+NA
+NA
+Please refer note 
+NA
+NA
+Others – please specify
+NA
+NA
+NA
+NA
+NA
+NA
+Note:  All the employees of CDSL are beyond the threshold salary for ESI compliances.
+3.	
+Accessibility of workplaces
+	
+Are the premises/offices of the entity accessible to differently abled employees and workers, as per the requirements 
+of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this 
+regard.
+ 
+Our Corporate offices has wheelchair and wheelchair friendly elevators which can be accessed from the lobby as well as 
+parking lot, thus making access friendly to our differently abled employees and visitors.
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 
+2016? If so, provide a web-link to the policy.
+	
+The Company endeavours to provide a safe, secure, and congenial work environment, so that employees can deliver 
+their best without inhibition. The essence of fairness and meritocracy is based on a rule-based framework that is non-
+discriminatory and gives equal opportunities to all individuals irrespective of gender, color, religion, caste, race, age, 
+community, physical ability, or sexual orientation. The Company has put in place a robust grievance redressal process for 
+investigation of employee concerns and has instituted a procedure on ethical code of conduct of employees and Service 
+and conduct Rules for employees that clearly delineate employee responsibilities and acceptable employee conduct. 
+Together, these constitute the foundation for the promotion of a diverse and inclusive culture at the workplace. Further, 
+the Policy is available on the Company’s intranet portal.
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent Employees
+Permanent Workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+100%
+100%
+NA
+NA
+Female
+100%
+100%
+NA
+NA
+Total
+100%
+100%
+NA
+NA
+140
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of 
+employees and worker? If yes, give details of the mechanism in brief.
+Yes/No
+(If Yes, then give details of the mechanism in brief)
+Permanent workers
+NA
+Other than Permanent workers
+NA
+Permanent Employees
+Yes, the Company has formulated a Whistle Blower Policy that provides a secure environment for 
+employees to report any matters of concern enabling stakeholders to report any concern of unethical 
+behaviour, suspected fraud or violation. The said policy inter-alia provides safeguard against 
+victimization of the Whistle Blower. Stakeholders including Directors and Employees have access to the 
+Chairperson of the Audit Committee. The Company is having the detailed Grievance redressal procedure 
+provided in its Service and Conduct rules which is accessible to all the employees at all times. The 
+procedure is segregated for various categories of employees such as KMPs, Non KMPs etc. The process 
+specifically mentions about representation of grievance, investigation, redressal, timelines, decision 
+making authority, record maintenance etc.
+Other than Permanent Employees
+NA
+7.	
+Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+Category
+FY 2022-23
+FY 2021-22
+Total employees/
+workers in 
+respective category
+No. of employees/workers in 
+respective category, who are 
+part of association(s) or Union
+% 
+(B/A)
+Total employees/
+workers in 
+respective category
+No. of employees/workers in 
+respective category, who are 
+part of association(s) or Union
+% 
+(D/C)
+Permanent Employees
+Male
+Not Applicable
+Not Applicable
+Female
+Total
+Permanent Workers
+Male
+Not Applicable
+Not Applicable
+Female
+Total
+8.	
+Details of training given to employees and workers:
+Category
+FY 2022-23
+FY 2021-22
+Total
+(A)
+On Health and 
+Safety measures
+On Skill 
+upgradation
+Total
+(D)
+On Health and 
+Safety measures
+On Skill 
+upgradation
+No.
+(B)
+%
+(B/A)
+No.
+(C)
+%
+(C/A)
+No.
+(E)
+%
+(E/D)
+No.
+(F)
+%
+(F/D)
+Employees
+Male
+211
+9
+4.27%
+110
+52%
+195
+-
+-
+84
+43%
+Female
+68
+3
+4.41%
+44
+65%
+51
+-
+-
+24
+47%
+Total
+279
+12
+4.30%
+154
+55%
+246
+-
+-
+108
+44%
+Workers
+Male
+Not Applicable
+Female
+Total
+9.	
+Details of performance and career development reviews of employees and worker:
+Category
+FY 2022-23
+FY 2021-22
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C)
+Employees
+Male
+211
+203
+96%
+195
+181
+93%
+Female
+68
+63
+93%
+51
+47
+92%
+Total
+279
+266
+95%
+246
+228
+93%
+Workers
+Male
+Not Applicable
+Female
+Total
+Corporate Overview
+Page 2 - 45
+Statutory Reports
+Page 46 - 157
+Financial Statements
+Page 158 - 283
+Annual Report 2022-23
+141
+10.	 Health and safety management system:
+	
+a.	
+Whether an occupational health and safety management system has been implemented by the entity? 
+(Yes/No). If yes, the coverage such system?
+	
+	
+Yes, Employee well-being and psychological safety continue to be a priority of the Company. The Company conducts 
+periodic trainings on fire safety and fire-fighting equipment along with the evacuation drills. Further, inspection of 
+extinguishers is undertaken regularly.
+	
+	
+Apart from Health Insurance and Accident Policy, The Company is arranging annual Health check up facility for all 
+employees free of cost.
+	
+b.	
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine 
+basis by the entity?
+ 
+ 
+Since our Company is a financial services entity, it is not applicable. However, to minimise pandemic -related risks, 
+the Company undertook several precautions at its offices, which included:
+	
+h Installation of hands-free sanitizer dispenser;
+	
+h The Company has made available instruments to monitor Blood Pressure and Oxygen levels;
+	
+h The Company is in advance stage of planning a doctor on call facility or visiting doctor on a pre-fixed timing; and
+	
+h The Company conducts regular fire drills during which the employees are briefed on identifying and 
+eliminating hazards.
+	
+c.	
+Whether you have processes for workers to report the work related hazards and to remove themselves from 
+such risks. (Yes/No)
+ 
+ 
+Since our Company is a financial services entity, it is not applicable. A grievance redressal mechanism is in place 
+under which the employees can report grievances resulting from working conditions due to Poor safety and bad 
+physical conditions the employees are encouraged to offer their suggestions for improvements in safety, considering 
+the nature of activity of the Company.
+	
+d.	
+Do the employees/worker of the entity have access to non-occupational medical and healthcare services? (Yes/No)
+	
+	
+Yes, all employees of the Company are covered under our health insurance and accident policy. The Company has 
+well-defined medical and healthcare policies and allied services. Apart from Health Insurance and Accident Policy, 
+the Company provides facility of annual health check up facility for all employees free of cost.
+ 
+ 
+Selective employees are given periodic training on basic and advanced fire safety and including evacuation drills.
+11.	 Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category
+FY 2022-23
+FY 2021-22
+Lost Time Injury Frequency Rate (LTIFR) (per one million-person hours worked)
+Employees
+Nil
+Nil
+Total recordable work-related injuries
+Employees
+Nil
+Nil
+No. of fatalities
+Employees
+Nil
+Nil
+High consequence work-related injury or ill-health (excluding fatalities)
+Employees
+Nil
+Nil
+Note: The Company does not have any ‘worker’, as defined in the guidance note on BRSR, issued by SEBI. 
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace.
+	
+Well-being and providing health, safe and secure workplace to all employees is a key priority for the Company. Considering 
+nature of business, following are the key measures taken by the Company:
+	
+h The Company has conducted precautions for basic health safety, CPR, 1st Aid and basic firefighting training.
+	
+h Premise Floorplans are displayed at crucial locations.
+	
+h Frequent equipment checks are carried out to mitigate any wear and tear due to continued use, E.g.: Air Conditioners.
+	
+h The Company has also conducted Indoor Air quality check.
+	
+h Fire alarm systems and smoke detectors are installed at all premises.
+	
+h Health and Accident Insurance.
+	
+h Mediclaim Insurance.
+142
+13.	 Number of Complaints on the following made by employees and workers:
+ 
+FY 2022-23
+FY 2021-22
+Filed during 
+the year
+Pending resolution at 
+the end of year
+Remarks
+Filed during 
+the year
+Pending resolution at 
+the end of year
+Remarks
+Working Conditions
+0
+0
+-
+0
+0
+- 
+Health & Safety
+0
+0
+-
+0
+0
+-
+14.	 Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory authorities or third parties)
+Health and safety practices
+Not Applicable*
+Working Conditions
+* The Company has conducted precautions for basic health and safety, CPR, 1st Aid and basic firefighting training. The Company has also conducted 
+Indoor Air quality check.
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) 
+and on significant risks/concerns arising from assessments of health & safety practices and working 
+conditions
+	
+Not Applicable.
+LEADERSHIP INDICATORS
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of death of (A) 
+Employees (Y/N) (B) Workers (Y/N).
+	
+(A)	 Employees – Yes, the Company provides life insurance cover.
+	
+(B)	 Workers – Not applicable.
+2.	
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and 
+deposited by the value chain partners.
+	
+Necessary due diligence undertaken by the concerned department for appropriate steps to ensure statutory dues before 
+settlement of dues.
+3.	
+Provide the number of employees/workers having suffered high consequence work-related injury/ 
+ill-health/fatalities (as reported in Q11 of Essential Indicators above), who have been rehabilitated and 
+placed in suitable employment or whose family members have been placed in suitable employment:
+Total no. of affected employees/workers
+No. of employees/workers that are 
+rehabilitated and placed in suitable 
+employment or whose family members 
+have been placed in suitable employment
+FY 2022-23
+FY 2021-22
+FY 2022-23
+FY 2021-22
+Employees
+0
+0
+0
+0
+Workers
+Not Applicable
+4.	
+Does the entity provide transition assistance programs to facilitate continued employability and the 
+management of career endings resulting from retirement or termination of employment? (Yes/No)
+	
+No, the Company does not currently offer any transition assistance programs.
+5.	
+Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such partners) that were assessed
+Health and safety practices
+Not Applicable
+Working Conditions
+6.	
+Provide details of any corrective actions taken or underway to address significant risks/concerns 
+arising from assessments of health and safety practices and working conditions of value chain 
+partners:
+	
+Not Applicable.
+Corporate Overview
+Page 2 - 45
+Statutory Reports
+Page 46 - 157
+Financial Statements
+Page 158 - 283
+Annual Report 2022-23
+143
+PRINCIPAL 4
+Businesses should respect the interests of and be responsive to all its stakeholders.
+ESSENTIAL INDICATORS
+1.	
+Describe the processes for identifying key stakeholder groups of the entity. 
+ 
+Individuals and organizations having significant impact on the operations of the Company are considered as stakeholders 
+of the Company.
+2.	
+List of stakeholder groups identified as key for your entity and the frequency of engagement with 
+each stakeholder group.
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group 
+(Yes/No)
+Channels of communication
+Frequency of 
+engagement
+Purpose and scope of engagement including key 
+topics and concerns raised during such engagement 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings,  
+Notice Board, Website), Other 
+(Annually/Half 
+yearly/Quarterly/
+others – please 
+specify)
+Investors
+No
+Emails, Investor awareness 
+programs, SMSs, Social Media, 
+Website
+On need basis
+To educate investor from the depository point of 
+view in particular to take informed decision 
+Employees
+No
+Direct, Email, Town Halls, whistle-
+blower mechanism, Annual 
+performance appraisals and Other 
+employee engagement events
+On need basis
+	x
+Training & Development;
+	x
+Update on Organization's development/
+changes/progress;
+	x
+Update on employee-related policy changes;
+	x
+Update on Employee Wellness/welfare 
+measures.
+Shareholders 
+No
+Email, SMS, Newspaper, 
+Advertisement, Notice, Website, 
+Annual General Meeting, intimation 
+to stock exchange, press release, 
+investors meeting, annual report
+Quarterly and 
+Event based
+	x
+Awareness  about developments and 
+performance of the Company;
+	x
+To address concerns/grievances.
+Regulatory 
+Bodies
+No
+Emails, Meetings, Website, 
+Quarterly/Annual and event based 
+filing
+Quarterly and 
+Event based
+	x
+To aware them about developments in the 
+Company; 
+	x
+To aware them about material changes in the 
+Company;
+	x
+Compliances with regulatory requirements.
+Vendors and 
+Bankers
+No
+Email, SMS, Calls, Digital Platforms
+Event based
+	x
+Due – diligence during Onboarding product 
+and Service Support;
+	x
+Commercial Services.
+Depository 
+Participants
+No
+Email, SMS, Calls, Communiques, 
+Digital Platforms 
+Quarterly/Half 
+yearly/Annually 
+and Event based
+Inspection/Compliances and support 
+Issuers
+No
+Email, SMS, Calls, Communiques
+Event based
+Statutory Compliances
+Registrar and 
+Transfer Agents
+No
+Email, SMS, Calls, Digital Platforms
+Quarterly and 
+Event based
+Compliances, Data storage
+Stock Exchanges/
+Clearing 
+Corporations
+No
+Email, SMS, Calls, Digital Platforms
+Quarterly and 
+Event based
+	x
+Statutory and Regulatory compliances;
+	x
+Clearing and settlement of all trades
+LEADERSHIP INDICATORS
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, 
+and social topics or if consultation is delegated, how is feedback from such consultations provided to 
+the Board.
+	
+CDSL recognizes the importance of engaging with stakeholders on economic, environmental, and social topics, and values 
+their input in shaping our operations and decision-making processes. We have established a robust consultation framework 
+to facilitate this engagement. Our consultation process involves regular interactions and communication with stakeholders, 
+including vendors, market participants, and other relevant parties. These engagements provide us with valuable insights 
+and perspectives on various issues and help us understand the concerns and expectations of our stakeholders.
+	
+Furthermore, we have implemented a reporting mechanism to provide feedback from stakeholder consultations to the 
+Board. This includes timely reports that highlight the key findings, concerns, and recommendations gathered during the 
+consultation process. By sharing this feedback with the Board, we ensure that they are informed about the insights and 
+opinions of stakeholders on economic, environmental, and social topics.
+144
+	
+Overall, CDSL remains committed to fostering an inclusive and transparent consultation process, enabling effective 
+dialogue between stakeholders and the Board on matters pertaining to the economy, environment, and society.
+2.	
+Whether stakeholder consultation is used to support the identification and management of 
+environmental, and social topics (Yes/No). If so, provide details of instances as to how the inputs 
+received from stakeholders on these topics were incorporated into policies and activities of the entity.
+	
+Enhancing value to stakeholders is a continuous Company process. We engage in regular consultations with stakeholders, 
+including investors, market participants, regulatory bodies, and community representatives. These consultations provide 
+us with valuable insights and perspectives on environmental and social issues that are important to our stakeholders.
+	
+The inputs received from these consultations are carefully reviewed and analyzed by our team. We assess the relevance 
+and significance of the feedback and consider how it aligns with our strategic goals and commitments. This information 
+is then incorporated into the development and review of our policies and activities related to environmental and 
+social topics.
+	
+For example, if stakeholders raise concerns about the environmental/social impact of our operations, we evaluate those 
+concerns and explore opportunities for improvement.
+	
+It allows us to identify areas for improvement, incorporate diverse perspectives, and ensure that our actions align with 
+the expectations of our stakeholders and contribute to a more sustainable future.
+3.	
+Provide details of instances of engagement with, and actions taken to, address the concerns of 
+vulnerable/marginalized stakeholder groups.
+	
+CDSL puts an extra effort to engage with the disadvantaged, vulnerable, and marginalized stakeholders enriching their 
+lives through social and economical progress by providing education and healthcare facilities across the country through 
+our CSR programs and Initiatives.
+	
+Education:
+ 
+�	
+Rotary: Adult Literacy Program for Women in Palghar, Maharashtra
+	
+	
+To empower illiterate tribal women in their Native language, Prerikas (trained teachers) have taught approximately 
+4000+ tribal women using Computer Based Functional Literacy (CBFL) and digital skills program through animate 
+graphics for easy visuals and audio learning and functional learning in native language. Helping them adapt to the 
+changing world and connect them with the outer world and grow.
+ 
+�	
+AARTH: Online Academy for Financial Literacy & Support
+ 
+ 
+AARTH provides simple, in-depth financial knowledge through an easily accessible online academy for learners 
+among the age group of 18-25 years in Tier II & Tier III Cities. Learners can test their knowledge by giving an in-built 
+free of cost online exam and gain certifications.
+	
+	
+100 webinars/seminars were conducted in 30 cities across India with 60 videos available in English, Hindi & 
+Marathi languages.
+ 
+�	
+Educate Girls: Enrolment-Retention-Learning of out-of-school girls in Dudhi & Mayorpur blocks of Robertsganj, 
+Uttar Pradesh
+	
+	
+Educate Girls ensures enrolment, retention, and learning outcomes for out-of-school girls in some of the most 
+educationally backward locations Uttar Pradesh. The field staff of Educate Girls & Team Balika identify and approach 
+“Out of School Girls” girls who had never enrolled for school or had to discontinue their primary education. Around 
+2,700+ “out-of-school girls" were enrolled in schools.
+	
+Healthcare:
+ 
+�	
+Narayana Hrudayalaya Charitable Trust (NHCT): Give 4 Life Program in Maharashtra, Karnataka, Haryana 
+& Rajasthan
+	
+	
+Supported medical treatment of 61 disadvantaged patients seeking treatment for life-threatening conditions & life 
+changing disorders.
+ 
+�	
+Swades Foundation: Children with Special Needs (CWSN) in Raigad & Nashik, Maharashtra
+	
+	
+Rural communities of Raigad & Nashik in Maharashtra struggle with unaffordable medical facilities relating to 
+Hearing Disability, Paediatric Eye Care and Cardiac problems. Swades Foundation ensured cost-free treatments, 
+surgeries, and medical care to these disadvantaged communities and screened 4,215 underprivileged children 
+and conducted 524 surgeries. Approximately, 1000 children benefited from the program.
+Corporate Overview
+Page 2 - 45
+Statutory Reports
+Page 46 - 157
+Financial Statements
+Page 158 - 283
+Annual Report 2022-23
+145
+ 
+�	
+Smile Foundation: Smile on Wheels in Jaisalmer, Rajasthan
+	
+	
+A mobile healthcare vehicle reaching the doorsteps of hard-to-reach communities especially for women and children 
+of the border areas of Jaisalmer, Rajasthan. The vehicle is fully equipped with a medical personnel along with a 
+weekly consultation with gynaecologist for women. The team facilitates free OPD services by navigating to the 
+nearest hospitals, aiding with medicines & regular follow-ups. Benefitting 4,000+ people and conducting 65+ OPDs.
+PRINCIPAL 5
+Businesses should respect and promote human rights.
+ESSENTIAL INDICATORS
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of 
+the entity, in the following format:
+Benefits
+FY 2022-23
+FY 2021-22
+Total
+(A)
+No. of employees/
+workers covered (B)
+%
+(B/A)
+Total
+(C)
+No. of employees/
+workers covered (D)
+%
+(D/C)
+Employees
+Permanent
+279
+279
+100%
+246
+246
+100%
+Other than permanent
+-
+-
+-
+-
+-
+-
+Total Employees
+279
+279
+100%
+246
+0
+0%
+Note: The Company does not have any ‘worker’, as defined in the guidance note on BRSR, issued by SEBI.
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+Category
+FY 2022-23
+FY 2021-22
+Total
+(A)
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+Total
+(D)
+Equal to 
+Minimum Wage
+More than 
+Minimum Wage
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Permanent
+Male
+211
+0
+0%
+211
+100%
+195
+0
+0%
+195
+100%
+Female
+68
+0
+0%
+68
+100%
+51
+0
+0%
+51
+100%
+Other than Permanent
+Male
+Not Applicable
+Female
+3.	
+Details of remuneration/salary/wages, in the following format:
+Male
+Female
+Number
+Median remuneration/salary/
+wages of respective category 
+(in ₹)
+Number
+Median remuneration/salary/
+wages of respective category 
+(in ₹)
+Board of Directors (BOD)*
+1
+3,68,12,350
+-
+-
+Key Management Personnel@
+13
+59,42,538
+1
+1,82,25,123
+Employees other than BOD and KMP
+197
+11,88,076
+67
+7,60,282
+Workers
+Not Applicable
+Note: Non-Executive Director do not draw any remuneration from the Company except the Sitting fees.
+* includes Managing Director and CEO.
+@ Key Management Personnel refers to KMP as defined under Section 203 (1) of the Companies Act, 2013 and SEBI (Depository & Participants) 
+Regulations, 2018, and does not include MD & CEO.
+4.	
+Do you have a focal point (Individual/Committee) responsible for addressing human rights impacts 
+or issues caused or contributed to by the business? (Yes/No)
+	
+Yes, there are committee responsible for human rights impacts and issues. For instance, the Company has zero tolerance 
+for sexual harassment at workplace and is compliant with provisions relating to the constitution of Internal Complaints 
+Committee under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013.
+146
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+	
+The Company’s DNA articulates ‘Conduct, Competency, Compliance and Conscience’ as a key threshold behaviour.
+	
+Policy on prevention of Sexual Harassment (POSH) is in place as a part of Service Rules of the Company wherein, it is 
+mentioned that Complainants or Witnesses will not be victimized or discriminated against while dealing with complaints.
+	
+Grievance Redressal Policy: We have a dedicated Grievance Redressal Policy that outlines the procedure for reporting 
+and resolving human rights grievances. This policy sets clear guidelines on how grievances should be reported, 
+investigated, and resolved.
+	
+Confidential Reporting: We provide multiple channels for individuals to report human rights grievances, including 
+confidential reporting mechanisms such as hotlines, anonymous reporting tools, or designated individuals who can 
+receive complaints in a secure and confidential manner. These channels ensure that individuals feel safe and protected 
+when reporting their concerns.
+	
+Continuous Improvement: We regularly review and enhance our grievance redressal mechanisms to ensure their 
+effectiveness. This includes collecting feedback from individuals who have gone through the grievance process and 
+incorporating their suggestions for improvement.
+6.	
+Number of Complaints on the following made by employees and workers:
+ 
+FY 2022-23
+FY 2021-22
+Filed during 
+the year
+Pending resolution at 
+the end of the year
+Remarks
+Filed during 
+the year
+Pending resolution at 
+the end of the year
+Remarks
+Sexual Harassment
+1
+0
+Disposed Off
+0
+0
+NA
+Discrimination at workplace
+0
+0
+NA
+0
+0
+NA
+Child Labour
+0
+0
+NA
+0
+0
+NA
+Forced Labour/Involuntary Labour
+0
+0
+NA
+0
+0
+NA
+Wages
+0
+0
+NA
+0
+0
+NA
+Other human rights related issues
+0
+0
+NA
+0
+0
+NA
+7.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment 
+cases.
+	
+Our policies and Code of Conduct strictly prohibit any kind of discrimination and harassment and also spells out action 
+that can be taken against any such activity. The Company has formulated a Whistle Blower Policy to encourage employees 
+to report matters without the risk of subsequent victimization, discrimination or disadvantage which is available on 
+our website.
+	
+In addition to the above, the Company has instituted several policies to ensure adherence to existing statutory laws and 
+regulations such as the Prevention of Sexual Harassment at the Workplace Policy (POSH) as part of Service Rule which is 
+available on Company’s Intranet Portal.
+	
+The Company’s Code of Conduct and Ethics complies with all the governed laws and regulations; including mechanisms 
+to resolve ethical issues & unethical conduct, legitimate handling of conflicts of interest and fostering culture of 
+transparency, honesty, and accountability.
+8.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+ 
+Yes, the business agreements and contracts which are entered into by the Company with any party include affirmation of 
+applicable regulatory requirements, including those pertaining to human rights as and where relevant.
+9.	
+Assessments for the year:
+ 
+% of your plants and offices that were assessed (by entity or statutory authorities or third parties)
+Child labour
+During the reporting period, no external audits were carried out by the Company or statutory 
+authorities or third parties.
+Forced/Involuntary labour
+Sexual harassment
+Discrimination at workplace
+Wages
+Others – please specify
+10.	 Provide details of any corrective actions taken or underway to address significant risks/concerns 
+arising from the assessments at Question 9 above.
+	
+Not Applicable.
+Corporate Overview
+Page 2 - 45
+Statutory Reports
+Page 46 - 157
+Financial Statements
+Page 158 - 283
+Annual Report 2022-23
+147
+LEADERSHIP INDICATORS
+1.	
+Details of a business process being modified/introduced as a result of addressing human rights 
+grievances/complaints.
+ 
+CDSL places significant emphasis on human resource development, recognizing its employees as a critical resource for the 
+Company’s growth. As part of its human resource development program, the Company conducts an induction program for 
+new employees and facilitates their training at reputable institutions and seminars, both domestically and internationally, 
+with a focus on capital market-related areas, including depositories.
+ 
+A training needs assessment was conducted to identify the specific gaps related to human rights. Based on the assessment, 
+a tailored training program focusing on human rights awareness and compliance was developed. The program utilizes a 
+blended approach, including e-learning modules, workshops, and webinars. CDSL continuously monitors and evaluates 
+the training program to ensure its effectiveness, gathering feedback and making improvements as needed. This modified 
+process aims to enhance employees’ understanding of human rights principles and promote a respectful and inclusive 
+work environment within the depositories.
+	
+Additionally, CDSL regularly conducts training programs to sensitize employees about the fundamental principles of 
+human rights and the Company’s Code of Conduct. These training initiatives aim to enhance employee awareness and 
+understanding of human rights principles, fostering a culture of respect and compliance within the organization. Through 
+these efforts, CDSL actively promotes the quality and competence of its workforce, ensuring the continual development 
+and well-being of its human assets.
+2.	
+Details of the scope and coverage of any Human rights due-diligence conducted
+	
+The Company has not conducted any Human rights due-diligence.
+3.	
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of 
+the Rights of Persons with Disabilities Act, 2016?
+	
+The Company has put in place necessary physical infrastructure in its corporate locations for differently abled employees, 
+workers, and visitors to get around.
+4.	
+Details on assessment of value chain partners:
+ 
+% of value chain partners (by value of business done with such partners) that were assessed
+Sexual Harassment
+The Value chain partners are expected to comply to all the applicable rules and regulations. No 
+particular assessment has been carried out during the reporting period.
+Discrimination at workplace
+Child Labour
+Forced Labour/Involuntary Labour
+Wages
+Forced Labour/Involuntary Labour
+5.	
+Provide details of any corrective actions taken or underway to address significant risks/concerns 
+arising from the assessments at Question 4 above.
+	
+Not Applicable
+148
+PRINCIPAL 6
+Businesses should respect and make efforts to protect and restore the environment.
+ESSENTIAL INDICATORS
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following 
+format:
+ 
+Unit
+FY 2022-23
+FY 2021-22
+Total electricity consumption (A)
+Joules
+18,25,80,48,00,000
+17,99,78,04,00,000
+Total fuel consumption (B)
+Joules
+0 .0025 
+0 .005 
+Energy consumption through other sources (C)
+Joules
+N.A.
+N.A.
+Total energy consumption (A+B+C)
+Joules
+18,25,80,48,00,000 17,99,78,04,00,000
+Energy intensity per rupee of turnover
+-
+-
+(Total energy consumption/turnover in rupees)
+₹
+₹53,13,597
+₹42,49,664
+Energy intensity (optional) – the relevant metric may be selected by the entity
+-
+-
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the 
+external agency – No.
+2.	
+Does the entity have any sites/facilities identified as designated consumers (DCs) under the Performance, 
+Achieve and Trade (PAT) Scheme of the Government of India? (Yes/No) If yes, disclose whether targets set 
+under the PAT scheme have been achieved. In case targets have not been achieved, provide the remedial 
+action taken, if any.
+	
+Not Applicable.
+3.	
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+Water withdrawal by source (in kilolitres)
+(i)	 Surface water
+Provided 
+by building 
+management*
+Provided 
+by building 
+management*
+(ii)	 Groundwater
+N.A.
+N.A.
+(iii)	Third party water
+99.28
+70.4
+(iv)	Seawater/desalinated water
+N.A.
+N.A.
+(v)	 Others
+N.A.
+N.A.
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+99.28
+70.4
+Total volume of water consumption (in kilolitres)
+N.A.
+N.A.
+Water intensity per rupee of turnover (Water consumed/turnover)
+N.A.
+N.A.
+Water intensity (optional) – the relevant metric may be selected by the entity
+N.A.
+N.A.
+* The Company’s use of water is strictly limited to human consumption. As we are not a manufacturing organization, the prescribed table does not 
+apply to the Company.
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Yes/No) If yes, name of the 
+external agency – No.
+4.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its 
+coverage and implementation.
+	
+Not Applicable.
+5.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following 
+format:
+Parameter
+Please specify unit
+FY 2022-23
+FY 2021-22
+NOx
+As the Company Provides depository services, air emissions 
+(other than GHG emissions) are not material to the Company.
+SOx
+Particulate matter (PM)
+Persistent organic pollutants (POP)
+Volatile organic compounds (VOC)
+Hazardous air pollutants (HAP)
+Others – please specify
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Yes/No) If yes, name of the 
+external agency – No.
+Corporate Overview
+Page 2 - 45
+Statutory Reports
+Page 46 - 157
+Financial Statements
+Page 158 - 283
+Annual Report 2022-23
+149
+6.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following 
+format:
+Parameter
+Please specify unit
+FY 2022-23
+FY 2021-22
+Total Scope 1 emissions 
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Not Applicable
+Metric tonnes of CO2 equivalent
+Total Scope 2 emissions
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of CO2 equivalent
+Total Scope 1 and Scope 2 emissions per rupee of turnover
+Total Scope 1 and Scope 2 emission intensity (optional) – 
+the relevant metric may be selected by the entity
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Yes/No) If yes, name of the 
+external agency – No.
+7.	
+Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide 
+details.
+	
+The entity, CDSL, has implemented several initiatives to reduce greenhouse gas (GHG) emissions associated with its business 
+activities. These initiatives are aligned with the “Green Initiative” in Corporate Governance promoted by the Ministry of 
+Corporate Affairs. Here are the details of the projects aimed at reducing GHG emissions:
+	
+1.	
+Electronic Document Transmission: CDSL offers services to companies for electronically sending documents to their 
+shareholders. This initiative aims to minimize the use of paper and promote paperless transactions, thereby reducing the 
+carbon footprint associated with printing and physical distribution of documents.
+	
+2.	
+Stakeholder Connectivity: By facilitating electronic connectivity between stakeholders, CDSL enables efficient and 
+paperless transactions. This reduces the need for physical transportation and associated GHG emissions, contributing to 
+a greener and more sustainable business ecosystem.
+	
+3.	
+Energy-Efficient Infrastructure: CDSL has deployed energy-efficient equipment, such as Variable Refrigerant Flow 
+(VRF) systems and 5-star rated inverter Air Conditioners (ACs), in its offices. Additionally, the company has implemented 
+LED lighting systems. These energy-efficient measures help reduce electricity consumption and indirectly contribute to 
+lowering GHG emissions.
+	
+By implementing these projects and embracing electronic operations, CDSL actively promotes environmental sustainability, 
+reduces carbon footprints, and supports the transition to a greener future. These initiatives demonstrate the company’s 
+commitment to mitigating GHG emissions and its dedication to responsible corporate citizenship.
+8.	
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+N A 
+N A 
+E-waste (B)
+N A 
+N A 
+Bio-medical waste (C)
+N A 
+N A 
+Construction and demolition waste (D)
+N A 
+N A 
+Battery waste (E)
+60 numbers 34 AH
+40 numbers 26 AH
+Radioactive waste (F)
+N A 
+N A 
+Other Hazardous waste. Please specify, if any. (G)
+N A 
+N A 
+Other Non-hazardous waste generated (H). Please specify, if any.
+N A 
+N A 
+(Break-up by composition i.e. by materials relevant to the sector)
+N A 
+N A 
+Total (A+B + C + D + E + F + G + H)
+60 numbers 34 AH
+40 numbers 26 AH
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations 
+(in metric tonnes)
+Category of waste
+(i)	 Recycled
+N A 
+N A 
+(ii)	 Re-used
+N A 
+N A 
+(iii)	Other recovery operations
+N A 
+N A 
+Total
+N A 
+N A 
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i)	 Recycled
+N A 
+N A 
+(ii)	 Re-used
+N A 
+N A 
+(iii)	Other recovery operations
+N A 
+N A 
+Total
+N A 
+N A 
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Yes/No) If yes, name of the 
+external agency – No.
+150
+9.	
+Briefly describe the waste management practices adopted in your establishments. Describe the 
+strategy adopted by your company to reduce usage of hazardous and toxic chemicals in your products 
+and processes and the practices adopted to manage such wastes.
+	
+Battery waste is one of the major waste streams of the company’s operations. Battery waste generated at the Company 
+level are handed over to the authorized recyclers for safe disposal and extended life. In FY 2022-23, 60 numbers 34 AH of 
+battery waste were disposed through authorized vendors.
+10.	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, 
+wildlife sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation 
+zones etc.) where environmental approvals/clearances are required, please specify details in the 
+following format:
+S. 
+No.
+Location of 
+operations/offices
+Type of 
+operations
+Whether the conditions of environmental approval/clearance are being complied with? (Yes/No)
+If no, the reasons thereof and corrective action taken, if any.
+Not Applicable
+11.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable 
+laws, in the current financial year:
+Name and brief 
+details of project
+EIA Notification 
+No.
+Date
+Whether conducted by independent 
+external agency (Yes/No)
+Results communicated in 
+public domain (Yes/No)
+Relevant Web 
+link
+Not Applicable
+12.	 Is the entity compliant with the applicable environmental law/regulations/guidelines in India; such 
+as the Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) 
+Act, Environment protection act and rules thereunder (Yes/No). If not, provide details of all such 
+non-compliances, in the following format:
+S. 
+No.
+Specify the law/regulation/guidelines 
+which was not complied with
+Provide details of 
+the non-compliance
+Any fines/penalties/action taken by regulatory 
+agencies such as pollution control boards or by courts
+Corrective action 
+taken, if any
+Yes, the Company is compliant with the environmental law/regulations/guidelines in India; such as the Water (Prevention and Control of 
+Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and rules thereunder applicable to the Company.
+LEADERSHIP INDICATORS
+1.	
+Provide break-up of the total energy consumed (in Joules or multiples) from renewable and non-
+renewable sources, in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+From renewable sources
+N.A.
+N.A.
+Total electricity consumption (A)
+1825804800000
+1799780400000
+Total fuel consumption (B)
+0.0025 Joules
+0.005 Joules
+Energy consumption through other sources (C)
+N.A.
+N.A.
+Total energy consumed from renewable sources (A+B+C)
+1825804800000
+1799780400000
+From non-renewable sources
+N.A.
+N.A.
+Total electricity consumption (D)
+1831291200000
+1802505600000
+Total fuel consumption (E)
+0.0025 Joules
+0.005 Joules
+Energy consumption through other sources (F)
+N.A.
+N.A.
+Total energy consumed from non-renewable sources (D+E+F)
+1831291200000
+1802505600000
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Yes/No) If yes, name of the 
+external agency – No.
+Corporate Overview
+Page 2 - 45
+Statutory Reports
+Page 46 - 157
+Financial Statements
+Page 158 - 283
+Annual Report 2022-23
+151
+2.	
+Provide the following details related to water discharged:
+Parameters
+FY 2022-23
+FY 2021-22
+Water discharge by destination and level of treatment (in kilolitres)
+(i)	 To Surface water
+Not Applicable
+Not Applicable
+	
+–	
+No treatment
+	
+–	
+With treatment – please specify level of treatment
+(ii)	 To Groundwater
+	
+–	
+No treatment
+	
+–	
+With treatment – please specify level of treatment
+(iii)	To Seawater
+	
+–	
+No treatment
+	
+–	
+With treatment – please specify level of treatment
+(iv)	Sent to third-parties
+	
+–	
+No treatment
+	
+–	
+With treatment – please specify level of treatment
+(v)	 Others
+	
+–	
+No treatment
+	
+–	
+With treatment – please specify level of treatment
+Total water discharged (in kilolitres)
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Yes/No) If yes, name of the 
+external agency – No.
+3.	
+Water withdrawal, consumption and discharge in areas of water stress (in kilolitres): Not Applicable
+	
+For each facility/plant located in areas of water stress, provide the following information:
+	
+(i)	
+Name of the area
+	
+(ii)	 Nature of operations
+	
+(iii)	 Water withdrawal, consumption and discharge in the following format:
+Parameter
+FY 2022-23
+FY 2021-22
+Water withdrawal by source (in kilolitres)
+(i)	 Surface water
+Not Applicable
+Not Applicable
+(ii)	 Groundwater
+(iii)	Third party water
+(iv)	Seawater/desalinated water
+(v)	 Others
+Total volume of water withdrawal (in kilolitres)
+Total volume of water consumption (in kilolitres)
+Water intensity per rupee of turnover (Water consumed/turnover)
+Water intensity (optional) – the relevant metric may be selected by the entity
+Water discharge by destination and level of treatment (in kilolitres)
+(i)	 Into Surface water
+Not Applicable
+Not Applicable
+	
+–	
+No treatment
+	
+–	
+With treatment – please specify level of treatment
+(ii)	 Into Groundwater
+	
+–	
+No treatment
+	
+–	
+With treatment – please specify level of treatment
+(iii)	Into Seawater
+	
+–	
+No treatment
+	
+–	
+With treatment – please specify level of treatment
+(iv)	Sent to third-parties
+	
+–	
+ No treatment
+	
+–	
+With treatment – please specify level of treatment
+(v)	 Others
+	
+–	
+No treatment
+	
+–	
+With treatment – please specify level of treatment
+Total water discharged (in kilolitres)
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Yes/No) If yes, name of the 
+external agency – No.
+152
+4.	
+Please provide details of total Scope 3 emissions & its intensity, in the following format:
+Parameter
+Unit
+FY 2022-23
+FY 2021-22
+Total Scope 3 emissions
+Not 
+Applicable
+Not 
+Applicable
+Not 
+Applicable
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of CO2 equivalent
+Total Scope 3 emissions per rupee of turnover
+Total Scope 3 emission intensity (optional) – the relevant metric may be selected by the entity
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Yes/No) If yes, name of the 
+external agency – No.
+5.	
+With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, 
+provide details of significant direct & indirect impact of the entity on biodiversity in such areas along-
+with prevention and remediation activities
+	
+Not Applicable.
+6.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/
+web link.
+ 
+CDSL has been accredited with the ISO 22301:2019 certification for its business continuity management systems. CDSL 
+has a business continuity management (BCM) framework to ensure resilience and continuity of its Depository services, 
+e-voting Services and services to group companies. CDSL conducts Business impact analysis and risk assessment annually 
+to assess the likely impact on the Company’s business processes due to adverse events like, natural disaster, pandemic, 
+technical disruption etc. Please find herewith ISO 22302: 2019 Certificate received from accreditation body for CDSL’s 
+Business Continuity Management System (BCMS). CDSL tests its disaster recovery plan periodically.
+7.	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. 
+What mitigation or adaptation measures have been taken by the entity in this regard
+ 
+Given the nature of business, there were no significant adverse impact has been reported arising from the value chain of 
+the Company.
+8.	
+Percentage of value chain partners (by value of business done with such partners) that were assessed 
+for environmental impacts
+	
+The Company has not conducted any assessment of value chain partners for environmental impacts.
+PRINCIPAL 7
+Businesses, when engaging in influencing public and regulatory policy, should do so in a manner 
+that is responsible and transparent.
+ESSENTIAL INDICATORS
+1.	
+a.	
+Number of affiliations with trade and industry chambers/associations.
+ 
+ 
+The Company is affiliated with three (3) trade and industry chambers/associations.
+	
+b.	
+List the top 10 trade and industry chambers/associations (determined based on the total members of such 
+body) the entity is a member of/affiliated to.
+No.
+Name of the trade and industry chambers/associations
+Reach of trade and industry chambers/associations 
+(State/National)
+1.
+ACG-Asia Pacific Central Securities Depository Group
+International
+2.
+Association of Eurasian Central Securities Depositories (AECSD)
+International
+3.
+International Securities Services Association
+International
+2.	
+Provide details of corrective action taken or underway on any issues related to anti-competitive 
+conduct by the entity, based on adverse orders from regulatory authorities.
+Name of authority
+Brief of the case
+Corrective action taken
+During FY-2023, the Company has not received any adverse orders from regulatory authorities.
+Corporate Overview
+Page 2 - 45
+Statutory Reports
+Page 46 - 157
+Financial Statements
+Page 158 - 283
+Annual Report 2022-23
+153
+LEADERSHIP INDICATORS
+1.	
+Details of public policy positions advocated by the entity:
+S. 
+No.
+Public policy 
+advocated
+Method resorted 
+for such advocacy
+Whether information available 
+in public domain? (Yes/No)
+Frequency of Review by Board (Annually/Half 
+yearly/Quarterly/Others – please specify)
+Web Link, if 
+available
+-
+-
+-
+-
+-
+-
+PRINCIPAL 8
+Businesses should promote inclusive growth and equitable development.
+ESSENTIAL INDICATORS
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable 
+laws, in the current financial year.
+Name and brief 
+details of project
+SIA Notification 
+No.
+Date of 
+notification
+Whether conducted by independent 
+external agency (Yes/No)
+Results communicated in 
+public domain (Yes/No)
+Relevant Web link
+Not Applicable 
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being 
+undertaken by your entity, in the following format:
+S. 
+No.
+Name of Project for 
+which R&R is ongoing
+State
+District
+No. of Project Affected 
+Families (PAFs)
+% of PAFs covered 
+by R&R
+Amounts paid to PAFs in 
+the FY (In ₹)
+Not Applicable
+3.	
+Describe the mechanisms to receive and redress grievances of the community
+	
+The Company has grievance redressal mechanism in place to understand and resolve complaints from all stakeholders.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY 2022-23
+FY 2021-22
+Directly sourced from MSMEs/small producers
+Not Applicable
+Sourced directly from within the district and neighbouring districts
+LEADERSHIP INDICATORS
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact 
+Assessments (Reference: Question 1 of Essential Indicators above):
+Details of negative social impact identified
+Corrective action taken
+Not Applicable
+2.	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational 
+districts as identified by government bodies:
+S. 
+No.
+State
+Aspirational District
+Amount spent
+(In ₹)
+1.
+Educate Girls
+Uttar Pradesh
+Robertsganj
+69,53,807
+2.
+AARTH
+Haryana
+Nuh
+50,000
+3.
+AARTH
+Uttar Pradesh
+Chandauli
+25,000
+3.	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your 
+entity (in the current financial year), based on traditional knowledge:
+S. 
+No.
+Intellectual Property based on traditional knowledge
+Owned/Acquired 
+(Yes/No)
+Benefit shared 
+(Yes/No)
+Basis of calculating benefit share
+Not Applicable
+4.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property 
+related disputes wherein usage of traditional knowledge is involved.
+Name of authority
+Brief of the Case
+Corrective action taken
+Not Applicable
+154
+5.	
+Details of beneficiaries of CSR Projects:
+S. 
+No.
+CSR Project
+No. of persons 
+benefitted from 
+CSR Projects
+% of beneficiaries 
+from vulnerable and 
+marginalized groups
+1.
+Rotary Charitable Trust: Adult Literacy project
+4,000
+100%
+2.
+Educate Girls: Enrolment-Retention-Learning of Out-Of-School Girls
+2,700 
+100%
+3.
+Narayana Hrudayalaya Charitable Trust: Give 4 Life Program
+61
+100%
+4.
+Swades Foundation: Children With Special Needs - CWSN
+1,000
+100%
+5.
+Smile Foundation: Smile on Wheels
+4,000
+100%
+PRINCIPAL 9
+Businesses should engage with and provide value to their consumers in a responsible manner.
+ESSENTIAL INDICATORS
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+The grievance redressal policy for customers includes a redressal framework to ensure prompt and effective resolution 
+of grievances. We have centralized investor grievance redressal team, who is responsible for addressing all grievances 
+effectively in a time bound manner. We offer multiple channels to report grievances such as e-mail, letter, website, SEBI’s 
+SCORES portal and social media. We offer the best possible solution after a review of the customer’s complaint and after 
+taking feedback from the Depository Participant/RTA (as applicable). If an investor is not satisfied with the resolution, he 
+or she can escalate it to our Multi-level complaint resolution mechanism available at the Depositories. Grievance Redressal 
+Committee (Level 1), Arbitration (Level 2) and Appellate Arbitration (Level 3).
+2.	
+Turnover of products and/services as a percentage of turnover from all products/service that carry 
+information about:
+As a percentage to total turnover
+Environmental and social parameters relevant to the product
+Not Applicable
+Safe and responsible usage
+Recycling and/or safe disposal
+3.	
+Number of consumer complaints in respect of the following: -
+ 
+FY 2022-23
+FY 2021-22
+Received during 
+the year
+Pending resolution 
+at end of year
+Received during 
+the year
+Pending resolution 
+at end of year
+Data privacy
+0
+0
+0
+0
+Advertising
+0
+0
+0
+0
+Cyber-security
+0
+0
+0
+0
+Delivery of essential services
+1,030
+16
+2,440
+14
+Restrictive Trade Practices
+0
+0
+0
+0
+Unfair Trade Practices
+0
+0
+0
+0
+Other
+0
+0
+0
+0
+4.	
+Details of instances of product recalls on account of safety issues:
+Number
+Reasons for recall
+Voluntary recalls
+NA
+NA
+Forced recalls
+NA
+NA
+5.	
+Does the entity have a framework/policy on cyber security and risks related to data privacy? (Yes/No) 
+If available, provide a web-link of the policy.
+	
+CDSL has approved Information Security Policy, Cyber Security Policy, Business Continuity Policy and Personal Data- 
+Information Privacy Policy and the same are reviewed every year.
+	
+The same has been available on intranet portal of the Company.
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and 
+delivery of essential services; cyber security and data privacy of customers; re-occurrence of instances 
+of product recalls; penalty/action taken by regulatory authorities on safety of products/services.
+	
+No penalties/regulatory action has been levied or taken on the above-mentioned parameters.
+Corporate Overview
+Page 2 - 45
+Statutory Reports
+Page 46 - 157
+Financial Statements
+Page 158 - 283
+Annual Report 2022-23
+155
+LEADERSHIP INDICATORS
+1.	
+Channels/platforms where information on products and services of the entity can be accessed (provide 
+web link, if available).
+	
+Channels and platforms where information on the products and services of the Company can be accessed are 
+below mentioned:
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or 
+services
+	
+The Company has been undertaking various Investor Awareness Programs (IAPs) to educate investors to take an 
+informed decision with respect to any matter related to Capital Market. In addition to IAPs, CDSL has also reached out to 
+investors through various social media platforms like Facebook (@cdslindia), Twitter (@cdslindia), LinkedIn (@cdslindia), 
+KOO App (@cdslindia), Instagram (@cdslindia) and YouTube (@cdslindiaLtd). Various posts i.e. pictures, GIFs, videos 
+related to IAPs, awareness information about various services provided by CDSL are uploaded for the benefit of investors. 
+CDSL also provides various information beneficial to investors on its website under the head Investors Corner.
+ 
+Further, for the benefit of Investors, Informative booklet on “Securities Market Understanding from Investor’s Perspective” 
+which was prepared jointly by Securities and Exchange Board of India (SEBI), Central Depository Services (India) Limited 
+(CDSL) & other MIIs in 13 regional languages, and the same has been shared with Investor for their knowledge building 
+and future reference.
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential 
+services.
+	
+E-mail/Website:
+	
+h Investors can email us at our dedicated email id - complaints@cdslindia.com for any queries, complaints or feedback. 
+CDSL has also provided facility to post the complaints through CDSL website. A user friendly format is made available 
+in the website to enable the investors to send their complaints with ease on the ‘Post your Grievance’ link available on 
+the website (https://www.cdslindia.com/Footer/grievances.aspx).
+	
+Call centre:
+	
+h Investors can call us from 10.00 a.m. to 6.30 p.m. (Monday to Friday) on the tollfree numbers 1800-22-5533.
+	
+SCORES/SEBI Letter:
+	
+h The investors can also send their complaints directly to SEBI or upload through dedicated website www.scores.gov.in. 
+SEBI also forwards the letters received from the investors by them to CDSL for redressal.
+	
+h CDSL has identified an official who acts as Investor Relations Officer who will be heading the cell formed for redressal 
+of complaints. All the complaints are to be monitored by the said official.
+	
+Mechanism to process consumer complaints:
+	
+h The Company has a digital grievance management platform to upload, respond and monitor disposal of customer 
+grievances. All complaints received across various above-mentioned sources are auto uploaded into a Complaint 
+Management Platform which has a rule-based allotment to the Depository Participants and RTA who respond 
+to investors.
+	
+h All complaints are handled by the Investor Grievance Redressal team to ensure a prompt, and an effective resolution. 
+The team takes a decision for the resolution of the complaint. Feedback is also provided to the relevant department to 
+ensure that the same problem does not recur.
+156
+	
+Mechanism to respond to consumer complaints:
+	
+h The investor is informed of the steps taken by the Grievance Cell for resolution. If the investor customer is not satisfied 
+with the resolution, they can escalate the issue to our Multi-level complaint resolution mechanism available at 
+the Depositories.
+	
+h The Grievance team monitors the redressal of all complaints and the response provided to the investor. The team also 
+monitors pendency and regularly shares its analysis with the Company. The summary of grievances is reported to 
+Regulatory Oversight Committee and to the Board of Directors of the Company.
+4.	
+Does the entity display product information on the product over and above what is mandated as per 
+local laws? (Yes/No/Not Applicable) If yes, provide details in brief. Did your entity carry out any survey 
+with regard to consumer satisfaction relating to the major products/services of the entity, significant 
+locations of operation of the entity or the entity as a whole? (Yes/No)
+	
+Yes, the information on various services offered by the Company is available on https://www.cdslindia.com/ and detailed 
+description of our services is are mentioned on https://www.cdslindia.com/About/overview.html
+	
+Our Company had appointed a consultant to conduct a survey of Depository Participants (“DPs”) to gauge satisfaction 
+levels of DPs and insights related to growth in demat accounts including competition benchmarking. The survey was 
+conducted by having conversations with key and important DP accounts over e-meeting applications. Detailed feedback 
+was also taken in respect of Quantitative as well as Qualitative areas from the sample DPs.
+5.	
+Provide the following information relating to data breaches:
+	
+a.	
+Number of instances of data breaches along-with impact
+	
+	
+No such incident reported to the Company.
+	
+b.	
+Percentage of data breaches involving personally identifiable information of customers
+	
+	
+Not Applicable.
+Corporate Overview
+Page 2 - 45
+Statutory Reports
+Page 46 - 157
+Financial Statements
+Page 158 - 283
+Annual Report 2022-23
+157

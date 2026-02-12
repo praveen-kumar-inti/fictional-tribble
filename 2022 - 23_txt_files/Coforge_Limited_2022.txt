@@ -1,0 +1,3747 @@
+Coforge Limited      
+ Registered office:  
+www.coforge.com 
+Special Economic Zone, Plot No. TZ-2& 2A     
+  8, Balajl Estate, Third Floor, Guru Ravi Das Marg 
+Sector - Tech Zone, Greater Noida (UP) - 201308, India 
+ Kalkaji, New Delhi -110019, India     
+  CIN: L72100DL1992PLC048753 
+T: +91 120 4592300 | F: +91 120 4592 301     
+  T: +91 11 41029 297| F: +91 11 2641 4900  
+ October 27, 2023 
+The Manager, 
+Department of Corporate Services 
+BSE Limited  
+Floor 25, P.J. Towers,  
+Dalal Street, Mumbai – 400 001  
+BSE Scrip code – [532541] 
+Equity ISIN INE591G01017 
+Non-Convertible Bond ISIN INE591G08012 
+The General Manager, 
+Department of Corporate Services 
+The National Stock Exchange of India Limited 
+Exchange Plaza,  
+Plot No. C/1, G Block, Bandra Kurla Complex,  
+Bandra, Mumbai – 400 051 
+NSE Symbol – [COFORGE] 
+Dear Sir/Ma’am, 
+Sub: Submission of Business Responsibility and Sustainability Report for FY 2022-23 
+Pursuant to Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, we are enclosing herewith the Business Responsibility 
+and Sustainability Report for FY 2022-23, which also forms part of the Annual Report for FY 2022-23. 
+Thanking you.  
+Yours faithfully, 
+For Coforge Limited 
+Barkha Sharma 
+Company Secretary 
+ACS: 24060 
+BARKHA 
+SHARMA
+Digitally signed by 
+BARKHA SHARMA 
+Date: 2023.10.27 
+15:14:24 +05'30'
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+61
+Annexure I
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of the listed entity
+1
+Corporate Identity Number (CIN) of the Listed Entity
+L72100DL1992PLC048753
+2
+Name of the Listed Entity:
+Coforge Limited 
+3
+Year of incorporation: 
+1992
+4
+Registered office address 
+8, Balaji Estate, Third Floor, Guru Ravi Das Marg, Kalkaji, New 
+Delhi -110019
+5
+Corporate address 
+Special Economic Zone, Plot No. TZ-2& 2A, Sector - Tech 
+Zone, Greater Noida (UP) - 201308, India
+6
+E-mail
+investors@coforge.com 
+7
+Telephone
+Regd. Office: +91 11 41029 297
+Corporate Office: +91 120 4592300
+8
+Website: 
+www.coforge.com
+9
+Financial year for which reporting is being done 
+April 1, 2022 to March 31, 2023
+10
+Name of the Stock Exchange(s) where shares are listed : 
+1. National Stock Exchange of India Limited (NSE)
+2. BSE Limited (BSE)
+11
+Paid-up Capital (as on March 31, 2023): 
+INR 610,870,800
+12
+Name and contact details (telephone, email address) of the person who may be contacted in case of any queries on the 
+BRSR report:
+•	
+Sudhir Singh, Chief Executive Officer and Executive Director, ; sudhir.singh@coforge.com
+•	
+Vic Gupta, Chief Sustainability Officer, ; vic.gupta@coforge.com
+•	
+Barkha Sharma, Company Secretary & Chief Compliance Officer, ; barkha.sharma@coforge.com
+13
+Reporting Boundary: The Basis of Reporting is Standalone (unless otherwise noted)
+II.	
+Products/services
+14.	
+Details of business activities (accounting for 90% of the turnover):
+S. No.
+Description of Main Activity
+Description of Business Activity
+% of Turnover of the entity
+1
+ Information & Communication
+Computer Programming, consultancy, and related 
+services
+100
+15.	
+Products/Services sold by the entity (accounting for 90% of the entity’s Turnover): 
+S. No.
+Product/Service
+NIC Code
+% of total turnover contributed
+1
+Computer programming, consultancy, and 
+related activities
+Class:6201
+Sub-class:62011 &62013
+100
+III.	
+Operations
+16.	
+Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of offices
+Total
+National
+NA
+21
+21
+International
+NA
+03
+03
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+62
+17.	
+Markets served by the entity:
+a.	
+Number of locations
+Locations
+Number
+National (No. of States)
+18
+International (No. of Countries)
+14
+b.	
+What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+Approx. 86%
+c.	
+A brief on types of customers: Computer Programming, consultancy and related services are provided to the following industry:
+	
+•	
+Banking & Financial Services Sector
+	
+•	
+Insurance Sector
+	
+•	
+Travel & Tourism Sector
+	
+•	
+Hospitality Sector
+	
+•	
+Retail Sector 
+	
+•	
+Healthcare Sector
+	
+•	
+Public sector
+IV.	
+Employees
+18.	
+Details as at the end of Financial Year:
+a.	
+Employees and workers (including differently abled):
+S. No.
+Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+EMPLOYEES
+1
+Permanent (D)
+12240
+9214
+75%
+3026
+25%
+2
+Other than Permanent (E)
+1225
+1128
+92%
+97
+8%
+3
+Total employees (D + E)
+13465
+10342
+77%
+3123
+23%
+WORKERS
+4
+Permanent (D)
+NIL
+NIL
+NIL
+NIL
+NIL
+5
+Other than Permanent (E)
+629
+535
+85%
+94
+15%
+6
+Total employees (F + G)
+629
+535
+85%
+94
+15%
+b.	
+Differently abled Employees and workers:
+S. No.
+Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+DIFFERENTLY ABLED EMPLOYEES
+1
+Permanent (D)
+NIL
+NIL
+NIL
+NIL
+NIL
+2
+Other than Permanent (E)
+NIL
+NIL
+NIL
+NIL
+NIL
+3
+Total employees (D + E)
+NIL
+NIL
+NIL
+NIL
+NIL
+DIFFERENTLY ABLED WORKERS
+4
+Permanent (D)
+NIL
+NIL
+NIL
+NIL
+NIL
+5
+Other than Permanent (E)
+NIL
+NIL
+NIL
+NIL
+NIL
+6
+Total employees (F + G)
+NIL
+NIL
+NIL
+NIL
+NIL
+ 
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+63
+19. Participation/Inclusion/Representation of women
+Particulars
+Total
+(A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+8
+1
+13%
+Key Management Personnel
+3
+1
+33%
+20.	
+Turnover rate for permanent employees and workers
+	
+ (Disclose trends for the past 3 years)
+FY 2023
+(Turnover rate in current FY)
+FY 2022 (Turnover rate in 
+previous FY)
+FY 2021 (Turnover rate in the year   
+prior to the previous FY)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent 
+Employees
+36.26%
+32.54%
+35.36%
+41.16%
+40.21%
+40.92%
+22.36%
+23.98%
+22.77%
+Permanent 
+Workers
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+V.	
+Holding, Subsidiary and Associate Companies (including joint ventures)
+	
+Yes, please refer the information on Holding, Subsidiary and Associate Companies as provided in the Annual Report for more 
+information.
+21.	
+(a) Names of holding / subsidiary / associate companies / joint ventures
+	
+Please refer to AOC-1 (in the Board Report).
+VI.	
+CSR Details
+22.	
+(i) 	Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No) Yes
+	
+(ii)	Turnover (in Rs.) –   42,305 (INR Mn) 
+	
+(iii)	 Net worth (in Rs.) – 26,153 (INR Mn)
+VII.	
+Transparency and Disclosures Compliances
+	
+The Company’s Code of Conduct aims to uphold the standards of its business ethics and practices, which are required to be 
+observed in all business transactions. These are applicable to all its employees as well as Directors. This Code of Conduct and 
+Business ethics is available on the Company’s website www.coforge.com and covers all aspects of its operations.
+23.	
+Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business 
+Conduct:
+Stakeholder 
+group from whom 
+complaint is 
+received
+Grievance Redressal 
+Mechanism in Place 
+(Yes/No)
+(If Yes, then provide 
+web-link for grievance 
+redress policy)
+FY 2023
+Current Financial Year
+FY 2022
+Previous Financial Year
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities
+Please see below
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Investors (other	 than 
+shareholders)
+Please see below
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Shareholders
+Please see below
+1
+0
+-
+-
+-
+-
+Employees and 
+workers
+Please see below
+2
+0
+-
+-
+-
+-
+Customers
+Please see below
+-
+-
+-
+-
+-
+-
+Value Chain Partners
+Please see below
+-
+-
+-
+-
+-
+-
+Other (please specify)
+Please see below
+-
+-
+-
+-
+-
+-
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+64
+Please see our website for various policies such as:
+•	
+Code of Conduct - https://www.coforge.com/investors/code-of-conduct
+•	
+Various Policies such as Whistle Blower, RPT, Board Diversity, etc. - https://www.coforge.com/investors/policies
+24.	
+Overview of the entity’s material responsible business conduct issues
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters 
+that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or mitigate the risk 
+along-with its financial implications, as per the following format
+S. No.
+Material issue identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for 
+identifying the risk/ 
+opportunity
+In case of risk approach 
+to                   adapt or  
+mitigate
+Financial implications 
+of the risk or  
+opportunity (Indicate 
+positive or  negative 
+Implications)
+1
+Climate Change: Climate 
+change is a global issue 
+that 
+requires 
+immediate 
+action.
+Risk
+If Climate Change 
+is not addressed in 
+time, it may lead to 
+sub-optimal 
+living 
+conditions.
+Our 
+strategies 
+include 
+steps 
+to 
+reduce 
+our 
+carbon 
+footprint, 
+with 
+renewable 
+energy 
+sources, 
+implementing 
+energy-efficient lights and 
+buildings and investing in 
+carbon offset programs via 
+our CSR activities. All such 
+effort will require funding 
+in capital goods, time from 
+employees, and activities 
+to support our ability to 
+be carbon neutral and 
+reduce our environmental 
+footprint.
+2
+Water Conservation: Water 
+being a precious resource, 
+conserving it is crucial for 
+the sustainability of our 
+planet.
+Opportunities
+We 
+believe 
+that 
+conservation 
+of 
+Water 
+offers 
+an 
+opportunity to help 
+to slow the Climate 
+change 
+Our 
+strategies 
+to 
+reduce 
+water 
+usage 
+and minimize waste, 
+such as using low-
+flow 
+fixtures, 
+water-
+free urinals, recycling 
+wastewater, treatment 
+via affluent plants and 
+implementing rainwater 
+harvesting systems are 
+few opportunities.
+3
+Waste 
+Management: 
+Proper waste management 
+is essential for protecting 
+the 
+environment 
+and 
+reducing our environmental 
+footprint.
+Opportunities
+Reducing 
+waste 
+with recycling is an 
+opportunity to save 
+more of our landfills
+Our strategies are to 
+reduce waste, recycle 
+materials, 
+remove 
+single-use plastics and 
+dispose of hazardous 
+waste 
+safely. 
+This 
+supports our ambition 
+for 
+environment 
+protection 
+and 
+conservation.
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+65
+4
+Talent 
+& 
+Education: 
+Investing 
+in 
+talent 
+and 
+education is essential for 
+the long-term success of 
+Coforge.
+Opportunities
+Bringing 
+education 
+and shaping talent 
+for all the community 
+provides 
+us 
+with 
+future employees 
+Our strategies include 
+providing 
+employees 
+with 
+opportunities 
+for 
+professional 
+development 
+and 
+education, as well as 
+creating a diverse and 
+inclusive 
+workplace 
+culture. This in turn 
+will help us be more 
+creative, 
+diverse, 
+inclusive, and global 
+citizens.
+5
+Governance: 
+Good 
+governance is critical for 
+the success of Coforge and 
+sustainability of the planet. 
+Risk
+Governance 
+and 
+Risk 
+Management 
+are 
+always 
+challenging 
+to 
+manage 
+in 
+an 
+everchanging world
+Our 
+strategies 
+include 
+implementing ethical and 
+transparent 
+business 
+practices, 
+establishing 
+effective risk management 
+strategies, and ensuring 
+compliance with regulatory 
+requirements.
+6
+Employee Health & Safety: 
+Protecting the health and 
+safety of employees is a top 
+priority. 
+Risk
+Employee 
+Health 
+and 
+Safety 
+is 
+a 
+challenge as we saw 
+during COVID years
+While employee wellness 
+is a top priority, we are 
+not immune to the Force 
+Majeure events such as 
+Covid, Weather & crime 
+related, and others. Some 
+of our strategies include 
+implementing 
+safety 
+protocols, providing access 
+to healthcare resources, 
+and 
+promoting 
+healthy 
+lifestyles for all employees.
+7
+Cyber 
+Security: 
+As 
+companies 
+become 
+increasingly 
+reliant 
+on 
+technology, cyber security 
+is a growing concern. 
+Risk
+In 
+today’s 
+Digital 
+age, protecting our 
+assets are critical to 
+our operations
+We 
+have 
+implemented 
+a robust set of security 
+measure 
+and 
+controls 
+to protect against cyber 
+threats and safeguard and 
+protect sensitive data of 
+Coforge and our clients.
+8
+Diversity Equity & Inclusion: 
+Promoting diversity, equity, 
+and inclusion is essential 
+for 
+creating 
+a 
+positive 
+workplace 
+culture 
+and 
+supporting the success of 
+all employees. 
+Opportunities
+Our 
+DEI 
+and 
+associated policies 
+offer our clients a 
+more diverse and 
+varied views to solve 
+a problem 
+Our strategies include 
+implementing policies to 
+prevent discrimination, 
+fostering a culture of 
+respect and inclusivity, 
+and promoting diversity 
+in hiring practices. This 
+enables us to be bring 
+many diverse ideas and 
+cater to larger set of 
+clients. 
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+66
+9
+Community Development: 
+Development of community 
+we live in is a critical focus 
+for us. 
+Opportunities
+As 
+we 
+develop 
+c o m m u n i t i e s 
+around us, we are 
+sure to find future 
+employees
+Our 
+strategies 
+include 
+engaging 
+in 
+philanthropic 
+initiatives, 
+supporting 
+local 
+businesses, 
+volunteering employee 
+time 
+and 
+promoting 
+economic development. 
+Increasing community 
+activity enables us to 
+create future Coforge 
+first-class employees.
+10
+Code 
+of 
+Ethics: 
+An 
+important cornerstone of 
+our organization operations 
+is to operate with integrity 
+and with ethical principles.
+Opportunities
+Establishing Ethics 
+is 
+an 
+opportunity 
+to 
+reflect 
+and 
+gain 
+mindshare 
+among our clients, 
+partners, suppliers, 
+shareholders, 
+and 
+employees
+Our 
+intention 
+and 
+ambition 
+are 
+to 
+operate ethical under 
+all 
+circumstances. 
+Our 
+strategies 
+to 
+mitigate 
+include 
+establishing a code of 
+conduct, implementing 
+compliance and ethics 
+training programs, and 
+holding 
+employees 
+accountable for ethical 
+violations.
+11
+Green IT: The IT industry is 
+a significant contributor to 
+carbon emissions.
+Opportunities
+Leveraging 
+cloud 
+and other Green IT 
+technologies 
+helps 
+us to reduce our 
+carbon footprint
+Our 
+strategies 
+include 
+using 
+green 
+technologies, such as 
+cloud, to further reduce 
+our 
+environmental 
+footprint 
+and 
+impact 
+along with usage and 
+promotion 
+of 
+third-
+party renewable energy 
+sources.
+12
+Supply Chain Sustainability: 
+Ensuring the sustainability 
+of the supply chain is critical 
+for our long-term success. 
+Opportunities
+Enabling 
+a 
+sustainable 
+value 
+chain increases our 
+impact exponentially 
+Our strategies include 
+implementing 
+ethical 
+sourcing 
+practices, 
+promoting sustainable 
+m a n u f a c t u r i n g 
+practices, 
+and 
+minimizing 
+the 
+environmental 
+impact 
+of transportation and 
+logistics.
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting the 
+NGRBC Principles and Core Elements.
+Disclosure
+Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+1
+a
+Whether your entity’s policy/policies cover each 
+principle and its core elements of the NGRBCs. 
+(Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+67
+b
+Has the policy been approved by the Board? (Yes/
+No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+c
+Web Link of the Policies, if available
+Code of Conduct : https://www.coforge.com/investors/code-of-
+conduct  Whistle blower Policy: https://www.coforge.com/hubfs/
+Whistle-Blower-Policy-Coforge.pdf
+CSR Policies- https://www.coforge.com/hubfs/Corporate-Social-
+Responsibility-Policy-V4-1.pdf
+2
+Whether the entity has translated the policy into 
+procedures. (Yes / No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+3
+Do the enlisted policies extend to your value chain 
+partners? (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+4
+Name of the national and international codes/
+certifications/labels/ standards (e.g. Forest Stewardship 
+Council, 
+Fairtrade, 
+Rainforest 
+Alliance, 
+Trustee) 
+standards (e.g. SA 8000, OHSAS, ISO, BIS) adopted by 
+your entity and mapped to each principle.
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+5
+Specific commitments, goals and targets set by the 
+entity with defined timelines, if any.
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+6
+Performance of the entity against the specific 
+commitments, goals and targets along-with reasons in 
+case the same are not met.
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Governance, leadership and oversight
+7
+Statement by director responsible for the business 
+responsibility 
+report, 
+highlighting 
+ESG 
+related 
+challenges, targets and achievements (listed entity has 
+flexibility regarding the placement of this disclosure)
+Our ESG/S is an exhaustive strategy threaded in every aspect 
+of our operational fabric. It helps us to reduce our impact to the 
+environment, offers alignment and affinity to social and community 
+values, and ensures responsible and ethical practices employed 
+across all functions”
+ESG/S (Environmental, Social, and Governance) including 
+Sustainability are critical components of Coforge’s organizational 
+strategy. They are an essential part of the DNA of the organization 
+supported with policies, processes, and standards to ensure long-
+term sustainability and success of all our stakeholders. It helps us 
+create trust with customers and stakeholders, help us to streamline 
+and increase operational efficiency, offers a platform for employees, 
+partners, suppliers, and customer engagements, and enables us 
+to build an inclusive culture with social values. It helps us to ensure 
+that the services we provide are the most environmentally friendly 
+and our employees are treated fairly and equitably.
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+68
+Our investments in ESG practices will ensure that we can continue 
+to provide our services in a responsible manner and that we are 
+creating trust and loyalty with our employees, partners, suppliers, 
+customers, and all stakeholders. Our ESG/S Ambitions, strategies 
+and pledges consider a comprehensive approach to sustainability 
+that consider both long term view and short-term implications of 
+our activities and decisions. They are specifically aligned towards 
+fighting climate change, range of social and community activities 
+supporting employees, suppliers, and client alike, and ensuring 
+ethical and responsible governance practices are adopted. We are 
+also committed to aligning to the UN Sustainable Develop Group 
+objectives and have adopted all 17 objectives in our activities and 
+operations.
+Environment - Reduce our carbon footprint and greenhouse gas 
+emissions.
+Our environmental strategies are focused on reducing our impact 
+on the environment by reducing our reliance on fossil fuels and 
+increasing the renewable fuel consumption.  Ensure we use low 
+emissions fuels such as LPG and CNG in all our fleet services, use 
+only energy efficient appliances, lights, and fixtures, ensure all our 
+buildings and facilities are green and LEED certified, and reducing 
+our waste and recycling as much as possible.
+• Climate Change – Be carbon neutral by 2030. Reduce our fossil 
+fuel consumption and increase carbon offsets using impactful 
+social and environment development projects.
+• Water Conservation – Be Water Positive by 2030. Conserve, 
+harvest and recycle water to effectively be water positive.
+• Waste Management – Be zero waste by 2030. Create an effective 
+waste management ecosystem to reduce waste, recycle as much 
+as possible and minimize to landfill
+Social - Inspire inclusive growth.
+Our values extend beyond the services we offer and deliver to our 
+clients.  It exemplifies and extends to all our extended communities 
+and society at large that we are part of and can positively influence 
+the economic development by changing the lives for the better. 
+This helps us to address economic divide and inequality and 
+provide equal opportunity for all.  Enables us as global citizens 
+to drive positive change and demonstrate responsible behavior 
+across the value chain.
+• Employee health & wellness – Ensure every employee’s health 
+and wellness, be it physical, mental, financial, emotional, and 
+overall wellness is managed and maintained. Empower every 
+employee to do the best they can both in professional and personal 
+life while attracting new and retain existing.
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+69
+• Upliftment of social livelihood – Empower underprivileged 
+communities by training and educating them in new digital skills; 
+increase self-reliance; create a library for all.
+Governance - Create lasting value for all stakeholders.
+Our governance policies such as cyber security, sustainable supply, 
+including Code of Ethics sets a benchmark for all our employees 
+to adopt good practices to apply in unique and difficult situations 
+in their career with Coforge.  These are augmented by specific 
+quantifiable and qualitative metrics to identify the right suppliers 
+who are deemed ESG worthy to do business with Coforge.
+• Cyber Security – Comprehensive and proactive cyber security to 
+protect our and our client’s digital assets.
+• Supply Chain Sustainability – Enhance and focus on suppliers 
+with ESG/S first outlook and performance.
+• Code of Ethics – Safeguard against illegal practices such as zero 
+tolerance for corruption, anti-bribery, unfair labor, human rights 
+abuses, etc.
+8
+Details of the highest authority responsible for 
+implementation 
+and 
+oversight 
+of 
+the 
+Business 
+Responsibility policy (ies). 
+Vic Gupta is Chief Sustainability Officer at Coforge. He is 
+responsible for ensuring that ESG/S practices are integrated into 
+all aspects of the organization’s strategy, policies, processes, 
+and standards. He leads efforts to reduce the company’s carbon 
+footprint and greenhouse gas emissions, conserve water, and 
+manage waste effectively, among other environmental initiatives. 
+systems.
+9
+Does the entity have a specified Committee of the 
+Board/ Director responsible for decision making on 
+sustainability related issues? (Yes / No). If yes, provide 
+details.
+Yes
+•	
+Sudhir Singh, Chief Executive Officer & Executive Director
+•	
+Vic Gupta, Chief Sustainability Officer
+•	
+Ajay Kalra, Chief Financial Officer
+•	
+Ruchi Kulhari, Chief People Officer
+•	
+Pankaj Khanna, Chief Revenue Assurance Officer
+ 
+10. Details of Review of NGRBCs by the Company:
+Indicate whether review was 
+undertaken by Director / 
+Committee of the Board/ Any 
+other Committee
+Frequency
+(Annually/ Half yearly/ Quarterly/ 
+Any other – please specify)
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+Performance against Above policies and   follow up 
+action
+C
+C
+C
+C
+C
+C
+C
+C
+C
+A
+A
+A
+A
+A
+A
+A
+A
+A
+Compliance with     statutory requirements of 
+relevance to the principles, and, rectification of any 
+non-compliances
+Statutory Compliance Certificate on applicable laws is provided by the the 
+CEO to the board of directors
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+11
+Has the entity carried out independent assessment/ evaluation of the 
+working of its policies by an external agency? (Yes/No). If yes, provide 
+name of the agency.
+No
+No
+No
+No
+No
+No
+No
+No
+No
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+70
+12. 	 If answer to question (1) above is “No” i.e. not all Principles are covered by a policy,  reasons to be stated:
+Questions
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+The entity does not consider the Principles material to its business (Yes/
+No)
+Not Applicable
+The entity is not at a stage where it is in a position to formulate and 
+implement the policies on specified principles (Yes/No)
+The entity does not have the financial or/human and technical resources 
+available for the task (Yes/No)
+It is planned to be done in the next financial year (Yes/No)
+Any other reason (please specify)
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core Elements with key 
+processes and decisions. The information sought is categorized as “Essential” and “Leadership”. While the essential indicators are 
+expected to be disclosed by every entity that is mandated to file this report, the leadership indicators may be voluntarily disclosed by 
+entities which aspire to progress to a higher level in their quest to be socially, environmentally, and ethically responsible.
+PRINCIPLE 1 Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, Transparent 
+and Accountable.
+Essential Indicators
+1.	
+Percentage coverage by training and awareness programmes on any of the Principles during the financial year:
+Segment
+Total number 
+of training and 
+awareness 
+programmes held
+Topics 	 /  principles  covered 	
+under the 
+training and its impact 
+%age of persons in 
+respective category 
+covered by awareness 
+programmes
+Board of  Directors
+Quarterly
+All Regulatory Updates are on an ongoing basis 
+Policy Changes as and when required
+100%
+Key Managerial Personnel
+3
+1.
+Creating a safe work environment (POSH)
+POSH – 100%
+EHS – 100%
+Insider Trading – 100%
+2.
+Environment, Health, & Safety (EHS)
+3.
+Code of conduct for prohibition of Insider 
+Trading
+Employees other than 
+BoD and KMPs 
+3
+1.
+Creating a safe work environment (POSH)
+POSH – 90%
+EHS – 90%
+Insider Trading – 60%
+2.
+Environment, Health, & Safety (EHS)
+3.
+Code of conduct for prohibition of Insider 
+Trading
+Workers 
+14
+1.
+MATERIAL MANAGEMENT
+          100%
+2.
+Creating a safe work environment (POSH)
+3.
+Environment, Health, & Safety (EHS)
+4.
+FIRE DRILL & BUILDING EVACUATION
+5.
+Medical Emergency & First Aid trainings
+6.
+Security Briefings
+7.
+Work at Heights
+8.
+Spillage Management
+9.
+Work In confined area
+10.
+Electrical safety training
+11.
+Hazard Identification and Risk Assessment 
+training
+12.
+Handling of chemical
+13.
+Waste management
+14.
+Use of personal protective equipment
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+71
+2.	
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the entity or by 
+directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year, in the following format 
+(Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30  of SEBI (Listing Obligations 
+and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+Monetary
+NGRBC 
+Principle
+Name of the regulatory/ 
+enforcementagencies/ judicial 
+institutions
+Amount (In 
+INR)
+Brief of the 
+Case
+Has an appeal been 
+preferred? (Yes/No)
+Penalty/ Fine
+NIL
+NIL
+NIL
+NIL
+NIL
+Settlement
+NIL
+NIL
+NIL
+NIL
+NIL
+Compounding
+Fee
+NIL
+NIL
+NIL
+NIL
+NIL
+Non-Monetary
+Imprisonment
+NIL
+NIL
+NIL
+NIL
+NIL
+Punishment
+NIL
+NIL
+NIL
+NIL
+NIL
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or non-
+monetary action has been appealed.
+Case Details
+Name of the regulatory/enforcement agencies/ judicial institutions
+NIL
+NIL
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide a web-link 
+to the policy.
+	
+Yes.  Please see Code of Conduct which includes anti-corruption and anti-bribery polices at:  https://www.coforge.com/investors/
+code-of-conduct
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement agency for 
+the charges of bribery/ corruption:
+	
+Nil.  There have been no such cases.
+6.	
+Details of complaints with regard to conflict of interest:
+	
+Nil.  There have been no such cases.
+7.	
+Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by regulators/ law 
+enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest. 
+	
+Not Applicable
+Leadership Indicators
+1.	
+Awareness programmes conducted for value chain partners on any of the Principles  during the financial year:
+Total number of awareness held
+Topics/principles covered under the 
+training
+%age 
+of 
+value 
+chain 
+programmes 
+partners covered (by value of business 
+done with such partners) under the 
+awareness programmes
+NIL
+NIL
+NIL
+2.	
+Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? (Yes/No) If Yes, 
+provide details of the same. The Company has formulated Whistle Blower Policy, Code of Conduct and such policies to keep a 
+check on conflicts of interest.
+	
+Yes.  Please see Code of Conduct and the Whistle Blower policies at:
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+72
+•	
+Code of Conduct - https://www.coforge.com/investors/code-of-conduct
+•	
+Various Policies such as Whistle Blower, RPT, Board Diversity, etc. - https://www.coforge.com/investors/policies
+PRINCIPLE 2 Businesses should provide goods and services in a manner that is sustainable and safe
+Essential Indicators
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental and 
+social impacts of product and processes to total R&D and capex investments made by the entity, respectively.
+	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental and social 
+impacts of product and processes to total R&D and capex investments will be made available in our Business Responsibility 
+and Sustainability Report from FY24 onwards. 
+Particulars
+FY23 in Inr  Lakh
+FY22 in Inr Lakh
+Total R&D Expense (As per financials)
+     9697.6
+       6226.9
+Capitalised 
+    7145 
+  1225
+Standalone
+   5410
+       816.6
+Consolidated
+	
+Spend in CTO
+Particulars
+FY23 in Inr  Lakh
+FY22 in Inr Lakh
+CTO - Employee Cost
+6205.875
+5543.915
+	
+Spend in HBU’s – more on solutioning kind of spend
+Particulars
+FY23 in Inr  Lakh
+FY22 in Inr Lakh
+HBU Cost (Sales and Indirect Cost of HBU’s excl BPO, 
+DPA, CDO and CTO)
+13156.455
+9267.44
+2.	
+a. Does the entity have procedures in place for sustainable sourcing: (Yes/No) Yes
+	
+b. If yes, what percentage of inputs were sourced sustainably:  17%
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling, and disposing at the end of life, for (a) 
+Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+	
+Given the nature of business, there is limited scope for reusing or recycling of products, however we have following practices 
+for below mention waste categories.
+	
+(a) 	 Plastics (including packaging) - All our facilities are single use plastic free premises. vendor partners are engaged for 
+collection of our Wet and Dry waste to Recycle/dispose in an eco-friendly manner.
+ 	
+(b) 	 E-waste - Our E-waste broadly includes computers, servers, Batteries, etc. All such E-wastes are being disposed through 
+authorized E-waste recyclers.
+ 	
+(c) 	 Hazardous waste – Only hazardous waste generated from the office is DG set waste oil, same is being disposed through 
+authorized recycler
+ 	
+(d) 	 Other waste - There are no other kinds of waste generated in our office other than listed above.
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether the waste 
+collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control Boards? If not, 
+provide steps taken to address the same. Not Applicable.
+Leadership Indicators
+1.	
+Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing industry) or for 
+its services (for service industry)? If yes, provide details in the following format? 
+	
+The company is involved with the business of IT/ITES related product development including the service support for the related 
+IT/ITES products. As the company is not involved in manufacturing/production process of any tangible product, Life cycle 
+assessment for the product is not considered.
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+73
+2.	
+If there are any significant social or environmental concerns and/or risks arising from production or disposal of your products / 
+services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, briefly describe the same 
+along-with action taken to mitigate the same. 
+	
+Not Applicable
+3.	
+Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing industry) or 
+providing services (for service industry). 	
+	
+The Company’s scope of work is limited to Design, Development, Testing, Implementation and Maintenance of Software, 
+System Integration Solutions & IT/ITES/Telecom Infra-Structure Management Services for all Offshore Development Centers. 
+As no manufacturing process is involved, raw material (recycled and reused) is not being utilized.
+4.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, and safely 
+disposed, as per the following format:  
+Stakeholder group from whom complaint is 
+received
+FY 2023
+Current Financial Year
+FY 2022
+Previous Financial Year
+Re-Used 
+Recycled 
+Safely 
+Disposed 
+Re-Used 
+Recycled 
+Safely 
+Disposed 
+Plastics (including packaging) 
+The company’s premises is Single use plastic free premises, no significant 
+plastic waste generation is observed in the office premises except for plastic 
+waste generated from the packaging material, in whatever small amount, are 
+being reused for the same purpose or disposed through authorized recycler.
+E-waste  (Kg)
+ 
+ 
+ 11,225 kg
+ 
+ 36,642 kg
+Hazardous waste 
+ 
+ 
+ 2,498 Kg
+ 
+ 
+ 1060 kg
+Other waste (Kg)
+ 4,137 Kg
+5,082 Kg
+5.	
+Reclaimed products and their packaging materials (as percentage of products sold) for each product category. 	
+	
+Not Applicable
+PRINCIPLE 3 Businesses should respect and promote the well-being of all employees, including those in their value chains
+Essential Indicators
+1.	
+a. Details of measures for the well-being of employees: 
+	
+Coforge has rigorous policies and procedures for the well-being of our employees.  Coforge is committed to providing a safe 
+and healthy work environment for all employees.  Employees wellness is governed by our policies listed at: https://www.coforge.
+com/wellness-and-wellbeing.
+% of employees covered by
+Category 
+Total 
+(A) 
+Health 
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+Benefits 
+Day Care 
+facilities
+Number 
+(B)        
+%  (B / 
+A) 
+Number 
+(C)        
+%  (C / 
+A) 
+Number 
+(D)        
+%  (D / 
+A) 
+Number 
+(E)        
+%  (E / 
+A) 
+Number 
+(F)        
+%  (F / 
+A) 
+Male
+9214
+8075
+88%
+9214
+100%
+N\A
+N\A
+9214
+100%
+Female  
+3026
+2641
+87%
+3026
+100%
+3026
+100%
+N\A
+N\A
+Total  
+12,240
+10,716
+87.54%
+12,240
+100%
+3026
+100%
+9214
+100%
+Other than Permanent employees
+Male
+N\A
+N\A
+N\A
+N\A
+N\A
+N\A
+N\A
+N\A
+N\A
+N\A
+N\A
+Female  
+N\A
+N\A
+N\A
+N\A
+N\A
+N\A
+N\A
+N\A
+N\A
+N\A
+N\A
+Total  
+N\A
+N\A
+N\A
+N\A
+N\A
+N\A
+N\A
+N\A
+N\A
+N\A
+N\A
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+74
+b.	
+Details of measures for the well-being of workers:
+% of workers covered by
+Category 
+Total 
+(A) 
+Health insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+Benefits
+Day Care 
+facilities
+Number 
+(B)        
+%  (B / 
+A) 
+Number 
+(C)        
+%  (C / 
+A) 
+Number 
+(D)        
+%  (D / 
+A) 
+Number 
+(E)        
+%  (E / 
+A) 
+Number 
+(F)
+% (F 
+/ A)
+Male
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female  
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Total  
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Other than Permanent workers
+Male
+535
+535
+100%
+535
+100%
+NA
+NA
+NA
+NA
+535
+100%
+Female  
+94
+94
+100%
+94
+100%
+94
+100% 
+as per 
+ESI 
+NA
+NA
+94
+100%
+Total  
+629
+629
+100%
+629
+100%
+94
+100%
+NA
+NA
+629
+100%
+2.	
+Details of retirement benefits, for Current FY and Previous Financial Year.
+Benefits
+FY 2023
+Current Financial Year
+FY 2022
+Previous Financial Year
+No. of 
+employees 
+covered as a  
+%    of
+total 
+employees
+No. of 
+workers 
+covered as a 
+% of
+total workers
+Deducted 
+and 
+deposited 
+with the
+authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as a  
+%    of
+total 
+employees
+No. of 
+workers 
+covered as a 
+% of
+total workers
+Deducted 
+and 
+deposited 
+with the
+authority 
+(Y/N/N.A.)
+PF
+100%
+ 100%
+   Y
+100%
+  100%
+  Y
+Gratuity
+100%
+ 100%
+ Y
+100%
+ 100%
+  Y
+ESI
+100%
+ 100%
+ Y
+100%
+ 100%
+  Y
+Others – please specify
+3. 	
+Accessibility of workplaces	
+	
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the requirements of the 
+Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard.
+	
+All our Corporate offices have wheelchairs and wheelchair friendly elevators which can be accessed from the parking lot, thus 
+making access friendly to our differently abled employees and visitors
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide a web-
+link to the policy. 
+	
+•	
+equal opportunity Employer (EEO) bit is covered in the DEI policy – policy attached for reference .  “Ensure Coforge 
+continues to be an equal employment opportunity regardless of caste, creed, color, religion, ethnicity, marital status, age, 
+disability, national origin, citizenship, sexual orientation, gender identity, language, and any other aspects as applicable;” 
+https://www.coforge.com/hubfs/Diversity_Equity_Inclusion_Policy.pdf
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave.
+Permanent Employees FY23
+Permanent Employees FY22
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+99.20
+N/A
+99.60
+76.35
+Female
+97.2
+N/A
+98.03
+80.87
+Total
+98.4
+N/A
+98.91
+78.85
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+75
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and worker? If yes, 
+give details of the mechanism in brief.
+Yes/No (If yes, then give details of mechanism in brief)
+Permanent Workers
+NA
+Other than Permanent Workers
+As per Policy
+Permanent Employees
+As per Policy
+Other than Permanent Employees
+As per Policy
+7.	
+Membership of employees and worker in association(s) or Unions recognized by the listed entity:
+FY 2023
+Current Financial Year
+FY 2022
+Previous Financial Year
+Total
+employees 
+/ workers	
+in respective 
+category
+(A)
+No. of employees 
+/ workers in
+respective 
+category, who are 
+part of
+association(s)	
+or Union (B)
+% (B / A)
+Total
+employees
+/ workers in 
+respective 
+category
+(C)
+No. of employees / 
+workers in
+respective 
+category, who are 
+part of
+association(s)	
+or Union (B)
+% (D /
+C)
+Total Permanent Employees
+- Male
+NA
+NA
+NA
+NA
+NA
+NA
+- Female
+NA
+NA
+NA
+NA
+NA
+NA
+Total Permanent Workers
+- Male
+NA
+NA
+NA
+NA
+NA
+NA
+- Female
+NA
+NA
+NA
+NA
+NA
+NA
+8.	
+Details of training given to employees and workers:
+FY 2023
+Current Financial Year
+FY 2022
+Previous Financial Year
+Total 
+(A)
+On Health
+and safety 
+measures
+On Skill
+upgradation
+Total 
+(A)
+On Health
+and safety 
+measures
+On Skill
+upgradation
+No.
+(B)
+% (B
+/ A)
+No.
+(C)
+% (C /
+A)
+No.
+(E)
+% (E
+/ D)
+No.
+(F)
+% (F /
+D)
+Employees
+Male
+10342
+7847
+75.88
+8644
+83.58
+5892
+4546
+77.16
+5545
+94.11
+Female
+3123
+2581
+82.64
+2887
+92.44
+2059
+1627
+79.29
+1964
+95.71
+Total
+13465
+10428
+77.45
+11531
+85.64
+7944
+6173
+77.71
+7509
+94.52
+Workers
+Male
+535
+535
+100%
+535
+100%
+519
+519
+100%
+519
+100%
+Female
+94
+94
+100%
+94
+100%
+88
+88
+100%
+88
+100%
+Total
+629
+ 629
+100%
+ 629
+100%
+607
+607
+100%
+607
+100%
+9.	
+Details of performance and career development reviews of employees and worker: 
+	
+All eligible employees have received performance and career development reviews.
+10.	
+Health and safety management system: 
+	
+a.	
+Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No). If yes, 
+the coverage such system?
+             	
+YES, The company is certified with Environment Health & Safety Management System (EHSMS) as per the agreement 
+with ISO 14001:2015 and ISO 45001:2018 standards. The Coforge Limited locations across the India are covered under 
+the said management system
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+76
+	
+b.	
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by the 
+entity?
+	
+	
+The Coforge India locations are subjected to periodic internal and external surveillance audit procedure to check the 
+effectiveness of the system. The work-related hazards are also identified, addressed and mitigated through defined risk 
+management system.
+	
+	
+All the offices are certified with Environment Health and Safety management system (EHSMS) approved with ISO 
+14001:2015 and ISO 45001:2018 standards. Risk assessment is being performed periodically/when required to mitigate 
+any residual EHS related risk.
+        c.  	
+Whether you have processes for workers to report the work-related hazards and to remove themselves from such risks. 
+(Y/N)
+          	
+YES,   
+	
+	
+Workers are provided trainings for the workplace hazard identification and awareness sessions regarding work related 
+hazards communication is provided. The company has defined incident-reporting system through intranet portal, emails, 
+& telecommunication to report work related hazards and provision of the mitigation measures. All our offices are having 
+security helpdesk for round the clock emergency support along with that emergency contacts are circulated through mails 
+and notices.
+	
+d. 	
+Do the employees/ worker of the entity have access to non-occupational medical and healthcare services? (Yes/ No) 
+Yes
+	
+	
+Our employees have access to non-occupational medical and healthcare services. First aid kits are maintained and are 
+available at all times on the premises.
+	
+	
+Medical emergency numbers are prominently displayed in each office along with that stand by ambulance facility is 
+available at our high concentration offices. For employee/workers who are feeling unwell, Occupational health centers are 
+also present at all the office for immediate assistance. 
+11.	
+Details of safety related incidents, in the following format:
+Safety Incident/Number 
+Category 
+FY 2023 Current Financial  
+Year 
+FY 2022 Previous Financial  
+Year 
+Lost Time Injury Frequency Rate (LTIFR) 
+(per one million-person hours worked)
+Employees 
+ 0.33 LTI/ Million Work Hour
+0.13 LTI/ Million Work Hour
+Workers 
+Total  recordable  work-related injurie
+Employees 
+ 7
+3
+Workers 
+No. of fatalities 
+Employees 
+ Nil
+ Nil
+Workers 
+ Nil
+ Nil
+High consequence work-related injury or 
+ill-health (excluding fatalities)
+Employees 
+ Nil
+ Nil
+Workers 
+ Nil
+ Nil
+12.	
+Describe the measures taken by the entity to ensure a safe and healthy work place.
+	
+The company has developed and implemented an Environment, Health and Safety Management System (EHSMS) to regulate 
+the consumption of resources, provide a healthier and a safer working atmosphere to its employees and to improve the 
+management of the company. The Environmental, health and Safety Management System conforms to the requirement of ISO 
+14001:2015 and ISO 45001:2018.
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+77
+	
+EHS Management System is built on the premise that all processes can be controlled using clearly defined processes through 
+documented procedures, backed by regular reviews & audits and promoting company- wide culture of continual improvement. 
+Measure taken for effective implementation of EHSMS are
+	
+•	
+Provision of Adequate resources for EHS. 
+	
+•	
+Establishing communication with internal and external interested parties regarding the companies EHS requirement. 
+	
+•	
+Establishing EHS documentation and ensuring proper auditable control. 
+	
+•	
+Operational Control Procedure(s) to control & sustain significant environmental aspects and unacceptable OHS risks. 
+	
+•	
+Identification of potential emergency situations and its response. 
+	
+•	
+Monitoring and measurement of EHS performance indicators. 
+	
+•	
+Control of monitoring and measuring equipment. 
+	
+•	
+Identification, maintenance and disposal of EHS records. 
+	
+•	
+System for periodic auditing of the EHS Management System. 
+	
+•	
+System Management Review by the Top Management (MRM) 
+	
+•	
+Regular Air monitoring to assess the quality of air inside the office premises.
+	
+•	
+Periodic fire/emergency drills to create awareness among the employees
+	
+•	
+Display of emergency floor plans at office locations
+	
+•	
+Trainings to create awareness for work related hazards
+	
+•	
+Minimize the resource consumption to reduce our carbon foot prints
+	
+•	
+Energy efficient equipment to reduce the power consumption
+	
+•	
+Renewable energy generation to reduce power consumption
+	
+•	
+Employees are made aware of emergency protocols & assembly points for emergencies
+	
+•	
+Emergency Contact details such as Police, Hospitals and Fire Brigade are also displayed on the display board
+	
+•	
+Hazard communication through signages/notices
+13.	
+Number of Complaints on the following made by employees and workers:
+FY 2023 Current Financial  Year 
+FY 2022 Previous Financial  Year 
+Filed 
+during the 
+year
+Pending 
+resolution at the 
+end of year
+Remarks
+Filed 
+during the 
+year
+Pending 
+resolution at the 
+end of year
+Remarks
+Working Conditions
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Health	
+& Safety
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+14.	
+Assessments for the year:
+% of your plants and offices that were assessed (by entity 
+or statutory authorities or third parties)
+Health and safety practices
+                                      100%
+Working Conditions
+                                      100%
+15.	
+Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant risks / 
+concerns arising from assessments of health & safety practices and working conditions.  No such Incidents reported.
+Leadership Indicators
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees (Y/N) (B) 
+Workers (Y/N).	
+	
+The employees working for the organization are duly covered under life insurance while the Non- permanent workers are 
+covered under the ESIC act/Insurance as per the act’s guidelines.
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+78
+2.	
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by the value 
+chain partners.
+	
+The Company is compliant with deduction of statutory dues of employees towards income tax, provident fund, professional tax, 
+ESIC etc. as applicable from time to time. Value chain partners (vendors) are equally responsible to comply as per the contract 
+with the Company. The Company has statutory and internal audit policies and procedures to ensure the above. The value chain 
+partner are bound by the agreement terms to ensure all the statutory compliances.
+3.	
+Provide the number of employees / workers having suffered high consequence work- related injury / ill-health / fatalities (as 
+reported in Q11 of Essential Indicators above), who have been rehabilitated and placed in suitable employment or whose family 
+members have been placed in suitable employment:
+Total no. of affected employees/ workers
+No. of employees/workers that are rehabilitated 
+and placed in suitable employment or whose family 
+members have been placed in suitable employment
+FY 2023 (Current 
+Financial Year)
+FY2022(Previous 
+Financial Year)
+FY 2023 (Current 
+Financial Year)
+FY2022(Previous 
+Financial Year)
+Employees
+NIL
+NIL
+NIL
+NIL
+Workers
+NIL
+NIL
+NIL
+NIL
+4.	
+Does the entity provide transition assistance programs to facilitate continued employability and the management of career 
+endings resulting from retirement or termination of employment? (Yes/ No).  Yes
+	
+The Company during the course of employment provides opportunities for all employees to upskill themselves through domain, 
+skills and leadership trainings.
+5.	
+Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such 
+partners) that were assessed
+Health and safety practices
+ Procurement to provide inputs and HR/ admin to collaborate
+Working Conditions
+ Working conditions assessment for employees and workers is being done.
+6.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from assessments of 
+health and safety practices and working conditions of value chain partners.
+	
+No such significant  risk / concerns reported. The value chain partners who work in our offices have access to the same health 
+and safety resources as the employees and any major risk to their health and safety is managed appropriately within specified 
+timeline.
+PRINCIPLE 4: Businesses should respect the interests of and be responsive to all its stakeholders
+Essential Indicators
+1.	
+Describe the processes for identifying key stakeholder groups of the entity.
+	
+As part of an internal committee effort, we conducted a stakeholder analysis to identify all potential stakeholders for Coforge. We 
+then prioritized stakeholders based on their level of influence and interest, along with Coforge’s goals and objectives. A matrix was 
+developed to identify the potential impact of each stakeholder group and how they can affect positively the operations.  A parallel path 
+was taken to analyze and validate the industry trends and best practices to identify common stakeholder groups from our peer group. 
+A short consulting arrangement was also made with external consultants to validate the key stakeholder groups.
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group. 
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+79
+Stakeholder Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/No)
+Channels of communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website, Others)
+Frequency of 
+engagements(Annually/
+Halfyearly/Quarterly/
+others-Please
+ specify)
+Purpose and scope of 
+engagement including 
+key topics and 
+concerns raised during 
+such engagement
+Board of Directors
+No
+(Email, Notice, Meetings)
+Quarterly
+Policy changes
+Key Committee 
+Members
+No
+(Email, Meetings)
+Monthly
+(Policy changes, 
+Personnel changes, 
+Information gathering, 
+etc.)
+Employees
+No
+(Email)
+Weekly
+Learning and 
+Development, Training 
+Curriculum and 
+Education
+Leadership Indicators
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social topics or 
+if consultation is delegated, how is feedback from such consultations provided to the Board.
+2.	
+Whether stakeholder consultation is used to support the identification and management of environmental, and social topics 
+(Yes / No). If so, provide details of instances as to how the inputs received from stakeholders on these topics were incorporated 
+into policies and activities of the entity.
+3.	
+Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ marginalized 
+stakeholder groups.
+PRINCIPLE 5 Businesses should respect and promote human rights
+Essential Indicators
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the following 
+format:
+FY 2023 Current Financial  Year 
+FY 2022 Previous Financial  Year 
+Total (A)
+No. employees 
+workers covered 
+(B) of /
+% (B / A)
+Total (C)
+No. employees 
+workers covered 
+(D) of /
+% (D / C)
+Employees
+Permanent
+12240
+10158
+83%
+7,294
+6379
+87%
+Other than permanent	
+1225
+255
+21%
+650
+336
+52%
+Total Employees
+13465
+10413
+77%
+7,944
+6,715
+84%
+Workers
+Permanent
+NA
+NA
+NA
+NA
+NA
+NA
+Other than permanent	
+629 (Admin 
+Support 
+Staff)
+629
+100%
+607
+607
+100%
+Total Workers
+629
+629
+100%
+607
+607
+100%
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+80
+All the minimum wage and employee details in this table are captured on a consolidated basis.
+FY 2023
+Current Financial Year
+FY 2022
+Previous Financial Year
+Total 
+(A)
+On Health
+Equal
+Minimum Wage
+to
+More	
+than
+Minimum Wage
+Total 
+(D)
+On Health
+Equal
+Minimum 
+Wage
+to
+More	
+than
+Minimum Wage
+No.
+(B)
+% (B
+/ A)
+No.
+(C)
+% (C /
+A)
+No.
+(E)
+% (E
+/ D)
+No.
+(F)
+% (F /
+D)
+Employees
+Permanent
+21,569
+100%
+21,077
+100%
+Male
+15,436
+100%
+15,021
+100%
+Female
+6,133
+100%
+6,056
+100%
+Other Permanent
+1,655
+100%
+1,423
+100%
+Male
+1,487
+100%
+1,178
+100%
+Female
+168
+100%
+245
+100%
+Workers
+Permanent
+Male
+NA
+Female
+NA
+Other than Permanent
+Male
+ 535
+443
+ 83%
+92
+  17%
+519
+429
+  83%
+90
+  17%
+Female
+94
+83
+ 88%
+11
+  12%
+88
+78
+ 89%
+10
+  11%
+3.	
+Details of remuneration/salary/wages, in the following format:
+Male
+Female
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+Board of Directors (BoD)
+Please see our Annual Report Annexures for further details
+Key Managerial Personnel
+Employees other than BoD and KMP
+Workers
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused or 
+contributed to by the business? (Yes/No) Yes
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.	
+	
+Coforge is committed to providing a safe and healthy work environment for all employees.  Employees wellness is governed by 
+our policies listed at: https://www.coforge.com/wellness-and-wellbeing.
+6.	
+Number of Complaints on the following made by employees and workers:
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+81
+FY 2023 Current Financial  Year 
+FY 2022 Previous Financial  Year 
+Filed 
+during the 
+year
+Pending 
+resolution at the 
+end of year
+Remarks
+Filed 
+during the 
+year
+Pending 
+resolution at the 
+end of year
+Remarks
+Sexual Harassment
+2
+0
+None of the 
+complaints 
+were POSH 
+related
+Nil
+Nil
+Nil
+Discrimination at workplace
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Child Labour
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Forced Labour/Involuntary 
+Labour
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Wages
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+Other human rights related  
+issues
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+7.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	
+Yes.
+8.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No) No
+9.	
+Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory authorities or third parties)
+Child labour – 100%
+Forced/involuntary labour – 100%
+Sexual harassment – 100%
+Discrimination at workplace – 100%
+Wages – 100%
+Others – please specify
+10. 	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments 
+at Question 9 above
+	
+Not Applicable	
+Leadership Indicators
+1.	
+Details of a business process being modified / introduced as a result of addressing human rights grievances/complaints.
+	
+None.
+2.	
+Details of the scope and coverage of any Human rights due-diligence conducted.
+	
+Randomly conducted by external parties.
+3.	
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of Persons with 
+Disabilities Act, 2016? Yes
+4.	
+Details on assessment of value chain partners:
+	
+The value chain partners will be documented and reported in FY24.
+5.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments 
+at Question 4 above.
+	
+Not Applicable 
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+82
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the environment.
+Essential Indicators
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+	
+All the environment variables and metrics are captured on a consolidated basis.
+Parameter
+FY 2023
+(Current Financial Year)
+FY 2022
+(Previous Financial Year)
+Total electricity consumption (A)
+44,088 Giga joules
+38,346 Giga joules
+Total fuel consumption (B)
+2,900 Giga Joules
+10320 Giga Joules
+Energy consumption through other sources (C)
+600 Giga Joules
+598 Giga Joules
+Total energy consumption (A+B+C)
+47,588 Giga Joules
+49,264 Giga Joules
+Energy intensity per rupee of turnover
+(Total energy consumption/turnover in rupees)
+1.12 
+1.49 
+Energy intensity (optional) – the relevant metric may be selected 
+by the entity
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency. No
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve and 
+Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme have been 
+achieved. In case targets have not been achieved, provide the remedial action taken, if any.
+	
+Not Applicable
+3.	
+Provide details of the following disclosures related to water, in the following format:
+	
+All the environment variables and metrics are captured on a consolidated basis.
+Parameter
+FY 2023
+(Current Financial Year)
+FY 2022
+(Previous Financial Year)
+Water withdrawal by source (in kilolitres)
+(i) Surface water
+NA
+NA
+(ii) Groundwater
+95,243
+54,688
+(iii) Third party water
+14,978
+15,794
+(iv) Seawater / desalinated water
+NA
+NA
+(v) Others
+1324
+225
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+1,11,545
+70,707
+Total volume of water consumption (in kilolitres)
+1,11,545
+70,707
+Water intensity per rupee of turnover (Water consumed / turnover)
+2.637 kl / INR cr
+2.134 kl / INR cr
+Water intensity  (optional) – the relevant metric may be selected by the entity
+NA
+NA
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency.
+4.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and implementation.
+	
+Being the institutional offices, Coforge offices in India in India are utilizing the Water consumption for drinking and washing 
+purposes only. The offices are equipped various water conservation measures such as sensor based water dispensing systems, 
+waterless urinals and utilization of treated water for flushing and gardening purposes.
+	
+Most of the offices are equipped with sewage water treatment units for onsite treatment of the wastewater; the same is being 
+utilized for the secondary uses such as gardening or flushing purposes. 
+5.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+83
+Parameter
+Please specify unit
+FY 2023
+(Current Financial 
+Year)
+FY 2022
+(Previous Financial 
+Year)
+NOx
+NA
+NA
+NA
+SOx
+NA
+NA
+NA
+Particulate matter (PM)
+NA
+NA
+NA
+Persistent organic pollutants (POP)
+NA
+NA
+NA
+Volatile organic compounds (VOC)
+NA
+NA
+NA
+Hazardous air pollutants (HAP)
+NA
+NA
+NA
+Others – please specify
+NA
+NA
+NA
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency.      
+No
+Coforge being an IT/ ITES service provider is utilizing its office premises for the institutional purposes only, and is not associated with 
+any kind of production, Manufacturing, processing and distribution of the products. Emission such as Hazardous obnoxious gaseous 
+material, Volatile organic compounds or particulate matters are not anticipated from the office units. 
+6.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+	
+All the environment variables and metrics are captured on a consolidated basis.
+Parameter
+Unit
+FY 2023
+(Current Financial 
+Year)
+FY 2022
+(Previous Financial 
+Year)
+Total Scope 1 emissions (Break-up of the GHG into 
+CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes  of 
+CO2 equivalent
+543
+677
+Total Scope 2 emissions (Break-up of the GHG into 
+CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes  of 
+CO2 equivalent
+9483
+8696
+Total Scope 1 and Scope 2 emissions per rupee of 
+turnover
+NA
+0.2 Metric tonnes / 
+INR cr
+0.3  Metric tonnes / 
+INR cr
+Total Scope 1 and Scope 2 emission intensity (optional) 
+– the relevant metric may be selected by the entity
+NA 
+NA
+NA
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency.  (No)
+7.	
+Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details.
+	
+The company is involved in development of IT/ ITES related products. Currently no running projects are associated with 
+emission of GHG.
+8.	
+Provide details related to waste management by the entity, in the following format:
+	
+All the environment variables and metrics are captured on a consolidated basis.
+Parameter
+FY 2023
+(Current Financial Year)
+FY 2022
+(Previous Financial Year)
+Plastic waste (A)
+3.7 Tons
+1.09 Tons
+E-waste (B)
+6.25 Tons
+36.0 Tons
+Bio-medical waste (C)
+-
+-
+Construction and demolition waste (D)
+-
+-
+Battery waste (E)
+2.0
+-
+Radioactive waste (F)
+-
+-
+Other Hazardous waste. Please specify, if any. (G)
+1.9 Tons ( DG Set Waste Oil)
+0.80 Tons ( DG Set Waste Oil)
+Other Non-hazardous waste generated (H). Please specify, if any. 
+(Break-up by composition i.e. by materials relevant to the sector)
+NA
+NA
+Total (A+B + C + D + E + F + G + H)
+13.85 Tons
+38 Tons
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+84
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations 
+(in metric tonnes)
+Category of waste
+(i) Recycled
+10.15 Tons
+(Through authorized 
+recyclers)
+36.8 Tons
+(Through authorized recyclers)
+(ii) Re-used
+-
+-
+(iii) Other recovery operations
+-
+-
+Total
+10.15 Tons
+(Through authorized 
+recyclers)
+36.8 Tons
+(Through authorized recyclers)
+For each category of waste generated, total waste disposed by nature of disposal method (inmetric tonnes)
+Category of waste
+(i) Incineration
+NA
+NA
+(ii) Landfilling
+NA
+NA
+(iii) Other disposal operations
+NA
+NA
+Total
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency. No
+9.	
+Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by your 
+company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices adopted to 
+manage such wastes.
+        Waste management is a crucial aspect of our ESG plan.  Our interests start with reducing the amount of waste we generate 
+and thus firstly minimize the need for disposal. Reusing items, such as glass jars or shopping bags, also limits, and reduces 
+our waste. Recycling materials such as plastics, glass, and paper are also an integral part of our conservation plans prior to 
+ending in landfills.
+10.	
+If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, biosphere 
+reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals / clearances 
+are required, please specify details in the following format:
+      The Coforge Offices are not in proximity of ecologically sensitive area as mentioned above. All the premises/facilities are 
+selected strategically in commercially approved locations including IT/ITES parks and captive SEZ throughout India. Necessary 
+Environmental clearance have been obtained from the Expert Appraisal Committee (EAC), Ministry of Environment Forest & 
+Climate Change (MOEF&CC) prior to construction of Coforge Greater Noida Campus. Additionally, environment NOCs have 
+been taken for all the office locations where applicable under and regular compliance of the same is ensured.
+S.
+No.
+Location of operations/offices
+Type operations of
+Whether the conditions of environmental approval / clearance are 
+being complied with? (Y/N)
+If no, the reasons thereof and corrective action taken, if any.
+NIL
+-
+-
+11.	
+Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the current 
+financial year:
+	
+No Environment Impact Assessment project or Environmental Clearance projects undertaken by the organization because of 
+no major construction/renovation has been undertaken so far.
+12.	
+Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water (Prevention and 
+Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and rules thereunder (Y/N). 
+If not, provide details of all such non-compliances, in the following format:YES,
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+85
+	
+100% compliant status has been achieved under the Water (Prevention and Control of Pollution) Act, Air (Prevention and 
+Control of Pollution) Act, Environment protection act & other regulatory and statutory compliance condition.
+S. No.
+Specify the law / regulation	
+/ guidelines which was not 
+complied with
+Provide details  of 
+the	
+non- 
+compliance
+Any fines / penalties / action taken by 
+regulatory agencies such as pollution     
+control boards or by courts
+Corrective action taken, 
+if any
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+NIL
+Leadership Indicators
+1.	
+Provide break-up of the total energy consumed (in Joules or multiples) from renewable and non-renewable sources, in the 
+following format:
+       All the environment variables and metrics are captured on a consolidated basis.
+Parameter
+FY 2023
+(Current Financial Year)
+FY 2022
+(Previous Financial Year)
+From renewable sources
+Total electricity consumption (A)
+600 Giga Joules
+598 Giga Joules
+Total fuel consumption (B)
+Nil
+Nil
+Energy consumption through other sources (C)
+Nil
+Nil
+Total energy consumed from renewable sources (A+B+C)
+600 Giga Joules
+598 Giga Joules
+From non-renewable sources
+Total electricity consumption (D)
+44,088 Giga joules
+38,346 Giga joules
+Total fuel consumption (E)
+2,900 Giga Joules
+10,320 Giga Joules
+Energy consumption through other sources (F)
+Total energy consumed from non-renewable sources (D+E+F)
+46,988 Giga Joule
+48,666 Giga Joules
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency. (No)
+2.	
+Provide the following details related to water discharged:
+	
+Coforge is associated with the IT/ITES product development and other related services. As the company is not involved in 
+production or manufacturing of any tangible product, the water requirement is only limited to anthropogenic activities only. 
+Most of the wastewater generated from the offices is being treated in the on-site STP units and utilized for the low end uses or 
+horticulture. Remaining, small amount of secondary treated water is being discharged in the municipal sewers.
+Parameter
+FY 2023
+(Current Financial Year)
+FY 2022
+(Previous Financial Year)
+Water discharge by destination and level of treatment (in kilolitres)
+(i) To Surface water
+NA
+NA
+-
+No treatment
+NA
+NA
+-
+With treatment – please specify level of treatment
+NA
+NA
+(ii) To Groundwater
+NA
+NA
+-
+No treatment
+NA
+NA
+-
+With treatment – please specify level of treatment
+NA
+NA
+(iii) To Seawater
+NA
+NA
+-
+No treatment
+NA
+NA
+-
+With treatment – please specify level of treatment
+NA
+NA
+(iv) Sent to third-parties
+NA
+NA
+-
+No treatment
+NA
+NA
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+86
+-
+With treatment – please specify level of treatment
+NA
+NA
+(v) Others
+NA
+NA
+-
+No treatment
+NA
+NA
+-
+With treatment – please specify level of treatment
+NA
+NA
+Total water discharged (in kilolitres)
+NA
+NA
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency. Not Applicable
+3.	
+Water withdrawal, consumption, and discharge in areas of water stress (in kilolitres):
+	
+None of the company’s offices are in the water stressed region or notified areas demarcated by CGWB. The company ensures 
+to utilize the piped municipal supply to cater the daily water need. The wastewater generated from the offices are being 
+treated in the onsite STPs and the treated water is being utilized for low end uses such as horticulture and toilet flushing.  The 
+remaining, small amount of water is being discharged to municipal sewers.
+	
+For each facility / plant located in areas of water stress, provide the following information:
+	
+(i)	 Name of the area - Not Applicable
+	
+(ii)	Nature of operations - Not Applicable
+	
+(iii)	Water withdrawal, consumption, and discharge in the following format:
+Parameter
+FY 2023
+(Current Financial Year)
+FY 2022
+(Previous Financial Year)
+Water withdrawal by source (in kilolitres)
+(i) Surface water
+NA
+NA
+(ii) Groundwater
+ 95,243
+ 54,688
+(iii) Third party water
+ 14,978
+ 15,794
+(iv) Seawater / desalinated water
+(v) Others
+ 1324
+ 225
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+ 111,545
+ 70,707
+Total volume of water consumption (in kilolitres)
+ 111,545
+ 70,707
+Water intensity per rupee of turnover (Water consumed / turnover
+ 111,545
+ 70,707
+Water intensity (optional) – the relevant metric may be selected by the entity
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency.
+4.	
+Please provide details of total Scope 3 emissions & its intensity, in the following format:
+	
+All the environment variables and metrics are captured on a consolidated basis.
+Parameter
+Unit
+FY 2023
+(Current Financial 
+Year)
+FY 2022
+(Previous Financial 
+Year)
+Total Scope 3 emissions (Break-up of the GHG into 
+CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes  of 
+CO2 equivalent
+23,54 tons
+950 tons
+Total Scope 3 emissions per rupee of turnover
+0.055 metric tonnes 
+/ INR cr
+0.028 metric tonnes / 
+INR cr
+Total Scope 3 emission intensity (optional) – the 
+relevant metric may be selected by the entity
+NA
+NA
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name 
+of the external agency. (N)
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+87
+5.	
+With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide details of 
+significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and remediation activities.
+	
+The company offices are in populated locations in various cities across India. No ecologically sensitive/ reserve forest/ bird 
+sanctuary is located in the vicinity of the Offices. The office operation is limited to IT/ITES related services, which does not 
+include any manufacturing / production process that generates any flue gases or discharge, which is a threat to the environment 
+and biodiversity.
+6.	
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource efficiency, or 
+reduce impact due to emissions / effluent discharge / waste generated, please provide details of the same as well as outcome 
+of such initiatives, as per the following format
+Sr. No
+Initiative undertaken
+Details of the initiative (Web-link, if
+any, may be provided along-with summary)
+Outcome of  the 
+initiative
+1.
+Replacement of old LED light
+More than 500 LED lights and T-5 have been replace in the 
+Greater Noida with new energy saving light fixtures
+Energy conservation
+2.
+Replacement of MERV-14 air 
+Filters in AHU
+MERV-14 filters, compliant with ASHRE standards have 
+been introduced in all the AHU’s at Greater Noida office 
+location to minimize PM10 and PM2.5 inside the buildings.
+Indoor 
+air 
+quality 
+improvement
+3.
+LEED platinum (O&M) 
+Recertification of the greater 
+Noida office
+Recertification of Greater Noida campus with LEED platinum 
+for O&M.
+Recognition for good 
+EHS practices
+4.
+Replacement of UPS in 
+Gurugram office
+Replacement of old UPS with new UPS units for the 
+Gurugram location.
+Energy conservation
+5.
+Energy audit
+Energy audit has been carried out by a third party agency for 
+Greater Noida and Gurugram office location
+Auditing of the existing 
+energy saving practices 
+and identification of 
+improvement points.
+6.
+Plantation of Saplings
+As a gesture of commitment toward environment, Coforge 
+organizes plantation drives during the client visits. The 
+saplings are being planted in the office campus or some 
+externally identified location.
+Green 
+area 
+development.
+7.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link.	
+	
+The company has developed and established Business Continuity Plan (BCP) keeping in view the material topics essential for 
+running the businesses. The BCP plan also discusses about a vide range of scenarios affecting the business which includes 
+but is not limited to natural disasters, terrorist threats, power failure etc. The plan also discusses about the severity, risk rating, 
+maximum acceptable outage (MAO) and alternate BCP location for continuation of business.
+8.	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation or 
+adaptation measures have been taken by the entity in this regard.
+	
+There is no significant adverse impact arising from Value chain partners. All such mitigation measures are addressed through 
+EMS standards as per ISO 14001 which are reviewed periodically through audits.
+9.	
+Percentage of value chain partners (by value of business done with such partners) that were assessed for environmental 
+impacts.
+	
+All admin related value chain partners are 100% assessed. To be discussed further for other value chain partners
+PRINCIPLE 7 Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is 
+responsible and transparent
+Essential Indicators
+1.	
+a. Number of affiliations with trade and industry chambers/ associations.5
+	
+b. List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) the entity 
+is a member of/ affiliated to. NASSCOM University of Pennsylvania (Mack Institute of Innovation)
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+88
+S. No.
+Name of the trade and industry chambers/ 
+associations
+Reach of trade and industry chambers/ associations (State/
+National)
+1
+NASSCOM
+Associations – National
+2
+University of Pennsylvania
+Academia – National
+3
+Amity University
+Academia – National
+4
+Chandigarh University
+Academia – National
+5
+Manav Rachna
+Academia – National
+2.	
+Provide details of corrective action taken or underway on any issues related to anti- competitive conduct by the entity, based on 
+adverse orders from regulatory authorities.
+	
+There are no material corrective action nor any material issues related to anti-competitive conduct by the entity.
+Leadership Indicators
+1.	
+Details of public policy positions advocated by the entity:
+	
+Coforge is committed to engaging the policy makers, government including central, regional, and local, along with community to 
+achieve our goals and objectives.  In the markets we operate in, we ensure key partnerships are developed and managed with 
+appropriate officials, organizations, associations, academia to create value for our shareholders, our partners, and employees. 
+For more details, please refer to our Annual Report.
+PRINCIPLE 8 : Businesses should promote inclusive growth and  equitable development
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the current 
+financial year.
+Name and brief details of project
+SIA 
+Notification 
+No.
+Date of 
+notification
+Whether 
+conducted 
+by 
+independent 
+external 
+agency (Yes 
+/ No)
+Results 
+communicated 
+in public domain
+(Yes / No)
+Relevant 
+Web link
+Educational promotion through Community 
+Library  
+1
+NA
+Yes
+No
+Underway
+Industry Academia Partnership for skill 
+development and environment conservation 
+with Amity and Chandigarh Univ 
+2
+NA
+Yes
+No
+Underway
+Educational assistance and Skill Development 
+for underprivileged girls with Udayan care 
+3
+NA
+Yes
+No
+Underway
+Education assistance and Skill Development 
+for underprivileged children with Vidya n child 
+4
+NA
+Yes
+No
+Underway
+Environment conservation through Solid liquid 
+waste management with ILRT
+5
+NA
+Yes
+No
+Underway
+Environment conservation -Water 
+conservation, rejuvenation of ponds , 
+renewable energy with Sehgal Foundation
+6
+NA
+Yes
+No
+Underway
+Environment conservation through Sustainable 
+tree planting & forestation, promoting 
+renewable energy with SAFE
+7
+NA
+Yes
+No
+Underway
+Helping Hand to special children with 
+Ashagram
+8
+NA
+Yes
+No
+Underway
+Education and Skill development and 
+employability with CYDA and SPARSHA
+10
+NA
+Yes
+No
+Underway
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+89
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your entity, 
+in the following format: Not Applicable
+3.	
+Describe the mechanisms to receive and redress grievances of the community.	
+	
+As an organization, we are conscious about giving back to the community. We have devised our own mechanisms to give back 
+to the community.
+Rural Community: 
+Work closely with Gram Panchayats of the rural areas (where our projects are operational) and ensure:
+•	
+Regular connect and interactions with community.
+•	
+Stake holder engagement
+•	
+Awareness and communication
+•	
+Capacity building and skill development 
+•	
+Proactive Interaction
+•	
+Reviewing and Investigating Grievances	
+Urban Community:
+In line with the government’s directives on Swachh Bharat & promoting awareness and reading habits, we have undertaken following 
+initiatives to reach out to community and address grievances if any:
+•	
+Solid Liquid Waste management for 2 Wards at Noida: This would include awareness sessions on waste segregation, effective 
+waste disposal and treatment, plastic recycling. We would be reaching out to communities and addressing grievances related 
+to this.
+•	
+Setting up community Library: to share reading resources free of cost to the community, Coforge has set up this library in Noida. 
+All members of community are free to use this and upgrade their knowledge base. This is especially useful for youth. Workshops 
+conducted here are a forum to share and address grievances and issues
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY 2023
+Current Financial Year
+FY 2022 
+Previous Financial Year
+Directly sourced from MSMEs/ small producers
+               24%
+            17%
+Sourced directly from within the State and neighboring State
+               29%
+            17%
+Leadership Indicators
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments (Reference: 
+Question 1 of Essential Indicators above):
+Details of negative social impact identified
+Corrective action taken
+Nil
+Nil
+2.	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as identified by 
+government bodies:
+S. No.
+State
+Aspirational District
+Amount spent (In INR)
+-
+Nil
+Nil
+Nil
+3.	
+(a) Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising marginalized 
+/vulnerable groups? (Yes/No) No
+	
+(b)	From which marginalized /vulnerable groups do you procure? Not Applicable
+	
+(c)	What percentage of total procurement (by value) does it constitute? Not Applicable
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+90
+4.	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the current 
+financial year), based on traditional knowledge:
+	
+Not Applicable
+S. No.
+Intellectual 
+Property 
+based 
+on 
+traditional knowledge
+Owned/Acquired 
+(Yes/
+No)
+Benefit Shared (Yes/No)
+Basis 
+of 
+calculating 
+benefit share
+NA
+NA
+NA
+NA
+5.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes wherein 
+usage of traditional knowledge is involved.
+	
+Not Applicable
+Name of authority
+Brief of the Case
+Corrective Action Taken
+Not Applicable
+NA
+NA
+6.	
+Details of beneficiaries of CSR Projects:
+	
+Total Outreach- 160,197
+S. No.
+CSR Project
+No. of persons benefitted from 
+CSR Projects
+% of beneficiaries from vulnerable and 
+marginalized groups
+1
+Educational 
+Assistance 
+and 
+skill 
+development
+33234
+100 %
+2
+Entrepreneurship 
+and 
+Employability 
+development
+14126
+100 %
+3
+Environment Conservation and Rural 
+Livelihoods
+112837
+100%
+PRINCIPLE 9 Businesses should engage with and provide value to their consumers in a responsible manner
+Essential Indicators
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback. 
+      	 Coforge is a B2B consulting and professional services organization and does not sell directly to consumers.  We are committed 
+to exceeding our clients’ expectations. We have a robust framework and associated policies to track and respond to our client 
+complaints and feedback in our interactions with clients.  Our latest annual survey demonstrates the trust our clients have 
+bestowed upon us.  It outlines that a large set of our clients are extremely delighted and happy with the relationship and value 
+we have delivered for them.  These positive sentiments have translated into decades of relationship and consistent delivery of 
+our services.
+2.	
+Turnover of products and/ services as a percentage of turnover from all products/service that carry information about:  Not 
+applicable
+3.	
+Number of consumer complaints in respect of the following:  Not Applicable.
+FY 2023 Current Financial  
+Year 
+Remarks
+FY 2022 Previous Financial  
+Year 
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution at the 
+end of year
+Received 
+during the 
+year
+Pending 
+resolution at the 
+end of year
+Data privacy
+NA
+NA
+NA
+NA
+Advertising
+-
+-
+-
+-
+Cyber-security
+-
+-
+-
+-
+Delivery of essential services
+-
+-
+-
+-
+Restrictive Trade Practices
+-
+-
+-
+-
+Unfair Trade Practices
+-
+-
+-
+-
+Other
+-
+-
+-
+-
+A N N UA L  R E P O RT  2 0 2 2 - 2 3
+Engage With The Emerging
+91
+4.	
+Details of instances of product recalls on account of safety issues:  Not Applicable
+5.	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, provide a 
+web-link of the policy.  
+	
+Yes. Privacy Framework is published at company intranet and includes policies, processes & guidelines to be followed by 
+employees. Privacy statement is published at https://www.coforge.com/privacy-statement
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential services; 
+cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action taken by regulatory 
+authorities on safety of products / services.
+        There are no customer complaints or any penalties by regulatory authorities related to Data Privacy.
+Leadership Indicators
+1.	
+Channels / platforms where information on products and services of the entity can be accessed (provide web link, if available).
+	
+Please see website at https://www.coforge.com for the information on all our services.  We also have a Linked https://www.
+linkedin.com/company/coforge-tech/ for latest announcements and associated news.
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.  Not Applicable.
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.  Not Applicable
+4.	
+Does the entity display product information on the product over and above what is mandated as per local laws? (Yes/No/Not 
+Applicable) If yes, provide details in brief. Did your entity carry out any survey with regard to consumer satisfaction relating to 
+the major products / services of the entity, significant locations of operation of the entity or the entity as a whole? (Yes/No).  Not 
+Applicable
+5.	
+Provide the following information relating to data breaches: 
+	
+a.	
+Number of instances of data breaches along-with impact
+	
+	
+No Data Breach incidents have occurred
+	
+b.	
+Percentage of data breaches involving personally identifiable information of customers
+	
+	
+No Data Breach incidents have occurred

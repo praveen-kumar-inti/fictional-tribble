@@ -1,0 +1,3666 @@
+ASTRA MICROWAVE PRODUCTS LIMITED 
+Regd. Office: ASTRA Towers. Survey No. 1 2(P), Kothaguda Post 
+Kondapur, HITEC City, Hyderabad, Telangana. INDIA - 500084 
+Tel: +91 40 46618000. 46618001. Fax: +91 4046618048 
+Email : mktg@astramwp.com . website : www.astramwp.com  
+CIN: L29309TG1 991 PLCO1 3203 
+August 2, 2024 
+To 
+The General Manager 
+Department of Corporate Relations 
+BSE Limited 
+Sir Phiroze Jeejeebhoy Towers, 
+Dalal Street, Fort, 
+Mumbai -400 001 
+Scrip code: 532493 
+Dear sir, 
+To 
+The Vice President 
+Listing Department 
+The National Stock Exchange of 
+india Limited 
+Exchange Plaza 
+Bandra Kurla Complex, Bandra (East) 
+Mumbai 400 051 
+Scrip code: ASTRAMICRO 
+Sub: Business Responsibility and Sustainability Report for the financial year 
+2023-24. 
+Pursuant to Regulation 34(2)(0 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, we enclose herewith the Business Responsibility 
+and Sustainability Report for the financial year 2023-24, which forms an integral part 
+of the Annual Report for the financial year 2023-24. 
+We request you to kindly take the same on record. 
+Thanking you, 
+Yours faithfully, 
+For Astra Microwave Products Ltd 
+T. Anja neyu I u 
+G.M - Company Secretary 
+An ISO 9001, ISO 14001, ISO 45001 and ISO 27001 Certified Company 
+Works: 
+Unit 1: Plot No. 12, ANRICH Industrial Estate, Bollaram. Medak 01st., Tlangana - 502325 
+Unit 2: Plot No. 56A, ANRICH Industrial Estate, Bollaram. Medak Dist.. Telangana - 502325 
+Unit 3: Sy. No. 1/1, Imarath Kancha, Raviryala (V). Maheshwaram (Mdl) R.R.Dist.. Telangana - 501 510 
+Unit 4: Sy. No. 1/1, Plot No. 18 to 21. Imarath Kancha, Hardware Park. Raviryala (V). Maheswaram (M). R.R.Dist. Telangana- 501510 
+Unit 7; Sy. No.] 14/1. Plot No. S-2/9 & 10. E-City, Raviryala & Srinagar (V), Maheswaram (M). R.R.District. Telangana - 501359 
+R&D Centre: Plot No. 51(P). Bangalore Aerospace Park, Singanahalli Village, Budigere Post, Bangalore North Taluk, Karnataka - 562149 
+THALLAPALLI 
+ANJANEYULU
+Digitally signed by 
+THALLAPALLI ANJANEYULU 
+Date: 2024.08.02 14:30:22 
++05'30'
+70 
+Astra Microwave Products Limited
+Annual Report 2023-24
+ANNEXURE – 7 TO THE DIRECTORS’ REPORT
+BUSINESS RESPONSIBILITY &  
+SUSTAINABILITY REPORTING
+FOR THE FINANCIAL YEAR ENDED 31 MARCH 2024
+(Business Responsibility and Sustainability Reporting (BRSR) is the practice of companies disclosing information about their 
+environmental, social, and governance (ESG) performance. It goes beyond financial reporting to provide stakeholders with a 
+comprehensive view of a company's non-financial impacts and contributions to sustainable development. BRSR covers topics such 
+as environmental impact, social responsibility, and governance practices, aiming to promote transparency and accountability.)
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of the listed entity
+Sr. 
+No.
+Particulars
+FY 2023-2024
+1
+Corporate Identity Number (CIN) of the Listed Entity
+L29309TG1991PLC013203
+2
+Name of the Listed Entity
+ASTRA MICROWAVE PRODUCTS LIMITED
+3
+Year of incorporation
+13-09-1991
+4
+Registered office address
+ASTRA TOWERS, Survey No:12 (Part), Opp.  
+CII Green Building, Hitech City, Kondapur,  
+Hyderabad, Telangana-500038, India
+5
+Corporate address
+ASTRA TOWERS Survey No:12 (Part), Opp.  
+CII Green Building, Hitech City, Kondapur,  
+Hyderabad, Telangana-500038, India
+6
+E-mail
+sgr@astramwp.com
+7
+Telephone
+040-46618000
+8
+Website
+http://www.astramwp.com/
+9
+Financial year for which reporting is being done
+April 1, 2023 to March 31, 2024
+10
+Name of the Stock Exchange(s) where shares are listed
+BSE Ltd (Bombay Stock Exchange) & NSE 
+Ltd.  
+(National Stock Exchange of India)
+11
+Paid-up Capital
+Rs. 18,98,90,016/-
+12
+Name and contact details (telephone, email address) of the person who 
+may be contacted in case of any queries on the BRSR report
+T. Anjaneyulu (G.M.-Company Secretary)  
+040-46618007 
+tan@astramwp.com
+13
+Reporting boundary - Are the disclosures under this report made on a 
+standalone basis (i.e. only for the entity) or on a consolidated basis (i.e. 
+for the entity and all the entities which form a part of its consolidated 
+financial statements, taken together).
+Standalone Basis
+14
+Name of assurance provider
+Not Assured
+15
+Type of assurance obtained
+-
+71
+II.	 Products/services
+16.	 Details of business activities (accounting for 90% of the turnover):
+Sr. 
+No.
+Description of Main Activity
+Description of Business 
+Activity
+% of Turnover of the 
+entity
+1
+Design, Development, and Manufacturing of RF & Microwave 
+Systems, Sub System and Components.
+Radar, Radar apparatus 
+and radio remote control 
+apparatus
+90.00%
+2
+Manufacture of navigational, meteorological, geophysical 
+and related instruments and apparatus oceanographic or 
+hydrological instruments; seismometers, rangefinders, 
+automatic pilots, sextants, ultrasonic sounding instruments 
+and special instruments for air navigation
+Navigational, meteorological, 
+geophysical and related 
+instruments and apparatus
+10.00%
+17.	 Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+Sr. 
+No.
+Product/Service
+NIC Code
+% of total Turnover 
+Contributed
+1.
+Manufacturing of radar, Radar apparatus, and radio remote control 
+apparatus
+33124
+87.73%
+2.
+Manufacture of electronic integrated circuit and micro-assemblies: 
+monolithic or hybrid and electronic micro-assemblies of moulded 
+module, micro-module or similar types
+32106
+0.30%
+3.
+Installation of heating and air-conditioning systems, antennas, elevators 
+and escalators; insulation work (water, heat, sound); and sound proofing 
+systems.
+45302
+0.58%
+4.
+Manufacture of other electronic components n.e.c
+32109
+1.25%
+5.
+Manufacture of navigational, meteorological, geophysical and related 
+instruments and apparatus oceanographic or hydrological instruments; 
+seismometers, rangefinders, automatic pilots, sextants, ultrasonic 
+sounding instruments and special instruments for air navigation
+33126
+10.14%
+III.	 Operations
+18.	 Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of offices
+Total
+National
+7
+2
+9
+International
+0
+0
+0
+19.	  Markets served by the entity:
+a.	
+Number of locations
+Locations
+Number
+National (No. of States)
+15
+International (No. of Countries)
+2
+*We have GST registration in 4 states 
+b.	
+What is the contribution of exports as a percentage of the total turnover 
+of the entity?
+31% 
+c.	
+A brief on types of customers
+Astra Microwave caters to a diverse clientele, prominently encompassing the government sector, public sector 
+units, and defense public sector units, etc.
+72 
+Astra Microwave Products Limited
+Annual Report 2023-24
+IV.	 Employees
+20.	 Details as at the end of Financial Year:
+a.	
+Employees and workers (including differently abled):
+Sr. 
+No.
+Particulars
+Total
+Male
+Female
+(A)
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+EMPLOYEES*
+1
+Permanent (D)
+1,469
+1,220
+83.05%
+249
+16.95%
+2
+Other than Permanent (E) 
+-
+-
+-
+-
+-
+3
+Total employees (D + E)
+1,469
+1,220
+83.05%
+249
+16.95%
+WORKERS
+4
+Permanent (F)
+-
+-
+-
+-
+-
+5
+Other than Permanent (G)
+-
+-
+-
+-
+-
+6
+Total workers (F + G)
+-
+-
+-
+-
+-
+*We do not have Other than permanent employees, permanent and other permanent Workers at our company.
+b.	
+Differently abled Employees and workers:
+Sr. 
+No.
+Particulars
+Total
+Male
+Female
+(A)
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+DIFFERENTLY ABLED EMPLOYEES
+1
+Permanent (D)
+-
+-
+-
+-
+-
+2
+Other than Permanent (E) 
+-
+-
+-
+-
+-
+3
+Total differently abled employees 
+(D + E)
+-
+-
+-
+-
+-
+DIFFERENTLY ABLED WORKERS
+4
+Permanent (F)
+-
+-
+-
+-
+-
+5
+Other than Permanent (E) 
+-
+-
+-
+-
+-
+6
+Total differently abled workers (F + G)
+-
+-
+-
+-
+-
+21.	 Participation/Inclusion/Representation of women
+Particular
+Total
+No. and percentage of Females
+(A)
+No. (B)
+% (B / A)
+Board of Directors
+8
+1
+12.50%
+Key Management Personnel
+5
+0
+-
+22.	 Turnover rate for permanent employees and workers
+Particular
+FY 2023-24
+FY 2022-23
+FY 2021-22
+(Turnover rate in current FY)
+(Turnover rate in previous FY)
+(Turnover rate in the year 
+prior to the previous FY)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+13.05%
+13.86%
+13.17%
+19.12%
+25.21%
+19.98%
+18.78%
+19.29%
+18.85%
+Permanent Workers
+-
+-
+-
+-
+-
+-
+-
+-
+-
+73
+V.	 Holding, Subsidiary and Associate Companies (including joint ventures)
+23.	 (a)	 Names of holding / subsidiary / associate companies / joint ventures
+Sr. 
+No.
+Name of the holding / subsidiary / 
+associate companies / joint ventures (A)
+Indicate whether 
+holding/
+subsidiary/ 
+Associate/ Joint 
+Venture
+% of shares 
+held by 
+listed entity
+Does the entity indicated 
+at column A, participate in 
+the Business responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+1.
+Bhavyabhanu Electronics Private Limited
+Subsidiary
+100%
+No
+2.
+Aelius Semiconductors Pte. Ltd.
+Subsidiary
+100%
+No
+3.
+Astra Foundation
+Subsidiary
+99.9%
+No
+4.
+Astra Rafael Comsys Private Limited
+Joint Ventures
+50%
+No
+5.
+Janyu Technologies Private Limited
+Associate
+9.09%
+No
+6.
+Astra Space Technologies Private Limited
+Subsidiary
+100%
+No
+VI.	 CSR Details
+24.	 (i)	
+Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No)
+Yes
+	
+	
+a.	
+Turnover (in Rs.)
+9,04,25,71,126
+	
+	
+b.	
+Net worth (in Rs.)
+9,68,18,46,016
+VII.	Transparency and Disclosures Compliances
+25.	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+Stakeholder group from whom 
+complaint is received
+Grievance 
+Redressal 
+Mechanism in 
+Place  
+(Yes/No) *
+FY 2023-24
+FY 2022-23
+Current Financial Year
+Previous Financial Year
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities
+Yes
+0
+0
+-
+0
+0
+-
+Investors (other than shareholders)
+Yes
+0
+0
+-
+0
+0
+-
+Shareholders
+Yes
+0
+0
+-
+0
+0
+-
+Employees and workers
+Yes
+0
+0
+-
+0
+0
+-
+Customers
+Yes
+0
+0
+-
+0
+0
+-
+Value Chain Partners
+Yes
+0
+0
+-
+0
+0
+-
+Other (please specify)
+-
+-
+-
+-
+-
+-
+-
+* Grievance Redressal Mechanism in Place (Yes/No) (If Yes, then provide web-link for grievance redress policy)
+Stakeholder group from whom complaint is received
+Web Link for Grievance Policy
+Communities
+ https://astramwp.com/contact-us/
+Investors (other than shareholders)
+https://scores.gov.in/
+Shareholders
+https://astramwp.com/shareholdersfeedback-form/
+Employees and workers
+https://hrconnect.astramwp.com/HRInquiries.aspx 
+Customers
+https://astramwp.com/
+Value Chain Partners
+https://astramwp.com/contact-us/
+Other (please specify)
+-
+74 
+Astra Microwave Products Limited
+Annual Report 2023-24
+	
+26.	 Overview of the entity’s material responsible business conduct issues
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or mitigate 
+the risk along-with its financial implications, as per the following format
+Sr. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / 
+opportunity
+In case of risk, 
+approach 
+to adapt or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative 
+implications)
+1.
+Product Design 
+& Innovation
+O
+By focusing on continuous improvement 
+and 
+staying 
+at 
+the 
+forefront 
+of 
+technological advancements, companies 
+can create innovative products that meet 
+evolving customer needs. Embracing 
+user-centered 
+design, 
+incorporating 
+sustainable practices, and fostering a 
+culture of creativity and collaboration 
+can 
+drive 
+competitive 
+advantage, 
+customer loyalty, and market growth. This 
+opportunity allows companies to lead the 
+industry and shape the future of RF and 
+microwave technology.
+ -
+ Positive
+2.
+Employee 
+Satisfaction and 
+Wellness
+O
+Fostering employee satisfaction is a 
+valuable opportunity for companies. By 
+prioritizing factors such as work-life 
+balance, career development, competitive 
+compensation, and a positive work 
+environment, companies can enhance 
+employee 
+morale, 
+productivity, 
+and 
+retention. Engaging employees, providing 
+growth opportunities, and recognizing 
+their contributions can create a motivated 
+workforce that drives innovation and 
+contributes to the overall success of the 
+organization.
+ -
+ Positive
+3.
+Sustainable 
+Supply Chain
+O
+Sustainable supply chain presents an 
+opportunity 
+to 
+reduce 
+environmental 
+impact while enhancing efficiency and 
+profitability. It allows the company to 
+meet growing consumer demand for eco-
+friendly products, boost brand reputation, 
+and 
+potentially 
+open 
+new 
+market 
+opportunities. Companies that actively 
+manage the supply chain's impacts through 
+standards, monitoring, and engagement 
+with suppliers may be better positioned to 
+protect shareholder value in the long run.
+ -
+ Positive
+75
+Sr. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / 
+opportunity
+In case of risk, 
+approach 
+to adapt or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative 
+implications)
+4.
+Energy 
+Management  
+and Clean Tech
+O
+Optimizing 
+energy 
+management 
+and 
+incorporating clean technology presents 
+tremendous opportunities for RF and 
+microwave 
+technology 
+companies. 
+By reducing energy consumption and 
+integrating renewable energy sources, 
+companies can lower operational costs 
+and carbon footprint. Leveraging clean 
+technology fosters innovation, drives 
+efficiency, and aligns with increasing 
+global emphasis on sustainability, thus 
+enhancing the company's reputation and 
+market position.
+ -
+Positive
+5.
+Data privacy and 
+cyber security
+R
+In the realm of RF/Microwave/ Digital 
+electronics, 
+hardware 
+products 
+and 
+associated software can harbor security 
+gaps that may pose threats to consumer 
+data security. Therefore, the onus is 
+on the manufacturers in this industry 
+to ensure the integrity of user data. If 
+businesses operating in this sector fail 
+to devise a comprehensive methodology 
+to detect such vulnerabilities, they may 
+inadvertently place consumer data at risk 
+and potentially undermine their customer.
+To 
+address 
+data 
+privacy and security, 
+the 
+company 
+has 
+established a robust 
+Cyber Risk Management 
+framework. 
+This 
+framework, 
+overseen 
+by 
+the 
+Information 
+Technology & Security 
+Committee 
+and 
+Risk 
+Management 
+Committee, 
+ensures 
+constant 
+monitoring 
+of cyber risks and their 
+mitigation. Data access 
+is 
+strictly 
+controlled 
+and data encryption 
+is employed to ensure 
+security. 
+Moreover, 
+the 
+company 
+has 
+intensified its efforts 
+to educate employees, 
+customers, and other 
+stakeholders 
+about 
+cyber frauds and the 
+importance 
+of 
+data 
+privacy, 
+as 
+part 
+of 
+its 
+commitment 
+to 
+maintaining a secure 
+digital environment.
+Negative
+76 
+Astra Microwave Products Limited
+Annual Report 2023-24
+Sr. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk / 
+opportunity
+In case of risk, 
+approach 
+to adapt or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative 
+implications)
+6.
+Corporate 
+Governance
+R
+Companies 
+are 
+assessed 
+on 
+their 
+performance in key governance areas 
+such as ownership structure, board 
+remuneration, 
+accounting 
+practices, 
+corporate ethics, and tax transparency. 
+This topic examines the effect that a 
+company’s corporate governance and 
+business ethics practices have on its 
+shareholders and other investors.
+To mitigate corporate 
+governance risk, the 
+company 
+regularly 
+reviews and updates 
+its policies to ensure 
+they remain relevant 
+and 
+effective. 
+The 
+Board plays a crucial 
+role in this process, 
+overseeing 
+the 
+review of governance 
+practices 
+and 
+structures. Additionally, 
+governance 
+policies 
+are revised to reflect 
+changes in legislation 
+and 
+industry 
+best 
+practices. 
+This 
+proactive 
+approach 
+to governance helps 
+manage risk, enhance 
+transparency, 
+and 
+ensure compliance with 
+all relevant regulations 
+and standards.
+Negative
+77
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting the 
+NGRBC Principles and Core Elements.
+Sr. 
+No
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1. 
+a
+Whether your entity’s policy/policies cover each principle 
+and its core elements of the NGRBCs. (Yes/No/NA)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+b
+Has the policy been approved by the Board? (Yes/No/NA)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+c
+Web Link of the Policies, if available
+https://astramwp.com/policies-1/
+2
+Whether the entity has translated the policy into procedures. 
+(Yes / No/ NA)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3
+Do the enlisted policies extend to your value chain partners? 
+(Yes/No/NA)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+4
+Name of the national and international codes/certifications/
+labels/ standards (e.g. Forest Stewardship Council, Fairtrade, 
+Rainforest Alliance, Trustee) standards (e.g. SA 8000, OHSAS, 
+ISO, BIS) adopted by your entity and mapped to each principle.
+-
+-
+-
+-
+ISO 45001:2018
+ISO 14001:2015
+-
+-
+ISO 27001:2013
+5
+Specific commitments, goals and targets set by the entity with 
+defined timelines, if any.
+Our institution grasps the significance of establishing 
+benchmarks to assess progress in meeting all the 
+principles of the NGRBC. As we are in our initial year of 
+implementing ESG, we aim to outline our aspirations and 
+targets in the upcoming reporting cycle. We recognize the 
+vital role of aligning our ESG initiatives with our business 
+objectives and are dedicated to establishing a robust and 
+effective ESG strategy that ensures sustainability and 
+delivers enduring benefits for all stakeholders.
+6
+Performance of the entity against the specific commitments, 
+goals and targets along-with reasons in case the same are not 
+met.
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+78 
+Astra Microwave Products Limited
+Annual Report 2023-24
+Governance, leadership and oversight
+7
+Statement by director responsible for the business responsibility report, highlighting ESG related challenges, targets and 
+achievements (listed entity has flexibility regarding the placement of this disclosure)
+Dear Stakeholders,
+At Astra Microwave, we believe sustainability is integral to our operations. This update highlights our progress in addressing 
+environmental, social, and governance (ESG) challenges.
+Our commitment begins with a strong foundation. We conducted a comprehensive materiality assessment to identify 
+the most critical sustainability issues. This allows us to prioritize and address these issues effectively. Furthermore, we 
+meticulously calculated our carbon and water footprints. This data provides a clear picture of our environmental impact and 
+shapes our sustainability strategies and goals. To guide our actions and decisions, we have established a comprehensive 
+Business Responsibility and Reporting (BRR) policy.
+Our dedication is evident in real-world actions. Our Bangalore building proudly holds a 5-star GRIHA rating, showcasing our 
+commitment to energy-efficient and sustainable infrastructure. We’ve also invested in a solar power plant to increase our 
+reliance on clean, renewable energy sources, contributing to a cleaner future. Additionally, sewage treatment plants (STPs) 
+implemented across all units ensure responsible water use and minimize our environmental footprint.
+Our employees are crucial partners in sustainability. We prioritize their training and development, equipping them with the 
+knowledge and skills to contribute effectively. We also established a transparent and efficient grievance portal, offering a 
+platform for vendors, customers, investors, and employees to address their concerns.
+The path to sustainability presents challenges like data availability, evolving regulations, and investor expectations. We are 
+a proactive organization, continuously monitoring and adapting to these challenges. To ensure our practices align with best 
+standards, we’ve set clear targets in key areas such as poverty eradication, energy use, sustainable transport, health, and 
+promoting full employment. These targets serve as milestones on our journey towards sustainable development.
+Looking ahead, transparency, continuous improvement, and collaboration with stakeholders remain core values. We value 
+your support and engagement as we work together to build a better, more sustainable future.
+S. Gurunatha Reddy
+Managing Director
+Astra Microwave Products Ltd.
+8
+Details of the highest authority responsible for implementation and oversight of the Business Responsibility policy (ies).
+Mr. S. Gurunatha Reddy 
+Managing Director
+9
+Does the entity have a specified Committee of the Board/ Director responsible for decision making on 
+sustainability related issues? (Yes / No/ NA).
+Yes
+If Yes please provide details
+Mr. S. Gurunatha Reddy 
+Managing Director
+79
+10 Details of Review of NGRBCs by the Company
+Subject for Review
+Indicate whether review was undertaken by 
+Director/Committee of the Board/Any other 
+Committee
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+a.	
+Performance against above policies and follow up action
+Director
+b.	
+Compliance with statutory requirements of relevance to the 
+principles and rectification of any non-compliances
+Director
+Subject for Review
+Frequency
+(Annually / Half yearly /Quarterly/ Any other-
+please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+a.	
+Performance against above policies and follow up action
+Annually
+b.	
+Compliance with statutory requirements of relevance to the 
+principles and rectification of any non-compliances
+Annually
+11 Has the entity carried out independent assessment/ evaluation of the 
+working of its policies by an external agency? (Yes/No). 
+Yes
+If yes, provide name of the agency.
+-
+-
+-
+-
+International Organization 
+for Standardization
+International Organization 
+or Standardization
+-
+-
+International Organization 
+for Standardization
+Note for point 11: While the Company has not carried out an independent audit of the policies, the policies are periodically 
+reviewed as part of various management systems by the respective certification bodies auditors (EHS, ISO, AS, ISMS) and 
+Internal Auditors. The policies relating to statutory compliance are reviewed by Internal Audiotors, Statutory Auditors and 
+Secretarial Auditors.
+12 If answer to question (1) above is “No” i.e. not all Principles are 
+covered by a policy, reasons to be stated:
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity does not consider the Principles material to its business 
+(Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+The entity is not at a stage where it is in a position to formulate and 
+implement the policies on specified principles (Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+The entity does not have the financial or/human and technical resources 
+available for the task (Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+It is planned to be done in the next financial year (Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Any other reason (please specify)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+80 
+Astra Microwave Products Limited
+Annual Report 2023-24
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+PRINCIPLE 1 Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable.
+(This principle focuses on the importance of ethical conduct and transparency in business operations. Companies should follow 
+ethical business practices and adhere to high standards of integrity. They should also be transparent about their activities, 
+operations, and financial reporting, as well as be accountable for their actions)
+Essential Indicators
+1.
+Percentage coverage by training and awareness programmes on any of the principles during the financial year:
+Segment
+Total number of 
+training and awareness 
+programmes held
+Topics/principles covered 
+under the training and its 
+impact
+%age of persons in respective 
+category covered by the 
+awareness programmes
+Board of Directors
+6
+Compliance (SEBI, ROC), 
+Industry Overview, Coprorate 
+Governance, Knowledge 
+enhancement,
+100%
+Key Managerial Personnel
+6
+Compliance (SEBI, ROC), 
+Industry Overview, Coprorate 
+Governance, Knowledge 
+enhancement, Technical training
+100%
+Employees other than BOD 
+and KMPs
+191
+Health safety, ethical behavior, 
+workmanship, IPC, Quality 
+Management System, Skill 
+development
+100%
+Workers
+-
+-
+-
+2.
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the 
+entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year, in the 
+following format
+Monetory
+Particulars
+NGRBC 
+Principle
+Name of the regulatory/ 
+enforcement agencies/ 
+judicial institutions
+Amount (In INR)
+(For Monetory 
+Cases only)
+Brief of the 
+Case
+Has an appeal been 
+preferred? (Yes/No)
+Penalty/ Fine
+NA
+Nil
+Nil
+Nil
+Nil
+Settlement
+NA
+Nil
+Nil
+Nil
+Nil
+Compounding fee
+NA
+Nil
+Nil
+Nil
+Nil
+Non Monetory
+Particulars
+NGRBC 
+Principle
+Name of the regulatory/ enforcement 
+agencies/ judicial institutions
+Brief of the 
+Case
+Has an appeal been 
+preferred? (Yes/No)
+Imprisonment
+NA
+Nil
+Nil
+Nil
+Punishment
+NA
+Nil
+Nil
+Nil
+3.
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or non-
+monetary action has been appealed.
+Case Details
+Name of the regulatory/ enforcement agencies/ judicial institutions
+ Not Applicable
+81
+4.	
+Does the entity have anti-corruption or anti-bribery policy? (Yes/ No)		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Yes
+	
+If Yes, provide details in brief
+Our organization is committed to strictly adhering to an anti-corruption and anti-bribery policy. We prioritize ethical business 
+practices and firmly oppose any form of abusive, corrupt, or anti-competitive behavior. Our policy underscores our dedication 
+to integrity, promoting transparency, and preventing unlawful actions in all our operations and transactions. We maintain 
+a zero-tolerance approach to corruption, enforce rigorous controls, and conduct regular audits to ensure compliance. By 
+fostering a culture of honesty and openness, we aim to build a trustworthy and reputable organization that upholds the highest 
+ethical standards.
+If Yes, Provide a web link to the policy, if available -Web link anti corruption or anti bribery policy is place
+https://astramwp.com/policies-1/
+5.
+Number of Directors/ KMPs/ employees/ workers against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/ corruption:
+Particulars
+FY 2023-24
+FY 2022-23
+Directors
+0
+0
+KMPs
+0
+0
+Employees
+0
+0
+Workers
+0
+0
+6.
+Details of complaints with regard to conflict of interest:
+Particulars
+FY 2023-24
+FY 2022-23
+Number
+Remark
+Number
+Remark
+Number of complaints received in relation to 
+issues of Conflict of Interest of the Directors
+0
+-
+0
+-
+Number of complaints received in relation to 
+issues of Conflict of Interest of the KMPs
+0
+-
+0
+-
+7.	
+Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by regulators/ 
+law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+	
+No Corrective Action Required 
+8.
+Number of days of accounts payables in the following format:
+Particulars
+FY 2023-24
+FY 2022-23
+Number of days of accounts payables
+58
+31
+9.	
+Open-ness of business
+Provide details of concentration of purchases and sales with trading houses, dealers, and related parties along-with loans and 
+advances & investments, with related parties, in the following format:
+Parameter
+Metrics
+FY 2023-24
+FY 2022-23
+Concentration of Purchases
+a.	
+Purchases from trading houses as % of total 
+purchases
+0
+0
+b.	
+Number of trading houses where purchases 
+are made from
+0
+0
+c.	
+Purchases from top 10 trading houses as % 
+of total purchases from trading houses
+0
+0
+82 
+Astra Microwave Products Limited
+Annual Report 2023-24
+Parameter
+Metrics
+FY 2023-24
+FY 2022-23
+Concentration of Sales
+a.	
+Sales to dealers / distributors as % of total 
+sales
+0
+0
+b.	
+Number of dealers / distributors to whom 
+sales are made
+0
+0
+c.	
+Sales to top 10 dealers / distributors as % of 
+total sales to dealers / distributors
+0
+0
+Share of RPTs in
+a.	
+Purchases (Purchases with related parties / 
+Total Purchases)
+6.65%
+12.67%
+b.	
+Sales (Sales to related parties / Total Sales)
+6.30%
+8.15%
+c.	
+Loans & advances (Loans & advances given 
+to related parties / Total loans & advances)
+0.28%
+ 8.41 % 
+d.	
+Investments
+100.00 %
+100.00 %
+PRINCIPLE 2 Businesses should provide goods and services in a manner that is sustainable and safe.
+(This principle highlights the importance of sustainable and safe production practices. Companies should strive to minimize the 
+environmental impact of their activities and ensure that their products and services are safe for consumers and the environment.)
+Essential Indicator
+1.
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental and 
+social impacts of product and processes to total R&D and capex investments made by the entity, respectively.
+Sr. 
+No.
+Particular
+FY 2023-24
+FY 2022-23
+Details of improvements 
+in environmental and 
+social impacts
+1
+R&D
+0
+0
+ -
+2
+Capex
+0
+0
+- 
+2	
+a.	
+Does the entity have procedures in place for sustainable sourcing? (Yes/No)	 	
+	
+	
+	
+	
+	
+No
+	
+b.	
+If yes, what percentage of inputs were sourced sustainably?		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+ NA
+3.
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, for
+(a) Plastics (including packaging)
+Not Applicable
+Due to the nature of our operations, which entail extensive dealings with defense 
+and government agencies, we do not currently practice product reclamation for 
+purposes of reuse, recycling, or disposal. The sensitivity of these sectors and the 
+strict regulations they adhere to require us to adopt this approach.
+(b) E-waste
+(c) Hazardous waste
+(d) other waste
+4.
+a
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No)
+No
+b
+If yes, whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan 
+submitted to Pollution Control Boards?
+EPR is not applicable to our company.
+c
+If not, provide steps taken to address the same
+Not Applicable
+83
+PRINCIPLE 3 Businesses should respect and promote the well-being of all employees, including those in their value 
+chains.
+(This principle emphasizes the importance of employee well-being. Companies should provide safe and healthy working conditions, 
+fair wages, and opportunities for career development to all employees in their value chains, including suppliers, contractors, and 
+temporary workers.)
+Essential Indicators
+1
+a.
+Details of measures for the well-being of employees:
+% of employees covered by
+Category
+Total (A)
+Health  
+insurance
+Accident 
+insurance
+Maternity  
+benefits
+Paternity 
+ Benefits
+Day Care  
+facilities
+Number 
+(B)
+% (B / A) Number 
+(C)
+% (C / A) Number 
+(D)
+% (D / A) Number 
+(E)
+% (E / A) Number 
+(F)
+% (F / A)
+Permanent employees
+Male
+1,220
+1,220
+100%
+1,220
+100%
+-
+-
+-
+-
+1,220
+100%
+Female
+249
+249
+100%
+249
+100%
+249
+100%
+-
+-
+249
+100%
+Total
+1,469
+1,469
+100%
+1,469
+100%
+249
+100%
+-
+-
+1,469
+100%
+Other than permanent employees
+Male
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Total
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1
+b.
+Details of measures for the well-being of workers:
+% of employees covered by
+Category
+Total (A)
+Health  
+insurance
+Accident 
+insurance
+Maternity  
+benefits
+Paternity  
+Benefits
+Day Care  
+facilities
+Number 
+(B)
+% (B / A) Number 
+(C)
+% (C / A) Number 
+(D)
+% (D / A) Number 
+(E)
+% (E / A) Number 
+(F)
+% (F / A)
+Permanent employees
+Male
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Total
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Other than permanent employees
+Male
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Total
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1.
+c
+Spending on measures towards well-being of employees and workers 
+(including permanent and other than permanent) in the following format
+FY 2023-24
+FY 2022-23
+Cost incurred on well- being measures as a % of total revenue of the 
+company
+3.18%
+2.60%
+84 
+Astra Microwave Products Limited
+Annual Report 2023-24
+2.
+Details of retirement benefits, for Current FY and Previous Financial Year.
+Benefits
+FY 2023-24
+FY 2022-23
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted 
+and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted 
+and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+PF
+100%
+0%
+Yes
+100%
+0%
+Yes
+Gratuity
+100%
+0%
+Yes
+100%
+0%
+Yes
+ESI
+100%
+0%
+Yes
+100%
+0%
+Yes
+Others – please specify
+-
+-
+-
+-
+-
+-
+3.
+Accessibility of workplaces
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the 
+requirements of the Rights of Persons with Disabilities Act, 2016? 
+yes
+If not, whether any steps are being taken by the entity in this regard.
+Our office has been designed to ensure accessibility and smooth navigation for everyone, thereby fostering inclusivity and 
+comfort within our diverse workforce. We place a high priority on creating a welcoming environment that specifically caters 
+to the needs of employees with disabilities. This dedication exemplifies our unwavering commitment to promoting diversity 
+and accessibility throughout our organization.
+4.
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016?	
+	
+yes
+If so, provide a web-link to the policy.
+We have an equal opportunity policy in place that complies with the Rights of 
+Persons with Disabilities Act, 2016. This policy ensures that we provide fair and 
+equal opportunities throughout the recruitment process and during employment, 
+regardless of caste, creed, gender, race, religion, or disability.
+We actively promote a diverse and inclusive work environment where everyone 
+feels valued and respected.
+5.
+Return to work and Retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent Employees
+Permanent Workers
+Return to work rate
+Retention Rate
+Return to work rate
+Retention Rate
+Male
+0
+0
+-
+-
+Female
+100%
+91%
+-
+-
+Total
+100%
+91%
+-
+-
+85
+6.
+Is there a mechanism available to receive and redress grievances for the following categories of employees and worker? 
+If yes, give details of the mechanism in brief.
+Category
+Yes/No
+If Yes, then give details of the mechanism in brief
+Permanent Workers
+Yes
+Our organization has implemented a structured Grievance Redressal 
+mechanism to ensure the prompt and effective resolution of employee 
+grievances. Employees are encouraged to initially raise their grievances with 
+their immediate superior, bringing any concerns or issues promptly to their 
+attention. In situations where the grievance involves the immediate superior, 
+employees should approach the HR department directly to communicate their 
+concerns, ensuring an unbiased and impartial investigation and resolution 
+process. The immediate superior or designated HR representative will 
+conduct a thorough investigation and make reasonable efforts to resolve the 
+issue within approximately three working days, meticulously documenting all 
+discussions and actions taken and submitting these to the HR department
+If an employee remains dissatisfied with the resolution provided by the 
+immediate superior, they have the option to escalate the grievance by 
+submitting a Grievance Form (Annexure - 17) to their next-level manager. 
+The manager will then conduct a comprehensive investigation and endeavor 
+to resolve the issue within a reasonable timeframe, typically three working 
+days, with all discussions and relevant documentation meticulously recorded 
+and shared with the HR department. Should the employee continue to be 
+unsatisfied with the resolution provided by the manager, they retain the right 
+to approach the HR department for further intervention. The HR team will 
+conduct an impartial investigation, considering all perspectives, and provide 
+a final resolution to the grievance.
+By adhering to this Grievance Redressal mechanism, we ensure that employee 
+concerns are heard and addressed in a fair, transparent, and efficient manner. 
+This structured approach enables us to resolve grievances while maintaining 
+comprehensive documentation and upholding the principles of fairness and 
+accountability throughout the process.
+Other than Permanent Workers
+Permanent Employees
+Other than Permanent 
+Employees
+7.
+Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+Category
+FY 2023-24
+FY 2022-23
+Total 
+employees 
+/ workers in 
+respective 
+category
+(A)
+No. of employees / 
+workers in respective 
+category, who are 
+part of association(s) 
+or Union (B) 
+% (B/A)
+Total 
+employees 
+/ workers in 
+respective 
+category(C)
+No. of employees / 
+workers in respective 
+category, who are 
+part of association(s) 
+or Union (D)
+% (D/C)
+Total Permanent employees
+Male
+1,220
+0
+0%
+1,095
+0
+0%
+Female
+249
+0
+0%
+184
+0
+0%
+Total Permanent Workers
+Male
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+86 
+Astra Microwave Products Limited
+Annual Report 2023-24
+8.
+Details of training given to employees and workers:
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+On Health and 
+Safety Measures
+On Skill 
+Upgradation
+Total (D)
+On Health and 
+Safety Measures
+On Skill 
+Upgradation
+Number 
+(B)
+% (B/A)
+Number 
+(C)
+% (C/A)
+Number 
+(E)
+% (E/D)
+Number 
+(F)
+% (F/D)
+Employees
+Male
+1,220
+1,220
+100%
+1,220
+100%
+1,095
+1,095
+100%
+1,095
+100%
+Female
+249
+249
+100%
+249
+100%
+184
+184
+100%
+184
+100%
+Total
+1,469
+1,469
+100%
+1,469
+100%
+1,279
+1,279
+100%
+1,279
+100%
+Workers
+Male
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Total
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+9.
+Details of performance and career development reviews of employees and worker:
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+No. (B)
+% (B / A)
+Total (D)
+No. (E)
+% (E / D)
+Employees
+Male
+1,220
+973
+79.75%
+1095
+1095
+100%
+Female
+249
+153
+61.45%
+184
+184
+100%
+Total
+1,469
+1,126
+76.65%
+1279
+1279
+100%
+Workers
+Male
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+Total
+-
+-
+-
+-
+-
+-
+10. Health and safety management system
+a.
+Whether an occupational health and safety management system has been implemented by the entity? 
+(Yes/ No)
+yes
+If Yes, the Coverage such systems?
+The company-owned facilities and offices have Occupational and health & safety management system implemented and 
+on place.
+b.
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by 
+the entity?
+To identify work-related hazards and assess risks on both routine and non-routine bases, the entity employs a systematic 
+process that ensures comprehensive evaluation and effective management of occupational health and safety (OHS) 
+hazards. This process includes the following steps:
+1.	
+Identification of Significant Hazards/Risks:
+
+Assessment Against Criteria and Ratings: Hazards identified in each work area are assessed against specific 
+criteria and assigned ratings to determine their significance.
+
+Overriding Factors and Potential Emergencies: Any hazard classified under the ‘overriding factors, Potential 
+Emergency’ is automatically deemed a significant hazard due to its potential severity.
+
+Significance Score Classification: Hazards are further evaluated based on their significance scores. Those 
+falling into the “Unacceptable” and “Needs correction” categories, with LXS values ranging between 5 and 25, are 
+considered significant and prioritized for action.
+87
+2.	
+Post-Control Evaluation of Hazards/Risks:
+
+Control Measure Implementation: The effectiveness of control measures implemented to mitigate identified 
+environmental aspects and impacts is a crucial component of the evaluation.
+
+OHS Hazards and Associated Risks Evaluation: Similar to environmental evaluations, OHS hazards and 
+associated risks are assessed using overriding factors and the significance score criteria.
+
+Categorization of Significance Scores: The significance scores are categorized into three levels: High, Medium, 
+and Low. This categorization is based on a predefined evaluation table that guides the prioritization of hazard 
+management efforts.
+By adhering to this thorough evaluation process, the entity ensures that significant hazards and risks are identified and 
+managed effectively. This systematic approach facilitates the prioritization and implementation of appropriate control 
+measures, thereby enhancing workplace safety and mitigating potential risks.
+c. 
+Whether you have processes for workers to report the work related hazards and to remove themselves 
+from such risks? (Yes/ No)
+yes
+We’ve established an Emergency Response Team (ERT) specifically trained to handle emergencies and coordinate with 
+local essential services for incident management.
+The ERT comprises key personnel responsible for providing and coordinating an efficient response to minimize 
+disruptions to our business operations during emergencies. This team includes members such as the Rescue Team, First 
+Aiders, Observers, Firefighters, Security Staff, and Communication Lead, all under the leadership of the Security Officer 
+on duty.
+d.	
+Do the employees/ worker of the entity have access to non-
+occupational medical and healthcare services? (Yes/ No)
+Yes, We have authorized outside agency for daily/
+weekly/monthly health checkups of all Employees of 
+factories.
+11. Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category*
+FY 2023-24
+FY 2022-23
+Lost Time Injury Frequency Rate (LTIFR)  
+(per one million-person hours worked)
+Employees
+0
+0
+Workers
+0
+0
+Total recordable work-related injuries
+Employees
+0
+0
+Workers
+0
+0
+No. of fatalities
+Employees
+0
+0
+Workers
+0
+0
+High-consequence work-related injury or ill health (excluding 
+fatalities)
+Employees
+0
+0
+Workers
+0
+0
+*Including in the contract workforce
+12.	 Describe the measures taken by the entity to ensure a safe and healthy work place.
+The organization has implemented multiple measures to guarantee a safe and healthy workplace. Firstly, there is a clearly 
+defined procedure for evaluating occupational health and safety (OHS) hazards and risks. This systematic assessment aids in 
+identifying potential risks and devising appropriate control measures. Additionally, the company places strong emphasis on 
+proper documentation and record-keeping, aligning with the requirements of Environmental Health and Safety Management 
+System (EHSMS) documentation. This ensures accurate recording of relevant information regarding safety measures, 
+incidents, and corrective actions, which can be accessed as needed.
+To uphold high safety standards, regular internal and external audits are conducted throughout the year. These audits evaluate 
+compliance with safety protocols, pinpoint areas for improvement, and ensure ongoing adherence to safety regulations. 
+Furthermore, the company has established EHS objectives and key performance indicators (KPIs) for each department. These 
+objectives and KPIs are monitored regularly to track progress and address any deviations from set targets. This proactive 
+approach facilitates continuous improvement and maintains a focus on fostering a safe working environment.
+88 
+Astra Microwave Products Limited
+Annual Report 2023-24
+13. Number of Complaints on the following made by employees and workers:
+Particulars
+FY 2023-24
+FY 2022-23
+Filed during 
+the year
+Pending resolution 
+at the end of year
+Remarks
+Filed during 
+the year
+Pending resolution 
+at the end of year
+Remarks
+Working Conditions
+0
+0
+-
+0
+0
+-
+Health & Safety
+0
+0
+-
+0
+0
+-
+14. Assessment for the year:
+Particulars
+% of your plants and offices that were assessed  
+(by entity or statutory authorities or third parties)
+Health and safety practices
+100% 
+Working Conditions
+100% 
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant 
+risks/ concerns arising from assessments of health & safety practices and working conditions.
+No corrective actions were needed to rectify safety-related incidents or address significant risks/concerns identified during 
+health and safety practice assessments and evaluations of working conditions.
+89
+PRINCIPLE 4 Businesses should respect the interests of and be responsive to all its stakeholders.
+(This principle highlights the importance of stakeholder engagement. Companies should consider the interests and perspectives 
+of all stakeholders, including shareholders, employees, customers, suppliers, and the communities in which they operate. They 
+should also be responsive to stakeholder concerns and feedback.)
+Essential Indicators
+1.	
+Describe the processes for identifying key stakeholder groups of the entity.
+Our stakeholder groups include individuals and entities directly or indirectly affected by the company’s operations, as well 
+as those with the potential to impact our value creation in the short, medium, or long term. We prioritize fostering mutual, 
+trust-based relationships with our stakeholders, striving to understand their priorities and create shared value. In alignment 
+with our business model, the company has identified these key stakeholder groups to ensure their needs and expectations are 
+integrated into our strategic planning and operational processes.
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group
+Channels of communication  
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website, Other- Please 
+Specify)
+Frequency of 
+engagement 
+(Annually, Half-yearly, 
+Quarterly, others- 
+Please specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Community
+ Yes
+Email, Calls, Direct contact, 
+Directly communicate the 
+Government; NGOs; Local 
+Communities, media, Industry 
+analyst, Society
+Frequent or as and 
+when required
+Support CSR projects
+Shareholders
+ No
+Investor Conference Call, Email, 
+Website, AGM, Communication 
+to stock exchanges, annual 
+/ quarterly calls, Newspaper 
+Advertisements
+Frequent or as and 
+when required
+To inform about current and 
+future plan
+Employees
+ No
+Direct contact, HR Connect, 
+Email, SMS, DailyCalls
+ Daily
+To inform employees on 
+key developments within 
+the Company; to involve 
+employees in decision 
+making and aligning them to 
+the shared purpose of the 
+Company’s Vision, Values 
+and business strategy; 
+to invigorate employees 
+and enable delivery of the 
+employee promise
+Vendors/ 
+suppliers 
+ No
+Email, SMS, Website, other 
+physical and digital channels
+Frequent or as and 
+when required
+Bussinees services and 
+increase scope for further 
+expansion
+Industry bodies 
+Regulators
+ No
+Email, personal meetings, calls
+As and when 
+required
+Discussions on policy 
+regulations and 
+amendments, inspections, 
+and approvals
+90 
+Astra Microwave Products Limited
+Annual Report 2023-24
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group
+Channels of communication  
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website, Other- Please 
+Specify)
+Frequency of 
+engagement 
+(Annually, Half-yearly, 
+Quarterly, others- 
+Please specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Government; 
+NGOs; Local 
+Communities, 
+media, Industry 
+analyst, Society 
+at large 
+ Yes
+Email, Calls, Direct contact, 
+Communicating through Astra 
+foundation, Directly communicate 
+the Government; NGOs; Local 
+Communities, media, Industry 
+analyst, Society
+Frequent or as and 
+when required
+Support CSR projects
+Customers
+No
+Direct contact, Email, SMS, 
+Newspaper, Pamphlets, 
+Advertisement, Website
+Frequent or as and 
+when required
+Product quality / technical 
+complaints/delay Deliveries
+Investors
+No
+Investor Conference Call, Email, 
+Website, AGM, Communication 
+to stock exchanges, annual 
+/ quarterly calls, Newspaper 
+Advertisements
+Frequent or as and 
+when required
+To inform about current and 
+future plan
+Industry peers
+No
+Email, personal meetings, calls
+As and when 
+required
+Discussions on policy 
+regulations and 
+amendments, inspections, 
+and approvals
+Leadership Indicators
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social topics 
+or if consultation is delegated, how is feedback from such consultations provided to the Board.
+We value open communication and collaboration with our stakeholders. Their perspectives are crucial for making informed 
+decisions that contribute to our long-term success. We have established multiple channels for receiving feedback on 
+economic, environmental, and social topics. These channels include mail, online surveys, and dedicated suggestion boxes at 
+our facilities.
+We actively gather and analyze this feedback to understand stakeholder concerns, priorities, and suggestions. Key insights 
+are then presented to the Board of Directors, ensuring these broader perspectives inform their discussions and decision-
+making processes. This multi-pronged approach fosters transparency and helps us address the economic, environmental, and 
+social issues that matter most to our stakeholders.
+2.
+Whether stakeholder consultation is used to support the identification and management of 
+environmental, and social topics (Yes/No): 
+Yes
+If so, provide details of instances as to how the inputs received from stakeholders on these topics were incorporated into 
+policies and activities of the entity.
+We actively engage stakeholders to identify and manage environmental and social topics. Internal stakeholder insights 
+are crucial in our materiality assessment, helping us prioritize material topics impacting our business and stakeholders. 
+Their feedback also informs the development and revision of our environmental and social policies, ensuring they address 
+stakeholder concerns.
+This collaborative approach extends to program design. We actively seek stakeholder input when creating initiatives to 
+manage and mitigate our impacts.
+91
+PRINCIPLE 5 Businesses should respect and promote human rights.
+(This principle focuses on the importance of human rights. Companies should respect and promote human rights, including the 
+rights to freedom of expression, association, and privacy. They should also prevent and address human rights violations in their 
+operations and value chains.)
+Essential Indicators
+1.
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the 
+following format
+Benefits
+FY 2023-24
+FY 2022-23
+Total (A)
+No. of employees/ 
+workers covered (B)
+%(B/A).
+Total (C)
+No. of employees/ 
+workers covered (D)
+% (D / C)
+Employees
+Permanent
+1,469
+1,469
+100%
+1,279
+1,279
+100%
+Other than permanent
+-
+-
+-
+-
+-
+-
+Total Employees
+1,469
+1,469
+100%
+1,279
+1,279
+100%
+Workers
+Permanent
+-
+-
+-
+-
+-
+-
+Other than permanent
+-
+-
+-
+-
+-
+-
+Total Workers
+-
+-
+-
+-
+-
+-
+2.
+Details of minimum wages paid to employees and workers
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+Equal to Minimum 
+Wage
+More than 
+Minimum Wage
+Total (D)
+Equal to Minimum 
+Wage
+More than 
+Minimum Wage
+No. (B)
+% (B /A)
+No. (C)
+% (C /A)
+No. (E)
+% (E /D)
+No. (F)
+%  (F /D)
+Employees Permanent
+Male
+1,220
+0
+-
+1,220
+100%
+1095
+0
+0%
+1095
+100%
+Female
+249
+0
+-
+249
+100%
+184
+0
+0%
+184
+100%
+Total
+1,469
+0
+-
+1,469
+100%
+1279
+0
+0%
+1279
+100%
+Other than Permanent
+Male
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Total
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Workers Permanent
+Male
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Total
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Other than Permanent
+Male
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Total
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+92 
+Astra Microwave Products Limited
+Annual Report 2023-24
+3.	
+Details of remuneration/salary/wages
+a.	
+Median remuneration / wages:
+Particular
+Male
+Female
+Number
+Median remuneration/ 
+ salary/ wages of 
+respective category
+Number
+Median remuneration/ 
+salary/ wages of 
+respective category
+Executive Directors 
+3
+2,36,05,468
+0
+0 
+Non Executive Directors
+4
+32,99,225
+1
+32,99,225
+Key Managerial Personnel
+5
+86,73,732
+  0
+0 
+Employees other than BoD and KMP
+1,220 
+4,77,132
+249
+4,24,638
+Workers
+- 
+- 
+- 
+ -
+b.
+Gross wages paid to females as % of total wages paid by the entity, in the following format:
+Particulars
+FY 2023-24
+FY 2022-23
+Gross wages paid to female as % of total wages
+13.74%
+12.60%
+4.
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or 
+issues caused or contributed to by the business?
+yes
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+Certainly, we have a grievance redressal mechanism in place specifically designed to address concerns related to human 
+rights. Employees are encouraged to promptly bring any grievances to their immediate superior for resolution. In cases where 
+the grievance involves the immediate superior, employees have the option to directly approach the Human Resources (HR) 
+department. The superior will conduct a thorough investigation and strive to resolve the issue within approximately 3 working 
+days, ensuring all discussions are documented and submitting relevant documentation to HR.
+Should an employee remain dissatisfied with the response from their immediate superior, they have the right to escalate 
+the grievance by submitting a Grievance Form to their next-level manager. The manager will conduct a comprehensive 
+investigation and endeavor to resolve the issue within a similar timeframe, ensuring all discussions are documented and 
+submitting documentation to HR for review.
+If the employee continues to be dissatisfied with the resolution provided by the manager, they retain the option to approach 
+HR for an impartial investigation and final resolution. This grievance redressal mechanism ensures a fair and transparent 
+process for addressing human rights-related concerns within the organization.
+6.
+Number of Complaints on the following made by employees and workers:
+Particulars
+FY 2023-24
+FY 2022-23
+Filed during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Sexual Harassment
+0
+0
+-
+0
+0
+-
+Discrimination at workplace
+0
+0
+-
+0
+0
+-
+Child Labour
+0
+0
+-
+0
+0
+-
+Forced Labour/Involuntary Labour
+0
+0
+-
+0
+0
+-
+Wages
+0
+0
+-
+0
+0
+-
+Other human rights related issues
+0
+0
+-
+0
+0
+-
+93
+7.
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013, 
+in the following format:
+Particulars
+FY 2023-24
+FY 2022-23
+Total Complaints reported under Sexual Harassment on of Women at Workplace 
+(Prevention, Prohibition and Redressal) Act, 2013 (POSH)
+0
+0
+Complaints on POSH as a % of female employees / workers
+0
+0
+Complaints on POSH upheld
+0
+0
+8.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+All discussions related to raised grievances concerning discrimination and harassment are treated with the utmost 
+confidentiality to protect the privacy of individuals involved. Information regarding these complaints is shared only on a need-
+to-know basis to prevent any potential harm to the complainant. We understand the sensitivity and impact of such cases, thus 
+maintaining strict confidentiality to uphold the rights and well-being of everyone involved.
+By prioritizing confidentiality, we create a secure and supportive environment where individuals can confidently come forward 
+with their concerns, knowing that their privacy will be respected throughout the resolution process. This commitment to 
+confidentiality fosters trust and encourages open communication, ensuring a fair and effective grievance resolution process.
+9.
+Do human rights requirements form part of your business agreements and contracts? (Yes/No/NA)
+yes
+10. Assessment for the year:
+Name of the Assessment
+% of your plants and offices that were assessed  
+(by entity or statutory authorities or third parties)
+Child labour 
+100%
+Forced/involuntary labour 
+100%
+Sexual harassment
+100%
+Discrimination at workplace
+100%
+Wages
+100%
+Others – please specify
+-
+11.	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 10 above.
+	
+No Corrective action required
+Leadership Indicators
+3.
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the 
+Rights of Persons with Disabilities Act, 2016? (Yes/No)
+yes
+94 
+Astra Microwave Products Limited
+Annual Report 2023-24
+PRINCIPLE 6 Businesses should respect and make efforts to protect and restore the environment.
+(This principle emphasizes the importance of environmental stewardship. Companies should minimize their impact on the 
+environment, conserve natural resources, and promote environmental sustainability. They should also take steps to restore and 
+rehabilitate degraded ecosystems.)
+Essential Indicators
+1.
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+FY 2023-24
+FY 2022-23
+From renewable sources
+Total electricity consumption (A)
+5128.54
+5021.93
+Total fuel consumption (B)
+0
+0
+Energy consumption through other sources (C.)
+0
+0
+Total energy consumed from renewable sources (A+B+C)
+5128.54
+5021.93
+From non-renewable sources
+Total electricity consumption (D)
+13,676.97
+12,577.74
+Total fuel consumption (E )
+1,396.26
+1,435.97
+Energy consumption through other sources (F)
+0
+0
+Total energy consumed from non-renewable sources (D+E+F)
+15,073.23
+14,013.71
+Total energy consumed (A+B+C+D+E+F)
+20,201.77
+19,035.64
+Energy intensity per rupee of turnover 
+(Total energy consumed / Revenue from operations)
+0.0000022341
+0.0000023416
+Energy intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP) 
+(Total energy consumed / Revenue from operations adjusted for PPP)
+0.0000511162
+0.0000535758
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency?
+No
+If yes, name of the external agency.
+2.
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, 
+Achieve and Trade (PAT) Scheme of the Government of India? (Yes/No)
+No
+If yes, disclose whether targets set under the PAT scheme have been achieved. In case targets have not been achieved, 
+provide the remedial action taken, if any.
+PAT is not applicable for your company
+3.
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+Water withdrawal by source (in kilolitres)
+FY 2023-24
+FY 2022-23
+(i)	
+Surface water
+20
+ 20
+(ii)	 Groundwater
+48,295.90
+23,977 
+(iii)	 Third party water
+1,240
+1,224
+(iv)	 Seawater / desalinated water
+ 
+ 0
+(v)	
+Others- Drinking Water
+87.84
+82.04 
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+49,643.74
+25,303.04
+Total volume of water consumption (in kilolitres)*
+49,123.74
+24,823.04
+Water intensity per rupee of turnover  
+(Total water consumption / Revenue from operations)
+0.0000054325
+0.0000030535
+Water intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP) 
+(Total water consumption / Revenue from operations adjusted for PPP)
+0.0001242956
+0.0000698641
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external 
+agency? (Yes/No)
+No
+If yes, name of the external agency.
+	
+*We are using 20.40% of recycled water in the production which reduces our water withdrawal from fresh sources
+95
+4.
+Provide the following details related to water discharged:
+Parameter
+FY 2023-24
+FY 2022-23
+Water discharge by destination and level of treatment (in kilolitres)
+(i)	
+To Surface water
+ 
+ 
+	
+No treatment
+-
+-
+	
+With treatment – please specify level of treatment
+-
+-
+(ii)	 To Groundwater
+ 
+ 
+	
+No treatment
+-
+-
+	
+With treatment – please specify level of treatment
+-
+-
+(iii)	 To Seawater
+ 
+ 
+	
+No treatment
+-
+-
+	
+With treatment – please specify level of treatment
+-
+-
+(iv)	 Sent to third-parties
+ 
+ 
+	
+No treatment
+-
+-
+	
+With treatment – Secondary treatment
+520
+480
+(v)	 Others
+ 
+ 
+	
+No treatment
+-
+-
+	
+With treatment – please specify level of treatment
+-
+-
+Total water discharged (in kilolitres)
+ 
+ 
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an 
+external agency? (Y/N)
+No
+If yes, name of the external agency.
+-
+5.
+Has the entity implemented a mechanism for Zero Liquid Discharge?
+yes
+If yes, provide details of its coverage and implementation.
+This advanced water treatment process will enable us to recover and recycle nearly all of our wastewater, eliminating liquid 
+waste and significantly reducing our environmental impact. By adopting ZLD, we are not only ensuring compliance with stringent 
+environmental regulations but also contributing to water conservation and sustainability. This initiative underscores our 
+dedication to responsible resource management and our ongoing efforts to operate in an environmentally sustainable manner.
+6.
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please specify unit
+FY 2023-24
+FY 2022-23
+NOx*
+mg/nm3
+44.73
+57.24
+Sox*
+mg/nm3
+34.81
+47.33
+Particulate matter (PM)*
+mg/nm3
+28.13
+33.95
+Persistent organic pollutants (POP)
+-
+-
+Volatile organic compounds (VOC)
+-
+-
+Hazardous air pollutants (HAP)
+-
+-
+Others – please specify
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an 
+external agency? (Y/N)
+Yes
+If yes, name of the external agency.
+In HO, Unit 1, Unit 2, Unit 4 and Unit 7 the evalution of other 
+emissions were conducted by Care Labs and in Bengaluru Unit 
+the evalution of other emissions were conducted by Amulya 
+Associates.
+	
+* Average of total other emission from all the company owned locations
+96 
+Astra Microwave Products Limited
+Annual Report 2023-24
+7.
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+Parameter
+Unit
+FY 2023-24
+FY 2022-23
+Total Scope 1 emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of CO2 
+equivalent
+653.34
+1,486.89
+Total Scope 2 emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of CO2 
+equivalent
+2,720.20
+2,501.57
+Total Scope 1 and Scope 2 emissions per rupee of 
+turnover*
+(Total Scope 1 
+and Scope 2 GHG 
+emissions / Revenue 
+from operations)
+0.0000003731
+0.0000004906
+Total Scope 1 and Scope 2 emission intensity per rupee 
+of turnover adjusted for Purchasing Power Parity (PPP)
+(Total Scope 1 
+and Scope 2 GHG 
+emissions / Revenue 
+from operations 
+adjusted for PPP)
+0.0000085365
+0.0000112249
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an 
+external agency? (Y/N)
+No
+If yes, name of the external agency.
+ -
+*We have invested in solar power generation which reduced our demand from electricity consumption from non renwable 
+sources. In fy 23-24 , we have substituted nearly 1020 TCO2e of emissions
+8.
+Does the entity have any project related to reducing Green House Gas emission? (Yes/ No)
+yes
+If Yes, then provide details.
+We’ve undertaken significant initiatives to promote environmental sustainability, such as installing solar power plants across 
+our offices and manufacturing sites, resulting in nearly 1 MW of solar panels. This move not only enhances sustainability but also 
+reduces our reliance on non-renewable energy sources. Additionally, we actively support green plantation efforts, collaborating 
+with programs like Telangana Haritha Haram to plant numerous trees and increase green coverage in our vicinity.
+Moreover, we prioritize promoting greenery within our company premises. To further reduce our carbon footprint, we provide 
+a common bus facility for employee transportation, aiming to minimize individual vehicles on the road and reduce greenhouse 
+gas emissions. These combined efforts play a crucial role in combating climate change and are aligned with our dedication to 
+environmental sustainability.
+9.	
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2023-24
+FY 2022-23
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+0.992
+2.39
+E-waste (B)
+1.15
+0.44
+Bio-medical waste (C)
+-
+0.0001
+Construction and demolition waste (D)
+1.00
+0
+Battery waste (E)
+0.92
+2.44
+Radioactive waste (F)
+-
+0
+Other Hazardous waste. Please specify, if any. (G)
+0.02
+0.18
+Other Non-hazardous waste generated (H). 
+Please specify, if any. (Break-up by composition i.e. by materials relevant to the 
+sector)
+13.48
+8.38
+97
+Parameter
+FY 2023-24
+FY 2022-23
+Other office generated waste
+10.36
+2.43
+Iron / Alluminium -Metals
+1.77
+5.00
+Packaging wood
+1.09
+3.18
+Canteen Waste
+0.25
+-
+Grease Waste
+0.01
+-
+Total (A+B + C + D + E + F + G + H)
+17.56
+16.06
+Waste intensity per rupee of turnover 
+(Total waste generated / Revenue from operations)
+0.0000000019
+0.0000000020
+Waste intensity per rupee of turnover adjusted for Purchasing Power Parity 
+(PPP) (Total waste generated / Revenue from operations adjusted for PPP)
+0.0000000435
+0.0000000458
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations 
+(in metric tonnes)
+Category of waste
+FY 2023-24
+FY 2022-23
+(i)	
+Recycled
+0.094
+0
+(ii)	 Re-used
+2.291
+0
+(iii)	 Other recovery operations
+5.153
+13.745
+Total
+7.538
+13.745
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+FY 2023-24
+FY 2022-23
+(i) Incineration
+0
+0
+(ii) Landfilling
+0
+0
+(iii) Other disposal operations
+12.26
+1.83
+Total*
+12.26
+1.83
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an 
+external agency? (Y/N)
+No
+If yes, name of the external agency.
+-
+	
+* We have diposed 2 tonnes of waste generated in the FY 22-23 in FY 23-24
+10.	 Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by your 
+company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices adopted to 
+manage such wastes.
+Our company upholds a comprehensive waste management practice across all our plants and offices. We strongly believe 
+that responsible waste management is integral to environmental sustainability and corporate responsibility. We meticulously 
+monitor and record the waste generated at our facilities. Subsequently, we entrust it to certified vendors specializing in proper 
+waste management, ensuring compliance with regulatory requirements and employing environmentally friendly techniques 
+for disposal or recycling. This approach minimizes environmental impact.
+Additionally, we have stringent protocols for managing electronic waste (e-waste) and hazardous waste, which are more 
+intricate to handle. Similar to general waste, we collaborate with certified vendors to ensure the proper disposal or recycling 
+of these waste types. These vendors are carefully chosen to ensure they comply with the latest and most stringent waste 
+handling standards, emphasizing both environmental and human safety.
+In conclusion, through vigilant monitoring and collaboration with certified waste management vendors, we guarantee that our 
+waste, whether general, e-waste, or hazardous, is managed in the most environmentally conscious manner possible.
+98 
+Astra Microwave Products Limited
+Annual Report 2023-24
+11. If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals 
+/ clearances are required, please specify details in the following format:
+Sr. 
+No.
+Location of operations/
+offices
+Type of operations
+Whether the conditions of 
+environmental approval/clearance 
+are being complied with? (Y/N)
+If no, the reasons thereof 
+and corrective action taken, 
+if any.
+We do not have any offices, plants in ecological sensitive area
+12. Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the current 
+financial year:
+Name and brief 
+details of project
+EIA Notification 
+No.
+Date
+Whether conducted by 
+independent external 
+agency (Yes / No)
+Results communicated 
+in public domain (Yes / 
+No)
+Relevant Web link
+No, Environmental Impact Assessments of projects has been conducted in the current financial year
+13. Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such 
+as the Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, 
+Environment protection act and rules thereunder (Y/N/NA).
+Yes
+If not, provide details of all such non-compliances, in the following format:
+Specify the law/regulation/ 
+guidelines which was not 
+complied with
+Provide details 
+of the non- 
+compliance
+Any fines / penalties / action taken by 
+regulatory agencies such as pollution control 
+boards or by courts
+Corrective action 
+taken, if any
+We are compliant with the applicable environmental laws/ regulations/ guidelines in India
+Leadership Indicators
+4.	
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource efficiency, 
+or reduce impact due to emissions / effluent discharge / waste generated, please provide details of the same as well as 
+outcome of such initiatives, as per the following format:
+Initiative 
+undertaken
+Details of the initiative (Web-link, if any, may 
+be provided along-with summary)
+Outcome of the 
+initiative
+Corrective action taken, 
+if any
+Increased Energy 
+Efficiency of 
+Existing AHUs 
+We replaced traditional blowers with V-belt 
+motors 
+and 
+upgraded 
+to 
+Electronically 
+Commutated (E.C) Fan Motors. This transition 
+enhances motor efficiency and reduces power 
+loss.
+The 
+electrical 
+load 
+was 
+significantly 
+reduced from 47 KW 
+to 12 KW, resulting in 
+considerable 
+power 
+consumption reduction
+Overhead Water Tank 
+Auto Control System 
+An 
+automated 
+control 
+system 
+was 
+implemented to manage the overhead water 
+tank, preventing overflow and reducing 
+water wastage. 
+The 
+initiative 
+successfully 
+reduced 
+water 
+wastage 
+and 
+achieved power savings 
+by optimizing the water 
+pump operation. 
+99
+Initiative 
+undertaken
+Details of the initiative (Web-link, if any, may 
+be provided along-with summary)
+Outcome of the 
+initiative
+Corrective action taken, 
+if any
+AHU's Condenser 
+Drain Water Reuse 
+The condenser drain water from AHUs, 
+which maintains a temperature below 20°C, 
+is repurposed for chiller operations. This 
+reduces the load on the chiller compressors. 
+This 
+reuse 
+strategy 
+decreased 
+the 
+load 
+on 
+chiller 
+compressors, 
+leading 
+to a notable decrease in 
+power consumption. 
+Solar System 
+Panels Cleaning 
+We 
+implemented 
+a 
+monthly 
+cleaning 
+schedule for our solar panels and increased 
+the frequency of load measurements from 
+monthly to weekly. This ensures optimal 
+performance and early detection of issues. 
+Regular 
+cleaning 
+and 
+frequent 
+load 
+measurements allowed 
+early identification of 
+faulty panels. Prompt 
+corrective 
+actions 
+were taken, enhancing 
+overall 
+solar 
+power 
+generation efficiency. 
+Sensor-Based 
+Water Taps 
+Traditional water taps were replaced with 
+sensor-based 
+taps, 
+which 
+automatically 
+control water flow based on user presence, 
+thereby preventing unnecessary water use.
+This initiative led to 
+a reduction in water 
+consumption 
+by 
+ensuring water is only 
+used when necessary, 
+eliminating wastage. 
+Motion Sensors
+Conventional lighting was upgraded to motion 
+sensor lighting, which automatically turns 
+lights on or off based on room occupancy, 
+thus optimizing energy use.
+This upgrade reduced 
+excess 
+electricity 
+consumption 
+by 
+ensuring lights are only 
+on when the space 
+is occupied
+Rain Water Harvesting
+A rainwater harvesting system was installed 
+at our facility, capturing and storing rainwater 
+for various non-potable uses such as irrigation 
+and cooling systems.
+The 
+system 
+has 
+resulted in significant 
+water 
+savings 
+by 
+supplementing 
+our 
+water 
+supply 
+with 
+harvested rainwater.
+100 
+Astra Microwave Products Limited
+Annual Report 2023-24
+PRINCIPLE 7 Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that 
+is responsible and transparent.
+(This principle highlights the importance of responsible advocacy. Companies should engage in policy advocacy in a responsible 
+and transparent manner, and avoid engaging in activities that could undermine the public interest or the democratic process.)
+Essential Indicators
+1.
+a.
+Number of affiliations with trade and industry chambers/ associations.
+7
+b.
+List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) the 
+entity is a member of/ affiliated to.
+Sr. 
+No.
+Name of the trade and industry chambers/ associations
+Reach of trade and industry chambers/ 
+associations (State/National/ International)
+ 1.
+Electronics and Computer Software Export Promotion Council
+National
+ 2.
+Andhra Chamber of Commerce 
+State
+ 3.
+Confederation of Indian Industry
+National
+ 4.
+Electronics Industries Association of India 
+National
+ 5.
+ASSOCHEM
+National
+ 6.
+Indian Space Association 
+National
+ 7.
+Society of Indian Defence Manufacturers
+National
+2.
+Provide details of corrective action taken or underway on any issues related to anti- competitive conduct by the entity, 
+based on adverse orders from regulatory authorities.
+Name of authority
+Brief of the case
+Corrective action taken
+Not Applicable 
+101
+PRINCIPLE 8 Businesses should promote inclusive growth and equitable development.
+(This principle emphasizes the importance of promoting inclusive and equitable economic development. Companies should create 
+economic opportunities for all, including disadvantaged and marginalized groups. They should also contribute to the development 
+of local communities and support social and economic empowerment.)
+Essential Indicators
+1.
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on  applicable laws, in the current 
+financial year.
+Name and brief 
+details of project
+SIA Notification 
+No.
+Date of 
+notification
+Whether conducted by 
+independent external 
+agency (Yes / No)
+Results communicated 
+in public domain
+(Yes / No)
+Relevant 
+Web link
+As the contribution is not exceeding Rs. 10 Crores, the same is not applicable.
+2.
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your 
+entity, in the following format:
+Sr. 
+No.
+Name of Project for 
+which R&R is ongoing
+State
+District
+No. of Project Affected 
+Families (PAFs)
+% of PAFs covered 
+by R&R
+Amounts paid to 
+PAFs in the FY (In 
+INR)
+No Rehabilitation and Resettlement has been undertaken by the entity.
+3.	
+Describe the mechanisms to receive and redress grievances of the community.
+We prioritize open communication and addressing community concerns. We have established multiple channels for receiving 
+and effectively resolving grievances. Residents can voice their concerns directly through our dedicated hotline (040-46618000), 
+submit complaints online via a convenient form on our website (https://astramwp.com/contact-us/), or send an email (info@
+astramwp.com.)
+Once a grievance is received, we follow a defined process that ensures a prompt acknowledgement, thorough investigation, 
+timely response, and clear communication throughout the resolution process. We strive for a mutually agreeable outcome 
+and believe in continuous improvement to make our grievance redressal mechanism accessible, efficient, and fair for all 
+community members.
+4.
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+Particular
+FY 2023-24
+FY 2022-23
+Directly sourced from MSMEs/ small producers
+14.40
+10.47%
+Directly from within India
+50.07%
+43.81%
+5.
+Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers employed on a 
+permanent or non-permanent / on contract basis) in the following locations, as % of total wage cost
+Particular
+FY 2023-24
+FY 2022-23
+Rural
+0
+0
+Semi-urban
+0
+0
+Urban
+94%
+95%
+Metropolitan
+6%
+5%
+(Place to be categorized as per RBI Classification System - rural / semi-urban / urban/metropolitan)
+102 
+Astra Microwave Products Limited
+Annual Report 2023-24
+PRINCIPLE 9 Businesses should engage with and provide value to their consumers in a responsible manner.
+(This principle highlights the importance of responsible consumer engagement. Companies should provide safe, high-quality 
+products and services, and ensure that they are marketed and sold ethically and responsibly. They should also be transparent about 
+their products and services, and provide consumers with the information they need to make informed choices.)
+Essential Indicators
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+The company’s product range is limited to electronics designed for Defence and Space use; there are no specific consumer 
+products offered. As part of our standard practice, we annually collect formal feedback from clients/customers. Our customer 
+feedback mechanisms include email, letter, fax, website portal, and verbal communication directly to project management 
+teams. Customers can also lodge complaints through the phone and email addresses provided on the company website. Our 
+goal is to ensure the highest level of customer satisfaction through our robust grievance redressal mechanism.  We’ve also 
+made it easier to reach us by providing a email address (mktg@astramwp.com) to the consumer.
+2.
+Turnover of products and/ services as a percentage of turnover from all products/service that carry information about
+Particular
+As a percentage to total turnover
+Environmental and social parameters relevant to the product
+100%
+Safe and responsible usage
+100%
+Recycling and/or safe disposal
+100%
+3.
+Number of consumer complaints in respect of the following:
+Particulars
+FY 2023-24
+Remarks
+FY 2022-23
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Data privacy
+0
+0
+--
+0
+0
+-
+Advertising
+0
+0
+--
+0
+0
+-
+Cyber-security
+0
+0
+--
+0
+0
+-
+Delivery of essential services
+0
+0
+--
+0
+0
+-
+Restrictive Trade Practices
+0
+0
+--
+0
+0
+-
+Unfair Trade Practices
+0
+0
+--
+0
+0
+-
+Other
+0
+0
+--
+0
+0
+-
+4.
+Details of instances of product recalls on account of safety issues:
+Particular
+Number
+Reason for recall
+Voluntary recalls
+0
+-
+Forced recalls
+0
+-
+103
+5.
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No)
+Yes
+If available, provide a web link of the policy
+The company has established a framework for cyber security and data 
+privacy-related risks, which is accessible on the company’s intranet.
+https://hrconnect.astramwp.com/ITPolicies.aspx
+6.
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential 
+services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action 
+taken by regulatory authorities on safety of products / services.
+No corrective action required
+7.
+Provide the following information relating to data breaches
+a.	
+Number of instances of data breaches along-with impact
+0
+b.	
+Percentage of data breaches involving personally identifiable information of customers
+0
+c.	
+Impact, if any, of the data breaches
+Not Applicable
+	
+For and on behalf of the Board of Directors
+S. Gurunatha Reddy
+M.V. Reddy
+Place: Hyderabad
+Managing Director
+Joint Managing Director
+Date: July 17, 2024
+DIN: 00003828
+DIN: 00421401

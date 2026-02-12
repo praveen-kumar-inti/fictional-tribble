@@ -1,0 +1,4182 @@
+1
+Corporate Identity Number (CIN) of the Company 
+L34300DL1988PLC030342
+2
+Name of the Company
+ASK Automotive Limited
+3
+Year of Incorporation
+1988
+4
+Registered Office Address
+Flat No. 104, 929/1, Naiwala, Faiz Road, Karol 
+Bagh, New Delhi, Delhi - 110005
+5
+Corporate Address
+Plot No. 13-14, Sector-5, IMT Manesar, Gurugram, 
+Haryana- 122050
+6
+Email Address
+compliance@askbrake.com
+7
+Telephone
++91 124 439 6900
+8
+Website
+www.askbrake.com
+9
+Financial Year Reported
+2023-24
+10
+Name of the Stock Exchanges where shares are listed
+BSE Limited & National Stock Exchange of India 
+Limited
+11
+Paid-up Capital
+₹ 39,42,85,200
+12
+Name and contact details (telephone, email address) of 
+the person who may be contacted in case of any queries 
+on the BRSR report 
+Ms. Rajani Sharma, VP (Legal), Company 
+Secretary & Compliance Officer
+Contact No.: +91 124 439 6900
+Email Id: compliance@askbrake.com
+13
+Reporting boundary - Are the disclosures under this report 
+made on a standalone basis (i.e. only for the entity) or on 
+a consolidated basis (i.e. for the entity and all the entities 
+which form a part of its consolidated financial statements, 
+taken together).
+Standalone
+14
+Name of assurance provider
+Not Applicable for the year under review
+15
+Type of assurance obtained
+Not Applicable for the year under review
+BUSINESS RESPONSIBILITY & 
+SUSTAINABILITY REPORT
+Sl. 
+No.
+Description of Main Activity
+Description of 
+Business Activity
+% of turnover of 
+the Company
+1
+Manufacturing
+Automotive 
+Components
+92
+Sl. 
+No.
+Product/Service
+NIC Code
+% of total Turnover 
+contributed
+1
+Advanced Braking Systems
+30913
+39
+2
+Aluminium Lightweighting Precision Solutions
+24320
+40
+3
+Safety Control Cables
+30913
+4
+4
+Wheel Assembly
+30913
+13
+II.	
+Products/services
+16.	 Details of business activities (accounting for 90% of the turnover):
+17.	
+Products/Services sold by the Company (accounting for 90% of the turnover)
+SECTION A: GENERAL DISCLOSURES	
+I.	
+Details of listed entity
+Statutory Reports
+Introducing ASK Automotive
+1
+Location
+Number of plants
+Number of offices
+Total
+National 
+14
+1
+15
+International
+0
+0
+0
+Location
+Number
+National (No. of States)
+27
+International (No. of Countries)
+12
+III.	 Operations
+18.	 Number of locations where plants and/or operations/offices of the Company are situated:
+19.	 Markets served by the Company
+	
+a.	
+Number of locations
+	
+b.	
+What is the contribution of exports as a percentage of the total turnover of the Company? 
+	
+	
+5.01%
+	
+c.	
+Types of customers
+	
+	
+The Company’s customers are mainly original equipment manufacturer (OEM) for automotive components. 
+The Company also has dealers’ network for independent aftermarket for automotive components/
+parts in India. Additionally, the Company has overseas customers for its automotive and non-automotive 
+components/parts.
+IV.	 Employees
+20.	 Details as at the end of Financial Year
+	
+a.	
+Employees and workers (including differently abled):
+Sr 
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+EMPLOYEES
+1.
+Permanent (D)
+1232
+1216
+98.7%
+16
+1.3%
+2.
+Other than Permanent (E)
+0
+ 0
+ 0
+0 
+0 
+3.
+Total employees (D+E)
+1232
+1216
+98.7%
+16
+1.3%
+WORKERS
+4.
+Permanent (F)
+413
+412
+99.8%
+1
+0.2%
+5.
+Other than Permanent (G)
+4697
+4697
+100%
+0
+0.0%
+6.
+Total workers (F+G)
+5110
+5109
+100%
+1
+0.0%
+Sr 
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+DIFFERENTLY ABLED EMPLOYEES
+1.
+Permanent (D)
+2
+2
+100
+0
+0
+2.
+Other than Permanent (E)
+0
+0
+0
+0
+0
+3.
+Total differently abled 
+employees (D+E)
+2
+2
+100
+0
+0
+DIFFERENTLY ABLED WORKERS
+4.
+Permanent (F)
+0
+0
+0
+0
+0
+5.
+Other than Permanent (G)
+6
+6
+100
+0
+0
+6.
+Total differently abled 
+workers (F+G)
+6
+6
+100
+0
+0
+	
+b.	
+Differently abled Employees and workers:
+21.	
+Participation/Inclusion/Representation of Women
+Particulars
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+10
+2
+20%
+Key Management Personnel
+2
+1
+50%
+2
+ASK Automotive Limited
+Annual Report 2023-24
+22.	 Turnover rate for permanent employees and workers (disclose trends for the past 3 years)
+Particulars
+FY 2023-24
+FY 2022-23
+FY 2021-22
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+17.50%
+6.25%
+17.40%
+19.04%
+9.09%
+18.90%
+15.20%
+10.00%
+15.10%
+Permanent Workers
+6.00%
+0
+6.00%
+7.90%
+0
+7.90%
+7.60%
+0
+7.60%
+	
+Note: This includes employees/workmen who have left during the year.
+V.	
+Holding, Subsidiary and Associate Companies (including joint ventures)
+23.	 Name of holding/subsidiary/associate companies/joint ventures
+Sl. 
+No.
+Name of the holding/ subsidiary/
+associate companies/joint ventures 
+(A)
+Indicate whether 
+Holding/Subsidiary/
+Associate/Joint 
+Venture
+% of shares 
+held by the 
+Company
+Does the entity indicated 
+at column A, participate in 
+the Business Responsibility 
+initiatives of the Company 
+(Yes/No)
+1
+ASK Automobiles Private Limited
+Subsidiary
+100
+No
+2
+ASK Fras-Le Friction Private Limited
+Joint Venture
+49
+No
+VI.	 CSR Details
+24. 	 (i)	
+Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No) Yes 
+     	 (ii)	
+Turnover (in Rs. Lacs):   2,92,643.31
+    	
+(iii)	 Net worth (in Rs. Lacs):   86,563.73
+VII.	 Transparency and Disclosure Compliances
+25.	 Complaints/Grievances on any of the principles (Principle 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+Stakeholder 
+group from 
+whom 
+compliant is 
+received
+Grievance 
+Redressal 
+Mechanism in place 
+(Yes/No)(If yes, then 
+provide weblink for 
+grievance redressal 
+policy)
+FY 2023-24
+FY 2022-23
+No. of 
+complaints 
+filed 
+during the 
+year
+No. of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+No. of 
+complaints 
+filed 
+during the 
+year
+No. of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities
+Yes
+Weblink: - https://
+askbrake.com/
+whistleblowerpolicy
+https://askbrake.
+com/contact/
+0
+0
+-
+0
+0
+-
+Investors and 
+Shareholders
+873*
+0
+Complaints 
+resolved
+0
+0
+-
+Employees 
+and workers
+0
+0
+-
+1
+0
+Complaint 
+resolved
+Customers
+0
+0
+-
+0
+0
+-
+Value Chain 
+Partners
+1
+0
+Complaint 
+resolved
+0
+0
+-
+Others 
+(Anonymous)
+-
+-
+-
+-
+-
+-
+	
+* Majority of complaints related to Allotment of shares / unblocking of funds in relation to IPO
+Statutory Reports
+Introducing ASK Automotive
+3
+26.	 Overview of the Company’s material responsible business conduct and sustainability issues pertaining 
+to environment and social matters that present a risk or an opportunity to the business of the Company, 
+rationale for identifying the same approach to adapt or mitigate the risk along with its financial implications, 
+as per the following format: 
+Sl. 
+No.
+Material issue 
+identifiedh
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying 
+the risk / opportunity
+In case of risk, 
+approach to adapt or 
+mitigate
+Financial implications 
+of the risk or 
+opportunity (Indicate 
+positive or negative 
+implications)
+1
+Water and 
+Energy 
+Management
+O
+Better Management gives 
+dual benefits 1) Cost Saving 
+2) Positive Impact on 
+Environment
+NA
+Positive
+2
+Emission and 
+Hazardous 
+Waste 
+Management
+R
+Emissions and Hazardous 
+Waste discharge 
+contributes to climate 
+change and can lead 
+to regulatory penalties. 
+Failure to address 
+emissions and Hazardous 
+Waste discharge 
+efficiently can harm the 
+environment, attract 
+legal consequences, and 
+damage the Company’s 
+reputation.
+Implementing 
+energy-efficient 
+technologies, 
+and optimizing 
+production 
+processes to 
+minimize hazardous 
+waste and 
+emissions.
+Negative
+3
+Opportunity 
+in Clean 
+Technology
+O
+Clean technology aims to 
+minimize environmental 
+impact while promoting 
+sustainability. Adopting 
+clean tech solutions offers 
+several benefits like cost 
+optimisation, energy 
+saving, less emissions and 
+Innovation.
+NA
+Positive, as the cost 
+of renewable energy 
+is cheaper than 
+conventional energy 
+sources 
+4
+Operational 
+Efficiency
+O
+Increasing operational 
+efficiency through 
+optimum utilisation of 
+resources, including 
+material, and waste 
+minimisation may improve 
+profitability.
+NA
+Positive
+5
+Employee 
+Well-being, 
+Health and 
+Safety
+ R
+Manpower is the most 
+critical resource for 
+growth and sustenance 
+of business. Inability to 
+ensure Employee Well-
+being, Health and Safety 
+may impact business 
+operations adversely 
+including legal and 
+financial consequences.
+Providing:
+ various welfare 
+programs/
+schemes 
+including 
+insurance, 
+retirement 
+benefits etc.
+ various facilities 
+for occupational 
+health including 
+medical room;
+ training, safe 
+equipment and 
+safety equipment.
+Negative
+4
+ASK Automotive Limited
+Annual Report 2023-24
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards 
+adopting the NGRBC Principles and Core Elements. 
+We have implemented following policies towards adopting National Guidelines on Responsible Business 
+Conduct (NGRBC): 
+Principle P1: Transparency & 
+Accountability 
+	
+ 
+Code of Conduct & Ethics1
+	
+ 
+Whistle Blower Policy2
+Principle P2: Product Responsibility 
+	
+ 
+Code of Conduct & Ethics1
+	
+ 
+Quality Policy3
+	
+ 
+Environmental, Occupational 
+Health and Safety (EHS) Policy4 
+Principle P3: Employee 
+Development 
+	
+ 
+Code of Conduct & Ethics1
+	
+ 
+Whistle Blower Policy2
+	
+ 
+Environmental, Occupational 
+Health and Safety (EHS) Policy4
+	
+ 
+HR Policy Manual is 
+available to employees on 
+Company’s Human Resources 
+Management System (“HRMS”) 
+under SaaS model
+Principle P4: Stakeholder 
+Engagement 
+	
+ 
+Code of Conduct & Ethics1
+	
+ 
+Whistle Blower Policy2
+	
+ 
+Corporate Social 
+Responsibility (CSR) Policy5
+Principle P5: Human Rights 
+	
+ 
+Code of Conduct & Ethics1
+	
+ 
+Whistle Blower Policy2
+	
+ 
+HR Policy Manual is 
+available to employees on 
+Company’s Human Resources 
+Management System (“HRMS”) 
+under SaaS model
+Principle P6: Environment Principle 
+	
+ 
+Code of Conduct & Ethics1
+	
+ 
+Environmental, Occupational 
+Health and Safety (EHS) Policy4
+Principle P7: Public Advocacy 
+	
+ 
+Code of Conduct & Ethics1
+Principle P8: Inclusive Growth and 
+equitable development 
+	
+ 
+Code of Conduct & Ethics1
+	
+ 
+Corporate Social 
+Responsibility (CSR) Policy5
+	
+ 
+Environmental, Occupational 
+Health and Safety (EHS) Policy4
+Principle P9: Customer Value 
+	
+ 
+Code of Conduct & Ethics1
+	
+ 
+Whistle Blower Policy2
+	
+ 
+IT Security Policy is 
+available to employees on 
+Company’s Human Resources 
+Management System (“HRMS”) 
+under SaaS model
+1 https://askbrake.com/codeofconductandethics 
+2 https://askbrake.com/whistleblowerpolicy  
+3 https://askbrake.com/qualitypolicy 
+4 https://askbrake.com/EHSpolicy
+5 https://askbrake.com/CSRpolicy 
+Disclosure Questions
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+Policy and management processes
+1.
+a.	 Whether 
+the 
+Company’s 
+policy/
+policies cover each principle and 
+its core elements of the NGRBCs. 
+(Yes/No)
+Yes
+Yes
+Yes
+Yes
+ Yes
+Yes
+Yes
+ Yes
+Yes
+b.	 Has the policy been approved by 
+the Board? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+ Yes
+Yes
+c.	 Weblink of the policies, if available
+As referred in above table
+2.
+Whether the Company has translated 
+the policy into procedures. (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Statutory Reports
+Introducing ASK Automotive
+5
+Disclosure Questions
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+3.
+Do the enlisted policies extend to 
+the Company’s value chain partners? 
+(Yes/No)
+No
+No
+No
+No
+No
+No
+No
+No
+No
+4.
+Name of the national and international 
+codes/certifications/ labels/ standards 
+(e.g. 
+Forest 
+Stewardship 
+Council, 
+Fairtrade, Rainforest Alliance, Trustee) 
+standards (e.g. SA 8000, OHSAS, ISO, 
+BIS) adopted by the Company and 
+mapped to each principle. 
+IATF 
+16949: 
+2016 
+ISO
+14001:
+2015 
+ISO
+9001:
+2015
+ISO 
+9001:
+2015
+IATF 
+16949: 
+2016
+ISO 
+14001:
+2015
+ISO 
+45001:
+2018
+-
+ISO 
+45001:
+2018
+ISO 
+14001:
+2015
+-
+ISO 
+9001:
+2015
+IATF 
+16949: 
+2016
+ISO 
+9001:
+2015
+IATF 
+16949: 
+2016
+ISO 
+14001:
+2015
+5.
+Specific 
+commitments, 
+goals 
+and 
+targets set by the Company with 
+defined timelines, if any. 
+There were no specific commitments, goals and targets set by the 
+Company.
+6.
+Performance of the Company against 
+the specific commitments, goals and 
+targets along with reasons, in case the 
+same are not met. 
+As there were no specific commitments, goals and targets set by the 
+Company, hence there is no performance measurement mechanism 
+Governance, leadership and oversight
+7.
+Statement by Director, responsible for the Business Responsibility Report, highlighting ESG related challenges, 
+targets and achievements (listed entity has flexibility regarding the placement of this disclosure) 
+Our Company is acting responsibly in business and dedicatedly working towards sustainability with an aim to 
+make significant contribution to the society and the environment. We are progressing well towards building a 
+more sustainable future by undertaking initiatives to lower carbon emissions, reducing wastage and usage of 
+renewable energy. We are making significant investments in our quest towards transition to renewable energy.
+Employee wellbeing and safety of our workforce is also one of our top priorities. We firmly believe that providing a 
+safe working environment and nurturing a diverse and inclusive workplace is essential for employee satisfaction and 
+improved productivity of our employees, who continuously strive for excellence. By fostering such an environment, 
+we cultivate a workplace and organisational culture that are poised for growth and achievement.
+In addition, as a contribution towards socio economic growth of the society, our philanthropic arm AHSAAS 
+continues to work on the ground level to support Education, Health Care, Women Safety, Nurturing the Skill 
+development and Sports Talent in our country.
+Further, to promote Ethical Conduct and Corporate responsibility, the Company has put in place sound governance 
+policies & practices ensuring transparency and adherence to the applicable laws.
+Our commitment to institutionalise these practices in future will enable us to continue to conduct business 
+responsibly, sustainably and efficiently.
+Kuldip Singh Rathee
+Chairman & Managing Director
+8.
+Details 
+of 
+the 
+highest 
+authority 
+responsible 
+for 
+implementation 
+and 
+oversight 
+of 
+the 
+Business 
+Responsibility policy(ies). 
+Policy
+Implementation 
+Authority
+Oversight  Authority
+Code of Conduct & Ethics 
+and  Whistle Blower Policy
+Chief Human 
+Resource Officer 
+Ethics Committee
+Quality Policy 
+Corporate Quality 
+Head
+Executive Director – 
+Operations
+Environmental, 
+Occupational Health and 
+Safety (EHS) Policy
+EHS Head
+Managing Director
+Corporate Social 
+Responsibility (CSR) Policy
+Chief Human 
+Resource Officer
+CSR Committee
+9.
+Does the Company have a specified 
+Committee 
+of 
+the 
+Board/Director 
+responsible for decision making on 
+sustainability related issues? (Yes / No). 
+If yes, provide details. 
+Yes, the Company’s existing committees such as the Corporate Social 
+Responsibility Committee, Risk Management Committee, and Stakeholders 
+Relationship Committee etc. each serving as the principal decision-making 
+body for sustainability issues within their respective domains.
+6
+ASK Automotive Limited
+Annual Report 2023-24
+Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+The entity does not consider the Principle material to its 
+business (Yes/No)
+Not Applicable
+The entity is not at a stage where it is in a position to 
+formulate and implement the policies on specified 
+principles (Yes/No) 
+The entity does not have the financial or/human and 
+technical resources available for the task (Yes/No) 
+It is planned to be done in the next financial year (Yes/No) 
+Any other reason (please specify) 
+12.	
+If answer to question (1) above is ‘No’ i.e. not all Principles are covered by a Policy, reasons to be stated:
+PRINCIPLE 1:
+Businesses should conduct and govern themselves with integrity and in a manner 
+that is Ethical, Transparent and Accountable.
+1.	
+Percentage coverage by training and awareness programmes on any of the principles during the 
+financial year:
+SECTION C: PRINCPLE WISE PERFORMANCE DISCLOSURE	
+Essential Indicators
+Segment
+Total number 
+of training and 
+awareness 
+programmes 
+held
+Topics/principles covered under the training and 
+its impact
+%age of persons 
+in respective 
+category covered 
+by the awareness 
+programmes
+Board of Directors
+4
+Business 
+Operations, 
+SEBI 
+(Prohibition 
+of 
+Insider Trading) Regulations, 2015, etc.
+75%
+Key Managerial 
+Personnel*
+2
+SEBI (Prohibition of Insider Trading) Regulations, 
+2015
+100%
+10.
+Details of review of NGRBCs by the Company: 
+Subject for review
+Indicate whether review was undertaken 
+by Director/Committee of the Board/any 
+other Committee
+Frequency (Annually/Half yearly/
+Quarterly/Any other – please specify)
+P
+1
+P
+2
+P
+3 
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+Performance 
+against 
+above policies and follow 
+up action
+Yes, the Board of Directors, Committees, 
+and 
+Department 
+Heads 
+periodically 
+review policies relevant to their respective 
+areas. Improvements to these policies are 
+implemented as needed.
+Need Basis
+Compliance 
+with 
+statutory requirements of 
+relevance to the principles, 
+and, rectification of any 
+non-compliances
+Yes, the Company ensures compliance with all relevant laws and regulations.
+11.
+Has the entity carried out independent 
+assessment /evaluation of the working 
+of its policies by an external agency? 
+(Yes/No). If yes, provide the name of the 
+agency.
+P 
+1
+P 
+2
+P 
+3
+P 
+4
+P 
+5
+P 
+6
+P 
+7
+P 
+8
+P
+9
+No
+Statutory Reports
+Introducing ASK Automotive
+7
+Segment
+Total number 
+of training and 
+awareness 
+programmes 
+held
+Topics/principles covered under the training and 
+its impact
+%age of persons 
+in respective 
+category covered 
+by the awareness 
+programmes
+Employees other than 
+Board of Directors and 
+KMPs
+164
+Integrity, 
+Transparency, 
+Professionalism, 
+Perseverance 
+and 
+Sustainability, 
+Code 
+of 
+Conduct, 
+Energy 
+Management, 
+Stress 
+Management and work life Balance, Safety 
+Related, ESG, POSH
+100%
+Workers
+261
+Integrity, Code of Conduct, Safety, Stress 
+Management
+100%
+	
+*Includes Company Secretary and Chief Financial Officer only
+2.	
+Details of fines /penalties/punishment/award/compounding fees/settlement amount paid in proceedings 
+(by the entity or by Directors/KMPs) with regulators/law enforcement agencies/judicial institutions, in 
+the financial year:
+	
+(Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30 of SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015 and as disclosed on the entity’s website)
+Monetary
+Particulars
+NGRBC 
+Principle
+Name of the regulatory / 
+enforcement agencies / judicial 
+institutions
+Amount 
+(In INR)
+Brief of the Case
+Has an appeal 
+been preferred? 
+(Yes/No)
+Penalty/ Fine
+Nil
+NA
+NA
+NA
+NA
+Settlement
+Nil
+NA
+NA
+NA
+NA
+Compounding fee
+Nil
+NA
+NA
+NA
+NA
+Monetary
+NGRBC 
+Principle
+Name of the regulatory/ enforcement 
+agencies/ judicial institutions
+Brief of the Case
+Has an appeal been 
+preferred? (Yes/No)
+Imprisonment
+Nil
+NA
+NA
+NA
+Punishment
+Nil
+NA
+NA
+NA
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/Revision preferred in cases where 
+monetary or non-monetary action has been appealed.
+Case Details
+Name of the regulatory/ enforcement agencies/ judicial institutions
+Not Applicable
+4.	
+Does the Company have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if 
+available, provide a web-link to the policy.
+	
+Yes, The Company has a Code of Conduct and Ethics, having detailed guidelines for all employees, including 
+senior management, to act in accordance with the highest standards of integrity, honesty, fairness, and ethical 
+conduct while working for the Company as well as when representing the Company. Anti-corruption or Anti 
+bribery guidelines are part of Code of Conduct and Ethics. Link - https://askbrake.com/codeofconductandethics 
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law 
+enforcement agency for the charges of bribery/ corruption: 
+Particulars
+FY 2023-24
+FY 2022-23
+Directors
+0
+0
+KMPs
+0
+0
+Employees
+0
+0
+Workers
+0
+0
+8
+ASK Automotive Limited
+Annual Report 2023-24
+Benefits
+FY 2023-24
+FY 2022-23
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to issues of 
+Conflict of Interest of the Directors
+0
+0
+0
+0
+Number of complaints received in relation to issues of 
+Conflict of Interest of the KMPs
+0
+0
+0
+0
+Total number of awareness 
+programmes held
+Topics/principles covered under 
+the training
+%age of value chain partners covered (by value 
+of business done with such partners) under the 
+awareness programmes
+NIL
+6.	
+Details of complaints with regard to conflict of interest
+7.	
+Provide details of any corrective action taken or underway on issues related to fines / penalties / action 
+taken by regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflict 
+of interest. 
+	
+Not Applicable
+8.	
+Number of days of accounts payables ((Accounts payable *365) / Cost of goods/services procured) in the 
+following format:
+Particulars
+FY 2023-24
+FY 2022-23
+Number of days of accounts payables
+30
+29
+9.	
+Open-ness of business Provide details of concentration of purchases and sales with trading houses, 
+dealers, and related parties along-with loans and advances & investments, with related parties, in the 
+following format:
+Parameter
+Metrics
+FY 2023-24
+FY 2022-23
+Concentration of 
+Purchases
+a.	
+Purchases from trading houses as % of 
+total purchases
+4.09
+5.38
+b.	
+Number of trading houses where 
+purchases are made from
+498
+502
+c.	
+Purchases 
+from 
+top 
+10 
+trading 
+houses 
+as 
+% 
+of 
+total 
+purchases 
+from trading houses
+1.64
+2.52
+Concentration of Sales
+a.	
+Sales to dealers / distributors as 
+% of total sales
+ 10.05
+ 10.97
+b.	
+Number of dealers / distributors to 
+whom sales are made
+ 410
+ 458
+c.	
+Sales to top 10 dealers / distributors as 
+% of total sales to dealers / distributors
+ 24.63
+ 21.03
+Share of RPTs in
+a.	
+Purchases 
+(Purchases 
+with 
+related 
+parties / Total Purchases)
+0.02
+0.03
+b.	
+Sales (Sales to related parties / Total Sales)
+0.03
+0.002
+c.	
+Loans & advances (Loans & advances 
+given 
+to 
+related 
+parties 
+/ 
+Total 
+loans & advances)
+1.00
+1.00
+d.	
+Investments (Investments in related 
+parties / Total Investments made)
+1.00
+1.00
+Leadership Indicators
+1.	
+Awareness programmes conducted for value chain partners on any of the Principles during the financial year:
+Statutory Reports
+Introducing ASK Automotive
+9
+2.	
+Does the entity have processes in place to avoid/manage conflict of interests involving members of the 
+Board? (Yes/No) If yes, provide details of the same.
+	
+Yes, the Company has formulated a “Policy with respect to Obligations of Directors and Senior Management” 
+which specifies that they must act within the boundaries of the authority conferred upon them, and to comply 
+with the requirements of applicable laws, while discharging their duties and responsibilities. The Policy further 
+specifies not to involve themselves in making any decision on a subject matter in which a conflict of interest arises 
+or could arise, between their personal interest and the interest of the Company. In the event of apprehending 
+such conflict of interest, the relevant facts shall be disclosed in writing, explaining the circumstances that create 
+the conflicts of interest, to the Board Members for further directions in the matter.
+PRINCIPLE 2:
+Businesses should provide goods and services in a manner that is sustainable and safe
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the 
+environmental and social impacts of products and processes to total R&D and capex investments made 
+by the entity, respectively
+Essential Indicators
+Segment
+FY 2023-24
+FY 2022-23
+Details of improvements in environmental 
+and social impacts
+R & D
+At present, no system is in place to track and monitor the impacts or improvements 
+in environmental and social aspects of the R&D and Capital expenditure. 
+Capex
+2.	
+a. 	 Does the entity have procedures in place for sustainable sourcing? (Yes/No) 
+	
+	
+Yes, the Company has established Standard Operating Procedures (SOPs) for procurement processes, 
+ensuring sustainable sourcing. These processes, inter alia, encompass criteria for supplier selection, supplier 
+development, procurement processes and supplier assessment/evaluation. Additionally, the Company 
+diligently evaluates Supplier Quality Management Systems on an annual basis. 
+	
+b.	
+If yes, what percentage of inputs were sourced sustainably? 
+	
+	
+42.6% of inputs are procured through sustainable sourcing practices, with a rigorous assessment process 
+identifying these suppliers as ‘green’ in our annual supplier evaluation.
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing 
+at the end of life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other 
+waste.
+(a) Plastics (including packaging)
+The Company has no return policy at end of life of the products/packaging 
+(including plastic). However, the Company has process in place to dispose 
+plastics, if any, as per applicable laws.
+(b) E-waste
+Not applicable as the products of the Company don’t generate any E-waste 
+at end of life. However, the Company has process in place to dispose e-waste, 
+if any, as per applicable laws.
+(c) Hazardous waste
+The Company has no return policy at end of life of the products. However, 
+the Company has process in place to dispose hazardous waste, if any, as per 
+applicable laws.
+(d) other waste.
+The Company has no return policy at end of life of the products. However, 
+the Company disposes all other wastes, if any, as per applicable laws and/or 
+best practices.
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If 
+yes, whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan 
+submitted to Pollution Control Boards? If not, provide steps taken to address the same. 
+	
+Yes, the Company is in the process of applying for EPR registration. 
+10
+ASK Automotive Limited
+Annual Report 2023-24
+NIC Code 
+Name of 
+Product /Service
+% of total Turnover 
+contributed
+Boundary for 
+which the Life 
+Cycle Perspective 
+/ Assessment was 
+conducted
+Whether 
+conducted by 
+independent 
+external agency 
+(Yes/No)
+Results 
+communicated in 
+public domain (Yes/
+No) If yes, provide 
+the web-link.
+Life Cycle Assessment is not being conducted
+1.	
+Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for 
+manufacturing industry) or for its services (for service industry)? If yes, provide details in the following 
+format?
+2.	
+If there are any significant social or environmental concerns and/or risks arising from production or 
+disposal of your products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or 
+through any other means, briefly describe the same along-with action taken to mitigate the same.
+Name of Product / Service
+Description of the risk / 
+concern
+Action Taken
+Not Applicable 
+Indicate input material
+Recycled or re-used input material to total material 
+FY 2023-24
+FY 2022-23
+Nil
+3.	
+Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing 
+industry) or providing services (for service industry). 
+Leadership Indicators
+4.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, 
+recycled, and safely disposed, as per the following format: 
+FY 2023-24
+FY 2022-23
+Re-used
+Recycled
+Safely 
+Disposed
+Re-used
+Recycled
+Safely 
+Disposed
+Plastics (including 
+packaging)
+-
+-
+-
+-
+-
+-
+E-waste
+-
+-
+-
+-
+-
+-
+Hazardous waste
+-
+-
+-
+-
+-
+-
+Other waste
+-
+-
+-
+-
+-
+-
+Battery waste
+-
+-
+-
+-
+-
+-
+Bio-medical waste
+-
+-
+-
+-
+-
+-
+Statutory Reports
+Introducing ASK Automotive
+11
+5.	
+Reclaimed products and their packaging materials (as percentage of products sold) for each product 
+category. 
+Indicate product category
+Reclaimed products and their packaging materials as 
+% of total products sold in respective category
+Not Applicable
+PRINCIPLE 3:
+Business should respect and promote the wellbeing of all employees, including those 
+in their value chains
+1.	
+a. Details of measures for the well-being of employees:
+Essential Indicators
+Category
+Total 
+(A)
+% of employees covered by
+Health  
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+benefits
+Day Care 
+facilities
+Number 
+(B)
+% 
+(B/A)
+Number 
+(C)
+% 
+(C/A)
+Number 
+(D)
+% 
+(D/A)
+Number 
+(E)
+% 
+(E/A)
+Number 
+(F)
+% 
+(F/A)
+ Permanent employees
+ Male
+1216
+1216
+100%
+1216
+100%
+0
+0
+NA
+NA
+NA
+NA
+ Female
+16
+16
+100%
+16
+100%
+16
+100
+NA
+NA
+NA
+NA
+ Total
+1232
+1232
+100%
+1232
+100%
+16
+1.30%
+NA
+NA
+NA
+NA
+ Other than Permanent employees
+ Male
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+ Female
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+ Total
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Category
+Total 
+(A)
+% of workers covered by
+Health  
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+benefits
+Day Care 
+facilities
+Number 
+(B)
+% 
+(B/A)
+Number 
+(C)
+% 
+(C/A)
+Number 
+(D)
+% 
+(D/A)
+Number 
+(E)
+% 
+(E/A)
+Number 
+(F)
+% 
+(F/A)
+ Permanent workers
+ Male
+412
+412
+100%
+412
+100%
+0
+0
+0
+0
+0
+0
+ Female
+1
+1
+100%
+1
+100%
+1
+100%
+0
+0
+0
+0
+ Total
+413
+413
+100%
+413
+100%
+1
+0.24%
+0
+0
+0
+0
+ Other than Permanent workers
+ Male
+4697
+4697
+100%
+4697
+100%
+0
+0
+0
+0
+0
+0
+ Female
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+ Total
+4697
+4697
+100%
+4697
+100%
+0
+0
+0
+0
+0
+0
+	
+b. Details of measures for the well-being of workers:
+12
+ASK Automotive Limited
+Annual Report 2023-24
+	
+c. Spending on measures towards well-being of employees and workers (including permanent and other 
+than permanent) in the following format –
+FY 2023-24
+FY 2022-23
+Cost incurred on well- being measures as a % of total revenue 
+of the company
+0.28%
+0.25%
+Benefits
+FY 2023-24
+FY 2022-23
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted 
+and 
+deposited 
+with the 
+authority
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of workers 
+covered as 
+a % of total 
+workers
+Deducted 
+and 
+deposited 
+with the 
+authority
+(Y/N/N.A.)
+PF
+99.7%
+100%
+Y
+99.7%
+100%
+Y
+Gratuity
+100%
+100%
+NA
+100%
+100%
+NA
+ESI
+9%
+28%
+Y
+11%
+40%
+Y
+Others- please specify
+Nil
+Nil
+Nil
+Nil
+Nil
+Nil
+2.	
+Details of retirement benefits, for Current and Previous Financial Year. 
+3.	
+Accessibility of workplaces 
+	
+Are the premises/offices of the Company accessible to differently abled employees and workers, as per the 
+requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the 
+Company in this regard. 
+	
+Yes
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 
+2016? If so, provide a web-link to the policy. 
+	
+The Company is committed to a policy of equal employment opportunity so as to assure that there shall be no 
+discrimination or harassment against an Employee or applicant on the grounds of race, color, religion, sex, age, 
+marital status, disability, national origin, or any other factor made unlawful by applicable laws and regulations. 
+	
+Web-link: https://askbrake.com/codeofconductandethics
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave.  
+Gender
+Permanent Employees
+Permanent Workers
+Return to 
+work rate
+Retention 
+Rate
+Return to 
+work rate
+Retention Rate
+Male
+NA
+NA
+NA
+NA
+Female
+100%
+100%
+100%
+100%
+Total
+100%
+100%
+100%
+100%
+Yes/No (If yes, then give details of the mechanism in brief)
+Permanent workers
+Yes. The Company has a Whistle Blower Policy which, inter alia, 
+provides a mechanism for directors and employees (including 
+workers whether Permanent, Contractual, or Temporary) to 
+report unethical behaviour, suspected or actual fraud including 
+but not limited to violation of the Code of Conduct & Ethics of 
+the Company. The policy protects a whistle blower from any 
+kind of discrimination, harassment, victimisation or any other 
+unfair employment practice. The policy is available at https://
+askbrake.com/whistleblowerpolicy
+Other than permanent workers
+Permanent employees
+Other than permanent employees
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of 
+employees and worker? If yes, give details of the mechanism in brief. 
+Statutory Reports
+Introducing ASK Automotive
+13
+7.	
+Membership of employees and workers in association(s) or Unions recognised by the listed entity:
+Category
+FY 2023-24
+FY 2022-23
+Total 
+employees/
+workers in 
+respective 
+category
+(A)
+No. of 
+employees /
+workers in 
+respective 
+category, 
+who are 
+part of 
+association(s) 
+or Union
+(B)
+%(B/A)
+Total 
+employees/
+workers in 
+respective 
+category (C)
+No. of 
+employees /
+workers in 
+respective 
+category, 
+who are 
+part of 
+association(s) 
+or Union (D) 
+%(D/C)
+Total Permanent 
+Employees
+1232
+0
+0%
+1207
+0
+0%
+ Male 
+1216
+0
+0%
+1196
+0
+0%
+ Female
+16
+0
+0%
+11
+0
+0%
+Total Permanent 
+Workers
+413
+0
+0%
+417
+0
+0%
+ Male 
+412
+0
+0%
+416
+0
+0%
+ Female
+1
+0
+0%
+1
+0
+0%
+8.	
+Details of training given to employees and workers:
+9.	
+Details of performance and career development reviews of employees and workers: 
+Category
+FY 2023-24
+FY 2022-23
+Total 
+(A)
+On Health and 
+safety measures
+On Skill 
+upgradation
+Total 
+(D)
+On Health and 
+safety measures
+On Skill 
+upgradation
+No. (B)
+% (B / 
+A)
+No. (C)
+% (C / 
+A)
+No. (E)
+% (E / 
+D)
+No. (F)
+% (F / 
+D)
+Employees
+Male 
+1216
+1216
+100%
+1216
+100%
+1196
+1196
+100%
+1196
+100%
+Female
+16
+16
+100%
+16
+100%
+11
+11
+100%
+11
+100%
+Total
+1232
+1232
+100%
+1232
+100%
+1207
+1207
+100%
+1207
+100%
+Workers
+Male 
+412
+412
+100%
+412
+100%
+416
+416
+100%
+416
+100%
+Female
+1
+1
+100%
+1
+100%
+1
+1
+100%
+1
+100%
+Total
+413
+413
+100%
+413
+100%
+417
+417
+100%
+417
+100%
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C)
+Employees
+Male 
+1216
+1150
+94.6%
+1196
+1030
+86%
+Female
+16
+12
+75%
+11
+11
+100%
+Total
+1232
+1162
+94.3%
+1207
+1041
+86.25%
+Workers
+Male 
+412
+404
+98%
+416
+415
+99.8%
+Female
+1
+1
+100%
+1
+1
+100%
+Total
+413
+405
+98%
+417
+416
+99.8%
+14
+ASK Automotive Limited
+Annual Report 2023-24
+10.	 Health and Safety Management System: 
+	
+a.	
+Whether an occupational health and safety management system has been implemented by the entity? 
+(Yes/ No). If yes, the coverage such system? 
+	
+	
+Yes, each plant/office has an Occupational Health and Safety Management System.
+	
+b.	
+What are the processes used to identify work-related hazards and assess risks on a routine and non-
+routine basis by the entity? 
+	
+	
+The Company ensures that all of its plants/offices adhere to robust Occupational Health and Safety 
+Management Systems. Furthermore, the Company holds ISO 45001 - 2018 certification for all plants (except 
+captive production plants). This underscores Company’s dedication to safeguard its workforce and maintain 
+the high standards of safety.
+	
+c.	
+Whether you have processes for workers to report work related hazards and to remove themselves from 
+such risks. (Y/N) 
+	
+	
+Yes, The Company has processes for workers to report work related hazards and to remove themselves 
+from such risks 
+	
+d. 	
+Do the employees/ workers of the entity have access to non-occupational medical and healthcare 
+services? (Yes/ No) 
+	
+	
+Yes, all the employees and workers have access to non-occupational medical and healthcare services in all 
+the plants/offices
+11.	
+Details of safety related incidents, in the following format: 
+Safety Incident/Number
+Category
+FY 2023-24
+FY 2022-23
+Lost Time Injury Frequency Rate (LTIFR) (per one 
+million-person hours worked)
+Employees
+0
+0.34
+Workers
+0
+0
+Total recordable work-related injuries
+Employees
+0
+0
+Workers
+0
+0
+No. of fatalities
+Employees
+0
+0
+Workers
+0
+0
+High consequence work-related injury or ill-health 
+(excluding fatalities)
+Employees
+0
+0
+Workers
+0
+0
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace. 
+	
+The Company provides training to employees and workers on First aid, stress management, Fire & Safety, product 
+& process knowledge, technical training etc. In addition, multiple safety measures are taken by the Company to 
+ensure safe & healthy workplace, such as safety walk through, safety inspection & audit, behavioural observation, 
+incident investigation and analysis, HIRA (Hazard Identification and Risk Assessment), compliance on statutory 
+requirements, 5S monitoring, motivational programs for employees & workers, kaizen competition, sports 
+activities, other activities for employee engagement. The Company complies with all applicable laws related to 
+health & safety including the Factories Act 1948 and its rules.
+13.	 Number of Complaints on the following made by employees and workers: 
+Category
+FY 2023-24
+FY 2022-23
+Filed during 
+the year
+Pending 
+resolution at 
+the end of 
+the year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at 
+the end of 
+the year
+Remarks
+ 
+Working 
+Conditions
+0
+0
+-
+0
+0
+-
+Health & Safety
+0
+0
+-
+0
+0
+-
+Statutory Reports
+Introducing ASK Automotive
+15
+14.	 Assessments for the year:
+% of plants and offices that were assessed (by 
+entity or statutory authorities or third parties)
+100%
+100%
+ Working Conditions
+Health & Safety
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) 
+and on significant risks / concerns arising from assessments of health & safety practices and working 
+conditions. 
+	
+Working conditions are assessed by third party (DQS India, Factory Health and Safety Department, and Fire 
+Department). The Company proactively addresses safety concerns. 
+	
+The Company takes multiple safety measures to ensure safe & healthy workplace, such as safety walk through, 
+safety inspection & audit, behavioural observation, incident investigation and analysis, HIRA (Hazard Identification 
+and Risk Assessment), compliance on statutory requirements, 5S monitoring, motivational programs for 
+employees & workers, kaizen competition, sports activities, other activities for employee engagement.
+	
+The Company complies with all applicable laws related to health & safety including the Factories Act, 
+1948 and its rules.
+	
+All significant risks/concerns are identified on the basis of HIRA Register maintained by the Company. Some of 
+the significant proactive actions taken by the Company are fortification of machines through three-tier safety 
+interlocking system i.e. Dual Hand Control, Safety Door Interlocking and Photo sensor interlocking.
+Leadership Indicators
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of death of (A) 
+Employees (Y/N) (B) Workers (Y/N).  
+	
+Yes, the Company extends various terminal benefits to employees and workers, including coverage under ESIC 
+(Employee State Insurance Corporation), EDLI (Employee Deposit Linked Insurance), LWF (Labour Welfare Fund), 
+as per applicable laws, and Term Plan Policy.
+2.	
+Provide the measures undertaken by the entity to ensure payment of statutory dues by the value chain 
+partners. 
+	
+The Company does not track payment of statutory dues by the value chain partners except verification of statutory 
+dues payable by manpower contractors where Company is principal employer.
+3.	
+Provide the number of employees/workers having suffered high consequence work-related injury/ill-
+health/fatalities (as reported in Q11 of Essential Indicators above), who are rehabilitated and placed in 
+suitable employment or whose family members have been placed in suitable employment: 
+Category
+Total No. of affected 
+employees/workers
+No. of employees/workers 
+that are rehabilitated 
+and placed in suitable 
+employment or whose family 
+members have been placed in 
+suitable employment
+FY 2023-24
+FY 2022-23
+FY 2023-24
+FY 2022-23
+  Employees
+0
+0
+0
+0
+  Workers
+0
+0
+0
+0
+16
+ASK Automotive Limited
+Annual Report 2023-24
+4.	
+Does the entity provide transition assistance programs to facilitate continued employability and the 
+management of career endings resulting from retirement or termination of employment? (Yes/ No) 
+	
+Yes, the Company has established retainership opportunities, reviewed annually, to support continued 
+employability and manage career transitions due to retirement or employment termination.
+5.	
+Details on assessment of value chain partners:
+% of value chain partners (by value of business 
+done with such partners) that were assessed
+ Working Conditions
+63.2%
+Health and safety practices
+63.2%
+6.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns 
+arising from assessments of health and safety practices and working conditions of value chain partners. 
+	
+Nil
+PRINCIPLE 4:
+Business should respect the interests of and be responsive to all its stakeholders
+1.	
+Describe the processes for identifying key stakeholder groups of the Company.
+Essential Indicators
+	
+The Company recognizes a diverse array of stakeholders who significantly shape its business. These stakeholders, 
+both internal and external, play pivotal roles in the Company’s value chain. The Key stakeholders encompass 
+employees, investors/shareholders, suppliers, collaborators/partners (including technical partners), customers, 
+government authorities and the broader community.
+2.	
+List stakeholder groups identified as key for the Company and the frequency of engagement with each 
+stakeholder group.
+Stakeholder Group
+Whether 
+identified as 
+vulnerable & 
+marginalised 
+group (Yes/
+No)
+Channels of communication 
+(Emails, SMS, Newspapers, 
+Pamphlets, Advertisements, 
+Community Meetings, 
+Notice Board, Website, 
+Others)
+Frequency of 
+engagement 
+(Annually, Half 
+yearly, quarterly 
+/others- please 
+specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement 
+Employees
+No
+	 Employee Engagement 
+Activities
+	 Grievance redressal 
+mechanism
+	 Internal communication
+	 Notice board
+	 Training and awareness 
+programmes
+	 Emails and meetings
+	 Social media platforms
+	 One-on-One 
+interactions
+Regularly
+ 	
+Training and development 
+ 	
+Career 
+growth opportunities 
+ 	
+Communication with senior 
+leadership team
+ 	
+Providing a safety culture 
+and inculcating healthy 
+and safe work practices 
+and work conditions 
+among  employees
+ 	
+Improving 
+Diversity and Inclusion
+ 	
+Incidents and 
+grievance redressal
+ 	
+Information on 
+Company activities
+Statutory Reports
+Introducing ASK Automotive
+17
+Stakeholder Group
+Whether 
+identified as 
+vulnerable & 
+marginalised 
+group (Yes/
+No)
+Channels of communication 
+(Emails, SMS, Newspapers, 
+Pamphlets, Advertisements, 
+Community Meetings, 
+Notice Board, Website, 
+Others)
+Frequency of 
+engagement 
+(Annually, Half 
+yearly, quarterly 
+/others- please 
+specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement 
+Shareholders/ 
+investors
+No
+	 Investor Meets
+	 Annual General Meeting
+	 Stock Exchange 
+Intimations
+	 Press Releases
+	 Annual Reports
+	 dedicated email id for 
+Investors Grievances/
+Communication
+	 Company’s Website
+Quarterly /Half 
+Yearly/Annually/
+Need Basis
+To 
+discuss 
+with 
+investors 
+about the performance of the 
+Company, 
+to 
+update 
+them 
+about the latest development 
+in the Company and industry 
+and to address their queries.  
+Key Topics:-
+	
+ 
+Financial performance
+	
+ 
+Operational performance
+	
+ 
+Business Outlook
+	
+ 
+CSR programs
+	
+ 
+Corporate Governance
+	
+ 
+Material Events
+Suppliers
+No
+	
+Suppliers’ assessment
+	
+Emails and meetings
+Regularly
+	
+ 
+Business relation continuity
+	
+ 
+Price negotiations 
+	
+ 
+Long-term partnership
+Customers
+No
+	
+ 
+Customers and 
+Distributors meetings 
+	
+ 
+Product Catalogues
+	
+ 
+Customers feedback 
+	
+ 
+Company’s website
+Regularly
+	
+ 
+Continuous improvement 
+in quality, delivery and 
+services 
+	
+ 
+Concerns related to 
+product and service-
+related issues
+	
+ 
+New business opportunities
+Communities
+Yes
+	
+ 
+Press Release
+	
+ 
+Social Media
+	
+ 
+CSR Programs
+	
+ 
+Meeting with NGOs
+Regularly
+	
+ 
+Promoting employment 
+of local youth through 
+skill training
+	
+ 
+Promoting education, 
+health and sports
+Regulatory
+Bodies
+No
+	
+ 
+Emails and meetings
+	
+ 
+Regulatory Filings 
+	
+ 
+Communications to 
+Stock Exchanges and 
+SEBI
+Regularly
+Legal Compliances
+18
+ASK Automotive Limited
+Annual Report 2023-24
+Leadership Indicators
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, 
+and social topics or if consultation is delegated, how is feedback from such consultations provided to 
+the Board. 
+	
+Every department actively communicates with its relevant stakeholders to collect feedback, consultations and 
+suggestions regarding economic, environmental and social matters. This information is then shared with Senior 
+Management. The Senior Management keeps the Board informed about significant discussions and issues with 
+stakeholders. Additionally, quarterly updates on progress and any stakeholder concerns are presented to the Board.
+2.	
+Whether stakeholder consultation is used to support the identification and management of 
+environmental, and social topics (Yes / No). If so, provide details of instances as to how the inputs 
+received from stakeholders on these topics were incorporated into policies and activities of the entity.
+	
+Yes, the Company maintains a comprehensive consultation process to identify and prioritize key environmental 
+and social topics. The Company also actively engage with its relevant stakeholders and gathers valuable feedback, 
+consultations, and suggestions concerning environmental and social matters.  Also, the Company strategically 
+plans its CSR activities based on inputs received from various stakeholders.
+3.	
+Provide details of instances of engagement with, and actions taken to, address the concerns of 
+vulnerable/ marginalized stakeholder groups. 
+	
+The Company, through its Corporate Social Responsibility (CSR) initiatives, actively collaborates with local 
+communities to promote healthcare, eradicate hunger, poverty, and malnutrition, as well as to enhance education 
+and employment opportunities. Additionally, the Company engages with stakeholder groups to address their 
+specific needs and provides support through community development initiatives and social programs, to the 
+extent feasible and possible.
+PRINCIPLE 5:
+Business should respect and promote human rights
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the 
+entity, in the following format:
+Essential Indicators
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+No. of 
+employees 
+/workers 
+covered (B)
+% (B/A)
+Total (C)
+No. of 
+employees 
+/workers 
+covered (D)
+% (D/C)
+Employees
+Permanent
+1232
+1232
+100%
+1207
+1207
+100%
+Other than Permanent
+0
+0
+0%
+0
+0
+0%
+Total Employees
+1232
+1232
+100%
+1207
+1207
+100%
+Workers
+Permanent
+413
+413
+100%
+417
+417
+100%
+Other than Permanent
+4697
+4697
+100%
+4347
+4347
+100%
+Total Workers
+5110
+5110
+100%
+4764
+4764
+100%
+Statutory Reports
+Introducing ASK Automotive
+19
+Category
+FY 2023-24
+FY 2022-23
+Total 
+(A)
+Equal to Minimum 
+Wage
+More than 
+Minimum Wage
+Total 
+(D)
+Equal to Minimum 
+Wage
+More than 
+Minimum Wage
+No. (B)
+% (B / 
+A)
+No. (C)
+% (C / 
+A)
+No. (E)
+% (E / 
+D)
+No. (F)
+% (F / 
+D)
+Employees
+Permanent
+1232
+0
+0%
+1232
+100%
+1207
+0
+0%
+1207
+100%
+Male
+1216
+0
+0%
+1216
+100%
+1196
+0
+0%
+1196
+100%
+Female
+16
+0
+0%
+16
+100%
+11
+0
+0
+11
+100%
+Other than 
+Permanent
+0
+0
+0%
+0
+0%
+0
+0
+0%
+0
+0%
+Male
+0
+0
+0%
+0
+0%
+0
+0
+0%
+0
+0%
+Female
+0
+0
+0%
+0
+0%
+0
+0
+0%
+0
+0%
+Workers
+Permanent
+413
+0
+0%
+413
+100%
+417
+0
+0%
+417
+100%
+Male
+412
+0
+0%
+412
+100%
+416
+0
+0%
+416
+100%
+Female
+1
+0
+0%
+1
+100%
+1
+0
+0
+1
+100%
+Other than 
+Permanent
+4697
+0
+0%
+4697
+100%
+4347
+0
+0%
+4347
+100%
+Male
+4697
+0
+0%
+4697
+100%
+4347
+0
+0%
+4347
+100%
+Female
+0
+0
+0%
+0
+0%
+0
+0
+0%
+0
+0%
+2.	
+Details of minimum wages paid to employees and workers, in the following format: 
+Male
+Female
+Number
+Median remuneration/
+salary/wages of 
+respective category
+Number
+Median remuneration/
+salary/wages of 
+respective category
+Board of Directors (BoD)*
+4
+17,25,000
+2
+15,87,500
+Key Managerial Personnel 
+(KMP)**
+5
+2,45,19,600
+1
+56,67,657
+Employees other than BoD and 
+KMP 
+1211
+5,03,892
+15
+8,40,000
+Workers
+412
+3,35,952
+1
+2,48,484
+3.	
+Details of remuneration/salary/wages : 
+	
+a.	
+Median remuneration / wages:
+	
+	
+* Details mentioned are for Non-Executive Directors, they were paid only sitting fees and commission and hence annualized.
+	
+	
+**Includes Managing Director & Executive Directors of the Company.
+	
+b.	
+Gross wages paid to females as % of total wages paid by the entity:
+FY 2023-24
+FY 2022-23
+Gross	 wages	 paid to females 
+as % of total wages*
+0.83%
+0.49%
+	
+	
+*Wages includes remuneration and salary
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or 
+issues caused or contributed to by the business? (Yes/No) 
+	
+Yes, the Company has HR Policy through which it endeavors to protect Human Rights at workplace. Additionally, 
+there is robust Whistle Blower Mechanism to address complaints related to any matter including human rights. 
+The Chief Human Resources Officer is the focal point for human rights related matters.
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues. 
+	
+The Company has a Grievance Redressal System including Whistle Blower Mechanism to address human rights 
+related grievances.
+20
+ASK Automotive Limited
+Annual Report 2023-24
+6.	
+Number of Complaints on the following made by employees and workers: 
+	
+The details are provided below:
+FY 2023-24
+FY 2022-23
+Filed 
+during the 
+year
+Pending 
+resolution 
+at the end 
+of the year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at 
+the end of the 
+year
+Remarks
+Sexual Harassment
+0
+0
+NA
+0
+0
+NA
+Discrimination at 
+workplace
+0
+0
+NA
+0
+0
+NA
+Child Labour 
+0
+0
+NA
+0
+0
+NA
+Forced Labour/
+Involuntary Labour
+0
+0
+NA
+0
+0
+NA
+Wages
+0
+0
+NA
+0
+0
+NA
+Other Human rights 
+related issues
+0
+0
+NA
+0
+0
+NA
+7.	
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and 
+Redressal) Act, 2013:
+FY 2023-24
+FY 2022-23
+Total Complaints reported under Sexual Harassment on of Women at 
+Workplace (Prevention, Prohibition and Redressal) Act, 2013 (POSH)
+0
+0
+Complaints on POSH as a % of female employees / workers
+0
+0
+Complaints on POSH upheld
+0
+0
+8.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment 
+cases. 
+	
+The Grievance Redressal System and Whistle Blower Mechanism ensures complete protection for the complainant/
+whistle-blower against any unfair practice like retaliation, threat or intimidation, discrimination, reprisal, transfer, 
+demotion, refusal of promotion, or any direct or indirect use of authority to obstruct the complainant’s /whistle-
+blower’s right to continue to perform his or her duties or functions. 
+9.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No) 
+	
+Yes, The Company is deeply committed to promoting a corporate culture that respects universally recognized 
+human rights. This commitment is reinforced through contractual obligations wherein suppliers are required to 
+adhere to Company’s Code of Conduct & Ethics. 
+10.	 Assessment for the year:
+% of the Company’s plants and 
+offices that were assessed(by the 
+Company or statutory authorities or 
+third parties)
+Child Labour
+100% 
+(internal assessment)
+Forced Labour/Involuntary Labour
+Sexual Harassment
+Discrimination at workplace
+Wages
+Other- please specify
+11.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns 
+arising from the assessments at Question 10 above. 
+	
+In internal assessments of the Company no violation observed.
+Statutory Reports
+Introducing ASK Automotive
+21
+Leadership Indicators
+1	
+Details of a business process being modified / introduced as a result of addressing human rights 
+grievances/complaints.
+	
+The Company’s processes are adaptable to address the concerns/grievances.
+2.	
+ Details of the scope and coverage of any Human rights due-diligence conducted.
+	
+Nil
+3.	
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the 
+Rights of Persons with Disabilities Act, 2016?  
+	
+Yes
+4.	
+Details on assessment of value chain partners: 
+% of value chain partners (by value 
+of business done with such partners) 
+that were assessed
+Sexual Harassment
+63.2%
+Discrimination at workplace
+Child Labour 
+Forced Labour/Involuntary Labour
+Wages
+Others – please specify
+5.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns 
+arising from the assessments at Question 4 above.
+	
+Not Applicable
+PRINCIPLE 6:
+Business should respect and make efforts to protect and restore the environment
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following 
+format:
+Essential Indicators
+Parameter
+FY 2023-24 (GJ)
+FY 2022-23 (GJ)
+From renewable sources
+Total electricity consumption (A)
+26195
+28389
+Total fuel consumption (B)
+0
+0
+Energy consumption sources (C)
+0
+0
+Total energy consumed from renewable sources 
+(A+B+C)
+26195
+28389
+From non-renewable sources
+Total electricity consumption (D)
+281529
+245112
+Total fuel consumption (E)
+190406
+150986
+Energy consumption sources (F)
+0
+0
+Total energy consumed from non- renewable sources 
+(D+E+F)
+471935
+396098
+Total energy consumed (A+B+C+D+E+F)
+498130
+424487
+Energy intensity per rupee of turnover 
+(Total energy consumed / Revenue from operations) (GJ/
+INR in lacs)
+498130/292643 =1.702
+424487/255542 =1.661
+Energy intensity per rupee of turnover adjusted for 
+Purchasing Power Parity (PPP)*
+(Total energy consumed / Revenue from operations 
+adjusted for PPP)
+38.12
+36.82
+Energy intensity in terms of physical output
+-
+-
+22
+ASK Automotive Limited
+Annual Report 2023-24
+Parameter
+FY 2023-24 (GJ)
+FY 2022-23 (GJ)
+Energy intensity (optional) – the relevant metric may be 
+selected by the entity
+-
+-
+	
+* PPP Conversion rate = FY2023-24: 22.40; FY2022-23: 22.17  (to be used wherever applicable) (Source: https://www.imf.org/external/
+datamapper/PPPEX@WEO/OEMDC/IND)
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency
+	
+No
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, 
+Achieve and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets 
+set under the PAT scheme have been achieved. In case targets have not been achieved, provide the 
+remedial action taken, if any. 
+	
+No
+3.	
+Provide details of the following disclosures related to water, in the following format: 
+Parameter
+FY24 
+(Current Financial Year)
+FY23 
+(Previous Financial Year)
+Water withdrawal by source (in kilolitres)
+(i) Surface water
+0
+0
+(ii) Groundwater
+107415
+112794
+(iii) Third party water
+53185
+46447
+(iv) Seawater / desalinated water
+0
+0
+(v) Others
+0
+0
+Total volume of water withdrawal (in kilolitres)  
+(i + ii + iii + iv + v)
+160600
+159241
+Total volume of water consumption (in kilolitres)
+220885
+220673
+Water	intensity per rupee of turnover (Total water 
+consumption / Revenue from operations) (KL/INR in 
+Lacs)
+220885/ 2,92,643=0.755
+220673/255542=0.863
+Water intensity per rupee of turnover adjusted for 
+Purchasing Power Parity (PPP)*
+(Total water consumption / Revenue
+from operations adjusted for PPP)
+16.91
+19.13
+Water intensity in terms of physical output
+-
+-
+Water	intensity (optional) – the relevant metric may be 
+selected by the entity
+-
+-
+	
+* PPP Conversion rate = FY2023-24: 22.40; FY2022-23: 22.17  (to be used wherever applicable) (Source: https://www.imf.org/external/
+datamapper/PPPEX@WEO/OEMDC/IND)
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency
+	
+No
+Statutory Reports
+Introducing ASK Automotive
+23
+4.	
+Provide the following details related to water discharged:
+Parameter
+FY 2023-24
+FY 2022-23
+Water discharge by destination and level of treatment (in kilolitres)
+(i)	 To Surface water
+0
+0
+	
+-	
+No treatment
+0
+0
+	
+-	
+With treatment – please specify level of 
+treatment
+0
+0
+(ii) 	To Groundwater
+0
+0
+	
+-	
+No treatment
+0
+0
+	
+-	
+With treatment – please specify level of 
+treatment
+0
+0
+(iii)	 To Seawater
+0
+0
+	
+-	
+No treatment
+0
+0
+	
+-	
+With treatment – please specify level of 
+treatment
+0
+0
+(iv)	Sent to third-parties
+	
+-	
+No treatment
+3,108
+3,152
+	
+-	
+With treatment – please specify level of 
+Treatment(Primary and secondary)
+17,897
+23,091
+(v) 	Others
+0
+0
+	
+-	
+No treatment
+0
+0
+	
+-	
+With treatment – please specify level of 
+treatment
+0
+0
+Total water discharged (in kilolitres)
+21,005
+26,243
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+No
+5.	
+Has the Company implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its 
+coverage and implementation. 
+	
+Yes, the company has taken significant strides in water management, achieving a 51% reuse of treated water 
+within its process area. Moreover, the company has implemented an advanced three-stage water treatment 
+facility to attain zero liquid discharge.
+6.	
+Please provide details of air emissions (other than GHG emissions) by the Company, in the following 
+format: 
+Parameter
+Unit
+FY 2023-24 
+FY 2022-23
+NOx 
+ppmv
+21.84
+19.28
+SOx 
+Mg/Nm3
+8.37
+7.81
+Particulate matter (PM) 
+Mg/Nm3
+74.08
+72.56
+Persistent organic pollutants (POP) 
+ 
+-
+-
+Volatile organic compounds (VOC) 
+Mg/Nm3
+2.46
+2.01
+Hazardous air pollutants (HAP) 
+Mg/Nm3
+0
+0
+Others – please specify Mercury, Cadmium, 
+Chromium etc.
+Mg/Nm3
+0
+0
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+Yes, ENVIROCHEM TESTING LAB & Research Centre on quarterly basis.
+24
+ASK Automotive Limited
+Annual Report 2023-24
+7.	
+Provide details of greenhouse gas emissions (Scope1 and Scope 2 emissions) & its intensity, in the 
+following format: 
+	
+Parameter
+Unit
+FY 2023-24 
+FY 2022-23
+Total Scope 1 emissions (Break-up of the 
+GHG into CO2, CH4, N2O, HFCs, PFCs,
+SF6, NF3, if available)
+Metric 
+tonnes 
+of CO2 
+equivalent
+12777
+11808
+Total Scope 2 emissions (Break-up of the 
+GHG into CO2, CH4, N2O, HFCs, PFCs,
+SF6, NF3, if available)
+Metric 
+tonnes 
+of CO2 
+equivalent
+55993
+48750
+Total Scope 1 and Scope 2 emission 
+intensity per rupee of turnover
+(Total Scope 1 and Scope 2 GHG emissions / 
+Revenue from operations)
+  MT CO2 / 
+Rupee of 
+turnover
+68770/2,92,643=0.235
+60558/255542=0.237
+Total Scope 1 and Scope 2 emission 
+intensity	per rupee of turnover adjusted for 
+Purchasing Power Parity  (PPP)*
+(Total Scope 1 and Scope 2 GHG emissions / 
+Revenue from operations adjusted for PPP)
+5.26
+5.25
+Total Scope 1 and Scope 2 emission 
+intensity in terms of physical output
+-
+-
+Total Scope 1 and Scope 2 emission 
+intensity (optional) – the relevant metric 
+may be selected by the entity
+-
+-
+	
+* PPP Conversion rate = FY2023-24: 22.40; FY2022-23: 22.17  (to be used wherever applicable) (Source: https://www.imf.org/external/
+datamapper/PPPEX@WEO/OEMDC/IND)
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+No
+8.	
+Does the Company have any project related to reducing Green House Gas emission? If yes, then provide 
+details. 
+	
+Yes, the Company has undertaken strategic initiatives to mitigate its carbon footprint. Notably, the Company has 
+shifted High-Speed Diesel (HSD) to Piped Natural Gas (PNG) for cleaner energy use. Additionally, the Company 
+has installed rooftop solar panels to harness renewable energy.
+9.	
+Provide details related to waste management by the Company, in the following format: 
+Parameter
+FY 2023-24 
+FY 2022-23
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+59.325
+56.329
+E-waste (B)
+2.058
+0.297
+Bio-medical waste (C)
+0.002
+0.003
+Construction	and demolition waste (D)
+-
+-
+Battery waste (E)
+4.300
+0.270
+Radioactive waste (F)
+-
+-
+Other Hazardous waste. Please specify, if any. (G)
+107.541
+96.466
+Other Non-hazardous waste generated (H). Please 
+specify, if any. (Break-up by composition i.e. by materials 
+relevant to the sector)
+813.538
+959.380
+Total (A+B + C + D + E + F + G + H)
+986.764
+1112.745
+Waste intensity per rupee of turnover (Total waste 
+generated /Revenue from operations) (metric tonnes/INR 
+in Lacs)
+986.764/2,92,643=0.0034
+1112.745/2,55,542=0.0044
+Statutory Reports
+Introducing ASK Automotive
+25
+Parameter
+FY 2023-24 
+FY 2022-23
+Waste intensity per rupee of turnover adjusted for 
+Purchasing Power Parity (PPP) (Total waste generated / 
+Revenue from operations adjusted for PPP)
+0.076
+0.097
+Waste intensity in terms of physical output
+-
+-
+Waste intensity (optional) – the relevant metric may be 
+selected by the entity
+-
+-
+For each category of waste generated, total waste recovered through recycling, re-using or 
+other recovery operations (in metric tonnes)
+Category of waste
+(i) Recycled
+678.530
+865.710
+(ii) Re-used
+212.590
+166.000
+(iii)	Other recovery operations
+-
+-
+Total
+891.120
+1031.710
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i) Incineration
+20.962
+23.499
+(ii) Landfilling
+-
+-
+(iii) Other disposal operations
+74.682
+57.535
+Total
+95.644
+81.035
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+No
+10.	 Briefly describe the waste management practices adopted in your establishment. Describe the strategy 
+adopted by your Company to reduce usage of hazardous and toxic chemicals in your products and 
+processes and the practices adopted to manage such wastes. 
+	
+The Company adhere to strict environment compliances and effectively dispose the waste generated through 
+authorised dealers. The Company has effective Operational Control Procedures for each type of waste categories. 
+Additionally, The Company has achieved a milestone by eliminating landfill disposal of hazardous waste. 
+	
+The Company actively implements practices to minimize the use of hazardous and toxic chemicals in its products 
+and processes, further contributing to a sustainable and safer operational environment.
+11.	
+If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife 
+sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) 
+where environmental approvals / clearances are required, please specify details in the following format: 
+Sr.No.
+Location of operations/
+offices 
+Type of 
+operations 
+Whether the conditions of environmental approval / 
+clearance are being complied with? (Y/N) If no, the reasons 
+thereof and corrective action taken, if any. 
+Not Applicable, none of the company’s plants or offices are situated in proximity to 
+designated ecologically sensitive zones.
+Name 
+and brief 
+details of 
+project 
+EIA 
+Notification 
+No. 
+Date
+Whether conducted by 
+independent external 
+agency (Yes / No) 
+Results communicated 
+in public domain  
+(Yes / No) 
+Relevant Web link 
+During the financial year, in accordance with applicable laws, there was no obligation to conduct 
+Environmental Impact Assessments (EIAs)
+12.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable 
+laws, in the current financial year: 
+26
+ASK Automotive Limited
+Annual Report 2023-24
+13.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such 
+as the Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) 
+Act, Environment protection Act and rules thereunder (Y/N). If not, provide details of all such non-
+compliances, in the following format:  
+	
+Yes, the Company diligently adheres to the legal requirements, ensuring that its operations align with prescribed 
+standards for air quality, water management, and handling hazardous substances. By maintaining this 
+compliance, the organization demonstrates its commitment to environmental protection and the well-being of 
+local communities. Regular monitoring and strict adherence to these regulations contribute to the company’s 
+responsible and sustainable business practices.
+Sr.No.
+Specify the law / 
+regulation / guidelines 
+which was not complied 
+with 
+Provide details 
+of the non-
+compliance 
+Any fines / penalties / action taken by 
+regulatory agencies such as pollution 
+control boards or by courts 
+Corrective action 
+taken, if any 
+Not applicable
+Essential Indicators
+1.	
+Water withdrawal, consumption and discharge in areas of water stress (in kilolitres):
+	
+For each facility / plant located in areas of water stress, provide the following information:
+	
+(i)	
+Name of the area – Not applicable 
+	
+(ii)	 Nature of operations – Not applicable
+	
+(iii)	 Water withdrawal, consumption and discharge in the following format:
+Parameter
+FY 2023-24
+FY 2022-23
+Water withdrawal by source (in kilolitres)
+(i)	 Surface water
+NA
+NA
+(ii)	 Groundwater
+NA
+NA
+(iii)	Third party water
+NA
+NA
+(iv)	Seawater / desalinated water
+NA
+NA
+(v)	 Others
+NA
+NA
+Total volume of water withdrawal (in kilolitres)
+NA
+NA
+Total volume of water consumption (in kilolitres)
+NA
+NA
+Water intensity per rupee of turnover 
+(Water consumed / turnover)
+NA
+NA
+Water intensity (optional) – the relevant metric may be 
+selected by the entity
+NA
+NA
+Water discharge by destination and level of treatment (in kilolitres)
+(i)	 Into Surface water
+NA
+NA
+	
+-	
+No treatment
+NA
+NA
+	
+-	
+With treatment – please specify level of treatment
+NA
+NA
+(ii)	 Into Groundwater
+NA
+NA
+	
+-	
+No treatment
+NA
+NA
+	
+-	
+With treatment – please specify level of treatment
+NA
+NA
+(iii)	Into Seawater
+NA
+NA
+	
+-	
+No treatment
+NA
+NA
+	
+-	
+With treatment – please specify level of treatment
+NA
+NA
+(iv)	Sent to third-parties
+NA
+NA
+	
+-	
+No treatment
+NA
+NA
+	
+-	
+With treatment – please specify level of treatment
+NA
+NA
+(v)	 Others
+NA
+NA
+	
+-	
+With treatment – please specify level of treatment
+NA
+NA
+Total water discharged (in kilolitres)
+NA
+NA
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency
+	
+No.
+Statutory Reports
+Introducing ASK Automotive
+27
+2.	
+Please provide details of total Scope 3 emissions & its intensity, in the following format: 
+Parameter
+Unit
+FY 2023-24
+FY 2022-23
+Total Scope 3 emissions 
+(Break-up of the GHG into CO2, CH4, N2O, 
+HFCs, PFCs, SF6, NF3, if available) 
+Metric 
+tonnes 
+of CO2 
+equivalent 
+The Company is not capturing data for scope 3 
+emissions, at present.
+Total Scope 3 emissions per rupee of 
+turnover 
+Kg CO2/
+Rupee 
+turnover
+Total Scope 3 emission intensity
+Kgs
+	
+Note: Indicate if any independent assessment, evaluation, or assurance has been carried out by an external 
+agency? (Y/N) If yes, name of the external agency.
+	
+No
+3.	
+With respect to the ecologically sensitive areas reported in Question 11 of Essential Indicators above, 
+provide details of significant direct & indirect impact of the entity on biodiversity in such areas along-
+with prevention and remediation activities. 
+	
+Not Applicable
+4.	
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to 
+improve resource efficiency, or reduce impact due to emissions / effluent discharge / waste generated, 
+please provide details of the same as well as outcome of such initiatives, as per the following format: 
+Sr. No.
+Initiative undertaken
+Details of the initiative (Web-link, 
+if any, may be provided along-
+with summary)
+Outcome of the initiative
+1
+Reuse the treated water in 
+process
+ETP & STP treated water recycling 
+through UF & RO and reusing in 
+process
+51% water Reusing in process after 
+treatment
+2
+Qualitative Data reporting 
+of treated water
+Online analyser installed on ETP 
+outlet and its connected through 
+CPCB and State pollution control 
+board
+Live quality monitoring in the plants, 
+wherever applicable
+3
+Zero land fill of Hazardous 
+waste
+All the waste now sending 
+for recycling/co-processing/
+incineration
+Zero landfill of waste
+5.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/ 
+web link.
+	
+Yes, the entity has a robust business continuity and disaster management plan designed to maintain critical 
+operations and facilitate immediate recovery in the event of a disruption.
+	
+The plan includes a thorough risk assessment to identify potential threats and vulnerabilities. It encompasses a 
+business impact analysis to prioritize essential functions and resources. Detailed recovery strategies are outlined, 
+specifying steps to restore operations and minimize downtime. This includes data backup protocols, ensuring 
+that vital information is regularly copied and stored securely, both on-site and off-site.
+	
+Emergency response procedures are clearly defined, providing guidelines for immediate action during various 
+types of incidents. This includes evacuation plans, communication protocols, and coordination with local 
+emergency services. 
+	
+Additionally, alternative site arrangements are in place to relocate operations if primary facilities are compromised. 
+Regular training sessions and drills are conducted to ensure that employees are prepared to execute the plan 
+effectively. The plan is reviewed and updated annually, or more frequently, if needed.
+	
+This comprehensive approach ensures that the entity is resilient, capable of maintaining essential functions, and 
+able to recover quickly from disruptions, thereby safeguarding its assets, reputation, and operational capability. 
+28
+ASK Automotive Limited
+Annual Report 2023-24
+6.	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. 
+What mitigation or adaptation measures have been taken by the entity in this regard? 
+	
+The Company reported no significant environmental impacts from its value chain. However, mitigation 
+plans are in place.
+7.	
+Percentage of Value chain partners (by value of business done with such partners) that were assessed 
+for Environmental Impacts?
+	
+The Company has not assessed environmental impacts of its value chain partners.
+PRINCIPLE 7:
+Businesses, when engaging in influencing public and regulatory policy, should do so 
+in a manner that is responsible and transparent
+1.	
+a.	
+Number of affiliations with trade and industry chambers/associations
+	
+	
+10
+	
+b.	
+List the top 10 trade and industry chambers/associations (determined based on the total members 
+of such body) the Company is a member of/affiliated to.
+Essential Indicators
+Sr.No.
+Name of the trade and industry chambers/associations
+Reach of trade and industry chambers/
+associations (State/ National)
+1
+Automotive Component Manufacturers Association of India 
+(ACMA)
+National
+2
+Society of Indian Automobiles Manufacturers
+National
+3
+Confederation of Indian Industries
+National
+4
+Great Die Casting Technology Forum ( GDCTech )
+National
+5
+North America Die Casting Association ( NADCA )
+International 
+6
+Institute of Directors (IOD)
+National
+7
+IMT Industrial Association
+State
+8
+Gurgaon Industrial Association
+State
+9
+Haryana Environmental Management Society 
+State
+10
+National Safety Council
+National
+2.	
+Provide details of corrective action taken or underway on any issues related to anti-competitive conduct 
+by the Company, based on adverse orders from regulatory authorities.
+Name of the authority
+Brief of the case
+Corrective action taken
+Not applicable. There have been no adverse orders against the Company pertaining to anti-competitive 
+conduct from regulatory bodies.
+Leadership Indicators
+1.	
+Details of public policy positions advocated by the Company:
+Sr.No.
+Public Policy 
+advocated
+Method resorted for 
+such advocacy
+Whether 
+information 
+available in public 
+domain? (Yes/ No)
+Frequency of Review by 
+Board (Annually/ Half yearly/
+Quarterly/Others- please 
+specify)
+Web Link, if 
+available
+The Company through its active participation in trade bodies and associations advocate and pursue various 
+causes that are in the larger interests of industry, economy, society and the public.
+Statutory Reports
+Introducing ASK Automotive
+29
+PRINCIPLE 8:
+Businesses should promote inclusive growth and equitable development
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the Company, based on applicable 
+laws, in the current financial year.
+Essential Indicators
+Name and 
+brief details 
+of project
+SIA 
+Notification No
+Date of notification
+Whether conducted by 
+independent external 
+agency (Yes / No)
+Results 
+communicated 
+in public domain 
+(Yes / No)
+Relevant 
+Web link
+Not Applicable
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being 
+undertaken by the Company, in the following format:
+Sr.No.
+Name of 
+Project for 
+which R&R is 
+ongoing
+State
+District
+No. of Project Affected 
+Families (PAFs)
+% of PAFs 
+covered by 
+R&R
+Amount sent on R&R 
+activities during FY 2023-
+24 (In INR)
+Not Applicable
+3.	
+Describe the mechanisms to receive and redress grievances of the community.
+	
+The Company conducts regular discussions and focused group sessions with the communities it impacts through 
+CSR initiatives
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY 2023-24
+FY 2022-23
+Directly sourced from MSMEs/small producers
+22.83%
+22.19%
+Directly from Within India 
+97.90%
+97.93%
+5.	
+Job creation in smaller towns – Disclose wages paid to persons employed (including employees or 
+workers employed on a permanent or non-permanent / on contract basis) in the following locations, as 
+% of total wage cost
+Location
+FY 2023-24
+FY 2022-23
+Rural
+30.4%
+30.3%
+Semi-urban
+0
+0
+Urban
+69.6%
+69.7%
+Metropolitan
+0
+0
+	
+(Place to be categorized as per RBI Classification System - rural / semi-urban / urban / metropolitan)
+Leadership Indicators
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact 
+Assessments (Reference: Question 1 of Essential Indicators above):
+Details of negative social impact identified
+Corrective action taken
+Not Applicable
+2.	
+Provide the following information on CSR projects undertaken by the Company in the designated 
+aspirational districts as identified by government bodies:
+Sr.No.
+State
+Aspirational District
+Amount spent (In INR)
+None of the CSR activities are undertaken in aspirational districts 
+30
+ASK Automotive Limited
+Annual Report 2023-24
+3.	
+(a)	 Do you have a preferential procurement policy where you give preference to purchase from 
+suppliers comprising marginalized/vulnerable groups? (Yes/No) –
+	
+	
+No, the Company has procedures for procurement but no specific preferential procurement policy available.
+	
+(b)	 From which marginalized/vulnerable groups do you procure? – Not applicable
+	
+(c)	 What percentage of total procurement (by value) does it constitute? – Not applicable
+4.	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by the 
+Company (in the current financial year), based on traditional knowledge:
+Sr.No.
+Intellectual Property based on 
+traditional knowledge
+Owned/ Acquired 
+(Yes/ No)
+Benefit shared 
+(Yes/No)
+Basis of calculating 
+benefit share
+The Company do not use intellectual properties from communities based on traditional knowledge.
+5.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property 
+related disputes wherein usage of traditional knowledge is involved.
+Name of authority
+Brief of the Case
+Corrective action taken
+Not Applicable 
+6.	
+Details of beneficiaries of CSR Projects:
+Sr.No.
+CSR Project
+No. of persons 
+benefitted from CSR 
+Projects
+% of beneficiaries 
+from vulnerable and 
+marginalized group
+ 1
+Promoting Health Care, Eradicating hunger, poverty and 
+malnutrition
+General Public
+100%
+ 2
+Promoting Education, including special education and 
+employment
+24
+100%
+ 3
+Ensuring Environmental Sustainability, Protection of Flora 
+& Fauna, Animal Welfare
+General Public
+100%
+ 4
+Training to Promote Rural, Nationally recognized, 
+Paralympic and Olympic Sports
+2
+100%
+5
+Vocational Skill Enhancement
+661
+100%
+PRINCIPLE 9:
+Businesses should engage with and provide value to their consumers in a 
+responsible manner
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+Essential Indicators
+	
+The Company promptly addresses consumer complaints and grievances. The Consumers have the option to 
+lodge complaints via telephone or email, or by sending correspondence to the Company’s office at Flat 104, 929/1, 
+Naiwala, Faiz Road, Karol Bagh, New Delhi-110005. For assistance, customers can reach the dedicated customer 
+care team at the following number: 011-28759605, or via email at askdelhi@askbrake.com.
+2.	
+Turnover of products and/services as a percentage of turnover from all products/service that carry 
+information about:
+As a percentage to total turnover
+Environmental and social parameters relevant to the product
+Nil
+Safe and responsible usage
+Nil
+Recycling and/or safe disposal
+Nil
+	
+Note – The products carry relevant information in accordance with relevant legal provision.
+Statutory Reports
+Introducing ASK Automotive
+31
+3.	
+Number of consumer complaints in respect of the following:
+Number of 
+consumer 
+complaints in 
+respect of the 
+following:
+FY 2023-24
+Remarks
+FY 2022-23
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Data privacy
+Nil
+Nil
+-
+Nil
+Nil
+-
+Advertising
+Nil
+Nil
+-
+Nil
+Nil
+-
+Cyber-security
+Nil
+Nil
+-
+Nil
+Nil
+-
+Delivery of 
+essential services
+Nil
+Nil
+-
+Nil
+Nil
+-
+Restrictive Trade 
+Practices
+Nil
+Nil
+-
+Nil
+Nil
+-
+Unfair Trade 
+Practices
+Nil
+Nil
+-
+Nil
+Nil
+-
+Other
+Nil
+Nil
+-
+Nil
+Nil
+-
+4.	
+Details of instances of product recalls on account of safety issues:
+Number
+Reasons for recall
+Voluntary recalls
+0
+Not applicable
+Forced recalls
+0
+Not applicable
+5.	
+Does the Company have a framework/policy on cyber security and risks related to data privacy? (Yes/
+No) If available, provide a web-link of the policy. 
+	
+Yes, the Company has a framework/policy on cyber security and risks related to data privacy. 
+	
+The policy outlines the Company's approach to information security, including the implementation of technical 
+and organizational measures to protect against cyber threats and unauthorized access to sensitive data. 
+Specifically, the policy covers areas such as access controls, network security, incident response, and data 
+backup and recovery.
+	
+Furthermore, the policy emphasizes the importance of data privacy and protection of personal information in 
+accordance with relevant data protection regulations. It includes provisions for secure handling, storage, and 
+disposal of confidential data. The IT Security Policy is available on Company’s Human Resources Management 
+System (“HRMS”) and can be accessed by employees.
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and 
+delivery of essential services; cyber security and data privacy of customers; re-occurrence of instances 
+of product recalls; penalty/action taken by regulatory authorities on safety of products/services. 
+	
+Not Applicable 
+7.	
+Provide the following information relating to data breaches:
+Provide the following information 
+relating to data breaches:
+a.	 Number of instances of data breaches along-with impact
+0
+b.	 Percentage of data breaches involving personally identifiable 
+information of customer
+0
+c.	 Impact, if any, of the data breaches
+Not Applicable 
+1.	
+Channels/platforms where information on products and services of the Company can be accessed 
+(provide web-link, if available).
+	
+The details and pertinent information of our products can be accessed on the Company’s website: 
+www.askbrake.com.
+Leadership Indicators
+32
+ASK Automotive Limited
+Annual Report 2023-24
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/
+or services.
+	
+The majority of the customers are Original Equipment Manufacturers (OEMs). For aftermarket supplies, 
+the Company conducts trainings, plant visits and workshops for its dealers. Additionally, there are regular 
+workshops and awareness campaigns for mechanics.
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential 
+services.
+	
+Not Applicable, as the Company is not directly engaged in delivering essential services.
+4.	
+Does the entity display product information on the product over and above what is mandated as 
+per local laws? (Yes/No/Not Applicable) If yes, provide details in brief. Did your entity carry out any 
+survey with regard to consumer satisfaction relating to the major products/services of the entity, 
+significant locations of operation of the entity or the entity as whole? (Yes/No)
+	
+No. The Company provides required product information as per applicable laws.
+Statutory Reports
+Introducing ASK Automotive
+33

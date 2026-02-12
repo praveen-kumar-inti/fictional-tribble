@@ -1,0 +1,4696 @@
+file:///C/Users/THOMAV01/OneDrive%20-%20AkzoNobel/Desktop/Working%20folder/BRSR%20XBRL/AKZO%20BRSR%20PDF%202023-24.html[7/5/2024 1:03:07 PM]
+SECTION A: GENERAL DISCLOSURES
+I.
+Details of the listed entity
+1
+Corporate Identity Number (CIN) of the Listed Entity
+L24292WB1954PLC021516
+2
+Name of the Listed Entity
+Akzo Nobel India Limited
+3
+Date of Incorporation
+12-03-1954
+4
+Registered office address
+Geetanjali Apartment, 1st Floor, 8-
+B, Middleton Street, Kolkata 700
+071, India
+5
+Corporate address
+9th Floor, Magnum Towers 1,
+Sector 58, Gurugram 122 011, India
+6
+E-mail
+investor.india@akzonobel.com
+7
+Telephone
+0124 4852400
+8
+Website
+www.akzonobel.co.in
+9
+Financial year for which reporting is being done
+Start date
+End date
+Current Financial Year
+01-04-2023
+31-03-2024
+Previous Financial Year
+01-04-2022
+31-03-2023
+Prior to Previous Financial year
+01-04-2021
+31-03-2022
+10
+Name of the Stock Exchange(s) where shares are listed
+Details of the Stock Exchanges
+Sr. No.
+Name of the Stock exchange
+Description of other stock exchange
+Name of the Country
+1
+BSE
+2
+NSE
+11
+Paid-up Capital (In Rs)
+455403140.00
+12
+Name and contact details (telephone, email address) of the person who may be contacted in case of any queries on the BRSR report
+Name
+Rajiv L Jha
+Contact
+Company Secretary and Compliance
+Officer
+E mail
+investor.india@akzonobel.com
+13
+Reporting boundary - Are the disclosures under this report made on a standalone basis (i.e. only for the entity) or on
+a consolidated basis (i.e. for the entity and all the entities which form a part of its consolidated financial statements,
+taken together).
+Consolidated basis
+14
+Whether the company has undertaken reasonable assurance of the BRSR Core?
+No
+II.
+Products/services
+17
+Details of business activities (accounting for 90% of the turnover)
+Details of business activities (accounting for 90% of the turnover)
+Sr. No.
+Description of Main Activity
+Description of Business Activity
+% of Turnover of the entity
+1
+Manufacturing
+Manufacturing and supply of Paints, varnishes, enamels, or lacquers
+100.00%
+18
+Products/Services sold by the entity (accounting for 90% of the entity’s Turnover)
+Products/Services sold by the entity (accounting for 90% of the entity’s Turnover)
+Sr. No.
+Product/Service
+NIC Code
+% of total Turnover contributed
+1
+Paints, Varnishes, enamels or Lacquers
+20221
+100.00%
+NIC Code list link:
+https://www.ncs.gov.in/Documents/NIC_Sector.pdf
+III. Operations
+19
+Number of locations where plants and/or operations/offices of the entity are situated
+Location
+Number
+of
+plants
+Number of offices
+Total
+National
+5
+4
+9
+International 0
+2
+2
+20
+Markets served by the entity
+A
+Number of locations
+Locations
+Number
+National (No. of States)
+24
+International (No. of
+Countries)
+4
+B
+What is the contribution of
+exports as a percentage of
+the total turnover of the
+entity?
+5.00%
+C
+A brief on types of
+customers
+We serve broadly 3 types of consumers as below:
+•	Homeowners/Dealers/Distributors/Painters: We offer a wide range of
+essential products for every situation and surface, including paints, lacquers and varnishes
+•	Institutions/Builders/Contractors:
+Dulux professional range of products serve the builder segment & other institutional decorative paint users.
+•	Industrial users:
+The industrial paints cater to the needs of automotive, consumer durables, structures, machinery, equipment etc.
+IV.
+Employees
+21
+Details as at the end of Financial Year
+A.
+Employees and workers (including differently abled)
+Sr.
+No.
+Particulars
+Total
+(A)
+Male
+Female
+Other
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+No. (H)
+% (H / A)
+EMPLOYEES
+1
+Permanent (D)
+1250
+1084
+86.72%
+166
+13.28%
+0
+0.00%
+2
+Other than permanent (E)
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+3
+Total employees(D + E)
+1250
+1084
+86.72%
+166
+13.28%
+0
+0.00%
+WORKERS
+file:///C/Users/THOMAV01/OneDrive%20-%20AkzoNobel/Desktop/Working%20folder/BRSR%20XBRL/AKZO%20BRSR%20PDF%202023-24.html[7/5/2024 1:03:07 PM]
+4
+Permanent (F)
+283
+283
+100.00%
+0
+0.00%
+0
+0.00%
+5
+Other than permanent (G)
+299
+287
+95.99%
+12
+4.01%
+0
+0.00%
+6
+Total workers (F + G)
+582
+570
+97.94%
+12
+2.06%
+0
+0.00%
+B.
+Differently abled Employees and workers:
+Sr.
+No.
+Particulars
+Total
+(A)
+Male
+Female
+Other
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+No. (H)
+% (H / A)
+DIFFERENTLY ABLED EMPLOYEES
+1
+Permanent (D)
+3
+3
+100.00%
+0
+0.00%
+0
+0.00%
+2
+Other than Permanent (E)
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+3
+Total differently abled
+employees (D + E)
+3
+3
+100.00%
+0
+0.00%
+0
+0.00%
+DIFFERENTLY ABLED WORKERS
+4
+Permanent (F)
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+5
+Other than Permanent (G)
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+6
+Total differently abled workers
+(F + G)
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+22
+Participation/Inclusion/Representation of women
+Total
+(A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+6
+1
+16.67%
+Key Management Personnel
+3
+0
+0.00%
+23
+Turnover rate for permanent employees and workers (Disclose trends for the past 3 years)
+Turnover rate in current FY
+(2023-24)
+Turnover rate in previous FY
+(2022-23)
+Turnover rate in the year prior to the
+previous FY (2021-22)
+Male
+Female Other
+Total
+Male
+Female Other
+Total
+Male
+Female
+Other
+Total
+Permanent Employees
+18.00%
+19.00% 0.00% 18.00% 15.00% 11.00% 0.00% 15.00% 11.00%
+13.00%
+0.00%
+11.00%
+Permanent Workers
+0.00%
+0.00%
+0.00% 0.00%
+1.00%
+0.00%
+0.00% 1.00%
+2.00%
+0.00%
+0.00%
+2.00%
+V.
+Holding, Subsidiary and Associate Companies (including joint ventures)
+24
+(a) Names of holding / subsidiary / associate companies / joint ventures
+Holding, Subsidiary and Associate Companies (including joint ventures)
+Sr.
+No.
+Name of the holding /
+subsidiary/associate
+companies/joint ventures (A)
+Indicate whether
+holding/Subsidiary/Associate/Joint
+Venture
+% of shares
+held by listed
+entity
+Does the entity indicated at column A, participate in the
+Business Responsibility initiatives of the listed entity?
+(Yes/No)
+1
+Imperial Chemical Industries
+Limited, United Kingdom
+Holding
+50.46%
+Yes
+2
+Akzo Nobel Coatings International
+B.V. The Netherlands
+Holding
+24.30%
+Yes
+3
+Akzo Nobel NV, The Netherlands
+Holding
+0.00%
+Yes
+4
+ICI India Research & Technology
+Centre
+Subsidiary
+25.00%
+Yes
+VI.
+CSR Details
+25
+(i) Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No)
+Yes
+(ii) Turnover (in Rs.)
+39615780000.00
+(iii) Net worth (in Rs.)
+13292000000.00
+VII. Transparency and Disclosures Compliances
+26
+Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business Conduct
+Stakeholder
+group from
+whom
+complaint is
+received
+Grievance
+Redressal
+Mechanism
+in Place
+(Yes/No/NA)
+(If Yes, then provide web-link for
+grievance redress policy)
+FY (2023-24)
+PY (2022-23)
+(If NA,
+then
+provide
+the
+reason)
+Number of
+complaints
+filed
+during the
+year
+Number of
+complaints
+pending
+resolution
+at close of
+the year
+Remarks
+Number of
+complaints
+filed
+during the
+year
+Number of
+complaints
+pending
+resolution
+at close of
+the year
+Remarks
+Communities
+Yes
+customercare.india@akzonobel.com
+Help line no:180030004455,
+Through local NGO partners
+0
+0
+0
+0
+0
+0
+Investors
+(other than
+shareholders)
+Yes
+investor.india@akzonobel.com
+0
+0
+0
+0
+0
+0
+Shareholders
+Yes
+SEBI, Stock Exchange, Registrar
+and Share Transfer Agent, Email:
+investor.india@akzonobel.com
+15
+0
+0
+10
+0
+0
+Employees
+and workers
+Yes
+Speak up (Vigil Mechanism)
+11
+3
+0
+5
+3
+0
+Customers
+Yes
+Email:
+customercare.india@akzonobel.com
+Helpline: 180030004455
+1498
+646
+0
+2441
+639
+0
+Value Chain
+Partners
+Yes
+Email:
+customercare.india@akzonobel.com
+Helpline: 180030004455
+0
+0
+0
+0
+0
+0
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1. a. Whether your
+entity’s policy/policies
+cover each principle and
+its core elements of the
+NGRBCs. (Yes/No/NA)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+b. Has the policy been
+approved by the Board?
+(Yes/No/NA)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+file:///C/Users/THOMAV01/OneDrive%20-%20AkzoNobel/Desktop/Working%20folder/BRSR%20XBRL/AKZO%20BRSR%20PDF%202023-24.html[7/5/2024 1:03:07 PM]
+c. Web Link of the
+Policies, if available
+https://akzonobel.co.in/corporate-
+governance.php#policy
+https://akzonobel.co.in/corporate-
+governance.php#policy
+https://akzonobel.co.in/corporate-
+governance.php#policy
+https://akzonobel.co.in/corporate-
+governance.php#policy
+https://akzonobel.co.in/corporate-
+governance.php#policy
+https://akzonobel.co.in/corporate-
+governance.php#policy
+https://akzonobel.co.in/corporate-
+governance.php#policy
+https://akzonobel.co.in/corporate-
+governance.php#policy
+https://akzonobel.co.in/corporate-
+governance.php#policy
+2. Whether the entity has
+translated the policy into
+procedures. (Yes / No/
+NA)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3. Do the enlisted policies
+extend to your value chain
+partners? (Yes/No/NA)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+4. Name of the national
+and international
+codes/certifications/labels/
+standards (e.g. Forest
+Stewardship Council,
+Fairtrade, Rainforest
+Alliance, Trustee)
+standards (e.g. SA 8000,
+OHSAS, ISO, BIS)
+adopted by your entity
+and mapped to each
+principle.
+Your Company’s manufacturing
+facilities and office premises
+have well defined Environment,
+Health, Safety and Quality
+Management systems in place
+with stringent internal standards
+and are also certified with
+international standards
+ISO
+45001 (OHSAS)- Occupational
+Health and safety Management
+system
+ISO 9001- Quality
+Management system
+ISO 14001-
+Environmental Management
+system Our products are certified
+as per BIS
+Your Company’s manufacturing
+facilities and office premises
+have well defined Environment,
+Health, Safety and Quality
+Management systems in place
+with stringent internal standards
+and are also certified with
+international standards
+ISO
+45001 (OHSAS)- Occupational
+Health and safety Management
+system
+ISO 9001- Quality
+Management system
+ISO 14001-
+Environmental Management
+system Our products are certified
+as per BIS
+Your Company’s manufacturing
+facilities and office premises
+have well defined Environment,
+Health, Safety and Quality
+Management systems in place
+with stringent internal standards
+and are also certified with
+international standards
+ISO
+45001 (OHSAS)- Occupational
+Health and safety Management
+system
+ISO 9001- Quality
+Management system
+ISO 14001-
+Environmental Management
+system Our products are certified
+as per BIS
+Your Company’s manufacturing
+facilities and office premises
+have well defined Environment,
+Health, Safety and Quality
+Management systems in place
+with stringent internal standards
+and are also certified with
+international standards
+ISO
+45001 (OHSAS)- Occupational
+Health and safety Management
+system
+ISO 9001- Quality
+Management system
+ISO 14001-
+Environmental Management
+system Our products are certified
+as per BIS
+Your Company’s manufacturing
+facilities and office premises
+have well defined Environment,
+Health, Safety and Quality
+Management systems in place
+with stringent internal standards
+and are also certified with
+international standards
+ISO
+45001 (OHSAS)- Occupational
+Health and safety Management
+system
+ISO 9001- Quality
+Management system
+ISO 14001-
+Environmental Management
+system Our products are certified
+as per BIS
+Your Company’s manufacturing
+facilities and office premises
+have well defined Environment,
+Health, Safety and Quality
+Management systems in place
+with stringent internal standards
+and are also certified with
+international standards
+ISO
+45001 (OHSAS)- Occupational
+Health and safety Management
+system
+ISO 9001- Quality
+Management system
+ISO 14001-
+Environmental Management
+system Our products are certified
+as per BIS
+Your Company’s manufacturing
+facilities and office premises
+have well defined Environment,
+Health, Safety and Quality
+Management systems in place
+with stringent internal standards
+and are also certified with
+international standards
+ISO
+45001 (OHSAS)- Occupational
+Health and safety Management
+system
+ISO 9001- Quality
+Management system
+ISO 14001-
+Environmental Management
+system Our products are certified
+as per BIS
+Your Company’s manufacturing
+facilities and office premises
+have well defined Environment,
+Health, Safety and Quality
+Management systems in place
+with stringent internal standards
+and are also certified with
+international standards
+ISO
+45001 (OHSAS)- Occupational
+Health and safety Management
+system
+ISO 9001- Quality
+Management system
+ISO 14001-
+Environmental Management
+system Our products are certified
+as per BIS
+Your Company’s manufacturing
+facilities and office premises
+have well defined Environment,
+Health, Safety and Quality
+Management systems in place
+with stringent internal standards
+and are also certified with
+international standards ISO
+45001 (OHSAS)- Occupational
+Health and safety Management
+system ISO 9001- Quality
+Management system ISO 14001-
+Environmental Management
+system Our products are certified
+as per BIS
+5. Specific commitments,
+goals and targets set by
+the entity with defined
+timelines, if any.
+Globally, AkzoNobel is
+committed to the following by
+2030
+•	reduce our carbon
+emissions by 50%
+•	utilize 100%
+of our energy requirements from
+renewable sources
+•	move
+towards zero waste
+Globally, AkzoNobel is
+committed to the following by
+2030
+•	reduce our carbon
+emissions by 50%
+•	utilize 100%
+of our energy requirements from
+renewable sources
+•	move
+towards zero waste
+Globally, AkzoNobel is
+committed to the following by
+2030
+•	reduce our carbon
+emissions by 50%
+•	utilize 100%
+of our energy requirements from
+renewable sources
+•	move
+towards zero waste
+Globally, AkzoNobel is
+committed to the following by
+2030
+•	reduce our carbon
+emissions by 50%
+•	utilize 100%
+of our energy requirements from
+renewable sources
+•	move
+towards zero waste
+Globally, AkzoNobel is
+committed to the following by
+2030
+•	reduce our carbon
+emissions by 50%
+•	utilize 100%
+of our energy requirements from
+renewable sources
+•	move
+towards zero waste
+Globally, AkzoNobel is
+committed to the following by
+2030
+•	reduce our carbon
+emissions by 50%
+•	utilize 100%
+of our energy requirements from
+renewable sources
+•	move
+towards zero waste
+Globally, AkzoNobel is
+committed to the following by
+2030
+•	reduce our carbon
+emissions by 50%
+•	utilize 100%
+of our energy requirements from
+renewable sources
+•	move
+towards zero waste
+Globally, AkzoNobel is
+committed to the following by
+2030
+•	reduce our carbon
+emissions by 50%
+•	utilize 100%
+of our energy requirements from
+renewable sources
+•	move
+towards zero waste
+Globally, AkzoNobel is
+committed to the following by
+2030
+•	reduce our carbon
+emissions by 50%
+•	utilize 100%
+of our energy requirements from
+renewable sources
+•	move
+towards zero waste
+6. Performance of the
+entity against the specific
+commitments, goals and
+targets along-with reasons
+in case the same are not
+met.
+Your Company follows a series
+of Environmental Performance
+Indicators (as referred in various
+places of this report) to monitor
+its efforts for sustainable use of
+natural resources in
+manufacturing
+Your Company follows a series
+of Environmental Performance
+Indicators (as referred in various
+places of this report) to monitor
+its efforts for sustainable use of
+natural resources in
+manufacturing
+Your Company follows a series
+of Environmental Performance
+Indicators (as referred in various
+places of this report) to monitor
+its efforts for sustainable use of
+natural resources in
+manufacturing
+Your Company follows a series
+of Environmental Performance
+Indicators (as referred in various
+places of this report) to monitor
+its efforts for sustainable use of
+natural resources in
+manufacturing
+Your Company follows a series
+of Environmental Performance
+Indicators (as referred in various
+places of this report) to monitor
+its efforts for sustainable use of
+natural resources in
+manufacturing
+Your Company follows a series
+of Environmental Performance
+Indicators (as referred in various
+places of this report) to monitor
+its efforts for sustainable use of
+natural resources in
+manufacturing
+Your Company follows a series
+of Environmental Performance
+Indicators (as referred in various
+places of this report) to monitor
+its efforts for sustainable use of
+natural resources in
+manufacturing
+Your Company follows a series
+of Environmental Performance
+Indicators (as referred in various
+places of this report) to monitor
+its efforts for sustainable use of
+natural resources in
+manufacturing
+Your Company follows a series
+of Environmental Performance
+Indicators (as referred in various
+places of this report) to monitor
+its efforts for sustainable use of
+natural resources in
+manufacturing
+Governance, leadership and oversight
+7. Statement by director responsible for the business responsibility report,
+highlighting ESG related challenges, targets and achievements (listed entity has
+flexibility regarding the placement of this disclosure)
+Refer Chairman and MD statement
+8. Details of the highest authority responsible for implementation and oversight
+of the Business Responsibility policy (ies).
+The Board of Directors of the Company oversee the implementation of the
+Business Responsibility Policy(ies).
+The sustainability agenda of your
+Company is spread across various Board Committees.
+9. Does the entity have a specified Committee of the Board/ Director responsible
+for decision making on sustainability related issues? (Yes / No/ NA).
+No
+If yes, provide details.
+10. Details of Review of NGRBCs by the Company
+Subject for Review
+Indicate whether review was undertaken by Director/Committee of the Board/Any other Committee
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above policies and follow
+up action
+Committee
+of the
+Board
+Committee
+of the
+Board
+Committee
+of the
+Board
+Committee
+of the
+Board
+Committee
+of the
+Board
+Committee
+of the
+Board
+Committee
+of the
+Board
+Committee
+of the
+Board
+Committee
+of the
+Board
+Description of other committee for
+performance against above policies and follow
+up action
+Compliance with statutory requirements of
+relevance to the principles and rectification of
+any non-compliances
+Committee
+of the
+Board
+Committee
+of the
+Board
+Committee
+of the
+Board
+Committee
+of the
+Board
+Committee
+of the
+Board
+Committee
+of the
+Board
+Committee
+of the
+Board
+Committee
+of the
+Board
+Committee
+of the
+Board
+Description of other committee for compliance
+with statutory requirements of relevance to the
+principles and rectification
+Frequency
+(Annually / Half yearly /Quarterly/ Any other-please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above policies and follow
+up action
+Annually
+Annually
+Annually
+Annually
+Annually
+Annually
+Annually
+Annually
+Annually
+Description of other committee for
+performance against above policies and follow
+up action
+Compliance with statutory requirements of
+relevance to the principles and rectification of
+any non-compliances
+Annually
+Annually
+Annually
+Annually
+Annually
+Annually
+Annually
+Annually
+Annually
+Description of other committee for compliance
+with statutory requirements of relevance to the
+principles and rectification
+11. Has the
+entity
+carried out
+independent
+assessment/
+evaluation
+of the
+working of
+its policies
+by an
+external
+agency?
+(Yes/No).
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Lloyd’s
+Register
+Quality
+Assurance
+Limited
+conducted an
+independent
+Lloyd’s
+Register
+Quality
+Assurance
+Limited
+conducted an
+independent
+Lloyd’s
+Register
+Quality
+Assurance
+Limited
+conducted an
+independent
+Lloyd’s
+Register
+Quality
+Assurance
+Limited
+conducted an
+independent
+Lloyd’s
+Register
+Quality
+Assurance
+Limited
+conducted an
+Lloyd’s
+Register
+Quality
+Assurance
+Limited
+conducted an
+Lloyd’s
+Register
+Quality
+Assurance
+Limited
+conducted an
+Lloyd’s
+Register
+Quality
+Assurance
+Limited
+conducted an
+Lloyd’s
+Register
+Quality
+Assurance
+Limited
+conducted an
+file:///C/Users/THOMAV01/OneDrive%20-%20AkzoNobel/Desktop/Working%20folder/BRSR%20XBRL/AKZO%20BRSR%20PDF%202023-24.html[7/5/2024 1:03:07 PM]
+If Yes,
+Provide
+name of the
+agency
+assessment of
+our health,
+safety and
+environment
+management
+system. We
+have a
+responsible
+procurement
+policy,
+business
+partner code
+of conduct,
+and use
+EcoVadis for
+third-party
+assessments to
+ensure
+alignment
+with our
+principles.
+Additionally,
+our internal
+audit program
+reviews
+compliance
+with relevant
+policies.
+assessment of
+our health,
+safety and
+environment
+management
+system. We
+have a
+responsible
+procurement
+policy,
+business
+partner code
+of conduct,
+and use
+EcoVadis for
+third-party
+assessments to
+ensure
+alignment
+with our
+principles.
+Additionally,
+our internal
+audit program
+reviews
+compliance
+with relevant
+policies.
+assessment of
+our health,
+safety and
+environment
+management
+system. We
+have a
+responsible
+procurement
+policy,
+business
+partner code
+of conduct,
+and use
+EcoVadis for
+third-party
+assessments to
+ensure
+alignment
+with our
+principles.
+Additionally,
+our internal
+audit program
+reviews
+compliance
+with relevant
+policies.
+assessment of
+our health,
+safety and
+environment
+management
+system. We
+have a
+responsible
+procurement
+policy,
+business
+partner code
+of conduct,
+and use
+EcoVadis for
+third-party
+assessments to
+ensure
+alignment
+with our
+principles.
+Additionally,
+our internal
+audit program
+reviews
+compliance
+with relevant
+policies.
+independent
+assessment of
+our health,
+safety and
+environment
+management
+system. We
+have a
+responsible
+procurement
+policy,
+business
+partner code of
+conduct, and
+use EcoVadis
+for third-party
+assessments to
+ensure
+alignment with
+our principles.
+Additionally,
+our internal
+audit program
+reviews
+compliance
+with relevant
+policies.
+independent
+assessment of
+our health,
+safety and
+environment
+management
+system. We
+have a
+responsible
+procurement
+policy,
+business
+partner code of
+conduct, and
+use EcoVadis
+for third-party
+assessments to
+ensure
+alignment with
+our principles.
+Additionally,
+our internal
+audit program
+reviews
+compliance
+with relevant
+policies.
+independent
+assessment of
+our health,
+safety and
+environment
+management
+system. We
+have a
+responsible
+procurement
+policy,
+business
+partner code of
+conduct, and
+use EcoVadis
+for third-party
+assessments to
+ensure
+alignment with
+our principles.
+Additionally,
+our internal
+audit program
+reviews
+compliance
+with relevant
+policies.
+independent
+assessment of
+our health,
+safety and
+environment
+management
+system. We
+have a
+responsible
+procurement
+policy,
+business
+partner code of
+conduct, and
+use EcoVadis
+for third-party
+assessments to
+ensure
+alignment with
+our principles.
+Additionally,
+our internal
+audit program
+reviews
+compliance
+with relevant
+policies.
+independent
+assessment of
+our health,
+safety and
+environment
+management
+system. We
+have a
+responsible
+procurement
+policy,
+business
+partner code of
+conduct, and
+use EcoVadis
+for third-party
+assessments to
+ensure
+alignment with
+our principles.
+Additionally,
+our internal
+audit program
+reviews
+compliance
+with relevant
+policies.
+12. If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated:
+Questions
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+The entity
+does not
+consider the
+Principles
+material to
+its business
+(Yes/No)
+The entity
+is not at a
+stage where
+it is in a
+position to
+formulate
+and
+implement
+the policies
+on specified
+principles
+(Yes/No)
+The entity
+does not
+have the
+financial
+or/human
+and
+technical
+resources
+available
+for the task
+(Yes/No)
+It is
+planned to
+be done in
+the next
+financial
+year
+(Yes/No)
+Any other
+reason
+(please
+specify)
+Notes
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core Elements with key processes and decisions. The
+information sought is categorized as “Essential” and “Leadership”. While the essential indicators are expected to be disclosed by every entity that is mandated to
+file this report, the leadership indicators may be voluntarily disclosed by entities which aspire to progress to a higher level in their quest to be socially,
+environmentally and ethically responsible.
+PRINCIPLE 1 Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, Transparent and Accountable.
+Essential Indicators
+1. Percentage coverage by training and awareness programmes on any of the Principles during the financial year:
+Segment
+Total
+number of
+training and
+awareness
+programmes
+held
+Topics/principles
+covered under the
+training and its
+impact
+%age of persons in respective category covered by the awareness programmes
+Board of
+Directors
+3
+Business Strategy –
+Paints, MPY,
+Powder; HR
+Functions; Data
+Privacy Laws
+100.00%
+Key
+Managerial
+Personnel
+3
+Business Strategy –
+Paints, MPY,
+Powder; HR
+Functions; Data
+Privacy Laws
+67.00%
+Employees
+other than
+BoD and
+KMPs
+12231
+Code of Conduct,
+POSH, health &
+wellbeing sessions,
+Communication, AI,
+Competition Law,
+Life Saving Rules,
+Data Privacy,
+Sustainability
+among others
+79.00%
+Health & Safety
+related trainings,
+file:///C/Users/THOMAV01/OneDrive%20-%20AkzoNobel/Desktop/Working%20folder/BRSR%20XBRL/AKZO%20BRSR%20PDF%202023-24.html[7/5/2024 1:03:07 PM]
+Workers
+12231
+Wellness sessions
+and Skill
+upgradation
+49.00%
+2. Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the entity or by directors / KMPs) with regulators/
+law enforcement agencies/ judicial institutions, in the financial year, in the following format (Note: the entity shall make disclosures on the basis of materiality as
+specified in Regulation 30 of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+Monetary
+Non- Monetary
+4. Does the entity have anti-
+corruption or anti-bribery policy?
+Yes
+If Yes, provide details in brief
+The entity has a strict anti-bribery and anti-corruption policy. We strictly prohibit making, offering, authorizing, or accepting
+bribes or facilitation payments. We expect all employees and business partners representing AkzoNobel to adhere to the
+highest ethical standards in all business dealings and relationships. The policy explaining our compliance policy with regards
+to anti-bribery, anti-corruption, gifts and hospitality is available at https://www.akzonobel.com/en/about-us/governance-
+/policies---procedures/anti-bribery-and-corruption-policy.
+Provide a web-link if the entity has
+anti-corruption or anti-bribery policy
+https://www.akzonobel.com/en/about-us/governance-/policies---procedures/anti-bribery-and-corruption-policy
+5. Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement agency for the charges of bribery/
+corruption:
+FY (2023-24)
+PY (2022-23)
+Directors
+0
+0
+KMPs
+0
+0
+Employees
+0
+0
+Workers
+0
+0
+6. Details of complaints with regard to conflict of interest:
+FY (2023-24)
+PY (2022-23)
+Number
+Remarks Number
+Remarks
+Number of
+complaints
+received in
+relation to
+issues of
+Conflict of
+Interest of
+the
+Directors
+0
+0
+0
+0
+Number of
+complaints
+received in
+relation to
+issues of
+Conflict of
+Interest of
+the KMPs
+0
+0
+0
+0
+7. Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by regulators/ law
+enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+There were no
+cases of corruption
+and conflicts of
+interest and
+therefore,
+corrective actions
+taken or pending
+from any regulator/
+law enforcement
+agencies/ judicial
+institutions are not
+applicable.
+8. Number of days of accounts payables
+FY (2023-24)
+PY (2022-23)
+i) Accounts payable x
+365 days
+111.00
+97.00
+ii) Cost of goods/services
+procured
+0.00
+0.00
+iii) Number of days of
+accounts payables
+0
+0
+9. Open-ness of business - Provide details of concentration of purchases and sales with trading houses, dealers, and related parties along-with loans and advances &
+investments, with related parties, in the following format
+Parameter
+Metrics
+FY (2023-24)
+PY (2022-23)
+Concentration of
+Purchases
+a. i) Purchases from
+trading houses
+1135250000.00
+1131880000.00
+ii) Total purchases
+16278490000.00
+22086280000.00
+iii) Purchases from
+trading houses as %
+of total purchases
+6.97%
+5.12%
+b. Number of
+trading houses
+where purchases are
+made
+21
+19
+c. i) Purchases from
+top 10 trading
+houses
+964800000.00
+936050000.00
+ii) Total purchases
+from trading houses
+16278490000.00
+22086280000.00
+iii) Purchases from
+top 10 trading
+houses as % of total
+purchases from
+trading houses
+5.93%
+4.24%
+Parameter
+Metrics
+FY (2023-24)
+PY (2022-23)
+a. i) Sales to dealer /
+distributors
+29295630000.00
+28132570000.00
+ii) Total Sales
+39615780000.00
+38021060000.00
+iii) Sales to dealer /
+distributors as % of
+total sales
+73.95%
+73.99%
+b. Number of
+file:///C/Users/THOMAV01/OneDrive%20-%20AkzoNobel/Desktop/Working%20folder/BRSR%20XBRL/AKZO%20BRSR%20PDF%202023-24.html[7/5/2024 1:03:07 PM]
+Concentration of Sales
+dealers / distributors
+to whom sales are
+made
+4636
+4778
+c. i) Sales to top 10
+dealers / distributors
+3353770000.00
+3123350000.00
+ii) Total Sales to
+dealer / distributors
+29295630000.00
+28132570000.00
+iii) Sales to top 10
+dealers / distributors
+as % of total sales to
+dealer / distributors
+11.45%
+11.10%
+Parameter
+Metrics
+FY (2023-24)
+PY (2022-23)
+Share of RPTs in
+a. i) Purchases
+(Purchases with
+related parties)
+1644100000.00
+1618000000.00
+ii) Total Purchases
+22227960000.00
+22900250000.00
+iii) Purchases
+(Purchases with
+related parties as %
+of Total Purchases)
+7.40%
+7.07%
+b. i) . Sales (Sales to
+related parties)
+670790000.00
+559080000.00
+ii) Total Sales
+39615780000.00
+38021060000.00
+iii) Sales (Sales to
+related parties as %
+of Total Sales)
+1.69%
+1.47%
+c. i) Loans &
+advances given to
+related parties
+0.00
+0.00
+ii) Total loans &
+advances
+3223410000.00
+2402060000.00
+iii) Loans &
+advances given to
+related parties as %
+of Total loans &
+advances
+0.00%
+0.00%
+d. i) Investments in
+related parties
+0.00
+0.00
+ii) Total
+Investments made
+0.00
+0.00
+iii) Investments in
+related parties as %
+of Total
+Investments made
+Leadership Indicators
+1. Awareness programmes conducted for value chain partners on any of the Principles during the financial year
+Awareness programmes conducted for value chain partners on any of the Principles during the financial year
+Sr.
+No.
+Total
+number of
+awareness
+programmes
+held
+Topics / principles covered under the training
+Percentage of value chain
+partners covered (by value of
+business done with such
+partners) under the awareness
+programmes
+1
+1
+We continued to improve our suppliers’ sustainability practices by using and building on Ecovadis and
+Together for Sustainability (TfS) programs and partnerships. Suppliers are encouraged to participate in
+webinars and trainings through TfS Academy in categories of Health & Safety, Environment,
+Sustainable Procurement, Labour & Human Rights, Management and Governance.
+65.00%
+2
+1
+We continued to improve our suppliers’ sustainability practices by using and building on Ecovadis and
+Together for Sustainability (TfS) programs and partnerships. Suppliers are encouraged to participate in
+webinars and trainings through TfS Academy in categories of Health & Safety, Environment,
+Sustainable Procurement, Labour & Human Rights, Management and Governance.
+65.00%
+2. Does the entity have processes in place to
+avoid/ manage conflict of interests involving
+members of the Board?
+Yes
+If Yes, provide details of the same.
+The entity has processes to prevent/manage conflicts of interest among Board members by
+way of recusal on any agenda item in which he/she is interested. All related party
+transactions are put up for approval before the Audit Committee and thereafter, recorded in
+the Register of Contracts on a quarterly basis and presented to the Board for review. All
+Directors sign the said Register to acknowledge their awareness of and concurrence on these
+transactions. Apart from that, the Company has a Code of Conduct which provides clear
+guidelines for avoiding and disclosing actual or potential conflict of interest with the
+Company and in any transaction in which the Company has any interest, directly or
+indirectly. The Company obtains an annual declaration from its Board of Directors and all
+its employees certifying adherence to the Code of Conduct
+Notes
+PRINCIPLE 2 Businesses should provide goods and services in a manner that is sustainable and safe
+Essential Indicators
+1. Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental and social impacts of product and
+processes to total R&D and capex investments made by the entity, respectively.
+FY (2023-24)
+PY (2022-23)
+Details of improvements in environmental and social impacts
+R&D
+100.00%
+100.00%
+We’re driven to find innovative, more sustainable solutions for our customers, communities and
+the planet. All our expenditure towards R&D is in a manner that is sustainable and safe to
+improve the environmental and social impacts of product and processes. Our areas of innovation
+include the use of bio-based materials, water-based paints and the phasing out of hazardous
+materials.
+Capex
+83.00%
+100.00%
+83% of our capex investments during the year was invested towards improving our own
+processes and towards developing solutions to meet our customers’ needs in more sustainable
+ways. Some of these projects included expanding our Powder coatings capacity, investing in
+renewable energy, improving water usage efficiency etc.
+2. a. Does the entity have procedures in place for
+sustainable sourcing? (Yes/No)
+Yes
+b. If yes, what percentage of inputs were sourced
+sustainably?
+65.00%
+3. Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, for
+(a) Plastics (including packaging)
+As a responsible manufacturer of Paints and Coatings, we comply with post-consumer waste management through authorized
+waste management service providers. This is part of our Extended Producer Responsibility (EPR) to collect, segregate, and
+sustainably recycle/recover waste. This initiative ensures compliance with the "Plastic Waste Management Rules" and
+file:///C/Users/THOMAV01/OneDrive%20-%20AkzoNobel/Desktop/Working%20folder/BRSR%20XBRL/AKZO%20BRSR%20PDF%202023-24.html[7/5/2024 1:03:07 PM]
+reinforces our commitment to sustainability.
+(b) E-waste
+New E-waste (Management) Rules, 2022 were made effective from 1st April 2023, and sets specific targets for the collection
+and disposal of e-waste. As a responsible organization, Akzo Nobel India has been partnering with SPCB-authorised agencies
+for safe disposal of electric and electronic equipment/devices
+(c) Hazardous waste
+The hazardous waste generated in the manufacturing plant are segregated at source and disposed in scientific manner engaging
+authorized agencies for reuse, recycle, recovery or incineration. As a commitment towards environment we adopt reuse, recycle
+and recovery as the most preferred method of disposal while incineration is the least preferred method. This ensures compliance
+to “Hazardous Waste Management and transboundary rules 2016”
+(d) other waste
+Other wastes generated from the manufacturing plant are segregated at source and disposed to registered agencies for reuse,
+recycle and recovery to ensures compliance to “Solid Waste Management rules 2016”.
+4. Whether Extended Producer Responsibility (EPR)
+is applicable to the entity’s activities (Yes / No).
+Yes
+If yes, whether the waste collection plan is in line
+with the Extended Producer Responsibility (EPR)
+plan submitted to Pollution Control Boards?
+Yes
+If not, provide steps taken to
+address the same.
+Leadership Indicators
+1. Has the entity conducted Life Cycle Perspective /
+Assessments (LCA) for any of its products (for
+manufacturing industry) or for its services (for
+service industry)?
+Yes
+If yes, provide details
+The entity conducted Life Cycle Perspective/Assessments (LCA)
+Sr.
+No.
+NIC
+Code
+Name of
+Product/Service
+% of total
+Turnover
+contributed
+Boundary for which the Life Cycle
+Perspective/Assessment was
+conducted
+Whether conducted by
+independent external agency
+(Yes/No)
+Results communicated
+in public domain
+(Yes/No)
+If yes,
+provide the
+web-link.
+1
+20221
+Paints,
+varnishes,
+enamels or
+lacquers
+33.00%
+Cradle to Gate
+Yes
+Yes
+http://eco-
+platform.org/
+3. Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing industry) or providing services (for service
+industry).
+Percentage of recycled or reused input material to total material (by value) used in production or providing services
+Sr. No.
+Indicate input material
+Recycled or re-used input material to total material
+FY (2023-24)
+PY (2022-23)
+1
+Recycled Plastic used in containers
+10.00%
+10.00%
+4. Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, and safely disposed, as per the following format:
+FY (2023-24)
+PY (2022-23)
+Re-
+Used Recycled
+Safely
+Disposed
+Re-
+Used Recycled
+Safely
+Disposed
+Plastics
+(including
+packaging)
+0.00
+260.80
+0.00
+0.00
+156.40
+0.00
+E waste
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+Hazardous
+waste
+0.00
+902.80
+0.00
+0.00
+156.70
+657.70
+Other waste
+Details of other waste
+Sr. No.
+Name Of Other Waste
+FY (2023-24)
+PY (2022-23)
+Re-Used
+Recycled
+Safely Disposed
+Re-Used
+Recycled
+Safely Disposed
+1
+other waste
+0.00
+596.40
+0.00
+0.00
+485.90
+0.00
+5. Reclaimed products and their packaging materials (as percentage of products sold) for each product category
+Reclaimed products and their packaging materials (as percentage of products sold) for each product category
+Sr. No.
+Indicate product category
+Reclaimed products and their packaging materials as Percentage of total products sold in respective category
+1
+Category I (Rigid Plastic)
+100.00%
+2
+Category II (Flexible Plastic)
+100.00%
+Notes
+PRINCIPLE 3 Businesses should respect and promote the well-being of all employees, including those in their value chains
+Essential Indicators
+1. a. Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total
+(A)
+Health insurance
+Accident insurance
+Maternity benefits
+Paternity Benefits
+Day Care facilities
+Number
+(B)
+% (B /
+A)
+Number
+(C)
+% (C /
+A)
+Number
+(D)
+% (D / A)
+Number
+(E)
+% (E / A)
+Number (F)
+% (F / A)
+Permanent employees
+Male
+1084
+1084
+100.00% 1084
+100.00%
+1084
+100.00%
+1084
+100.00%
+Female
+166
+166
+100.00% 166
+100.00% 166
+100.00%
+166
+100.00%
+Other
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+Total
+1250
+1250
+100.00% 1250
+100.00% 166
+13.28%
+1084
+86.72%
+1250
+100.00%
+Other than permanent employees
+Male
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+Female
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+Other
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+Total
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+b. Details of measures for the well-being of workers:
+Category
+% of workers covered by
+Total
+(A)
+Health insurance
+Accident insurance
+Maternity benefits
+Paternity Benefits
+Day Care facilities
+Number
+(B)
+% (B /
+A)
+Number
+(C)
+% (C /
+A)
+Number
+(D)
+% (D / A)
+Number
+(E)
+% (E / A)
+Number (F)
+% (F / A)
+file:///C/Users/THOMAV01/OneDrive%20-%20AkzoNobel/Desktop/Working%20folder/BRSR%20XBRL/AKZO%20BRSR%20PDF%202023-24.html[7/5/2024 1:03:07 PM]
+Permanent workers
+Male
+283
+283
+100.00% 283
+100.00%
+283
+100.00%
+283
+100.00%
+Female
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+Other
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+Total
+283
+283
+100.00% 283
+100.00% 0
+0.00%
+283
+100.00%
+283
+100.00%
+Other than permanent workers
+Male
+287
+287
+100.00% 287
+100.00%
+0
+0.00%
+287
+100.00%
+Female
+12
+12
+100.00% 12
+100.00% 12
+100.00%
+12
+100.00%
+Other
+0
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+0
+0.00%
+Total
+299
+299
+100.00% 299
+100.00% 12
+4.01%
+0
+0.00%
+299
+100.00%
+C. Spending on measures towards well-being of employees and workers (including permanent and other than permanent) in the following format:
+FY (2023-24)
+PY (2022-23)
+i) Cost
+incurred
+on
+wellbeing
+measures
+(well-
+being
+measures
+means
+well-being
+of
+employees
+and
+workers
+(including
+male,
+female,
+permanent
+and other
+than
+permanent
+employees
+and
+workers)
+99950000.00
+109400000.00
+ii) Total
+revenue of
+the
+company
+39615780000.00
+38021060000.00
+iii) Cost
+incurred
+on
+wellbeing
+measures
+as a % of
+total
+revenue of
+the
+company
+0.25%
+0.29%
+2. Details of retirement benefits
+Benefits
+FY (2023-24)
+PY (2022-23)
+No.of employees
+covered as a % of
+total employees
+No.of workers
+covered as a % of
+total workers
+Deducted and
+deposited with the
+authority (Y/N/N.A.)
+No.of employees
+covered as a % of total
+employees
+No.of workers covered as a % of total
+workers
+Deducted
+and
+deposited
+with the
+authority
+(Y/N/N.A.)
+PF
+100.00%
+100.00%
+Yes
+100.00%
+100.00%
+Yes
+Gratuity
+100.00%
+100.00%
+Yes
+100.00%
+100.00%
+NA
+ESI
+0.00%
+0.00%
+NA
+0.00%
+100.00%
+Yes
+Others – please specify
+Details of Other Retirement benefits
+Sr.
+No.
+Name
+of
+Benefits
+FY (2023-24)
+PY (2022-23)
+No. of employees
+covered as a % of
+total employees
+No. of workers
+covered as a % of
+total workers
+Deducted and
+deposited with the
+authority (Y/N/N.A.)
+No. of employees
+covered as a % of
+total employees
+No. of workers
+covered as a % of
+total workers
+Deducted and
+deposited with the
+authority (Y/N/N.A.)
+1
+na
+0.00%
+0.00%
+NA
+0.00%
+0.00%
+NA
+3. Accessibility of workplaces
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the
+requirements of the Rights of Persons with Disabilities Act, 2016?
+Yes
+If not, whether any steps are being taken by the entity in this regard.
+4. Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016?
+Yes
+If so, provide a web-link to the
+policy.
+We ensure that employees of all backgrounds feel equally valued, receive the right opportunities to progress their careers and
+have the freedom to be their best selves at work. The entity has an Equal Opportunity policy registered in accordance with the
+Rights of Persons with Disabilities Act, 2016. The policy may be accessed through the following link: Akzo Nobel India Equal
+Opportunity Policy.pdf
+5. Return to work and Retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent employees
+Permanent workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+100.00
+86.00
+100.00
+100.00
+Female
+86.00
+100.00
+0.00
+0.00
+Other
+0.00
+0.00
+0.00
+0.00
+Total
+98.00
+88.00
+100.00
+100.00
+6. Is there a mechanism available to receive and redress grievances for the following categories of employees and worker?
+Yes
+If yes, give details of the mechanism in
+brief.
+Yes/No
+(If Yes, then give details of the mechanism in brief)
+Permanent Workers
+Yes
+Yes, there is a Speak Up or vigil mechanism for employees and workers to
+address grievances. Please refer to the Vigil Mechanism - Whistleblower Policy
+and Other Disclosure section of the Corporate Governance Report for more
+information.
+Other than Permanent Workers
+Yes
+Yes, there is a Speak Up or vigil mechanism for employees and workers to
+address grievances. Please refer to the Vigil Mechanism - Whistleblower Policy
+and Other Disclosure section of the Corporate Governance Report for more
+information.
+file:///C/Users/THOMAV01/OneDrive%20-%20AkzoNobel/Desktop/Working%20folder/BRSR%20XBRL/AKZO%20BRSR%20PDF%202023-24.html[7/5/2024 1:03:07 PM]
+Permanent Employees
+Yes
+Yes, there is a Speak Up or vigil mechanism for employees and workers to
+address grievances. Please refer to the Vigil Mechanism - Whistleblower Policy
+and Other Disclosure section of the Corporate Governance Report for more
+information.
+Other than Permanent Employees
+Yes
+Yes, there is a Speak Up or vigil mechanism for employees and workers to
+address grievances. Please refer to the Vigil Mechanism - Whistleblower Policy
+and Other Disclosure section of the Corporate Governance Report for more
+information.
+7. Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+Category
+FY (2023-24)
+PY (2022-23)
+Total
+employees/workers
+in respective
+category (A)
+No.of employees /
+workers in
+respective category,
+who are part of
+association(s) or
+Union (B)
+% (B / A)
+Total employees /
+workers in respective
+category (C)
+No.of employees /workers in
+respective category,who are part of
+association(s) or Union (D)
+% (D / C)
+Total
+Permanent
+Employees
+1250
+0
+0.00%
+1212
+0
+0.00%
+Male
+1084
+0
+0.00%
+1047
+0
+0.00%
+Female
+166
+0
+0.00%
+165
+0
+0.00%
+Other
+0
+0
+0.00%
+0
+0
+0.00%
+Total
+Permanent
+Workers
+283
+189
+66.78%
+282
+188
+66.67%
+Male
+283
+189
+66.78%
+282
+188
+66.67%
+Female
+0
+0
+0.00%
+0
+0
+0.00%
+Other
+0
+0
+0.00%
+0
+0
+0.00%
+8. Details of training given to employees and workers:
+Category
+FY (2023-24)
+PY (2022-23)
+Total
+(A)
+On Health
+and
+safety measures
+On Skill
+upgradation
+Total (D)
+On Health and safety
+measures
+On Skill upgradation
+No.
+(B)
+% (B
+/
+A)
+No.
+(C)
+% (C /
+A)
+No.
+(E)
+% (E / D)
+No. (F)
+% (F / D)
+Employees
+Male
+1084
+868
+80.07%
+741
+68.36%
+1047
+1047
+100.00%
+732
+69.91%
+Female
+166
+150
+90.36%
+138
+83.13%
+165
+165
+100.00%
+162
+98.18%
+Other
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Total
+1250
+1018
+81.44%
+879
+70.32%
+1212
+1212
+100.00%
+894
+73.76%
+Workers
+Male
+570
+570
+100.00% 172
+30.18%
+497
+497
+100.00%
+154
+30.99%
+Female
+12
+12
+100.00% 0
+0.00%
+9
+9
+100.00%
+0
+0.00%
+Other
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Total
+582
+582
+100.00% 172
+29.55%
+506
+506
+100.00%
+154
+30.43%
+9. Details of performance and career development reviews of employees and worker:
+Category
+FY (2023-24)
+PY (2022-23)
+Total (A)
+No.
+(B)
+% (B
+/ A)
+Total (D)
+No.
+(E)
+% (E / D)
+Employees
+Male
+1084
+1084
+100.00%
+1047
+1050
+100.29%
+Female
+166
+162
+97.59%
+165
+165
+100.00%
+Other
+0
+0
+0.00%
+0
+0
+0.00%
+Total
+1250
+1246
+99.68%
+1212
+1215
+100.25%
+Workers
+Male
+570
+283
+49.65%
+497
+282
+56.74%
+Female
+12
+0
+0.00%
+9
+0
+0.00%
+Other
+0
+0
+0.00%
+0
+0
+0.00%
+Total
+582
+283
+48.63%
+506
+282
+55.73%
+10. Health and safety management system:
+a.Whether an occupational health and safety management system
+has been implemented by the entity? (Yes/ No/ NA).
+Yes
+If yes, the coverage such system?
+Yes. All manufacturing, offices and RD&I labs are certified for ISO14001
+(Environment), ISO45001 (Health & Safety) Management system and ISO9001.
+b. What are the processes used to identify work-related hazards and
+assess risks on a routine and non-routine basis by the entity?
+We are committed to running our operations safely, by providing the equipment,
+procedures and training to prevent injuries. We investigate injuries and safety
+incidents and implement corrective actions to continuously improve our safety
+performance.
+Identifying work related hazards related to routine and non-routine
+activities and taking corrective measures are key steps involved in hazard
+elimination. AkzoNobel follows a structured approach which are detailed below:
+i. Hazard Identification and Risk Assessment (HIRA) for all the activities,
+products and services
+ii. Process Hazard Study (PHA) is performed by a team of
+experts to identify hazard related to process and design.
+iii. The chemical
+compatibility study is performed to analyze the chemical interaction and the
+risks identified to establish control measures.
+iv. System based employee
+engagement on hazard reporting & other leading indicators through Enablon
+HSES suite as defined by Global HSES. The control measures are applied as per
+the hierarchy of controls and engineering controls are most preferred while
+Personal Protective Equipment are used as last line of defence.
+In addition to the
+above, we also perform specific risk assessments on process and people safety
+such as below:
+i. Static risk assessment is performed to identify the static
+electricity hazards and control measures are adopted
+ii. Fire Risk Assessment is
+performed for identifying fire hazards and control measures established.
+iii.
+Ergonomic risk assessment is performed using AkzoNobel tool to identify
+hazards related to manual material handling and control measures established.
+c. Whether you have processes for workers to report the work
+related hazards and to remove themselves from such risks?
+Yes
+d. Do the employees/ worker of the entity have access to non-
+occupational medical and healthcare services?
+Yes
+11. Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category*
+FY (2023-24)
+PY (2022-23)
+Lost Time Injury Frequency Rate (LTIFR)
+(per one million-person hours worked)
+Employees 0.00
+0.14
+Workers
+0.00
+0.00
+file:///C/Users/THOMAV01/OneDrive%20-%20AkzoNobel/Desktop/Working%20folder/BRSR%20XBRL/AKZO%20BRSR%20PDF%202023-24.html[7/5/2024 1:03:07 PM]
+Total recordable work-related injuries
+Employees 1
+1
+Workers
+0
+1
+No. of fatalities
+Employees 0
+0
+Workers
+0
+0
+High consequence work related injury or
+ill-health (excluding fatalities)
+Employees 0
+0
+Workers
+0
+0
+12. Describe the measures taken by the entity to ensure a safe and
+healthy work place.
+The health and well-being of our employees, customers, stakeholders, and communities is a
+top priority. Our vision is to achieve zero injuries and harm through operational excellence.
+We have management programs in place for people safety, health, process safety, and security
+to ensure the highest standards. Our commitment to safety is supported by our Life-Saving
+Rules and Golden Principle of stopping work in unsafe conditions or behavior.
+During the
+year, we continued our life-critical procedures and HSE&S roadmap program. We identified
+areas that need improvement in our own operations and put them on a roadmap with targeted
+plans and governance. We also continued to invest in functional excellence and the renewal of
+our HSE&S capability framework. We continued the implementation of our lift truck/
+pedestrian segregation program and Behaviour Based Safety (BBS), focusing on increased
+quality through more coached observations and strengthening the capability in this area. We
+launched company-wide monthly Safety Moments for safety awareness, which are used by
+people managers in their team meetings to keep colleagues in all functions and levels of our
+organization involved and aware of everyday safety hazards and safe behaviors. We
+strengthened our Timeout for Gemba principles to encourage and engage people in daily
+dialog, to learn and improve the context in which work happens and validate that capabilities,
+systems and processes are in place. We continued our industrial hygiene and ergonomic
+programs and actively managed occupational illness related absenteeism. Our annual Safety
+Day is the moment for us to celebrate safety and reflect on how we are doing. The theme of
+2023 Safety Day was “Make safety a habit today”. The theme encouraged colleagues to
+reflect on their own behavior and become safety leaders by embedding good safety habits into
+their daily routines – both at work and during private time. This theme further built on our
+“Be human, Be safe” program, which took a human performance principles approach.
+13. Number of Complaints on the following made by employees and workers:
+FY (2023-24)
+PY (2022-23)
+Filed during the
+year
+Pending resolution
+at the end of year
+Remarks
+Filed during the year
+Pending resolution at the end of year
+Remarks
+Working
+Conditions
+0
+0
+0
+0
+Health &
+Safety
+6
+2
+0
+0
+14. Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory authorities or third
+parties)
+Health and safety practices
+100.00%
+Working Conditions
+100.00%
+15. Provide details of any corrective action taken or underway to
+address safety-related incidents (if any) and on significant risks /
+concerns arising from assessments of health & safety practices and
+working conditions.
+Actions from potential risks and near misses are identified proactively and root cause analysis
+performed for first aid cases and top 3 near miss to take corrective actions to prevent
+recurrence.
+During 2023-24, we continued the deployment of our Basis of Safety standards,
+with a focus on aluminium bonding and high-speed dispersers aligned with AkzoNobel global
+safety drive. The standards define company expectations for these higher risk activities.
+Various engineering standards have been adopted: for grounding and bonding; flexible hose
+management; and maintenance of solvent storage tanks. Our locations continue to implement
+equipment modifications via a risk-based approach. During 2023-24 we recorded 5 losses of
+primary containment (‘LoPC’) (2022-23: Nil). The main causes identified were operational
+discipline (60%) and asset integrity (32%). We continue to focus on these locations, ensuring
+improvement plans to act on the underlying root causes.
+Leadership Indicators
+1. Does the entity extend any life insurance or any compensatory package in the event of death of
+(A) Employees (Y/N)
+Yes
+(B) Workers (Y/N).
+Yes
+2. Provide the measures undertaken by the entity to ensure that
+statutory dues have been deducted and deposited by the value chain
+partners.
+At the time of entering into a contract, on case-to-case basis, AkzoNobel seeks to ensure
+compliance with our core values of safety, integrity and sustainability from our business
+partners. Through the Business Partner Code of Conduct, we expect that all our business
+partners conduct business fairly and with integrity and comply with all laws and regulations
+applicable to the business they conduct for AkzoNobel. In some cases, we partner with D&B
+to undertake due diligence and risk assessment and also enter into contractual agreements
+before onboarding vendors.
+3. Provide the number of employees / workers having suffered high consequence work related injury / ill-health / fatalities (as reported in Q11 of Essential
+Indicators above), who have been are rehabilitated and placed in suitable employment or whose family members have been placed in suitable employment:
+Total no. of affected employees/ workers
+No. of employees/workers that are rehabilitated and placed in suitable
+employment or whose family members have been placed in suitable
+employment
+FY (2023-24)
+PY (2022-23)
+FY (2023-24)
+PY (2022-23)
+Employees
+1
+0
+0
+0
+Workers
+0
+0
+0
+0
+4. Does the entity provide transition assistance programs to facilitate continued employability and the
+management of career endings resulting from retirement or termination of employment? (Yes/ No/ NA)
+No
+5. Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such partners) that were assessed
+Health and safety practices
+65.00%
+Working Conditions
+65.00%
+6. Provide details of any corrective actions taken or underway to
+address significant risks / concerns arising from assessments of
+health and safety practices and working conditions of value chain
+partners.
+TfS conducts audits from time to time. Audit observations, if any, are reviewed and closed at
+the earliest.
+Notes
+PRINCIPLE 4: Businesses should respect the interests of and be responsive to all its stakeholders
+Essential Indicators
+1. Describe the
+processes for
+identifying key
+stakeholder groups of
+the entity.
+We have engaged with our stakeholders to understand areas of interest and material matters. Despite unprecedented times, we continued to
+deliver on interests of stakeholders and engaged with them for this. Material matters are topics which influence an organisation’s ability to
+create sustainable value not only for itself, but also for the stakeholders, over the short, medium and long term. These topics are mapped on
+a matrix to show their relevance to ‘Influence on stakeholder assessments and decisions’ and ‘Significance of economic, environmental, and
+social impacts’ to create a predictive model of value creation. Material matters are defined in line with ESG principles in line with the group
+assessment. These material matters are identified, prioritised, and monitored as part of our operational, financial, and social activities and are
+closely linked with our value creation process. These have been identified as High, Medium and Low per the chart below. These issues are
+contextual and may have positive as well as adverse impacts.
+High	Medium	Low
+Innovating sustainable product(s)	Waste Management
+Protection of Human Rights
+Emission and Energy	Diversity & Inclusion	Community Involvement
+Employee Health & Safety	Water
+Management	Responsible Procurement	Business Ethics and Corporate Governance
+file:///C/Users/THOMAV01/OneDrive%20-%20AkzoNobel/Desktop/Working%20folder/BRSR%20XBRL/AKZO%20BRSR%20PDF%202023-24.html[7/5/2024 1:03:07 PM]
+2. List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.
+Sr.
+No.
+Stakeholder Group
+Whether
+identified as
+Vulnerable
+&
+Marginalized
+Group
+Channels of
+communication
+Details of Other Channels of
+communication
+Frequency
+of
+engagement
+Details of Other
+Frequency of
+engagement
+Purpose and
+scope of
+engagement
+including key
+topics and
+concerns
+raised during
+such
+engagement
+1
+Local Communities
+Yes
+Other
+Field visits; interactions; CSR initiatives
+for welfare of community; Local authority
+meetings; Focus group discussions
+Others –
+please
+specify
+Program based
+Collaboration
+with NGOs;
+Skill
+development;
+provision of
+health
+facilities;
+Health and
+safety;
+promoting
+Education;
+Local
+employment;
+grievance
+redressal
+2
+Government/Regulatory
+bodies
+No
+Other
+Email, Newspaper advertisements,
+Website, Regulatory filings,
+representations, Industry forums
+Others –
+please
+specify
+Need based
+Local
+development;
+Adherence to
+regulatory
+requirements;
+sustainability;
+make in India
+3
+Customers/Paint
+Contractors/Paint
+Applicators
+No
+Other
+Interaction through digital media;
+customer satisfaction survey; Email, SMS,
+pamphlets, advertisements, meetings,
+website, grievance redressal
+Others –
+please
+specify
+Monthly
+Product
+Safety;
+Customer
+service;
+quality;
+customer
+satisfaction;
+new launches
+and product
+innovations;
+schemes;
+Health and
+Safety
+concerns at
+their
+workplace etc.
+4
+Employees
+No
+Other
+Emails; Review Meetings; Learning &
+development programmes; performance
+appraisal & feedback; surveys; employee
+engagement initiatives; policies in
+Intranet; Townhall meetings; training
+programs
+Others –
+please
+specify
+Regular
+Wellbeing;
+Occupational
+Health and
+safety; Career
+progression;
+diversity; Skill
+development;
+Training;
+Company
+strategy,
+policy
+changes,
+amongst
+others
+5
+Value Chain
+Partners/Vendors
+No
+Other
+Emails; Meetings; Supplier audits;
+Sustainable Supply Chain
+Others –
+please
+specify
+Need based
+Vendor
+servicing;
+value creation;
+long term
+commitment
+6
+Shareholders and
+Investors
+No
+Other
+Advertisements, Annual General
+meetings, Investor / Analyst enlargements;
+media releases, website; Newspaper
+publications; Annual Report
+Others –
+please
+specify
+Quarterly/Annually
+Company
+financial
+performance
+and business
+strategy;
+Operational
+performance;
+Corporate
+Governance
+any other
+material
+information
+Leadership Indicators
+1. Provide the
+processes for
+consultation between
+stakeholders and the
+Board on economic,
+environmental, and
+social topics or if
+consultation is
+delegated, how is
+feedback from such
+consultations
+provided to the
+Board.
+For CSR initiatives, at the beginning of the year, basis the program objectives and annual action plan in the areas as approved by the
+Corporate Social Responsibility Committee pursuant to Schedule VII to Companies Act, 2013, challenges, or inputs received during NGOs
+reviews and stakeholders interactions, any major change/s required is informed to the Corporate Social Responsibility Committee for its
+guidance, wherever needed.
+2.Whether
+stakeholder
+consultation is used
+to support the
+identification and
+management of
+environmental, and
+social topics.
+Yes
+If so, provide details
+of instances as to
+how the inputs
+received from
+stakeholders on these
+topics were
+incorporated into
+policies and activities
+of the entity.
+Yes, the necessary guidance provided by the CSR Committee (if any) is considered for identification and management of the environmental
+and social initiatives by the Company. CSR Projects are selected in alignment with Company’s CSR focus areas and its ability to provide
+innovative solutions to social problems. For example, through our flagship “Indradhanush” programme under CSR domain, we have been
+continuously changing lives of women folks of the small villages/towns by making them self-reliant thereby contributing towards women
+empowerment in a socially responsible manner under the overall supervision and guidance of the stakeholders including the CSR
+Committee.
+3. Provide details of
+instances of
+engagement with,
+The Company engages with various communities across its Manufacturing Plant sites to serve the vulnerable/ marginalised stakeholder
+file:///C/Users/THOMAV01/OneDrive%20-%20AkzoNobel/Desktop/Working%20folder/BRSR%20XBRL/AKZO%20BRSR%20PDF%202023-24.html[7/5/2024 1:03:07 PM]
+and actions taken to,
+address the concerns
+of vulnerable/
+marginalized
+stakeholder groups.
+groups. The Company has many initiatives in place like providing vocational skill training for youth, education to children from
+underprivileged sections of the society, painting of schools, provision of infrastructure in schools, health care initiatives for villagers and
+painter community.
+All our CSR areas impact the vulnerable sections of the society. For more details, please refer to the Management
+Discussion and Analysis Section and Annexure II B of the Director’s Report.
+Notes
+PRINCIPLE 5 Businesses should respect and promote human rights
+Essential Indicators
+1. Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the following format:
+Category
+FY (2023-24)
+PY (2022-23)
+Total (A)
+No. of
+employees/workers
+covered (B)
+% (B
+/ A)
+Total (C)
+No. of employees/workers covered
+(D)
+% (D / C)
+Employees
+Permanent
+1250
+1246
+99.68%
+1212
+1212
+100.00%
+Other than
+permanent
+0
+0
+0.00%
+0
+0
+0.00%
+Total
+Employees
+1250
+1246
+99.68%
+1212
+1212
+100.00%
+Workers
+Permanent
+283
+283
+100.00%
+282
+282
+100.00%
+Other than
+permanent
+299
+299
+100.00%
+224
+224
+100.00%
+Total
+Workers
+582
+582
+100.00%
+506
+506
+100.00%
+2. Details of minimum wages paid to employees and workers, in the following format:
+Category
+FY (2023-24)
+PY (2022-23)
+Total
+(A)
+Equal to
+Minimum
+Wage
+More than
+Minimum Wage
+Total
+(D)
+Equal to Minimum Wage
+More than Minimum Wage
+No.
+(B)
+% (B
+/A)
+No.
+(C)
+% (C
+/A)
+No.
+(E)
+% (E /D)
+No.
+(F)
+% (F /D)
+Employees
+Permanent
+1250
+0
+0.00%
+1250
+100.00%
+1212
+0
+0.00%
+1212
+100.00%
+Male
+1084
+0
+0.00%
+1084
+100.00%
+1047
+0
+0.00%
+1047
+100.00%
+Female
+166
+0
+0.00%
+166
+100.00%
+165
+0
+0.00%
+165
+100.00%
+Other
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Other than
+Permanent
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Male
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Female
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Other
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Workers
+Permanent
+283
+0
+0.00%
+283
+100.00%
+282
+0
+0.00%
+282
+100.00%
+Male
+283
+0
+0.00%
+283
+100.00%
+282
+0
+0.00%
+282
+100.00%
+Female
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Other
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+Other than
+Permanent
+299
+282 94.31%
+17
+5.69%
+224
+184
+82.14%
+40
+17.86%
+Male
+287
+272 94.77%
+15
+5.23%
+215
+175
+81.40%
+40
+18.60%
+Female
+12
+10
+83.33%
+2
+16.67%
+9
+9
+100.00%
+0
+0.00%
+Other
+0
+0
+0.00%
+0
+0.00%
+0
+0
+0.00%
+0
+0.00%
+3. Details of remuneration/salary/wages, in the following format:
+a. Median remuneration / wages:
+Male
+Female
+Other
+Number
+Median
+remuneration/
+salary/ wages of
+respective category
+Number
+Median remuneration/ salary/ wages
+of
+respective category
+Number
+Median remuneration/ salary/ wages
+of
+respective category
+Board of
+Directors
+(BoD)
+5
+18
+1
+2
+0
+0
+Key
+Managerial
+Personnel
+3
+10
+1
+11
+0
+0
+Employees
+other than
+BoD and
+KMP
+1080
+1
+166
+1
+0
+0
+Workers
+570
+1
+12
+0
+0
+0
+b. Gross wages paid to females:
+FY (2023-24)
+PY (2022-23)
+Gross wages paid to females
+332740000.00
+295000000.00
+Total wages
+3028610000.00
+2737210000.00
+Gross wages paid to females
+(Gross wages
+paid to females as % of total wages)
+10.99%
+10.78%
+4. Do you have a focal point (Individual/
+Committee) responsible for addressing human
+rights impacts or issues caused or contributed
+to by the business?
+Yes
+5. Describe the internal mechanisms in place
+to redress grievances related to human rights
+issues.
+As part of our core principles, we are committed to respecting internationally recognized human rights in all our
+operations and throughout our value chain. This commitment is in line with the applicable Indian labour
+legislations. Our Code of conduct outlines the responsibility we take for avoiding the infringement of human
+rights, and for remediating any human rights impact resulting from our activities, our products, or any activities
+that our business partners conduct on our behalf.
+More details may be found in our position paper on Human
+Rights on our website.
+file:///C/Users/THOMAV01/OneDrive%20-%20AkzoNobel/Desktop/Working%20folder/BRSR%20XBRL/AKZO%20BRSR%20PDF%202023-24.html[7/5/2024 1:03:07 PM]
+6. Number of Complaints on the following made by employees and workers:
+FY (2023-24)
+PY (2022-23)
+Filed during the
+year
+Pending resolution at the end of
+year
+Remarks
+Filed during
+the year
+Pending resolution at
+the end of year
+Remarks
+Sexual Harassment
+2
+0
+5
+0
+Discrimination at workplace
+0
+0
+4
+1
+Child Labour
+0
+0
+0
+0
+Forced Labour/Involuntary
+Labour
+0
+0
+0
+0
+Wages
+0
+0
+0
+0
+Other human rights related issues
+0
+0
+0
+0
+7. Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013, in the following format:
+FY (2023-24)
+PY (2022-23)
+i) Total Complaints reported under Sexual Harassment on of Women at Workplace (Prevention,
+Prohibition and Redressal) Act, 2013 (POSH)
+2
+5
+ii) Female employees / workers
+178
+174
+iii) Complaints on POSH as a % of female employees / workers
+1.12%
+2.87%
+iv) Complaints on POSH upheld
+1
+2
+8. Mechanisms to
+prevent adverse
+consequences to the
+complainant in
+discrimination and
+harassment cases.
+Our whistle blower policy includes a global SpeakUp! mechanism that safeguards complainants from adverse consequences. The platform
+allows anonymous reporting, ensuring confidentiality for the complainant. The investigating officer maintains the confidentiality of the
+complainant, and the policy provides protection against any retaliatory action. In case of sexual harassment cases, the Company is
+committed to providing an enabling working environment for its employees which is equitous, free of unlawful discrimination or
+harassment. The Company has an Internal Complaints Committee (‘ICC’). The Presiding officer of the ICC is a senior female official
+having experience as well as perspective on the course of action required in sexual harassment cases. The decision on the action to be taken
+against the employee in a sexual harassment case is in consultation with the External ICC member. Overall, the ICC ensures that Principle
+of Natural Justice is followed in the entire process and full confidentiality of complainant is maintained during and after resolution of
+complaint.
+9. Do human rights
+requirements form part
+of your business
+agreements and
+contracts? (Yes/No/NA)
+Yes
+10. Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory authorities or third parties)
+Child labour
+100.00%
+Forced/involuntary
+labour
+100.00%
+Sexual harassment
+100.00%
+Discrimination at
+workplace
+100.00%
+Wages
+100.00%
+11. Provide details of
+any corrective actions
+taken or underway to
+address significant
+risks / concerns arising
+from the assessments
+at Question 10 above.
+No corrective action was required to be undertaken and hence not applicable.
+Leadership Indicators
+1. Details of a
+business process being
+modified / introduced
+as a result of
+addressing human
+rights
+grievances/complaints.
+As there has been no Human rights grievances/complaints, there has been neither a process modification, nor a process introduction.
+2. Details of the scope
+and coverage of any
+Human rights due-
+diligence conducted
+Embedding a continuous human rights due diligence process to determine a company’s salient human rights issues is at the core of the
+UNGPs. Results of our ongoing due diligence are used to update our global salient human rights issues assessment every year. In addition,
+we operate continuous topic-specific due diligence processes that help us identify (potential) human rights impacts, on which we both
+engage and communicate. For example, our Health, Safety, Environment and Security (HSE&S) audits assess the health and safety
+conditions at our manufacturing sites.
+3. Is the premise/office
+of the entity accessible to
+differently abled visitors,
+as per the requirements
+of the Rights of Persons
+with Disabilities Act,
+2016?
+Yes
+4. Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such partners) that were assessed
+Sexual harassment
+65.00%
+Discrimination at
+workplace
+65.00%
+Child Labour
+65.00%
+Forced
+Labour/Involuntary
+Labour
+65.00%
+Wages
+65.00%
+Others – please specify
+Details of other assessments of value chain partner
+Sr.
+No.
+Name of other assessment
+% of value chain partners
+(by value of business done
+with such partners) that
+were assessed
+1
+The TfS initiative provides infrastructure for online assessments carried out by EcoVadis – the partner of TfS and AkzoNobel
+– and on-site audits. Both programs are based on international standards and cover key sustainability areas like Environment,
+Labor and Human Rights, Health and Safety, Ethics and Responsible Supply Chains. The results of audits and assessments
+are reviewed and closed at the earliest.
+65.00%
+5. Provide details of
+any corrective actions
+taken or underway to
+address significant
+risks / concerns arising
+from the assessments
+No corrective action was required to be undertaken and hence not applicable.
+file:///C/Users/THOMAV01/OneDrive%20-%20AkzoNobel/Desktop/Working%20folder/BRSR%20XBRL/AKZO%20BRSR%20PDF%202023-24.html[7/5/2024 1:03:07 PM]
+at Question 4 above.
+Notes
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the environment
+Essential Indicators
+1. Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Whether total energy
+consumption and energy
+intensity is applicable to the
+company?
+Yes
+Revenue from operations (in Rs.)
+FY (2023-24)
+PY (2022-23)
+39615780000.00
+38021060000.00
+Parameter
+Units
+FY (2023-24)
+PY (2022-23)
+From renewable sources
+Total electricity consumption
+(A)
+Gigajoule
+(GJ)
+0.00
+0.00
+Total fuel consumption (B)
+Gigajoule
+(GJ)
+0.00
+0.00
+Energy consumption through other sources (C)
+Details of Energy consumed from renewable
+Sr. No.
+Name of other parameter
+Unit
+FY (2023-24)
+PY (2022-23)
+1
+Energy consumption through other sources
+Gigajoule (GJ)
+33177.00
+21590.00
+Total energy consumed from
+renewable sources (A+B+C)
+Gigajoule
+(GJ)
+33177.00
+21590.00
+From non-renewable sources
+Total electricity consumption
+(D)
+Gigajoule
+(GJ)
+30662.00
+37626.00
+Total fuel consumption (E)
+Gigajoule
+(GJ)
+5552.00
+4780.00
+Total energy consumed from
+non-renewable sources
+(D+E+F)
+Gigajoule
+(GJ)
+36214.00
+42406.00
+Total energy consumed
+(A+B+C+D+E+F)
+Gigajoule
+(GJ)
+69391.00
+63996.00
+Energy intensity per rupee of
+turnover (Total energy
+consumed / Revenue from
+operations)
+Gigajoule
+(GJ) / Rs.
+0.0000017516
+0.0000016832
+Energy intensity per rupee of
+turnover adjusted for
+Purchasing Power Parity
+(PPP)
+(Total energy consumed
+/ Revenue from operations
+adjusted for PPP)
+Gigajoule
+(GJ) / Rs.
+0.00
+0.00
+Energy intensity in terms of
+physical Output
+Gigajoule
+(GJ)
+289.00
+294.00
+Energy intensity (optional) –
+the relevant metric may be
+selected by the entity
+Note: Indicate if any
+independent assessment/
+evaluation/assurance has been
+carried out by an external
+agency? (Y/N)
+No
+If yes, name of the external
+agency.
+2. Does the entity have any
+sites / facilities identified as
+designated consumers (DCs)
+under the Performance,
+Achieve and Trade (PAT)
+Scheme of the Government of
+India?
+No
+If yes, disclose whether targets
+set under the PAT scheme
+have been achieved. In case
+targets have not been
+achieved, provide the remedial
+action taken, if any.
+3. Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY (2023-24)
+PY (2022-23)
+Water withdrawal by source (in kilolitres)
+(i) Surface water
+0.00
+0.00
+(ii) Groundwater
+27760.00
+29080.00
+(iii) Third party water
+91570.00
+76690.00
+(iv) Seawater / desalinated water
+0.00
+0.00
+(v) Others
+0.00
+0.00
+Total volume of water withdrawal (in
+kilolitres) (i + ii + iii + iv + v)
+119330.00
+105770.00
+Total volume of water consumption (in
+kilolitres)
+119330.00
+105770.00
+Water intensity per rupee of turnover
+(Total water consumption / Revenue from
+operations)
+0.0000030122
+0.0000027819
+Water intensity per rupee of turnover
+adjusted for Purchasing Power Parity
+(PPP)
+(Total water consumption / Revenue
+from operations adjusted for PPP)
+0.00
+0.00
+Water intensity in terms of physical output
+497.00
+486.00
+Water intensity (optional) – the relevant
+metric may be selected by the entity
+0.00
+0.00
+file:///C/Users/THOMAV01/OneDrive%20-%20AkzoNobel/Desktop/Working%20folder/BRSR%20XBRL/AKZO%20BRSR%20PDF%202023-24.html[7/5/2024 1:03:07 PM]
+Note: Indicate if any
+independent assessment/
+evaluation/assurance has been
+carried out by an external
+agency?
+No
+If yes, name of the external
+agency.
+4. Provide the following details related to water discharged:
+Parameter
+FY (2023-24)
+PY (2022-23)
+Water discharge by destination and level of treatment (in kilolitres)
+(i) To Surface water
+0.00
+0.00
+No treatment
+0.00
+0.00
+With treatment – please specify level of
+treatment
+0.00
+0.00
+(ii) To Groundwater
+0.00
+0.00
+No treatment
+0.00
+0.00
+With treatment – please specify level of
+treatment
+0.00
+0.00
+(iii) To Seawater
+0.00
+0.00
+No treatment
+0.00
+0.00
+With treatment – please specify level of
+treatment
+0.00
+0.00
+(iv) Sent to third-parties
+178.00
+180.00
+No treatment
+0.00
+0.00
+With treatment – please specify level of
+treatment
+178.00
+180.00
+(v) Others
+11949.00
+9934.00
+No treatment
+0.00
+0.00
+With treatment – please specify level of
+treatment
+11949.00
+9934.00
+Total water discharged (in kilolitres)
+12127.00
+10114.00
+Note: Indicate if any
+independent assessment/
+evaluation/assurance has been
+carried out by an external
+agency? (Y/N)
+No
+If yes, name of the external
+agency.
+5. Has the entity implemented
+a mechanism for Zero Liquid
+Discharge?
+Yes
+If yes, provide details of its coverage and implementation.
+The entity has a Zero Liquid Discharge mechanism in place at all its factories. Sewage Treatment
+Plants (STPs) treat domestic effluent for reuse in gardening. Effluent Treatment Plants (ETPs) are
+installed to treat process effluent, which is either reused in the process or for other purposes within
+the premises, following the approved method stated in the Consent Order.
+6. Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Whether air emissions (other
+than GHG emissions) by the
+entity is applicable to the
+company?
+Yes
+Parameter
+Please
+specify
+unit
+FY (2023-24)
+PY (2022-23)
+NOx
+Tonne
+0.94
+0.77
+SOx
+Tonne
+2.02
+1.65
+Particulate matter (PM)
+Parts Per
+Million
+(PPM)
+0.00
+0.00
+Persistent organic pollutants
+(POP)
+Parts Per
+Million
+(PPM)
+0.00
+0.00
+Volatile organic compounds
+(VOC)
+Parts Per
+Million
+(PPM)
+47.61
+45.37
+Hazardous air pollutants
+(HAP)
+Parts Per
+Million
+(PPM)
+0.00
+0.00
+Note: Indicate if any
+independent assessment/
+evaluation/assurance has been
+carried out by an external
+agency? (Y/N)
+No
+If yes, name of the external
+agency.
+7. Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+Whether greenhouse gas
+emissions (Scope 1 and Scope
+2 emissions) & its intensity is
+applicable to the company?
+Yes
+Parameter
+Unit
+FY (2023-24)
+PY (2022-23)
+Total Scope 1 emissions
+(Break-up of the GHG into
+CO2, CH4, N2O, HFCs,
+PFCs, SF6, NF3, if available)
+MtCO2e
+429.00
+351.00
+Total Scope 2 emissions
+(Break-up of the GHG into
+CO2, CH4, N2O, HFCs,
+PFCs, SF6, NF3, if available)
+MtCO2e
+6838.00
+7388.00
+Total Scope 1 and Scope 2
+emission intensity per rupee of
+turnover
+(Total Scope 1 and
+Scope 2 GHG emissions /
+Revenue from operations)
+MtCO2e
+/ Rs.
+0.0000001834
+0.0000002035
+Total Scope 1 and Scope 2
+file:///C/Users/THOMAV01/OneDrive%20-%20AkzoNobel/Desktop/Working%20folder/BRSR%20XBRL/AKZO%20BRSR%20PDF%202023-24.html[7/5/2024 1:03:07 PM]
+emission intensity per rupee of
+turnover adjusted for
+Purchasing Power Parity
+(PPP)
+(Total Scope 1 and
+Scope 2 GHG emissions /
+Revenue from operations
+adjusted for PPP)
+MtCO2e
+/ Rs.
+0.00
+0.00
+Total Scope 1 and Scope 2
+emission intensity in terms of
+physical output
+MtCO2e
+30.00
+36.00
+Total Scope 1 and Scope 2
+emission intensity (optional) –
+the relevant metric may be
+selected by the entity
+MtCO2e
+0.00
+0.00
+Note: Indicate if any independent assessment/
+evaluation/assurance has been carried out by an external
+agency? (Y/N)
+No
+If yes, name of the external agency.
+8. Does the entity have any
+project related to reducing
+Green House Gas emission?
+Yes
+If Yes, then provide details.
+The first key decarbonization lever for our Scope 1 and 2 emissions is reducing the amount of
+energy we consume. We’re aiming to reduce our relative energy consumption by 30% by 2030
+(baseline 2018) and plan to do so through an ambitious 5% year-on-year reduction objective. We’ve
+identified several programs to help us achieve this: • Operational excellence that will apply energy
+management to our daily operations and reduce our energy use in production, warehouses and
+offices • Upgrading inefficient assets such as chillers, air compressors and furnaces to best-in-class
+and improve HVAC systems for our buildings and Warehouses Our second key lever is maximizing
+renewable electricity, with a priority to produce on-site with solar panels and with renewable
+purchasing agreements. We also have a renewable electricity target of 50% for 2025 and 100% for
+2030. We purchase Renewable Electricity Certificates or Guarantees of Origin and actively look for
+off-site power purchasing agreements (PPAs) where possible
+9. Provide details related to waste management by the entity, in the following format:
+Parameter
+FY (2023-24)
+PY (2022-23)
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+0.00
+0.00
+E-waste (B)
+0.00
+0.00
+Bio-medical waste (C)
+0.00
+0.00
+Construction and demolition waste (D)
+0.00
+0.00
+Battery waste (E)
+0.00
+0.00
+Radioactive waste (F)
+0.00
+0.00
+Other Hazardous waste. Please specify, if
+any. (G)
+0.00
+0.00
+Other Non-hazardous waste generated (H).
+Please specify, if any. (Break-up by
+composition i.e. by materials relevant to
+the sector)
+0.00
+0.00
+Total (A+B + C + D + E + F + G + H)
+0.00
+0.00
+Waste intensity per rupee of turnover
+(Total waste generated / Revenue from
+operations)
+0.00
+0.00
+Waste intensity per rupee of turnover
+adjusted for Purchasing Power Parity
+(PPP)
+(Total waste generated / Revenue
+from operations adjusted for PPP)
+0.00
+0.00
+Waste intensity in terms of physical output 0.00
+0.00
+Waste intensity (optional) – the relevant
+metric may be selected by the entity
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations (in metric tonnes)
+Category of waste
+(i) Recycled
+0.00
+0.00
+(ii) Re-used
+0.00
+0.00
+(iii) Other recovery operations
+0.00
+0.00
+Total
+0.00
+0.00
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i) Incineration
+0.00
+0.00
+(ii) Landfilling
+0.00
+0.00
+(iii) Other disposal operations
+0.00
+0.00
+Total
+0.00
+0.00
+Note: Indicate if any
+independent assessment/
+evaluation/assurance has been
+carried out by an external
+agency? (Y/N)
+No
+If yes, name of the external
+agency.
+10. Briefly describe the waste
+management practices adopted
+in your establishments.
+Describe the strategy adopted
+by your company to reduce
+usage of hazardous and toxic
+chemicals in your products
+and processes and the
+practices adopted to manage
+such wastes.
+Switching gears towards a circular economy means reducing waste and increasing circularity throughout our value chain. We’re
+driven by 3R’s reduce, reuse, and recycle, while our products seek to protect and give longer life to surfaces and materials.
+Reducing waste at source and increasing circularity we’re on a journey towards achieving 100% circular use of materials in our
+own operations by 2030 which is in line with AkzoNobel global targets. To reach there, we’re focused on reducing the amount of
+waste and increasing the circular use of materials. In 2023-24, we achieved circular use of materials for 80.4% of our obsolete
+material and waste streams.
+Product stewardship policy is followed to eliminate/ substitute/reduce toxic chemicals with specific
+timelines to eliminate or reduce toxicity. Eg. increasing use of powder coatings/ low VOC products manufactured in liquid
+coatings for industrial applications. The household products follow the same hierarchy of controls.
+13. Is the entity compliant
+with the applicable
+environmental law/
+regulations/ guidelines in
+India; such as the Water
+(Prevention and Control of
+Pollution) Act, Air (Prevention
+and Control of Pollution) Act,
+Environment protection act
+and rules thereunder
+Yes
+file:///C/Users/THOMAV01/OneDrive%20-%20AkzoNobel/Desktop/Working%20folder/BRSR%20XBRL/AKZO%20BRSR%20PDF%202023-24.html[7/5/2024 1:03:07 PM]
+(Y/N/NA).
+If not, provide details of all such non-compliances, in the
+following format:
+Leadership Indicators
+1. Water withdrawal, consumption and discharge in areas of water stress (in kilolitres):
+For each facility / plant located in areas of water stress, provide the following information:
+Details For each facility / plant located in areas of water stress
+Note: Indicate if any
+independent assessment/
+evaluation/assurance has been
+carried out by an external
+agency? (Y/N)
+No
+If yes, name of the external
+agency.
+2. Please provide details of total Scope 3 emissions & its intensity, in the following format:
+Whether total Scope 3
+emissions & its intensity is
+applicable to the company?
+Yes
+Parameter
+Unit
+FY (2023-24)
+PY (2022-23)
+Total Scope 3 emissions
+(Break-up of the GHG into
+CO2, CH4, N2O, HFCs,
+PFCs, SF6, NF3, if available)
+MtCO2e
+726.00
+652.00
+Total Scope 3 emissions per
+rupee of turnover
+MtCO2e
+/ Rs.
+0.00
+0.00
+Total Scope 3 emission
+intensity (optional) – the
+relevant metric may be
+selected by the entity
+MtCO2e
+0.00
+0.00
+Note: Indicate if any
+independent assessment/
+evaluation/assurance has been
+carried out by an external
+agency? (Y/N)
+No
+If yes, name of the external
+agency.
+3. With respect to the
+ecologically sensitive areas
+reported at Question 10 of
+Essential Indicators above,
+provide details of significant
+direct & indirect impact of the
+entity on biodiversity in such
+areas along-with prevention
+and remediation activities.
+NOT APPLICABLE
+4. If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource efficiency, or reduce impact due to
+emissions / effluent discharge / waste generated, please provide details of the same as well as outcome of such initiatives, as per the following format:
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource efficiency, or reduce impact due to emissions /
+effluent discharge / waste generated, please provide details of the same as well as outcome of such initiatives
+Sr.
+No.
+Initiative
+undertaken
+Details of the initiative (Web-link, if any, may be provided along-with
+summary)
+Outcome of the initiative
+Corrective
+action
+taken, if
+any
+1
+Carbon
+emission
+reduction
+The first key decarbonization lever for our Scope 1 and 2 emissions is reducing the
+amount of energy we consume. We’re aiming to reduce our relative energy
+consumption by 30% by 2030 (baseline 2018) and plan to do so through an
+ambitious 5% year-on-year reduction objective. We’ve identified several programs
+to help us achieve this: • Operational excellence that will apply energy management
+to our daily operations and reduce our energy use in production, warehouses and
+offices
+• Upgrading inefficient assets such as chillers, air compressors and furnaces
+to best-in-class and improve HVAC systems for our buildings and Warehouses
+Our
+second key lever is maximizing renewable electricity, with a priority to produce on-
+site with solar panels and with renewable purchasing agreements.
+We’re aiming to reduce our relative
+energy consumption by 30% by 2030
+(baseline 2018) and plan to do so through
+an ambitious 5% year-on-year reduction
+objective. We also have a renewable
+electricity target of 50% for 2025 and
+100% for 2030. We purchase Renewable
+Electricity Certificates or Guarantees of
+Origin and actively look for off-site power
+purchasing agreements (PPAs) where
+possible.
+N.A.
+2
+Renewable
+energy
+We invest in energy reduction programs, improve energy monitoring, and enhance
+governance structure. We continue to utilize in-house rooftop solar panels and
+procure renewable energy externally (where permitted) to strengthen our
+commitment to renewables.
+In 2023-24, we increased contribution of
+renewable energy from 34% to 48%,
+progressing well towards our 2025 target
+of 50%.
+N.A.
+3
+Circular use
+of materials
+Switching gears towards a circular economy means reducing waste and increasing
+circularity throughout our value chain. We’re driven by 3R’s reduce, reuse, and
+recycle, while our products seek to protect and give longer life to surfaces and
+materials. Reducing waste at source and increasing circularity we’re on a journey
+towards achieving 100% circular use of materials in our own operations by 2030
+which is in line with AkzoNobel global targets. To reach there, we’re focused on
+reducing the amount of waste and increasing the circular use of materials.
+In 2023-24, we achieved circular use of
+materials for 80.4% of our obsolete
+material and waste streams.
+N.A.
+5. Does the entity have a
+business continuity and
+disaster management plan?
+Yes
+Details of entity at which business continuity and disaster
+management plan is placed or weblink.
+The entity has in place a documented framework and a process for managing critical activities
+during occurrence of a disaster or a high impact risk event across its manufacturing sites, RD&I
+Labs, Offices, Warehouses and key processes. The business continuity plans are integrated in our
+Enterprise-wide Risk Management program. It ensures continuity of delivery of products or services
+at pre-defined acceptable levels following a disruptive incident.
+6. Disclose any significant
+adverse impact to the
+environment, arising from the
+value chain of
+the entity. What
+mitigation or adaptation
+measures have been taken by
+the entity in this regard.
+NIL
+7. Percentage of value chain
+partners (by value of business
+done with such partners) that
+were assessed for
+environmental impacts.
+65.00%
+Notes
+PRINCIPLE 7 Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is
+responsible and transparent
+Essential Indicators
+file:///C/Users/THOMAV01/OneDrive%20-%20AkzoNobel/Desktop/Working%20folder/BRSR%20XBRL/AKZO%20BRSR%20PDF%202023-24.html[7/5/2024 1:03:07 PM]
+1. a. Number of affiliations with trade and industry
+chambers/ associations.
+4
+b. List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) the entity is a member of/ affiliated to
+Sr.
+No.
+Name of the trade and industry chambers/
+associations
+Reach of trade and industry chambers/ associations (State/National/International)
+1
+Confideration of Indian Industry (CII)
+National
+2
+Indian Paints Association (IPA)
+National
+3
+Paints and Coatings Skill Council (PCSC)
+National
+4
+Federation of Indian Export Organisations
+(FIEO)
+National
+5
+6
+7
+8
+9
+10
+Leadership Indicators
+1. Details of public policy positions advocated by the entity:
+Details of public policy positions advocated by the entity
+Sr.
+no.
+Public policy
+advocated
+Method resorted for such
+advocacy
+Whether information available in public
+domain? (Yes/No)
+Frequency of Review by
+Board
+Web Link,if
+available
+1
+Anti-dumping duty on
+TiO2
+Through Industry
+Associations
+No
+Others – please specify
+NO
+Notes
+Your Company participates in various programmes of the Industry/Trade associations for development of balanced regulations by engaging with the
+regulatory bodies in a responsible manner. The Company has advocated upon the following public policies on:
+- Anti-dumping duty on TiO2
+This
+information is not available in public domain as these representations have been through Industry Associations.
+PRINCIPLE 8 Businesses should promote inclusive growth and equitable development
+Essential Indicators
+3. Describe the mechanisms to receive
+and redress grievances of the
+community.
+We generally address all grievances through local community institutions represented by community leaders. In case of
+villages, Panchayats acts as a platform to receive and address grievances and at cities it is done through Government
+municipalities.
+Also, as a part of our CSR program, our employees periodically interact with the local community to
+understand and address community concerns. Based on these interactions, we have not encountered any specific grievance
+from the community at present.
+4. Percentage of input material (inputs
+to total inputs by value) sourced from
+suppliers:
+FY (2023-24)
+PY (2022-23)
+Directly sourced from MSMEs/ small
+producers
+5.00%
+5.00%
+Sourced directly from within the
+district and neighbouring districts
+50.00%
+50.00%
+5. Job creation in smaller towns - Disclose wages paid to persons employed (including employees or workers employed on a permanent or non-permanent / on
+contract basis) in the following locations, as % of total wage cost:
+FY (2023-24)
+PY (2022-23)
+1. Rural
+i) Disclose wages paid to persons
+employed (including employees or
+workers employed on a permanent or
+non-permanent / on contract basis)
+373000000.00
+367000000.00
+ii) Total Wage Cost
+1533000000.00
+1494000000.00
+iii) % of Job creation in Rural areas
+24.33%
+24.56%
+2. Semi-urban
+i) Disclose wages paid to persons
+employed (including employees or
+workers employed on a permanent or
+non-permanent / on contract basis)
+0.00
+0.00
+ii) Total Wage Cost
+1533000000.00
+1494000000.00
+iii) % of Job creation in Semi-Urban
+areas
+0.00%
+0.00%
+3. Urban
+i) Disclose wages paid to persons
+employed (including employees or
+workers employed on a permanent or
+non-permanent / on contract basis)
+191000000.00
+176000000.00
+ii) Total Wage Cost
+1533000000.00
+1494000000.00
+iii) % of Job creation in Urban areas
+12.46%
+11.78%
+4. Metropolitan
+i) Disclose wages paid to persons
+employed (including employees or
+workers employed on a permanent or
+non-permanent / on contract basis)
+969000000.00
+951000000.00
+ii) Total Wage Cost
+1533000000.00
+1494000000.00
+iii) % of of Job creation in
+Metropolitan area
+63.21%
+63.65%
+Leadership Indicators
+2. Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as identified by government bodies:
+Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as identified by government bodies
+Sr.No.
+State
+Aspirational District
+Amount spent (In INR)
+1
+Haryana
+Nuh
+2116321.00
+2
+Jharkhand
+East Singbhum
+488000.00
+3
+Assam
+Darrang
+1671360.00
+3. (a) Do you have a preferential
+procurement policy where you give
+preference to purchase from suppliers
+No
+file:///C/Users/THOMAV01/OneDrive%20-%20AkzoNobel/Desktop/Working%20folder/BRSR%20XBRL/AKZO%20BRSR%20PDF%202023-24.html[7/5/2024 1:03:07 PM]
+comprising marginalized /vulnerable
+groups? (Yes/No/NA)
+(b) From which marginalized /vulnerable groups do you procure?
+(c) What percentage of total procurement (by value) does it constitute?
+6. Details of beneficiaries of CSR Projects:
+Details of beneficiaries of CSR Projects
+Sr.No.
+CSR Project
+No. of persons benefitted from CSR
+Projects
+% of beneficiaries from vulnerable and marginalized
+groups
+1
+Skill Training to youth/painters to provide
+Livelihood
+4163
+100.00%
+2
+Providing Education for children
+7980
+100.00%
+3
+Providing accesss of Health care through tele
+medicine
+15906
+100.00%
+Notes
+PRINCIPLE 9 Businesses should engage with and provide value to their consumers in a responsible manner
+Essential Indicators
+1. Describe the mechanisms in place to
+receive and respond to consumer
+complaints and feedback.
+There is a well-publicized mechanism for customers to voice their grievances, and our company is committed to
+resolving consumer complaints transparently and in a solution-oriented manner. We have a robust customer care and
+response management system in place to address customer queries, feedback, and concerns promptly. Our focus on new
+technologies, integration, and standardization ensures a delightful consumer experience. We strive to serve customers
+with courtesy, respect, and understanding at all times.
+We have established multiple lines of communication for a
+customer to reach us:
+• Toll Free Number: 1800 3000 4455
+• Website(s): www.dulux.in and www.akzonobel.co.in
+•
+Email: customercare.india@akzonobel.com
+• Sales touch point for the dealer
+We utilize an IT-enabled Customer
+Relationship Management (CRM) tool to capture and track all complaints received through various communication
+channels. This ensures that every query is responded to and monitored until it is successfully resolved.
+2. Turnover of products and/ services as
+a percentage of turnover from all
+products/service that carry information
+about
+As a percentage to total turnover
+Environmental and social parameters
+relevant to the product
+100.00%
+Safe and responsible usage
+100.00%
+Recycling and/or safe disposal
+100.00%
+3. Number of
+consumer
+complaints in
+respect of the
+following
+FY (2023-24)
+Remark
+PY (2022-23)
+Remark
+Received
+during
+the year
+Pending
+resolution
+at end of
+year
+Received during the
+year
+Pending resolution at end
+of year
+Data privacy
+0
+0
+0
+0
+0
+0
+Advertising
+0
+0
+0
+0
+0
+0
+Cyber-security
+0
+0
+0
+0
+0
+0
+Delivery of
+essential
+services
+0
+0
+0
+0
+0
+0
+Restrictive
+Trade Practices
+0
+0
+0
+0
+0
+0
+Unfair Trade
+Practices
+0
+0
+0
+0
+0
+0
+Other
+1498
+646
+Complaints relating products, packaging, technical
+and colour
+2441
+639
+Complaints
+relating
+products,
+packaging,
+technical
+and colour
+4. Details of
+instances of
+product recalls
+on account of
+safety issues
+Number
+Reasons for recall
+Voluntary
+recalls
+0
+N/A
+Forced recalls
+0
+N/A
+5. Does the entity have a framework/
+policy on cyber security and risks related
+to data privacy?
+Yes
+If available, provide a web-link of the
+policy
+www.akzonobel.co.in
+6. Provide details of any corrective
+actions taken or underway on issues
+relating to advertising, and delivery of
+essential services; cyber security and
+data privacy of customers; re-occurrence
+of instances of product recalls; penalty /
+action taken by regulatory authorities on
+safety of products / services.
+There were no such instances occurred during the reporting year.
+7. Provide the following information relating to data breaches:
+a. Number of instances of data breaches
+along-with impact
+1
+b. Percentage of data breaches involving
+personally identifiable information of
+customers
+0.00%
+c. Impact, if any, of the data breaches
+NONE.
+We had a cybersecurity incident in September 2023, related to hacking and defacing of the Akzo Nobel India
+Limited website. This was immediately reported to CERT-In (Indian Computer Emergency Response Team). The
+vulnerability was plugged, and pages restored within the same day. There was no loss of data and no impact on
+operations. Following this incident, additional security measures and monitoring tools were put in place.
+Leadership Indicators
+1. Channels / platforms where
+information on products and services of
+the entity can be accessed (provide web
+link, if available).
+The platforms used for the information are the Company’s website, Annual Report, social media platforms and media
+advertisement/publications. Information relating to all the products and services provided by the Company are available
+on the Company’s website at dulux.in and akzonobel.co.in
+2. Steps taken to inform and educate
+consumers about safe and responsible
+usage of products and/or services
+Safety applications and procedures are clearly stated on our livery and websites. Additionally, we conducted awareness
+campaigns for painters and contractors as well as application trainings and workshops for B2B customers from time to
+time to ensure their understanding and adherence to safety protocols.
+file:///C/Users/THOMAV01/OneDrive%20-%20AkzoNobel/Desktop/Working%20folder/BRSR%20XBRL/AKZO%20BRSR%20PDF%202023-24.html[7/5/2024 1:03:07 PM]
+3. Mechanisms in place to inform
+consumers of any risk of
+disruption/discontinuation of essential
+services.
+There was no risk of disruption/discontinuation of essential services and hence no requirement of informing consumers
+on actions required in such an eventuality.
+4. Does the entity display product
+information on the product over and
+above what is mandated as per local
+laws?
+Yes
+If yes, provide details in brief.
+The entity complies with the local laws by displaying mandated information on product labels. In addition
+to the required declarations, additional information related to the products and their usage is provided on
+the labels. Apart from the Packaged Commodities Rule & Lead Content declaration (for Architectural
+paints) which are mandatory, the application and usage details are also provided along with the product
+proposition. A centralized survey is conducted by an external agency with a random sample of outlets,
+covering multiple touch points including Customer Satisfaction. We work upon how we can improve and
+measures are implemented accordingly.
+Did your entity carry out any survey
+with regard to consumer satisfaction
+relating to the major products / services
+of the entity, significant locations of
+operation of the entity or the entity as a
+whole?
+Yes
+Notes
+A centralized survey is conducted by an external agency with a random sample of outlets, covering multiple touch points
+including Customer Satisfaction. We work upon how we can improve and measures are implemented accordingly.

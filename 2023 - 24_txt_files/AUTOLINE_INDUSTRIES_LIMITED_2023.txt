@@ -1,0 +1,3345 @@
+ 
+Date – September 06, 2024 
+To, 
+The National Stock Exchange of India Ltd 
+Exchange Plaza, C-1, Block G, Bandra Kurla Complex, Bandra (E) Mumbai – 400 051  
+Vice President, Listing 
+Corporate Relations Department 
+NSE - AUTOIND 
+Sub: Intimation of Business Responsibility & Sustainability Report.  
+ 
+Dear Sir/Madam,  
+ 
+Pursuant to SEBI Circular SEBI/HO/CFD/CFD-SEC-2/P/CIR/2023/122 dated 12th July 2023, the top 1000 
+listed entities by Market Capitalisation are required to make disclosures of Business Responsibility & 
+Sustainability Report. The Company, though not being in the top 1000 listed entities by Market 
+Capitalisation, in order to be more transparent and to follow good corporate governance, has 
+voluntarily publish its Business Responsibility & Sustainability Report as attached. 
+ 
+Kindly take the same on record and acknowledge the receipt of the same. 
+ 
+Yours sincerely, 
+ 
+For Autoline Industries Limited 
+ 
+ 
+ 
+Pranvesh Tripathi 
+Company Secretary & Compliance Officer 
+M.No. A16724 
+  
+ 
+PRANVESH 
+TRIPATHI
+Digitally signed by PRANVESH  TRIPATHI 
+DN: c=IN, o=PERSONAL, 
+pseudonym=28f892c395df461c92f11794ed
+186bd7, 
+2.5.4.20=9a1a3f5f004f9351a1aa750cd618fa
+385f625f64c5d574b31d3d518de8030da6, 
+postalCode=462039, st=MADHYA PRADESH, 
+serialNumber=1b0fc245c84fc9a49dddb3aa8
+b2c8bdaf128a30576d6cc65529f3f043286d6
+f7, cn=PRANVESH  TRIPATHI 
+Date: 2024.09.06 14:16:00 +05'30'
+SECTION
+GENERAL DISCLOSURE
+A
+I.	
+Details of the listed entity 
+1
+Corporate Identity Number (CINs) of 
+the Listed Entity
+:
+L34300PN1996PLC104510
+2
+Name of the Listed Entity
+:
+Autoline Industries Limited
+3
+Year of incorporation
+:
+1996
+4
+Registered office address
+:
+Survey No. 313, 314, 320 to 323, Nanekarwadi, Chakan,  
+Tal. Khed, Pune 410 501, India
+5
+Corporate address
+:
+Survey No. 313, 314, 320 to 323, Nanekarwadi, Chakan,  
+Tal. Khed, Pune 410 501, India
+6
+E-mail
+:
+secretarial@autolineind.com
+7
+Telephone
+:
++91-02135-63587
+8
+Website
+:
+https://www.autolineind.com/
+9
+Financial year for which reporting 
+is being done
+:
+2023 - 24
+10
+Name of the Stock Exchange(s) where 
+shares are listed
+:
+a.	
+National Stock Exchange of India Limited (NSE)
+b.	
+Bombay Stock Exchange (BSE)
+11
+Paid-up Capital
+:
+` 38.96 Crores
+12
+Name and contact details (telephone, 
+email address) of the person who may 
+be contacted in case of any queries on 
+the BRSR report
+:
+Name:
+Vinod Sharma (Company Secretary & Compliance Officer)
+Telephone:
++91 9098783083
+Email address:
+vinod.sharma@autolineind.com
+13
+Reporting boundary
+:
+Disclosures made in this report are inclusive of its subsidiary - Autoline 
+Design Software Limited (ADSL).
+14
+Name of Assurance provider
+:
+For the reporting period, external assurance is not applicable.
+15
+Type of Assurance obtained
+:
+For the reporting period, external assurance is not applicable.
+II. Products/services 
+16.
+Details of business activities (accounting for 90% of the turnover):
+S.No.
+Description of Main Activity
+Description of Business Activity
+% of Turnover of the entity
+1
+Auto-ancillary
+Sheet metal auto-parts manufacturing
+99.38%
+17.
+Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S.No.
+Product/ Service
+NIC Code
+% of Turnover of the entity
+1
+Sheet metal
+25910
+99.38%
+Business Responsibility and 
+Sustainability Report
+Corporate Overview  >  01-21
+Statutory Reports  >  22-130
+Financial Statements  >  132-309
+Autoline Industries Limited 
+103
+III. Operations  
+18.
+Number of locations where plants and/or operations/offices of the entity are situated: 
+Location
+Number of plants
+Number of offices
+Total
+National
+6
+5
+11
+International
+0
+0
+0
+19. Markets served by the entity:
+A
+Number of Locations 
+Locations
+Number
+National (No. of States)
+3
+International (No. of Countries)
+-
+b. 	
+What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+0.28 %
+c. 	
+A brief on types of customers
+	
+As a leading manufacturer and supplier of automotive components, AIL serves major Original Equipment 
+Manufacturers (OEMs) and automobile companies both domestically and internationally. Our customers include 
+industry giants such as Tata Motors, Mahindra, Ashok Leyland, Fiat, Daimler India, Cummins USA and India, Sany, 
+Hyundai, Volkswagen, GM, Ford And Altigreen.
+IV. Employees 
+20. Details as at the end of Financial Year: 
+A
+Employees and workers (including differently abled):
+S. 
+No
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+EMPLOYEES
+1.
+ Permanent (D)
+272
+267
+98%
+5
+2%
+2.
+ Other than Permanent (E) 
+0
+0
+0%
+0
+0%
+3.
+ Total Employees (D+E)
+272
+267
+98%
+5
+2%
+WORKERS
+4.
+ Permanent (F)
+594
+594
+100%
+0
+0%
+5.
+ Other than Permanent (G) 
+997
+966
+97%
+31
+3%
+6.
+ Total workers (F + G)
+1,591
+1,560
+98%
+31
+2%
+B
+Differently abled Employees and workers: 
+S.  
+No
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+DIFFERENTLY ABLED EMPLOYEES
+1.
+Permanent* (D)
+272
+2
+1%
+0
+0%
+2.
+Other than Permanent** (E)
+0
+0
+0%
+0
+0%
+3.
+Total differently abled  
+employees (D + E)
+272
+2
+1%
+0
+0%
+DIFFERENTLY ABLED WORKERS
+4.
+Permanent (F)
+594
+12
+2%
+0
+0%
+5.
+Other than permanent (G)
+997
+0
+0%
+0
+0%
+6.
+Total differently abled  
+workers (F + G)
+1,591
+12
+1%
+0
+0%
+Annual Report 2023-24
+104
+21.
+Participation/Inclusion/Representation of women  
+Category
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+6
+1
+17%
+Key Management Personnel
+2
+0
+0%
+22.
+Turnover rate for permanent employees and workers 
+Category
+FY 2023 – 2024
+FY 2022 - 2023
+FY 2021 - 2022
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent 
+Employees
+15%
+40%
+15%
+25%
+20%
+25%
+-
+-
+-
+Permanent Workers
+8%
+0%
+8%
+4%
+0%
+4%
+-
+-
+-
+V. Holding, Subsidiary and Associate Companies (including joint ventures)
+23.
+(a) Names of holding / subsidiary / associate companies / joint ventures as on March 31, 2024
+S. 
+No.
+Name of the holding / subsidiary 
+/associate companies / Joint 
+Venture
+Indicate whether 
+holding/ Subsidiary/ 
+Associate/ Joint 
+Venture
+% of shares held 
+by listed entity
+Does the entity indicated at 
+column A, participate in the 
+Business Responsibility initiatives 
+of the listed entity? (Yes/No)
+1
+Autoline Design Software Limited
+Subsidiary
+100%
+Yes
+2
+Autoline E-Mobility Private Limited
+Subsidiary
+100%
+No
+3
+Koderat Investment Limited
+Subsidiary
+100%
+No
+4
+Autoline Industrial Parks Limited
+Subsidiary
+43.26%
+No
+VI. CSR Details
+24.
+(i) 	 Whether CSR is applicable as per section 135 of Companies Act, 2013: Yes
+(ii)
+Turnover (in `): 
+` 654.84 Crores
+(iii)
+Net worth (in `): 
+` 416.13 Crores
+However, the average net profit of Autoline Industries Limited made during the three (3) immediately preceding 
+financial years is negative and hence, Autoline is not statutorily required to spend any amount on CSR activities for the 
+financial year 2023-24.
+Corporate Overview  >  01-21
+Statutory Reports  >  22-130
+Financial Statements  >  132-309
+Autoline Industries Limited 
+105
+VII. Transparency and Disclosures Compliances
+25.
+Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance Redressal 
+Mechanism in place (Yes 
+/ No). If yes, then provide 
+web link for grievance 
+redressal policy
+FY 2023 – 2024
+FY 2022 – 2023
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+Complaints 
+pending 
+resolution at 
+close of the 
+year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the 
+year
+Remarks
+Communities No
+0
+0
+NA
+0
+0
+NA
+Investors
+(Other than
+shareholders)
+Yes, investors can get in 
+touch with the Company 
+Secretary at
+https://www.autolineind.
+com/investor-relations/
+0
+0
+NA
+0
+0
+NA
+Shareholders Yes, shareholders can 
+get in touch with the 
+Company Secretary at
+https://www.autolineind.
+com/investor-relations/
+0
+0
+NA
+0
+0
+NA
+Employees
+and workers
+Yes
+(Employee Code of 
+Conduct & Whistle Blower 
+Policy)
+19
+0
+Prompt follow 
+up from the 
+HR team 
+ensured on time 
+resolution of 
+the complaints 
+raised
+11
+0
+Prompt follow 
+up from the 
+HR team 
+ensured on time 
+resolution of 
+the complaints 
+raised
+Customers
+Yes, customer complaints 
+are addressed through 
+our customer portal
+713
+0
+NA
+884
+0
+NA
+Value Chain 
+Partners
+No
+NA
+NA
+-
+NA
+NA
+-
+26.
+Overview of the entity’s material responsible business conduct issues 
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether risk or 
+opportunity (R/O)
+Rationale for identifying the risk / 
+opportunity
+In case of risk, approach 
+to adapt or mitigate
+Financial implication of the risk 
+or opportunity (indicate positive 
+or negative implications)
+1
+Energy 
+Management 
+& Transition
+Risk
+Autoline has 6 plants across 
+the country, with one additional 
+plant starting operations from 
+the current financial year. Energy 
+being a major cost item, escalation 
+in energy prices is a risk. Cost of 
+electricity and energy breakdown 
+pose risks for the Company. We are 
+actively seeking ways to become 
+more energy efficient, keeping this 
+expansion in picture.
+We are working on 
+proposals to desrisk 
+our energy cost through 
+investments into Solar 
+power projects. The power 
+from these will reduce our 
+overall energy costs. This 
+initiative aims to mitigate 
+the environmental impact 
+and ensure a more 
+sustainable and reliable 
+energy solution.
+Positive: Adopting clean energy 
+instead of grid to an extent will 
+help to reduce our Expenses 
+towards power.
+2
+GHG 
+emissions
+Opportunity
+With the evolving nature of the 
+automobile industry, it is imperative 
+that we work on programs to reduce 
+our overall carbon footprint. Our 
+operations inherantly result in a 
+lower direct emissions impact, while 
+a significant chunk of our emissions 
+is attributable to our value chain.
+We aim to restrict the 
+emissions by tracking 
+Scope 1, 2 and 3 carbon 
+emissions from this year.
+Positive: Ensure lesser 
+consumption of fuel by keeping 
+emissions under check.
+Annual Report 2023-24
+106
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether risk or 
+opportunity (R/O)
+Rationale for identifying the risk / 
+opportunity
+In case of risk, approach 
+to adapt or mitigate
+Financial implication of the risk 
+or opportunity (indicate positive 
+or negative implications)
+3
+Waste 
+management
+Opportunity
+Most of the waste generated at our 
+plants is some form of metal waste, 
+which is sold and as scrap and 
+recycled or re-used further. 
+Our target is to achieve 
+a lower rate of waste 
+generation, by optimizing 
+the usage of material.
+Positive: We are engaging 
+actively in cost-saving by 
+reducing the waste generated 
+to the minimum.
+4
+Employee 
+Health and 
+Safety
+Risk
+It becomes critical due to the 
+nature of work on our shop floor, 
+that the employees and workers 
+are safeguarded from injuries at all 
+times.
+We plan to adopt a strict 
+approach, with zero 
+tolerance towards safety 
+breaches. To train the 
+employees, we have 
+introduced ‘Gurukul’ in 
+our premise, wherein they 
+undergo regular safety 
+training. To ensure the 
+health and well-being of 
+employees, Autoline has 
+also implemented annual 
+checkups and counseling 
+sessions. In compliance 
+with the Factories Act, a 
+doctor is provided at the 
+factory, and group health 
+insurance is also covered.
+Negative: Impact on the 
+brand name and morale of the 
+employees and workers.
+5
+Product 
+Life cycle 
+management 
+Risk
+The Company is adding new product 
+lines to cater to specific customer 
+needs. Unless the products that 
+are developed are in line with the 
+requirements of the customers, there 
+stands a risk of non-acceptance of 
+the products.
+We plan to commence 
+development of products 
+only after a thorough R&D.
+Negative: Intensive initial 
+investment in developing a 
+product.
+6
+Supply chain 
+sustainability 
+and reporting 
+Risk
+There is a risk of vendors not 
+complying with relevant laws and 
+regulations applicable to them.
+We have a robust quality 
+control mechanism and 
+vendor onboarding in 
+place, in which we seek 
+to include the vendors’ 
+compliances as well.
+Negative: Enabling smooth 
+operations of the Company.
+7
+Business 
+Ethics 
+Opportunity
+The Company has no history of 
+any irregularities in matters like 
+bribery, corruption, defrauding, 
+money laundering and such. Ethical 
+practices will contribute to the 
+sustainability of the Company, 
+ensuring the Company's long-term 
+success. 
+We have commenced 
+tracking the indicators 
+on business ethics, on a 
+quarterly basis. 
+Positive: The risks of legal 
+liabilities or reputational 
+damage are minimal due to the 
+ethical business practices we 
+adopt.
+Corporate Overview  >  01-21
+Statutory Reports  >  22-130
+Financial Statements  >  132-309
+Autoline Industries Limited 
+107
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether risk or 
+opportunity (R/O)
+Rationale for identifying the risk / 
+opportunity
+In case of risk, approach 
+to adapt or mitigate
+Financial implication of the risk 
+or opportunity (indicate positive 
+or negative implications)
+8
+Risk 
+Management 
+Opportunity
+We are cognizant of risks that 
+are inherent to our organization. 
+Operational risks like safety 
+concerns and energy management, 
+as well as compliance and financial 
+risks have been considered here. A 
+key aspect of our risk management 
+over the years has been to 
+understand the major risks and to 
+build a mechanism to mitigate them.
+We have been proactively 
+identifying and mitigating 
+risks. The mitigation 
+measures we are adopting 
+or planning to adopt have 
+been highlighted against 
+each identified risk in this 
+section.
+Positive: By promptly identifying 
+and addressing potential risks, 
+we safeguard our financial 
+stability and enhance our 
+credibility.
+9
+Data Privacy 
+Risk
+Robust data privacy policies and 
+procedures demonstrate good 
+governance. Our data privacy 
+policies reflect our transparency, 
+accountability, and ethical conduct. 
+However, the Company is handling 
+sensitive information of our 
+customers, mishandling of which 
+poses a risk.
+At Autoline, there are 
+mechanisms in place to 
+minimize data breaches. 
+Our comprehensive 
+IT security framework 
+incorporates strong 
+firewalls, restricted access 
+mechanisms, and other 
+safeguards to protect 
+against data breaches.
+Negative: The financial 
+consequences of data breaches 
+at operational or financial levels 
+can be substantial. Having 
+optimum checks in place helps 
+us avoid that cost.
+10
+Human rights 
+and Labour 
+practices 
+Risk
+The automotive parts industry has 
+operations which inherently involve 
+potential risks to Human Rights. 
+Identifying and assessing human 
+rights risks throughout the supply 
+chain is crucial.
+We seek to:
+ - Ensure compliance with 
+labor laws, including 
+wages, working hours, 
+and safety conditions.
+ - Implement measures 
+to prevent and address 
+forced labour and child 
+labour, across the supply 
+chain.
+ - Creating inclusive 
+workplaces free from 
+discrimination.
+Negative: Human rights 
+violations can severely damage 
+a Company’s credibility and 
+lead to financial penalties. In 
+extreme cases, these violations 
+can result in significant business 
+losses.
+11
+Water 
+management 
+Opportunity
+At Autoline plants, water 
+consumption is restricted to a 
+minimal, owing to the nature of our 
+business. 
+While our industrial 
+processes minimize 
+water consumption, we're 
+committed to overall 
+water efficiency. We're 
+implementing water-
+saving practices in our 
+offices and exploring water 
+reuse options within our 
+facilities.
+Positive: Limited consumption 
+of water minimizes wastewater 
+generation, reducing the risk of 
+penalties regarding wastewater 
+disposal regulations.
+Annual Report 2023-24
+108
+SECTION
+MANAGEMENT AND PROCESS DISCLOSURES 
+B
+P1
+Businesses should conduct and govern themselves with integrity in a manner that is ethical, transparent and 
+accountable
+P2
+Businesses should provide goods and services in a manner that is sustainable and safe
+P3
+Businesses should respect and promote the well-being of all employees, including those in their value chains
+P4
+Businesses should respect the interests of and be responsive to all its stakeholders
+P5
+Businesses should respect and promote human rights
+P6
+Businesses should respect and make efforts to protect and restore the environment
+P7
+Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is 
+responsible and transparent
+P8
+Businesses should promote inclusive growth and equitable development
+P9
+Businesses should engage with and provide value to their consumers in a responsible manner
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1.
+a.	 Whether your entity’s policy / 
+policies cover each principle and its core 
+elements of the NGRBCs. (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+b. 	 Has the policy been approved by 
+the Board? (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+c. 	 Web Link of the Policies, if available
+1.	
+Employee Policy
+2.	
+Maternity benefit policy
+3.	
+Quality System Procedure Policy
+4.	
+Safety Policy
+5.	
+Employee Code of Conduct
+6.	
+Sexual Harassment Policy
+7.	
+Employee Mediclaim & Personal Accident Policy
+8.	
+Whistleblower policy
+	
+https://www.autolineind.com/code-of-conduct-policies/
+9.	
+Code of conduct
+	
+https://www.autolineind.com/code-of-conduct-policies/
+10.	 Policy for Determination of Material Subsidiary
+	
+https://www.autolineind.com/code-of-conduct-policies/
+11.	 Policy on Related Party Transaction
+	
+https://www.autolineind.com/code-of-conduct-policies/
+*Policies 1-7 are internal policies and have been published on our Intranet
+Corporate Overview  >  01-21
+Statutory Reports  >  22-130
+Financial Statements  >  132-309
+Autoline Industries Limited 
+109
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+2.
+Whether the entity has translated the policy 
+into procedures. (Yes / No)
+N
+Y
+N
+Y
+N
+N
+N
+N
+Y
+3.
+Do the enlisted policies extend to your value 
+chain partners? (Yes/No)
+ISO/TS 19649:2002 by TUV (Rh), Germany
+TS16949 
+OHSAS 18001
+ISO 14001
+Formal Q (Volkswagen)
+QSB (General Motors)
+MONOZUKURI & ASES (Renault-Nissan)
+Formal Q (FORD)
+4.
+Name of the national and international 
+codes/certifications/labels/ standards 
+(e.g. Forest Stewardship Council, Fairtrade, 
+Rainforest Alliance, Trustea) standards (e.g. 
+SA 8000, OHSAS, ISO, BIS) adopted by your 
+entity and mapped to each principle.
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Policy and management processes
+5.
+Specific commitments, goals and targets set 
+by the entity with defined timelines, if any.
+In the current financial year, Autoline has published its BRSR Report and 
+has completed identifying its material risks and opportunities.
+6.
+Performance of the entity against the 
+specific commitments, goals and targets 
+along-with reasons in case the same are not 
+met.
+Performance shall be measured once the goals, targets and Key 
+Performance Indicators are finalized.
+Governance, leadership and oversight
+7.
+Statement by director responsible for the business responsibility report, highlighting ESG related challenges, targets 
+and achievements.
+At Autoline Industries, we engineer the future of mobility, one that is sustainable, safe, and driven by responsible 
+growth. With resource efficiency at the forefront, we envision having the highest safety standards and pursuing 
+strategic growth with integrity. By integrating innovative technologies, promoting employee well-being, and ensuring 
+rigorous sustainability practices, we aim to create a lasting value for our stakeholders and contribute positively to the 
+community.
+8.
+Details of the highest authority responsible 
+for implementation and oversight of the 
+Business Responsibility policy (ies).
+Chief Executive Officer
+9.
+Does the entity have a specified Committee 
+of the Board/ Director responsible for 
+decision making on sustainability related 
+issues? (Yes / No). If yes, provide details.
+Mr. Rahul Laxman Chorghe is the Chief Human Asset Division & 
+Sustainability Officer responsible for decision making on sustainability 
+related issues as per the Nomination & Remuneration Committee of the 
+Company
+Annual Report 2023-24
+110
+10.
+Details of Review of NGRBCs by the Company
+Subject for Review 
+Indicate whether review was undertaken by Director / 
+Committee of the Board/ Any other Committee
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above policies and follow up action
+Based on the requirement, performance against policies 
+is reviewed by the HR, Legal and Secretarial and IT team. 
+In case of any recommendations and amendment to 
+the policies, it is submitted to the Board of Directors for 
+approval.
+Compliance with statutory requirements of relevance to the 
+principles, and rectification of any non-compliances
+Autoline is compliant to the applicable statutory 
+requirements
+11.	 Has the entity carried out independent assessment/ evaluation of the working of its policies by an external agency? 
+(Yes/No). If yes, provide the name of the agency.
+	
+No
+12.	 If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated:
+Questions
+The entity does not consider the Principles material to its business (Yes/No)
+Not Applicable
+The entity is not at a stage where it is in a position to formulate and implement the  policies on 
+specified principles (Yes/No)
+The entity does not have the financial or/human and technical resources available for the task 
+(Yes/No)
+It is planned to be done in the next financial year (Yes/No)
+Any other reason (please specify)
+SECTION
+PRINCIPLE WISE PERFORMANCE DISCLOSURE 
+C
+PRINCIPLE 1: BUSINESSES SHOULD CONDUCT AND GOVERN THEMSELVES WITH INTEGRITY, AND IN A MANNER 
+THAT IS ETHICAL, TRANSPARENT AND ACCOUNTABLE. 
+Essential Indicators
+1.
+Percentage coverage by training and awareness programmes on any of the Principles during the financial year
+Segment
+Total number 
+of training 
+and awareness
+programmes held
+Topics / principles covered under the training and its 
+impact
+%age of persons in respective 
+category covered by 
+the awareness programmes
+Board of Directors
+1
+	
+Principles of Environmental and Social Governance 
+(ESG)
+100%
+Key Managerial
+Personnel
+16
+	
+Quality Management and Standards
+	
+Communication and Leadership
+	
+Health and Safety
+	
+Process Improvement and Efficiency
+	
+Environmental and Social Governance (ESG)
+100%
+Corporate Overview  >  01-21
+Statutory Reports  >  22-130
+Financial Statements  >  132-309
+Autoline Industries Limited 
+111
+Segment
+Total number 
+of training 
+and awareness
+programmes held
+Topics / principles covered under the training and its 
+impact
+%age of persons in respective 
+category covered by 
+the awareness programmes
+Employees other 
+than BoD and 
+KMPs
+62
+	
+Quality Management and Standards
+	
+Production and Process Improvement
+	
+Health and Safety
+	
+Communication and Leadership
+	
+Technical Skills
+	
+Personal and Professional Development
+100%
+Workers
+47
+	
+Safety and Health
+	
+Quality Management and Standards
+	
+Welding and Production
+	
+Operations and Process Management
+	
+Communication and Skills Development
+100%
+2. 
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the 
+entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year, in 
+the following format (Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30 
+of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+Monetary 
+Parameter
+NGRBC 
+Principle
+Name of the regulatory / 
+enforcement agencies / 
+judicial institutions
+Amount (in INR)
+Brief of the Case
+Has an appeal 
+been preferred? 
+(Yes / No)
+Penalty/ Fine
+NA
+NA
+Nil
+NA
+NA
+Settlement
+NA
+NA
+Nil
+NA
+NA
+Compounding Fee
+NA
+NA
+Nil
+NA
+NA
+Parameter
+NGRBC 
+Principle
+Name of the regulatory / 
+enforcement agencies / 
+judicial institutions
+Amount (in INR)
+Brief of the Case
+Has an appeal 
+been preferred? 
+(Yes / No)
+Imprisonment
+NA
+NA
+NA
+NA
+NA
+Punishment
+NA
+NA
+NA
+NA
+NA
+3. 
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or 
+non-monetary action has been appealed.
+Case Details
+Name of the regulatory/ enforcement  agencies/ judicial institutions
+NA
+NA
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? 
+	
+Autoline is currently in the process of formulating an anti-corruption or anti-bribery policy which will be implemented 
+from the next financial year onwards.
+agency for the charges of bribery/ corruption: 
+5.
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law 
+enforcement agency for the charges of bribery/ corruption: 
+Particulars
+FY 2023 – 2024
+FY 2022 - 2023
+Directors
+Nil
+Nil
+KMPs
+Employees
+Workers
+Annual Report 2023-24
+112
+6.
+Details of complaints with regard to conflict of interest:
+Particulars
+FY 2023 – 2024
+FY 2022 – 2023
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to 
+issues of Conflict of Interest of the Directors
+0
+NA
+0
+NA
+Number of complaints received in relation to 
+issues of Conflict of Interest of the KMPs
+0
+NA
+0
+NA
+7. 
+Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by 
+regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+	
+No such cases were registered. 
+8.
+Number of days of accounts payables (Accounts payable *365) / Cost of goods/services procured) in the 
+following format: 
+Particulars
+FY 2023 – 2024
+FY 2022 - 2023
+Number of days of accounts payables
+62
+55
+9.  
+Open-ness of business  
+	
+Provide details of concentration of purchases and sales with trading houses*, dealers, and related parties along-with 
+loans and advances & investments, with related parties, in the following format:
+Parameter
+Metrics
+FY 2023 - 2024
+FY 2022 - 2023
+Concentration of 
+Purchases
+a. Purchases from trading houses as % of total purchases
+0%
+0%
+b. Number of trading houses where purchases are 
+made from
+0
+0
+c. Purchases from top 10 trading houses as % of total 
+purchases from trading houses
+0%
+0%
+Concentration of 
+Sales
+a. Sales to dealers / distributors as % of total sales
+NA **
+NA **
+Number of dealers / distributors to whom sales are made
+NA **
+NA **
+Sales to top 10 dealers / distributors as % of total sales to 
+dealers / distributors
+0%
+0%
+Share of RPTs in
+a. Purchases (Purchases with related parties / Total 
+Purchases)
+4.05%
+3.32%
+b. Sales (Sales to related parties / Total Sales)
+1.84%
+2.53%
+c. Loans & advances (Loans & advances given to related 
+parties / Total loans & advances)
+99.25%
+99.61%
+d. Investments (Investments in related parties / Total 
+Investments made)
+99.87%
+99.87%
+	
+** B2B Sales only. Major customers are: Tata Motors, Mahindra, Ashok Leyland and Daimler.
+Leadership Indicators
+1. 
+Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? (Yes/
+No) If yes, provide details of the same. 
+	
+Yes. Autoline’s approach to preventing conflicts of interest involves establishing clear statements and policies for 
+managing them and raising awareness about potential conflicts. Due to the detrimental effects these conflicts can 
+have on the organization, it is essential for each Board Member to recognize and address any potential conflicts.
+Corporate Overview  >  01-21
+Statutory Reports  >  22-130
+Financial Statements  >  132-309
+Autoline Industries Limited 
+113
+PRINCIPLE 2: BUSINESSES SHOULD PROVIDE GOODS AND SERVICES IN A MANNER THAT IS SUSTAINABLE 
+AND SAFE
+Essential Indicators
+1.
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental 
+and social impacts of product and processes to total R&D and capex investments made by the entity, respectively.
+Parameter
+FY 2023 – 2024
+FY 2022 - 2023
+Details of improvements in 
+environmental and social impacts
+R&D
+0
+0
+NA
+Capex
+0
+0
+NA
+2.	
+a.	
+Does the entity have procedures in place for sustainable sourcing?
+	
+The entity has a sustainable sourcing procedure for procuring raw materials while bought-out purchases have 
+no such policy defined.
+ 
+b. 
+If yes, what percentage of inputs were sourced sustainably?
+	
+100% of the raw materials procured by the entity are sourced sustainably directly or through contractors from 4 
+major suppliers: Posco, Tata Steel, JSW and AM/NS.
+3.  
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, 
+for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+In one of the plants at Autoline, plastic bins and steel trolley have been reused. An empty bin trolley returnable invoice 
+has been devised to collect products from our customers for re-use.
+4. 
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether the 
+waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control 
+Boards? If not, provide steps taken to address the same.
+No.
+Leadership Indicators
+1. 
+Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing 
+industry) or for its services (for service industry)? If yes, provide details in the following format?
+No.
+2.  
+If there are any significant social or environmental concerns and/or risks arising from production or disposal of your 
+products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, briefly 
+describe the same along-with action taken to mitigate the same.
+Not applicable
+3.
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, 
+and safely disposed, as per the following format:  
+FY 2023-24
+FY 2022-23
+Re-used 
+(tons)
+Re-cycled 
+(tons)
+Safely 
+disposed 
+(tons)
+Re-used 
+(tons)
+Re-cycled 
+(tons)
+Safely 
+disposed 
+(tons)
+Plastics (including packaging)
+80.64
+0
+0
+0
+0
+0
+E-waste
+0
+0
+0
+0
+0
+0
+Hazardous waste
+0
+0
+0
+0
+0
+0
+Other waste (Steel trolleys)
+410.4
+0
+0
+0
+0
+0
+Other waste (Cotton boxes)
+0
+0
+8.18
+0
+0
+0
+Annual Report 2023-24
+114
+PRINCIPLE 3: BUSINESSES SHOULD RESPECT AND PROMOTE THE WELL-BEING OF ALL EMPLOYEES, INCLUDING 
+THOSE IN THEIR VALUE CHAINS
+Essential Indicators
+1.
+a.	
+Details of measures for the well-being of employees:  
+Category
+% of employees covered by
+Total Health insurance
+Accident insurance Maternity benefits
+Paternity Benefits
+Day Care facilities
+Number 
+(B)
+% (B / A)
+Number 
+(C)
+% (C / A)
+Number 
+(D)
+% (D / A)
+Number 
+(E)
+% (E / A)
+Number 
+(F)
+% (F / A)
+Permanent employees
+Male
+267
+239
+90
+261
+97%
+0
+0%
+0
+0%
+0
+0%
+Female
+5
+5
+100
+0
+0%
+4
+100%
+0
+0%
+0
+0%
+Total
+272
+244
+89
+261
+96%
+4
+1%
+0
+0%
+0
+0%
+Other than permanent employees
+Male
+0
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+Female
+0
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+Total
+0
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+1.
+b.	
+Details of measures for the well-being of workers:  
+Category
+% of Workers covered by
+Total Health insurance
+Accident insurance Maternity benefits
+Paternity Benefits
+Day Care facilities
+Number 
+(B)
+% (B / A)
+Number 
+(C)
+% (C / A)
+Number 
+(D)
+% (D / A)
+Number 
+(E)
+% (E / A)
+Number 
+(F)
+% (F / A)
+Permanent employees
+Male
+594
+274
+46%
+594
+100%
+0
+0%
+0
+0%
+0
+0%
+Female
+0
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+Total
+594
+274
+46%
+594
+100%
+0
+0%
+0
+0%
+0
+0%
+Other than permanent employees
+Male
+966
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+Female
+31
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+Total
+997
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+1.
+c.	
+Spending on measures towards well-being of employees and workers (including permanent and other than 
+permanent) in the following format. 
+Parameter
+FY 2023 - 2024 FY 2022 - 2023
+Cost incurred on well-being measures as a % of total revenue of the Company
+0.5%
+0.5%
+2.
+Details of retirement benefits, for Current FY and Previous Financial Year. 
+Benefits
+FY 2023 – 2024
+FY 2022 - 2023
+No. of 
+employees 
+covered as a % 
+of total
+employees
+No. of workers
+covered
+as a % of total
+workers
+Deducted and
+deposited
+with the
+authority
+(Y/N/N.A.)
+No. of 
+employees 
+covered as a % 
+of total
+Employees
+No. of workers
+covered as a % 
+of total
+workers
+Deducted and
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+PF
+100%
+100%
+Y
+100%
+100%
+Y
+Gratuity
+100%
+37%
+Y
+100%
+32%
+Y
+ESI
+10%
+89%
+Y
+Y
+Others
+NA
+Corporate Overview  >  01-21
+Statutory Reports  >  22-130
+Financial Statements  >  132-309
+Autoline Industries Limited 
+115
+3. 
+Accessibility of workplaces
+	
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the requirements 
+of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard.
+	
+Autoline offices and warehouses are currently not accessible for employees with disabilities. A dedicated policy and 
+strategic plan is being developed to ensure inclusive facilities.
+4. 
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide 
+a web-link to the policy.
+	
+Yes, Autoline has implemented an equal opportunity policy dedicated to offering equal employment opportunities 
+to all employees. This policy guarantees zero discrimination based on age, disability, gender, marital status, race, 
+religion, or any other criteria.
+5.
+Return to work and Retention rates of permanent employees and workers that took parental leave. 
+Gender
+Permanent employees
+Permanent workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+NA
+NA
+NA
+NA
+Female
+100%
+50%
+NA
+NA
+Total
+100%
+50%
+NA
+NA
+6.
+Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+worker? If yes, give details of the mechanism in brief.
+Category
+Yes/No
+(If Yes, then give details of the mechanism in brief)
+Permanent Workers
+The organization has implemented a policy to ensure that employee grievances are 
+addressed on time. The HR team actively monitors and follows up on the same. This 
+proactive approach maintains employee satisfaction and trust, reduces financial 
+stress, and fosters a positive work environment.
+Other than Permanent Workers
+Permanent Employees
+Other than Permanent 
+Employees
+7.
+Membership of employees and worker in association(s) or Unions recognized by the listed entity: 
+Category 
+FY 2023 – 2024
+FY 2022 – 2023
+Total
+employees /
+workers in 
+respective 
+category (A)
+No. of 
+employee / 
+workers in 
+respective
+category, who 
+are part of 
+association(s) 
+or Union (B)
+% (B / A)
+Total 
+employees 
+/ workers in 
+respective 
+category (C)
+No. of 
+employees 
+/ workers in 
+respective 
+category, who 
+are part of
+association(s) 
+or Union (D)
+% (D/C)
+Total  
+Permanent Employees
+272
+39
+14%
+213
+0
+0%
+- Male
+267
+39
+15%
+208
+0
+0%
+- Female
+5
+0
+0%
+5
+0
+0%
+Total  
+Permanent Workers
+594
+71
+12%
+541
+110
+20%
+- Male
+594
+71
+12%
+541
+110
+20%
+- Female
+0
+0
+0%
+0
+0
+0%
+Annual Report 2023-24
+116
+8.
+Details of training given to employees and workers: 
+Category
+FY 2023 – 2024
+FY 2022 - 2023
+Total
+(A)
+On Health and 
+safety measures
+On Skill upgradation
+Total
+(D)
+On Health and safety 
+measures
+On Skill upgradation
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+No. (E)
+% (E / D)
+No. (F)
+% (F / D)
+Employees
+Male
+267
+267
+100%
+267
+100%
+208
+208
+100%
+208
+100%
+Female
+5
+5
+100%
+5
+100%
+5
+5
+100%
+5
+100%
+Total
+272
+272
+100%
+272
+100%
+213
+213
+100%
+213
+100%
+Workers
+Male
+1560
+1560
+100%
+1560
+100%
+1664
+1664
+100%
+1664
+100%
+Female
+31
+31
+100%
+31
+100%
+22
+22
+100%
+22
+100%
+Total
+1591
+1591
+100%
+1591
+100%
+1686
+1686
+100%
+1686
+100%
+9.
+Details of performance and career development reviews of employees and worker:
+Category 
+FY 2023 – 2024
+FY 2022 - 2023
+Total (A)
+No. (B)
+% (B / A)
+Total (C)
+No. (D)
+% (D / C)
+Employees
+Male
+267
+267
+100%
+208
+208
+100%
+Female
+5
+5
+100%
+5
+5
+100%
+Total
+272
+272
+100%
+213
+213
+100%
+Workers
+Male
+1560
+594
+38%
+1664
+541
+33%
+Female
+31
+0
+0%
+22
+0
+0%
+Total
+1591
+594
+37%
+1686
+541
+32%
+10.  Health and safety management system:
+a. 	
+Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No).
+	
+Yes
+	
+If yes, the coverage of such a system?
+	
+All permanent and non-permanent employees and workers.
+b.	
+ What are the processes used to identify work-related hazards and assess risks on a routine and non-routine 
+basis by the entity?
+	
+Daily site-wise internal inspection by the safety officer.
+c. 	
+Whether you have processes for workers to report the work-related hazards and to remove themselves from 
+such risks. (Y/N)
+	
+Yes
+d. 	
+Do the employees/ workers of the entity have access to non-occupational medical and healthcare 
+services? (Yes/ No)
+	
+Yes
+Corporate Overview  >  01-21
+Statutory Reports  >  22-130
+Financial Statements  >  132-309
+Autoline Industries Limited 
+117
+11.
+Details of safety related incidents, in the following format: 
+Safety Incident / Number
+Category*
+FY 2023 - 2024 FY 2022 - 2023
+Lost Time Injury Frequency Rate (LTIFR)  
+(per one million-person hours worked)
+Employees
+5.2
+4.84
+Workers
+Total recordable work-related injuries**
+Employees
+98
+81
+Workers
+No. of fatalities 
+Employees
+0
+0
+Workers
+0
+0
+High consequence work-related injury or ill-health  
+(excluding fatalities)
+Employees
+19
+18
+Workers
+12.  Describe the measures taken by the entity to ensure a safe and healthy workplace.
+	
+To ensure a safe and healthy work environment, the entity conducts daily site-wise internal safety checks. 
+This proactive measure helps identify and mitigate potential hazards, promoting employee well-being and 
+operational efficiency.
+13.
+Number of Complaints on the following made by employees and workers:
+Parameter
+FY 2023 – 2024
+FY 2022 - 2023
+Filed during 
+the year
+Pending
+resolution at 
+the end of year
+Remarks
+Filed 
+during 
+the year
+Pending
+resolution at 
+the end of year
+Remarks
+Working Conditions
+0
+0
+-
+0
+0
+-
+Health & Safety
+0
+0
+-
+0
+0
+-
+14.
+Assessments for the year: 
+Parameter
+% of your plants and offices that were assessed  
+(by entity or statutory authorities or third parties)
+Health and Safety Practices
+100%*
+Working Conditions
+	
+*Every month, an internal safety audit is undertaken in every plant of Autoline
+15. Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant 
+risks / concerns arising from assessments of health & safety practices and working conditions.
+Not applicable
+Leadership Indicators
+1. 
+Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees (Y/N) -
+	
+Yes
+	
+ Workers (Y/N) – Yes
+2. 
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by the 
+value chain partners.
+	
+The finance team ensures on time payment of statutory dues.
+Annual Report 2023-24
+118
+3. 
+Provide the number of employees/workers having suffered high consequence work-related injury / ill-health / fatalities 
+(as reported in Q11 of Essential Indicators above), who have been rehabilitated and placed in suitable employment or 
+whose family members have been placed in suitable employment:
+Category
+Total no. of affected employees/ 
+workers
+No. of employees/workers that are 
+rehabilitated and placed in suitable 
+employment or whose family 
+members have been placed in suitable 
+employment
+FY 2023 - 2024 FY 2022 – 2023
+FY 2023 - 2024 FY 2022 - 2023
+Employees
+19
+18
+Nil
+Workers
+4. 	
+Does the entity provide transition assistance programs to facilitate continued employability and the management of 
+career endings resulting from retirement or termination of employment? (Yes/No) 
+Yes, the Company extends opportunities to employees who have retired to serve as consultants for the Company.
+5.
+Details of performance and career development reviews of employees and worker:
+Parameter
+% of value chain partners (by value of business done with such partners)  
+that were assessed
+Health and safety practices
+0%
+Working Conditions
+0%
+6. 
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from 
+assessments of health and safety practices and working conditions of value chain partners.
+Not applicable
+PRINCIPLE 4: BUSINESSES SHOULD RESPECT THE INTERESTS OF AND BE RESPONSIVE TO ALL ITS STAKEHOLDERS
+Essential Indicators
+1.  
+Describe the processes for identifying key stakeholder groups of the entity. 
+The key stakeholders for Autoline are identified based on the role they play in the decision-making of the Company. 
+The External stakeholders like Customers, Vendors and Shareholders influence the decisions of the Company 
+indirectly. Stakeholders that are internal to the Company either have a direct influence on the Company’s output or are 
+directly involved in the decision making. The Internal stakeholders of Autoline include Top Management, Senior and 
+Middle level management, and Employees and Workers.
+2.
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder 
+group.  
+Stakeholder Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/No)
+Channels of communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, 
+Notice Board, Website), 
+Other
+Frequency of 
+engagement 
+(Annually/ Half 
+yearly/ Quarterly 
+/ others – please 
+specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Investors (other than 
+shareholders)
+No
+1. Annual Report
+2. Company Website
+3. Regulatory Filings
+As per
+requirement
+To keep Investors and
+shareholders updated
+about the Company’s
+progress and macro
+developments
+Shareholders
+No
+1. Annual Report
+2. Company Website
+3. Statutory & voluntary 
+disclosures
+Annually and 
+Quarterly
+Corporate Overview  >  01-21
+Statutory Reports  >  22-130
+Financial Statements  >  132-309
+Autoline Industries Limited 
+119
+Stakeholder Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/No)
+Channels of communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, 
+Notice Board, Website), 
+Other
+Frequency of 
+engagement 
+(Annually/ Half 
+yearly/ Quarterly 
+/ others – please 
+specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Customers
+No
+1. Customer satisfaction 
+surveys
+2. Customer Meetings
+3. Email
+Regularly
+To evaluate our
+performance, identify
+leading and lagging
+indicators and
+formulate plans to offer
+best in class service to
+our customers
+Suppliers
+No
+1. Supplier Evaluation 
+Process
+2. Email
+3. Procurement Discussions
+As per 
+requirement
+1. Performance Evaluation
+2. Compliance Assurance
+Employees
+No
+1. Emails
+2. Trainings
+3. Policies
+4. Website
+5. Intranet
+Regularly
+1. Identification of 
+Employee needs
+2. Sourcing of employees 
+challenges
+3. To keep our employees 
+informed about our goals 
+and progress
+Workers
+Yes
+1. Trainings
+2. Policies
+Regularly
+1. Identification of needs of 
+the workers
+2. Sourcing of workers’ 
+challenges
+3. To keep our workers 
+informed about the 
+safety requirements and 
+ensure maximum safety 
+at the shop floor
+Leadership Indicators
+1.  
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social 
+topics or if consultation is delegated, how is feedback from such consultations provided to the Board.  
+Our goal is to establish open and effective communication channels that foster meaningful dialogue with stakeholders 
+and inform the Board. Currently, the Board is actively discussing economic, environmental, and social matters. We are 
+refining this process to ensure it effectively addresses the needs of all involved parties. Our ultimate aim is to create a 
+robust framework that supports comprehensive Board engagement on these crucial issues.
+2. 
+Whether stakeholder consultation is used to support the identification and management of environmental, and social 
+topics (Yes / No). If so, provide details of instances as to how the inputs received from stakeholders on these topics 
+were incorporated into policies and activities of the entity.
+Stakeholder input is essential for recognizing and addressing environmental and social concerns. Their perspectives 
+are instrumental in determining and setting goals for Autoline’s ESG initiatives. In line with this, we undertook an 
+extensive materiality assessment this year, which included detailed interactions with internal as well as external 
+stakeholders. We engaged with a wide range of stakeholders, such as employees, workers, customers, vendors, 
+shareholders, and the Board, to understand the areas of greatest importance to them and our organization, from an 
+environmental and social perspective.
+Annual Report 2023-24
+120
+3. 
+Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ marginalized 
+stakeholder groups.
+	
+Workers have been identified as a vulnerable / marginalized group. The engagement with workers allowed us to gain 
+insights to improve safety on the shop floor. On these lines, Autoline will revamp the safety policies, and introduce a 
+new code of conduct with zero tolerance towards injuries and work accidents.
+PRINCIPLE 5: BUSINESSES SHOULD RESPECT AND PROMOTE HUMAN RIGHTS
+Essential Indicators
+1.
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in 
+the following format:  
+Category
+FY 2023 – 2024
+FY 2022 - 2023
+Total (A)
+No. of employees / 
+workers covered (B)
+% (B/A)
+Total (C)
+No. of employees / 
+workers covered (D)
+% (D/C)
+Employees
+Permanent
+272
+272
+100%
+213
+213
+100%
+Other than permanent
+0
+0
+0%
+0
+0
+0%
+Total Employees
+272
+272
+100%
+213
+213
+100%
+Workers
+Permanent
+594
+594
+100%
+541
+541
+100%
+Other than permanent
+997
+997
+100%
+1145
+1145
+100%
+Total Workers
+1,591
+1,588
+100%
+1686
+1686
+100%
+2.
+Details of minimum wages paid to employees and workers, in the following format: 
+ 
+Category
+FY 2023 – 2024
+FY 2022 - 2023
+Total 
+(A)
+Equal to Minimum 
+Wage
+More than Minimum 
+wage
+Total 
+(D)
+Equal to Minimum 
+Wage
+More than 
+Minimum wage
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+No. (E)
+% (E / D)
+No. (F)
+% (F / D)
+Employees
+Permanent
+272
+0
+0%
+272
+100%
+213
+0
+0%
+213
+100%
+Male
+267
+0
+0%
+267
+100%
+208
+0
+0%
+208
+100%
+Female
+5
+0
+0%
+5
+100%
+5
+0
+0%
+5
+100%
+Other than Permanent
+NA
+Male
+Female
+ 
+Category
+FY 2023 – 2024
+FY 2022 - 2023
+Total 
+(A)
+Equal to Minimum 
+Wage
+More than Minimum 
+wage
+Total 
+(D)
+Equal to Minimum 
+Wage
+More than 
+Minimum wage
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+No. (E)
+% (E / D)
+No. (F)
+% (F / D)
+Workers
+Permanent
+594
+0
+0%
+594
+100%
+541
+0
+0%
+541
+100%
+Male
+594
+0
+0%
+594
+100%
+541
+0
+0%
+541
+100%
+Female
+0
+0
+0%
+0
+0%
+0
+0
+0%
+0
+100%
+Other than Permanent
+997
+0
+0%
+997
+100%
+1145
+0
+0%
+1145
+100%
+Male 
+966
+0
+0%
+966
+100%
+1123
+0
+0%
+1123
+100%
+Female
+31
+0
+0%
+31
+100%
+22
+0
+0%
+22
+100%
+Corporate Overview  >  01-21
+Statutory Reports  >  22-130
+Financial Statements  >  132-309
+Autoline Industries Limited 
+121
+3.
+Details of remuneration/salary/wages 
+	
+a.	
+Median remuneration / wages:
+Category
+Male
+Female
+Number
+Median 
+remuneration/ salary/ 
+wages of respective 
+category
+Number
+Median 
+remuneration/ 
+salary/ wages of
+respective category
+Board of Directors (BoD)
+2
+42,00,000
+0
+NA
+Key Managerial Personnel
+2
+32,80,009
+0
+NA
+Employees other than BoD and 
+KMP
+267
+5
+Workers
+594
+0
+	
+*Only Wholetime Directors and Permanent employees and workers are taken into consideration
+b. 	
+Gross wages paid to females as % of total wages paid by the entity, in the following format:
+Category
+FY 2023 - 2024 FY 2022 - 2023
+Gross wages paid to females as % of total wages.
+1%
+1%
+	
+*Only Wholetime Directors are taken into consideration
+4. 
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused 
+or contributed to by the business?
+Yes, the HR Team is responsible for addressing any issues or impacts relating to human rights caused by the business.
+5.  
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+A Stakeholder relationship committee has been established to address the grievances related to human rights issues.
+6.
+Number of Complaints on the following made by employees and workers:
+Category
+FY 2023 – 2024
+FY 2022 - 2023
+Filed 
+during 
+the year
+Pending
+resolution at 
+the end of
+year
+Remarks
+Filed 
+during 
+the year
+Pending
+resolution at 
+the end of year
+Remarks
+Sexual Harassment
+0
+0
+-
+0
+0
+-
+Discrimination at 
+workplace
+0
+0
+-
+0
+0
+-
+Child Labour
+0
+0
+-
+0
+0
+-
+Forced Labour / 
+Involuntary Labour
+0
+0
+-
+0
+0
+-
+Wages
+19
+0 The issues have 
+been resolved by 
+prompt followup 
+from the HR 
+team
+11
+0 The issues have 
+been resolved 
+by prompt 
+followup from 
+the HR team
+Other human rights related 
+issues
+0
+0
+-
+0
+0
+-
+Annual Report 2023-24
+122
+7.
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) 
+Act, 2013, in the following format: 
+Particulars
+FY 2023 - 2024 FY 2022 - 2023
+Total Complaints reported under Sexual Harassment on of Women at Workplace 
+(Prevention, Prohibition  
+and Redressal) Act, 2013 (POSH)  
+0
+0
+Complaints on POSH as a % of female employees/ workers 
+0%
+0%
+Complaints on POSH upheld 
+Nil
+Nil
+8. 
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	
+Yes
+9. 
+Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+	
+No
+10.
+Assessments for the year: 
+Particulars
+% of your plants and offices that were assessed (by entity or statutory 
+authorities or third parties)
+Child labour
+100%
+Forced/involuntary labour
+100%
+Sexual harassment
+100%
+Discrimination at workplace
+100%
+Wages
+100%
+Others – please specify
+-
+11. Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 10 above. 
+	
+No such cases were identified as a result of the assessments.
+Leadership Indicators
+1. 
+Details of a business process being modified / introduced as a result of addressing human rights grievances/
+complaints.
+	
+Not applicable
+2.  
+Details of the scope and coverage of any Human rights due-diligence conducted.
+	
+Not applicable
+3. 
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of 
+Persons with Disabilities Act, 2016?
+	
+Autoline offices and warehouses are currently not accessible for differently-abled visitors. A dedicated policy and 
+strategic plan is being developed to ensure inclusive facilities.
+4. 
+Details on assessment of value chain partners:
+	
+Not applicable
+5. 
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 4 above.
+	
+Not applicable
+Corporate Overview  >  01-21
+Statutory Reports  >  22-130
+Financial Statements  >  132-309
+Autoline Industries Limited 
+123
+PRINCIPLE 6: BUSINESSES SHOULD RESPECT AND MAKE EFFORTS TO PROTECT AND RESTORE THE ENVIRONMENT
+Essential Indicators
+1.
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format: 
+ 
+Parameter 
+Units
+FY 2023 - 2024 FY 2022 - 2023
+From non - renewable sources
+Total electricity consumption (A) 
+GJ
+68,483.6
+65035.7
+Total fuel consumption (B)
+GJ
+8,281.9
+7,791.5
+Energy consumption through other sources (C)
+GJ
+-
+-
+Total energy consumed (A+B+C)
+GJ
+76764.8
+72,827.2
+Energy intensity per rupee of turnover (Total energy consumed / 
+Revenue from operations)
+GJ/ INR
+0.0000117
+0.0000103
+Energy intensity per rupee of turnover adjusted for Purchasing 
+Power Parity (PPP) 
+(Total energy consumed / Revenue from operations adjusted for 
+PPP)
+NA
+NA
+NA
+Energy intensity in terms of physical output
+Energy intensity (optional) – the relevant metric may be selected by 
+the entity
+-
+-
+-
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency
+	
+None
+2.  
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve 
+and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme 
+have been achieved. In case targets have not been achieved, provide the remedial action taken, if any.
+	
+No.
+3.
+Provide details of the following disclosures related to water, in the following format: 
+ 
+Parameter 
+Unit
+FY 2023 – 2024
+FY 2022 - 2023
+Water withdrawal by source (in kilolitres)
+(i) 	
+Surface water
+kL
+0
+(ii) 	
+Groundwater
+kL
+4,500
+4,500
+(iii) 	 Third party water
+kL
+31,113.4
+22,448.1
+(iv) 	 Seawater / desalinated water
+kL
+0
+0
+(v) 	
+Others 
+kL
+0
+0
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+kL
+35,613.4
+26,948.1
+Total volume of water consumption (in kilolitres)
+kL
+35,613.4
+26,948.1
+Water intensity per rupee of turnover 
+(Total water consumption / Revenue from operations)
+kL/ INR
+0.0000054
+0.0000041
+Water intensity per rupee of turnover adjusted for Purchasing 
+Power Parity (PPP) 
+(Total water consumption / Revenue from operations adjusted 
+for PPP)
+NA
+NA
+NA
+Water intensity in terms of physical output
+Water intensity (optional) – the relevant metric may be selected 
+by the entity
+-
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency
+None
+Annual Report 2023-24
+124
+4.
+Provide the following details related to water discharged: 
+ 
+Parameter 
+FY 2023 - 2024
+FY 2022 - 2023
+Water discharge by destination and level of treatment (in kilolitres)
+(i)	 To Surface water
+Nil
+Nil
+	
+- No treatment
+Nil
+Nil
+	
+- With treatment – please specify level of treatment
+Nil
+Nil
+(ii) 	To Groundwater
+Nil
+Nil
+	
+- No treatment
+Nil
+Nil
+	
+- With treatment – please specify level of treatment
+Nil
+Nil
+(iii) 	
+To Seawater
+Nil
+Nil
+	
+- No treatment
+Nil
+Nil
+	
+- With treatment – please specify level of treatment
+Nil
+Nil
+(iv) Sent to third parties 
+Nil
+Nil
+	
+- No treatment
+Nil
+Nil
+	
+- With treatment – please specify level of treatment
+Nil
+Nil
+(v) Others
+Nil
+Nil
+	
+- No treatment
+Nil
+Nil
+	
+- With treatment – please specify level of treatment
+Nil
+Nil
+Total water discharged (in kilolitres) 
+Nil
+Nil
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+None
+5. 
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation.
+Not applicable
+6.  
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+No external assessment was done for the DG sets used at the office and plant locations.
+7.
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+ 
+Parameter 
+Unit
+FY 2023 - 2024
+FY 2022 - 2023
+Total Scope 1 emissions 
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, 
+NF3, if available)
+t CO2e
+668.14
+635.4
+Total Scope 2 emissions 
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, 
+NF3, if available)
+t CO2e
+13506.5
+12826.5
+Total Scope 1 and Scope 2 emission intensity per rupee of 
+turnover 
+(Total Scope 1 and Scope 2 GHG emissions / Revenue from 
+operations)
+t CO2e/ INR
+0.0000022
+0.0000021
+Total Scope 1 and Scope 2 emission intensity per rupee of 
+turnover adjusted for Purchasing Power Parity (PPP) 
+(Total Scope 1 and Scope 2 GHG emissions / Revenue from 
+operations adjusted for PPP)
+NA
+NA
+NA
+Total Scope 1 and Scope 2 emission intensity in terms of 
+physical output
+Total Scope 1 and Scope 2 emission intensity (optional) – 
+the relevant metric may be selected by the entity
+-
+-
+-
+Corporate Overview  >  01-21
+Statutory Reports  >  22-130
+Financial Statements  >  132-309
+Autoline Industries Limited 
+125
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency
+None
+8. 
+Does the entity have any project related to reducing Greenhouse Gas emission? If Yes, then provide details.
+No
+9.
+ Provide details related to waste management by the entity, in the following format:
+ 
+Parameter
+Unit
+FY 2023 - 2024
+FY 2022 - 2023
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+tons
+9.2
+6.8
+E-waste (B)
+tons
+11.28
+0
+Bio-medical waste (C)
+tons
+0
+0
+Construction and demolition waste (D)
+tons
+0
+0
+Battery waste (E)
+tons
+3.8
+0
+Radioactive waste (F)
+tons
+0
+0
+Other Hazardous waste. 
+(Lubricant Plastic Drum) (G)
+tons
+2.3
+1
+Other Non-hazardous waste generated (H). (Steel Scrap, 
+Wooden Scrap, Packing Box)
+tons
+16,338
+18,651
+Total (A + B + C + D + E + F + G  + H)
+tons
+16,364.6
+18,658.8
+Waste intensity per rupee of turnover
+(Total waste generated / Revenue from operations)
+tons/ INR
+0.0000029
+0.0000028
+Waste intensity per rupee of turnover adjusted 
+for Purchasing Power Parity (PPP)
+(Total waste generated / Revenue from operations adjusted 
+for PPP)
+NA
+NA
+NA
+Waste intensity in terms of physical output
+Waste intensity (optional) – the relevant metric may be 
+selected by the entity
+-
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+None
+10. Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by 
+your Company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices 
+adopted to manage such wastes.
+Autoline manages its waste practices through third-party sale of scrap waste to authorized vendors. All of the waste 
+generated is non-hazardous in nature.
+11. If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental 
+approvals / clearances are required, please specify details in the following format:
+Not applicable
+12. Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the 
+current financial year:
+Not applicable
+Annual Report 2023-24
+126
+13. Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India, such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and 
+rules thereunder (Y/N). If not, provide details of all such non-compliances, in the following format:
+Yes.
+Leadership Indicators
+1.  
+Water withdrawal, consumption and discharge in areas of water stress (in kilolitres):
+Not applicable as there are no sites in water stress areas
+2.  
+Please provide details of total Scope 3 emissions & its intensity, in the following format:
+Parameter 
+Unit
+FY 2023 - 2024 FY 2022 - 2023
+Total Scope 3 emissions 
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, 
+NF3, if available)
+t CO2e per year
+22,699
+13,940.2
+Total Scope 3 emissions per rupee of turnover
+t CO2e/INR
+0.0000035
+0.0000021
+Total Scope 3 emission intensity (optional) – the relevant 
+metric may be selected by the entity
+-
+-
+-
+	
+*For FY2023-24, 4 categories of Scope 3 have been taken into consideration. However, for FY2022-23, only 3 categories was taken 
+into consideration
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+None
+3.  
+With respect to the ecologically sensitive areas reported at Question 11 of Essential Indicators above, provide details 
+of significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and remediation 
+activities.
+Not applicable
+4.  
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource 
+efficiency, or reduce impact due to emissions / effluent discharge / waste generated, please provide details of the 
+same as well as outcome of such initiatives, as per the following format:
+No
+5.  
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link.
+Yes, the IT Team of Autoline has established a formal disaster recovery and backup policy which is designed and 
+implemented to ensure that Autoline servers and database have a regular backup policy which ensures business 
+continuity thereby eliminating any disruptions
+6.  
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation 
+or adaptation measures have been taken by the entity in this regard.
+No assessment has been undertaken for value chain partners
+7.  
+Percentage of value chain partners (by value of business done with such partners) that were assessed for environmental 
+impacts.
+No assessment has been undertaken for value chain partners
+Corporate Overview  >  01-21
+Statutory Reports  >  22-130
+Financial Statements  >  132-309
+Autoline Industries Limited 
+127
+PRINCIPLE 7: BUSINESSES, WHEN ENGAGING IN INFLUENCING PUBLIC AND REGULATORY POLICY, SHOULD DO 
+SO IN A MANNER THAT IS RESPONSIBLE AND TRANSPARENT
+Essential Indicators
+1.  
+a. 
+Number of affiliations with trade and industry chambers/ associations.
+       	 	
+Autoline Industries Ltd. has affiliations with three industry associations
+ 
+b. 
+List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) 
+the entity is a member of/ affiliated to.
+S.No. Name of the trade and industry chambers/ 
+associations
+Reach of trade and industry chambers/ 
+associations (State/National)
+1
+Chakan Industrial Association
+State
+2
+Federation of Chakan Industries
+State
+3
+Sanand Industry Association
+State
+2.  
+Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the entity, 
+based on adverse orders from regulatory authorities.
+	
+Not applicable
+Leadership Indicators
+1.  
+Details of public policy positions advocated by the entity:
+	
+Not applicable
+PRINCIPLE 8: BUSINESSES SHOULD PROMOTE INCLUSIVE GROWTH AND EQUITABLE DEVELOPMENT
+Essential Indicators
+1.  
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the 
+current financial year.
+	
+Not applicable
+2.  
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by 
+your entity, in the following format:
+	
+Not applicable
+3. 
+Describe the mechanisms to receive and redress grievances of the community.     
+  	
+The organization is currently developing a comprehensive policy to effectively address community grievances.
+4.
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+ 
+Category
+FY 2023 - 2024
+FY 2022 - 2023
+Directly sourced from MSMEs/ small producers  
+69
+75
+Directly from within India
+100%
+100%
+Annual Report 2023-24
+128
+5.
+Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers 
+employed on a permanent or non-permanent / on contract basis) in the following locations, as % of total wage cost  
+Location
+FY 2023 – 2024
+FY 2022 – 2023
+Rural
+73%
+78%
+Semi-urban
+12%
+10%
+Urban
+8%
+6%
+Metropolitan
+7%
+5%
+Leadership Indicators
+1. 
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments 
+(Reference: Question 1 of Essential Indicators above):
+Not applicable
+2. 
+Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as 
+identified by government bodies:
+Not applicable
+3.  
+(a) Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising 
+marginalized /vulnerable groups? (Yes/No)
+	
+No
+4. 
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the 
+current financial year), based on traditional knowledge:
+Not applicable
+5. 
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes 
+wherein usage of traditional knowledge is involved.
+Not applicable
+6. 
+Details of beneficiaries of CSR Projects:
+Not applicable
+PRINCIPLE 9: BUSINESSES SHOULD ENGAGE WITH AND PROVIDE VALUE TO THEIR CONSUMERS IN A 
+RESPONSIBLE MANNER
+Essential Indicators
+1. 
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+Any customer complaints are addressed through our customer portal which is used to manage and resolve 
+customer complaints. Additionally, we also have an active communication channel through emails which serves 
+as a point of contact for customers to express their concerns or share their experiences regarding the Company’s 
+products or services.
+2. 
+Turnover of products and/ services as a percentage of turnover from all products/service that carry information about 
+Environmental and social parameters relevant to the product, Safe and responsible usage, Recycling and / or safe 
+disposal:
+	
+Not applicable
+Corporate Overview  >  01-21
+Statutory Reports  >  22-130
+Financial Statements  >  132-309
+Autoline Industries Limited 
+129
+3.
+Number of consumer complaints in respect of the following:
+ 
+Category
+FY 2023 – 2024
+FY 2022 - 2023
+Received 
+during the 
+year
+Pending
+resolution
+at end of year
+Remarks
+Received
+during the 
+year
+Pending
+resolution 
+at end of year
+Remarks
+Data privacy
+Nil
+Nil
+Nil
+Nil
+Advertising
+Nil
+Nil
+Nil
+Nil
+Cyber-security
+Nil
+Nil
+Nil
+Nil
+Delivery of essential Services
+Nil
+Nil
+Nil
+Nil
+Restrictive Trade Practices
+Nil
+Nil
+Nil
+Nil
+Unfair Trade Practices
+Nil
+Nil
+Nil
+Nil
+Other
+713
+Nil
+884
+Nil
+4.  
+Details of instances of product recalls on account of safety issues:
+Nil
+5.  
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, 
+provide a web-link of the policy.
+Yes. Autoline has established and implemented a robust framework of policies to mitigate cyber security and 
+data privacy risks. These policies encompass a comprehensive approach to safeguarding confidential and 
+sensitive information.
+6.  
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential 
+services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action 
+taken by regulatory authorities on safety of products / services.
+Not applicable
+7. 
+Provide the following information relating to data breaches:
+a. Number of instances of data breaches - Nil
+b. Percentage of data breaches involving personally identifiable information of customers – Nil
+c. Impact, if any, of the data breaches - Not applicable
+Leadership Indicators
+1. 
+Channels / platforms where information on products and services of the entity can be accessed (provide web link, if 
+available).
+Products-https://www.autolineind.com/products-overview/
+Services - https://www.autolineind.com/services-overview/
+2. 
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.
+Autoline Industries Limited provides products and services to customers as a B2B tier 1 supplier in accordance with 
+customer specifications and compliance to any relevant regulations.
+3.  
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.
+The Company has implemented an email communication protocol to promptly notify consumers of any potential 
+disruptions or discontinuations to essential services.
+4. 
+Does the entity display product information on the product over and above what is mandated as per local laws? (Yes/
+No/Not Applicable) If yes, provide details in brief. 
+Did your entity carry out any survey with regard to consumer satisfaction relating to the major products / services of 
+the entity, significant locations of operation of the entity or the entity as a whole? (Yes/No)
+Product information is displayed as per IATF 16949 standard. In relation to customer satisfaction survey, the Company 
+conducts customer satisfaction surveys to enhance customer experience.
+Annual Report 2023-24
+130

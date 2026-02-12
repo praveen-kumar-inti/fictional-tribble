@@ -1,0 +1,4156 @@
+ INFRASTRUCTURE LTD. 
+Regd. Office: JSW Centre,
+           Bandra Kurla Complex, Bandra (East) 
+Mumbai – 400 051.
+Phone 
+: 022-42861000
+Fax 
+: 022-42863000
+CIN: L45200MH2006PLC161268 
+Website: www.jsw.in 
+Email id: infra.secretarial@jsw.in 
+July 05, 2024 
+To, 
+BSE Limited 
+Phiroze Jeejebhoy Towers 
+Dalal Street 
+Mumbai - 400 001 
+Scrip Code (BSE): 543994 
+National Stock Exchange of India Limited 
+“Exchange Plaza” 
+Bandra-Kurla Complex, Bandra (East) 
+Mumbai - 400051 
+Symbol: JSWINFRA 
+Sub:  Business Responsibility and Sustainability Report for the Financial Year 2023-24 
+Ref: Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 (‘Listing Regulations’) 
+Dear Sirs, 
+Pursuant to Regulation 34(2)(f) of the Listing Regulations, please find attached the Business Responsibility and 
+Sustainability Report for the Financial Year 2023-24, which also forms a part of the Integrated Annual Report for the 
+Financial Year 2023-24. 
+The above is for your information and record. 
+Thanking you,  
+Yours sincerely,  
+For JSW Infrastructure Limited 
+Gazal Qureshi 
+Company Secretary and Compliance Officer 
+Cc: 
+India International Exchange (IFSC) Limited 
+Unit No. 101, 1st Floor, Signature Building No. 13B, Road 1C 
+Zone 1, Gift SEZ, Gift City 
+Gandhinagar- 382355 
+Scrip code (India INX): 1100026 
+GAZAL 
+QURESHI
+Digitally signed by GAZAL QURESHI 
+DN: c=IN, o=PERSONAL, title=3419, 
+pseudonym=32285917a5674368b0184
+5e04da64df6, 
+2.5.4.20=87c68516c854b8c6ceb030bd0
+b9a469039e30286d297299c9518e7583
+4e128a6, postalCode=400056, 
+st=Maharashtra, 
+serialNumber=9030b7dad736e100b8fe
+8fbd276b5df059cc7a9df90af07a23c216
+a2c33733c1, cn=GAZAL QURESHI 
+Date: 2024.07.05 20:14:18 +05'30'
+SECTION A – GENERAL DISCLOSURES
+I.
+Details
+1.
+Corporate Identity Number (CIN) of the Listed Entity
+L45200MH2006PLC161268
+2.
+Name of the company
+JSW Infrastructure Limited
+3.
+Year of incorporation
+2006
+4.
+Registered office address
+JSW Centre, Bandra Kurla Complex, Bandra East, Mumbai 400051
+5.
+Corporate address
+JSW Centre, Bandra Kurla Complex, Bandra East, Mumbai 400051
+6.
+E-mail
+ir.infra@jsw.in
+7.
+Telephone
++91-2242861000
+8.
+Website
+www.jsw.in
+9.
+Financial year for which reporting is being done
+FY 2023-2024
+10.
+Name of the Stock Exchange(s) where shares are 
+listed
+BSE Limited
+National Stock Exchange of India Limited
+11.
+Paid-up Capital
+` 420,00,03,134
+12.
+Name and contact details of the person who may be 
+contacted in case of any queries on the BRSR Report
+Jayanta Roy, Sr. Vice President - Projects, Sustainability & Environment,  
+JSW Infrastructure Limited, JSW Centre, Bandra Kurla Complex, Bandra (East), 
+Mumbai – 400051, Maharashtra, India.
+D 22 4286 5006
+Email: jayanta.roy@jsw.in
+Vishesh Pachnanda, Associate Vice President – Investor Relations, JSW 
+Infrastructure Limited, JSW Centre, Bandra Kurla Complex, Bandra (East), 
+Mumbai – 400051, Maharashtra, India
+D 22 4286 5098
+Email: vishesh.pachnanda@jsw.in
+13.
+Reporting boundary
+Consolidated basis
+14.
+Name of assurance provider
+Bureau Veritas India Pvt. Ltd.
+15.
+Type of assurance obtained
+Reasonable Assurance
+II.	
+Products and Services
+16. Details of business activities (accounting for 90% of the turnover):
+S. No Description of Main Activity
+Description of Business Activity
+% of Turnover of the entity
+1
+Transport and Storage
+Services incidental to land water and air transportation
+100.00%
+17. Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. No. Product/Service
+NIC Code
+% of total Turnover contributed
+1
+Cargo Handling incidental to water transport
+501
+100.00%
+III.
+Operations
+18.	 Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of offices
+Total
+National
+9
+8
+17
+International
+1
+2
+3
+19.	 Markets served by the entity:
+a. 
+Number of locations
+Locations
+Number
+National (No. of States)
+5
+International (No. of Countries)
+1
+BUSINESS RESPONSIBILITY AND 
+SUSTAINABILITY REPORT
+187
+Corporate 
+Overview
+Statutory 
+Reports
+Financial
+Statements
+Integrated Report 2023-24
+	
+b. 	
+What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+	
+Not Applicable as JSW Infrastructure is a service provider involved in the handling of cargo and does not have any product 
+manufacturing facility.
+	
+c. 	
+A brief on types of customers
+	
+	
+JSW Infrastructure specializes in handling a diverse range of cargo, including dry bulk, break bulk, liquid bulk, gases, and containers. 
+Our cargo portfolio encompasses thermal coal, non-thermal coal, iron ore, sugar, urea, steel products, rock phosphate, molasses, 
+gypsum, barites, laterites, edible oil, LNG, LPG, and containers. The company’s anchor customers are entities within the JSW Group, 
+such as JSW Steel, JSW Energy, and JSW Cement. In addition to serving internal entities, JSW Infrastructure also caters to significant 
+third-party customers in diverse sectors.
+IV. 	 Employees
+20. 	 Details as at the end of Financial Year:
+	
+a.	
+Employees and workers (including differently abled):
+S.
+No.
+Particulars
+Total (A)
+Male
+ Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+EMPLOYEES
+1.
+Permanent (D)
+696
+667
+95.83%
+29
+4.17%
+2.
+Other than Permanent (E)
+0
+0
+0%
+0%
+0%
+3.
+Total employees (D + E)
+696
+667
+95.83%
+29
+4.17%
+WORKERS
+4.
+Permanent (F)
+0
+0
+0
+0
+0
+5.
+Other than Permanent (G)
+4971
+4899
+98.55%
+72
+1.45%
+6.
+Total workers (F + G)
+4971
+4899
+98.55%
+72
+1.45%
+	
+b.	
+Differently abled Employees and workers:
+S.
+No
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+DIFFERENTLY ABLED EMPLOYEES
+1.
+Permanent (D)
+1
+1
+100 %
+0
+0 %
+2.
+Other than Permanent (E)
+0
+0
+0 %
+0
+0 %
+3.
+Total differently abled employees (D + E)
+1
+1
+100%
+0
+0 %
+DIFFERENTLY ABLED WORKERS
+4.
+Permanent (F)
+0
+0
+0 %
+0
+0 %
+5.
+Other than permanent (G)
+0
+0
+0 %
+0
+0 %
+6.
+Total differently abled workers (F + G)
+0
+0
+0 %
+0
+0 %
+21.	 Participation/Inclusion/Representation of women
+Total (A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+8
+1
+12.50 %
+Key Management Personnel
+3
+1
+33.33 %
+22. 	 Turnover rate for permanent employees and workers
+	
+(Disclose trends for the past 3 years) 
+Financial Year 23-24
+Financial Year 22-23
+Financial Year 21-22
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+6.12%
+3.85%
+6.03%
+8.65%
+14.29%
+8.88%
+9.62%
+18.18%
+10.03%
+Permanent Workers
+0%
+0 %
+0%
+0%
+0%
+0%
+0%
+0%
+0%
+188
+JSW Infrastructure Limited
+V.	
+Holding, subsidiary and associate companies (including joint ventures)
+23. (a) Names of holding / subsidiary / associate companies / joint ventures
+S.No.
+Name of the holding / subsidiary /associate companies /joint 
+ventures (A)
+Indicate 
+whether 
+holding/ 
+Subsidiary/ 
+Associate/ Joint 
+Venture
+% of shares 
+held by listed 
+entity
+Does the entity 
+indicated at column 
+A, participate in the 
+Business Responsibility 
+initiatives of the listed 
+entity (Yes/No)
+1
+JSW JAIGARH PORT LIMITED
+Subsidiary
+100.00%
+Yes
+2
+SOUTH WEST PORT LIMITED
+Subsidiary
+90.00%
+Yes
+3
+JSW SHIPYARD PRIVATE LIMITED
+Subsidiary
+100.00%
+No
+4
+NANDGAON PORT PRIVATE LIMITED
+Subsidiary
+100.00%
+No
+5
+JSW DHARAMTAR PORT PRIVATE LIMITED
+Subsidiary
+100.00%
+Yes
+6
+JSW MANGALORE CONTAINER TERMINAL PRIVATE LIMITED
+Subsidiary
+100.00%
+Yes
+7
+MASAD INFRA SERVICES PRIVATE LIMITED (ERSTWHILE MASAD 
+MARINE SERVICE PRIVATE LIMITED)
+Subsidiary
+100.00%
+No
+8
+JAIGARH DIGNI RAIL LIMITED
+Subsidiary
+100.00%
+No
+9
+JSW JATADHAR MARINE SERVICES PRIVATE LIMITED (ESTWHILE JSW 
+SALAV PORT PRIVATE LIMITED)
+Subsidiary
+100.00%
+No
+10
+JSW PARADIP TERMINAL PRIVATE LIMITED
+Subsidiary
+97.40%
+Yes
+11
+PARADIP EAST QUAY COAL TERMINAL PRIVATE LIMITED
+Subsidiary
+97.40%
+Yes
+12
+SOUTHERN BULK TERMINALS PRIVATE LIMITED
+Subsidiary
+100.00%
+No
+13
+ENNORE BULK TERMINAL PRIVATE LIMITED
+Subsidiary
+100.00%
+Yes
+14
+ENNORE COAL TERMINAL PRIVATE LIMITED
+Subsidiary
+100.00%
+Yes
+15
+MANGALORE COAL TERMINAL PRIVATE LIMITED
+Subsidiary
+100.00%
+Yes
+16
+JSW JNPT LIQUID TERMINAL PRIVATE LIMITED
+Subsidiary
+100.00%
+No
+17
+PNP MARITIME SERVICES PRIVATE LIMITED
+Subsidiary
+50.00%*
+No
+18
+JSW TERMINAL (MIDDLE EAST) FZE
+Subsidiary
+100.00%
+No
+19
+JSW MIDDLE EAST LIQUID TERMINAL CORP.
+Subsidiary
+100.00%
+No
+	
+* 50% + 1 share
+VI.	 CSR
+24. 	 (i) 	
+Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No) Yes
+ 	
+(ii) 	 Turnover (in `) – 3762.89 Crores `
+ 	
+(iii) 	 Net worth (in `) – 7966.37 Crores `
+VII.	 Transparency and Disclosure Compliances
+25.	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business 
+Conduct:
+Stakeholder group from 
+whom complaint is 
+received
+Grievance Redressal 
+Mechanism in Place (Yes/
+No) (If yes, then provide 
+web-link for grievance 
+redress policy)
+Current Financial Year
+Previous Financial Year
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities
+Yes
+https://www.jsw.
+in/sites/default/
+files/assets/
+downloads/
+infrastructure/
+Policies/JSWIL-
+GRIEVANCE-
+REDRESSAL-
+MECHANISM.pdf
+0
+0
+-
+0
+0
+-
+Investors (other than 
+Shareholders)
+Yes
+0
+0
+-
+0
+0
+-
+Shareholders
+Yes
+13
+0
+-
+0
+0
+-
+Employees and workers
+Yes
+0
+0
+-
+0
+0
+-
+Customers
+Yes
+0
+0
+-
+0
+0
+-
+Value Chain Partners
+Yes
+0
+0
+-
+0
+0
+-
+Other (please specify)
+-
+-
+-
+-
+-
+-
+-
+-
+189
+Corporate 
+Overview
+Statutory 
+Reports
+Financial
+Statements
+Integrated Report 2023-24
+26.	 Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters 
+that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or mitigate the risk 
+along-with its financial implications, as per the following format
+	
+Overview of the entity’s material responsible business conduct issues:
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the 
+risk / opportunity
+In case of risk, approach to adapt or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative 
+implications)
+1
+Air Emissions
+R
+A key parameter for gauging our 
+environmental performance. 
+Our systems must be in place 
+to maintain emissions within 
+the NAAQS.
+We are committed to preventing, and reducing 
+our air emissions through efficient use of 
+technologies, specific policies and strategies. We 
+closely monitor our monthly progress and take 
+corrective actions as necessary.
+Negative
+2
+Occupational 
+Health and 
+Safety
+R
+We aim to achieve zero harm 
+across all our operations. Health 
+and Safety are a very important 
+part of JSW Group’s values.
+We are committed to providing a healthy and 
+safe working environment for the employees, 
+contractors, business associates and visitors 
+on premises and community impacted by our 
+operations. We aim to be compliant with all 
+applicable health and safety legal requirements. 
+Safety is at the utmost priority across all sites, 
+and we have stringent safety systems in place 
+to achieve and maintain zero harm. From a 
+governance standpoint, our senior management, 
+along with key plant personnel, assume the 
+overall accountability for ensuring the appropriate 
+safety practices.
+Negative
+3
+Biodiversity
+R
+Given the nature of our 
+operations, all of our 
+locations fall under the 
+coastal regulations zone. We 
+understand that preserving 
+and restoring the biodiversity 
+is critical for maintaining a 
+balanced ecosystem – and 
+even more important is 
+ecologically sensitive zones.
+We strive to achieve, “No Net Loss” of biodiversity. 
+For our greenfield projects, and brownfield 
+expansions, we ensure that minimum harm is 
+caused to the biodiversity in that area. We are 
+continuously increasing biodiversity across all our 
+locations.
+Negative
+4
+Corporate 
+governance, 
+transparency 
+and 
+disclosures
+O
+We believe that good 
+governance provides strategic 
+direction, evaluates overall 
+performance & ensures the 
+long-term interest of the 
+stakeholders are being served.
+-
+Positive
+5
+Climate 
+Change
+R
+Our operations are impacted 
+by many natural phenomena 
+like heavy precipitation, heavy 
+winds, etc and consumption 
+of resources. Therefore, it is 
+not only our responsibility as 
+a corporate citizen, but also 
+critical for our operations to 
+consider the impact of climate 
+change.
+We have set stringent Greenhouse Gas Emission 
+Intensity Targets to quantify our efforts towards 
+climate change. We also strive to increase 
+our energy efficiency, increase the share of 
+renewables in our energy basket, improve the 
+current processes, and experiment with blending 
+of biofuels. We have already conducted a TCFD 
+study for our portfolio in order to mitigate and 
+reduce the impacts of identified risks.
+Negative
+190
+JSW Infrastructure Limited
+S. 
+No.
+Material 
+issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the 
+risk / opportunity
+In case of risk, approach to adapt or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative 
+implications)
+6
+Business 
+Conduct 
+(includes 
+Ethics, 
+Integrity, and 
+Compliance)
+O
+We believe that a strong and 
+fully embedded commitment to 
+undertaking business ethically 
+brings considerable tangible 
+and intangible benefits.
+-
+Positive
+7
+Energy 
+Management
+O
+Our operations consume energy 
+in the form of electricity and 
+fossil fuels. It is our endeavour 
+to reduce the specific 
+consumption of electricity and 
+fossil fuels to achieve better 
+energy efficiency.
+-
+Positive
+8
+Human 
+Rights
+R
+We are cognisant of the fact 
+that every individual brings 
+a different and unique set of 
+perspectives and capabilities 
+to our team. We strongly 
+advocate against all kinds of 
+discrimination and stand with 
+our team in the event of any 
+violation.
+We are fully committed to employing people 
+solely on the basis of their ability to do the job, 
+prohibiting any discrimination based on race, 
+colour, age, gender, sexual orientation, gender 
+identity and expression, ethnicity, religion, 
+disability, family status, social origin, and so on. 
+We have a human rights policy in place and we 
+strive to adhere to the policy in letter and spirit.
+Negative
+9
+Sustainable 
+Port 
+Development
+O
+Major global trade is carried out 
+through the sea route. India 
+offers an immense opportunity 
+for increase in marine trade 
+through development of 
+greenfield ports and brownfield 
+expansions. Ports are located 
+in CRZ and also affect the 
+social life around the port; 
+accordingly, sustainable port 
+development assumes an 
+important role.
+-
+Positive
+10
+Business 
+Continuity
+R
+Every business is fraught with 
+risks and the port business is 
+no exception. Identifying the 
+risks and taking ameliorative 
+measures is a continual 
+improvement process.
+We have identified our risks and prepared a 
+business continuity plan to mitigate them.
+Negative
+11
+Value Chain 
+Sustainability
+O
+As a service-based company, 
+our value chain is an integral 
+part of our business. Therefore, 
+we believe that it is also 
+important for our value chain 
+partners to function with a 
+sense of responsibility, integrity 
+and be sustainable.
+-
+Positive
+191
+Corporate 
+Overview
+Statutory 
+Reports
+Financial
+Statements
+Integrated Report 2023-24
+SECTION B – MANAGEMENT AND PROCESS DISCLOSURES
+Disclosure Questions
+P 
+1
+P 
+2
+P 
+3
+P 
+4
+P 
+5
+P 
+6
+P 
+7
+P 
+8
+P 
+9
+Policy and Management Disclosures
+1.	 a)	 Whether your entity’s policy/policies cover 
+each principle and its core elements of the 
+NGRBCs. (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+	
+b)	 Has the policy been approved by the Board? 
+(Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+	
+c)	 Web Link of the Policies, if available
+https://www.jsw.in/infrastructure/jsw-infrastructure-sustainability-policies
+2. 	 Whether the entity has translated the policy into 
+procedures. (Yes / No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3. 	 Do the enlisted policies extend to your value 
+chain partners? (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+4. 	 Name of the national and international codes/
+certifications/labels/ standards (e.g. Forest 
+Stewardship Council, Fairtrade, Rainforest 
+Alliance, Trustea) standards (e.g. SA 8000, 
+OHSAS, ISO, BIS) adopted by your entity and 
+mapped to each principle.
+The policies are based on NGRBC taking into account the requirements of various 
+international standards like ISO 9001 ISO 14001 ISO 45001. Performance Standards: 
+UNGC Guidelines OECD Guidelines Global Reporting Initiatives (GRI) UN Sustainable 
+Development Goals Tark Force on Climate related Financial Disclosures (TCFD)
+5. 	 Specific commitments, goals and targets set by 
+the entity with defined timelines, if any.
+JSW Infrastructure has set targets for Sustainability KPIs related to climate change, 
+energy, water, waste, air emissions, biodiversity, D&I, safety, etc
+6. 	 Performance of the entity against the specific 
+commitments, goals and targets along-with 
+reasons in case the same are not met.
+The performance against the set targets are reported by the Company annually in 
+the Integrated Report.
+Governance Leadership and Oversight
+7. 	 Statement by director responsible for the 
+business responsibility report, highlighting ESG 
+related challenges, targets and achievements 
+(listed entity has flexibility regarding the 
+placement of this disclosure)
+Please refer Page No. 14-17 of the Integrated Report for Message from JMD & CEO
+8. 	 Details of the highest authority responsible for 
+implementation and oversight of the Business 
+Responsibility policy (ies).
+The Sustainability Committee of the Board is responsible for implementation and 
+oversight of the policies
+9. 	 Does the entity have a specified Committee of 
+the Board/ Director responsible for decision 
+making on sustainability related issues? (Yes / 
+No). If yes, provide details.
+Yes. The Board Sustainability Committee is responsible for implementation of the 
+Policies. The Committee comprises of four Directors out of which two are Independent 
+Directors and two Executive Director along with invitees. The broad terms of reference 
+of the Sustainability Committee are the adoption of National Voluntary Guidelines 
+on Social Environmental and Economic Responsibilities of Business 2011 (NVGs)/
+National Guidelines on Responsible Business Conduct 2019 (NGRBC) in business 
+practices of the Company. The Committee reviews the progress of initiatives under 
+the purview of business responsibility (sustainability) and periodically assess the 
+ESG performance of the Company.
+Policy and management processes
+10. 	Details of Review of NGRBCs by the Company:
+	
+Subject for Review
+Indicate whether review was 
+undertaken by Director / Committee of 
+the Board/ Any other Committee
+Frequency
+(Annually/ Half - yearly/ Quarterly/ Any 
+other – please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+	
+Performance against above policies and follow 
+up action
+The Board’s Sustainability Committee meets twice a year to review the status of the 
+defined KPIs. The Committee also reviews the policies related to sustainability. The 
+board is appraised of the additions/ modifications/ enhancement proposed in the 
+KPIs and their feedback is inculcated
+	
+Compliance with statutory requirements of 
+relevance to the principles, and, rectification of 
+any non-compliances
+JSW Infrastructure is compliant with all the relevant statutory requirements.
+11.	 Has the entity carried out independent 
+assessment/ evaluation of the working of its 
+policies by an external agency? (Yes/No). If yes, 
+provide the name of the agency.
+No. The processes and compliances however, are subject to scrutiny by internal 
+auditors and regulatory compliances, as applicable.
+192
+JSW Infrastructure Limited
+12. 	 If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated: 
+Questions
+P1
+P2
+P3
+P4
+ P5
+P6
+P7
+P8
+ P9
+The entity does not consider the principles material to 
+its business (Yes/No)
+Not Applicable
+The entity is not at a stage where it is in a position 
+to formulate and implement the policies on specified 
+principles (Yes/No)
+The entity does not have the financial or/human and 
+technical resources available for the task (Yes/No)
+It is planned to be done in the next financial year  
+(Yes/No)
+Any other reason (please specify)
+SECTION C – PRINCIPLE WISE PERFORMANCE DISCLOSURE
+Principle 1: Businesses should conduct and govern themselves with integrity, and in a manner that is ethical, transparent, 
+and accountable.
+Essential Indicators
+1. 	 Percentage coverage by training and awareness programmes on any of the principles during the financial year:
+Segment
+Total number of 
+training and awareness 
+programmes held
+Topics/principles covered under the training and its 
+impact
+% of persons in respective 
+category covered by the 
+awareness programmes
+Board of 
+directors
+2
+The topics covered include all principles of BRSR including 
+climate change, biodiversity, water, Sustainability Key 
+Performance Indicators, Global trends on sustainability and 
+best Practices in industry, external ratings and disclosures, 
+climate change Risks and Opportunities etc. All 9 principles 
+of BRSR have been covered
+100 %
+Key managerial 
+personnel
+3
+9 principles of BRSR.
+100 %
+Employees other 
+than BoD and 
+KMPs
+10
+Employees other than BoD and KMPs have been trained on a 
+wide variety of topics covering ESG practices, sustainability 
+initiatives, waste management, safety, code of conduct, 
+adaptive leadership, etc. including all 9 principles of BRSR
+10 %
+Workers
+120
+Topics covering safety management, human rights, and skill 
+development, which covers Principle 3 of BRSR.
+100 %
+2. 	
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the entity or by 
+directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year, in the following format 
+(Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30 of SEBI (Listing Obligations 
+and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+Monetary
+NGRBC Principle
+Name of the regulatory/ 
+enforcement agency/ 
+judicial institutions
+Amount  
+(In `)
+Brief of 
+the Case
+Has an appeal 
+been preferred? 
+(Yes/No)
+Penalty/ Fine
+-
+-
+0
+-
+-
+Settlement
+-
+-
+0
+-
+-
+Compounding fee
+-
+-
+0
+-
+-
+Non-Monetary
+NGRBC Principle
+Name of the regulatory/ 
+enforcement agency/ 
+judicial institutions
+Brief of the 
+Case
+Has an appeal been 
+preferred? (Yes/No)
+Imprisonment
+-
+-
+-
+-
+Punishment
+-
+-
+-
+-
+3. 	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision are preferred in cases where monetary or non-
+monetary action has been appealed.
+Case Details
+Name of the regulatory/ enforcement agencies/ judicial institutions
+Not applicable
+-
+193
+Corporate 
+Overview
+Statutory 
+Reports
+Financial
+Statements
+Integrated Report 2023-24
+4. 	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide a web link 
+to the policy.
+	
+Yes. JSW Infrastructure maintains a robust anti-corruption and anti-bribery policy integral to its ethical standards. The company strictly 
+prohibits all forms of corruption and bribery, emphasizing transparency, integrity, and equitable business practices. Compliance with 
+relevant laws and regulations is mandatory, supported by ongoing employee training and awareness initiatives. With a zero-tolerance 
+stance on corruption, JSW Infrastructure underscores its commitment to ethical conduct, thereby fostering trust and credibility among 
+stakeholders. The policy is accessible at link:
+	
+https://www.jsw.in/sites/default/files/assets//downloads/infrastructure/Corporate%20Governance%20and%20Regulatory%20Information/
+Sustainability_Policies/JSWIL%20Policy%20on%20Business%20Conduct.pdf
+5. 	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement agency for 
+the charges of bribery/ corruption. 
+Current Financial Year
+Previous Financial Year
+Directors
+0
+0
+KMPs
+0
+0
+Employees
+0
+0
+Workers
+0
+0
+There have been no complaints against the BOD, KMPs, Employees and Workers.
+6. 	
+Details of complaints with regard to conflict of interest:
+Current Financial Year
+Previous Financial Year
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to issues of 
+Conflict of Interest of the Directors
+0
+-
+0
+-
+Number of complaints received in relation to issues of 
+Conflict of Interest of the KMPs
+0
+-
+0
+-
+7. 	
+Provide details of any corrective action taken or underway on issues related to fines/penalties/action taken by regulators/ law 
+enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+	
+There have been no cases with respect to corruption and conflicts of interest.
+8. 	
+Number of days of accounts payables ((Accounts payable *365) / Cost of goods/services procured) in the following format:
+Current Financial Year
+Previous Financial Year
+Number of days of accounts payables
+96
+91
+9. 	
+Open-ness of business
+	
+Provide details of concentration of purchases and sales with trading houses, dealers, and related parties along-with loans and advances 
+& investments, with related parties, in the following format.
+Parameter
+Metrics
+Current financial year
+Previous financial year
+Concentration of Purchases*
+a. 	 Purchases from trading houses as % of total purchases
+0%
+0%
+b. 	 Number of trading houses where purchases are made from
+0
+0
+c. 	 Purchases from top 10 trading houses as % of total 
+purchases from trading houses
+0%
+0%
+Concentration of Sales*
+a. 	 Sales to dealers / distributors as % of total sales
+0%
+0%
+b. 	 Number of dealers / distributors to whom sales are made
+0
+0
+c. 	 Sales to top 10 dealers / distributors as % of total sales to 
+dealers / distributors
+0%
+0%
+Share of RPTs in
+a. 	 Purchases (Purchases with related parties / Total 
+Purchases)
+1.94%
+1.48%
+b. 	 Sales (Sales to related parties / Total Sales)
+49.39%
+51.88%
+c. 	 Loans & advances (Loans & advances given to related 
+parties / Total loans & advances)
+88.86%
+100%
+d. 	 Investments (Investments in related parties / Total 
+Investments made)
+9.83%
+0.82%
+	
+  * The Company is not into product business and hence there are no delaer purchases/distributor sales.
+194
+JSW Infrastructure Limited
+Leadership Indicators
+1. 	
+Awareness programmes conducted for value chain partners on any of the Principles during the financial year:
+Focus 
+Area 
+Number
+Total number 
+of awareness 
+programmes 
+held
+Topics / principles covered under the training
+%age of value chain partners 
+covered (by value of business 
+done with such partners) under the 
+awareness programmes
+JSW Infrastructure has initiated supplier assessments based on diverse Environment, Social, and Governance (ESG) parameters to 
+evaluate and enhance their ESG performance. This proactive approach aims to ensure that suppliers align with sustainability standards, 
+ethical practices, and community engagement criteria, reflecting the company’s commitment to responsible procurement practices and 
+sustainable business operations.
+2. 	
+Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? (Yes/No) If Yes, 
+provide details of the same.
+	
+Yes. The Company undertakes assessment in order to identify any and all potential areas for conflict of interest. It engages with internal 
+and external stakeholders to ensure the comprehensiveness of this assessment process. Based on the outcomes of this assessment 
+process the Company:
+	
+•	
+Strengthens its business practices to eliminate any perceived threat of a conflict of interest occurring;
+	
+•	
+Reviews and re-confirms the effectiveness of both its external grievance system and associated internal systems through which 
+any potential and actual conflicts of interest can be highlighted investigated and addressed;
+	
+•	
+Provides appropriate training to the Board and employees with regard to how to recognise and avoid conflicts of interest
+Principle 2: Businesses should provide goods and services in a manner that is sustainable and safe.
+Essential Indicators
+1.	
+Percentage of R&D and capital expenditure (CAPEX) investments in specific technologies to improve product and processes’ 
+environmental and social impacts to total R&D and capex investments made by the entity, respectively. 
+Current financial year Previous financial year
+Details of improvements in environmental and social impacts
+R&D
+0%
+0%
+Investment in Innovative Process Improvement is accounted under regular 
+expenditure
+Capex
+13.5%
+<1%
+Covered Sheds, Drains, Dust Control Measures, Waste Management
+2. 	
+a. 	
+Does the entity have procedures in place for sustainable sourcing? (Yes/No) -
+	
+	
+Yes. We have a Supplier Code of Conduct, which is read and accepted by all suppliers.
+	
+b. 	
+If yes, what percentage of inputs were sourced sustainably?
+	
+	
+100%
+3. 	
+Describe the processes in place to safely reclaim your products for reusing, recycling, and disposing at the end of life, for (a) 
+Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+Waste type
+Waste management procedure in place
+Plastic (including packaging)
+Not applicable, as JSW Infrastructure does not operate any manufacturing facilities. 
+Nevertheless, the company has established comprehensive systems and processes for 
+the reuse, recycling, and safe disposal of waste generated through its operations. This 
+proactive approach underscores JSW Infrastructure’s commitment to environmental 
+stewardship and sustainable waste management practices.
+E-waste
+Hazardous waste
+Other waste (wastepaper and paper 
+products)
+4. 	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether the waste 
+collection plan is in line with the EPR plan submitted to Pollution Control Boards?
+	
+No
+195
+Corporate 
+Overview
+Statutory 
+Reports
+Financial
+Statements
+Integrated Report 2023-24
+Leadership Indicators
+1. 	
+Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing industry) or for 
+its services (for service industry)? If yes, provide details in the following format?
+NIC Code
+Name of 
+Product /
+Service
+% of total 
+Turnover 
+contributed
+Boundary for which the 
+Life Cycle Perspective 
+/ Assessment was 
+conducted
+Whether 
+conducted by 
+independent 
+external agency
+Name of the 
+independent 
+external agency 
+that conducted LCA
+Results 
+communicated in 
+public domain
+If yes, 
+provide the 
+web-link.
+JSW Infrastructure has not conducted Life Cycle Perspective/ Assessment for its services.
+2. 	
+If there are any significant social or environmental concerns and/or risks arising from production or disposal of your products / 
+services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, briefly describe the same 
+along-with action taken to mitigate the same.
+Name of Product / Service
+Description of the risk / concern
+Action Taken
+Not Applicable
+3. 	
+Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing industry) or 
+providing services (for service industry).
+Indicate input material
+Current Period
+Previous Period
+Not Applicable
+4. 	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, and safely 
+disposed, as per the following format:
+ Waste Details
+Current financial year
+Previous financial year
+REUSED
+Recycled
+Safely disposed
+REUSED
+Recycled
+Safely disposed
+Plastics (including packaging)
+Not Applicable
+E-waste
+Hazardous waste
+Other waste
+5. 	
+Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
+Indicate product category Reclaimed products and their packaging materials as % of total products sold in respective category
+Not Applicable
+Principle 3: Businesses should respect and promote the well-being of all employees, including those in their value chains
+Essential Indicators
+1.	
+a. 	
+Details of measures for the well-being of employees. 
+Category
+% of employees covered by
+Total
+(A)
+Health insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+benefits
+Day care 
+facilities
+Number 
+(B)
+% (B / A)
+Number 
+(C)
+% (C / A)
+Number 
+(D)
+% (D /A)
+Number
+(E)
+% (E / A)
+Number 
+(F)
+% (F / A)
+Permanent employees
+Male
+667
+667
+100%
+667
+100%
+0
+0%
+667
+100%
+0
+0%
+Female
+29
+29
+100%
+29
+100%
+29
+100%
+0
+0%
+0
+0%
+Total
+696
+696
+100%
+696
+100%
+29
+4.2%
+667
+95.8%
+0
+0%
+Other than Permanent employees
+Male
+0
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+Female
+0
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+Total
+0
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+0
+0%
+196
+JSW Infrastructure Limited
+	
+b. 	
+Details of measures for the well-being of workers:
+Category
+% of workers covered by
+Total
+(A)
+Health
+insurance
+Accident
+insurance
+Maternity
+benefits
+Paternity
+benefits
+Day care
+facilities
+Number 
+(B)
+% (B / A)
+Number 
+(C)
+% (C / A)
+Number 
+(D)
+% (D / 
+A)
+Number
+(E)
+% (E / A)
+Number 
+(F)
+% (F / A)
+Permanent workers
+Male
+0
+0
+0 %
+0
+0 %
+0
+0 %
+0
+0 %
+0
+0 %
+Female
+0
+0
+0 %
+0
+0 %
+0
+0 %
+0
+0 %
+0
+0 %
+Total
+0
+0
+0 %
+0
+0 %
+0
+0 %
+0
+0 %
+0
+0 %
+Other than Permanent workers
+Male
+4899
+4899
+100 %
+4899
+100 %
+0
+0 %
+0
+0 %
+0
+0 %
+Female
+72
+72
+100 %
+72
+100 %
+0
+0 %
+0
+0 %
+0
+0 %
+Total
+4971
+4971
+100 %
+4971
+100 %
+0
+0 %
+0
+0 %
+0
+0 %
+	
+c. 	
+Spending on measures towards well-being of employees and workers (including permanent and other than permanent) in 
+the following format –
+Current Financial Year
+Previous Financial Year
+Cost incurred on well-being measures as a % of total revenue of the company
+0.15%
+0.20%
+2. 	
+Details of retirement benefits.
+Benefits
+Current Financial Year
+Previous Financial Year
+No. of employees 
+covered as a % of 
+total employees
+No. of workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+No. of employees 
+covered as a % of 
+total employees
+No. of workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+PF
+100 %
+0 %
+Y
+100 %
+0 %
+Y
+Gratuity
+100 %
+0 %
+Y
+100 %
+0 %
+Y
+ESI
+0 %
+0 %
+NA
+0 %
+0 %
+NA
+3. 	
+Accessibility of workplaces
+	
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the requirements of the 
+Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard.
+	
+Yes, wherever such employees are present, necessary facilities are provided for accessibility to differently-abled persons.
+4. 	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide a web 
+link to the policy.
+	
+Yes. The policy is available at link
+	
+https://www.jsw.in/sites/default/files/assets/downloads/infrastructure/Policies/JSWIL-Policy-on-Equality-Diversity-and-Inclusivity.pdf
+5. 	
+Return to work and Retention rates of permanent employees and workers that took parental leave. 
+Gender
+Permanent employees
+Permanent workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+100%
+100%
+0%
+0%
+Female
+100%
+100%
+0%
+0%
+Total
+100%
+100%
+0%
+0%
+6. 	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and workers? If 
+yes, give details of the mechanism in brief.
+(Yes/No)
+(If Yes, then give details of the mechanism in brief)
+Permanent workers
+Yes
+Details given in our Grievance Redressal Policy on the link:
+https://www.jsw.in/sites/default/files/assets/downloads/infrastructure/Policies/
+JSWIL-GRIEVANCE-REDRESSAL-MECHANISM.pdf
+Other than permanent workers
+Permanent employees
+Other than permanent employees
+197
+Corporate 
+Overview
+Statutory 
+Reports
+Financial
+Statements
+Integrated Report 2023-24
+7. 	
+Membership of employees and workers in association(s) or Unions recognized by the listed entity:
+Category
+Current Financial Year
+Previous Financial Year
+Total 
+employees 
+/ workers in 
+respective 
+category (A)
+No. of employees/
+workers in the respective 
+category, who are part 
+of the association(s) or 
+Union (B)
+%
+ (B/A)
+Total 
+employees/
+workers in the 
+respective 
+category (C)
+No. of employees/
+workers in the respective 
+category, who are part 
+of the association(s) or 
+Union (D)
+% 
+(D/C)
+Total permanent employees
+696
+0
+0 %
+663
+0
+0 %
+Male
+667
+0
+0 %
+641
+0
+0 %
+Female
+29
+0
+0 %
+22
+0
+0 %
+Total permanent workers
+0
+0
+0 %
+0
+0
+0 %
+Male
+0
+0
+0 %
+0
+0
+0 %
+Female
+0
+0
+0 %
+0
+0
+0 %
+ 
+8. 	
+Details of training given to employees and workers:
+Category
+Current Financial Year
+Previous Financial Year
+Total (A)
+On health and 
+safety measures
+On skill 
+upgradation
+Total
+(D)
+On health and 
+safety measures
+On skill 
+upgradation
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+No. (E)
+% (E / D)
+No.(F)
+% (F / D)
+Employees
+Male
+667
+616
+92.4%
+455
+68.2%
+641
+NA
+NA
+NA
+NA
+Female
+29
+23
+79.3%
+19
+65.5%
+22
+NA
+NA
+NA
+NA
+Total
+696
+639
+91.8%
+474
+68.1%
+663
+NA
+NA
+NA
+NA
+Workers
+Male
+4899
+4899
+100%
+409
+8.35%
+NA
+NA
+NA
+NA
+NA
+Female
+72
+72
+100%
+2
+2.8%
+NA
+NA
+NA
+NA
+NA
+Total
+4971
+4971
+100%
+411
+8.3%
+NA
+NA
+NA
+NA
+NA
+Note: For previous year, the data for non-permanent employees and workers is not included.
+9. 	
+Details of performance and career development reviews of employees and workers: 
+Category
+Current Financial Year
+Previous Financial Year
+Total (A)
+No. (B)
+% (B / A)
+Total (C)
+No. (D)
+% (D / C)
+Employees
+Male
+667
+643
+96.40%
+641
+612
+95.48%
+Female
+29
+25
+86.21%
+22
+20
+90.91%
+Total
+696
+668
+95.98%
+663
+632
+95.32%
+Workers
+Male
+4899
+0
+0 %
+NA
+NA
+NA
+Female
+72
+0
+0 %
+NA
+NA
+NA
+Total
+4971
+0
+0 %
+NA
+NA
+NA
+Note: Career development and performance is reviewed for permanent employees only; the individual department reviews the performance of 
+consultants (if any), and their contract is renewed accordingly. Also note that the permanent employees who have joined after December 31, 2023 
+are not eligible for career development and performance reviews.
+10. 	 Health and safety management system:
+	
+a. 	
+Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No). If yes, 
+what is the coverage of such a system?
+	
+	
+Yes. JSW Infrastructure is committed to providing a safe and healthy working environment for all individuals involved in its operations, 
+including employees, contractors, business associates, visitors, and the community. The company upholds stringent Occupational 
+Health and Safety (OHS) standards across all locations, with three sites already certified under ISO 45001. As part of ongoing 
+improvements, JSW Infrastructure is revising its Group Standards and intends to establish subject matter experts at each site to 
+drive this initiative forward. The company plans to conduct thorough audits of the updated standards to ensure comprehensive and 
+effective implementation.
+198
+JSW Infrastructure Limited
+	
+b. 	
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by the 
+entity?
+•	
+Hazardous identification and risk assessment (HIRA)
+•	
+Job Safety Analysis
+•	
+Hazop Study
+•	
+Emergency response and planning
+•	
+Hazardous area classification study
+•	
+Pre-startup safety review.
+	
+c. 	
+Whether you have processes for workers to report the work-related hazards and to remove themselves from such risks.
+	
+	
+Yes
+	
+d.	
+Do the employees/ workers of the entity have access to non-occupational medical and healthcare services?
+	
+	
+Yes
+11. 	 Details of safety related incidents, in the following format: 
+Safety incident/number
+Category
+Current Financial Year
+Previous Financial Year
+Lost Time Injury Frequency Rate (LTIFR) (per one-million-
+person hour worked)
+Employees
+0
+0
+Workers
+0.068
+0.073
+Total recordable work-related injuries
+Employees
+0
+0
+Workers
+1
+1
+No. of fatalities
+Employees
+0
+0
+Workers
+0
+0
+High consequence work-related injury or ill-health (excluding 
+fatalities)
+Employees
+0
+0
+Workers
+0
+0
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace.
+	
+1. 	
+Clear Safety Policies and Procedures:
+- 	
+Developed and communicated clear safety policies and JSW Group standard procedures.
+- 	
+Ensured accessibility for all employees.
+- 	
+Conducted regular training sessions on high-risk standards.
+2. 	
+Comprehensive Safety Training:
+- 	
+Provided thorough safety training to employees at all levels.
+- 	
+Covered specific job-related hazards and general safety practices.
+- 	
+Conducted regular refresher courses to reinforce safety protocols.
+	
+3. 	
+Personal Protective Equipment (PPE):
+	
+	
+- 	
+Supplied and enforced the use of appropriate PPE based on job roles and risk assessments.
+	
+4. 	
+Emergency Response Preparedness:
+	
+	
+- 	
+Developed an emergency response team in collaboration with safety experts.
+	
+	
+- 	
+Procured emergency rescue equipment for confined space entry (CSE) working at heights (WAH) and fire preparedness.
+	
+5. 	
+Specialized Training Programs:
+	
+	
+- 	
+Conducted specialized training programs in WAH CSE procedures and medical assessment.
+	
+6. 	
+Wellness Programs:
+	
+	
+- 	
+Implemented wellness programs promoting healthy lifestyles and mental health resources.
+	
+7. 	
+Safety Committees and Reviews:
+	
+	
+- 	
+Regularly reviewed safety committees including the Site Subcommittee and Apex Safety Committee.
+199
+Corporate 
+Overview
+Statutory 
+Reports
+Financial
+Statements
+Integrated Report 2023-24
+	
+8. 	
+Equipment Inspections:
+	
+	
+- 	
+Conducted routine inspections of equipment machinery and facilities to ensure compliance with safety standards.
+	
+9. 	
+Incident Reporting and Investigation:
+	
+	
+- 	
+Encouraged incident reporting without fear of reprisal.
+	
+	
+- 	
+Thoroughly investigated incidents to understand root causes and prevent recurrence.
+	
+10. 	 Employee Engagement:
+	
+	
+- 	
+Involved employees in safety initiatives and decision-making processes.
+	
+	
+- 	
+Encouraged contributions and ideas for improving safety based on experiences.
+13.	 Number of complaints on the following made by employees and workers
+Current Financial Year
+Previous Financial Year
+Filed during the year
+Pending 
+resolution at the 
+end of year
+Remarks
+Filed during the 
+year
+Pending 
+resolution at the 
+end of year
+Remarks
+Working conditions
+0
+0
+-
+0
+0
+-
+Health & safety
+0
+0
+-
+0
+0
+-
+14. 	 Assessments for the year
+% of your plants and offices that were assessed (by entity or statutory authorities or third parties)
+Health and safety practices
+100 %
+Working conditions
+100 %
+15. 	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant risks/
+concerns arising from assessments of health & safety practices and working conditions.
+	
+All the incidents were investigated and corrective actions were taken. Further, the details were shared with all sites and necessary measures 
+have been deployed to ensure that such incidents do not repeat in future.
+Leadership Indicators
+1. 	
+Does the entity extend any life insurance or any compensatory package in the event of death of :
+ 	
+(A) 	 Employees (Y/N) 	
+Yes
+ 	
+(B) 	 Workers (Y/N)	
+ 	
+Yes
+2. 	
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by the value 
+chain partners.
+	
+We have an established process of validating the payment of statutory dues to be made by our value chain partners, to their respective 
+employees. Every Unit individually tracks and reports the deviations and prompt corrective action are undertaken to ensure compliance. In 
+extreme cases wherein all the positive reinforcement actions do not remedy the issues, the payment due to the value chain partner may 
+be impacted
+3. 	
+Provide the number of employees / workers having suffered high consequence work- related injury / ill-health / fatalities (as 
+reported in Q11 of Essential Indicators above), who have been rehabilitated and placed in suitable employment or whose family 
+members have been placed in suitable employment:
+Total no. of affected employees/ workers
+No. of employees/workers that are rehabilitated and placed 
+in suitable employment or whose family members have been 
+placed in suitable employment
+Current financial year
+Previous financial year
+Current financial year
+Previous financial year
+Employees
+0
+0
+0
+0
+Workers
+0
+0
+0
+0
+4. 	
+Does the entity provide transition assistance programs to facilitate continued employability and the management of career 
+endings resulting from retirement or termination of employment? (Yes/ No)
+	
+Yes
+200
+JSW Infrastructure Limited
+5. 	
+Details on assessment of value chain partner:
+Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such 
+partners) that were assessed
+Health and safety practices
+100 %
+Working Conditions
+50 %
+6. 	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from assessments 
+of health and safety practices and working conditions of value chain partners.
+	
+All our value chain partners who are working within our premises are assessed both for health & safety and working conditions. Corrective 
+measures for any risk or concern like unsafe or unhealthy practices are taken up immediately. At the Group level, a standard has been 
+released to standardise contractor’s safety requirements including hygiene and wellbeing of their workforce. We have also initiated a 
+process for assessment of our value chain partners. 
+Principle 4: Businesses should respect the interests of and be responsive to all its stakeholders
+Essential Indicators
+1.	
+Describe the processes for identifying key stakeholder groups of the entity.
+	
+Key stakeholders form an important group and play an important role to maintain sustainable operations of the organization. JSW 
+Infrastructure maintains a dynamic and strategic stakeholder engagement process where it identifies key stakeholder groups from the 
+larger universe of all possible stakeholders. This is done after considering the material influence each group has on the Company’s ability 
+to create value (and vice-versa). Through this mechanism the Company has currently identified seven internal and external stakeholder 
+groups: Employees, Government and Regulatory Authorities, Customers, Communities and Civil Society / NGOs, Suppliers, Institutions 
+and Investors.
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/No)
+Channels of communication (Email, 
+SMS, Newspaper, Pamphlets, 
+Advertisement, Community Meetings, 
+Notice Board, Website), Other
+Frequency of 
+engagement 
+(Annually/ Half yearly/ 
+Quarterly / others – 
+please specify)
+Purpose and scope of 
+engagement including key topics 
+and concerns raised during such 
+engagement
+Customer
+No
+•	
+Customer meets
+• 	 Emails/calls/one-to-one 
+communication
+• 	 Official communication channels 
+including advertisements 
+publications website and social 
+media
+• 	 Conferences and events
+Quarterly Annually
+• 	 Timely delivery
+• 	 Improved turnaround time
+• 	 Better evacuation rate
+• 	 Increased storage capacity
+• 	 Ensured cargo safety
+Employees
+No
+• 	 Newsletters
+• 	 Employee satisfaction surveys
+• 	 Emails and meetings
+• 	 Training programmes
+• 	 Employee engagement initiatives
+• 	 Performance appraisal
+• 	 Grievance redressal mechanisms
+• 	 Notice boards
+Continuous
+• 	 Job satisfaction and motivation
+• 	 Fair wages and rewards
+• 	 Improved work-life balance
+• 	 Regular training and skill 
+development career growth
+• 	 Safe and secure work 
+environment
+Suppliers
+No
+• 	 Vendor assessment and review
+• 	 Emails/calls/one-to-one 
+communication
+• 	 Training workshops and seminars
+• 	 Supplier audits
+• 	 Official communication channels like 
+advertisements publications website 
+and social media
+Quarterly Annually
+• 	 Timely payment
+• 	 Continuity of orders
+• 	 Increased ESG awareness
+• 	 Capacity building
+Investors/ 
+Shareholders
+No
+Analyst meets and conference calls, 
+AGM, Official communication channels: 
+Advertisements, publications, website 
+and social media, Investor meetings and 
+roadshows
+Quarterly
+• 	 Sustainable growth and 
+returns
+• 	 Excellent operational 
+performance
+• 	 High standards of corporate 
+governance
+• 	 Risk management
+201
+Corporate 
+Overview
+Statutory 
+Reports
+Financial
+Statements
+Integrated Report 2023-24
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/No)
+Channels of communication (Email, 
+SMS, Newspaper, Pamphlets, 
+Advertisement, Community Meetings, 
+Notice Board, Website), Other
+Frequency of 
+engagement 
+(Annually/ Half yearly/ 
+Quarterly / others – 
+please specify)
+Purpose and scope of 
+engagement including key topics 
+and concerns raised during such 
+engagement
+Communities
+No
+• 	 Need assessment
+• 	 Meetings and briefings
+• 	 Partnerships in community 
+development projects
+• 	 Training and workshops
+• 	 Impact assessment surveys
+As required from time 
+to time
+• 	 Local employment and 
+procurement
+• 	 Infrastructure development
+• 	 Funding for community 
+development
+• 	 Training and livelihood 
+programmes
+• 	 Contribution to the local 
+economy
+Governments 
+& Regulatory 
+Authorities
+No
+Advertisements publications website 
+and social media Phone calls emails and 
+meetings Regulatory audits/ inspections
+As and when required
+Discussions with regard to 
+various regulations amendments 
+inspections approvals and 
+assessments.
+Leadership Indicators
+1. 	
+Provide the processes for consultation between stakeholders and the board on economic, environmental, and social topics or 
+if consultation is delegated, how is feedback from such consultations provided to the board.
+	
+JSW Infrastructure communicates with stakeholders primarily through its website and integrated reports. Following its listing, the company 
+has organized analysts’ meets and maintains a dedicated Investor Relations department. Stakeholders are encouraged to raise concerns 
+through the company’s designated email address for prompt attention and resolution. Accordingly, the Board is updated regularly.
+2. 	
+Whether stakeholder consultation is used to support the identification and management of environmental, and social topics 
+(Yes / No). If so, provide details of instances as to how the inputs received from stakeholders on these topics were incorporated 
+into the policies and activities of the entity.
+	
+Yes. The identification of material issues is integral to our operational framework serving as a strategic compass that shapes our response to 
+business opportunities and risks. These issues encapsulate the economic, environmental and social topics that hold profound significance 
+for both our business and stakeholders. By gaining a comprehensive understanding of these concerns we shape our strategies to create 
+value as a responsive and responsible organisation. We have conducted a materiality assessment taking inputs from all stakeholder groups 
+to identify the key focus areas and our sustainability policies have been developed accordingly.
+3. 	
+Provide details of instances of engagement with, and actions are taken to, address the concerns of vulnerable/ marginalised 
+stakeholder groups.
+	
+The Company is committed to building constructive relationships with all its stakeholders. Engagements with stakeholders are done on 
+diverse issues. Proactive engagement with stakeholders provides the Company with insights that help to gain information on material 
+issues shape business strategy and operations and minimise the risk of reputation.
+Principle 5: Businesses should respect and promote human rights
+Essential Indicators
+ 1. 	 Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the following 
+format:
+Category
+Current Financial Year
+Previous Financial Year
+Total (A)
+No. of employees 
+/ workers 
+covered (B)
+% (B / A)
+Total (C)
+No. of employees 
+/ workers 
+covered (D)
+% (D / C)
+Employees
+Permanent
+696
+0
+0 %
+663
+0
+0 %
+Other than permanent
+0
+0
+0 %
+0
+0
+0 %
+Total employees
+696
+0
+0 %
+663
+0
+0 %
+Workers
+Permanent
+0
+0
+0 %
+0
+0
+0 %
+Other than permanent
+4971
+155
+3.12%
+NA
+0
+0 %
+Total workers
+4971
+155
+3.12%
+NA
+0
+0 %
+202
+JSW Infrastructure Limited
+2. 	
+Details of minimum wages paid to employees and workers
+Category
+Current Financial Year
+Previous Financial Year
+Total (A)
+Equal to minimum 
+wage
+More than 
+minimum wage
+Total (D)
+Equal to minimum 
+wage
+More than 
+minimum wage
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+No. (E)
+% (E / D)
+No. (F)
+% (F / D)
+Employees
+Permanent
+696
+0
+0
+696
+100
+663
+0
+0
+663
+100
+Male
+667
+0
+0
+667
+100
+641
+0
+0
+641
+100
+Female
+29
+0
+0
+29
+100
+22
+0
+0
+22
+100
+Other than permanent
+0
+0
+0
+0
+100
+0
+0
+0
+0
+100
+Male
+0
+0
+0
+0
+100
+0
+0
+0
+0
+100
+Female
+0
+0
+0
+0
+100
+0
+0
+0
+0
+100
+Workers
+Permanent
+0
+0
+0
+0
+100
+0
+0
+0
+0
+100
+Male
+0
+0
+0
+0
+100
+0
+0
+0
+0
+100
+Female
+0
+0
+0
+0
+100
+0
+0
+0
+0
+100
+Other than permanent
+4971
+0
+0
+4971
+100
+NA
+NA
+0
+NA
+100
+Male
+4899
+0
+0
+4899
+100
+NA
+NA
+0
+NA
+100
+Female
+72
+0
+0
+72
+100
+NA
+NA
+0
+NA
+100
+3.	
+Details of remuneration/salary/wages
+	
+a. 	
+Median remuneration / wages: 
+Male
+Female
+Number
+Median remuneration/ salary/ 
+wages of respective category
+Number
+Median remuneration/ salary/ 
+wages of respective category
+Board of Directors (BoD)#@
+7
+` 1,590,000 
+1
+` 2,090,000 
+Key managerial personnel
+2
+` 38,638,960*
+1
+` 3,818,108*
+Employees other than BoD and KMP
+665
+` 914,845*
+28
+` 753,159*
+Workers
+Not Applicable
+* The remuneration excludes benefits from ESOP exercise in addition to salary and other perquisites
+# The remuneration of BOD is on consolidated basis and includes sitting fees and commission
+@ Board of Directors excluding Key Managerial Personnels
+	
+b. 	
+Gross wages paid to females as % of total wages paid by the entity, in the following format:
+Current Financial Year Previous Financial Year
+Gross wages paid to females as % of total wages
+3.02%
+2.63%
+4. 	
+Do you have a focal point (individual/ committee) responsible for addressing human rights impacts or issues caused or 
+contributed to by the business? (Yes/No)
+	
+Yes. Human Rights is a sensitive issue and JSW Infrastructure has zero tolerance to Human Rights violations. Human Rights is one of the 16 
+key focus areas for the Company. For any Human Rights violation, wherever reported shall be investigated by a special committee nominated 
+for the purpose by the Senior Leadership.
+5. 	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+	
+At JSW, we have a moral obligation to do all that we can to actively involve ourselves in the protection and enhancement of human rights 
+in areas that are within our direct control and to work with others to protect every individual’s rights and freedom. We are fully committed 
+to promoting inclusivity and equality, prohibiting any discrimination and safeguarding the human rights of all our teams. We respect human 
+rights and are committed to ensuring that they are protected, guided by our human rights policy. Our human rights policy articulates 
+our stand on human rights, including non-discrimination, prohibition of child and forced labour, freedom of association and the right to 
+engage in collective bargaining. We contribute to the fulfilment of human rights by complying with all national and local legislations, and 
+international norms as applicable. This is enabled by our well-articulated policies, effective programmes and supporting grievance redressal 
+mechanisms. No complaints related to child labour, forced labour, involuntary labour or discriminatory employment were received during 
+the reporting year.
+203
+Corporate 
+Overview
+Statutory 
+Reports
+Financial
+Statements
+Integrated Report 2023-24
+6. 	
+Number of complaints on the following made by employees and workers: 
+Current Financial Year
+Previous Financial Year
+Filed during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Filed During 
+the year
+Pending 
+resolution at the 
+end of year
+Remarks
+Sexual harassment
+0
+0
+0
+0
+0
+0
+Discrimination at workplace
+0
+0
+0
+0
+0
+0
+Child labour
+0
+0
+0
+0
+0
+0
+Forced labour/Involuntary labour
+0
+0
+0
+0
+0
+0
+Wages
+0
+0
+0
+0
+0
+0
+Other human rights-related issues
+0
+0
+0
+0
+0
+0
+7. 	
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013, in the 
+following format:
+Current Financial Year
+Previous Financial Year
+Total Complaints reported under Sexual Harassment on of Women at Workplace 
+(Prevention, Prohibition and Redressal) Act, 2013 (POSH)
+0
+0
+Complaints on POSH as a % of female employees / workers
+0 %
+0 %
+Complaints on POSH upheld
+0
+0
+8. 	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	
+The Company believes in promoting diversity & inclusion as a culture which allows all employees to bring their authentic selves to work and 
+contribute wholly with their skills, experience and perspective for creating unmatched value for all stakeholders. It provides a rules-based 
+policy framework that is non-discriminatory and provides equal opportunity for all individuals irrespective of their gender, religion, caste, 
+race, age, community, physical ability or gender orientation. JSW endeavours to ensure a safe, secure and congenial work environment, so 
+that employees can deliver their best without inhibition. The Company has put in place a robust Grievance Redressal process for investigation 
+of employee concerns and has instituted a Code of Conduct & Employee Service Rules that clearly delineates employee responsibilities and 
+acceptable employee conduct. Together, these constitute the foundation for promoting a diverse and inclusive culture at the workplace.
+9. 	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+	
+Yes
+10. 	 Assessments of the year 
+% of your plants and offices that were assessed  
+(by the entity or statutory authorities or third parties)
+Child labour
+100 %
+Forced/involuntary labour
+100 %
+Sexual harassment
+100 %
+Discrimination at workplace
+100 %
+Wages
+100 %
+Others – please specify
+100 %
+11. 	 Provide details of any corrective actions taken or underway to address significant risks/concerns arising from the assessments 
+at Question 10 above.
+	
+NA
+Leadership Indicators
+1. 	
+Details of a business process being modified / introduced as a result of addressing human rights grievances/complaints.
+	
+There were no Complaints/Grievances on Human Rights. Hence no business process was modified/ introduced.
+2. 	
+Details of the scope and coverage of any Human rights due diligence conducted.
+	
+No due diligence has been conducted.
+3. 	
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of Persons with 
+Disabilities Act, 2016?
+	
+Yes, as applicable.
+204
+JSW Infrastructure Limited
+4. 	
+Details on assessment of value chain partners: 
+% of value chain partners (by value of business done 
+with such partners) that were assessed
+Sexual Harassment
+0 %
+Discrimination at workplace
+0 %
+Child Labour
+0 %
+Forced Labour/Involuntary Labour
+0 %
+Wages
+0 %
+Others – please specify
+0 %
+5. 	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments 
+at Question 4 above.
+	
+No concerns have been raised. Hence corrective actions were not required.
+Principle 6: Businesses should respect and make efforts to protect and restore the environment
+Essential Indicators
+1. 	
+Details of total energy consumption (in Joules or multiples) and energy intensity
+Parameter
+Current Financial Year
+Previous Financial Year
+From renewable sources
+Total electricity consumption (A)
+28017 GJ
+2876 GJ
+Total fuel consumption (B)
+0 GJ
+33 GJ
+Energy consumption through other sources (C)
+0 GJ
+0 GJ
+Total energy consumed from renewable sources (A+B+C)
+28017 GJ
+2909 GJ
+From non-renewable sources
+Total electricity consumption (D)
+451059 GJ
+439159 GJ
+Total fuel consumption (E)
+377670 GJ
+303239 GJ
+Energy consumption through other sources (F)
+0 GJ
+0 GJ
+Total energy consumption (D+E+F)
+828729 GJ
+742398 GJ
+Total energy consumption (A+B+C+D+E+F)
+856746 GJ
+745307 GJ
+Energy intensity per rupee of turnover (Total energy consumption/ turnover in rupees)
+0.00002277 GJ/`
+0.00002333 GJ/`
+Energy intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP) 
+(Total energy consumed / Revenue from operations adjusted for PPP)
+0.00051001 GJ/` 
+adjusted to PPP*
+0.00051721 GJ/` 
+adjusted to PPP*
+Energy intensity in terms of physical output
+0.007340 GJ/TCH 
+(Tonnes Cargo Handled)
+0.0072 GJ/TCH (Tonnes 
+Cargo Handled)
+Energy intensity (optional) – the relevant metric may be selected by the entity
+-
+-
+*The revenue from operations has been adjusted for PPP based on the latest PPP conversion factor published for the year 2023 and 2024 by 
+International Monetary Fund for India given in the link: https://www.imf.org/external/datamapper/PPPEX@WEO/OEMDC/IND/GRL
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of 
+the external agency. Yes – Bureau Veritas India Pvt. Ltd.
+2. 	
+Does the entity have any sites/facilities identified as designated consumers (DCs) under the performance, achieve, and trade 
+(PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme have been achieved. 
+In case targets have not been achieved, provide the remedial action taken if any.
+	
+No
+205
+Corporate 
+Overview
+Statutory 
+Reports
+Financial
+Statements
+Integrated Report 2023-24
+3.	
+Provide details of the following disclosures related to water, in the following format: 
+Parameter
+Current Financial Year
+Previous Financial Year
+Water withdrawal by source (in kilolitres)
+(i) 	 Surface water
+0 KL
+0 KL
+(ii) 	 Groundwater
+0 KL
+0 KL
+(iii) 	Third-party water
+691930 KL
+525001 KL
+(iv) 	Seawater / desalinated water
+0 KL
+0 KL
+(v) 	Others
+0 KL
+0 KL
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+691930 KL
+525001 KL
+Total volume of water consumption (in kilolitres)
+691930 KL
+525001 KL
+Water intensity per rupee of turnover (water consumed / turnover)
+0.0000184 KL/`
+0.0000164 KL/`
+Water intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP)
+(Total water consumed/ Revenue from operations adjusted for PPP)
+0.0004119 KL/` 
+adjusted to PPP
+0.0003643 KL/` 
+adjusted to PPP
+Water intensity in terms of physical output
+0.0059 KL/TCH
+0.0051 KL/TCH
+Water intensity (optional) – the relevant metric may be selected by the entity
+-
+-
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the external 
+agency. Yes – Bureau Veritas India Pvt. Ltd.
+4. 	
+Provide the following details related to water discharged:
+Current Financial Year
+Previous Financial Year
+Water discharge by destination and level of treatment (in kilolitres)
+(i) 	 To Surface water
+ 	
+No treatment
+0 Kl
+0 Kl
+	
+With treatment – please specify level of treatment
+0 Kl
+0 Kl
+(ii) 	 To Groundwater
+	
+No treatment
+0 Kl
+0 Kl
+	
+With treatment – please specify level of treatment
+0 Kl
+0 Kl
+(iii) 	To Seawater
+	
+No treatment
+0 Kl
+0 Kl
+	
+With treatment – please specify level of treatment
+0 Kl
+0 Kl
+(iv)	Sent to third parties
+	
+No treatment
+0 Kl
+0 Kl
+	
+With treatment – please specify level of treatment
+0 Kl
+0 Kl
+(v) 	Others
+	
+No treatment
+0 Kl
+0 Kl
+	
+With treatment – please specify level of treatment
+0 Kl
+0 Kl
+Total water discharged (in kilolitres)
+0 Kl
+0 Kl
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the external 
+agency. Yes – Bureau Veritas India Pvt. Ltd.
+5. 	
+Has the entity implemented a mechanism for zero liquid discharge? If yes, provide details of its coverage and implementation.
+	
+JSW Infrastructure has adopted a zero liquid discharge mechanism as part of its commitment to environmental sustainability. The company 
+treats sewage and runoff water, repurposing the treated water for horticultural needs and dust suppression. This initiative not only reduces 
+reliance on fresh water but also contributes to enhancing water security for both JSW Infrastructure and the surrounding communities.
+6. 	
+Please provide details of air emissions (other than GHG emissions) by the entity:
+Parameter
+Current Financial Year
+Previous Financial Year
+NOx
+13.33 – 44.8 µg/Nm3
+13.29 – 41.4 µg/Nm3
+SOx
+6.97 - 17.51 µg/Nm3
+7.19 - 17.84 µg/Nm3
+Particulate matter (PM)
+49.62 – 86.74 µg/Nm3
+41.05 – 83.90 µg/Nm3
+Persistent organic pollutants (POP)
+-
+-
+Volatile organic compounds (VOC)
+-
+-
+Hazardous air pollutants (HAP)
+-
+-
+Others – ozone-depleting substances (HCFC - 22 or R-22)
+-
+-
+206
+JSW Infrastructure Limited
+7. 	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) and its intensity:
+Parameter
+Current Financial Year
+Previous Financial Year
+Total Scope 1 emissions (Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, 
+NF3, if available)
+28507 Tonne CO2e
+22981 Tonne CO2e
+Total Scope 2 emissions (Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, 
+NF3, if available)
+94275 Tonne CO2e
+98811 Tonne CO2e
+Total Scope 1 and Scope 2 emissions per rupee of turnover
+(Total Scope 1 and Scope 2 GHG emissions / Revenue from operations)
+0.00000326 
+TonneCO2e/`
+0.00000381 
+TonneCO2e/`
+Total Scope 1 and Scope 2 emissions intensity per rupee of turnover adjusted for 
+Purchasing Power Parity (PPP) (Total energy consumed / Revenue from operations 
+adjusted for PPP)
+0.00007309 
+TonneCO2e/` 
+adjusted to PPP
+0.00008452 
+TonneCO2e/` 
+adjusted to PPP
+Total Scope 1 and Scope 2 emissions intensity in terms of physical output
+0.00105 TonneCO2e/
+TCH
+0.00118 TonneCO2e/
+TCH
+Total Scope 1 and Scope 2 emissions intensity (optional) – the relevant metric may 
+be selected by the entity
+-
+-
+8. 	
+Does the entity have any project related to reducing greenhouse gas emission? If Yes, then provide details.
+	
+JSW Infrastructure is committed to reducing its GHG Emissions. Some of the initiatives undertaken are as follows:
+	
+-	
+Adopting energy efficient lighting- gradual change to use LED lights at most of our sites
+	
+-	
+Various Process improvement projects like - Auto shut down of the conveyor belt when idle for 15 mins, barcode-based cargo 
+management system reducing the vehicle wait time and reducing emissions etc.
+	
+-	
+Increase the share of Renewables in our Energy basket
+	
+-	
+Promoting the use of Electric Vehicles across sites and exploring options for using biodiesel
+9.	
+ Provide details related to waste management by the entity, in the following format: 
+Parameter
+Current Financial Year
+Previous Financial Year
+Total waste generated (in metric tonnes)
+Plastic waste (A)
+63.740 Tonnes
+-
+E-waste (B)
+2.440 Tonnes
+-
+Bio-medical waste (C)
+0.025 Tonnes
+-
+Construction and demolition waste (D)
+11612.880 Tonnes
+-
+Battery waste (E)
+6.134 Tonnes
+-
+Radioactive waste (F)
+0 Tonnes
+-
+Other Hazardous waste. Please specify, if any. (G)
+134.574 Tonnes
+-
+Other Non-hazardous waste generated (H). Please specify, if any.
+(Break-up by composition i.e. by materials relevant to the sector)
+1715.091 Tonnes
+-
+Total (A+B + C + D + E + F + G + H)
+13534.885 Tonnes
+2164.2 Tonnes*
+Waste per rupee of turnover
+(Total waste generated/ Revenue from operations)
+0.00000036 T/`
+0.00000007 T/`
+Waste intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP) 
+(Total waste generated/ Revenue from operations adjusted for PPP)
+0.0000081 T/` 
+adjusted to PPP
+0.0000015 T/` 
+adjusted to PPP
+Waste intensity in terms of physical output
+0.0001159 T/TCH
+0.0000209 T/TCH
+Waste intensity (optional) – the relevant metric may be selected by the entity
+-
+-
+For each category of waste generated, total waste recovered through recycling, 
+re-using or other recovery operations (in metric tonnes)
+Category of waste
+(i) 	 Recycled
+1903.448 Tonnes
+-
+(ii) 	 Re-used
+9440.612 Tonnes
+-
+(iii) 	Other recovery operations
+-
+-
+Total
+11344.060 Tonnes
+1829.9 Tonnes*
+For each category of waste generated, total waste disposed of by nature of disposal method (in metric tonnes)
+Category of waste
+(i) 	 Incineration
+3.425 Tonnes
+-
+(ii) 	 Landfilling
+130.170 Tonnes
+-
+(iii) 	Other disposal operations
+-
+-
+Total
+133.594 Tonnes
+-
+*Note: category wise breakup of wastes was not recorded in FY 23
+207
+Corporate 
+Overview
+Statutory 
+Reports
+Financial
+Statements
+Integrated Report 2023-24
+10. 	 Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by your 
+company to reduce the usage of hazardous and toxic chemicals in your products and processes and the practices adopted to 
+manage such wastes.
+	
+As a group initiative at JSW we are committed to reduce generation, reuse and recycle the generated waste wherever possible. JSWIL is 
+engaged in port business providing services for import and export of cargos for various industries. There is no manufacturing or production 
+processes carried out at the ports. Thus, there is no use of any hazardous or toxic chemicals. However JSWIL is compliant with all the 
+applicable regulatory requirements pertaining to waste management and tries to re-use and recycle waste generated in operations wherever 
+possible. The spent oil and oil-soaked cotton waste are the only hazardous wastes generated at our locations - this is disposed through 
+authorised vendors as per the guidelines of the state and central pollution control board. Other wastes are reused or recycled.
+11.	  If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones, etc.) where environmental approvals/
+clearances are required, please specify details in the following format:
+Location of operations/offices
+Type of operations Whether the conditions of environmental approval / clearance 
+are being complied with? (Y/N) If no, the reasons thereof and 
+corrective action taken, if any.
+All Ports and Terminals fall under the Coastal 
+Regulation Zone (CRZ)
+Cargo Handling
+Yes - Given the nature of operations, all the Company’s ports and 
+terminals fall under the coastal regulations zone. Apart from CRZ 
+there is no location that falls in/around ecologically sensitive 
+areas. JSW Infrastructure is compliant with environmental 
+regulations.
+12. 	 Details of Environmental Impact Assessments of projects undertaken by the entity based on applicable laws, in the current 
+financial year:
+Name and brief 
+details of project
+EIA Notification 
+No.
+Date
+Whether 
+conducted by 
+independent 
+external agency 
+(Yes / No)
+Results 
+communicated 
+in public domain 
+(Yes / No)
+Relevant Web link
+Capacity 
+Optimization of 
+operational Ennore 
+Coal Terminal 
+Private Limited 
+(ECTPL) at Kamarajar 
+Port, Ennore.
+S.O. 1533 (E), 
+EIA Notification 
+–2006 and its 
+amendments 
+thereafter
+July, 2023
+Yes
+Yes
+Link: https://parivesh.nic.in/newupgrade/#/
+proposal-summary/proposal-docum
+ent?proposal=7770939&proposal_
+no=IA%2FTN%2FINFRA1%2F439694%2F2023& 
+proposal_id=7768531 -
+Change in cargo 
+profile of the 
+operational Ennore 
+Bulk Terminal 
+Private Limited 
+(EBTPL) at Kamarajar 
+Port, Ennore.
+S.O. 1533 (E), 
+EIA Notification 
+–2006 and its
+amendments 
+thereafter
+August, 
+2023
+Yes
+Yes
+Link: https://parivesh.nic.in/newupgrade/#/
+proposal-summary/proposal-docum
+ent?proposal=54771988&proposal_
+no=IA%2FTN%2FCRZ%2F466737%2F2024 
+&proposal_id=54771984
+13. 	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water (prevention 
+and control of pollution) Act, Air (prevention and control of pollution) Act, Environment Protection Act, and rules there under 
+(Y/N). If not, provide details of all such non-compliances:
+Specify the law / regulation 
+/ guidelines which was not 
+complied with
+Provide details of the non-
+compliance
+Any fines / penalties / action taken by 
+regulatory agencies such as pollution 
+control boards or by courts
+Corrective action taken, 
+if any
+Yes. JSW Infrastructure is compliant with all the applicable environmental laws/ regulations/ guidelines in India.
+208
+JSW Infrastructure Limited
+Leadership Indicators
+1. 	
+Water withdrawal, consumption and discharge in areas of water stress (in kilolitres):
+	
+For each facility / plant located in areas of water stress, provide the following information:
+	
+Not Applicable
+	
+(i) 	
+Name of the area
+	
+(ii) 	
+Nature of operations 	 	
+	
+-
+	
+(iii) 	 Water withdrawal, consumption and discharge in the following format:
+Current Financial Year Previous Financial Year
+Water withdrawal by source (in kilolitres)
+Not Applicable
+(i) 	 Surface water
+(ii) 	 Groundwater
+(iii) 	Third party water
+(iv) 	Seawater / desalinated water
+(v) 	Others
+Total volume of water withdrawal (in kilolitres)
+Total volume of water consumption (in kilolitres)
+Water intensity per rupee of turnover (Water consumed / turnover)
+Water intensity (optional) – the relevant metric may be selected by the entity
+Water discharge by destination and level of treatment (in kilolitres)
+(i) 	 Into Surface water
+Not Applicable
+	
+No treatment
+	
+With treatment – please specify level of treatment
+(ii) 	 Into Groundwater
+	
+No treatment
+	
+With treatment – please specify level of treatment
+(iii) 	Into Seawater
+	
+No treatment
+	
+With treatment – please specify level of treatment
+(iv) 	Sent to third parties
+	
+No treatment
+	
+With treatment – please specify level of treatment
+(v) 	Others
+	
+No treatment
+	
+With treatment – please specify level of treatment
+Total water discharged (in kilolitres)
+2. 	
+Please provide details of total Scope 3 emissions & their intensity:
+Parameter
+Current Financial Year
+Previous Financial Year
+Total Scope 3 emissions (Break-up of the GHG into CO2, CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available)
+51984 Tonne CO2e
+51901 Tonne CO2e*
+Total Scope 3 emissions per rupee of turnover
+0.0000014 Tonne CO2e/`
+0.0000016 Tonne CO2e/`*
+Total Scope 3 emission intensity (optional) – the relevant metric may be 
+selected by the entity
+0.00045 Tonne CO2e/TCH
+0.00058 Tonne CO2e/TCH*
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the external 
+agency. Yes – Bureau Veritas India Pvt. Ltd.
+*Note: Scope-3 emissions for Mangalore Container and PEQCTPL are not reported in FY 23 as the terminals were newly commissioned and were 
+under stabilization.
+3. 	
+With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide details of 
+significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and remediation activities.
+	
+Given the nature of our operations all of our ports and terminals fall under the coastal regulations zone. No other ecologically sensitive area 
+falls within our area of operations. We carry out terrestrial and marine biodiversity assessment as a part of EIA report for all our greenfield 
+projects and brownfield expansions. The mitigation measures suggested in the respective EIA report are implemented and duly reported 
+in the 6 monthly compliance reports to MoEFCC.
+209
+Corporate 
+Overview
+Statutory 
+Reports
+Financial
+Statements
+Integrated Report 2023-24
+4. 	
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource efficiency, 
+or reduce impact due to emissions / effluent discharge/waste generated, please provide details of the same as well as the 
+outcome of such initiatives:
+Initiative undertaken
+Details of the initiative (Web-link, if any, may be provided along-with summary) Outcome of the initiative
+Initiatives are discussed in detail in the natural capital section of our integrated report.
+5. 	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link.
+	
+Yes. Disaster Management Plans (DMPs) are prepared for all our locations as an integral part of the EIA studies. These DMPs are examined 
+by MoEFCC and environmental Clearance (EC) include compliance to the DMPs. The measures suggested in the DMPs are implemented at 
+all our locations and regularly reviewed.
+	
+We have also prepared a Business Continuity Plan based on our assessment of different types of risks. Further, we have carried out a TCFD 
+(TaskForce on Climate related Financial Disclosures) Study wherein our physical and transition risks have been assessed and enumerated. 
+The recommendations of the TCFD study have also been included in the Business Continuity Plan.
+6. 	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation or 
+adaptation measures have been taken by the entity in this regard.
+	
+JSW Infrastructure has yet to conduct a comprehensive assessment of its value chain for environmental impacts. Nevertheless, the 
+company mandates that all suppliers adhere to relevant laws and regulations. Taking proactive measures toward a sustainable supply 
+chain, JSW Infrastructure has launched a phased supply chain assessment program focusing on critical suppliers. This initiative aims to 
+evaluate and improve sustainability practices across its supplier network and business partnerships.
+7. 	
+Percentage of value chain partners (by value of business done with such partners) that were assessed for environmental 
+impacts.
+	
+0
+Principle 7: Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is 
+responsible and transparent
+Essential Indicators
+1. 	
+a. 	
+Number of affiliations with trade and industry chambers/ associations.
+	
+	
+5
+	
+b. 	
+List the top 10 trade and industry chambers/ associations (determined based on the total members of such a body) the 
+entity is a member of/ affiliated to.
+Name of the trade and industry chambers/ associations
+Reach of trade and industry chambers/ 
+associations (State/National)
+FICCI (Federation of Indian Chambers of Commerce and Industry)
+National
+IPPTA (Indian Private Ports and Terminals Association)
+National
+BCCI (Bombay Chamber of Commerce and Industry)
+State
+KCCI (Kanara Chamber of Commerce and Industry)
+State
+Udupi Chamber of Commerce and Industry
+State
+2. 	
+Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the entity, based 
+on adverse orders from regulatory authorities. 
+Name of authority
+Brief of the case
+Corrective action taken
+no adverse order for anti-competitive conduct by the entity
+Leadership Indicators
+1. 	
+Details of public policy positions advocated by the entity:
+Public policy 
+advocated
+Method resorted 
+for such advocacy
+Whether information available 
+in public domain? (Yes/No)
+Frequency of Review by Board (Annually/ Half 
+yearly/ Quarterly / Others – please specify)
+Web Link, if 
+available
+JSW Infrastructure works closely with various industry/trade associations in evolving policies that govern the Indian Ports sector. The 
+Company has been instrumental in providing feedback and conducting dialogue for policies like Haritsagar guidelines to the government.
+210
+JSW Infrastructure Limited
+PRINCIPLE 8: Businesses should promote inclusive growth and equitable development
+Essential Indicators
+1. 	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the current 
+financial year. 
+Name and brief 
+details of project
+SIA Notification 
+No.
+Date of 
+notification
+Whether conducted by independent 
+external agency (Yes / No)
+Results communicated in 
+public domain (Yes / No)
+Relevant 
+Web link
+During the process of Environmental Clearance, SIA is an integral part of the EIA studies, and is carried out for all greenfield projects 
+and brownfield expansions.
+2. 	
+Provide information on the project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by 
+your entity: 
+Name of Project for 
+which R&R is ongoing
+State
+District
+No. of Project Affected 
+Families (PAFs)
+% of PAFs covered by R&R
+Amounts paid to PAFs in the 
+FY (In `)
+Nil
+-
+-
+-
+-
+-
+3. 	
+Describe the mechanisms to receive and redress grievances of the community.
+	
+The Company ensures contiuous engagement with the community through various modes. Please refer to the stakeholder engagement 
+section of the Company’s CSR policy for more details. https://www.jsw.in/sites/default/files/assets/downloads/infrastructure/Policies/
+CSR_Policy_JSW_Infrastructure.pdf
+4. 	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers: 
+Current Financial Year
+Previous Financial Year
+Directly sourced from MSMEs/ small producers
+58%
+30%*
+Directly from within India
+93%
+100%
+*Note: The data excludes our terminals at Mangalore and Ennore.
+5.	
+Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers employed on a 
+permanent or non-permanent / on contract basis) in the following locations, as % of total wage cost)
+Location
+Current FY
+Previous FY
+Rural
+53.8%
+51.1%
+Semi-urban
+7.5%
+8.1%
+Urban
+28.6%
+31.8%
+Metropolitan
+10.2%
+9.0%
+Leadership Indicators
+1. 	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments (Reference: 
+Question 1 of Essential Indicators above):
+Details of negative social impact identified
+Corrective action taken
+Social Impact is assessed in the respective EIA studies and CER/CSR budgets are allocated accordingly.
+2. 	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as identified 
+by government bodies:
+State
+Aspirational District
+Amount spent (In `)
+-
+-
+-
+3. 	
+(a) 	 Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising 
+marginalized /vulnerable groups? (Yes/No)
+	
+	
+No
+	
+(b) 	 From which marginalized /vulnerable groups do you procure? 
+	
+	
+-
+	
+(c) 	 What percentage of total procurement (by value) does it constitute? 	
+	
+	
+	
+-
+211
+Corporate 
+Overview
+Statutory 
+Reports
+Financial
+Statements
+Integrated Report 2023-24
+4. 	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the current 
+financial year), based on traditional knowledge:
+Intellectual Property based on 
+traditional knowledge
+Owned/ Acquired (Yes/No)
+Benefit shared (Yes / No)
+Basis of calculating benefit share
+-
+-
+-
+-
+5.	
+ Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes wherein 
+usage of traditional knowledge is involved.
+Name of authority
+Brief of the Case
+Corrective action taken
+-
+-
+-
+-
+-
+-
+6. 	
+Details of beneficiaries of CSR projects:
+CSR Project
+No. of persons benefitted 
+from CSR Projects
+% of beneficiaries from vulnerable 
+and marginalized groups
+Health & Nutrition
+34763
+75
+Education Enablement
+4412
+75
+Livelihood Enablement
+2530
+75
+Water Environment and Sanitation
+205556
+75
+Waste Management
+415000
+75
+Community Infrastructure Development
+29803
+75
+Promotion of Sports
+654
+75
+PRINCIPLE 9: Businesses should engage with and provide value to their consumers in a responsible manner
+Essential Indicators
+1. 	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+The company has feedback form to collect formal feedback from the customers from time to time. The customers can reach out to respective 
+customer support team for complaints in relation to the services.
+2. 	
+Turnover of products and/or services as a percentage of turnover from all products/services that carry information about: 
+As a % to total turnover
+Environmental and social parameters relevant to the product
+Not Applicable owing to the nature of business
+Safe and responsible usage
+Recycling and/or safe disposal
+3. 	
+Number of consumer complaints in respect of the following:
+Current Financial Year
+Remarks
+Previous Financial Year
+Remarks
+Receive 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Data privacy
+0
+0
+-
+0
+0
+-
+Advertising
+0
+0
+-
+0
+0
+-
+Cyber-security
+0
+0
+-
+0
+0
+-
+Delivery of essential services
+0
+0
+-
+0
+0
+-
+Restrictive trade practices
+0
+0
+-
+0
+0
+-
+Unfair trade practices
+0
+0
+-
+0
+0
+-
+Other
+0
+0
+-
+0
+0
+-
+4. 	
+Details of instances of product recalls on account of safety issues. 
+Number
+Reasons for Recall
+Voluntary Recalls
+0
+Not Applicable
+Forced Recalls
+0
+Not Applicable
+212
+JSW Infrastructure Limited
+5. 
+	Does the entity have a framework/policy on cyber security and risks related to data privacy? If available, provide a web link to
+the policy.
+Yes, https://www.jswsteel.in/sites/default/files/assets/industry/steel/IR/Corporate%20Governace/Cyber/2100_001.pdf
+6. 
+	Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential services; 
+cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty/action taken by regulatory 
+authorities on the safety of products/services.
+	JSWIL has not faced any substantiated incidents concerning breaches of cyber security/data privacy etc. & have substantive cybersecurity 
+mitigation plan in place.
+7. 
+Provide the following information relating to data breaches:
+a.	 Number of instances of data breaches
+0
+b.	 Percentage of data breaches involving personally identifiable information of customers
+   0% 
+c.	 Impact, if any, of the data breaches
+Not Applicable
+Leadership Indicators
+1. 
+Channels/platforms where information on products and services of the entity can be accessed.
+	All the necessary information regarding the Company’s services can be accessed on the website: https://www.jsw.in/infrastructure/jsw-
+ports
+2. 
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.
+	JSWIL operates multiple ports and terminals as a cargo-handling service provider. Customer visits to these sites are occasional and not
+mandatory. However, JSWIL ensures that all individuals entering its port premises are informed and educated about safety protocols and
+responsible conduct within the facility.
+3. 
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.
+	There is continual communication maintained with customers to identify and address issues which may arise and allow both parties to
+work towards mutually beneficial solutions.
+4.
+	Does the entity display product information on the product over and above what is mandated as per local laws? (Yes/No/Not
+Applicable) If yes, provide details in brief. Did your entity carry out any survey with regard to consumer satisfaction relating to
+the major products / services of the entity, significant locations of operation of the entity or the entity as a whole? (Yes/No)
+Not Applicable
+213
+Corporate 
+Overview
+Statutory 
+Reports
+Financial
+Statements
+Integrated Report 2023-24
+Independent Assurance Statement 
+ 
+ 
+ 
+ Assurance Statement on JSW 
+Infrastructure Limited’s Annual Integrated 
+Report (IR) & Business Responsibility and 
+Sustainability Report (BRSR) 
+ 
+For  
+Reporting Period:  
+ 
+April 01, 2023 – March 31, 2024 
+ 
+ 
+ 
+ 
+ 
+Bureau Veritas (India) Private Limited 
+72 Business Park, 9th Floor, MIDC Cross Road ‘C’, Opp. SEEPZ 
+Gate #2, Andheri (East) Mumbai-400 093 India. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Independent Assurance Statement 
+ 
+Introduction and Objective of Work 
+ 
+BUREAU VERITAS has been engaged by JSW Infrastructure Ltd. (hereinafter referred to as “JSWIL” 
+or “the company”) to provide independent assurance of sustainability disclosures reported in the 
+integrated report of JSWIL (hereinafter abbreviated as “Report”) for the reporting period from 1st April 
+2023 to 31st March 2024 based on reporting criteria followed for the Integrated report. 
+ 
+Reasonable Assurance is provided for BRSR “Core” and Limited Assurance for BRSR 9 Principles and 
+IR prepared in accordance with GRI framework. The verification of the KPI and Sustainability practices 
+adopted by JSWIL at the respective operations and review of documents and non-financial disclosures 
+were conducted from December 2023 to April 2024 as a part of reasonable and limited assurance of 
+sustainability disclosures. 
+ 
+Intended User 
+The assurance statement is made solely for “JSWIL and its stakeholders” as per the governing 
+contractual terms and conditions of the assurance engagement contract between “JSWIL” and “Bureau 
+Veritas”. To the extent that the law permits, we owe no responsibility and do not accept any liability to 
+any party other than “JSWIL” for the work we have performed for this assurance report, or our 
+conclusions stated in the paragraph below. 
+ 
+Reporting Criteria 
+The company has adopted below criteria for preparing the report: 
+Ø The International<IR> Framework (January 2021); 
+Ø Global Reporting Initiative (GRI) Standards; 
+Ø Greenhouse Gas (GHG) Protocol. 
+Ø Business Responsibility and Sustainability Report as per Annexure 1 of the SEBI circular 
+(SEBI/HO/CFD/CFD-SEC-2/P/CIR/2023/122, dated July 12, 2023) BRSR Core KPIs 
+ 
+Assurance Standards Used 
+Bureau Veritas conducted reasonable sustainability assurance in accordance with the requirements of 
+International Federation of Accountants (IFAC) International Standard on Assurance Engagement 
+(ISAE) 3000 (Revised) Reasonable Assurance & GHG as per ISAE3410. Under this standard, Bureau 
+Veritas has reviewed the information presented in the report against the characteristics of relevance, 
+completeness, materiality, reliability, neutrality, and understandability. Limited assurance consists 
+primarily of inquiries and analytical procedures. The procedures performed in a limited assurance 
+engagement vary in nature and timing and are less in extent than for a reasonable assurance 
+engagement. 
+ 
+Scope, Boundary, and Limitations of Assurance 
+ 
+The scope of assurance involves sustainability performance of non-financial disclosures (General and 
+Topic Specific as mentioned below) of the following operations in India for the period 1st April 2023 to 
+31st March 2024 based on BRSR, GRI Standards & GHG protocol.  
+Ø Jaigarh Port Ltd, Maharashtra. 
+Ø South West Port Ltd, Goa 
+Ø Ennore Coal & Bulk Terminals, Tamil Nadu 
+Ø Dharamtar Port Pvt. Ltd, Maharashtra 
+Ø Mangalore Coal Terminal, Karnataka 
+Ø Mangalore Container Terminal, Karnataka 
+Ø Paradip Iron Ore Terminal, Odisha 
+ 
+ 
+ 
+ 
+ 
+Independent Assurance Statement 
+ 
+Ø Paradip East Quay Coal Terminal, Odisha. 
+The review of the sustainability performance of non-financial disclosures is limited to the above-
+mentioned operations of JSWIL only. 
+ 
+The Scope of Sustainability Assurance for IR and BRSR includes: 
+Ø An assessment of the procedures or approaches followed for data compilation and reporting of 
+the sustainability performance non-financial disclosures for specific operations. 
+Ø Testing, on a sample basis, of evidence supporting the data. 
+Ø Verification of the sample data evidence and information on selected material topics reported 
+at the above-mentioned operations for the defined reporting period. 
+Ø Assessment of the suitability between the backup data for the selected sustainability 
+performance non-financial disclosures and the information presented in IR. 
+ 
+Ø The General and topic-specific sustainability non-financial standard disclosures are subject to 
+limited assurance based on the extent of information available for assurance 
+Ø Completion of assurance statement for inclusion in the report reflecting the verification, findings, 
+and conclusion of the disclosure’s assurance. Gap assessment as per GRI standards, 
+highlights of findings during verification of disclosures, draft assurance statement, final signed 
+assurance statement as per GRI standards compliance. 
+The reasonable assurance includes verification of the data and information on selected material BRSR 
+Core topics reported at the following: 
+ 
+• 
+Green-house gas (GHG) footprint 
+• 
+Water footprint 
+• 
+Energy footprint 
+• 
+Embracing circularity - details related to waste management by the entity 
+• 
+Enhancing Employee Wellbeing and Safety 
+• 
+Enabling Gender Diversity in Business 
+• 
+Enabling Inclusive Development 
+• 
+Fairness in Engaging with Customers and Suppliers 
+• 
+Open-ness of business 
+ 
+Environment  
+ 
+Ø GRI 301: Materials 
+Ø GRI 302: Energy 
+Ø GRI 303: Water and Effluent 
+Ø GRI 304: Biodiversity 
+Ø GRI 305: Emissions  
+Ø GRI 306: Waste 
+Ø GRI 308: Supplier Environmental Assessment 
+ 
+Universal Standard 
+ 
+Ø GRI 2: General Disclosures  
+Ø GRI 3: Material Topics 
+ 
+ 
+ 
+ 
+ 
+ 
+Independent Assurance Statement 
+ 
+Topic-Specific Standard Disclosures 
+ 
+Environment  
+Ø GRI 301: Materials 
+Ø GRI 302: Energy 
+Ø GRI 303: Water and Effluent 
+Ø GRI 304: Biodiversity 
+Ø GRI 305: Emissions  
+Ø GRI 306: Waste 
+Ø GRI 308: Supplier Environmental Assessment 
+ 
+Social  
+Ø GRI 401: Employment 
+Ø GRI 402: Labor/Management Relations 
+Ø GRI 403: Occupational Health and Safety 
+Ø GRI 404: Training and Education 
+Ø GRI 405: Diversity and Equal Opportunity  
+Ø GRI 406: Non-discrimination 
+Ø GRI 407: Freedom of Association and Collective Bargaining 
+Ø GRI 408: Child Labor 
+Ø GRI 409: Forced or Compulsory Labor 
+Ø GRI 410: Security Practices 
+Ø GRI 411: Rights of Indigenous Peoples 
+Ø GRI 413: Local Communities 
+Ø GRI 414: Supplier Social Assessment 
+Ø GRI 415: Public Policy  
+Ø GRI 416: Customer Health and Safety  
+Ø GRI 417: Marketing and Labeling  
+Ø GRI 418: Customer Privacy  
+ 
+Limitations and Exclusions 
+The assurance is limited to the above-mentioned scope of work and excludes the information relating 
+to: 
+§ 
+Data related to the Company’s financial performance disclosures. 
+§ 
+Activities and practices followed outside the defined assurance period stated hereinabove.                          
+< 
+§ 
+Positional statements, expressions of opinion, belief, aim, or future intention by “JSWIL” and 
+statements of future commitment. 
+§ 
+The assurance does not extend to the activities and operations of “JSWIL” outside of the scope 
+and geographical boundaries mentioned in the report as well as the operations undertaken by 
+any other entity that may be associated with or have a business relationship with “JSWIL”. 
+§ 
+Compliance with any Environmental, Social, and legal issues related to the regulatory authority. 
+§ 
+Any of the statements related to company aspect or reputation. 
+§ 
+The data reported for 305-3 (Scope-3 GHG emissions) is restricted to Purchased Goods & 
+Services, Capital Goods, Fuel & Energy related activities, Upstream transportation, Waste 
+generated in operations and its disposal, Business travel and Employee commute. 
+   
+ 
+ 
+ 
+ 
+ 
+Independent Assurance Statement 
+ 
+The methodology adopted for Assurance 
+ 
+Bureau Veritas sustainability assurance process involves specified procedures to obtain evidence 
+regarding the accuracy and reliability of the data provided related to general and topic-specific standard 
+disclosures. The nature, timing, and extent of procedures selected depend on the data and evidence 
+provided, including the verification of the associated risks with the material topics of the selected 
+sustainability non-financial disclosures and their relevance for the reporting period. While assessing the 
+associated risks, internal strategy is being considered during the preparation of the report to design the 
+assurance procedure and validate their appropriateness to the possible extent. 
+ 
+As per the scope of the assurance, sample evidence, information, and explanations that were 
+considered necessary in relation to the assurance scope and accordingly conclusions have been made 
+as mentioned below: 
+ 
+Ø Assessing that the report is prepared in accordance with Sustainability Reporting based on Global 
+Reporting Initiative (GRI Standards) and BRSR Standards including BRSR Core parameters 
+applicable on JSWIL considered operations for the assurance. 
+Ø Assessing that the report is prepared in accordance with the Sustainability Reporting Standards 
+based on BRSR Standards and GRI framework applicable to the operation of JSWIL. 
+Ø Understanding the appropriateness of various assumptions used for the estimation of data by 
+JSWIL. 
+Ø Reviewing the Report to ensure that there is no misrepresentation of disclosures as per scope of 
+assurance and findings. 
+Ø Review of the level of adherence to the BRSR framework for Reasonable Assurance of Core 
+parameters, the reporting framework followed by JSWIL in preparing the report, and the principles 
+of Materiality, Inclusivity and Responsiveness, and stakeholder engagement framework deployed 
+at JSWIL. 
+Ø Assessing the systems used for data compilation and reporting on the basis of BRSR Reporting 
+under core parameters in the assurance scope above. 
+Ø Verifying systems and procedures used for quantification, collation, and analysis of sustainability 
+performance disclosures included in the Report.  
+Ø Discussions with officials at the corporate office and understanding the risks and opportunities from 
+a sustainability perspective including the strategy that JSWIL has adopted to address the same. 
+Ø Assessing the month-wise data considering the similarity, reliability, and accuracy. 
+• Verifying selects key performance data through site visits to operational locations and 
+corporate office for: 
+• Testing reliability and accuracy of data on a sample basis. 
+• Assessing stakeholder engagement process through interactions with relevant internal 
+stakeholders and review of related documentation. 
+• Review of the materiality assessment process. 
+• Reviewing the processes deployed for collection, compilation, and reporting of sustainability 
+performance disclosures at the corporate and plant level 
+Ø Gap assessment of the present Sustainability Reporting at JSWIL w.r.t BRSR Framework and 
+Reasonable Assurance for Core parameters. 
+Ø Discussions with stakeholders, review of stakeholder identification, and selection process. 
+Ø Review ‘the development of a strategy for the organization relative to its material issues and 
+stakeholder issues and concerns, and the execution of that strategy in terms of proper performance 
+measurement, proper target setting, and proper governance and accountability. 
+Ø Review of claims and data streams, to determine the level of accuracy of statements in the report, 
+and the reliability of specified sustainability performance – Non-Financial Disclosure Assurance. 
+Ø Execution of an audit trail of claims and data streams, to determine the level of accuracy in 
+collection, transcription, and aggregation carried out by JSWIL for preparation of the Sustainability 
+report; 
+ 
+ 
+ 
+ 
+ 
+Independent Assurance Statement 
+ 
+Ø Review of the plans, policies, and practices, pertaining to Environmental, Social, and Governance 
+aspects and commitments to assess and evaluate the adequacy and fairness of BRSR reporting of 
+the company. 
+Ø Ensure that reports provide a balanced and reasonable representation of the organization’s positive 
+and negative contributions toward the goal of sustainable development. 
+Ø Classifying observations and findings and issuance of Reasonable Assurance Statement  
+Ø Assessing the reporting procedures for GHG emissions in accordance with the GHG Protocol 
+Ø Understanding the appropriateness and reliability of various assumptions and calculations 
+adopted for the estimation of data presented in the report. 
+Ø Reviewing the report, supporting evidence, and documented data to ensure that there is no 
+misrepresentation of disclosures as per the scope of assurance and findings. 
+Ø Assessing the systems used for data compilation at the respective unit and reporting based on 
+Universal Disclosures and Topic Specific Disclosures of material topics as listed in the 
+assurance scope above. 
+Ø Verifying systems and procedures used for quantification, collation, and analysis of 
+sustainability performance non-financial disclosures included in the report. 
+Ø Discussion with concerned personnel at JSW Headquarters Corporate Level and Site Level 
+regarding the data presented in the report and the backup data associated. 
+Ø Assessing the month-wise data for the reporting period considering the similarity, reliability, and 
+accuracy of the data at respective units 
+Ø Review of sustainability performance non-financial disclosures data has been carried out 
+based on review of data provided for respective units along with related backup; site visits at 
+JSWIL's operations at the locations, as described above, in December 2023 and April 20241; 
+and discussions with the concerned personnel for JSWIL.   
+ 
+Conclusions  
+Integrated Report 
+ 
+Based on the procedures followed, as mentioned in the scope of work, and methodology adopted and 
+the data/evidence obtained, the sustainability performance of non-financial disclosures in the Integrated 
+Report of JSWIL is reviewed as per the IIRC & GRI Standard framework for the reporting period (1st 
+April 2023 to 31st March 2024). 
+ 
+BRSR 
+On the basis of our methodology and the activities described above, it is our opinion that the BRSR for 
+FY 2023-24 of “JSWIL”, containing its reporting and declaration of the various ESG parameters from 
+the operations within the reporting boundary and the reporting period, as described above, is prepared 
+in all material respects in line with the applicable criteria here before stated 
+ 
+It is concluded based on the assurance review that the information presented in the Integrated Report 
+for JSWIL’s operations in accordance with select sustainability reporting non-financial disclosures of 
+Global Reporting Initiative (GRI Standard) is proper, adequate, reliable, and maintained in line with the 
+material topics and reporting criteria, which JSWIL is solely responsible for consideration. 
+ 
+Responsibilities 
+ 
+JSWIL is completely responsible for the report contents, identification of material topics, and data 
+reporting structure. The selection of reporting criteria, reporting period, reporting boundary, monitoring, 
+ 
+1 Wherever documentary evidence could not be collected during site visits as a part of assurance on-site; the review of data and assessment 
+were carried out off-site upon receipt of information; evidence and information collected during stakeholder consultations. 
+ 
+ 
+ 
+ 
+ 
+Independent Assurance Statement 
+ 
+and measurement of data, preparation, and presentation of information for the report are the sole 
+responsibility of the management of “JSWIL”. Bureau Veritas (BV) was not involved in the drafting or 
+preparation of the report and any other backup data for the reporting period. The responsibility of BV 
+was to provide limited independent assurance for the sustainability of non-financial disclosures as 
+described in the scope of assurance. 
+ 
+The said assessment is properly based on the assumption that the data and information provided in the 
+report is proper and without any discrepancy. Bureau Veritas shall not be held liable or responsible for 
+any type of decision a person or entity would make based on this assurance statement. While reading 
+the assurance statement, stakeholders shall recognize and accept the limitations and scope as 
+mentioned above. 
+ 
+Uncertainty  
+The reliability of assurance is subject to uncertainty(ies) that is inherent in the assurance process. 
+Uncertainties stem from limitations in quantification models used, assumptions, or data conversion 
+factors used or may be present in the estimation of data used to arrive at results. Our conclusions with 
+respect to this assurance are naturally subject to any inherent uncertainty(ies) involved in the assurance 
+process. 
+Statement of independence, impartiality, and competence 
+Bureau Veritas is an independent professional services company that specializes in Quality, Health, 
+Safety, Social, and Environmental Management with almost 190 years of history in providing 
+independent assurance services.  
+Bureau Veritas has implemented a Code of Ethics across the business to maintain high ethical 
+standards among staff in their day-to-day business activities. We are particularly vigilant in the 
+prevention of conflicts of interest.  
+No member of the assurance team has a business relationship with “JSWIL”, its Directors, Managers, 
+or officials beyond that required of this assignment. We have conducted this verification independently 
+and there has been no conflict of interest. 
+The assurance team has extensive experience in conducting assurance over environmental, social, 
+ethical, and health & safety information, systems, and processes and an excellent understanding of 
+Bureau Veritas standard methodology for the assurance of Sustainability Report as per Global 
+Reporting Initiative (GRI) Standards. 
+Bureau Veritas (India) Private Limited 
+72 Business Park, 9th Floor, MIDC Cross Road ‘C’, Opp. SEEPZ Gate #2, Andheri (East) Mumbai-400 
+093 India.  
+ 
+ 
+R S Premkumar 
+ 
+  Lead Assurer  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ms. Archana Thakur 
+Reviewer BVA Schemes  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Date: 29.06.2024  
+Place: India 

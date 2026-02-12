@@ -1,0 +1,4340 @@
+ 
+ 
+ 
+ 
+KL/SEC/2024‐25/38 
+Date:  16th July, 2024 
+To,                                                                              
+The Manager - Listing 
+National Stock Exchange of India Limited, 
+Exchange Plaza, Bandra Kurla Complex, 
+Bandra (E), Mumbai-400 051   
+NSE Symbol: KAMDHENU                                                
+To, 
+The Manager - Listing  
+BSE Limited, 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, Mumbai- 400 001 
+BSE Scrip Code:  532741 
+ 
+Subject: Submission of Revised XBRL of Business Responsibility and Sustainability 
+Report of Kamdhenu Limited for the financial year 2023‐24. 
+ 
+Dear Sir/Madam, 
+In reference to the Business Responsibility and Sustainability Report (BRSR) of 
+Kamdhenu Limited submitted vide letter no. KL/SEC/2024-25/36 dated 15th July, 2024, 
+for the financial Year 2023-24 pursuant to Regulation 34(2)(f) of SEBI (Listing 
+Obligations and Disclosures Requirements) Regulations, 2015, we wish to submit that, 
+owing to drafting errors in the qualitative data of BRSR – XBRL, we are hereby submitting 
+a revised XBRL file of BRSR for the financial year 2023-24. The Quantitative data in the 
+erstwhile XBRL was correct and thus the changes made are only in the qualitative data of 
+the XBRL. 
+ 
+Further, we wish to clarify that the PDF submission of BRSR FY 2023-24 is correct and 
+without any errors and thus only the BRSR in XBRL mode is being resubmitted. 
+ 
+We request you to kindly take the same on records. 
+ 
+Thanking you, 
+Yours faithfully, 
+For Kamdhenu Limited 
+ 
+ 
+ 
+Khem Chand, 
+Company Secretary & Compliance Officer 
+ 
+ 
+ 
+ 
+ 
+Khem 
+Chand
+Digitally signed 
+by Khem Chand 
+Date: 2024.07.16 
+19:23:56 +05'30'
+Khem 
+Chand
+Digitally signed 
+by Khem Chand 
+Date: 2024.07.16 
+21:32:10 +05'30'
+Business Responsibility & 
+Sustainability Report
+Business Responsibility and Sustainability Reporting (BRSR) is the practice of companies disclosing information 
+DERXWWKHLUHQYLURQPHQWDOVRFLDODQGJRYHUQDQFH(6*SHUIRUPDQFH,WJRHVEH\RQGͤQDQFLDOUHSRUWLQJWRSURYLGH
+VWDNHKROGHUVZLWKDFRPSUHKHQVLYHYLHZRIDFRPSDQ\̵VQRQͤQDQFLDOLPSDFWVDQGFRQWULEXWLRQVWRVXVWDLQDEOH
+development. BRSR covers topics such as environmental impact, social responsibility, and governance practices, aiming 
+to promote transparency and accountability.
+SECTION A: GENERAL DISCLOSURES
+I.
+Details of the listed entity
+1
+Corporate Identity Number (CIN) of the listed entity
+L27101HR1994PLC092205
+2
+Name of the listed entity
+KAMDHENU LIMITED
+3
+Year of incorporation
+12th September, 1994 
+4
+5HJLVWHUHGRIͤFHDGGUHVV
+2nd Floor, Tower-A, Building No. 9, DLF Cyber City, Phase-III 
+Gurugram - 122 002, Haryana, India
+5
+Corporate address
+2nd Floor, Tower-A, Building No. 9, DLF Cyber City, Phase-III 
+Gurugram - 122 002, Haryana, India
+6
+E-mail
+cs@kamdhenulimited.com
+7
+Telephone
+0124-4604500
+8
+Website
+www.kamdhenulimited.com
+9
+Financial year for which reporting is being done
+FY 2023-24
+10
+Name of the Stock Exchange(s) where shares are 
+listed
+National Stock Exchange of India Limited (NSE Ltd.) and BSE Ltd. 
+11
+Paid-up capital
+` 26,93,55,000 (Rupees Twenty-Six Crore Ninety-Three Lakhs 
+Fifty-Five Thousand Only) (2,69,35,500 Equity Shares of Face 
+Value of ` 10 each)
+12
+Name and contact details (telephone, e-mail 
+address) of the person who may be contacted in 
+case of any queries on the BRSR report
+Shri Harish Kumar Agarwal
+&KLHI)LQDQFLDO2IͤFHU	+HDG̰/HJDO
+Telephone: 0124-4604500
+E-mail: hkagarwal@kamdhenulimited.com
+13
+Reporting boundary - Are the disclosures under 
+this report made on a standalone basis (i.e. only for 
+the entity) or on a consolidated basis (i.e. for the 
+entity and all the entities which form a part of its 
+FRQVROLGDWHGͤQDQFLDOVWDWHPHQWVWDNHQWRJHWKHU
+Standalone basis
+14
+Name of assurance provider
+NA
+15
+Type of assurance obtained
+NA
+FY 2023-24
+Particulars
+Annual Report 2023-24
+96
+II.
+Products/services
+16. Details of business activities (accounting for 90% of the turnover):
+Description of 
+main activity
+Description of 
+business activity
+% of turnover of 
+the entity
+Manufacturing
+1
+Manufacturing of iron and 
+steel products
+81.96%
+Product/service
+NIC code
+% of total turnover 
+contributed
+Manufacturing of TMT bars 
+and franchise-based business
+1
+24105
+99.71%
+Royalty from branding
+2
+Franchise-based business
+17.76%
+17. Products/services sold by the entity (accounting for 90% of the entity’s turnover):
+III.
+Operations
+ 1XPEHU RI ORFDWLRQV ZKHUH SODQWV DQGRU RSHUDWLRQVRIͤFHV RI WKH HQWLW\ DUH VLWXDWHG
+1
+Number 
+of plants
+1
+Number of 
+RIͤFHV
+Total2
+National
+Location
+Number 
+of plants
+Number 
+RI RIͤFHV
+Total
+International
+0
+0
+0
+Financial Statements
+Statutory Reports
+Corporate Overview
+97
+Kamdhenu Limited
+19. Markets served by the entity:
+a.
+Number of locations
+Locations
+Number
+National (No. of states)
+International (No. of countries)
+2 
+0 
+b.
+What is the contribution of exports as a percentage of the total turnover of the entity?
+NIL
+c.
+A brief on types of customers
+Kamdhenu Limited manufactures steel products through its own and 
+franchisee units across India. The steel produced is used in various sectors 
+like automobiles, general engineering, machinery and construction. It serves 
+individual home builders, dealers, real estate developers, and infrastructure 
+companies. The Company reaches its customers through an extensive 
+network of distributors and franchisee partners. For more information 
+about Kamdhenu Limited’s products and their applications, please visit the 
+Company’s website at: www.kamdhenulimited.com
+IV.
+Employees
+ 'HWDLOV DV DW WKH HQG RI ͤQDQFLDO \HDU
+a.
+Employees and workers (including differently abled):
+IV
+IV
+I .
+Em
+Em
+Em
+E
+ployee
+e s
+ 'HWDLOV DV DW WKH HQG RI ͤQDQF
+a.
+Employees and workers (inc
+Annual Report 2023-24
+98
+Employees
+Sr. 
+no.
+Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+1
+Permanent (D)
+408
+393
+96.32
+15
+3.68
+2
+Other than permanent (E) 
+0
+0
+0
+0
+0
+3
+Total employees (D + E)
+408
+393
+96.32
+15
+3.68
+Workers
+Sr. 
+no.
+Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+4
+Permanent (F)
+141
+141
+100
+0
+0
+5
+Other than permanent (G)
+173
+173
+100
+0
+0
+6
+Total workers (F + G)
+314
+314
+100
+0
+0
+b.
+Differently abled employees and workers:
+Financial Statements
+Statutory Reports
+Corporate Overview
+99
+Kamdhenu Limited
+Sr. 
+no.
+Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+1
+Permanent (D)
+0
+0
+0
+0
+0
+2
+Other than permanent (E) 
+0
+0
+0
+0
+0
+3
+Total differently abled employees (D + E)
+0
+0
+0
+0
+0
+Differently abled 
+employees
+Sr. 
+no.
+Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+4
+Permanent (F)
+0
+0
+0
+0
+0
+5
+Other than permanent (E) 
+0
+0
+0
+0
+0
+6
+Total differently abled workers (F + G)
+0
+0
+0
+0
+0
+Differently abled 
+workers
+21. Participation/inclusion/representation of women
+No. and percentage of females
+Board of 
+Directors
+Particular
+Total (A)
+No. (B)
+% (B/A)
+9 
+1
+11% 
+5
+0
+0
+Key 
+Management 
+Personnel
+ited
+22. Turnover rate for permanent employees and workers
+Annual Report 2023-24
+100
+FY 2023-24 (Turnover rate in current FY)
+Permanent employees
+Female
+Permanent workers
+Male
+15.38%
+23.86%
+23.59%
+Total
+Particular
+0
+30.45%
+30.45%
+FY 2022-23 (Turnover rate in previous FY)
+Permanent employees
+Female
+Permanent workers
+Male
+20.00%
+16.69%
+16.77%
+Total
+Particular
+0
+19.40%
+19.40%
+FY 2021-22 (Turnover rate in the year prior to the previous FY)
+Permanent employees
+Female
+Permanent workers
+Male
+66.67%
+16.39%
+17.80%
+Total
+Particular
+0
+23.33%
+23.33%
+V.
+Holding, subsidiary and associate companies (including joint ventures)
+23. (a)
+Names of holding/subsidiary/associate companies/joint ventures
+Sr. 
+no.
+Name of the holding/
+subsidiary/associate 
+companies/joint ventures (A)
+Indicate whether 
+holding/subsidiary/
+associate/joint venture
+% of shares 
+held by listed 
+entity
+Does the entity indicated at column A, 
+participate in the Business responsibility 
+initiatives of the listed entity? (Yes/No)
+ 1
+Kamdhenu Jeevandhara 
+Foundation
+Subsidiary
+100%
+Yes
+Financial Statements
+Statutory Reports
+Corporate Overview
+101
+Kamdhenu Limited
+VI.
+CSR details
+24.
+Whether CSR is applicable as per section 
+135 of Companies Act, 2013: (Yes/No)
+Yes
+(i)
+Turnover (in `)
+` 72,470.69 Lakhs
+(ii)
+Net worth (in `)
+` 23,738.76 Lakhs
+(iii)
+VII. Transparency and disclosures compliances
+25. Complaints/grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+Stakeholder group 
+from whom complaint 
+is received
+Grievance redressal 
+mechanism in place 
+(Yes/No) * 
+FY 2023-24
+&XUUHQW ͤQDQFLDO \HDU
+FY 2022-23
+3UHYLRXV ͤQDQFLDO \HDU
+Number of 
+complaints 
+ͤOHG GXULQJ
+the year
+Number of 
+complaints 
+pending reso-
+lution at close 
+of the year
+Remarks
+Number of 
+complaints 
+ͤOHG GXULQJ
+the year
+Number of 
+complaints 
+pending reso-
+lution at close 
+of the year
+Remarks
+Communities
+Yes
+0
+0
+-
+0
+0
+-
+Investors (other than 
+shareholders)
+Yes
+0
+0
+-
+0
+0
+-
+Shareholders
+Yes
+15
+0
+-
+12
+0
+-
+Employees
+and
+workers
+Yes
+0
+0
+-
+0
+0
+-
+Customers
+Yes
+0
+0
+-
+0
+0
+-
+Stakeholder group 
+from whom complaint 
+is received
+Grievance redressal 
+mechanism in place 
+(Yes/No) * 
+FY 2023-24
+&XUUHQW ͤQDQFLDO \HDU
+FY 2022-23
+3UHYLRXV ͤQDQFLDO \HDU
+Number of 
+complaints 
+ͤOHG GXULQJ
+the year
+Number of 
+complaints 
+pending reso-
+lution at close 
+of the year
+Remarks
+Number of 
+complaints 
+ͤOHG GXULQJ
+the year
+Number of 
+complaints 
+pending reso-
+lution at close 
+of the year
+Remarks
+Value chain partners
+Yes
+0
+0
+-
+1
+1
+-
+Other (please 
+specify)
+-
+-
+-
+-
+0
+0
+-
+* Grievance redressal mechanism in Place (Yes/No) (If yes, then provide web-link for grievance redress policy)
+Stakeholder group 
+from whom complaint 
+is received
+Grievance policy weblink
+Communities
+The Company’s Code of Conduct, along with policies and grievance redressal mechanisms for 
+shareholders, employees, workers, customers, and value chain partners, are available on the 
+Company’s website at: www.kamdhenulimited.com/code-conduct.php
+Investors (other than 
+shareholders)
+Shareholders
+Employees
+and
+workers
+Customers
+Value chain partners
+Other (please 
+specify)
+Annual Report 2023-24
+102
+26. Overview of the entity’s material responsible business conduct issues
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or 
+PLWLJDWHWKHULVNDORQJZLWKLWVͤQDQFLDOLPSOLFDWLRQVDVSHUWKHIROORZLQJIRUPDW
+Risk
+Opportunity
+Negative
+Positive
+Sr. 
+no.
+Material 
+issue 
+LGHQWLͤHG
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk/
+opportunity
+In case of risk, approach to adapt 
+or mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative 
+implications)
+1
+Waste
+management
+Steel production, a resource-
+intensive sector, necessitates 
+HIͤFLHQWUHVRXUFHXWLOL]DWLRQ
+to achieve cost savings and 
+environmental protection. 
+Implementing effective 
+strategies for waste and energy 
+PDQDJHPHQWFDQPLQLPL]HZDVWH
+generation and enhance energy 
+HIͤFLHQF\OHDGLQJWRVXEVWDQWLDO
+cost reductions.
+Kamdhenu Limited places a high 
+priority on waste management in 
+steel production through initiatives 
+like recycling steel waste, using 
+approved recyclers for disposal, 
+and collecting/supplying waste 
+]LQF7KHVHPHDVXUHVPLWLJDWH
+the risks associated with direct 
+GLVSRVDOFRQWULEXWLQJVLJQLͤFDQWO\
+to industry sustainability. The 
+Company has established clear 
+protocols for the collection, 
+storage, and disposal of waste.
+2
+Emissions 
+and 
+pollutants
+7KHVWHHOLQGXVWU\VLJQLͤFDQWO\
+contributes to air pollution and 
+greenhouse gas emissions 
+by using fossil fuels in its 
+manufacturing processes. 
+These emissions pose various 
+environmental challenges, such 
+as climate change, acid rain, and 
+smog formation. Additionally, 
+emissions from steel plants can 
+pose substantial risks to human 
+health and safety, particularly 
+affecting workers within and 
+around these facilities.
+To mitigate greenhouse gas (GHG) 
+emissions, the Company adheres 
+to CPCB emission and pollution 
+regulations and has replaced coal 
+with LSHS fuel. The Company has 
+also implemented an induction 
+furnace, which lowers electricity 
+consumption and promotes 
+cleaner processes. Additionally, 
+alternative energy sources like a 
+3.8 MW wind energy installation 
+further contribute to reducing GHG 
+emissions overall.
+3
+Water and 
+wastewater 
+management
+Water usage can exert 
+considerable environmental 
+impact, especially when 
+wastewater is discharged 
+into water bodies. The steel 
+industry, known for its high water 
+consumption, contributes to 
+concerns about water scarcity 
+in various regions globally. 
+Implementing effective water 
+management strategies is crucial 
+to reducing water consumption 
+DQGPLQLPL]LQJWKHLQGXVWU\̵V
+footprint on local water resources.
+Wastewater treatment serves 
+various purposes, including plant 
+irrigation. Kamdhenu Limited, as a 
+conscientious steel manufacturer, 
+has installed an Effluent Treatment 
+Plant at its manufacturing facility. 
+This initiative not only enables the 
+Company to purify wastewater 
+but also reduces its overall water 
+consumption.
+Financial Statements
+Statutory Reports
+Corporate Overview
+103
+Kamdhenu Limited
+Sr. 
+no.
+Material 
+issue 
+LGHQWLͤHG
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk/
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative 
+implications)
+4
+Energy 
+management
+The steel sector’s high energy 
+consumption is a major 
+contributor to greenhouse gas 
+emissions and climate change. 
+By decreasing energy usage, 
+the industry can decrease its 
+environmental footprint and 
+play a role in mitigating climate 
+change.
+The Company has implemented 
+several initiatives for energy 
+management. Through the 
+installation of wind energy capacity, 
+Kamdhenu Limited offsets the use 
+of non-renewable energy sources. 
+Additionally, the Company has 
+eliminated the use of coal in its 
+manufacturing plant, reducing its 
+reliance on non-renewable energy. 
+Kamdhenu Limited continuously 
+seeks alternative energy sources to 
+mitigate its environmental impact.
+5
+Occupational 
+health and 
+safety
+The steel-making process 
+LQYROYHVSRWHQWLDOKD]DUGV
+such as high temperatures, 
+chemicals, heavy equipment, 
+and falling objects. 
+Implementing effective 
+occupational health and 
+safety practices is crucial to 
+PLQLPL]LQJDFFLGHQWVDQG
+injuries and ensuring a safe 
+working environment for 
+employees. These procedures 
+are essential for preventing 
+health risks and safeguarding 
+workers’ well-being.
+Employee and worker safety is 
+crucial to Kamdhenu Limited’s 
+business, and it values its 
+stakeholders. The Company has 
+adopted environmental, health, 
+and safety policies and procedures 
+WKURXJKRXWLWVͤUPHQVXULQJDVDIH
+and healthy working environment as 
+a condition for its operations. The 
+Company conveys safe practices 
+and ensures safe working conditions 
+by providing health care assistance, 
+instruction on material handling, and 
+Personal Protective Equipment (PPE) 
+to its employees. The Company 
+has also kept an ambulance on-site 
+in case any rapid hospital care is 
+required related to a human health 
+concern. Finally, Kamdhenu Limited 
+conducts a health and safety audit to 
+identify any concerns.
+6
+Community 
+relations
+A steel manufacturer needs the 
+support and cooperation of the 
+local community to establish 
+safe and responsible business 
+practices. Building trust and 
+UDSSRUWZLWKORFDOFLWL]HQVLV
+essential for obtaining a social 
+license to operate. Strong 
+community relations also play 
+a crucial role in recruiting and 
+UHWDLQLQJTXDOLͤHGSHUVRQQHO
+from the local area.
+-
+Annual Report 2023-24
+104
+Sr. 
+no.
+Material 
+issue 
+LGHQWLͤHG
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk/
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative 
+implications)
+7
+Employee 
+satisfaction 
+and retention
+High employee turnover can 
+be costly for manufacturing 
+RUJDQL]DWLRQVUHTXLULQJ
+constant hiring and training of 
+new employees. Implementing 
+effective employee satisfaction 
+and retention strategies can 
+VLJQLͤFDQWO\UHGXFHVWDII
+turnover and its associated 
+costs, ultimately saving 
+money and boosting overall 
+productivity.
+-
+8
+Human 
+rights
+The manufacturing industry 
+has a critical responsibility 
+to protect human rights and 
+ensure that its operations do 
+not violate these fundamental 
+principles. This duty extends 
+to all stakeholders, including 
+employees, customers, 
+suppliers, and the local 
+community. Upholding human 
+rights is essential for enhancing 
+worker well-being, which 
+involves providing safe working 
+conditions, treating employees 
+with dignity and respect, 
+and preventing any form of 
+discrimination, harassment, or 
+mistreatment.
+Kamdhenu Limited is committed 
+to safeguarding and enhancing its 
+employees’ fundamental human 
+rights through the implementation of 
+LQLWLDWLYHVDQGSROLFLHVWKDWSULRULWL]H
+their well-being and dignity. Key 
+measures include:
+i)   Promoting an environment 
+free from discrimination and 
+harassment
+ii)  Prohibiting child labor, forced 
+ODERUDQGKXPDQWUDIͤFNLQJ
+iii)  Ensuring fair and equal salaries, 
+EHQHͤWVDQGZRUNLQJFRQGLWLRQV
+in compliance with local 
+legislation
+iv)  Providing a safe working 
+environment and conducting 
+human rights due diligence to 
+identify risks and implement 
+corrective measures
+The Company also equips 
+employees and workers with 
+various tools to address any human 
+rights complaints, reinforcing its 
+commitment to upholding these 
+essential principles.
+Financial Statements
+Statutory Reports
+Corporate Overview
+105
+Kamdhenu Limited
+Sr. 
+no.
+Material 
+issue 
+LGHQWLͤHG
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk/
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative 
+implications)
+9
+Customer 
+relationship 
+management
+Companies can retain clients by 
+fostering strong relationships 
+with them. By delivering 
+exceptional customer service, 
+attentively addressing their 
+needs and concerns, and 
+cultivating a sense of loyalty, 
+businesses can ensure that 
+their customers remain 
+committed to purchasing their 
+products or services.
+Kamdhenu Limited has implemented 
+a robust customer relationship 
+management system to ensure 
+comprehensive data management, 
+including stringent data security and 
+privacy safeguards. This system 
+protects customer information and 
+PLQLPL]HVWKHULVNRIGDWDEUHDFKHV
+RUXQDXWKRUL]HGDFFHVV$GGLWLRQDOO\
+the Company ensures continuous 
+improvement in its customer 
+relationship management by actively 
+seeking customer feedback and 
+identifying emerging customer 
+needs.
+10
+Labor 
+relations
+Establishing productive labor 
+relations fosters a stable and 
+engaged workforce, enhancing 
+overall productivity. By fostering 
+a supportive workplace 
+environment, addressing 
+employee concerns promptly, 
+and ensuring fair compensation 
+DQGEHQHͤWVFRPSDQLHVFDQ
+boost employee motivation 
+and engagement. A positive 
+reputation in labor relations 
+also attracts top talent and 
+enhances the Company’s brand 
+credibility.
+Kamdhenu Limited maintains regular 
+communication with its employees 
+to address their concerns promptly 
+and effectively. The Company has 
+established clear channels for 
+employees to report any issues 
+they may encounter. Additionally, 
+HPSOR\HHVUHFHLYHEHQHͤWVVXFK
+as health insurance and wages 
+above the minimum requirement. 
+Kamdhenu Limited ensures safe 
+and healthy working conditions in 
+compliance with industry standards 
+and relevant laws, ensuring high 
+levels of worker satisfaction.
+11
+Business 
+ethics and 
+compliance
+Adherence to compliance and 
+corporate ethics is of paramount 
+importance for safeguarding 
+DQRUJDQL]DWLRQ̵VUHSXWDWLRQ
+&RPSDQLHVWKDWSULRULWL]H
+ethical behavior and regulatory 
+compliance tend to earn the 
+trust and respect of customers, 
+employees, investors, and other 
+stakeholders. This commitment 
+enhances their brand image 
+and expands their market share. 
+Conversely, failure to comply 
+with regulations can lead to legal 
+SHQDOWLHVͤQHVDQGGDPDJH
+to reputation, underscoring 
+the importance of rigorous 
+adherence to ethical standards 
+and regulatory requirements.
+To uphold robust compliance and 
+ethical standards, Kamdhenu 
+Limited has enacted comprehensive 
+code of conduct policies covering 
+critical areas such as conflict of 
+interest, bribery, corruption, and 
+FRQͤGHQWLDOLW\DPRQJRWKHUV7KH
+Company remains committed to 
+conducting regular training and 
+communication initiatives to ensure 
+that all staff are well-informed and 
+understand these policies thoroughly. 
+Additionally, Kamdhenu Limited 
+KDVLPSOHPHQWHGDFRQͤGHQWLDODQG
+anonymous reporting system, the 
+Whistleblower Mechanism, enabling 
+employees and stakeholders 
+to report any suspected ethical 
+breaches securely.
+Annual Report 2023-24
+106
+Sr. 
+no.
+Material 
+issue 
+LGHQWLͤHG
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk/
+opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive or 
+negative 
+implications)
+12
+Corporate 
+governance
+Strong corporate governance 
+principles are essential for 
+fostering transparency, 
+accountability, and prudent 
+ͤQDQFLDOPDQDJHPHQW
+ZLWKLQRUJDQL]DWLRQV,QWKH
+steel industry, where market 
+volatility, regulatory shifts, 
+and supply chain disruptions 
+SRVHVLJQLͤFDQWULVNVHIIHFWLYH
+corporate governance practices 
+play a crucial role. They enable 
+RUJDQL]DWLRQVWRDGHSWO\LGHQWLI\
+manage, and mitigate these 
+challenges, ensuring resilience 
+and sustainable growth amid 
+dynamic market conditions.
+Kamdhenu Limited has established 
+a comprehensive policies and 
+procedures to ensure responsible 
+and ethical management of 
+WKHRUJDQL]DWLRQ0DLQWDLQLQJ
+transparency and effective 
+communication with stakeholders 
+is critical for managing governance 
+risks. The Company achieves 
+this through timely and accurate 
+ͤQDQFLDOUHSRUWLQJWUDQVSDUHQW
+disclosure of relevant information, 
+and strict adherence to regulatory 
+requirements. Additionally, robust 
+risk management processes and 
+controls are maintained to detect 
+and mitigate any present or future 
+threats.
+13
+Stakeholder 
+engagement
+Engaging with stakeholders 
+HQDEOHVRUJDQL]DWLRQVWRJDLQ
+deeper insights into their needs, 
+concerns, and expectations. 
+This interaction facilitates 
+the development of products 
+and services that align with 
+customer expectations, 
+LPSURYHVWKHRUJDQL]DWLRQ̵V
+reputation among stakeholders, 
+and effectively addresses 
+important social and 
+environmental concerns.
+-
+Financial Statements
+Statutory Reports
+Corporate Overview
+107
+Kamdhenu Limited
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting 
+the NGRBC Principles and Core Elements.
+Disclosure questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1. 
+a
+Whether your entity’s policy/policies cover each 
+principle and its core elements of the NGRBCs. 
+(Yes/No/NA)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+b
+Has the policy been approved by the Board? 
+(Yes/No/NA)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+c
+Web link of the policies, if available
+https://www.kamdhenulimited.com/code-conduct.php
+2
+Whether the entity has translated the policy into 
+procedures. (Yes/No/NA)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3
+Do the enlisted policies extend to your value chain 
+partners? (Yes/No/NA)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+4
+Name of the national and international codes/
+FHUWLͤFDWLRQVODEHOVVWDQGDUGVHJ)RUHVW
+Stewardship Council, Fairtrade, Rainforest Alliance, 
+Trustee) standards (e.g. SA 8000, OHSAS, ISO, BIS) 
+adopted by your entity and mapped to each principle.
+-
+ISO
+9001:2015
+BIS
+1786:2008
+-
+-
+-
+-
+-
+-
+-
+5
+6SHFLͤFFRPPLWPHQWVJRDOVDQGWDUJHWVVHWE\WKH
+HQWLW\ZLWKGHͤQHGWLPHOLQHVLIDQ\
+As a major player in the steel industry, Kamdhenu Limited 
+UHFRJQL]HVWKHLPSRUWDQFHRIHVWDEOLVKLQJTXDQWLͤDEOHJRDOV
+to monitor its adherence to the principles of the National 
+Guidelines for Responsible Business Conduct (NGRBC). In this 
+initial phase of integrating ESG principles, the Company plans 
+to set its objectives and targets for the upcoming reporting 
+SHULRG(PSKDVL]LQJWKHLQWHJUDWLRQRI(6*LQLWLDWLYHVZLWKLWV
+fundamental business objectives, Kamdhenu Limited remains 
+ͤUPLQLWVGHGLFDWLRQWRLPSOHPHQWLQJDQH[WHQVLYH(6*
+strategy that promotes sustainability and delivers long-term 
+value for all stakeholders.
+6
+3HUIRUPDQFHRIWKHHQWLW\DJDLQVWWKHVSHFLͤF
+commitments, goals and targets along-with reasons 
+in case the same are not met.
+NA
+Governance, leadership and oversight
+7 
+Statement by director responsible for the business responsibility report, highlighting ESG related challenges, targets 
+and achievements
+Kamdhenu Limited, one of the top manufacturers in the TMT steel market, has consistently operated with fairness, 
+accountability and transparency since its inception. Renowned for its initiatives promoting inclusive growth and 
+VXVWDLQDEOHOLYHOLKRRGVWKH&RPSDQ\HPERGLHVWKHSULQFLSOHVRI̴*RRG&RUSRUDWH&LWL]HQVKLS̵7KLVHWKRVFHQWHUV
+on sustainability and community impact, underpinned by a holistic strategy integrating Environmental, Social, and 
+*RYHUQDQFH(6*SULQFLSOHVDFURVVLWVRSHUDWLRQV.DPGKHQX/LPLWHG̵VVWUDWHJLFSLOODURI̴&RUSRUDWH&LWL]HQVKLS̵DLPVWR
+LQIOXHQFHWKHYDOXHFKDLQSRVLWLYHO\DQGEHQHͤWNH\VWDNHKROGHUV
+The Company endeavors to set industry benchmarks in safety, health, and environmental stewardship. Kamdhenu 
+/LPLWHGFRQWLQXRXVO\HQKDQFHVLWVVWDQGDUGVWRPD[LPL]HYDOXHDQGRSWLPL]HFRVWVIRULWVSURGXFWVDQGVROXWLRQV7KH
+Business Responsibility Sustainability Report outlines the Company’s approach to delivering long-term value for all 
+stakeholders.
+Kamdhenu Limited has implemented several ESG initiatives to promote sustainable practices and corporate 
+responsibility. These measures include phasing out coal from manufacturing processes, developing wind energy 
+Annual Report 2023-24
+108
+LQIUDVWUXFWXUHWRRIIVHWJUHHQKRXVHJDV*+*HPLVVLRQVDQGSURYLGLQJFRPSUHKHQVLYHHPSOR\HHEHQHͤWVWRHQKDQFH
+employee well-being.
+Furthermore, the Company’s commitment to product quality is demonstrated by its accreditation from prestigious 
+RUJDQL]DWLRQVVXFKDVWKH%,6%XUHDXRI,QGLDQ6WDQGDUGVDQGWKH,62,QWHUQDWLRQDO2UJDQL]DWLRQIRU6WDQGDUGL]DWLRQ
+7KHVHFHUWLͤFDWLRQVDIͤUPWKDWWKH&RPSDQ\̵VSURGXFWVPHHWULJRURXVLQGXVWU\VWDQGDUGVHQVXULQJFXVWRPHU
+satisfaction through superior quality options.
+8  
+ Details of the highest authority responsible for implementation and oversight of the Business Responsibility policy 
+(ies).
+$WWKHKLJKHVWOHYHOXQGHUWKHOHDGHUVKLSRIWKH&KDLUPDQ	0DQDJLQJ'LUHFWRU6KUL6DWLVK.XPDU$JDUZDOWKH%RDUGRI
+Directors of the Company is responsible for implementing and overseeing the Business Responsibility Policy. 
+9
+'RHV WKH HQWLW\ KDYH D VSHFLͤHG &RPPLWWHH RI WKH %RDUG'LUHFWRU UHVSRQVLEOH IRU GHFLVLRQ PDNLQJ RQ VXVWDLQDELOLW\
+related issues? (Yes/No/NA).
+YES
+The Board of Directors and Senior Management of Kamdhenu Limited continuously monitor various aspects of the 
+Company’s social, environmental, governance, and economic responsibilities. Annually, the entire Board of Directors 
+reviews the Company’s business responsibility and sustainability performance. 
+6KUL6DWLVK.XPDU$JDUZDO&KDLUPDQ	0DQDJLQJ'LUHFWRURYHUVHHVWKHVWUDWHJ\DQGLPSOHPHQWDWLRQRI.DPGKHQX
+Limited’s ESG framework. The Company’s business responsibility performance is assessed by the following Board 
+Committees:
+(i) 
+Corporate Social Responsibility Committee 
+(ii) 
+Stakeholders’ Relationship Committee
+(iii)
+Risk Management Committee
+10
+Details of review of NGRBCs by the Company
+Subject for review
+Indicate whether review was undertaken by
+Director/Committee of the Board/Any other Committee
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+a.
+Performance against above policies and follow 
+up action
+Committee of the Board
+b.
+Description of other committee for performance 
+against above policies and follow up action
+-
+c.
+Compliance with statutory requirements of 
+UHOHYDQFHWRWKHSULQFLSOHVDQGUHFWLͤFDWLRQRI
+any non-compliances
+Director
+d.
+Description of other committee for compliance 
+with statutory requirements of relevance to the 
+SULQFLSOHVDQGUHFWLͤFDWLRQ
+-
+If yes please provide details
+Financial Statements
+Statutory Reports
+Corporate Overview
+109
+Kamdhenu Limited
+Subject for review
+Frequency
+(annually/half yearly/quarterly/any other-please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+a.
+Performance against above policies and 
+follow up action
+Quarterly
+b.
+Description of other committee for 
+performance against above policies and 
+follow up action
+-
+c.
+Compliance with statutory requirements of 
+UHOHYDQFHWRWKHSULQFLSOHVDQGUHFWLͤFDWLRQ
+of any non-compliances
+Quarterly
+d.
+Description of other committee for 
+compliance with statutory requirements of 
+UHOHYDQFHWRWKHSULQFLSOHVDQGUHFWLͤFDWLRQ
+-
+11
+Has the entity carried out independent 
+assessment/evaluation of the working of 
+its policies by an external agency? (Yes/
+No).
+No
+Yes
+No
+No
+No
+No
+No
+No
+No
+If yes, provide name of the agency.
+-
+ABS Quality 
+Evaluations
+-
+-
+-
+-
+-
+-
+-
+12 If answer to question (1) above is “No” i.e. 
+not all Principles are covered by a policy, 
+reasons to be stated:
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity does not consider the Principles 
+material to its business (Yes/No)
+NA
+The entity is not at a stage where it is in a 
+position to formulate and implement the 
+SROLFLHVRQVSHFLͤHGSULQFLSOHV<HV1R
+7KHHQWLW\ GRHV QRWKDYH WKHͤQDQFLDORU
+human and technical resources available 
+for the task (Yes/No)
+,WLVSODQQHGWREHGRQHLQWKHQH[WͤQDQFLDO
+year (Yes/No)
+Any other reason (please specify)
+r reason (plplea
+e se spe
+pecicicify
+fy
+fy)
+Annual Report 2023-24
+110
+SECTION C: PRINCIPLE-WISE PERFORMANCE DISCLOSURE
+PRINCIPLE 1
+ESSENTIAL INDICATORS
+Businesses should conduct and govern themselves with integrity, and in a manner that 
+is Ethical, Transparent and Accountable. 
+(This principle focuses on the importance of ethical conduct and transparency in business operations. Companies should 
+follow ethical business practices and adhere to high standards of integrity. They should also be transparent about their 
+DFWLYLWLHVRSHUDWLRQVDQGͤQDQFLDOUHSRUWLQJDVZHOODVEHDFFRXQWDEOHIRUWKHLUDFWLRQV
+
+3HUFHQWDJH FRYHUDJH E\ WUDLQLQJ DQG DZDUHQHVV SURJUDPV RQ DQ\ RI WKH SULQFLSOHV GXULQJ WKH ͤQDQFLDO \HDU
+Total number 
+of training and 
+awareness 
+programs held
+Topics/principles covered 
+under the training and its 
+impact
+Kamdhenu Limited conducts ongoing 
+IDPLOLDUL]DWLRQSURJUDPVIRULWV'LUHFWRUVDV
+mandated under the SEBI Listing Regulations. 
+Additionally, the Company ensures the continuous 
+engagement of Directors, KMPs, and Senior 
+Management Personnel in discussions concerning:
+Industry Update
+Business Models
+Risk Factors, Mitigation and Management
+Governing Regulations
+ESG
+Safety, Health, Environment, Business 
+Governance and Operations
+Prohibition of Insider Trading
+% of persons in respective 
+category covered by the 
+awareness programs
+100%
+Kamdhenu Limited regularly conducts 
+IDPLOLDUL]DWLRQSURJUDPVIRULWV'LUHFWRUVDV
+mandated by SEBI Listing Regulations. The 
+Company’s continuous involvement of Directors, 
+KMPs, and Senior Management Personnel in 
+discussions pertaining to:
+Industry Update
+Business Models
+Risk Factors, Mitigation and Management
+Governing Regulations
+ESG
+Safety, Health, Environment, Business 
+Governance and Operations
+Prohibition of Insider Trading
+Board of 
+Directors
+8
+100%
+Segment
+4
+Key 
+Managerial 
+Personnel
+Financial Statements
+Statutory Reports
+Corporate Overview
+111
+Kamdhenu Limited
+Total number 
+of training and 
+awareness 
+programs held
+Topics/principles covered 
+under the training and its 
+impact
+% of persons in respective 
+category covered by the 
+awareness programs
+Segment
+Prohibition of Insider Trading
+Prevention of Sexual Harassment at the 
+Workplace
+Data Privacy
+General Safety Awareness
+/HDGHUVKLS	2ZQHUVKLS
+Training on Structural Digital Database 
+70.10%
+6
+Employees 
+other than BOD 
+and KMPs*
+,62$ZDUHQHVV4XDOLW\3ROLF\	
+Key Performance Indicators, Work Instructions
+Calibrating Measuring Equipment
++RXVH.HHSLQJ	*HQHUDO6DIHW\
+:RUN,QVWUXFWLRQV	3URFHGXUHV
+Code of Conduct, Human Rights
+Data Privacy
+68.79%
+6
+Workers*
+* This training is exclusively for permanent employees and workers.
+
+'HWDLOV RI ͤQHVSHQDOWLHVSXQLVKPHQWDZDUGFRPSRXQGLQJ IHHVVHWWOHPHQW DPRXQW SDLG LQ SURFHHGLQJV E\ WKH HQWLW\
+RU E\ GLUHFWRUV.03V ZLWK UHJXODWRUVODZ HQIRUFHPHQW DJHQFLHVMXGLFLDO LQVWLWXWLRQV LQ WKH ͤQDQFLDO \HDU LQ WKH
+following format 
+Monetary
+Particular
+NGRBC 
+principle
+Name of the regulatory/
+enforcement agencies/ 
+judicial institutions
+Amount (in `)
+(For 
+monetory 
+cases only)
+Brief of the 
+case
+Has an appeal been 
+preferred? (Yes/No)
+Penalty/Fine
+Nil
+Nil
+Nil
+Nil
+Nil
+Settlement
+Nil
+Nil
+Nil
+Nil
+Nil
+Compounding fee
+Nil
+Nil
+Nil
+Nil
+Nil
+Non-monetary
+Particular
+NGRBC 
+principle
+Name of the regulatory/
+enforcement agencies/judicial 
+institutions
+Brief of the 
+case
+Has an appeal been 
+preferred? (Yes/No)
+Imprisonment
+Nil
+Nil
+Nil
+Nil
+Punishment
+Nil
+Nil
+Nil
+Nil
+3.
+Of the instances disclosed in Question 2 above, details of the Appeal/Revision preferred in cases where monetary or 
+non-monetary action has been appealed.
+Case details
+Name of the regulatory/enforcement agencies/judicial institutions
+Nil
+Nil
+Annual Report 2023-24
+112
+4.
+Does the entity have anti-corruption or anti-bribery policy? (Yes/No)
+YES
+If yes, provide details in brief 
+Kamdhenu Limited upholds a rigorous Code of Conduct that strictly prohibits the offering or acceptance of gifts, 
+HQWHUWDLQPHQWRUDQ\SHUVRQDOEHQHͤWWKDWFRXOGLQIOXHQFHRUDSSHDUWRDIIHFWEXVLQHVVGHFLVLRQV7KLV&RGH
+HPSKDVL]LQJHWKLFVWUDQVSDUHQF\DQGSHUVRQDODFFRXQWDELOLW\LVSXEOLFO\DYDLODEOHRQWKH&RPSDQ\̵VZHEVLWHDW
+https://www.kamdhenulimited.com/code-conduct.php. The Company’s core values underscore its commitment 
+to maintaining robust corporate governance standards across all operations. Kamdhenu Limited opposes bribery 
+and corruption, fostering fair, transparent, and professional relationships with lenders, borrowers, shareholders, and 
+stakeholders alike.
+In adherence to governmental and regulatory guidelines, Kamdhenu Limited guarantees complete transparency and 
+accountability in all business processes. Management takes violations of Company policies seriously and enforces 
+appropriate disciplinary actions when necessary.
+Kamdhenu Limited’s comprehensive Code of Conduct applies to the Board of Directors and Senior Management, 
+Key Managerial Personnel, and all other individuals associated with the Company. It mandates adherence to work 
+ethics, honesty, and integrity in every aspect of operations, prohibiting any form of bribery, kickbacks or corruption—
+directly or through third parties.
+Aligned with India’s anti-bribery and anti-corruption laws, Kamdhenu Limited’s policies, including the Code of 
+Conduct and Whistle-Blower Policy, exemplify its commitment to upholding the highest ethical standards. The 
+Company fosters a culture of integrity and fairness, implementing effective measures to identify, prevent, and 
+combat bribery and corruption in all its forms.
+If yes, provide a web link to the policy, if available - web 
+link anti-corruption or anti-bribery policy is place
+https://www.kamdhenulimited.com/code-conduct.php.
+5.
+Number of Directors/KMPs/employees/workers 
+against whom disciplinary action was taken by any 
+law enforcement agency for the charges of bribery/
+corruption:
+Particular
+FY 2023-24
+FY 2022-23
+Directors
+0
+0
+KMPs
+0
+0
+Employees
+0
+0
+Workers
+0
+0
+Financial Statements
+Statutory Reports
+Corporate Overview
+113
+Kamdhenu Limited
+6.
+Details of complaints with regard to conflict of interest:
+Case details
+FY 2023-24
+FY 2022-23
+Number
+Remark
+Number
+Remark
+Number of complaints received in relation to issues of conflict of 
+interest of the Directors
+0
+-
+0
+-
+Number of complaints received in relation to issues of conflict of 
+interest of the KMPs
+0
+-
+0
+-
+ 
+3URYLGH GHWDLOV RI DQ\ FRUUHFWLYH DFWLRQ WDNHQ RU XQGHUZD\ RQ LVVXHV UHODWHG WR ͤQHVSHQDOWLHVDFWLRQ WDNHQ E\
+regulators/law enforcement agencies/judicial institutions, on cases of corruption and conflicts of interest.
+NA
+8.
+Number of days of accounts payables in the following format:
+Particular
+FY 2023-24
+FY 2022-23
+Number of days of accounts payables
+15
+12
+9.
+Open-ness of business
+Provide details of concentration of purchases and sales with trading houses, dealers, and related parties along-with loans 
+DQGDGYDQFHV	LQYHVWPHQWVZLWKUHODWHGSDUWLHVLQWKHIROORZLQJIRUPDW
+Parameter
+Metrics
+FY 2023-24
+FY 2022-23
+Concentration of purchases a.    Purchases from trading houses as % of total 
+purchases
+NA
+NA
+b.    Number of trading houses where purchases 
+are made from
+NA
+NA
+c.    Purchases from top 10 trading houses as % of 
+total purchases from trading houses
+NA
+NA
+Concentration of sales
+a.    Sales to dealers/distributors as % of total sales
+78.52%
+79.11%
+b.    Number of dealers/distributors to whom sales 
+are made
+44
+49
+c.    Sales to top 10 dealers/distributors as % of 
+total sales to dealers/distributors
+70.83%
+65.66%
+Share of RPTs in
+a.    Purchases (Purchases with related parties/
+Total purchases)
+Nil
+Nil
+b.    Sales (Sales to related parties/Total sales)
+Nil
+Nil
+F/RDQV	DGYDQFHV/RDQV	DGYDQFHVJLYHQWR
+UHODWHGSDUWLHV7RWDOORDQV	DGYDQFHV
+Nil
+Nil
+d.    Investments
+Nil
+Nil
+Annual Report 2023-24
+114
+LEADERSHIP INDICATORS
+
+$ZDUHQHVV SURJUDPV FRQGXFWHG IRU YDOXH FKDLQ SDUWQHUV RQ DQ\ RI WKH SULQFLSOHV GXULQJ WKH ͤQDQFLDO \HDU
+Total number of awareness 
+programs held
+Topics/principles covered 
+under the training
+Percentage of value chain partners covered (by value of 
+business done with such partners) under the awareness 
+programs
+-
+-
+-
+2. 
+Does the entity have processes in place to avoid/manage conflict of interests involving members of the Board? 
+(Yes/No) 
+YES
+If yes, provide details of the same.
+In accordance with Regulation 26(3) of SEBI Listing Regulations, Kamdhenu Limited has established a Code of 
+&RQGXFWIRULWV%RDUGPHPEHUVDQG6HQLRU0DQDJHPHQW3HUVRQQHOWRHQVXUHWUDQVSDUHQWDQGHIͤFLHQWEXVLQHVV
+operations, free from any personal conflict of interest with the Company’s interests. Annually, Directors, Key 
+Managerial Personnel, and other Senior Management must disclose any material interest, direct or indirect, in 
+transactions or matters affecting the Company. All necessary approvals are obtained before engaging in transactions 
+with such entities, as required by applicable laws.
+7KH&RPSDQ\FRQͤUPVWKDWDOO%RDUGPHPEHUVDQG6HQLRU0DQDJHPHQW3HUVRQQHOKDYHDIͤUPHGFRPSOLDQFHZLWK
+the Code of Conduct for FY 2023-24. The declaration to this effect, provided by Shri Satish Kumar Agarwal, Chairman 
+	0DQDJLQJ'LUHFWRULVLQFOXGHGLQWKH&RUSRUDWH*RYHUQDQFH5HSRUW7KH&RGHRI&RQGXFWLVDFFHVVLEOHRQWKH
+Company’s website at: https://www.kamdhenulimited.com/code-conduct.php.
+PRINCIPLE 2
+ESSENTIAL INDICATOR
+Businesses should provide goods and services in a manner that is sustainable and 
+safe.
+7KLVSULQFLSOHKLJKOLJKWVWKHLPSRUWDQFHRIVXVWDLQDEOHDQGVDIHSURGXFWLRQSUDFWLFHV&RPSDQLHVVKRXOGVWULYHWRPLQLPL]H
+the environmental impact of their activities and ensure that their products and services are safe for consumers and the 
+environment.)
+
+3HUFHQWDJH RI 5	' DQG FDSLWDO H[SHQGLWXUH FDSH[ LQYHVWPHQWV LQ VSHFLͤF WHFKQRORJLHV WR LPSURYH WKH HQYLURQPHQWDO
+and social impacts of product and processes to total R&D and capex investments made by the entity, respectively.
+Sr. 
+no.
+Particular
+FY 2023-24
+FY 2022-23
+Details of improvements in 
+environmental and social impacts
+1
+5	'
+100%
+100%
+ -
+2
+Capex
+-
+-
+ -
+2
+a.
+Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+ 
+ 
+No
+b. 
+If yes, what percentage of inputs were sourced sustainably?
+ 
+ 
+NA
+Financial Statements
+Statutory Reports
+Corporate Overview
+115
+Kamdhenu Limited
+ESSENTIAL INDICATORS
+PRINCIPLE 3
+Businesses should respect and promote the well-being of all employees, including 
+those in their value chains.
+7KLVSULQFLSOHHPSKDVL]HVWKHLPSRUWDQFHRIHPSOR\HHZHOOEHLQJ&RPSDQLHVVKRXOGSURYLGHVDIHDQGKHDOWK\ZRUNLQJ
+conditions, fair wages, and opportunities for career development to all employees in their value chains, including suppliers, 
+contractors, and temporary workers.)
+1.
+a.
+Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total 
+(A)
+Health insurance
+Accident insurance
+0DWHUQLW\EHQHͤWV
+3DWHUQLW\EHQHͤWV
+Day care facilities
+Number 
+(B)
+% (B/A)
+Number 
+(C)
+% (C/A)
+Number 
+(D)
+% (D/A)
+Number 
+(E)
+% (E/A)
+Number 
+(F)
+% (F/A)
+  Permanent employees
+Male
+393
+393
+100
+393
+100
+0
+0
+0
+0
+0
+0
+Female
+15
+15
+100
+15
+100
+15
+100
+0
+0
+0
+0
+Total
+408
+408
+100
+408
+100
+15
+100
+0
+0
+0
+0
+3.  
+ Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, 
+for 
+.DPGKHQX/LPLWHGUHIUDLQVIURPXVLQJSODVWLFSDFNDJLQJIRULWVSURGXFWVDQGPDLQWDLQVDVWULFWSROLF\RI]HURKD]DUGRXV
+ZDVWHJHQHUDWLRQ$Q\QRQKD]DUGRXVZDVWHSURGXFHGLVVWRUHGDQGSURFHVVHGLQDFFRUGDQFHZLWKLQGXVWU\VWDQGDUGV
+DQGUHJXODWRU\FRPSOLDQFH$GGLWLRQDOO\WKH&RPSDQ\HPSOR\VHIͤFLHQWLQFLQHUDWLRQPHWKRGVWRPLQLPL]HZDVWH
+disposal. 
+Plastics (including 
+packaging)
+(a)
+E-waste
+(b)
+Hazardous waste
+(c)
+(d)
+other waste
+4.
+a
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes/No)
+ 
+ 
+No
+b
+If yes, whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted 
+to Pollution Control Boards? 
+ 
+ 
+NA
+c
+If not, provide steps taken to address the same
+ 
+ 
+NA
+Annual Report 2023-24
+116
+Category
+% of employees covered by
+Total 
+(A)
+Health insurance
+Accident insurance
+0DWHUQLW\EHQHͤWV
+3DWHUQLW\EHQHͤWV
+Day care facilities
+Number 
+(B)
+% (B/A)
+Number 
+(C)
+% (C/A)
+Number 
+(D)
+% (D/A)
+Number 
+(E)
+% (E/A)
+Number 
+(F)
+% (F/A)
+   
+  Other than permanent employees
+Male
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Female
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Total
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+b. 
+Details of measures for the well-being of workers:
+Category
+% of employees covered by
+Total 
+(A)
+Health insurance
+Accident insurance
+0DWHUQLW\EHQHͤWV
+3DWHUQLW\EHQHͤWV
+Day care facilities
+Number 
+(B)
+% (B/A)
+Number 
+(C)
+% (C/A)
+Number 
+(D)
+% (D/A)
+Number 
+(E)
+% (E/A)
+Number 
+(F)
+% (F/A)
+  Permanent workers
+Male
+141
+141
+100
+141
+100
+0
+0
+0
+0
+0
+0
+Female
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Total
+141
+141
+100
+141
+100
+0
+0
+0
+0
+0
+0
+   
+  Other than permanent workers
+Male
+173
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Female
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Total
+173
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1.
+c. 
+ Spending on measures towards well-being of employees and workers (including permanent and other than 
+permanent) in the following format
+FY 2023-24
+FY 2022-23
+Cost incurred on well-being measures as a % of total revenue of the 
+Company
+0.05%
+0.06%
+
+'HWDLOV RI UHWLUHPHQW EHQHͤWV IRU &XUUHQW )< DQG 3UHYLRXV )<
+FY 2023-24
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+100%
+No. of workers 
+covered as 
+a % of total 
+workers
+100%
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+Y
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+100%
+No. of workers 
+covered as 
+a % of total 
+workers
+100%
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+Y
+FY 2022-23
+PF
+Financial Statements
+Statutory Reports
+Corporate Overview
+117
+Kamdhenu Limited
+FY 2023-24
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+100%
+No. of workers 
+covered as 
+a % of total 
+workers
+100%
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+Y
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+100%
+No. of workers 
+covered as 
+a % of total 
+workers
+100%
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+Y
+FY 2022-23
+Gratuity
+FY 2023-24
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+4.65%
+No. of workers 
+covered as 
+a % of total 
+workers
+35.46%
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+Y
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+1.72%
+No. of workers 
+covered as 
+a % of total 
+workers
+47.29%
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+Y
+FY 2022-23
+ESI
+FY 2023-24
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+100%
+No. of workers 
+covered as 
+a % of total 
+workers
+100%
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+NA
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+100%
+No. of workers 
+covered as 
+a % of total 
+workers
+100%
+Deducted and 
+deposited with 
+the authority 
+(Y/N/N.A.)
+NA
+FY 2022-23
+Others – Leave encashment
+3.
+Accessibility of workplaces
+
+$UH WKH SUHPLVHVRIͤFHV RI WKH HQWLW\ DFFHVVLEOH WR GLIIHUHQWO\ DEOHG HPSOR\HHV DQG ZRUNHUV DV SHU WKH UHTXLUHPHQWV
+of the Rights of Persons with Disabilities Act, 2016?
+YES
+If not, whether any steps are being taken by the entity in this regard.
+NA
+Annual Report 2023-24
+118
+4.
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016?
+YES
+If so, provide a web-link to the policy.
+Kamdhenu Limited ensures equal opportunities for all its employees and eligible applicants, unequivocally rejecting 
+discrimination based on race, caste, religion, color, marital status, gender, sexual orientation, age, nationality, ethnic 
+origin, disability or any other protected category under applicable laws. Policies and guidelines reflecting these 
+principles can be accessed on Kamdhenu Limited’s website at: https://www.kamdhenulimited.com/code-conduct.
+php
+5.
+Return to work and retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent employees
+Permanent workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+NA
+Female
+Total 
+Financial Statements
+Statutory Reports
+Corporate Overview
+119
+Kamdhenu Limited
+6. 
+Is there a mechanism available to receive and redress grievances for the following categories of employees and worker? 
+If yes, give details of the mechanism in brief.
+Permanent 
+workers
+Other than 
+permanent 
+workers
+Other than 
+permanent 
+employees
+Permanent 
+employees
+YES
+If yes, then give details of the mechanism in brief
+Kamdhenu Limited places a strong focus on the invaluable contributions of its employees to the Company’s 
+achievements. Committed to nurturing a secure and supportive workplace environment, the Company has implemented 
+a comprehensive occupational health and safety policy across all its facilities. This policy not only fosters safety 
+awareness but also ensures strict adherence to industry-leading safety standards.
+7UDQVSDUHQF\DQGRSHQQHVVDUHFRUHYDOXHVHPEHGGHGLQ.DPGKHQX/LPLWHG̵VRUJDQL]DWLRQDOFXOWXUHDWHYHU\OHYHO
+The Company’s ‘Open Door’ policy encourages employees to freely voice their concerns to their reporting managers, 
+senior management, or directly to the Human Resources department or Chairman of the Audit Committee, particularly 
+regarding instances of fraud or unethical behavior.
+Furthermore, Kamdhenu Limited’s Whistle-Blower Policy empowers employees to report any suspected or actual 
+misconduct anonymously. Stakeholders also have electronic avenues available to address grievances through email or 
+the SCORES Platform.
+In addition to fostering a respectful workplace environment, the Company has established a robust Policy on the 
+Prevention of Sexual Harassment, supported by an Internal Complaints Committee dedicated to promptly and 
+impartially addressing such matters. Regular awareness sessions ensure that employees are well-informed about the 
+policy’s provisions and the Sexual Harassment of Women at Workplace (Prevention, Prohibition, and Redressal) Act, 
+2013.
+$OLJQHGZLWKLWVͤUPFRPPLWPHQWWRVDIHW\.DPGKHQX/LPLWHGSULRULWL]HVEHKDYLRUDOVDIHW\LQLWLDWLYHVDQGFRQGXFWV
+URXWLQHZDONWKURXJKDXGLWVDQGVDIHW\LPSURYHPHQWSURMHFWVWRPLWLJDWHKD]DUGV&RQWLQXRXVWUDLQLQJDQGVNLOO
+GHYHORSPHQWZRUNVKRSVDUHLQWHJUDOHPSKDVL]LQJVDIHW\DZDUHQHVVDQGFRPSOLDQFHZLWKZRUNSODFHVDIHW\PHDVXUHV
+from the outset of employment and throughout tenure.
+Kamdhenu Limited encourages every member of its workforce to proactively report unsafe conditions to their managers 
+DQGSULRULWL]HVDIHW\YLJLODQFHDWDOOWLPHVLQWKHZRUNSODFH
+7.
+Membership of employees and worker in association(s) or Unions recognized by the listed entity:
+Category
+FY 2023-24
+FY 2022-23
+Total 
+employees/
+workers in 
+respective 
+category (A)
+No. of employees/
+workers in 
+respective category, 
+who are part of 
+association(s) or 
+Union (B)
+% (B/A)
+Total 
+employees/
+workers in 
+respective 
+category (C)
+No. of employees/
+workers in 
+respective category, 
+who are part of 
+association(s) or 
+Union (D)
+% 
+(D/C)
+  Total permanent employees
+Male
+393
+0
+0
+NIL
+Female
+15
+0
+0
+Annual Report 2023-24
+120
+Category
+FY 2023-24
+FY 2022-23
+Total 
+employees/
+workers in 
+respective 
+category (A)
+No. of employees/
+workers in 
+respective category, 
+who are part of 
+association(s) or 
+Union (B)
+% (B/A)
+Total 
+employees/
+workers in 
+respective 
+category (C)
+No. of employees/
+workers in 
+respective category, 
+who are part of 
+association(s) or 
+Union (D)
+% 
+(D/C)
+  Total permanent workers
+Male
+141
+0
+0
+NIL
+Female
+0
+0
+0
+8.
+Details of training given to employees and workers:
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+On health and 
+safety measures
+On skill
+upgradation
+Total (D)
+On health and 
+safety measures
+On skill 
+upgradation
+Number 
+(B)
+% (B/A)
+Number 
+(C)
+% (C/A)
+Number 
+(E)
+% (E/D)
+Number 
+(F)
+% (C/D)
+   Employees
+Male
+393
+360
+91.60%
+90
+22.90%
+395
+395
+100%
+76
+19.24%
+Female
+15
+15
+100%
+10
+2.45%
+11
+11
+100%
+5
+45.45%
+Total
+408
+375
+91.91%
+100
+24.50%
+406
+406
+100%
+81
+19.95%
+   Workers
+Male
+141
+141
+100%
+141
+100%
+235
+235
+100%
+0
+0%
+Female
+0
+0
+0%
+0
+0%
+0
+0
+0%
+0
+0%
+Total
+141
+141
+100%
+141
+100%
+235
+235
+100%
+0
+0%
+9.
+Details of performance and career development reviews of employees and worker:
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+No. (B)
+% (B/A)
+Total (D)
+No. (E)
+% (E/D)
+   Employees
+Male
+393
+393
+100%
+395
+395
+100%
+Female
+15
+15
+100%
+11
+11
+100%
+Total
+408
+408
+100%
+406
+406
+100%
+   Workers
+Male
+141
+141
+100%
+235
+235
+100%
+Female
+0
+0
+0%
+0
+0
+-
+Total
+141
+141
+100%
+235
+235
+100%
+Financial Statements
+Statutory Reports
+Corporate Overview
+121
+Kamdhenu Limited
+10. Health and safety management system 
+a. 
+ Whether an occupational health and safety management system has been implemented by the entity? (Yes/
+No)
+ 
+ 
+YES
+ 
+ 
+If yes, the coverage such systems?
+ 
+ 
+Kamdhenu Limited has implemented an Occupational Health and Safety Management System (OHSMS) across 
+LWVPDQXIDFWXULQJIDFLOLWLHVDQGRIͤFHV$OLJQHGZLWK,62WKHJOREDOEHQFKPDUNIRU2FFXSDWLRQDO
++HDOWKDQG6DIHW\VWDQGDUGVWKH&RPSDQ\HPSKDVL]HVHPSOR\HHLQYROYHPHQWDVFUXFLDOWRVXVWDLQHGVXFFHVV
+
+
+7KH&RPSDQ\̵V2+	60DQDJHPHQWLVHIIHFWLYHHIͤFLHQWDQGLQWHJUDWHGGHVLJQHGWRSURDFWLYHO\SUHYHQW
+DFFLGHQWVDQGVDIHJXDUGHPSOR\HHZHOOEHLQJ)XUWKHUPRUHWKH&RPSDQ\SULRULWL]HVERWKWKHSK\VLFDODQG
+mental health of the Company’s workforce through regular training and workshops, ensuring a safe and 
+supportive environment for all.
+b. 
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine 
+basis by the entity?
+
+
+$VSDUWRI,62VWDQGDUGLPSOHPHQWDWLRQUREXVWSURFHGXUHVIRU+D]DUG,GHQWLͤFDWLRQDQG5LVN$VVHVVPHQW
+(HIRA) have been thoughtfully developed and implemented across the Company’s business units. HIRA 
+is conducted comprehensively for both routine and non-routine tasks, engaging operational personnel in 
+LGHQWLI\LQJZRUNUHODWHGKD]DUGV7KHVHLGHQWLͤHGULVNVDUHGRFXPHQWHGDQGFRQWUROPHDVXUHVDUHVWUDWHJLFDOO\
+devised in accordance with the hierarchy of controls.
+
+
+7KH&RPSDQ\̵V&RUUHFWLYHDQG3UHYHQWLYH$FWLRQ7UDFNHUSURDFWLYHO\LGHQWLͤHVVDIHW\FRQFHUQVLQKLJKULVN
+operations, swiftly deploying engineering controls to mitigate potential risks. A functional team evaluates high-
+ULVNDFWLYLWLHVDQGLPSOHPHQWVDSSURSULDWHFRQWUROVWRPLQLPL]HSRWHQWLDOKD]DUGV5HJXODU̴%HKDYLRUDO%DVHG
+Safety’ trainings are conducted to enhance employee awareness and ensure adherence to safe work practices, 
+reinforcing Kamdhenu Limited’s commitment to maintaining a secure and productive workplace environment. 
+c. 
+Whether you have processes for workers to report the work related hazards and to remove themselves from 
+such risks? (Yes/No)
+ 
+ 
+YES
+d. 
+ Do the employees/worker of the entity have access to non-occupational medical and healthcare services? 
+(Yes/No)
+ 
+ 
+YES
+11. Details of safety related incidents, in the following format:
+Safety incident/number
+Category*
+FY 2023-24
+FY 2022-23
+Lost Time Injury Frequency Rate (LTIFR) (per one million-
+person hours worked)
+Employees
+0
+0
+Workers
+0
+0
+Total recordable work-related injuries
+Employees
+0
+0
+Workers
+0
+0
+No. of fatalities
+Employees
+0
+0
+Workers
+0
+0
+Annual Report 2023-24
+122
+Safety incident/number
+Category*
+FY 2023-24
+FY 2022-23
+High-consequence work-related injury or ill health (excluding 
+fatalities)
+Employees
+0
+0
+Workers
+0
+0
+*Including in the contract workforce
+12. Describe the measures taken by the entity to ensure a safe and healthy work place.
+Kamdhenu Limited carefully constructs its plants, infrastructure, and manufacturing equipment to comply with 
+rigorous regulatory standards for workplace safety and health, adhering to both Indian and international norms. 
+The Company is deeply committed to enhancing the safety, health, and well-being of its employees, actively 
+addressing health risks through strategic, evidence-based solutions. Kamdhenu Limited has launched a Zero Harm 
+&XOWXUH=+&FDPSDLJQDLPHGDWUHGXFLQJVDIHW\KD]DUGVDQGSURPRWLQJHPSOR\HHZHOOEHLQJ7KHUHDUHVHYHUDO
+initiatives and practices implemented by Kamdhenu Limited to ensure a safe and healthy workplace environment 
+XQGHUSLQQHGE\WKH=HUR+DUP&XOWXUHPRYHPHQW7KH&RPSDQ\̵V2+	6PDQDJHPHQWV\VWHPLVDOLJQHGZLWK,62
+45001:2018 standards. These measures include:
+1.
+Conducting Fire Drills Hygiene Survey Safety Observation (SO)
+
+(PSRZHULQJVDIHW\RIͤFHU
+3.
+Reporting and investigating incidents
+4.
+Implementing high risk standards measures
+5.
+Deploying best safety practices and benchmarking, internal audits and external audits, legal and statutory 
+compliance, among others
+13. Number of complaints on the following made by employees and workers:
+Health & safety
+Financial Statements
+Statutory Reports
+Corporate Overview
+123
+Kamdhenu Limited
+Working conditions
+FY 2023-24
+Filed during the 
+year
+0
+Pending 
+resolution at the 
+end of year
+0
+Remarks
+-
+FY 2022-23
+Filed during the 
+year
+0
+Pending 
+resolution at the 
+end of year
+0
+Remarks
+-
+FY 2023-24
+Filed during the 
+year
+0
+Pending 
+resolution at the 
+end of year
+0
+Remarks
+-
+FY 2022-23
+Filed during the 
+year
+0
+Pending 
+resolution at the 
+end of year
+0
+Remarks
+-
+LEADERSHIP INDICATORS
+1.
+Does the entity extend any life insurance or any compensatory package in the event of death of 
+(A)
+Employees (Y/N)
+ 
+ 
+YES
+(B)
+Workers (Y/N)
+ 
+ 
+YES
+2. 
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by the 
+value chain partners: NA
+3. 
+Provide the number of employees/workers having suffered high consequence work-related injury/ill-health/fatalities 
+(as reported in Q11 of Essential Indicators above), who have been are rehabilitated and placed in suitable employment 
+or whose family members have been placed in suitable employment:
+Particular
+Total no. of affected employees/workers
+No. of employees/workers that are rehabilitated 
+and placed in suitable employment or whose 
+family members have been placed in suitable 
+employment
+FY 2023-24
+FY 2022-23
+FY 2023-24
+FY 2022-23
+Employees
+ 0
+0 
+0
+0
+Workers
+ 0
+0 
+0
+0
+Annual Report 2023-24
+124
+14. Assessment for the year:
+100% 
+ RI \RXU SODQWV DQG RIͤFHV WKDW ZHUH DVVHVVHG E\
+entity or statutory authorities or third parties)*
+Health 
+and safety 
+practices
+Working 
+conditions
+*Internal assessment was conducted for the pertinent issues.
+ 3URYLGH GHWDLOV RI DQ\ FRUUHFWLYH DFWLRQ WDNHQ RU XQGHUZD\ WR DGGUHVV VDIHW\UHODWHG LQFLGHQWV LI DQ\ DQG RQ VLJQLͤFDQW
+risks/concerns arising from assessments of health & safety practices and working conditions.
+There were no cases where corrective action was needed.
+PRINCIPLE 4
+ESSENTIAL INDICATORS
+Businesses should respect the interests of and be responsive to all its stakeholders.
+(This principle highlights the importance of stakeholder engagement. Companies should consider the interests and 
+perspectives of all stakeholders, including shareholders, employees, customers, suppliers, and the communities in which they 
+operate. They should also be responsive to stakeholder concerns and feedback.)
+1.
+Describe the processes for identifying key stakeholder groups of the entity.
+Stakeholders are individuals or groups with a vested interest in Kamdhenu Limited’s business operations, influenced 
+HLWKHUSRVLWLYHO\RUQHJDWLYHO\E\WKH&RPSDQ\̵VHIIRUWVRUSROLFLHV7KH&RPSDQ\UHFRJQL]HVWZRSULPDU\FDWHJRULHVRI
+stakeholders: internal and external.
+&XUUHQWO\WKHIROORZLQJVWDNHKROGHUJURXSVVLJQLͤFDQWO\LPSDFWWKH&RPSDQ\̵VRSHUDWLRQV
+1.
+Shareholders/Investors
+2.
+Lenders
+3.
+Suppliers and contractors
+4.
+Employees and workers
+5.
+Customers
+6.
+Communities
+7.
+Franchisee partners
+8.
+Regulators and statutory authorities
+9.
+Local community, especially residents near the Company’s steel mill location 
+ 
+/LVW VWDNHKROGHU JURXSV LGHQWLͤHG DV NH\ IRU \RXU HQWLW\ DQG WKH IUHTXHQF\ RI HQJDJHPHQW ZLWK HDFK VWDNHKROGHU JURXS
+Stakeholder 
+group
+Whether 
+LGHQWLͤHG DV
+vulnerable & 
+marginalized 
+group
+Channels of 
+communication 
+(Email, SMS, 
+Newspaper, 
+Pamphlets, 
+Advertisement, 
+Community 
+Meetings, Notice 
+Board, Website, 
+Other- Please 
+Specify)
+Frequency of 
+engagement 
+(Annually, 
+Half-yearly, 
+Quarterly, 
+others- 
+Please 
+specify)
+Purpose and scope of engagement including key 
+topics and concerns raised during such engagement
+Investor/
+Shareholders
+No
+E-mail, 
+newspapers, and 
+website,  among 
+others
+Quarterly and 
+annually
+$QQRXQFLQJWKHͤQDQFLDOUHVXOWVWRWKHVKDUHKROGHUV
+and investors through dividends, annual reports, general 
+meetings, educating and encouraging the shareholders 
+to exercise their voting rights in shareholders’ meetings, 
+explaining the procedures for claiming the shares 
+before they get transferred to IEPF and subsequently 
+the procedures for claiming back the dividends and 
+shares so transferred to IEPF, and informing them 
+about material developments and information, business 
+activity, new initiatives, and schemes, among others.
+Financial Statements
+Statutory Reports
+Corporate Overview
+125
+Kamdhenu Limited
+Stakeholder 
+group
+Whether 
+LGHQWLͤHG DV
+vulnerable & 
+marginalized 
+group
+Channels of 
+communication 
+(Email, SMS, 
+Newspaper, 
+Pamphlets, 
+Advertisement, 
+Community 
+Meetings, Notice 
+Board, Website, 
+Other- Please 
+Specify)
+Frequency of 
+engagement 
+(Annually, 
+Half-yearly, 
+Quarterly, 
+others- 
+Please 
+specify)
+Purpose and scope of engagement including key 
+topics and concerns raised during such engagement
+Lenders
+No
+Other
+Others
+Engaging with lenders serves the purpose of evaluating 
+and establishing a borrower’s creditworthiness, 
+governance practices, ratings, and other relevant 
+factors.
+Suppliers and 
+contractors
+No
+Other 
+(regular vendor 
+meetings)
+Quarterly and 
+annually
+Executing brand promotion, marketing initiatives and 
+expanding the network.
+Employees and 
+workers
+No
+E-mails, SMS, 
+group meetings, 
+and website, 
+among others
+Half Yearly
+Fostering a collaborative environment and exchanging 
+ideas and suggestions allows for the sharing of insights 
+and promotes innovation, while providing opportunities 
+for professional growth enhances the skills and 
+knowledge of employees. Additionally, educating 
+employees on HR policies ensures their understanding 
+of Kamdhenu Limited’s guidelines and promotes 
+compliance with established practices.
+Customers
+No
+Other 
+(regular vendor 
+meetings)
+Quarterly
+Addressing customer queries, grievances, and 
+complaints, as well as educating customers on safety 
+and security policies, are essential aspects of customer 
+service. By promptly and effectively responding to 
+customer inquiries, concerns, and issues, businesses 
+can enhance customer satisfaction and build trust. 
+Furthermore, educating customers on safety and 
+security policies ensures their well-being and promotes 
+a secure environment.
+The community 
+in general 
+and the local 
+population in 
+the area where 
+the steel plant 
+of Kamdhenu 
+Limited is 
+located
+No
+Other
+(The Company 
+RUJDQL]HVYDULRXV
+social initiatives 
+like plantations, 
+blood and 
+donation camps, 
+among others.)
+Annually
+Supporting society through CSR activities is a means 
+WRIXOͤOWKHQHHGVDQGUHTXLUHPHQWVRIFRPPXQLWLHV
+demonstrating a commitment to social responsibility. 
+%\HQJDJLQJLQVXFKLQLWLDWLYHVRUJDQL]DWLRQVFRQWULEXWH
+positively to society, addressing social challenges, 
+promoting sustainable development, and making a 
+meaningful impact on the well-being of communities.
+Franchisee 
+partners
+No
+Other (various 
+dealer meetings)
+others
+    For marketing support and strategy, training, 
+guidance, and overall support, businesses aim to 
+provide franchisees with the necessary tools and 
+knowledge to succeed.
+    Ensuring franchisee satisfaction is crucial for 
+building a strong network and fostering positive 
+relationships. Addressing grievances promptly and 
+effectively contributes to maintaining a harmonious 
+franchisee-franchisor relationship. Additionally, 
+working on image building helps create a positive 
+brand perception and enhances the reputation of 
+the franchise within the market.
+Annual Report 2023-24
+126
+Stakeholder 
+group
+Whether 
+LGHQWLͤHG DV
+vulnerable & 
+marginalized 
+group
+Channels of 
+communication 
+(Email, SMS, 
+Newspaper, 
+Pamphlets, 
+Advertisement, 
+Community 
+Meetings, Notice 
+Board, Website, 
+Other- Please 
+Specify)
+Frequency of 
+engagement 
+(Annually, 
+Half-yearly, 
+Quarterly, 
+others- 
+Please 
+specify)
+Purpose and scope of engagement including key 
+topics and concerns raised during such engagement
+Regulators 
+	VWDWXWRU\
+authorities
+No
+E-mails, website, 
+newspapers and 
+UHJXODUͤOLQJV
+Quarterly
+To facilitate seamless operations, businesses engage 
+in various activities such as receiving material 
+recommendations, amendments, approvals, and 
+updates on policies and compliances. This ensures 
+WKDWWKHRUJDQL]DWLRQVWD\VXSWRGDWHZLWKUHOHYDQW
+UHJXODWLRQVDQGSROLFLHVZKLOHDOVREHQHͤWLQJIURP
+suggestions and amendments that can improve 
+SURFHVVHVDQGHIͤFLHQF\$GGLWLRQDOO\SROLF\DGYRFDF\
+allows businesses to actively participate in shaping 
+industry regulations and advocating for favorable 
+policies that support their operations and overall 
+growth.
+PRINCIPLE 5
+ESSENTIAL INDICATORS
+Businesses should respect and promote human rights.
+(This principle focuses on the importance of human rights. Companies should respect and promote human rights, including 
+the rights to freedom of expression, association, and privacy. They should also prevent and address human rights violations 
+in their operations and value chains.)
+1. 
+ Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the 
+following format
+%HQHͤWV
+FY 2023-24
+FY 2022-23
+Total (A)
+No. of employees/
+workers covered (B)
+% (B/A)
+Total (C)
+No. of employees/
+workers covered (D)
+% (D/C)
+Employees
+Permanent
+408
+408
+100%
+406
+406
+100%
+Other than permanent
+0
+0
+0%
+0
+0
+0%
+Total employees
+408
+408
+100%
+406
+406
+100%
+Workers
+Permanent
+141
+97
+68.79%
+148
+148
+100%
+Other than permanent
+173
+0
+0%
+87
+87
+100%
+Total workers
+314
+97
+30.89%
+235
+235
+100%
+Financial Statements
+Statutory Reports
+Corporate Overview
+127
+Kamdhenu Limited
+2. 
+Details of minimum wages paid to employees and workers
+Category
+FY 2023-24
+FY 2022-23
+Total 
+(A)
+Equal to 
+minimum wage
+More than 
+minimum wage
+Total 
+(D)
+Equal to 
+minimum wage
+More than 
+minimum wage
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Permanent
+Male
+393
+0
+0%
+393
+100%
+395
+0
+0%
+395
+100%
+Female
+15
+0
+0%
+15
+100%
+11
+0
+0%
+11
+100%
+Total
+408
+0
+0%
+408
+100%
+406
+0
+0%
+406
+100%
+Other than permanent
+Male
+0
+0
+0%
+0
+0%
+0
+0
+0%
+0
+-
+Female
+0
+0
+0%
+0
+0%
+0
+0
+0%
+0
+-
+Total
+0
+0
+0%
+0
+0%
+0
+0
+0%
+0
+-
+Workers
+Permanent
+Male
+141
+0
+0%
+141
+100%
+148
+0
+0%
+148
+100%
+Female
+0
+0
+0%
+0
+-
+0
+0
+0%
+0
+-
+Total
+141
+0
+0%
+141
+100%
+148
+0
+0%
+148
+100%
+Other than permanent
+Male
+173
+0
+0%
+173
+100%
+87
+0
+0%
+87
+100%
+Female
+0
+0
+0%
+0
+-
+0
+0
+0%
+0
+-
+Total
+173
+0
+0%
+173
+100%
+87
+0
+0%
+87
+100%
+3.
+Details of remuneration/salary/wages
+a.
+Median remuneration/wages:
+Particular
+Male
+Female
+Number
+Median remuneration/
+salary/wages of 
+respective category
+Number
+Median remuneration/
+salary/wages of 
+respective category
+Board of Directors (BoD)*
+7
+28819200
+1
+NA**
+Key Managerial Personnel***
+5
+28819200
+0
+0
+Employees other than BoD and KMP
+391
+40050
+15
+42900
+Workers
+141
+27915
+0
+0
+7KHPHGLDQUHPXQHUDWLRQLVFDOFXODWHGVROHO\IRUWKH([HFXWLYH'LUHFWRUHPSOR\HGWKURXJKRXWWKHHQWLUH)<VSHFLͤFDOO\
+the Managing Director and Whole-Time Directors.
+**Smt Pravin Tripathi, Independent Woman Director, has received remuneration solely in the form of sitting fees; therefore, the 
+median calculation does not apply in her case.
+.03VLQFOXGHWKH0DQDJLQJ'LUHFWRU:KROH7LPH'LUHFWRUV&KLHI)LQDQFLDO2IͤFHUDQG&RPSDQ\6HFUHWDU\
+b.
+Gross wages paid to females as % of total wages paid by the entity, in the following format:
+Annual Report 2023-24
+128
+5.47%
+FY 2023-24
+4.98%
+FY 2022-23
+Gross wages paid to females as % of total 
+wages
+4. 
+Do you have a focal point (Individual/Committee) responsible 
+for addressing human rights impacts or issues caused or 
+contributed to by the business?
+YES
+Yes, POSH Committee and Whistle-Blower mechanism. 
+Kamdhenu Limited takes human rights seriously and maintains 
+D]HURWROHUDQFHSROLF\WRZDUGVDQ\YLRODWLRQV5HSRUWHG
+instances of human rights violations are promptly investigated 
+E\DWHDPRIVHQLRURIͤFLDOVDSSRLQWHGE\WKH&RPSDQ\IRUDQ\
+VSHFLͤFSXUSRVH
+5. 
+Describe the internal mechanisms in place to redress grievances 
+related to human rights issues.
+.DPGKHQX/LPLWHGͤUPO\XSKROGVWKHSULQFLSOHVRIKXPDQLW\GLJQLW\DQG
+respect for all its employees and stakeholders. Kamdhenu Conglomerate 
+has a wide presence throughout India, and its philosophy is that 
+HPSOR\HHGLYHUVLW\HQULFKHVWKHRUJDQL]DWLRQ7KH&RPSDQ\WKDWHYHU\
+human being is entitled to equality and non-discrimination. The Company 
+respects human rights and is committed to ensuring their protection in accordance with its human rights policy. The 
+Company’s human rights policy outlines its stance on human rights issues such as non-discrimination, the prohibition 
+RIFKLOGDQGIRUFHGODERUIUHHGRPRIRUJDQL]DWLRQDQGWKHULJKWWRFROOHFWLYHEDUJDLQLQJ.DPGKHQX/LPLWHGDELGHVE\
+all applicable national and municipal laws, as well as international standards. This is made possible by the Company’s 
+clearly established policies, initiatives, and grievance resolution processes.
+There were no allegations of child labor, forced labor, involuntary labor, or discriminatory employment throughout the 
+reporting year. The Company’s policy displays its dedication to protecting and enhancing people’s human rights while 
+also promoting inclusivity, diversity, and equality.
+Internal codes ban discrimination and harassment based on race, religion, gender, age, or national origin. It is applicable 
+to the entire group of companies. The Code of Conduct enables employees and stakeholders to report violations and 
+FRQYH\FRQFHUQVLQDVHFXUHDQGFRQͤGHQWLDOHQYLURQPHQW
+6. 
+Number of complaints on the following made by employees and workers:
+Sexual harassment
+Financial Statements
+Statutory Reports
+Corporate Overview
+129
+Kamdhenu Limited
+FY 2023-24
+Filed during the 
+year
+0
+Pending 
+resolution at the 
+end of year
+0
+Remarks
+-
+FY 2022-23
+Filed during the 
+year
+0
+Pending 
+resolution at the 
+end of year
+0
+Remarks
+-
+Wages
+Forced labor/Involuntary labor
+Child labor
+Annual Report 2023-24
+130
+FY 2023-24
+Filed during the 
+year
+0
+Pending 
+resolution at the 
+end of year
+0
+Remarks
+-
+FY 2022-23
+Filed during the 
+year
+0
+Pending 
+resolution at the 
+end of year
+0
+Remarks
+-
+FY 2023-24
+Filed during the 
+year
+0
+Pending 
+resolution at the 
+end of year
+0
+Remarks
+-
+FY 2022-23
+Filed during the 
+year
+0
+Pending 
+resolution at the 
+end of year
+0
+Remarks
+-
+FY 2023-24
+Filed during the 
+year
+0
+Pending 
+resolution at the 
+end of year
+0
+Remarks
+-
+FY 2022-23
+Filed during the 
+year
+0
+Pending 
+resolution at the 
+end of year
+0
+Remarks
+-
+Discrimination at workplace
+FY 2023-24
+Filed during the 
+year
+0
+Pending 
+resolution at the 
+end of year
+0
+Remarks
+-
+FY 2022-23
+Filed during the 
+year
+0
+Pending 
+resolution at the 
+end of year
+0
+Remarks
+-
+Financial Statements
+Statutory Reports
+Corporate Overview
+131
+Kamdhenu Limited
+Other human rights related issues
+FY 2023-24
+Filed during the 
+year
+0
+Pending 
+resolution at the 
+end of year
+0
+Remarks
+-
+FY 2022-23
+Filed during the 
+year
+0
+Pending 
+resolution at the 
+end of year
+0
+Remarks
+-
+ 
+&RPSODLQWV ͤOHG XQGHU WKH 6H[XDO +DUDVVPHQW RI :RPHQ DW :RUNSODFH 3UHYHQWLRQ 3URKLELWLRQ DQG 5HGUHVVDO $FW
+2013, in the following format:
+Particulars
+FY 2023-24
+FY 2022-23
+Total complaints reported under Sexual Harassment on Women at Workplace 
+(Prevention, Prohibition and Redressal) Act, 2013 (POSH)
+0
+0
+Complaints on POSH as a % of female employees/workers
+0
+0
+Complaints on POSH upheld
+0
+0
+8.
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+Kamdhenu Limited values diversity and inclusion, fostering an environment where individuals can bring their authentic 
+selves to work, contributing their unique talents, experiences, and perspectives. This inclusive culture drives the creation 
+of exceptional value for all stakeholders. The Company’s policy framework guarantees equality and non-discrimination 
+for all, regardless of gender, religion, caste, color, age, community, physical ability, or gender orientation.
+To uphold these values, Kamdhenu Limited has established an Internal Committee dedicated to handling cases of 
+sexual harassment and discrimination. This Committee takes decisive action to protect every complainant, ensuring the 
+DQRQ\PLW\DQGFRQͤGHQWLDOLW\RIDOOFRPSODLQWV7RIXUWKHUSURPRWHDVDIHDQGUHVSHFWIXOZRUNSODFHUHJXODUDZDUHQHVV
+and training sessions are conducted, keeping staff well-informed about issues related to sexual harassment and 
+WKHUHGUHVVDOV\VWHP,QDGGLWLRQWKH&RPSDQ\KDVLPSOHPHQWHGDUREXVW:KLVWOH%ORZHU3ROLF\RIIHULQJVLJQLͤFDQW
+protections.
+Whistle-blower complaints are treated as protected disclosures, with the option for the complainant to remain 
+anonymous
+7KHLQYHVWLJDWLQJRIͤFHULVPDQGDWHGWRVDIHJXDUGWKHZKLVWOHEORZHU̵VLGHQWLW\
+Whistle-blowers are protected from any adverse action, including but not limited to harassment, unfair termination, 
+demotion, suspension, and biased behavior
+9.
+Do human rights requirements form part of your business agreements and contracts? (Yes/No/NA)
+No
+10. Assessments for the year:
+Name of the assessment
+Child labor 
+Forced/
+involuntary 
+labor 
+Sexual 
+harassment
+Discrimination 
+at workplace
+Wages
+Others – 
+please specify
+ RI \RXU SODQWV DQG RIͤFHV WKDW ZHUH DVVHVVHG E\ HQWLW\ RU VWDWXWRU\ DXWKRULWLHV RU WKLUG SDUWLHV
+100%
+  3URYLGH GHWDLOV RI DQ\ FRUUHFWLYH DFWLRQV WDNHQ RU XQGHUZD\ WR DGGUHVV VLJQLͤFDQW ULVNVFRQFHUQV DULVLQJ IURP WKH
+assessments at Question 10 above.
+NA
+LEADERSHIP INDICATORS
+
+'HWDLOV RI D EXVLQHVV SURFHVV EHLQJ PRGLͤHGLQWURGXFHG DV D UHVXOW RI DGGUHVVLQJ KXPDQ ULJKWV JULHYDQFHVFRPSODLQWV
+NA
+2.
+Details of the scope and coverage of any Human rights due-diligence conducted
+NA
+ 
+,V WKH SUHPLVHRIͤFH RI WKH HQWLW\ DFFHVVLEOH WR GLIIHUHQWO\ DEOHG YLVLWRUV DV SHU WKH UHTXLUHPHQWV RI WKH 5LJKWV RI
+Persons with Disabilities Act, 2016? (Yes/No)
+YES
+.DPGKHQX/LPLWHGHQVXUHVWKDWDOOLWVSUHPLVHVDQGRIͤFHVDUHIXOO\DFFHVVLEOHWRSHRSOHZKRDUHGLIIHUHQWO\DEOHG
+in strict accordance with the Rights of Persons with Disabilities Act, 2016. Embracing diversity and inclusion as a 
+foundation of its corporate culture, Kamdhenu Limited infuses these principles into every aspect of its operations. 
+Rooted in the core values of respect, this commitment not only fosters an inclusive environment but also brings the 
+Company’s purpose to life by empowering and supporting individuals of all abilities.
+Annual Report 2023-24
+132
+PRINCIPLE 6
+ESSENTIAL INDICATORS
+Businesses should respect and make efforts to protect and restore the environment.
+7KLVSULQFLSOHHPSKDVL]HVWKHLPSRUWDQFHRIHQYLURQPHQWDOVWHZDUGVKLS&RPSDQLHVVKRXOGPLQLPL]HWKHLULPSDFWRQWKH
+environment, conserve natural resources, and promote environmental sustainability. They should also take steps to restore 
+and rehabilitate degraded ecosystems.)
+1.
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+FY 2023-24
+FY 2022-23
+From renewable sources
+Total electricity consumption (A)
+ 0
+0
+Total fuel consumption (B)
+ 0
+0
+Energy consumption through other sources (C.)
+ 0
+0
+Total energy consumed from renewable sources (A+B+C)
+ 0
+0
+From non-renewable sources
+Total electricity consumption (D)
+98827.93 GJ
+ 117634.17 GJ
+Total fuel consumption (E)
+ 1,73,641.32 GJ
+ 233252.68 GJ
+Energy consumption through other sources (F)
+0
+ 0
+Total energy consumed from non-renewable sources (D+E+F)
+2,72,469.25 GJ
+350886.85 GJ
+Total energy consumed (A+B+C+D+E+F)
+2,72,469.25 GJ
+350886.85 GJ
+Energy intensity per lakh rupee of turnover
+(Total energy consumed/Revenue from operations) (in Lakhs)
+3.75
+4.79
+Energy intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP) 
+(Total energy consumed/Revenue from operations adjusted for PPP)
+0.00086
+0.00109
+Energy intensity in terms of physical output
+2.39
+-
+(QHUJ\LQWHQVLW\RSWLRQDO̰WKHUHOHYDQWPHWULFPD\EHVHOHFWHGE\WKHHQWLW\
+-
+-
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency?
+No
+If yes, name of the external agency.
+NA
+ 
+'RHV WKH HQWLW\ KDYH DQ\ VLWHVIDFLOLWLHV LGHQWLͤHG DV GHVLJQDWHG FRQVXPHUV '&V XQGHU WKH 3HUIRUPDQFH $FKLHYH
+and Trade (PAT) Scheme of the Government of India? (Yes/No)
+No
+If yes, disclose whether targets set under the PAT scheme have been achieved. In case targets have not been 
+achieved, provide the remedial action taken, if any.
+NA
+Financial Statements
+Statutory Reports
+Corporate Overview
+133
+Kamdhenu Limited
+3.
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 2023-24
+FY 2022-23
+Water withdrawal by source (in kiloliters)
+(i)    Surface water
+- 
+(ii)   Groundwater
+ 3050.937
+2859.678
+(iii)  Third party water
+307980 
+578771.55 
+(iv)  Seawater/desalinated water
+ -
+(v)   Others
+Total volume of water withdrawal (in kiloliters) (i + ii + iii + iv + v)
+ 311030.937
+581631.228 
+Total volume of water consumption (in kiloliters)
+ 311030.937 
+584331.228 
+Water intensity per lakh rupee of turnover 
+(Total water consumption/Revenue from operations) (in Lakhs) 
+4.29
+7.98 
+Water intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP)
+(Total water consumption/Revenue from operations adjusted for PPP)
+0.00098
+0.00182
+Water intensity in terms of physical output
+2.73 
+- 
+:DWHULQWHQVLW\RSWLRQDO̰WKHUHOHYDQWPHWULFPD\EHVHOHFWHGE\WKHHQWLW\
+ -
+- 
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Yes/No)
+No
+If yes, name of the external agency.
+NA
+4.
+Provide the following details related to water discharged:
+Parameter
+FY 2023-24
+FY 2022-23
+Water discharge by destination and level of treatment (in kiloliters)
+(i)
+To surface water
+No treatment
+0
+0 
+:LWKWUHDWPHQW̰SOHDVHVSHFLI\OHYHORIWUHDWPHQW
+0
+0
+(ii) To groundwater
+No treatment
+ 0
+ 0
+:LWKWUHDWPHQW̰SOHDVHVSHFLI\OHYHORIWUHDWPHQW
+ 0
+ 0
+(iii) To seawater
+No treatment
+ 0
+ 0
+:LWKWUHDWPHQW̰SOHDVHVSHFLI\OHYHORIWUHDWPHQW
+ 0
+ 0
+(iv) Sent to third-parties
+No treatment
+ 0
+ 0
+:LWKWUHDWPHQW̰SOHDVHVSHFLI\OHYHORIWUHDWPHQW
+ 0
+ 0
+(v) Others
+No treatment
+ 0
+ 0
+:LWKWUHDWPHQW̰SOHDVHVSHFLI\OHYHORIWUHDWPHQW
+ 0
+ 0
+Total water discharged (in kiloliters)
+ 0
+ 0
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N)
+No
+If yes, name of the external agency.
+NA
+Annual Report 2023-24
+134
+5. 
+Has the entity implemented a mechanism for Zero Liquid Discharge?
+YES
+If yes, provide details of its coverage and implementation.
+.DPGKHQX/LPLWHG̵VVWHHOPDQXIDFWXULQJXQLWPDLQWDLQVD]HUROLTXLGGLVFKDUJH=/'PHFKDQLVPVKRZFDVLQJLWV
+commitment to environmental stewardship and regulatory compliance. 
+6. 
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please specify unit
+FY 2023-24
+FY 2022-23
+NOx
+Parts per million by volume
+ 41.4
+39.4
+SOx
+Parts per million by volume
+37.4 
+35.3
+Particulate matter (PM)
+Parts per million by volume
+ 94.8
+94.8
+Persistent organic pollutants (POP)
+Volatile organic compounds (VOC)
++D]DUGRXVDLUSROOXWDQWV+$3
+2WKHUV̰3DUWLFXODWHPDWWHU3030
+Parts per million by volume
+ 53.2
+55.1
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N)
+No
+If yes, name of the external agency.
+NA
+7.
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+Parameter
+Unit
+FY 2023-24
+FY 2022-23
+Total Scope 1 emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tons of CO2
+equivalent
+ 11,660.56
+19000.01
+Total Scope 2 emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tons of CO2 
+equivalent
+19,655.78
+26467.69
+Total Scope 1 and Scope 2 emissions per lakh rupee of 
+turnover
+(Total Scope 1 and Scope 2 GHG emissions/Revenue from 
+operations) (In Lakhs)
+0.43
+ 0.62
+Total Scope 1 and Scope 2 emission intensity per rupee 
+of turnover adjusted for Purchasing Power Parity (PPP)
+(Total Scope 1 and Scope 2 GHG emissions/Revenue from 
+operations adjusted for PPP)
+0.00009
+0.00014
+Total Scope 1 and Scope 2 emission intensity in terms of 
+physical output
+0.27
+-
+7RWDO6FRSHDQG6FRSHHPLVVLRQLQWHQVLW\RSWLRQDO̰
+the relevant metric may be selected by the entity
+-
+-
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N)
+No
+If yes, name of the external agency.
+NA
+Financial Statements
+Statutory Reports
+Corporate Overview
+135
+Kamdhenu Limited
+8.
+Does the entity have any project related to reducing Green House Gas emission?  (Yes/No)
+YES
+If yes, then provide details.
+Kamdhenu Limited operates with an installed capacity of 3.8 MW, supplying clean and renewable energy to the grid 
+and government. This underscores the Company’s strong commitment to reducing greenhouse gas emissions 
+and fostering a more sustainable environment. By harnessing the power of wind, the Company not only generates 
+electricity but also champions the cause of a greener and healthier planet. 
+Furthering its initiatives, Kamdhenu Limited has implemented several key measures:
+7UDQVLWLRQLQJIURPWUDGLWLRQDOOLJKWVWRHQHUJ\HIͤFLHQW/('OLJKWV
+Replacing coal with LSHS fuel to decrease greenhouse gas emissions 
+ 
+ Advancing the use of induction furnaces, which use electric currents to melt metal. This cutting-edge 
+technology not only lowers power consumption but also represents a clean, non-polluting process that 
+mitigates carbon emissions
+9.
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2023-24
+FY 2022-23
+Total waste generated (in metric tons)
+Plastic waste (A)
+-
+-
+E-waste (B)
+-
+-
+Bio-medical waste (C)
+-
+-
+Construction and demolition waste (D)
+-
+-
+Battery waste (E)
+-
+-
+Radioactive waste (F)
+-
+-
+Other hazardous waste. Please specify, if any. (G)
+-
+-
+Other non-hazardous waste generated (H). 
+Please specify, if any. (Break-up by composition i.e. by materials relevant to the 
+sector)
+W/s rolling mill
+4,980.76 
+4547.96
+Barring loss rolling mill
+2,714.56 
+2201.45
+W/s induction furnace R/R 
+779.21 
+711.68
+Barring loss induction furnace
+1,286.50
+810.57
+Total (A + B + C + D + E + F + G + H)
+9761.03
+8271.66
+Waste intensity per lakh rupee of turnover
+(Total waste generated/Revenue from operations) (in Lakhs)
+0.13
+0.11 
+Waste intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP) 
+(Total waste generated/Revenue from operations adjusted for PPP)
+ 0.00003
+0.00002
+Waste intensity in terms of physical output
+0.085
+-
+Waste intensity (optional) – the relevant metric may be selected by the entity
+-
+-
+Annual Report 2023-24
+136
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations (in 
+metric tons)
+Category of waste
+FY 2023-24
+FY 2022-23
+(i)
+Recycled
+ 779.21
+711.68
+(ii)
+Re-used
+ -
+-
+(iii) Other recovery operations
+ 6335.10
+5671.11
+Total
+ 7114.31
+6382.79
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tons)
+Category of waste
+FY 2023-24
+FY 2022-23
+(i)
+Incineration
+1874.57
+1402.37
+(ii)
+/DQGͤOOLQJ
+ 772.15
+486.50
+(iii) Other disposal operations
+ -
+-
+Total
+ 2646.72
+1888.87
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N)
+No
+If yes, name of the external agency.
+NA
+10. Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted 
+by your Company to reduce usage of hazardous and toxic chemicals in your products and processes and the 
+practices adopted to manage such wastes.
+.DPGKHQX/LPLWHGVWULFWO\IROORZVHIͤFLHQWZDVWHPDQDJHPHQWSURFHGXUHVDGKHULQJWRVWULQJHQWSURWRFROVIRUWUDVK
+storage, handling, segregation, and disposal. Embracing sustainability at its core, the Company guarantees that metal 
+VFUDSLVVRUWHGDQGUHSXUSRVHGWKURXJKDGYDQFHGLQFLQHUDWLRQSURFHVVHVVLJQLͤFDQWO\UHGXFLQJZDVWHDQGLQFUHDVLQJ
+UHVRXUFHHIͤFLHQF\)RURWKHUW\SHVRIZDVWH.DPGKHQX/LPLWHGSDUWQHUVZLWKUHSXWDEOHWKLUGSDUW\YHQGRUVWR
+ensure responsible disposal, maintaining strict compliance with environmental regulations. This proactive approach 
+not only aligns with legal standards but also contributes to a cleaner, greener environment.
+  ,I WKH HQWLW\ KDV RSHUDWLRQVRIͤFHV LQDURXQG HFRORJLFDOO\ VHQVLWLYH DUHDV VXFK DV QDWLRQDO SDUNV ZLOGOLIH
+sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where 
+environmental approvals/clearances are required, please specify details in the following format:
+Sr.
+no.
+Location of 
+RSHUDWLRQVRIͤFHV
+Type of 
+operations
+Whether the conditions of environmental 
+approval/clearance are being complied 
+with? (Y/N)
+If no, the reasons thereof and 
+corrective action taken, if any.
+NA
+12. Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the 
+FXUUHQW ͤQDQFLDO \HDU
+Name and brief 
+details of project
+EIA 
+QRWLͤFDWLRQ
+no.
+Date
+Whether conducted by 
+independent external agency 
+(Yes/No)
+Results communicated in 
+public domain (Yes/No)
+Relevant web 
+link
+Nil
+Financial Statements
+Statutory Reports
+Corporate Overview
+137
+Kamdhenu Limited
+13. Is the entity compliant with the applicable environmental law/regulations/guidelines in India; such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and 
+rules thereunder (Y/N/NA).
+Yes
+If not, provide details of all such non-compliances, in the following format:
+Specify the law/regulation/
+guidelines which was not 
+complied with
+Provide details of the 
+non-compliance
+$Q\ ͤQHVSHQDOWLHVDFWLRQ WDNHQ
+by regulatory agencies such as 
+pollution control boards or by courts
+Corrective action 
+taken, if any
+Nil
+PRINCIPLE 7
+ESSENTIAL INDICATORS
+Businesses, when engaging in influencing public and regulatory policy, should do so in 
+a manner that is responsible and transparent.
+(This principle highlights the importance of responsible advocacy. Companies should engage in policy advocacy in a 
+responsible and transparent manner, and avoid engaging in activities that could undermine the public interest or the 
+democratic process.)
+1. 
+D 
+1XPEHU RI DIͤOLDWLRQV ZLWK trade and industry chambers/associations.
+  2
+b. 
+List the top 10 trade and industry chambers/associations (determined based on the total members of such 
+ERG\ WKH HQWLW\ LV D PHPEHU RIDIͤOLDWHG WR
+Name of the trade and industry 
+chambers/associations
+State level
+Bhiwadi Manufacturers 
+Association
+1.
+National Level
+3+'&KDPEHUVRI&RPPHUFH	
+Industry
+2.
+2. 
+Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the entity, 
+based on adverse orders from regulatory authorities.
+Name of authority
+Brief of the case
+Corrective action taken
+Nil
+Annual Report 2023-24
+138
+Reach of trade and industry chambers/associations 
+(state/national/international)
+PRINCIPLE 8
+ESSENTIAL INDICATORS
+Businesses should promote inclusive growth and equitable development.
+7KLVSULQFLSOHHPSKDVL]HVWKHLPSRUWDQFHRISURPRWLQJLQFOXVLYHDQGHTXLWDEOHHFRQRPLFGHYHORSPHQW&RPSDQLHVVKRXOG
+FUHDWHHFRQRPLFRSSRUWXQLWLHVIRUDOOLQFOXGLQJGLVDGYDQWDJHGDQGPDUJLQDOL]HGJURXSV7KH\VKRXOGDOVRFRQWULEXWHWRWKH
+development of local communities and support social and economic empowerment.)
+1. 
+ Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the 
+FXUUHQW ͤQDQFLDO \HDU
+Name and brief 
+details of project
+SIA 
+QRWLͤFDWLRQ
+no.
+Date of 
+QRWLͤFDWLRQ
+Whether conducted by 
+independent external agency 
+(Yes/No)
+Results communicated in 
+public domain (Yes/No)
+Relevant web 
+link
+NA
+2. 
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by 
+your entity, in the following format:
+Sr.
+no.
+Name of project for 
+which R&R is ongoing
+State
+District
+No. of Project 
+Affected Families 
+(PAFs)
+% of PAFs 
+covered by 
+R&R
+Amounts paid 
+to PAFs in the 
+FY (in `)
+NA
+3.
+Describe the mechanisms to receive and redress grievances of the community.
+.DPGKHQX/LPLWHGDVDUHVSRQVLEOHFRUSRUDWHFLWL]HQLVLQGRPLWDEOHLQLWVFRPPLWPHQWWRVDIHJXDUGLQJWKHZHOIDUH
+and well-being of individuals, both physically and mentally, while upholding their human rights. The Company believes 
+WKDWHQGXULQJVXFFHVVLVURRWHGLQFUHDWLQJYDOXHVWKDWEHQHͤWVKDUHKROGHUVDQGVRFLHW\DWODUJH7KLVYDOXHFUHDWLRQ
+is underpinned by a solid foundation of compliance, a culture of respect, and a strong commitment to environmental 
+and social sustainability. 
+Kamdhenu Limited’s grievance redressal mechanism is integral to its societal initiatives, designed to actively solicit 
+feedback and address any views, issues, complaints, or grievances from the community. To foster meaningful 
+societal interaction, Kamdhenu Limited has deployed local employees who regularly visit communities, engaging with 
+UHVLGHQWVWRXQGHUVWDQGDQGUHVROYHWKHLUFRQFHUQV7KURXJKWKHVHSURDFWLYHHIIRUWV.DPGKHQX/LPLWHGFDQDIͤUP
+WKDWQRVLJQLͤFDQWFRPSODLQWVKDYHEHHQUHFHLYHGIURPWKHFRPPXQLW\
+4. 
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+Particular
+FY 2023-24
+FY 2022-23
+Directly sourced from MSMEs/small producers
+6.71%
+6.13%
+Directly from within India
+93.29%
+93.87%
+Financial Statements
+Statutory Reports
+Corporate Overview
+139
+Kamdhenu Limited
+5. 
+Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers employed 
+on a permanent or non-permanent/on contract basis) in the following locations, as % of total wage cost
+Particular
+FY 2023-24
+FY 2022-23
+Rural
+-
+-
+Semi-urban
+-
+-
+Urban
+-
+-
+Metropolitan
+9.57%
+9.09%
+3ODFHWREHFDWHJRUL]HGDVSHU5%,&ODVVLͤFDWLRQ6\VWHPUXUDOVHPLXUEDQXUEDQPHWURSROLWDQ
+LEADERSHIP INDICATORS
+ 
+3URYLGH GHWDLOV RI DFWLRQV WDNHQ WR PLWLJDWH DQ\ QHJDWLYH VRFLDO LPSDFWV LGHQWLͤHG LQ WKH 6RFLDO ,PSDFW $VVHVVPHQWV
+(Reference: Question 1 of Essential Indicators above):
+'HWDLOV RI QHJDWLYH VRFLDO LPSDFW LGHQWLͤHG
+Corrective action taken
+NA
+2. 
+Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as 
+LGHQWLͤHG E\ JRYHUQPHQW ERGLHV
+Annual Report 2023-24
+140
+Delhi
+1..
+NCR
+0
+Rajasthan
+2.
+Alwar
+5,00,000
+Haryana
+3.
+Gurugram
+0
+State
+Aspirational district
+Amount spent (in `)
+3. 
+a) 
+Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising 
+marginalized/vulnerable groups? (Yes/No/NA)
+ 
+ 
+No
+b)
+From which marginalized/vulnerable groups do you procure?
+ 
+ 
+NA
+c) 
+What percentage of total procurement (by value) does it constitute?
+ 
+ 
+NA
+ 
+'HWDLOV RI WKH EHQHͤWV GHULYHG DQG VKDUHG IURP WKH LQWHOOHFWXDO SURSHUWLHV RZQHG RU DFTXLUHG E\ \RXU HQWLW\ LQ WKH
+FXUUHQW ͤQDQFLDO \HDU EDVHG RQ WUDGLWLRQDO NQRZOHGJH
+Sr.
+no.
+Intellectual Property based on traditional knowledge
+Owned/Acquired 
+(Yes/No)
+%HQHͤW VKDUHG
+(Yes/No)
+Basis of calculating 
+EHQHͤW VKDUH
+NA
+1.
+PRINCIPLE 9
+ESSENTIAL INDICATORS
+Businesses should engage with and provide value to their consumers in a responsible 
+manner.
+(This principle highlights the importance of responsible consumer engagement. Companies should provide safe, high-quality 
+products and services, and ensure that they are marketed and sold ethically and responsibly. They should also be transparent 
+about their products and services,  and provide consumers with the information they need to make informed choices.)
+1.
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+Kamdhenu’s website, www.kamdhenulimited.com, provides comprehensive information about its products. 
+The Company is dedicated to addressing client complaints with the utmost seriousness, believing that swift, 
+transparent, and solution-oriented responses are essential for effective resolution.
+To date, no complaints or concerns have been raised regarding the adverse impacts of Kamdhenu Limited’s goods. 
+Detailed information about their products is readily available on the Company’s website at: www.kamdhenulimited.
+com. Kamdhenu Limited handles customer complaints with precision and care, with a dedicated team led by the 
+Assistant Manager of Digital Marketing, ensuring each concern is followed up diligently. Customers can easily raise 
+their concerns through the query section on the website.
+For any inquiries or issues, customers can reach out via:
+Telephone: 0124-4604595 
+E-mail: info@kamdhenulimited.com
+2.
+Turnover of products and/services as a percentage of turnover from all products/service that carry information about
+Particular
+As a percentage to total 
+turnover
+Environmental and social parameters relevant to the product
+ Nil 
+Safe and responsible usage
+Nil
+Recycling and/or safe disposal
+Nil
+Financial Statements
+Statutory Reports
+Corporate Overview
+141
+Kamdhenu Limited
+5. 
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes 
+wherein usage of traditional knowledge is involved.
+Name of authority
+Brief of the case
+Corrective action taken
+NA
+
+'HWDLOV RI EHQHͤFLDULHV RI &65 3URMHFWV
+Kamdhenu Education and Skill 
+Development Program, along with  
+Medical Facilities
+CSR project
+No. of persons 
+EHQHͤWHG IURP &65
+projects
+~200
+ RI EHQHͤFLDULHV
+from vulnerable and 
+marginalized groups
+100%
+3. 
+Number of consumer complaints in respect of the following:
+Particular
+FY 2023-24
+FY 2022-23
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Remark
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Remark
+Data privacy
+0
+0
+-
+0
+0
+-
+Advertising
+0
+0
+-
+0
+0
+-
+Cyber-security
+0
+0
+-
+0
+0
+-
+Delivery of essential services
+0
+0
+-
+0
+0
+-
+Restrictive trade practices
+0
+0
+-
+0
+0
+-
+Unfair trade practices
+0
+0
+-
+0
+0
+-
+Other
+0
+0
+-
+0
+0
+-
+4.
+Details of instances of product recalls on account of safety issues:
+Particular
+Number
+Reason for recall
+Voluntary recalls
+ 0
+ NA
+Forced recalls
+ 0
+ NA
+d 
+during the 
+year
+0
+0
+ecurity
+0
+Delivery of essential services
+0
+Restrictive trade practices
+0
+Unfair trade practices
+0
+0
+Other
+0
+0
+4.
+Details of instances of product recalls on account of safety
+Particular
+Num
+Vo
+Vo
+Vo
+V lulul nt
+ntary y y re
+re
+re
+r ca
+calllllllllllls
+0
+Fo
+Fo
+Fo
+Fo
+Fo
+Fo
+Fo
+Fo
+Fo
+Fo
+F rc
+rced
+ed rec
+ec lalallslsls
+0
+5. Does the entity have a framework/policy on cyber security and risks related to data privacy? (Yes/No)
+YES
+If available, provide a web link of the policy
+The Kamdhenu Group holds the right to privacy in the highest regard. The Group understands the critical importance 
+of safeguarding personal information, whether it be names, dates of birth, addresses, or any other details entrusted 
+WRWKHP$OOVXFKGDWDLVWUHDWHGZLWKWKHXWPRVWFRQͤGHQWLDOLW\DQGLVRQO\XVHGIRUWKHVSHFLͤFEXVLQHVVSXUSRVHV
+for which it was intended, or as mandated by law. If it becomes necessary for the Kamdhenu Group to share 
+personal information with their subsidiaries, business partners, or other relevant parties, it is done strictly to facilitate 
+WKHLQWHQGHGEXVLQHVVWUDQVDFWLRQ7KH.DPGKHQX*URXSLVͤUPLQLWVFRPPLWPHQWWRWKHVHFXULW\DQGSULYDF\RI
+personal data, ensuring their practices align with the latest legal requirements.
+Additionally, Kamdhenu Limited’s dedication to ethical business practices is encapsulated in its Business 
+Responsibility and Sustainability Policy. This comprehensive Policy is readily accessible to all stakeholders on the 
+Company’s website in the Investor Section at: https://www.kamdhenulimited.com/code-conduct.php
+Annual Report 2023-24
+142
+6. 
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential 
+services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty/action 
+taken by regulatory authorities on safety of products/services.
+NA
+7.
+Provide the following information relating to data breaches
+a.
+Number of instances of data breaches along-with impact
+0
+E
+3HUFHQWDJH RI GDWD EUHDFKHV LQYROYLQJ SHUVRQDOO\ LGHQWLͤDEOH LQIRUPDWLRQ RI FXVWRPHUV
+0
+c.
+Impact, if any, of the data breaches
+NA
+Financial Statements
+Statutory Reports
+Corporate Overview
+143
+Kamdhenu Limited

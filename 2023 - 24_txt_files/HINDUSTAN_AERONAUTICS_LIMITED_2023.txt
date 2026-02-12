@@ -1,0 +1,4871 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CO/SEC/4(7)/2024-25/ BSE & NSE Filing/37 
+ 
+  2nd August, 2024 
+ 
+BSE Limited 
+Listing Department 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai – 400 001 
+National Stock Exchange of India Ltd 
+Listing Department 
+Exchange Plaza, 5th Floor, Plot No C/1, 
+G Block, Bandra-Kurla Complex,  
+Bandra (E), Mumbai – 400051 
+ 
+Dear Sir/ Madam, 
+ 
+Sub: Business Responsibility and Sustainability Report (BRSR) 
+ 
+Ref:  BSE Scrip Code: 541154, NSE Symbol: HAL 
+*** 
+ 
+Please 
+find 
+attached 
+herewith 
+Business 
+Responsibility 
+and 
+Sustainability Report (BRSR) for the Financial Year 2023-24. 
+ 
+2. 
+This is for information and record, please. 
+ 
+Thanking you, 
+Yours Faithfully 
+For Hindustan Aeronautics Ltd 
+ 
+ 
+(Shailesh Bansal) 
+Company Secretary & Compliance Officer 
+SHAILESH 
+BANSAL
+Digitally signed by SHAILESH BANSAL 
+DN: c=IN, postalCode=560093, st=KARNATAKA, street=QUARTER 
+NUMBER FD 39 HAL SENIOR OFFICERS ENCLAVEBENGALURUOLD 
+MADRAS ROADC V RAMAN NAGAR POST 560093, l=BENGALURU, 
+o=Personal, title=9169, 
+serialNumber=2fa74fb29e5b22e3f69ce9f4b2744722d3b2e10640b
+ec0245509ef4767c45738, pseudonym=916920221102135617427, 
+2.5.4.20=0c1e98bc63a69fb52335123f2b1199152a349797bc575a3
+0e199cb9152024f8f, email=SHAILESH1245@HOTMAIL.COM, 
+cn=SHAILESH BANSAL 
+Date: 2024.08.02 12:41:36 +05'30'
+Business Responsibility & Sustainability Report
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of the Listed Entity:
+1.
+Corporate Identity Number (CIN) of the Listed Entity
+L35301KA1963GOI001622
+2.
+Name of the Listed Entity
+Hindustan Aeronautics Limited
+3.
+Year of incorporation
+16/08/1963
+4.
+Registered office address
+15/1, Cubbon Road,
+Bengaluru - 560001
+5.
+Corporate address
+15/1, Cubbon Road, 
+Bengaluru - 560001
+6.
+E-mail
+cosec@hal-india.co.in
+7.
+Telephone
+080-22320001
+8.
+Website
+www.hal-india.co.in
+9.
+Financial year for which reporting is being done
+2023-24
+10.
+Name of the Stock Exchange(s) where shares are listed
+1.	 National Stock Exchange of India Ltd (NSE)
+2.	 BSE Ltd (BSE)
+11.
+Paid-up Capital
+`334,38,75,000/-
+12.
+Name and contact details (telephone, email address) 
+of the person who may be contacted in case of any 
+queries on the BRSR report
+Shri Shailesh Bansal
+Company Secretary & Compliance Officer
+Hindustan Aeronautics Limited
+15/1, Cubbon Road, 
+Bengaluru – 560 001. Karnataka
+Phone: (080) 2232 0001,
+Email: cosec@hal-india.co.in
+13.
+Reporting boundary - Are the disclosures under this 
+report made on a standalone basis (i.e. only for the 
+entity) or on a consolidated basis (i.e. for the entity and 
+all the entities which form a part of its consolidated 
+financial statements, taken together).
+Standalone Basis
+14.
+Name of assurance provider
+Sustainability Actions Private Limited, Gurgaon
+15.
+Type of assurance obtained        
+Reasonable Assurance
+II.	
+Products/services
+	
+16.	 Details of business activities (accounting for 90% of the turnover):
+Sl. 
+No.
+Description of Main Activity
+Description of Business Activity
+% of Turnover of the entity
+1.
+Manufacturing
+Manufacture of Aircraft, Helicopters 
+and its Engines, Accessories
+20
+2.
+Services
+Repair, Overhaul and Maintenance, 
+Upgrade of Aircraft, Helicopters and 
+its Engines, Accessories
+72
+Annual Report 2023-24
+97
+	
+17.	 Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+Sl. 
+No.
+Product/Service
+NIC Code
+% of total Turnover contributed
+1
+Manufacture of Aircraft, Helicopters 
+30301, 30302 & 30305
+20
+2
+Repair and Maintenance of Aircraft, 
+Helicopters and Engines
+3315
+72
+III.	 Operations 
+	
+18.	 Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of plants
+Number of offices
+Total
+National
+29
+(20 Production & 9 R&D)
+5
+34
+International
+0
+3
+3
+	
+19.	 Markets served by the entity:
+	
+	
+a.	
+Number of locations
+Locations
+Number
+National (No. of States)
+HAL produced aircraft are being operated by Indian 
+Defence Services and other operators across the 
+country.
+International (No. of Countries)
+Over the years HAL has sold its products to more than 
+25 Countries
+	
+	
+b.	
+What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+	
+	
+Approx. 1.1%
+	
+	
+c.	
+A brief on types of customers
+	
+	
+	
+The Company supplies to both national and international customers catering to the Defence as well as Civil 
+operations. However majority of the company’s supplies are for the Indian Defence Services namely Indian Air Force 
+(IAF), Indian Navy (IN), Indian Army (IA) and Indian Coast Guard (ICG).
+IV.	 Employees 
+	
+20.	 Details as at the end of Financial Year:
+	
+	
+a.	
+Employees and workers (including differently abled):
+Sl.
+No.
+Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+EMPLOYEES
+1.
+Permanent (D)
+22655
+20564
+90.77
+2091
+9.23
+2.
+Other than Permanent (E)
+1111
+1044
+93.97
+67
+6.03
+3.
+Total employees (D + E)
+23766
+21608
+90.92
+2158
+9.08
+WORKERS
+4.
+Permanent (F)
+15344
+13995
+91.21
+1349
+8.79
+5.
+Other than Permanent (G)
+956
+914
+95.61
+42
+4.39
+6.
+Total workers (F + G)
+16300
+14909
+91.47
+1391
+8.53
+Hindustan Aeronautics Limited
+98
+	
+	
+b.	
+Differently abled Employees and workers:
+Sl.
+No
+Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+DIFFERENTLY ABLED EMPLOYEES
+1.
+Permanent (D)
+570
+522
+91.58
+48
+8.42
+2.
+Other than Permanent (E)
+18
+17
+94.44
+1
+5.56
+3.
+Total differently abled 
+employees (D + E)
+588
+539
+91.67
+49
+8.33
+DIFFERENTLY ABLED WORKERS
+4.
+Permanent (F)
+423
+385
+91.02
+38
+8.98
+5.
+Other than permanent (G)
+16
+15
+93.75
+1
+6.25
+6.
+Total differently abled 
+workers (F + G)
+439
+400
+91.12
+39
+8.88
+	
+21.	 Participation / Inclusion / Representation of women 
+Total
+(A)
+No. and percentage of Females
+No. (B)
+% (B / A)
+Board of Directors
+8
+  1
+13
+Key Management Personnel
+5
+0
+  NA
+	
+22.	 Turnover rate for permanent employees and workers  
+	
+	
+(Disclose trends for the past 3 years)
+FY 2023-24
+(Turnover rate in  
+current FY)
+FY 2022-23  
+(Turnover rate in  
+previous FY)
+FY 2021-22 (Turnover rate 
+in the year prior to the 
+previous FY)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+0.21
+0.05
+0.26
+0.23
+0.05
+0.28
+0.18
+0.06
+0.24
+Permanent Workers
+0.11
+-
+0.11
+0.07
+-
+0.07
+0.01
+0.04
+0.05
+V.	
+Holding, Subsidiary and Associate Companies (including joint ventures)
+	
+23.	 (a)	 Names of holding / subsidiary / associate companies / joint ventures
+Sl.
+No.
+Name of the holding	/ subsidiary / associate 
+companies / joint ventures (A)
+Indicate 
+whether 
+holding/ 
+Subsidiary/ 
+Associate/ 
+Joint Venture
+% of 
+shares 
+held by 
+listed 
+entity
+Does the entity 
+indicated at column 
+A, participate in the 
+Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+1
+BAeHAL Software Ltd.
+Joint Venture
+49
+No
+2
+Indo Avia Services Ltd., (IASL) (Erstwhile  
+Indo-Russian Aviation Ltd)
+Joint Venture
+48
+No
+3
+Safran HAL Aircraft Engines Pvt. Ltd.
+Joint Venture
+50
+No
+4
+Samtel HAL Display System Ltd.
+Joint Venture
+40
+No
+5
+HAL-Edgewood Technologies Pvt. Ltd.
+Joint Venture
+50
+No
+6
+HALBIT Avionics Pvt. Ltd.
+Joint Venture
+50
+No
+7
+Infotech HAL Ltd.
+Joint Venture
+50
+No
+Annual Report 2023-24
+99
+Sl.
+No.
+Name of the holding	/ subsidiary / associate 
+companies / joint ventures (A)
+Indicate 
+whether 
+holding/ 
+Subsidiary/ 
+Associate/ 
+Joint Venture
+% of 
+shares 
+held by 
+listed 
+entity
+Does the entity 
+indicated at column 
+A, participate in the 
+Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+8
+HATSOFF Helicopter Training Pvt. Ltd.
+Joint Venture
+50
+No
+9
+International Aerospace Manufacturing Pvt. Ltd.
+Joint Venture
+50
+No
+10
+Multi-Role Transport Aircraft Ltd.
+Joint Venture
+50
+No
+11
+Aerospace & Aviation Sector Skill Council 
+(AASSC) 
+Joint Venture
+50
+No
+12
+Helicopter Engines MRO Private Ltd.
+Joint Venture
+50
+No
+13
+Defence Innovation Organisation
+Joint Venture
+50
+No
+14
+SAFHAL Helicopter Engines Pvt Ltd
+Joint Venture
+50
+No
+15
+Indo Russian Helicopters Limited
+Subsidiary
+50.5
+No
+16
+Naini Aerospace Limited
+Subsidiary
+100
+No
+VI.	 CSR Details 
+	
+24.	 (i)	 Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No) : Yes
+	
+	
+(ii)	 Turnover (in `) : 28,16,185 Lakh
+	
+	
+(iii)	 Net worth (in `) : 29,04,642 Lakh
+VII.	 Transparency and Disclosures Compliances
+	
+25.	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance 
+Redressal 
+Mechanism in 
+Place (Yes/No)
+FY 2023-24
+FY 2022-23
+(If Yes, then 
+provide web-link 
+for grievance 
+redress policy)
+Number of 
+complaints 
+filed 
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed 
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities Yes, Centralised
+Public Grievance
+Redress and
+Monitoring System
+(CPGRAMS) under
+the Ministry of
+Personnel, Public
+Grievances &
+Pensions, the
+Department of
+Administrative
+Reforms & Public
+Grievances
+(www.pgportal.
+gov.in)
+77
+2
+Two 
+pending 
+grievance 
+were 
+received 
+on the last 
+week of the 
+financial 
+year and 
+both these 
+grievances 
+were 
+addressed 
+within a 
+week.
+823
+1
+One 
+pending 
+grievance 
+was 
+received 
+on the 
+last day of 
+financial 
+year 
+which 
+was 
+addressed 
+within a 
+week.
+Hindustan Aeronautics Limited
+100
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance 
+Redressal 
+Mechanism in 
+Place (Yes/No)
+FY 2023-24
+FY 2022-23
+(If Yes, then 
+provide web-link 
+for grievance 
+redress policy)
+Number of 
+complaints 
+filed 
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed 
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Investors 
+(other than 
+shareholders)
+NA
+-
+-
+-
+-
+-
+-
+Shareholders
+Yes*
+152
+0
+-
+173
+0
+-
+Employees 
+and workers
+Yes  
+(Service related 
+matters) - Web 
+Link**
+2
+1
+-
+0
+0
+-
+Customers
+Yes$
+197#
+0
+-
+171#
+0
+-
+Value Chain 
+Partners
+Yes
+10
+NIL
+-
+14
+NIL
+Other (please 
+specify)
+-
+-
+-
+-
+-
+-
+-
+	
+	
+* Shareholders queries / complaints are being handled by the Company both directly and with the support of RTA. Further, the Company 
+has Stakeholder Relationship Committee to redress the complaints received from the shareholders as per SEBI Listing Regulations. 
+Though there is no web-link. However, the Company has specifically dedicated email ID for receiving shareholder’s complaints.
+	
+	
+** www.hal-india.co.in  About us  Human Resources  HRD  HR Manuals  Book 6  Page No. 169
+	
+	
+$ HAL deals with Defence Customers and therefore all the communication are through confidential mode as  per the requirement of 
+Customer. So there is no web link.
+   	
+	
+# The issues have been deliberated in structured meeting with Customers and have been attended.
+	
+26.	 Overview of the entity’s material responsible business conduct issuess 
+	
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or 
+mitigate the risk along-with its financial implications, as per the following format
+Sl. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying 
+the	 risk	/ opportunity
+In case of risk, 
+approach to adapt or 
+mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive	or 
+negative
+implications)
+1
+Emission 
+reduction 
+and energy 
+management
+Opportunity
+Opportunity to move towards 
+energy 
+efficiency, 
+use 
+of 
+renewable 
+energy, 
+more 
+efficient use of materials, 
+biofuels, 
+and 
+hybrid 
+technology to address climate 
+change
+Not Applicable
+Positive
+Annual Report 2023-24
+101
+Sl. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying 
+the	 risk	/ opportunity
+In case of risk, 
+approach to adapt or 
+mitigate
+Financial 
+implications 
+of the risk or 
+opportunity 
+(Indicate 
+positive	or 
+negative
+implications)
+2
+Corporate 
+Governance
+Risk
+HAL 
+being 
+a 
+CPSE, 
+the 
+appointment of Directors are 
+made by Govt. of India (GoI) 
+and the Company has no 
+control over filling up of the 
+vacancy within the stipulated 
+time frame specified under 
+the Act/ Rules / Regulations, to 
+comply the same.
+Continuous follow up  
+made with Administrative 
+Ministry, GoI, for 
+appointment.
+Negative
+3
+Health and Safety
+Risk
+Health & safety is an integral 
+part of managing a business. 
+Risk assessment is necessary 
+to put measures in place to 
+effectively control them to 
+ensure that the hazards and 
+risks do not cause harm to 
+employees and workers.
+Training/ awareness/ 
+technological 
+upgradation/ review at 
+senior level
+Negative
+4
+Waste 
+Management
+Opportunity
+Opportunity 
+to 
+move 
+towards reduction in waste 
+generation, meeting statutory 
+requirements and improving 
+resource usage
+Not Applicable
+Positive
+5
+Positive labour 
+practices
+Opportunity
+Opportunity 
+towards 
+improving industrial relations 
+leading to improvement in 
+productivity
+Not Applicable
+Positive
+6
+Human capital 
+development
+Opportunity
+Opportunity towards talent 
+development 
+& 
+retention 
+leading to improvement in 
+productivity and intellectual 
+property.
+Not Applicable
+Positive
+7
+Cyber Security
+Risk
+Privacy and Data Security is 
+becoming a major risk due to 
+increasing digitisation
+The Company has 
+implemented  measures 
+as per IT Security Policy 
+for protecting from Cyber 
+attacks & threats.
+Negative
+Hindustan Aeronautics Limited
+102
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting the 
+NGRBC Principles and Core Elements.
+Disclosure Questions
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+Policy and management processes
+1.	
+a.	
+Whether your entity’s policy/policies cover 
+each principle and its core elements of the 
+NGRBCs. (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+	
+b.	
+Has the policy been approved by the Board?
+	
+	
+(Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+	
+c.	
+Web Link of the Policies, if available
+Policies of the Company are available at https://www.hal-
+india.co.in/investors/code-and-policies
+2.	
+Whether the entity has translated the policy into 
+procedures. (Yes / No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3.	
+Do the enlisted policies extend to your value chain 
+partners? (Yes/No)
+Yes
+Yes 
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+4.	
+Name of the national and international codes/
+certifications/labels/ standards (e.g. Forest 
+Stewardship Council, Fairtrade, Rainforest Alliance, 
+Trustea) standards (e.g. SA 8000, OHSAS, ISO, 
+BIS) adopted by your entity and mapped to each 
+principle.
+	
+AS 9100 / 9110: Quality Management System 
+requirements for Aviation, Space and Defence 
+Organizations
+√
+√
+√
+√
+-
+√
+-
+-
+√
+	
+CAR-21 / CAR-145 (DGCA): Civil Aviation Requirements 
+for Production / Maintenance Organization
+√
+√
+-
+-
+-
+-
+-
+-
+-
+	
+AFQMS: Approval of Firm and its Quality Management 
+System by DGAQA
+√
+√
+-
+√
+-
+-
+-
+-
+√
+	
+AS 7003 (Nadcap): Aerospace Standard document / 
+requirements for implementing industry consensus-based 
+accreditation / certification Program for specific services 
+(Special Processes)
+-
+√
+-
+-
+-
+-
+-
+-
+√
+	
+ISO 14001: Environmental Management System 
+Requirements
+-
+-
+-
+√
+-
+√
+-
+-
+-
+	
+ISO 45001: Occupational Health & Safety Management 
+System (OHSMS) Requirements
+-
+-
+√
+√
+-
+-
+-
+-
+-
+	
+ISO 50001: Energy Management System 
+Requirements
+-
+-
+-
+√
+-
+√
+-
+-
+-
+	
+HAL Production centres, Offices & R&D centres have 
+been certified with ISO 27K for Information Security 
+Management System (ISMS). HAL Data Centre is certified 
+with ISO 27K and ISO 20K for IT Service Management.
+√
+√
+√
+√
+-
+-
+-
+-
+√
+5.	
+Specific commitments, goals and targets set by the 
+entity with defined timelines, if any.
+MoU has been signed between HAL & Ministry of Defence for 
+Financial, non-financial targets and compliance parameters for 
+the year 2023-24 with weightage of 100 marks.
+6.	
+Performance of the entity against the specific 
+commitments, goals and targets along-with 
+reasons in case the same are not met.
+The MoU for the year 2023-24 is under evaluation. On 
+completion of evaluation, the same will be submitted to MoD/
+DPE for further evaluation and award of rating.
+Annual Report 2023-24
+103
+Governance, leadership and oversight
+7.	
+Statement by director responsible for the business responsibility report, highlighting ESG related challenges, 
+targets and achievements (listed entity has flexibility regarding the placement of this disclosure)
+	
+At HAL, we have a long history of embedding sustainability in our operations. Over the years, we have made investments 
+to adopt renewable energy, conserve natural resources, responsibly treat and dispose solid and liquid waste, and optimize 
+the use of water.
+	
+We have also made process improvements and worked towards installation of energy efficient Temperature & Humidity 
+Chamber and Thermal Shock Chamber with improved GHG (Green House Gas) value, Sand Washing Facility to reclaim 
+sand from burnt sand, Effluent Treatment plant with Zero Liquid Discharge (ZLD) System, Fume Extractors, chillers / Air 
+Conditioners, and LED lights.
+	
+To reduce the emissions of our products, we are testing the use of biofuels.
+	
+On the Social pillar, we have robust practices to address issues such as human rights, human capital development, and 
+health and safety of our employees, contractors, and customers. HAL is also certified for ISO 14001-2015 Environment 
+Management System and ISO 45001-2018 OHSMS (Occupational Health and Safety Monitoring System).
+	
+On the Governance pillar, being a CPSE, we are compliant with the various rules, regulations, and best practices prescribed 
+by local and national regulatory bodies and have robust governance mechanisms to address any governance-related issues.
+	
+Further, we are committed to driving sustainability and best in class environmental and social practices across our supply 
+chain and in the communities we serve.
+8.	
+Details of the highest authority responsible for 
+implementation and oversight of the Business 
+Responsibility policy (ies).
+ Director ( Human Resources)
+9.	
+Does the entity have a specified Committee of the 
+Board/ Director responsible for decision making 
+on sustainability related issues? (Yes / No). If yes, 
+provide details.
+Yes, Management Committee (MC) 
+10.	 Details of Review of NGRBCs by the Company:
+Subject for Review
+Indicate whether review was undertaken 
+by Director / Committee  of  the  Board/
+Any other Committee
+Frequency
+(Annually/ Half yearly/ Quarterly/ 
+Any other – please specify)
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+Performance against above 
+policies and follow up action
+Directors
+As and when required.
+Compliance with statutory 
+requirements of relevance 
+to the principles, and, 
+rectification of any non-
+compliances
+Complied except with respect to composition 
+of the Board of Directors under SEBI (LODR) 
+Regulations, due to non-appointment of 
+requisite numbers of Independent Directors.
+Since, the Company is a CPSE, the 
+appointment of directors has to be made 
+by the concerned Administrative Ministry. 
+Hence, the matter has been referred to the 
+MoD for filling up the post and the same is 
+pending with MoD/ DPE
+As and when required
+Hindustan Aeronautics Limited
+104
+11.	 Has the entity carried out independent assessment/ 
+evaluation of the working of its policies by an 
+external agency? (Yes/No). If yes, provide name of 
+the agency. 
+P
+1
+P
+2
+P
+3
+P
+4
+P
+5
+P
+6
+P
+7
+P
+8
+P
+9
+No
+12.	 If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated:
+Questions
+P 
+1
+P 
+2
+P 
+3
+P 
+4
+P 
+5
+P 
+6
+P 
+7
+P 
+8
+P 
+9
+The entity does not consider the Principles material to its business (Yes/No)
+Not Applicable
+The entity is not at a stage where it is in a position to formulate and implement 
+the policies on specified principles (Yes/No)
+The entity does not have the financial or/human and technical resources available 
+for the task (Yes/No)
+It is planned to be done in the next financial year (Yes/No)
+Any other reason (please specify)
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core Elements with key 
+processes and decisions. The information sought is categorized as “Essential” and “Leadership”. While the essential indicators are 
+expected to be disclosed by every entity that is mandated to file this report, the leadership indicators may be voluntarily disclosed 
+by entities which aspire to progress to a higher level in their quest to be socially, environmentally and ethically responsible.
+PRINCIPLE 1: 
+Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable.
+Essential Indicators
+1.	
+Percentage coverage by training and awareness programmes on any of the Principles during the financial year:
+Segment
+Total number 
+of training 
+and awareness 
+programmes held
+Topics / principles covered under the 
+training and its impact
+%age of persons in 
+respective category 
+covered by the 
+awareness programmes
+Board of Directors
+2
+• 
+Master Class on Building Better 
+Boards, Kochi
+• 
+Orientation Programme for functional 
+Directors of CPSEs at Guwahati 
+25%
+Key Managerial Personnel
+2
+• 
+Orientation Programme for functional 
+Directors of CPSEs at Guwahati
+• 
+Effective functioning of Boards of 
+CPSEs
+40%
+Employees other than BoD 
+and KMPs
+241
+(For Officers)
+(1)	 Training / awareness Programme 
+pertaining to CDA, Safety &  Wellness 
+of the employees, environment & 
+sustainability)
+86%
+Workers
+106
+(for Workmen)
+(2)	 These trainings / awareness 
+Programmes will enable the 
+employees acquire knowledge / skills 
+for enhancement of their capabilities.
+88%
+Annual Report 2023-24
+105
+2.	
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by 
+the entity or by directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial 
+year, in the following format (Note: the entity shall make disclosures on the basis of materiality as specified in 
+Regulation 30 of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on the 
+entity’s website):
+Monetary
+NGRBC
+Principle
+Name of the
+regulatory/ enforcement
+agencies/ judicial institutions
+Amount  
+(In INR)
+Brief of the 
+Case
+Has an
+appeal been
+preferred? 
+(Yes/No)
+Penalty/Fine
+-
+NIL
+-
+-
+-
+Settlement
+-
+NIL
+-
+-
+-
+Compounding fee
+-
+NIL
+-
+-
+-
+Non-Monetary
+NGRBC
+Principle
+Name of the regulatory/ 
+enforcement agencies/ judicial
+institutions
+Brief of the 
+Case
+Has an appeal been 
+preferred? (Yes/No)
+Imprisonment
+-
+NIL
+-
+-
+Punishment
+-
+NIL
+-
+-
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary 
+or non-monetary action has been appealed.
+Case Details
+Name of the regulatory/ enforcement agencies/ 
+judicial institutions
+Not Applicable
+-
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, 
+provide a web-link to the policy.
+	
+Yes, The Company believes in the conduct of the affairs of its constituents in a fair and transparent manner by adopting 
+highest standards of professionalism, honesty, integrity and ethical behaviour.  Towards this end, the Company has adopted 
+the Code of Conduct, which lays down the principles and standards that should govern the actions of the Company and its 
+employees. Accordingly, Whistle Blower Policy has been formulated in the Company with a view to provide a mechanism 
+for employees of the Company for any potential violation of the code, to approach the Chairman of the Audit Committee / 
+Director (HR) / Head of Systems Audit of the Company.
+	
+Web link of the policy is https://hal-india.co.in/backend/wp-content/uploads/2023/02/Whistle-Blower-Policy.pdf
+	
+Further, integrity pacts are being signed with the vendors for procurement value beyond `5 Crore.
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law 
+enforcement agency for the charges of bribery/ corruption:
+FY 2023-24
+FY 2022-23
+Directors
+0
+0
+KMPs
+0
+0
+Employees
+0
+0
+Workers
+0
+0
+Hindustan Aeronautics Limited
+106
+6.	
+Details of complaints with regard to conflict of interest:
+FY 2023-24
+FY 2022-23
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to issues of Conflict of 
+Interest of the Directors
+0
+-
+0
+-
+Number of complaints received in relation to issues of Conflict of 
+Interest of the KMPs
+0
+-
+0
+-
+7.	
+Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by 
+regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+	
+Not Applicable
+8.	
+Number of days of accounts payables ((Accounts payable *365) / Cost of goods/services procured) in the following 
+format:
+FY 2023-24
+FY 2022-23
+Number of days of accounts payables
+94
+129
+9.	
+Open-ness of business:
+	
+Provide details of concentration of purchases and sales with trading houses, dealers, and related parties along-with loans and 
+advances & investments, with related parties, in the following format:
+Parameter
+Metrics
+FY 2023-24
+FY 2022-23
+Concentration of 
+Purchases
+a.	
+Purchases from trading houses as % of total 
+purchases
+NIL*
+NIL*
+b.	
+Number of trading houseswhere purchases are 
+made from
+NA
+NA
+c.	
+Purchases from top 10 trading houses as % of 
+total  purchases  from trading houses
+NA
+NA
+Concentration of Sales
+a.	
+Sales to dealers / distributors as % of total 
+sales
+NIL
+NIL
+b.	
+Number of dealers / distributors to whom sales 
+are made
+NA
+NA
+c.	
+Sales to top 10 dealers / distributors as % of 
+total sales to dealers / distributors
+NA
+NA
+Share of RPTs in
+a.	
+Purchases (Purchases with related parties / 
+Total Purchases)
+0.62%
+0.88%
+b.	
+Sales (Sales to related parties / Total Sales)
+0.06%
+0.04%
+c.	
+Loans & advances (Loans & advances given to 
+related parties / Total loans & advances)
+5.83%
+4.87%
+d.	
+Investments (Investments in related parties / 
+Total Investments made)
+8.05%
+7.97%
+	
+*Note: HAL material procurement is made through qualified suppliers, i.e., either directly through OEMs or their authorized distributor/
+stockiest.
+Annual Report 2023-24
+107
+Leadership Indicators 
+1.	
+Awareness programmes conducted for value chain partners on any of the Principles during the financial year:
+Total number of awareness 
+programmes
+Topics / principles covered under 
+the training
+%age of value chain partners 
+covered (by value of business done 
+with such partners) under the 
+awareness programmes
+31
+Primarily 
+our 
+product 
+category, 
+technology 
+requirement, 
+etc. 
+are 
+deliberated in such meets. Even general 
+requirement of extending facility to 
+MSME such as Principle of inclusive 
+growth is discussed.
+In respect of MSMEs, specifically it 
+was taken up with MSME Ministry 
+to remove all on-boarding charges 
+to on-board on TReDS platform and 
+it was also informed to make TReDS 
+registration mandatory requirement 
+against Udyam Registration for ease of 
+operations.
+The indicated Awareness Program is 
+done for engaging identifying new 
+vendors.
+For the existing domestic vendors 
+including MSME’s as and when new 
+improvements, major changes are 
+implemented in the company special 
+sessions are conducted, these sessions 
+are made to make them aware of such 
+developments. For example: Transaction 
+through TReDS Portal has been a major 
+subject in the last two years. For MSME 
+vendors special sessions were held 
+w.r.t carrying out transaction on TReDS 
+Portal which involves the Authorised 
+TReDS platform companies such RXIL 
+and Mynd Solutions. These sessions 
+are done periodically to bring in better 
+awareness amongst domestic industries 
+to take part in GoI initiatives.
+Payment to MSME vendors to be done 
+within 45 days of supply of item.
+2.	
+Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? 
+(Yes/No) If Yes, provide details of the same.
+	
+Yes. The Company has Related Party Transaction Policy is in place to manage conflict of interest through Audit Committee 
+and Board. Furthermore, in case of conflict of interest situation arise, no interested director are allowed to participate in the 
+decision making process.
+PRINCIPLE 2:
+Businesses should provide goods and services in a manner that is sustainable and safe
+Essential Indicators
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the 
+environmental and social impacts of product and processes to total R&D and capex investments made by the 
+entity, respectively. 
+FY 2023-24
+FY 2022-23
+Details of improvements in environmental and social 
+impacts
+R&D
+Not tracked
+Not tracked
+-
+CAPEX
+0.006%
+(`174 Lakh)
+0.31 %
+ (`565 Lakh)
+HAL has made investments towards rain water harvesting systems, 
+energy efficient air-conditioners, sewage treatment plants, energy 
+efficient pumps, bio-gas plant and energy efficiency lighting.
+Hindustan Aeronautics Limited
+108
+2.	
+a.	
+Does the entity have procedures in place for sustainable sourcing? (Yes/No):
+	
+	
+No
+	
+b.	
+If yes, what percentage of inputs were sourced sustainably?
+	
+	
+Though such condition of sustainable sourcing is not sought for compliance by our vendors, many of the vendors have 
+already adopted the same in practice, in the procurement for items placed during FY 2023-24 to the extent of 42% of 
+value of procurement is sourced from such supply chain partner who have already adopted such conditions.
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of 
+life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+	
+The main products of the Company are Aircraft, Helicopters, Engines and other accessories for use in strategic/national 
+security applications. Once the products are sold they would not come back to the company. Hence, Company is not in a 
+position to reclaim the products. However, HAL has a defined process in place for reuse, recycle and safe end-of-life disposal 
+for the products used in its operations.
+4.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether 
+the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution 
+Control Boards? If not, provide steps taken to address the same.
+	
+No
+Leadership Indicators
+1.	
+Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing 
+industry) or for its services (for service industry)? If yes, provide details in the following format?
+	
+Not Applicable
+NIC Code
+Name of Product 
+/Service
+% of total 
+Turnover 
+contributed
+Boundary for 
+which the 
+Life Cycle 
+Perspective / 
+Assessment was 
+conducted
+Whether 
+conducted by 
+independent 
+external agency
+(Yes/No)
+Results 
+communicated 
+in public domain 
+(Yes/No)
+If yes, provide 
+the web-link.
+-
+-
+-
+-
+-
+-
+2.	
+If there are any significant social or environmental concerns and/or risks arising from production or disposal of 
+your products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other 
+means, briefly describe the same along-with action taken to mitigate the same.
+	
+NIL
+Name of Product / Service
+Description of the risk / concern
+Action Taken
+-
+-
+-
+3.	
+Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing 
+industry) or providing services (for service industry).
+	
+NIL
+Indicate input material
+Recycled or re-used input material to total material
+FY 2023-24
+FY 2022-23
+-
+-
+-
+Annual Report 2023-24
+109
+4.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, 
+and safely disposed, as per the following format:
+FY 2023-24
+FY 2022-23
+Re-Used
+Recycled
+Safely 
+Disposed
+Re-Used
+Recycled
+Safely 
+Disposed
+Plastics (including packaging)
+-
+-
+-
+-
+-
+-
+E-waste
+-
+-
+-
+-
+-
+-
+Hazardous waste
+-
+-
+-
+-
+-
+-
+Other waste
+-
+-
+-
+-
+-
+-
+5.	
+Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
+Indicate product category
+Reclaimed products and their packaging materials as 
+% of total products sold in respective category
+-
+-
+	
+Note: The main products of the Company are Aircraft, Helicopters, Engines and other accessories for use in strategic/national security 
+applications. Once the products are sold they would not come back to the Company.
+PRINCIPLE 3:
+Businesses should respect and promote the well-being of all employees, including those in their 
+value chains Essential Indicators
+Essential Indicators 
+1.	
+a.	
+Details of measures for the well-being of employees:
+Category
+% of Employees covered by
+Total 
+Health 
+Insurance
+Accident 
+Insurance#
+Maternity 
+Benefits$
+Paternity 
+Benefits$
+Day Care 
+Facilities$
+(A)
+No. 
+(B)
+% 
+(B/A)
+No. 
+(C)
+% 
+(C/A)
+No. 
+(D)
+% 
+(D/A)
+No. 
+(E)
+% 
+(E/A)
+No. 
+(F)
+% 
+(F/A)
+Permanent Employees
+Male
+20564
+Ref Note. (i)
+20323
+98.82%
+NA
+-
+499
+2.43%
+NA
+-
+Female
+2091
+1995
+95.40%
+54
+2.58%
+NA
+-
+104
+4.97%
+Total 
+[% w.r.to eligible Nos.]
+22655
+22318
+98.51%
+54
+2.58%
+499
+2.43%
+104
+4.97%
+Other than Permanent Employees
+Male
+1044
+Ref Note. (ii)
+694
+66.48%
+NA
+-
+1
+0.10%
+NA
+-
+Female
+67
+38
+56.72%
+4
+5.97%
+NA
+-
+3
+4.48%
+Total 
+[% w.r.to eligible Nos.]
+1111
+732
+65.89%
+4
+5.97%
+1
+0.10%
+3
+4.48%
+Hindustan Aeronautics Limited
+110
+b.	
+Details of measures for the well-being of workers:
+Category
+% of Employees covered by
+Total 
+Health 
+Insurance
+Accident 
+Insurance#
+Maternity 
+Benefits$
+Paternity 
+Benefits$
+Day Care 
+Facilities$
+(A)
+No. 
+(B)
+% 
+(B/A)
+No. 
+(C)
+% 
+(C/A)
+No. 
+(D)
+% 
+(D/A)
+No. 
+(E)
+% 
+(E/A)
+No. 
+(F)
+% 
+(F/A)
+Permanent Workers
+Male
+13995
+Ref Note. (i)
+13960
+99.75%
+NA
+-
+312
+2.23%
+NA
+-
+Female
+1349
+1315
+97.48%
+51
+3.78%
+NA
+-
+19
+1.41%
+Total 
+[% w.r.to eligible Nos.]
+15344
+15275
+99.55%
+51
+3.78%
+312
+2.23%
+19
+1.41%
+Other than Permanent Workers
+Male
+914
+Ref Note. (ii)
+691
+75.60%
+NA
+-
+0
+0.00%
+NA
+-
+Female
+42
+36
+85.71%
+4
+9.52%
+NA
+-
+3
+7.14%
+Total 
+[% w.r.to eligible Nos.]
+956
+727
+76.05%
+4
+9.52%
+0
+0.00%
+3
+7.14%
+Notes for 1 (a) & (b):
+(i)	
+Medical needs of permanent employees / workers have been taken care by Company Industrial Health Centers (IHC) set up in the Divisions 
+/ Offices. In case of specialized treatment, employees / workers are referred to empaneled Hospitals. Since medical needs of the permanent 
+employees / workers have been taken care by the Company, no separate Health Insurance is taken.
+(ii)	
+In respect of other than permanent workers (a) Management Trainees / Design Trainees : Medical facilities extended as at (i) above; (b) Tenure 
+based : a lumpsum amount is paid every month to take care of the Medical needs and emergency care at Industrial Health Centers. Hence, 
+no separate medical insurance is taken. 
+#Purely voluntary basis and premium is borne by the employees.
+$Nos. actually availed the facilities during the year have been indicated.
+c.	
+Spending on measures towards well-being of employees and workers (including permanent and other than 
+permanent) in the following format:
+FY 2023-24
+FY 2022-23
+Cost incurred on well-being measures as a % of total revenue of the
+company
+0.42%
+0.87%
+Note: For FY 2022-23, the cost includes additional expenditure on stressed investment loss of PF Trust, expenditure on financial assistance scheme 
+and expenditure on uniform provided to employees.
+2.	
+Details of retirement benefits, for Current FY and Previous Financial Year. 
+Benefits
+FY 2023-24
+FY 2022-23
+No. of 
+employee 
+covered as a 
+%  of total 
+employees
+No.of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of
+workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+PF
+100%
+100%
+Y
+100%
+100%
+Y
+Gratuity
+100%
+100%
+NA
+100%
+100%
+NA
+ESI
+Nil
+Nil
+NA
+Nil
+Nil
+NA
+Annual Report 2023-24
+111
+Benefits
+FY 2023-24
+FY 2022-23
+No. of 
+employee 
+covered as a 
+%  of total 
+employees
+No.of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of
+workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+Others:
+1.	 Defined Contribution 
+Pension Scheme
+2.	 Post Superannuation 
+Group Health 
+Insurance Schemes
+100%
+100%
+Y
+100%
+100%
+Y
+3.	
+Accessibility of workplaces 
+	
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the 
+requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by 
+the entity in this regard.
+	
+Yes
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, 
+provide a web-link to the policy.
+	
+Yes,
+	
+The web-link to the Policy is https://hal-india.co.in/human-resources
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent employees
+Permanent workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+100%
+100%
+100%
+100%
+Female
+100%
+100%
+100%
+100%
+Total
+100%
+100%
+100%
+100%
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+worker? If yes, give details of the mechanism in brief.
+Yes / No  
+(If Yes, then give details of the mechanism in brief)
+Permanent Workers
+Yes.
+Three Stage Grievance Procedure i.r.of Workmen exists in the Company.
+Upon exhausting all the 3 Stages, option is available to the Workmen for making 
+petition to the General Manager if not satisfied with the decision of the Grievance 
+Redressal Committee.
+Thereafter, if not satisfied with the decision of the General Manager, option for 
+preferring Appeal to the CEO/Director concerned through the Recognized Union 
+also exists wherein the decision of the CEO/Director will be final.
+Other than Permanent Workers
+Hindustan Aeronautics Limited
+112
+Yes / No  
+(If Yes, then give details of the mechanism in brief)
+Permanent Employees
+Yes. In addition to the Grievance Procedure i.r.of Workmen as above, there also 
+exists  Grievance Procedure i.r.of Officers (upto Gr. VI) as indicated below:
+(i)	
+Representing to the Dept. Head in the 1st Stage.
+(ii)	 Thereafter, representing to the Grievance Redressal Committee, wherein, 
+based on the recommendations of the Committee, General Manager would 
+communicate his decision.
+(iii)	 In exceptional cases, if not satisfied with the decision of the General Manager, 
+the Officer concerned may Appeal to the CEO / Director concerned, whose 
+decision shall be final and binding on aggrieved Officer.
+Other than Permanent Employees
+7.	
+Membership of employees and worker in association(s) or Unions recognised by the listed entity:                                       
+Category
+FY 2023-24
+FY 2022-23
+Total 
+employees 
+/ workers in 
+respective 
+category
+(A)
+No. of employees 
+/ workers in 
+respective 
+category, who 
+are part of 
+association(s) or 
+Union
+(B)
+% (B/A)
+Total 
+employees 
+/ workers in 
+respective 
+category
+(C)
+No. of employees 
+/ workers in 
+respective 
+category, who 
+are part of 
+association(s) or 
+Union
+(D)
+% (D/C)
+Total Permanent 
+Employees
+22655
+21636
+95.50%
+23450
+22936
+97.81%
+-	 Male
+20564
+19651
+95.56%
+21345
+20870
+97.78%
+-	 Female
+2091
+1985
+94.93%
+2105
+2066
+98.15%
+Total Permanent Workers
+15344
+14578
+95.01%
+15980
+15539
+97.24%
+-	 Male
+13995
+13283
+94.91%
+14617
+14180
+97.01%
+-	 Female
+1349
+1295
+96.00%
+1363
+1359
+99.71%
+8.	
+Details of training given to employees and workers:
+Category
+FY 2023-24
+FY 2022-23
+Total 
+(A)
+On  Health and 
+safety measures
+On Skill
+upgradation
+Total 
+(D)
+On Health and 
+safety measures
+On Skill 
+upgradation
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Male
+20564
+11385
+55.36%
+7864
+38.24%
+21345
+13219
+61.93%
+8678
+40.66%
+Female
+2091
+1252
+59.88%
+778
+37.21%
+2105
+1554
+73.82%
+759
+36.06%
+Total
+22655
+12637
+55.78%
+8642
+38.15%
+23450
+14773
+63.00%
+9437
+40.24%
+Workers
+Male
+13995
+7643
+54.61%
+7526
+53.78%
+14617
+9541
+65.27%
+8138
+55.67%
+Female
+1349
+790
+58.56%
+735
+54.48%
+1363
+1034
+75.86%
+701
+51.43%
+Total
+15344
+8433
+54.96%
+8261
+53.84%
+15980
+10575
+66.18%
+8839
+55.31%
+Annual Report 2023-24
+113
+9.	
+Details of performance and career development reviews of employees and worker:  
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+No. (B)
+% (B / A)
+Total (C)
+No. (D)
+% (D / C)
+Employees (Officers)
+Male
+6587
+5165
+78.41%
+6920
+5656
+81.73%
+Female
+769
+601
+78.15%
+767
+617
+80.44%
+Total
+7355
+5766
+78.38%
+7687
+6273
+81.61%
+Workers
+Male
+13995
+Not Applicable 
+14617
+Not Applicable 
+Female
+1349
+1363
+Total
+15344
+15980
+	
+Notes:
+	
+The Total Number indicated in column (A) of part-I above (i.e. Employees (Officer)) refers to Performance Appraisal Reports (PARs) (including 
+Annual, Probationary (Regular & Extended), Split, Special Reports) raised during the Year. 02 Nos. of Probationary PARs are raised for Officers 
+under Probation. 
+	
+The Company’s Policy provides for conduct of Performance Review Board for moderation of Annual PARs. The numbers indicated in column 
+(B) above refers to the total number of Annual PARs raised and the Numbers indicated in the Percentage column indicates the percentage 
+against the total number of PARs (i.e. Annual, Probationary, Split, Special PARs together) raised. 
+10.	 Health and safety management system:
+	
+a.	
+Whether an occupational health and safety management system has been implemented by the entity? 
+(Yes/No). If yes, the coverage such system?
+	
+	
+Yes. The Divisions are certified with ISO 45001:2018 (Occupational Health & Safety Management System). The scope 
+of the system is “The Occupational Health activities and Supporting Processes associated with Design, Manufacturing, 
+Maintenance, Repair and Overhaul of Aircrafts / Helicopters”.
+	
+b.	
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine 
+basis by the entity?
+	
+	
+(a)	 Hazard Identification and Risk Assessment (HIRA) process is used to identify work related Hazards;
+	
+	
+(b)	 Walk Through Survey, Plant Safety Inspection, Aspect & Impact Register, Complaints Registers, Internal Audits & 
+External Audits and Conducting Safety Committee Meetings;
+	
+	
+(c)	 Work related Hazards and Risk Assessment are carried out through Shop Floor Inspection by the respective Shop 
+In-charge alongwith the Safety Officer.
+	
+c.	
+Whether you have processes for workers to report the work related hazards and to remove themselves from 
+such risks. (Y/N)
+	
+	
+Yes
+	
+d.	
+Do the employees/ worker of the entity have access to non-occupational medical and healthcare services? 
+(Yes/ No)
+	
+	
+Yes
+Hindustan Aeronautics Limited
+114
+11.	 Details of safety related incidents, in the following format: 
+Safety Incident / Number
+Category(1)
+FY 2023-24
+FY 2022-23
+Lost Time Injury Frequency Rate (LTIFR) (per one million-person 
+hours worked)
+Employees 
+0.29
+0.29
+Workers
+0.36
+0.33
+Total recordable work-related injuries
+Employees 
+15
+19
+Workers
+14
+19
+No. of fatalities(2)
+Employees 
+2
+0
+Workers
+2
+0
+High consequence work-related injury or ill-health (excluding 
+fatalities)
+Employees 
+1
+1
+Workers
+1
+1
+	
+Note:
+	
+(1) 	 Contract workforce engaged through Contractors are also included.
+	
+(2)	
+Detail on fatalities, are as under:
+	
+	
+	 Labour engaged by an Outsourced Agency while erecting temporary pandal structure for an official function had fallen down and 
+sustained injury. Later on, succumbed to injuries after a weeks’ time, while under treatment.
+	
+	
+	 Labour engaged by a Construction Agency, while working at height unhooked the safety belt to move forward lost balance resulting 
+in fatality.
+	
+Steps taken for non-occurrence of such incidents, amongst others, includes Contractors to report to Safety Dept. before commencement 
+of any work; engaging only trained & experienced labour to carry out work at heights; ensure wearing PPE’s; use of mobile elevated work 
+platforms as far as possible; & conduct of frequent safety awareness training.
+12.	 Describe the measures taken by the entity to ensure a safe and healthy work place.
+	
+To establish a goal of zero accident, Divisions have carried out the following major activities during the year:
+	
+(a)	 Regular Safety Inspection are being carried out to ensure safe working condition at work place. The observation are 
+discussed and action is planned to take effective corrective and preventive action.
+	
+(b)	 Divisions have Safety Work Permit System to ensure the contract workmen are safely performing the work.
+	
+(c)	 Divisions have installed large-size LED screen for displaying various Safety & Health related topics to create an awareness. 
+	
+(d)	 Safety Visual Display System - Safety Sign Boards at prominent places in Offices and Shop Floor is displayed to create 
+awareness on Safety.
+	
+(e)	 Divisions are equipped with Occupational Health Center under the supervision of Medical Practitioner. OHC has a 
+dedicated Ambulance for the Divisions.
+	
+(f)	
+Divisions have taken steps for removal of Hazardous & Non-Hazardous waste from the Division. The wastes are collected 
+and sent out through authorized Vendor. 
+	
+(g)	 Divisions have identified certain critical Personal Protective Equipment’s to be procured for the Health & Safety of the 
+employee. These PPE’s are best in class in terms of quality and safety of the employee.
+	
+(h)	 The Divisions are carrying out Air Monitoring on monthly basis to analyze the quality of ambient air and stack which 
+emits fumes from pollution sources.
+	
+(i)	
+Safety Day is being celebrated widely in the divisions to promote safety culture.
+	
+(j)	
+Periodical Medical Examination is carried out to monitor the Health of the employees. 
+	
+(k)	 The Divisions are equipped with Fire Alarm System for all the hangers along with Fire Hydrant System to protect from 
+any fire emergency. 
+Annual Report 2023-24
+115
+	
+(l)	
+Daily walk-through survey.
+	
+(m)	 Health & Safety Training to employees to create Awareness among all the employees including Contract Labour.
+	
+(n)	 Conducting Fire Mock Drills on regular basis.
+	
+(o)	 Display of Safety Posters, Safety Bulletins and messages via Intranet system to create awareness
+	
+(p)	 Testing of Tools & Tackles, Pressure vessels etc., by competent persons.
+	
+(q)	 Conducting Safety Committee Meetings regularly.
+	
+(r)	
+Noise level survey.
+	
+(s)	 Provision of good ventilation & lighting systems & Dust Extraction Systems.
+	
+(t)	
+Preventive maintenance of Machineries.
+	
+(u)	 Installation of smoke detectors & fire alarms and Portable Fire Extinguishers.
+	
+(v)	 Conducting Occupational Health & Safety Management Audit through 3rd Party.
+	
+(w)	 Regular shop-floor inspection by Safety Officer along with Shop In-charge.
+	
+(x)	 Conduct of Awareness Sessions on Meditation and Mental Health.
+	
+(y)	 Awareness on importance of millets on health.
+13.	 Number of Complaints on the following made by employees and workers:
+FY 2023-24
+FY 2022-23
+Filed during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Working Conditions
+5
+1
+-
+3
+Nil
+-
+Health & Safety
+4
+1
+-
+2
+Nil
+-
+14.	 Assessments for the year: 
+% of your plants and offices that were assessed  
+(by entity or statutory authorities or third parties)
+Health and safety practices
+100%
+Working Conditions
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on 
+significant risks / concerns arising from assessments of health & safety practices and working conditions.
+	
+The details of action taken to address safety-related incidents and on significant risks / concerns arising from assessments of 
+health & safety practices and working conditions are as under:
+	
+(a)	 Awareness is given on wearing Personal Protective Equipment’s (PPEs);
+	
+(b)	 Organized Safety Training Programmes to create awareness on Safety;
+	
+(c)	 Work Instructions and Safe Work Practices were made and readily available in the intranet for reference;
+	
+(d)	 Electrical safety Audit & Arc Flash Assessment were carried out;
+	
+(e)	 Implementation of Log Out & Tag Out (LO & TO);
+Hindustan Aeronautics Limited
+116
+	
+(f)	
+Personal Protective Equipment Assessment;
+	
+(g)	 Evaluation of Building Stability;
+	
+(h)	 Provision of Acoustic Enclosure for Air Service trolley;
+	
+(i)	
+Safety Barricades for the Electrical panel;
+	
+(j)	
+Provision for Waste Management Bins;
+	
+(k)	 Various Machine Guards are provisioned to the rotating components of the Machines to eliminate the risk while at work;
+	
+(l)	
+Emergency Doors are replaced with doors opening outwardly as per the standards;
+	
+(m)	 Periodical Inspection and Maintenance of Tools & Machinery;
+	
+(n)	 Celebration of Health Day as part of Health Awareness Campaign viz. World Heart Day, World Mental Health Day, World 
+Diabetics Day & World Obesity Day;
+	
+(o)	 Clear passages for movement of persons & materials.
+	
+(p)	 Ambient Air & Ambient Noise Quality Monitoring Test, Work Zone Air & Work Zone Noise Monitoring Test through 
+External Agency. 
+Leadership Indicators
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees 
+(Y/N) (B) Workers (Y/N). 
+	
+(A)	 Employees (Y/N)	 – 	 Yes.
+	
+(B)	 Workers (Y/N)	
+–	 Yes. 
+2.	
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited 
+by the value chain partners. 
+	
+The Bills of the value chain partners are cleared after ensuring remittance of applicable statutory dues to the concerned 
+authorities by verifying deposit / remittance Challans submitted alongwith the Bills.
+3.	
+Provide the number of employees / workers having suffered high consequence work- related injury / ill-health 
+/ fatalities (as reported in Q11 of Essential Indicators above), who have been are rehabilitated and placed in 
+suitable employment or whose family members have been placed in suitable employment:
+Total no. of affected employees/ 
+workers
+No. of employees/workers that are 
+rehabilitated and placed in suitable 
+employment or whose family 
+members have been placed in suitable 
+employment
+FY 2023-24
+FY 2022-23
+FY 2023-24
+FY 2022-23
+Employees 
+3
+1
+Nil
+1
+Workers
+3
+1
+Nil
+1
+4.	
+Does the entity provide transition assistance programs to facilitate continued employability and the management 
+of career endings resulting from retirement or termination of employment? (Yes/ No)
+	
+No
+Annual Report 2023-24
+117
+5.	
+Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such 
+partners) that were assessed
+Health and safety practices
+100%
+Working Conditions
+100%
+6.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from 
+assessments of health and safety practices and working conditions of value chain partners.
+	
+NIL
+PRINCIPLE 4:
+Businesses should respect the interests of and be responsive to all its stakeholders
+Essential Indicators
+1.	
+Describe the processes for identifying key stakeholder groups of the entity. 
+	
+The Company has robust system for identification of key stakeholders. Stakeholder engagement at HAL is an ongoing process 
+wherein the Company interacts with its stakeholders at different levels to understand and address their expectations and 
+collaborates with them for creating shared value. The Company has built a constructive relationship with all its stakeholders 
+based on mutual trust, transparency, ethics and accountability. Continuous two-way dialogue process with stakeholders 
+along with their feedbacks on various issues concerning the Company’s operations has enabled us to establish sustainable 
+relationships with the stakeholders. Apart from Customers, Suppliers, Employees, Shareholders, Government, Regulatory & 
+Statutory Bodies, Auditors, Bankers, Collaborators and JV Partners, all community members within 50 Kms radius from the 
+location of the plant / Divisions of the Company are considered as key stakeholder of the Company.
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder 
+group.
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group  
+(Yes/No)
+Channels of communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, 
+Notice Board, Website), 
+Other
+Frequency	
+of engagement 
+(Annually/    Half 
+yearly/ Quarterly	
+/ others  –  please 
+specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Customers
+No
+Email, Letters, Meeting
+Monthly, Quarterly, 
+Half Yearly
+Sorting out Technical & 
+Logistic Issues
+Vendors /
+Suppliers
+No
+Website, 
+Emails,
+HAL e-Portal,
+GeM Portal
+Against specific 
+Tender 
+Monthly.
+Tender are hosted in Website.
+Summary report of Order 
+Placed
+Nomination Procurement
+Procurement Plan for the 
+interest of MSE vendors
+Procurement Plan for the 
+interest of GeM vendors
+Open Tender available for 
+Participating.
+Shareholders
+No
+Website, Email, Letters, 
+Meetings, Newspaper 
+Publications, Annual Reports
+As and when 
+required
+Shareholders meeting and 
+Resolution of grievance
+Employees
+No
+E-Newsletter
+Monthly, Weekly, 
+Occasionally and 
+Fortnightly
+Information on Company 
+activities
+Hindustan Aeronautics Limited
+118
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group  
+(Yes/No)
+Channels of communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, 
+Notice Board, Website), 
+Other
+Frequency	
+of engagement 
+(Annually/    Half 
+yearly/ Quarterly	
+/ others  –  please 
+specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Industry bodies, 
+Regulators
+No
+Email, Letters, Meeting
+As and when 
+required
+Ensure 100% compliance to 
+all local laws
+Auditors
+No
+Email, Letters, Meeting
+Quarterly and 
+Annual Audit
+Audit
+Governments; 
+NGOs; local 
+communities; 
+media, industry 
+analysts, 
+society at large
+No
+As needed: Governance RFIs/
+RFPs; presentations; project 
+meetings; reviews; due 
+diligence; calls and meetings; 
+conferences and seminars; 
+surveys; press releases; press 
+conferences; media interviews 
+and quotes; sponsored events, 
+Analyst Meet
+Monthly, Quarterly, 
+Half Yearly
+• 
+Communicate HAL 
+performance and 
+strategy;
+• 
+Share and contribute to 
+insight into public and 
+business concerns;
+• 
+Discuss HAL response 
+to responsible business 
+issues.
+Leadership indicators
+1.	
+Provide the processes for consultation between stakeholders and the board on economic, environmental, and 
+social topics or if consultation is delegated, how is feedback from such consultations provided to the board.
+	
+ESG priorities in the Company are driven from the uppermost level i.e., the Board of Directors. Board provides the strategic 
+oversight and monitors the ESG progress. The Board of Directors has delegated the process of undertaking consultations with 
+stakeholders to the management. The outcomes from such consultations are shared with the Board.
+ 
+• 
+During the year, HAL has initiated a comprehensive materiality assessment and stakeholder engagement exercise to 
+identify environmental, social and governance (ESG) topics of significance to its business.
+ 
+• 
+As a part of this exercise, HAL along with an external agency, with requisite experience, engaged with the key internal 
+and external stakeholders to understand their concerns and incorporate their views into materiality assessment, for 
+prioritizing ESG topics.
+ 
+• 
+Insights gathered through stakeholder engagement were analyzed to develop the materiality matrix and arrive at the 
+final list of ESG focus areas. Result of this assessment was presented to the Management and the Board. The outcome 
+is being considered for defining ESG targets and initiatives of the Company.
+2.	
+Whether stakeholder consultation is used to support the identification and management of environmental, and 
+social topics (Yes / No). If so, provide details of instances as to how the inputs received from stakeholders on 
+these topics were incorporated into policies and activities of the entity.
+	
+Yes
+3.	
+Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ 
+marginalized stakeholder groups.
+	
+HAL believes that every business entity needs to have a mechanism for giving back to the Society in which it operates. The 
+Company’s Business principles dovetail with its CSR initiatives to ensure that the society surrounding it grows along with 
+the Company. In-line with this thought, activities / projects are being undertaken to address concerns of society, which also 
+comprises of the vulnerable/ marginalized stakeholder groups. Some of the Projects in this direction, are:
+ 
+• 
+Provisioning of Medical equipment to Govt. Hospitals to boost the Healthcare;
+ 
+• 
+Entrepreneurship & Skill Development Programme / training to enhance the employability of youth;
+Annual Report 2023-24
+119
+ 
+• 
+Infrastructure development at Govt. School;
+ 
+• 
+Providing education to Financially Underprivileged Students;
+ 
+• 
+Women Empowerment - Construction of Health Care & Rehabilitation Centre  for Homeless & Mentally Challenged 
+Women at Aspirational District, Koraput;
+ 
+• 
+Plant for conversion of Bio Waste to Compressed Natural Gas (CNG);
+ 
+• 
+Training / Coaching for aspiring youths in Sports in Tribal Area;
+ 
+• 
+Construction of Sewage Systems at Labour colonies, Roads with culverts & Drainages in rural areas;
+ 
+• 
+Provisioning of Vehicles for boosting Sanitation and Swacchta;
+ 
+• 
+Livelihood enhancement project for Particularly Vulnerable Tribal Groups (PVTGs) at Aspirational District, Asifabad;
+ 
+• 
+Distribution of Aids & Assistive Appliances to Divyangjan (PWDs);
+PRINCIPLE 5
+Businesses should respect and promote human rights
+Essential Indicators
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in 
+the following format: 
+Category
+FY 2023-24
+FY 2022-23
+Total
+ (A)
+No. of 
+employees 
+workers 
+covered (B)
+% 
+(B / A)
+Total (C)
+No. of 
+employees 
+workers
+covered (D)
+% (D / C)
+Employee
+Permanent
+22655
+865
+3.63%
+23450
+753
+3.07%
+Other than permanent
+1111
+1007
+Total Employees
+23766
+865
+24457
+753
+Workers
+Permanent
+15344
+330
+2.02%
+15980
+360
+2.12%
+Other than permanent
+956
+927
+Total Workers
+16300
+330
+16907
+360
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+Category
+FY 2023-24
+FY 2022-23
+Total 
+(A)
+Equal Minimum 
+Wage
+More than 
+Minimum Wage
+Total
+(D)
+Equal Minimum 
+Wage
+More than 
+Minimum Wage
+No.
+(B)
+% 
+(B/A)
+No.
+ (C)
+% 
+(C/A)
+No. (E)
+% 
+(E/D)
+No. (F)
+% 
+(F/D)
+Employees
+Permanent
+22655
+-
+-
+22655
+100%
+23450
+-
+-
+23450
+100%
+Male
+20564
+-
+-
+20564
+100%
+21345
+-
+-
+21345
+100%
+Female
+2091
+-
+-
+2091
+100%
+2105
+-
+-
+2105
+100%
+Hindustan Aeronautics Limited
+120
+Category
+FY 2023-24
+FY 2022-23
+Total 
+(A)
+Equal Minimum 
+Wage
+More than 
+Minimum Wage
+Total
+(D)
+Equal Minimum 
+Wage
+More than 
+Minimum Wage
+No.
+(B)
+% 
+(B/A)
+No.
+ (C)
+% 
+(C/A)
+No. (E)
+% 
+(E/D)
+No. (F)
+% 
+(F/D)
+Other than Permanent
+1111
+-
+-
+1111
+100%
+1007
+-
+-
+1007
+100%
+Male
+1044
+-
+-
+1044
+100%
+955
+-
+-
+955
+100%
+Female
+67
+-
+-
+67
+100%
+52
+-
+-
+52
+100%
+Workers
+Permanent
+15344
+-
+-
+15344
+100%
+15980
+-
+-
+15980
+100%
+Male
+13995
+-
+-
+13995
+100%
+14617
+-
+-
+14617
+100%
+Female
+1349
+-
+-
+1349
+100%
+1363
+-
+-
+1363
+100%
+Other than Permanent
+956
+-
+-
+956
+100%
+927
+-
+-
+927
+100%
+Male
+914
+-
+-
+914
+100%
+888
+-
+-
+888
+100%
+Female
+42
+-
+-
+42
+100%
+39
+-
+-
+39
+100%
+3.	
+Details of remuneration/salary/wage
+	
+a.	
+Median remuneration / wages:    
+Male
+Female
+Number
+Median 
+remuneration/ 
+salary/ wages of 
+respective category 
+(in `)
+Number
+Median 
+remuneration/ 
+salary/ wages of
+respective category 
+(in `)
+(a)	 Board of Directors (BoD)
+	
+Functional Directors
+4
+57,00,854
+-
+-
+	
+Govt. Nominee Director
+2
+-
+-
+-
+	
+Independent Director
+1
+-
+1
+-
+(b)	 Key Managerial Personnel
+5
+56,82,279
+-
+-
+(c)	 Employees other than BoD and KMP
+21,603
+17,54,924
+2,158
+17,35,896
+(d)	 Workers
+14,909
+13,25,069
+1,391
+12,39,703
+	
+	
+Note:
+	
+	
+a.	 Board of Directors and KMPs as on 31.03.2024 has been considered.  Median salary arrived based on Salary & perquisite as per 
+Section 17(1) & 17(2) of the Income Tax Act, 1961 for the year 2023-24.
+	
+	
+b.	 Key Managerial Personnel includes 4 Functional Directors and Company Secretary.
+	
+	
+c.	 Remuneration details of Board of Directors and KMPs are as covered under Corporate Governance Report, which is part of the 
+Annual Report 2023-24.
+	
+	
+d.	 Government Nominee Director does not receive any remuneration from the Company.
+	
+	
+e.	 Independent Director receives the sitting fees for attending the meeting of Board and its committees.
+	
+b.	
+Gross wages paid to females as % of total wages paid by the entity, in the following format:
+FY 2023-24
+FY 2022-23
+Gross wages paid to females as % of total wages
+8.99%
+8.44%
+Annual Report 2023-24
+121
+4.	
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues 
+caused or contributed to by the business? (Yes/No)
+	
+HR Heads of the Company and the respective Divisions of HAL are responsible.
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+	
+Company has a robust grievance redressal system. Refer Q.No.6 under Principle-3. Contracts with value chain partners 
+which involve deployment of labour include specific conditions towards health & safety, working hours, and remuneration. 
+Company complies with applicable labour Laws and a compliance report is submitted by Heads of Divisions.
+	
+For contractual employees, the Engineer-in-Charge / Office-in-Charge / Dept. concerned handling the Contracts in the 
+Divisions / Offices looks after issues related to remuneration, health & safety within the premises and working hours.
+	
+Further, Internal Complaints Committee under the provisions of Sexual Harassment of Women at Workplace (Prevention, 
+Prohibition and Redressal) Act, 2013, is constituted in the Divisions / Offices of HAL to deal with Complaints related to Sexual 
+Harassment and conduct enquiries on such issues.
+6.	
+Number of Complaints on the following made by employees and workers:
+FY 2023-24
+FY 2022-23
+ Filed during 
+the year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Filed during 
+the year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Sexual Harassment
+1
+0
+-
+1
+0
+-
+Discrimination at workplace
+0
+0
+-
+0
+0
+-
+Child Labour
+0
+0
+-
+0
+0
+-
+Forced Labour/Involuntary Labour
+0
+0
+-
+0
+0
+-
+Wages
+0
+0
+-
+0
+0
+-
+Other human Rights related issues
+0
+0
+-
+0
+0
+-
+7.	
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) 
+Act, 2013, in the following format:
+FY 2023-24
+FY 2022-23
+Total Complaints reported under Sexual Harassment on of Women at 
+Workplace (Prevention, Prohibition and Redressal) Act, 2013 (POSH)
+1
+1
+Complaints on POSH as a % of female employees / workers
+0.03%
+0.03%
+Complaints on POSH upheld
+1
+Nil
+	
+Note: Female Contract workforce engaged through Contractors are also taken into account for percentage calculation.
+8.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	
+It is ensured that no work related adverse consequences are meted out to the Complainant by placing the Complainant & 
+Respondent in different work places, in case both were in the same work place. Moreover, the Complainant is encouraged 
+to report any such incidences to the higher authorities for appropriate action.
+9.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+	
+No
+Hindustan Aeronautics Limited
+122
+10.	 Assessments for the year:
+% of your plants and offices that were assessed 
+(by entity or statutory authorities or third 
+parties)
+Child labour
+Nil
+Forced/involuntary labour
+Nil
+Sexual harassment
+Nil
+Discrimination at workplace
+Nil
+Wages
+Nil
+Others – please specify
+Nil
+11.	 Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 10 above. 
+	
+Not Applicable
+Leadership Indicators
+1.	
+Details on assessment of value chain partners:
+% of value chain partners (by value of business 
+done with such partners) that were assessed
+Sexual Harassment
+Not Applicable
+Discrimination at workplace
+Not Applicable
+Child Labour
+Not Applicable
+Forced Labour/Involuntary Labour
+Not Applicable
+Wages
+Not Applicable
+Others – please specify
+Not Applicable
+2.	
+Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 1 above.
+	
+Not Applicable
+PRINCIPLE 6:
+Businesses should respect and make efforts to protect and restore the environment
+Essential Indicators
+1.	
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+FY 2023-24
+FY 2022-23
+From renewable sources
+Total electricity consumption (A)
+336,409 GJ
+317,006 GJ
+Total fuel consumption (B)
+-
+-
+Energy consumption – through other sources (C)
+-
+-
+Total energy consumed from renewable sources (A+B+C)
+336,409 GJ
+317,006 GJ
+From non-renewable sources
+Total electricity consumption (D)
+451,604 GJ
+459,458 GJ
+Annual Report 2023-24
+123
+Parameter
+FY 2023-24
+FY 2022-23
+Total fuel consumption (E)
+415,831 GJ
+445,078 GJ
+Energy consumption – through other sources (F)
+-
+-
+Total  energy  consumed  from  non-renewable sources (D+E+F)
+867,435 GJ
+904,536 GJ
+Total energy consumed (A+B+C+D+E+F)
+1,203,844 GJ
+1,221,542 GJ
+Energy intensity per rupee of turnover
+(Total energy consumed / Revenue from operations)
+39.63 GJ per 
+` Crore
+45.36 GJ per 
+` Crore
+Energy intensity per rupee of turnover adjusted for Purchasing Power 
+Parity (PPP)
+(Total energy consumed / Revenue from operations adjusted for PPP)
+10.88 GJ per 
+` Crore
+12.63 GJ per 
+` Crore
+Energy intensity in terms of physical output
+-
+-
+Energy intensity (optional) – the relevant metric may be selected by the entity
+-
+-
+	
+Note:
+	
+a)	 Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the 
+external agency: Yes, Sustainability Actions Pvt Ltd
+	
+b)	 The energy from fuels has been derived based on conversion factors in Table 1.2 of 2006 IPCC Guidelines for National Green House Gas 
+Inventories. Intensity of FY 2022-23 are updated.
+2.	
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, 
+Achieve and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the 
+PAT scheme have been achieved. In case targets have not been achieved, provide the remedial action taken, if 
+any.
+	
+No 
+3.	
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 2023-24
+FY 2022-23
+Water withdrawal by source (in kilolitres)
+(i)	
+Surface water
+-
+-
+(ii)	 Groundwater
+3,533,690
+1,816,716
+(iii)	 Third party water
+9,957,210
+10,836,222
+(iv)	 Seawater / desalinated water
+-
+-
+(v)	 Others
+2,586
+854
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+13,493,486
+12,653,792
+Total volume of water consumption (in kilolitres)
+13,493,486
+12,653,792
+Water intensity per rupee of turnover  
+(Total water consumption / Revenue from operations)
+444.14 KL per 
+` Crore
+469.91 KL per 
+` Crore
+Water intensity per rupee of turnover adjusted for Purchasing Power 
+Parity (PPP)
+(Total water consumption / Revenue from operations adjusted for PPP)
+121.90 KL per 
+` Crore
+130.78 KL per 
+` Crore
+Water intensity in terms of physical output
+Water intensity (optional) – the relevant metric may be selected by the entity
+	
+Note: 
+	
+1)	 Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the 
+external agency. Yes, Sustainability Actions Pvt Ltd
+	
+2)	 Data includes consumption of HAL Township. Intensity of FY 2022-23 are updated.
+Hindustan Aeronautics Limited
+124
+4.	
+Provide the following details related to water discharged:
+Parameter
+FY 2023-24
+FY 2022-23
+Water discharge by destination and level of treatment (in kilolitres)
+(i)	
+To Surface water
+-
+-
+	
+-	 No treatment
+-
+-
+	
+-	 With treatment – please specify level of treatment
+-
+-
+(ii)	 To Groundwater
+	
+-	 No treatment
+-
+-
+	
+-	 With treatment – please specify level of treatment
+-
+-
+(iii)	 To Seawater
+	
+-	 No treatment
+-
+-
+	
+-	 With treatment – please specify level of treatment
+-
+-
+(iv)	 Sent to third-parties
+	
+-	 No treatment
+66,257
+-
+	
+-	 With treatment – please specify level of treatment
+-
+-
+(v)	 Others
+	
+-	 No treatment
+-
+-
+	
+-	 With treatment – please specify level of treatment
+-
+-
+Total water discharged (in kilolitres)
+66,257
+-
+	
+Note:
+	
+a)	 Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the 
+external agency. Yes, Sustainability Actions Pvt Ltd
+	
+b)	 All the production locations of HAL have captive STPs/ETPs for treating the waste/effluent water. The treated water is used for non-
+potable purposes and to some extent in process. Offices discharge the waste water to local utility for further treatment. The discharge 
+is estimated assuming 80% of the water withdrawn reaches the treatment plants.
+	
+c)	 The data is reported from FY 2023-24 onwards only.
+5.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation.
+	
+HAL has made investments in an effluent treatment plant with Zero Liquid Discharge (ZLD) system.
+	
+STPs and ETPs have been installed at all our production locations for treating waste water/effluent. The treated water is used 
+for gardening and other non-potable uses.
+	
+HAL disposes used oil, e-waste and Hazardous waste such as ETP Sludge, Paint Sludge, Waste water soluble coolant, Used 
+Grease, Oil soaked cotton waste through Pollution Control Board authorized agencies.
+6.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please specify unit
+FY 2023-24
+FY 2022-23
+NOx
+Metric Tonnes
+37.50
+52.85
+SOx
+Metric Tonnes
+17.27
+21.52
+Particulate matter (PM)
+Metric Tonnes
+96.67
+99.33
+Persistent Organic Pollutants (POP)
+Metric Tonnes
+-
+-
+Volatile Organic Compounds (VOC)
+Metric Tonnes
+-
+-
+Hazardous Air Pollutants (HAP)
+Metric Tonnes
+-
+-
+Others – (CO, Acid mist, alkali mist)
+Metric Tonnes
+8.58
+13.22
+	
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the 
+external agency. Yes, Sustainability Actions Pvt Ltd
+Annual Report 2023-24
+125
+7.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following 
+format:  
+Parameter
+Unit
+FY 2023-24
+FY 2022-23 
+Total Scope 1 emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of	
+CO2 equivalent
+48,876
+46,496
+Total Scope 2 emissions (Break-up of the GHG into CO2, 
+CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of	
+CO2 equivalent
+89,066
+90,615
+Total Scope 1 and Scope 2 emission intensity per 
+rupee of turnover (Total Scope 1 and Scope 2 GHG 
+emissions / Revenue from operations)
+4.54
+5.09
+Total Scope 1 and Scope 2 emission intensity per 
+rupee of turnover adjusted for Purchasing Power 
+Parity (PPP) (Total Scope 1 and Scope 2 GHG emissions / 
+Revenue from operations adjusted for PPP)
+1.25
+1.42
+Total Scope 1 and Scope 2 emission intensity in terms
+of physical output
+-
+-
+Total Scope 1 and Scope 2 emission intensity 
+(optional) – the relevant metric may be selected by the 
+entity
+	
+Note
+	
+a)	
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the 
+external agency. Yes, M/s.Sustainability Actions Pvt Ltd
+	
+b)	
+The Scope 1 emissions from fuel use have been derived based on conversion factors in Table 2.3 of 2006 IPCC Guidelines for National 
+Greenhouse Gas Inventories.
+	
+c)	
+The Scope 2 emissions from electricity use have been derived based on conversion factor published by Central Electricity Authority 
+Document Version 17 & 18.
+	
+d)	
+FY 2023-24 values, the sources of scope 1 emissions includes emissions from fuel consumed in processes, emissions from fuel consumed 
+in vehicles and fugitive emissions. Intensity of FY 2022-23 are updated.
+8.	
+Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details.
+	
+Yes.
+	
+HAL has made investments towards installation of energy efficient chillers / Air Conditioners and ceiling fans.
+	
+The Company also uses renewable energy for captive consumption at production sites. Details of the renewable energy are:
+ 
+• 
+Rooftop solar: HAL has installed a total of 7.57 MW capacity Rooftop based Solar Energy Systems, till date. Projects are 
+in progress for installing another 1.4 MW roof top solar power plants.
+ 
+• 
+Ground mounted solar: HAL has installed a total of 26.50 MW capacity Solar power plants, till date.
+ 
+• 
+Wind Energy: HAL has installed 14.7 MW capacity wind power plants in Karnataka.
+Hindustan Aeronautics Limited
+126
+9.	
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2023-24
+FY 2022-23
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+7.24
+48.19
+E-waste (B)
+15.96
+30.57
+Bio-medical waste (C)
+25.66
+23.75
+Construction	 and demolition waste (D)
+857.28
+2,664.29
+Battery waste (E)
+34.99
+21.99
+Radioactive waste (F)
+0
+0
+Other Hazardous waste. Please specify, if any. (G)
+(i)	
+ETP/Paint/Magnesium sludge
+57.53
+41.25
+(ii)	 Used Oil/Coolant oil (KL)
+815.00
+192.33
+(iii)	 Waste residue containing oil
+11.00
+6.16
+(iv)	 Spent hardening salt/grease/chemicals
+7.75
+3.86
+(v)	 Others
+641.98
+192.26
+Sub-total (G)
+1533.26
+435.86
+Other Non-hazardous waste generated (H). Please specify, if any. (Break-up by 
+composition i.e. by materials relevant to the sector)
+(i)	
+Metal Scrap
+806.68
+344.68
+(ii)	 Non-Metal Scrap
+2177.93
+180.00
+(iii)	 Mixed waste
+5601.62
+1583.00
+(iv)	 Others (Cu.m)
+-
+234.00
+Sub-total (H)
+8586.23
+2341.68
+Total (A + B + C + D + E + F + G + H)
+11060.62
+5566.33
+Waste intensity per rupee of turnover (Total waste generated	/Revenue from 
+operations)
+0.36 MT per 
+` Crore turnover
+0.21 MT per 
+` Crore turnover
+Waste intensity per rupee of turnover adjusted for Purchasing Power Parity 
+(PPP) (Total waste generated / Revenue from operations adjusted for PPP)
+0.10 MT per 
+` Crore turnover
+0.06 MT per 
+` Crore turnover
+Waste intensity in terms of physical output
+Waste intensity (optional) – the relevant metric may be selected by the entity
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery 
+operations (in metric tonnes)
+Category of waste (Plastic waste)
+(i)	
+Recycled
+0
+11.44
+(ii)	 Re-used
+0
+0.1
+(iii)	 Other recovery operations
+0
+0
+Total
+0
+11.54
+Category of waste (E-waste)
+(i)	
+Recycled
+15.96
+0.149
+(ii)	 Re-used
+0
+0
+(iii)	 Other recovery operations
+0
+0
+Total
+15.96
+0.149
+Annual Report 2023-24
+127
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery 
+operations (in metric tonnes)
+Category of waste (Bio-medical waste)
+(i)	
+Recycled
+0
+7.27
+(ii)	 Re-used
+0
+0
+(iii)	 Other recovery operations
+0
+0
+Total
+0
+7.27
+Category of waste (Construction and demolition waste)
+(i)	
+Recycled
+0
+0
+(ii)	 Re-used
+0
+175
+(iii)	 Other recovery operations
+0
+22
+Total
+0
+197
+Category of waste (Battery waste)
+(i)	
+Recycled
+13.75
+0
+(ii)	 Re-used
+0
+0
+(iii)	 Other recovery operations
+0
+2.83
+Total
+13.75
+2.83
+Category of waste (Used/Coolant Oil)
+(i)	
+Recycled (KL)
+34.20
+16
+(ii)	 Re-used
+0
+0
+(iii)	 Other recovery operations
+0
+6
+Total (KL)
+34.20
+22
+Category of waste (Other Hazardous waste)
+(i)	
+Recycled
+0
+48
+(ii)	 Re-used
+0
+0
+(iii) 	 Other recovery operations
+0
+0
+Total
+0
+48
+Category of waste (Other Non-Hazardous waste)
+(i)	
+Recycled
+0
+184.32
+(ii)	 Re-used
+0
+607.00
+(iii)	 Other recovery operations
+0
+0
+Total
+0
+791.32
+For each category of waste generated, total waste disposed by nature of disposal method (in Metric tonnes)
+Category of waste (Plastic waste)
+(i)	
+Incineration
+0
+0
+(ii)	 Landfilling
+0.02
+20.63
+(iii)	 Other disposal operations
+7.22
+16.02
+Total
+7.29
+36.65
+Category of waste (E-waste)
+(i)	
+Incineration
+0
+0
+(ii)	 Landfilling
+0
+0
+(iii)	 Other disposal operations
+0
+23.75
+Total
+0
+23.75
+Hindustan Aeronautics Limited
+128
+For each category of waste generated, total waste disposed by nature of disposal method (in Metric tonnes)
+Category of waste (Bio-medical waste)
+(i)	
+Incineration
+20.98
+0.13
+(ii)	 Landfilling
+0.73
+3.56
+(iii)	 Other disposal operations
+3.95
+0
+Total
+25.66
+3.69
+Category of waste (Construction and demolition waste)
+(i)	
+Incineration
+0
+0
+(ii)	 Landfilling
+536.95
+2267.29
+(iii)	 Other disposal operations
+320.33
+200.00
+Total
+857.28
+2,467.29
+Category of waste (Battery waste)
+(i)	
+Incineration
+0
+0
+(ii)	 Landfilling
+0
+0
+(iii)	 Other disposal operations
+21.24
+13.86
+Total
+21.24
+13.86
+Category of waste (Used/Coolant Oil)
+(i)	
+Incineration (KL)
+20.00
+29.80
+(ii)	 Landfilling
+0
+0
+(iii)	 Other disposal operations
+760.80
+405.53
+Total (KL)
+780.80
+435.33
+Category of waste (Other hazardous waste)
+(i)	
+Incineration
+0
+115.15
+(ii)	 Landfilling
+0
+34.24
+(iii)	 Other disposal operations
+718.26
+81.84
+Total
+718.26
+231.23
+Category of waste (Other Non-hazardous waste)
+(i)	
+Incineration
+0
+0
+(ii)	 Landfilling
+0
+0
+(iii)	 Other disposal operations
+8586.23
+1316.35
+Total
+8586.23
+1316.35
+Category of waste (Other Non-hazardous waste)
+(i)	
+Incineration
+0
+0
+(ii)	 Landfilling
+0
+0
+(iii)	 Other disposal operations (cu.m)
+0
+234
+Total (cu.m)
+0
+234
+	
+Note:
+	
+1)	
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? Yes, Sustainability Actions 
+Pvt Ltd.
+	
+2)	
+The various waste generated are disposed by auction/contractors. Hazardous waste is disposed through Pollution Control Board 
+authorized agencies either for recycling/incineration/other disposal as per applicable waste management rules. Non-hazardous waste 
+such as metal and non-metal scrap is disposed by auction through MSTC portal. Mixed waste consisting of municipal waste is disposed 
+through local authorized agencies. Intensity of FY 2022-23 are updated
+Annual Report 2023-24
+129
+10.	  Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted 
+by your company to reduce usage of hazardous and toxic chemicals in your products and processes and the 
+practices adopted to manage such wastes.
+	
+The Company has adopted a strong waste management system to meet the compliance with respect to local regulations. 
+The well-established system is supporting our operations to properly segregate the waste at source & adopt the 3R concept 
+to reduce, reuse & recycle. The waste generated within our premises is recycled through authorized recyclers and on-site 
+composting machines (in facilities and residential establishments) and remaining waste is disposed through State Pollution 
+Control Board approved landfill/incineration facilities.
+	
+HAL is governed by various Acts and Rules like the Hazardous and Other Wastes (Management and Transboundary Movement) 
+Rules, 2016, Solid Waste Management Rules, 2016, Air Prevention and Control of Pollution Act (1981), Environment 
+(Protection) Act, 1986, Water (Prevention and Control of Pollution), Act, 1974 etc.
+	
+All the Divisions are ISO 14001 certified and comply with the rules prescribed by respective State Pollution Control Boards. All 
+emissions and waste generation is monitored as prescribed by the Pollution Control Boards.
+	
+Municipal Solid Waste (MSW) generated from Townships and Factories is segregated at source in Townships and Factories 
+(Wet, Dry, Garden, Sanitary and Rejects). Through the process of Vermi-Composting, the Bio-degradable waste comprising of 
+domestic waste and horticulture waste is being converted to manure. For better utilization of biodegradable waste generated 
+from HAL Estates, the Company has installed Solid Waste Management Units like Organic Waste Converters and Bio Gas 
+Plants at select places. At Bangalore, 1.5 Tons per day capacity bio-gas plants are installed.
+	
+The Divisions which use and generate hazardous effluents such as chrome, acid/alkali, cyanide etc. have independent Effluent 
+Treatment Plants (ETPs) for treatment.
+11.	 If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife 
+sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where 
+environmental approvals / clearances are required, please specify details in the following format:
+Sl.
+No.
+Location of 
+operations/offices
+Type of operations
+Whether the conditions of environmental approval 
+/ clearance are being complied with? (Y/N) If  no,  the 
+reasons  thereof  and corrective action taken, if any.
+ HAL does not have any operations/ offices in/ around ecologically sensitive areas.
+12.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in 
+the current financial year:
+Name and brief details of 
+project
+EIA
+Notification 
+No.
+Date
+Whether conducted 
+by independent 
+external agency
+(Yes / No)
+Results 
+communicated in 
+public domain
+(Yes / No)
+Relevant 
+Web link
+Not Applicable
+13.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection 
+act and rules thereunder (Y/N). – Yes
+	
+If not, provide details of all such non-compliances, in the following format: 
+Sl. 
+No.
+Specify the law / 
+regulation / guidelines 
+which was not complied 
+with
+Provide details 
+of the non- 
+compliance
+Any fines / penalties / 
+action taken by regulatory 
+agencies such as pollution  
+control boards or by courts
+Corrective action taken, 
+if any
+NA
+Hindustan Aeronautics Limited
+130
+Leadership Indicators
+1.	
+With respect to the ecologically sensitive areas reported at Question 11 of Essential Indicators above, provide 
+details of significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and 
+remediation activities.
+	
+Not Applicable
+2.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link.
+	
+The risks related to business continuity and disaster management are covered as part of the Risk Management Policy. The 
+policy is available at the following link: https://hal-india.co.in/backend/wp-content/uploads/2023/07/Risk_Management_
+Policy_20.pdf
+3.	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What 
+mitigation or adaptation measures have been taken by the entity in this regard.
+	
+No assessment made.
+4.	
+Percentage of value chain partners (by value of business done with such partners) that were assessed for 
+environmental impacts.
+	
+Nil
+PRINCIPLE 7: 
+Businesses, when engaging in influencing public and regulatory policy, should do so in a manner 
+that is responsible and transparent
+Essential Indicators
+1.	
+a.	
+Number of affiliations with trade and industry chambers/ associations.
+	
+	
+The Company has taken Corporate Membership with five (5) Nos. of trade and industry chambers/ associations.
+	
+b.	
+List the top 10 trade and industry chambers/ associations (determined based on the total members of such 
+body) the entity is a member of/ affiliated to.
+Sl. 
+No.
+Name of the trade and industry chambers/ associations
+Reach of trade and 
+industry chambers/ 
+associations
+(State/National)
+1
+Federation of Indian Chambers of Commerce & Industry (FICCI)
+National 
+2
+The Associated Chambers of Commerce & Industry of India (ASSOCHAM  India)
+National
+3
+Confederation of Indian Industry (CII)
+National
+4
+Engineering Export Promotion Council India (EEPCI)
+National
+5
+Society of Indian Defence Manufacturers  (SIDM)
+National
+2.	
+Provide details of corrective action taken or underway on any issues related to anti- competitive conduct by the 
+entity, based on adverse orders from regulatory authorities.  
+Name of authority
+Brief of the case
+Corrective action taken
+NIL
+Annual Report 2023-24
+131
+Leadership Indicators
+1.	
+Details of public policy positions advocated by the entity: – No
+Sl. 
+No.
+Public resorted 
+advocated
+Method 
+resorted for 
+such advocacy
+Whether information 
+available in Public 
+domain? (Yes / No)
+Frequency of Review 
+by Board (Annually / 
+Half Yearly / Quarterly / 
+Others Please specify)
+Web Link, if 
+available
+-
+-
+-
+-
+-
+-
+PRINCIPLE 8:
+Businesses should promote inclusive growth and equitable development
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the 
+current financial year.
+Name and 
+brief details 
+of project
+SIA Notification 
+No.
+Date of 
+Notification
+Whether 
+conducted by 
+independent 
+external agency 
+(Yes / No)
+Results communicated 
+in public domain
+(Yes / No)
+Relevant 
+Web link
+NIL
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken 
+by your entity, in the following format: 
+Sl. 
+No.
+Name of Project for 
+which R&R is ongoing
+State
+District
+No. of Project 
+Affected 
+Families (PAFs)
+% of PAFs 
+covered by 
+R&R
+Amounts paid 
+to PAFs in the 
+FY (In INR)
+NIL
+3.	
+Describe the mechanisms to receive and redress grievances of the community. 
+	
+Complaints can be received through Public Grievance Portal (www.pgportal.gov.in).
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY 2023-24
+FY 2022-23
+Directly sourced from MSMEs/small Producers*
+44.53%
+44%
+Directly from within India**
+20%
+22%
+	
+* The value of procurement made from MSMEs/Total Domestic Procurement
+	
+** Local material consumption/ Total material consumption.
+5.	
+Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers 
+employed on a permanent or non-permanent / on contract basis) in the following locations, as % of total wage 
+cost
+Location
+FY 2023-24
+FY 2022-23
+Rural
+3%
+3%
+Semi-urban
+23%
+23%
+Urban
+2%
+2%
+Metropolitan
+72%
+72%
+	
+(Places are categorized as per RBI Classification System - rural / semi-urban / urban / metropolitan)
+Hindustan Aeronautics Limited
+132
+Leadership Indicators
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments 
+(Reference: Question 1 of Essential Indicators above):
+Details of negative social impact identified
+Corrective action taken
+Not Applicable
+2.	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational districts 
+as identified by government bodies:
+Sl. No. State
+Aspirational District
+Amount spent (` in lakh)
+1
+Odisha
+Koraput
+1,487.47
+2
+Telangana
+Asifabad 
+21.98
+3
+Uttarakhand
+Udham Singh Nagar
+178.20
+Total
+1,687.65
+	
+Note: Asifabad and Udham Singh Nagar Districts are not a designated Aspirational District for HAL. Based on the requirement /need, the 
+projects were undertaken during FY 2023-24 at Asifabad and Udham Singh Nagar.
+3.	
+(a)	 Do you have a preferential procurement policy where you give preference to purchase from suppliers 
+comprising marginalized /vulnerable groups? (Yes/No)
+	
+	
+Yes
+	
+(b)	 From which marginalized /vulnerable groups do you procure?
+	
+	
+Social Category (SC/ST) and Companies owned by Women.
+	
+(c)	 What percentage of total procurement (by value) does it constitute?
+FY 2023-24
+FY 2022-23
+% Procurement Social Category (SC/ST) Entrepreneurs
+0.67 %
+0.50 %
+% Procurement from Women Entrepreneurs                   
+3.34 %
+4.46 %
+4.	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in 
+the current financial year), based on traditional knowledge:
+Sl. 
+No.
+Intellectual Property based on 
+traditional knowledge
+Owned / Acquired 
+(Yes / No)
+Benefit shared  
+(Yes / No)
+Basis of calculating 
+benefit share
+1
+NIL
+No
+No
+NA
+5.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related 
+disputes wherein usage of traditional knowledge is involved.
+Name of authority
+Brief of the Case
+Corrective action taken
+-
+-
+-
+Annual Report 2023-24
+133
+6.	
+Details of beneficiaries of CSR Projects:
+	
+The beneficiaries of CSR Projects for which the Impact Assessment was carried out during the year:
+Sl. 
+No.
+CSR Project
+No. of persons 
+benefitted from 
+CSR Projects
+(Approx.)
+% of beneficiaries 
+from vulnerable 
+and marginalized 
+groups
+1.
+Establishment of skill development center for experimental learning in 
+Smart Manufacturing and Industry 4.0, at Bangalore, Karnataka 
+(Estd: 2022).
+9480
+Approx. 29%
+2.
+Establishment of Centralized kitchen for mid-day meal program at 
+Bangalore, Karnataka.
+9100
+Approx. 49%
+3.
+Construction of Toilets in Govt. Schools in Chikkaballapur/ 
+Doddaballapur, Karnataka.
+2000
+Approx. 28%
+4.
+HAL Football Academy, Bangalore, Karnataka. (Estd: 2016).
+250
+Approx. 25%
+5.
+Provisioning of Garbage picking vehicles at
+Serligampally, Hyderabad, Telangana.
+10000
+Approx. 39%
+6.
+Infrastructural Development at Kasturba Gandhi School, Barabanki, 
+Uttar Pradesh.
+1000 – 1200
+Approx. 100%
+7.
+(a)	 Training of Apprentices over and above the Statutory Limits under 
+CSR, Lucknow, Uttar Pradesh (FY 2021-22).
+325
+Approx. 58 %
+(b)	 Training of Apprentices over and above the Statutory Limits under 
+CSR, Lucknow, Uttar Pradesh (FY 2020-21).
+375
+Approx. 58%
+8.
+Project for Management & Containment of COVID-19: Ambulances, 
+High Flow Nasal Canula (HFNC) & Ventilators through Dist. Magistrate 
+Lucknow, Uttar Pradesh (FY 2020-21).
+2000
+Approx. 48%
+9.
+Establishment of COVID-19 Care Hospital at Lucknow, Uttar Pradesh  
+FY 2021-22
+275000
+Approx. 45%
+10.
+Construction of Road & Culvert - Chamrahi & Banauga Villages, Uttar 
+Pradesh
+7000
+Approx. 80%
+11.
+Construction, Maintenance and upkeep of Roads for improving 
+healthcare & hygiene in Narsinghbhanpur & Bahorikpur Villages, Uttar 
+Pradesh
+6000 -6500
+Approx. 29%
+12.
+Provisioning for Drinking Water facilities, upgradation of waiting room 
+toilet block facilities for easy access for Divyangjan / Women,etc at 
+Railway Stations: Amethi, Gauriganj and Mushafirkhana, Uttar Pradesh
+7550 -8000
+Approx. 27%
+13.
+Construction of Hostels, Computer Lab, Smart Class Rooms, etc. in 
+Kasturba Gandhi Residential Girls Schools (KGRG) at Amethi District, 
+Uttar Pradesh.
+900
+Approx. 36%
+	
+Note: Beneficiaries are on daily basis [Sl. No: 2, 3, 5, 6 and 10-13].
+Hindustan Aeronautics Limited
+134
+PRINCIPLE 9:
+Businesses should engage with and provide value to their consumers  in a responsible manner
+Essential Indicators
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+Defence forces have a well-established, structured and periodic meetings for raising issues. Same is being followed and 
+complied by HAL. These documents are treated as confidential by Defence forces. Internally, the issues are being monitored 
+at Corporate level and a monthly updates on the same are being forwarded to the Customers. 
+2.	
+Turnover of products and/ services as a percentage of turnover from all products/service that carry information 
+about:
+As a percentage to total turnover
+Environmental and social parameters 
+relevant to the product
+The main products of the Company are Aircraft, Helicopters, Engines and 
+other accessories for use in strategic/national security applications. Hence, Not 
+Applicable
+Safe and responsible usage
+100%
+Recycling and/or safe disposal
+The main products of the Company are Aircraft, Helicopters, Engines and other 
+accessories for use in strategic/national security applications. Once the products 
+are sold they would not come back to the Company. Hence not applicable.
+3.	
+Number of consumer complaints in respect of the following:
+FY 2023-24
+Remarks
+FY 2022-23
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution 
+at end of 
+year
+Received 
+during the 
+year
+Pending 
+resolution 
+at end of 
+year
+Data privacy
+-
+-
+-
+-
+-
+-
+Advertising
+-
+-
+-
+-
+-
+-
+Cyber-security
+-
+-
+-
+-
+-
+-
+Delivery of essential services
+197#
+0
+-
+171#
+0
+-
+Restrictive Trade Practices
+-
+-
+-
+-
+-
+-
+Unfair Trade Practices
+-
+-
+-
+-
+-
+-
+Other
+	
+# The issues have been deliberated in structured meeting with Customers and have been attended
+4.	
+Details of instances of product recalls on account of safety issues:        
+Number
+Reason for recall
+Voluntary Recalls
+NIL
+NA
+Forced Recalls
+NIL
+NA
+5.	
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, 
+provide a web-link of the policy.
+	
+Yes. Web link of the cyber security policy is 
+https://hal-india.co.in/backend/wp-content/uploads/2023/03/Cyber_Security_Policy.pdf
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of 
+essential services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; 
+penalty / action taken by regulatory authorities on safety of products / services.                        
+	
+HAL’s customers being the defence forces, the information is confidential.
+Annual Report 2023-24
+135
+7.	
+Provide the following information relating to data breaches:
+	
+a.	
+Number of instances of data breaches
+	
+	
+There are no instances of data breaches
+	
+b.	
+Percentage of data breaches involving personally identifiable information of customers:
+	
+	
+Not Applicable
+	
+c.	
+Impact, if any, of the data breaches:  
+	
+	
+Not Applicable
+Leadership Indicators
+1.	
+Channels / platforms where information on products and services of the entity can be accessed (provide web link, 
+if available).
+	
+Information on products and services are available at HAL website www.hal-india.co.in
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.
+	
+The main products of the Company are Aircraft, Helicopters, Engines and other accessories for use in strategic/national 
+security applications by Indian Armed Forces. HAL provides training and all the necessary documents pertaining to all products 
+of the Company to Customers.
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.
+	
+The main products of the Company are Aircraft, Helicopters, Engines and other accessories for use in strategic/national 
+security applications by Indian Armed Forces. HAL is committed to provide support to Indian Armed Forces till our product is 
+in service.
+4.	
+Does the entity display product information on the product over and above what is mandated as per local laws? 
+(Yes/No/Not Applicable) If yes, provide details in brief. Did your entity carry out any survey with regard to 
+consumer satisfaction relating to the major products / services of the entity, significant locations of operation of 
+the entity or the entity as a whole? (Yes/No)
+	
+Not Applicable
+Hindustan Aeronautics Limited
+136
+Independent Assurance Statement
+To,
+The Board, 
+Hindustan Aeronautics Limited
+15/1, Cubbon Road, 
+Bengaluru – 560 001, Karnataka.
+Scope and Approach
+Sustainability Actions Private Limited (“SAPL”) has been 
+engaged by management of Hindustan Aeronautics Limited 
+(“HAL” or “the Company”), to perform an independent 
+reasonable assurance engagement of the Company’s Business 
+Responsibility and Sustainability Report (BRSR) Core Matrices 
+(refer to Annexure 1) for the FY 23-24.
+Reporting Criteria
+The Report is prepared based on BRSR Core Framework 
+(Annexure I of the SEBI circular SEBI/HO/CFD/CFD-SEC-2/P/
+CIR2023/122 dated July12, 2023 and “Guidance Note for 
+Business Responsibility and Sustainability Reporting Format” 
+by Securities and Exchange Board of India (SEBI)
+Management Responsibilities
+The Company’s Management is responsible for identification 
+of key aspects, content and presentation of the Business 
+Responsibility and Sustainability Report in accordance with 
+the Criteria mentioned above. This responsibility includes the 
+design, implementation and maintenance of internal control 
+relevant to the preparation of the Business Responsibility and 
+Sustainability Report and measurement of BRSR Core Matrices 
+which are free from material misstatement, whether due to 
+fraud or error.
+Independence and Quality Control
+We are independent from the entity in accordance with the 
+requirements of independence and quality assurance set out 
+in BRSR provisions and professional pronouncements and have 
+fulfilled our additional professional obligations in accordance 
+with these requirements.
+Our assurance engagements are based on the assumption 
+that the data and information provided by the Company to 
+us as part of our review have been provided in good faith and 
+free from material misstatements. We were not involved in the 
+preparation of any statements or data included in the report 
+except for Assurance Statement.
+Our firm applies International Standard on Quality Management 
+and accordingly maintains a comprehensive system of quality 
+control including documented policies and procedures 
+regarding compliance with ethical requirements, professional 
+standards and applicable legal and regulatory requirements.
+Our Responsibility
+Our responsibility is to express a reasonable assurance conclusion 
+on the BRSR Core Matrices, based on the procedures we have 
+performed and the evidence we have obtained. We conducted 
+our engagement in accordance with the International Standard 
+for Assurance Engagements Other Than Audits or Reviews of 
+Historical Financial Information (‘ISAE 3000’), and the terms 
+of reference for this engagement as agreed with HAL. Those 
+standards require that we plan and perform our engagement 
+to obtain reasonable assurance about whether, in all material 
+respects, the Subject Matter is presented in accordance with 
+the Criteria, and to issue a report. The nature, timing, and 
+extent of the procedures selected depend on our judgment, 
+including an assessment of the risk of material misstatement, 
+whether due to fraud or error.
+We believe that the evidence obtained is sufficient and 
+appropriate to provide a basis for our limited assurance 
+conclusions.
+Basis of our Opinion
+We planned and performed our work to obtain the evidence 
+we considered necessary to provide a basis for our assurance 
+opinion and the process did not involve engagement with 
+external stakeholders. We carried out one-to-one discussions, 
+onsite and remote assessments.
+As part of our assurance process, a multi-disciplinary team of 
+sustainability and assurance specialists reviewed the disclosures 
+presented within the Report and referenced information, and 
+sampled the disclosures and were reviewed through the HAL’s 
+customised sustainability information management system.
+We undertook the following activities:
+• 
+Obtained an understanding of the BRSR core matrices ;
+• 
+Interviewed selected senior managers responsible for 
+management of sustainability topics and reviewed selected 
+evidences to support issues disclosed in the Report. We 
+were free to choose interviewees and interviewed those 
+with overall responsibility to deliver HAL’s sustainability 
+objectives;
+• 
+Reviewed processes and systems for aggregating site level 
+sustainability information, that is, reviewed sustainability 
+disclosures for selected sites as well as the overall data 
+aggregated and consolidated at the Corporate level from 
+the Company’s sustainability management system;
+• 
+Review of the processes for gathering and consolidating 
+the selected performance data related to identified material 
+topics and, for a sample, checking the data consolidation 
+in context under the Principle of Completeness.
+Annual Report 2023-24
+137
+Based on the above understanding and the risks that the 
+matrices may be materially misstated, determined the nature, 
+timing and the extent of further procedures, reviewed records 
+and performed testing including recalculation of sample data 
+to establish an audit trail.
+Opinion
+Based on the procedures we have performed and the evidence 
+we have obtained, nothing has come to our attention that 
+causes us to believe that the company’s identified sustainability 
+criteria as per BRSR core framework (refer to Annexure 1) 
+for the year ended 31st March 2024 are not prepared, in all 
+material respects, in accordance with the Reporting Criteria.
+Inherent Limitations
+We have relied on the information, documents, records, data, 
+and explanations provided to us by the Company for the 
+purpose of our review. The assurance scope excludes:
+• 
+Any disclosure other than those mentioned in the scope 
+section above
+• 
+Data and information outside the defined reporting period
+• 
+Data related to Company’s financial performance, strategy 
+and other related linkages expressed in the Report.
+• 
+The reported financial data are based on audited financial 
+statements issued by the Company’s statutory auditors 
+which is subject to a separate audit process. We were not 
+involved in the review of financial data from the Annual 
+Report.
+• 
+The Company’s statements that describe expression of 
+opinion, belief, aspiration, expectation, forward looking 
+statements provided by the Company and assertions 
+related to Intellectual Property Rights and other competitive 
+issues.
+• 
+Mapping of the Report with reporting frameworks other 
+than those mentioned in Reporting Criteria above.
+• 
+While we considered the effectiveness of management’s 
+internal controls when determining the nature and extent 
+of our procedures, our assurance engagement was not 
+designed to provide assurance on internal controls.
+• 
+The procedures did not include testing controls or 
+performing procedures relating to checking aggregation 
+or calculation of data within IT systems.
+For and behalf of Sustainability Actions Pvt. Ltd.
+(CIN – U74999HR2021PTC093811)
+Saket Sinha
+(Director)
+Date: 27/05/2024
+Place: Gurgaon, India
+Hindustan Aeronautics Limited
+138
+Annexure – 1
+BRSR Core attributes
+BRSR Indicator
+Type of Assurance
+P1 E8
+Number of days of accounts payable
+Reasonable
+P1 E9
+Concentration of purchases & sales done with trading houses, dealers and related parties 
+Loans and advances & investments with related parties
+Reasonable
+P3 E1c
+Spending on measures towards well-being of employees and workers – cost incurred as a 
+% of total revenue of the company
+Reasonable
+P3 E11
+Details of safety related incidents including lost time injury frequency rate, recordable work-
+related injuries, no. of fatalities
+Reasonable
+P5 E3b
+Gross wages paid to females as % of wages paid
+Reasonable
+P5 E7
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, 
+Prohibition and Redressal) Act, 2013, including complaints reported, complaints as a % of 
+female employees and complaints upheld
+Reasonable
+P6 E1
+Details of total energy consumption (in Joules or multiples)
+Reasonable
+P6 E1
+Details of total energy intensity
+Reasonable
+P6 E3
+Provide details of water withdrawal by source
+Reasonable
+P6 E3
+Provide details of water consumption
+Reasonable
+P6 E4
+Provide details of water discharged
+Reasonable
+P6 E6
+Details of Air Emissions (Other than GHG emissions)
+Reasonable
+P6 E7
+Provide details of greenhouse gas emissions (Scope 1)
+Reasonable
+P6 E7
+Provide details of greenhouse gas emissions (Scope 2)
+Reasonable
+P6 E7
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2) intensity
+Reasonable
+P6 E9
+Provide details related to waste generated by category of waste
+Reasonable
+P6 E9
+Provide details related to waste recovered through recycling, re-using or other recovery 
+operations
+Reasonable
+P6 E9
+Provide details related to waste disposed by nature of disposal method
+Reasonable
+P8 E4
+Input material sourced from following sources as % of total purchases – Directly sourced 
+from MSMEs / small producers and from within India
+Reasonable
+P8 E5
+Job creation in smaller towns
+Reasonable
+P9 E7
+Instances involving loss / breach of data of customers as a percentage of total data breaches 
+or cyber security events
+Reasonable
+Annual Report 2023-24
+139

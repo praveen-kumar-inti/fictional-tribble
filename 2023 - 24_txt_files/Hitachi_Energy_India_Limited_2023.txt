@@ -1,0 +1,4759 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Hitachi Energy India Limited 
+ 
+Registered and Corporate Office: 
+8th Floor, Brigade Opus, 70/401,  
+Kodigehalli Main Road, Bengaluru – 560 092,  
+Phone: 080 68473700 
+CIN: L31904KA2019PLC121597 
+www.hitachienergy.com/in 
+ 
+July 22, 2024 
+ 
+The Secretary, 
+Listing Department, 
+BSE Limited, 
+ 
+ 
+1st Floor, Phiroze Jeejeebhoy Towers, 
+Dalal Street,  
+Mumbai - 400 001 
+Scrip Code: 543187 
+The Manager, 
+Listing Department, 
+National Stock Exchange of India Limited, 
+‘Exchange Plaza’, 5th Floor, Plot No. C/1, G Block,  
+Bandra Kurla Complex, Bandra (East), 
+Mumbai - 400 051 
+Scrip Symbol: POWERINDIA 
+ 
+ 
+Subject: Business Responsibility and Sustainability Report for the financial year 2023-24 
+ 
+Dear Sir/ Madam, 
+ 
+Pursuant to Regulation 34(2)(f) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015     
+(SEBI Listing Regulations), please find enclosed the Business Responsibility and Sustainability Report (BRSR) of the 
+Company for the financial year 2023-24, which also forms part of the Integrated Annual Report for the financial             
+year 2023-24 submitted to the exchanges vide our letter dated July 22, 2024. 
+ 
+The same can also be accessed on the website of the Company at: https://www.hitachienergy.com/in/en/investor-
+relations/general-meetings#annual-report.  
+ 
+We request you to take this on record and to treat the same as compliance with the applicable provisions of the SEBI 
+Listing Regulations. 
+ 
+Thank you, 
+ 
+Yours faithfully, 
+ 
+For Hitachi Energy India Limited  
+ 
+ 
+ 
+ 
+Poovanna Ammatanda 
+General Counsel and Company Secretary 
+ 
+Encl.: as above 
+HITACHI 
+lnspire the Next 
+@Hitachi Energy 
+Ammatanda 
+Chinnappa Poovanna
+Digitally signed by Ammatanda 
+Chinnappa Poovanna 
+Date: 2024.07.22 20:41:17 
++05'30'
+Business Responsibility &  
+Sustainability Report
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of the listed entity 
+Particulars
+Response
+1
+Corporate Identity Number (CIN) of the Listed Entity
+L31904KA2019PLC121597
+2.
+Name of the Listed Entity
+Hitachi Energy India Limited (“the Company”)
+3.
+Year of incorporation
+2019 (February 19, 2019)
+4.
+Registered office address
+8th Floor, Brigade Opus, 70/401, Kodigehalli Main Road,  
+Bengaluru - 560 092
+5.
+Corporate address
+8th Floor, Brigade Opus, 70/401, Kodigehalli Main Road,  
+Bengaluru - 560 092
+6.
+E-mail
+investors@hitachienergy.com
+(For investors)
+poovanna.ammatanda@hitachienergy.com
+(e-mail ID of Compliance Officer and Nodal Officer)
+7.
+Telephone
+080-68473700
+8.
+Website
+https://www.hitachienergy.com/in/en
+9.
+Financial year for which reporting is being done
+FY 2023-24
+(April 1, 2023 to March 31, 2024)
+10.
+Name of the Stock Exchange(s) where shares are listed
+BSE Limited (BSE) and National Stock Exchange of India Limited 
+(NSE)
+11.
+Paid-up Capital
+H 8,47,63,350/- divided into 4,23,81,675 Equity shares of H 2/- each
+12.
+Name and contact details (telephone, email address) of the person 
+who may be contacted in case of any queries on the BRSR report
+Binupriya A R
+(Telephone: 080-68473719)
+E-mail: binupriya.a-r@hitachienergy.com
+13.
+Reporting boundary - Are the disclosures under this report made 
+on a standalone basis (i.e., only for the entity) or on a consolidated 
+basis (i.e., for the entity and all the entities which form a part of its 
+consolidated financial statements, taken together).
+Standalone basis
+14.
+Name of assurance provider
+NA
+15.
+Type of assurance obtained
+NA
+II.	
+Products/services
+	
+16.	 Details of business activities (accounting for 90% of the turnover):
+Sr. 
+No.
+Description of Main Activity
+Description of Business Activity
+% of Turnover of 
+the entity
+1
+Sale of products
+Design, manufacturing/configuration & supply of system, equipment, devices 
+and accessories products
+69.58
+2
+Execution of contracts for 
+projects and services
+Project and service engineering, installation, commissioning and support
+25.19
+	
+17.	 Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+Sr. 
+No.
+Product/Service
+NIC Code
+% of total Turnover 
+contributed
+1
+Manufacture of electric motors, generators, transformers and electricity distribution and 
+control apparatus
+271
+69.58
+2
+Projects and services of related manufactured electrical equipment.
+279
+25.19
+65
+Hitachi Energy India Limited | Integrated Annual Report 2023-24
+Financial Statements
+Statutory Reports
+ Integrated Report
+Corporate Overview
+III.	 Operations
+	
+18.	 Number of locations where plants and/or operations/offices of the entity are situated: 
+Location
+Number of plants
+Number of offices
+Total
+National
+81
+122
+19
+International
+0
+33
+3
+	
+	
+1 8 Plants with factory licenses containing 19 unique manufacturing lines.
+	
+	
+2 12 Sales offices
+	
+	
+3 International sales offices: Bangladesh, Nepal and Sri Lanka
+	
+19.	 Markets served by the entity:
+	
+	
+a)	
+Number of locations
+Locations
+Number
+National (No. of States)
+All states & Union Territories
+International (No. of Countries)
+70+ countries
+	
+	
+b)	
+What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+	
+	
+24.50
+	
+	
+c)	
+A brief on types of customers
+	
+	
+	
+The Company serves a wide range of customers – Public & Private Power & Energy Utilities, Industries, Transportation, 
+and Infrastructure companies. These include EPCs (Engineering, Procurement & Construction) & OEMs (Original 
+Equipment Manufacturer) operating in the above segments.
+IV.	 Employees
+	
+20.	 Details as at the end of the Financial Year:
+	
+	
+a)	
+Employees and workers (including differently abled):
+Sr. 
+No.
+Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+EMPLOYEES
+1
+Permanent (D)
+1810
+1625
+90
+185
+10
+2
+Other than Permanent (E)
+64
+53
+83
+11
+17
+3
+Total employees (D + E)
+1874
+1678
+90
+196
+10
+WORKERS
+4
+Permanent (F)
+565
+562
+99
+3
+1
+5
+Other than Permanent (G)
+532
+491
+92
+41
+8
+6
+Total employees (F + G)
+1097
+1053
+96
+44
+4
+	
+	
+b)	
+Differently abled Employees and workers:
+Sr. 
+No.
+Particulars
+Total
+(A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+DIFFERENTLY ABLED EMPLOYEES
+1
+Permanent (D)
+0
+0
+0
+0
+0
+2
+Other than Permanent (E)
+0
+0
+0
+0
+0
+3
+Total employees (D + E)
+0
+0
+0
+0
+0
+DIFFERENTLY ABLED WORKERS
+4
+Permanent (F)
+9
+8
+89
+1
+11
+5
+Other than Permanent (G)
+6
+6
+100
+0
+0
+6
+Total employees (F + G)
+15
+14
+93
+1
+7
+66
+	
+21.	 Participation/ Inclusion/ Representation of women
+Particulars
+Total
+(A)
+No. and percentage of Females
+No. (B)
+% (B/A)
+Board of Directors
+6
+2
+33.33
+Key Management Personnel
+3
+0
+0
+	
+22.	 Turnover rate for permanent employees and workers
+	
+	
+(Disclose trends for the past 3 years)
+Particulars
+Turnover rate in the current FY
+FY 2023-24
+April 2023 and March 2024
+FY 2022-23
+April 2022 and March 2023
+FP 2021-22
+January 2021 and March 2022
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+10.37%
+19.64%
+11.24%
+11.2%
+21.02%
+12.0%
+9.1%
+13.8%
+9.4%
+Permanent Workers
+1.79%
+28.57%
+1.96%
+0.2%
+0.0%
+0.2%
+4.1%
+20.0%
+4.2%
+V.	
+Holding, Subsidiary and Associate Companies (including joint ventures)
+	
+23.	 (a)	 Names of holding/ subsidiary/ associate companies/ joint ventures
+Sr. 
+No.
+Name of the holding/ subsidiary/ 
+associate companies/ joint ventures (A)
+Indicate whether 
+holding/ Subsidiary/ 
+Associate/ Joint 
+Venture
+% of shares held by 
+the listed entity
+Does the entity indicated at column 
+A, participate in the Business 
+Responsibility initiatives of the 
+listed entity? (Yes/No)
+1.
+Hitachi Energy Ltd. (formerly known as 
+Hitachi ABB Power Grids Ltd.)
+Holding
+75
+No
+VI.	 CSR Details
+	
+24.	 (i)	
+Whether CSR is applicable as per Section 135 of the Companies Act, 2013: (Yes/No) - Yes
+	
+	
+(ii)	
+Turnover (in H): 5,237.49 Crores (As on March 31, 2024)
+	
+	
+(iii)	
+Net worth (in H): 1,359.87 Crores (As on March 31, 2024)
+VII.	 Transparency and Disclosures Compliances
+	
+25.	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+Stakeholder 
+group from whom 
+the complaint is 
+received
+Grievance Redressal 
+Mechanism in Place (Yes/No) 
+(If Yes, then provide web-link 
+for the grievance redress 
+policy)
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year
+Number of 
+complaints 
+filed during 
+the year.
+Number of 
+complaints 
+pending 
+resolution at 
+the close of 
+the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+the close of 
+the year
+Remarks
+Communities
+Yes
+https://www.hitachienergy.
+com/in/en/contact-us
+0
+0
+Nil
+0
+0
+Nil
+Investors (other 
+than shareholder)
+https://www.hitachienergy.
+com/in/en/investor-
+relations#quick-links
+0
+0
+Nil
+0
+0
+Nil
+Shareholder
+https://scores.gov.in/scores/
+Welcome.html
+13
+0
+Nil
+3
+0
+Nil
+Employees and 
+workers
+https://secure.ethicspoint.
+eu/domain/media/en/
+gui/109107/report.html
+11
+0
+Nil
+6
+0
+Nil
+Customers
+https://www.hitachienergy.
+com/in/en/contact-us
+620
+47
+Nil
+523
+83
+Nil
+Value Chain 
+Partners
+https://www.hitachienergy.
+com/in/en/contact-us
+0
+0
+Nil
+0
+0
+Nil
+Other (Media, 
+General enquiries, 
+sales)
+https://www.hitachienergy.
+com/in/en/contact-us
+0
+0
+Nil
+0
+0
+Nil
+67
+Hitachi Energy India Limited | Integrated Annual Report 2023-24
+Financial Statements
+Statutory Reports
+ Integrated Report
+Corporate Overview
+	
+26.	 Overview of the entity’s material responsible business conduct issues
+	
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or 
+mitigate the risk along-with its financial implications, as per the following format.
+Sr. 
+No.
+Material issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R / O)
+Rationale for identifying the  
+risk/opportunity
+In case of risk, approach to  
+adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+1
+Safe, healthy, and 
+secure operations
+Risk
+Health and Safety is our license 
+to operate. Our employees work 
+at manufacturing sites as well 
+as project sites where they are 
+exposed to various hazards. 
+Therefore, it is pertinent to 
+identify risks through a robust 
+risk assessment process and 
+implement effective controls to 
+mitigate our risks.
+Safety is vital to our ‘license to 
+operate’ and being a business that 
+people want to work for or with. 
+We minimize risk of harm and are 
+committed to eradicating fatalities and 
+life-changing injuries
+We foster:
+- Positive health and well-being work 
+environments
+- Safe working conditions as well as 
+continual improvement
+- Environmental protection to minimize 
+our impact
+- Learnings from successes and 
+failures
+- Trust by open reporting and through 
+external validation
+Negative
+2
+Climate change 
+and carbon 
+neutrality
+Opportunity / 
+Risk
+Climate risk is an opportunity 
+to transition to low carbon 
+technologies and alternate fuels 
+as well as augment our energy 
+conservation efforts. Climate 
+change is a risk for business 
+continuity due to physical 
+risks such as extreme weather 
+conditions impacting business 
+operations, value chain and 
+community.
+Risks are addressed through the 
+Company’s Sustainability 2030 
+strategy advancing in four key areas: 
+Planet, People, Peace, Partnerships 
+each having corresponding targets, 
+which are closely aligned to the UN 
+Sustainable Development Goals, 
+adding social, environmental and 
+economic value.
+Positive
+3
+Resource efficiency 
+and circular 
+economy
+Opportunity
+Opportunity to identify resource 
+conservation and waste 
+minimization through efficient 
+processes, adoption of new 
+technologies, reuse of packaging 
+materials, and recycling wastes 
+thereby promoting circular 
+economy.
+NA
+Positive
+4
+Sustainable 
+products, services, 
+and solutions
+Opportunity
+Opportunity to identify 
+sustainable raw materials for 
+productions; improve energy 
+efficiency for our clients through 
+our products and solutions
+NA
+Positive
+5
+Responsible 
+Sourcing
+Risk
+Managing sourcing of materials 
+across the supply chain and 
+comply with regulatory and 
+customer requirements regarding 
+the prohibition and restriction of 
+substances, including hazardous 
+substances and responsible 
+sourcing of conflict minerals.
+Integrating sustainable practices in to 
+supply chain procedures.
+Follow the OECD (Organization 
+for Economic Cooperation and 
+Development) due diligence guidance 
+and be involved in relevant trade 
+associations to define and improve 
+best practices and encourage 
+responsible sourcing.
+Negative
+68
+Sr. 
+No.
+Material issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R / O)
+Rationale for identifying the  
+risk/opportunity
+In case of risk, approach to  
+adapt or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+6
+Well-being of 
+employees
+Opportunity
+Good personal health and 
+well‑being also require everyone 
+to do what they can to look after 
+themselves and others.
+Health is an opportunity to 
+motivate behavior change and 
+increase engagement with better 
+health practices; increase our 
+support for mental well-being 
+and provide safe workplaces and 
+working conditions for all our 
+employees
+NA
+Positive
+7
+Diversity
+Opportunity
+The Company believes in 
+integrating diversity and inclusion 
+into all our practices and policies 
+and foster female acceleration 
+through our Female Talent 
+Development Program.
+The Company’s sustainability 
+2030 targets include increasing 
+female diversity from 5.8% in 
+2019 to 16-20% by 2030.
+NA
+Positive
+8
+Human rights and 
+labor conditions
+Risk
+Identification, evaluation and 
+managing Human Rights risks 
+in its operation and supply chain 
+and its consequences.
+Human Rights policy and control 
+standard is in place to evaluate 
+Human Rights risks at all levels of 
+operations.
+Supplier Sustainability Development 
+Program (SSDP) is a supplier 
+engagement initiative, to uphold 
+human rights and decent working 
+conditions.
+Negative
+9
+Integrity and  
+anti-corruption
+Risk
+The Company behaves in an 
+ethical, legal, and responsible 
+way. Lack of adherence can have 
+consequences i.e., reputational 
+damage with the top line adverse 
+effect; unattractive employer for 
+top talent; regulatory fines and 
+penalties etc.
+The Company has a very stringent 
+policy on integrity that applies to all. 
+The Company’s Code of Conduct 
+provides a framework for employees 
+and stakeholders to put business 
+principles into practice with utmost 
+integrity. The Company regularly 
+evaluates culture of integrity, and 
+non‑compliance is strictly acted upon.
+Negative
+10
+Developing our 
+people
+Opportunity
+Cultivating life-long learning 
+and creating inclusive learning 
+opportunities, The Company 
+fosters innovation.
+NA
+Positive
+69
+Hitachi Energy India Limited | Integrated Annual Report 2023-24
+Financial Statements
+Statutory Reports
+ Integrated Report
+Corporate Overview
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting the 
+NGRBC Principles and Core Elements.
+P1
+Businesses should conduct and govern themselves with integrity and in a manner that is ethical, transparent and accountable
+P2
+Businesses should provide goods and services in a manner that is sustainable and safe
+P3
+Businesses should respect and promote the well-being of all employees, including those in their value chains
+P4
+Businesses should respect the interests of and be responsive to all its stakeholders
+P5
+Businesses should respect and promote human rights
+P6
+Businesses should respect and make efforts to protect and restore the environment
+P7
+Businesses when engaging in influencing public and regulatory policy, should do so in a manner that is responsible and transparent
+P8
+Businesses should promote inclusive growth and equitable development
+P9
+Businesses should engage with and provide value to their consumers in a responsible manner
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1.	 a)	 Whether your entity’s policy/policies cover each principle 
+and its core elements of the NGRBCs. (Yes/No)
+Yes
+	
+b)	 Has the policy been approved by the Board? (Yes/No)
+Yes
+	
+c)	 Web-Link of the Policies, if available
+Please refer to the section on ‘Links to the Company Policies and Programs’ at 
+the end of this Report.
+2.	 Whether the entity has translated the policy into procedures. 
+(Yes/No)
+Yes
+3.	 Do the enlisted policies extend to your value chain partners? 
+(Yes/No)
+Yes
+4.	 Name of the national and international codes/ certifications/
+labels/ standards (e.g., Forest Stewardship Council, Fairtrade, 
+Rainforest Alliance, Trustea) standards (e.g., SA 8000, OHSAS, 
+ISO, BIS) adopted by your entity and mapped to each principle.
+The following management systems have been implemented.
+ISO 9001: 2015 Quality Management System
+ISO 14001: 2015 Environment Management System
+ISO 45001: 2018 Occupational Health & Safety Management System.
+ISO 37001: 2016 Anti-Bribery Management System
+5.	 Specific commitments, goals and targets set by the entity with 
+defined timelines, if any.
+The Company in alignment with its global Sustainability 2030 strategic business 
+plan has taken the following goals against 2019 baseline.
+-	
+50% CO2 emissions reduction along the value chain
+-	
+50% reduction in waste disposed.
+-	
+25% reduction in freshwater use
+-	
+25% reduction in hazardous substances and chemicals
+-	
+Zero harm
+-	
+Top quartile health absence rates
+-	
+Life-long learning culture
+-	
+Increase female diversity from 5.8% to 16-18% by 2030.
+-	
+Zero incidents of corruption and bribery
+-	
+Increase involvement in multi-stakeholder partnerships
+6.	 Performance of the entity against the specific commitments, 
+goals and targets along-with reasons in case the same are not 
+met
+The Company’s global goals and targets are cascaded to business units who 
+work on achieving the targets. Performance is monitored at the Company level 
+and support extended to local teams where required. The Company is steadily 
+progressing towards achieving its 2030 target.
+Governance, leadership and oversight
+7.	 Statement by director responsible for the business responsibility 
+report, highlighting ESG related challenges, targets and 
+achievements (listed entity has flexibility regarding the 
+placement of this disclosure) 
+We are serious in our commitment to drive our business in a sustainable way. We 
+have been consistent in our efforts to decarbonize our operations and in ensuring 
+welfare of our stakeholders. We have made considerable progress towards 
+achieving our Sustainability 2030 goals in all areas.
+8.	 Details of the highest authority responsible for implementation 
+and oversight of the Business Responsibility policy(ies).
+Nuguri Venu, Managing Director & CEO
+70
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+9.	 Does the entity have a specified Committee of the Board/ 
+Director responsible for decision-making on sustainability 
+related issues? (Yes/No). If yes, provide details.
+Yes, Environmental, Social and Governance (ESG) Committee (constituted 
+w.e.f. October 22, 2021)
+Composition of Committee:
+Ms. Meena Ganesh* (DIN: 00528252)
+Chairperson of Committee - Independent Director (Non-Executive Director)
+Ms. Akila Krishnakumar (DIN: 06629992)
+Member of Committee - Independent Director (Non-Executive Director)
+Mr. Achim Michael Braun (DIN: 08596097)
+Member of the Committee - Non-Executive Director and Chairman of the 
+Company
+Mr. Nuguri Venu (DIN: 07032076)
+Member of Committee - Executive Director (Managing Director and CEO)
+* Ms. Meena Ganesh (DIN: 00528252) was appointed as Independent Director and Ms. Nishi Vasudeva (DIN: 03016991) resigned from the position 
+of Independent Director of the Company effective from May 24, 2023. Pursuant to this, the Committee has been reconstituted by inducting 
+Ms. Meena Ganesh as Chairperson of the Committee in place of Ms. Nishi Vasudeva.
+10.	Details of Review of NGRBCs by the Company:
+Subject for review
+Indicate whether review was undertaken by Director/ 
+Committee of the Board/ Any other Committee
+Frequency
+(Annually/ Half yearly/ Quarterly/ Any other - please 
+specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against the 
+above policies and follow up 
+action
+Yes
+Annually and/or on a need basis
+Compliance with statutory 
+requirements of relevance 
+to the principles, and 
+rectification of any non-
+compliances
+Yes
+Quarterly and/or on a need basis
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+11.	Has the entity carried out independent Assessment/evaluation 
+of the working of its policies by an external agency? Yes/No. If 
+yes, provide name of agency.
+No
+12.	If answer to question (1) above is “No” i.e., not all Principles are 
+covered by a policy, reasons to be stated:
+Not Applicable
+Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity does not consider the Principles material to its business 
+(Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+The entity is not at a stage where it is in a position to formulate and 
+implement the policies on specified principles (Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+The entity does not have the financial or/human and technical 
+resources available for the task (Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+It is planned to be done in the next financial year (Yes/No)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Any other reason (please specify)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core Elements with key 
+processes and decisions. The information sought is categorized as “Essential” and “Leadership”. While the essential indicators are 
+expected to be disclosed by every entity that is mandated to file this report, the leadership indicators may be voluntarily disclosed by 
+entities which aspire to progress to a higher level in their quest to be socially, environmentally and ethically responsible.
+PRINCIPLE 1: Businesses should conduct and govern themselves with integrity, and in a manner that is 
+Ethical, Transparent and Accountable.
+Integrity, transparency, and accountability
+The Company’s Code of Ethics and Business Conduct consists of rules and principles to assist leaders and employees in making 
+decisions and acting ethically and in line with the Company’s Identity. The Company has developed and implemented a systematic 
+approach designed to prevent, detect and resolve any potential integrity concerns. This is supported by tools and processes and a 
+zero-tolerance policy for any violations.
+71
+Hitachi Energy India Limited | Integrated Annual Report 2023-24
+Financial Statements
+Statutory Reports
+ Integrated Report
+Corporate Overview
+Essential indicators
+1.	
+Percentage coverage by training and awareness programs on any of the Principles during the financial year: 
+Segment
+Total number of training 
+and awareness programs 
+held
+Topics/principles covered under the 
+training and its impact
+%age of persons in respective 
+category covered by the 
+awareness programs
+Board of Directors
+2
+Ethics and Code of Conduct 
+Anti-bribery and anti-corruption
+Antitrust and Competition Law
+100
+Key Managerial Personnel
+4
+Ethics and Code of Conduct
+Anti-bribery and anti-corruption
+Antitrust and Competition Law
+100
+Employees other than BOD and KMP
+29*
+Ethics and Code of Conduct
+Anti-bribery and anti-corruption
+Antitrust and Competition Law
+100
+Workers
+32
+Ethics and Code of Conduct
+Anti-bribery and anti-corruption
+Antitrust and Competition Law
+100
+	
+* Conducted as part of induction to new employees and yearly once through e-learning platform for management staff; trainings are available 
+in 2 levels – basic and advanced.
+2.	
+Details of fines/ penalties/ punishment/ award/ compounding fees/ settlement amount paid in proceedings (by 
+the entity or by directors/ KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial 
+year, in the following format (Note: the entity shall make disclosures on the basis of materiality as specified in 
+Regulation 30 of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on the 
+entity’s website):
+Monetary
+Particulars
+NGRBC Principle
+Name of the regulatory/ 
+enforcement agencies/ 
+judicial institutions
+Amount in K
+Brief of the case
+Has an appeal 
+been preferred? 
+Yes/No
+Penalty/Fine
+P1
+Hon’ble Judge Labor 
+Court and JMFC 
+Godhra, Gujarat
+5,000
+Non-implementation 
+of 
+technical 
+measures such as safety audit and 
+biennial risk assessment for check‑up 
+in order to achieve reduction of 
+accident pursuant to Rule 12(c)(4)(e) of 
+the Gujarat Factory Rules, 1963
+No
+Settlement
+NIL
+NIL
+NIL
+NIL
+NIL
+Compounding
+NIL
+NIL
+NIL
+NIL
+NIL
+Non-Monetary
+Imprisonment
+NIL
+NIL
+NIL
+NIL
+NIL
+Punishment
+NIL
+NIL
+NIL
+NIL
+NIL
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/Revision preferred in cases where monetary 
+or non-monetary action has been appealed.
+Case details
+Name of the regulatory/ enforcement agencies/ judicial institutions
+NA
+NA
+4.	
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide 
+a web-link to the policy.
+	
+The Company’s Anti-corruption policy is stated explicitly in its Corporate Regulation PGR-LI-02 on anti-bribery and anti‑corruption 
+and emphasizes key components which are essential to ensuring a strict compliance to anti-bribery laws but also refraining 
+from corruption because it’s the right thing to do.
+	
+https://www.hitachienergy.com/about-us/integrity/commitment
+	
+The Company is certified for ISO:37001:2016 for Anti-bribery management systems.
+72
+5.	
+Number of Directors/ KMPs/ employees/ workers against whom disciplinary action was taken by any law 
+enforcement agency for the charges of bribery/ corruption:
+Particulars
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year
+Directors
+NIL
+NIL
+KMPs
+NIL
+NIL
+Employees
+NIL
+NIL
+Workers
+NIL
+NIL
+6.	
+Details of complaints with regard to conflict of interest:
+Particulars
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year
+Number
+Remarks
+Number
+Remarks
+Number of complaints received in relation to issue of conflict 
+of Interest of the Directors
+Nil
+Nil
+Nil
+Nil
+Number of complaints received in relation to issue of conflict 
+of Interest of the KMPs
+Nil
+Nil
+Nil
+Nil
+7.	
+Provide details of any corrective action taken or underway on issues related to fines/ penalties/ action taken by 
+regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+	
+Not applicable
+8.	
+Number of Days of Accounts payables (Accounts payable *365)/ Cost of goods/ services procured) in the 
+following format:
+Particulars
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year
+Number of days of accounts payables
+135
+145
+9.	
+Openness of business
+	
+Provide details of concentration of purchases and sales with trading houses, dealers, and related parties along-with loans and 
+advances & investments, with related parties in the following format:
+Parameter
+Metrics
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year*
+Concentration of 
+Purchases
+a)	 Purchases from trading houses 
+as % of total purchases
+4%
+-
+b)	 Number of trading houses where 
+purchases are made from
+3
+-
+c)	 Purchases from top 10 trading 
+houses as % of total Purchases 
+from trading houses
+4%
+-
+Concentration of 
+Sales
+a)	 Sales to dealers/ distributors as 
+% of total sales
+6.5%
+5.6%
+b)	 Number of Dealers/distributors to 
+whom sales are made
+94
+89
+c)	 Sales to top 10 dealers/
+distributors as % of total sales to 
+dealers/distributors
+<35%
+<48%
+Share of RPTs in
+a)	 Sales to top 10 dealers/
+distributors as % of total sales to 
+dealers/ distributors
+-
+-
+b)	 Sales (Sales to related parties/
+Total Sales)
+23.6%
+23.7%
+c)	 Loans & advances (Loans & 
+Advances given to related parties/
+Total loans & advances)
+Nil
+Nil
+	
+* Some data from previous year not included as information has been sourced and calculated from the current financial year only. 
+Leadership Indicators
+1.	
+Awareness programs conducted for value chain partners on any of the Principles during the financial year:
+73
+Hitachi Energy India Limited | Integrated Annual Report 2023-24
+Financial Statements
+Statutory Reports
+ Integrated Report
+Corporate Overview
+	
+The Supplier Sustainability Development Program (SSDP) is supplier engagement to uphold human rights and decent working 
+conditions, ensure safe and environmentally sound operations and comply with relevant regulatory requirements in supply chain. 
+Sustainable and compliant suppliers reduce risk of disruption and negative brand impact. Additionally, suppliers experience 
+operational benefits like improved on-time delivery, reduced machine breakdown, increased productivity, and overall reduction 
+in cost of manufacturing, thus becoming more efficient and effective”. In the year 2023-24, as a part of supplier sustainability 
+development program, the Company assessed 14 suppliers. Further during the year, the Company has been able to reduce 
+the risk level of previous years’ 14 suppliers to Low Risk.
+	
+1 supplier de sourced due to non-compliance of the Company’s Supplier code of conduct.
+	
+During current financial year 2023-24, The Company has trained and assessed 14 high risk supplier partners on SSDP. 
+Additionally, during this period, The Company has trained and developed 5 of its employees on SSDP, who have been certified 
+by Bureau Veritas as lead assessor and are able to conduct the supplier assessments independently.
+Total number of awareness 
+programs held
+Topics/principles covered under  
+the training
+% age of value chain partners covered (by value of business 
+done with such partners) under the awareness programs
+Nil
+Nil
+Nil
+2.	
+Does the entity have processes in place to avoid/manage conflict of interests involving members of the Board? 
+(Yes/No) If Yes, provide details of the same.
+	
+Yes, the Company has in place a Code of Conduct for Directors and Senior Management and Company level Code of Conduct 
+and Related party transaction policy to report any conflict of interest beforehand. Further, conflict of interest can also be flagged 
+by any person through whistle-blower mechanism.
+	
+The Integrity team handles any instance of conflict of interest reported related to any employee, Directors and Management and 
+outsiders, if required.
+PRINCIPLE 2: Businesses should provide goods and services in a manner that is sustainable and safe.
+Essential Indicators
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the 
+environmental and social impacts of product and processes to total R&D and capex investments made by the 
+entity, respectively.
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year
+Details of improvements in environmental and social impacts
+R&D
+NA
+NA Considering the nature of research and development, complexity, 
+competency required, time frame, amount and also to optimize 
+overall cost, all major R&D efforts are pooled centrally at the Group 
+level. The expenditure has been mainly in the nature of payment of 
+license fee for use of technology know-how reported as royalty and 
+technology fees under other expenses. Certain development activities 
+carried out by the Company have been billed to the Group central 
+technology center. Local R&D activities undertaken by the Company 
+were mainly in localizing the products, adoption of global products 
+to local environment, carrying out cost saving actions and other 
+improvements. During the year under review, the Company has paid 
+H 90.50 Crores as royalty and technology fees to Hitachi Energy 
+Switzerland Ltd. (CHPGS) and H 99.65 Crores to Hitachi Energy Ltd., 
+Switzerland (CHAMH). Further, during the financial year 2023-24, 
+CHPGS was merged with CHAMH.
+Capex
+H 1,35,63,252
+H 65,00,000 Key energy and water conservation projects include Smart Energy 
+monitoring systems, HVAC system optimization, HVLS installation 
+and chiller replacement in Vadodara, electrical retrofit projects such 
+as replacement of old drives and motors at Mysuru, compressor 
+optimization at Savli; installation of 9 solar street lights at Halol and 
+transitioning to LED lighting from conventional lighting across locations 
+for energy saving.
+Water saving projects include installation of 3 rainwater recharge wells 
+at Halol; leakage management at Maneja, Savli and Mysuru; reuse of 
+RO reject water at Maneja; installation of 23 digital water meters at 
+Maneja and 2 digital water meters at Mysuru
+74
+	
+HSE aspects are incorporated into R&D through:
+	
+Eco Design: Eco Design, also referred to as Environmentally Conscious Design (ECD), aims to reduce a product’s environmental 
+impact, while maintaining or improving its functionality of the product. Integration of environmental aspects as early as possible 
+into the product design and development process offers flexibility to make changes and improvements to our products. This 
+enables us to make effective decisions about environmental aspects that we control.
+	
+Safety in Design: Incorporating design solutions for identified hazards and reasonably foreseeable risks that may occur as 
+the product is manufactured, transported, installed, serviced and disposed of. The Company’s designers also consider the 
+behavior of design components in context of the product life span – for example, how often a component might fail during the 
+product life and the potential impacts of such failures. Consideration is also given to post-life aspects through the elimination 
+or minimization of exposure to toxic or environmentally damaging materials designed into the product.
+	
+HSE Checklist for the Company’s Gate Model: The HSE Checklist helps to identify key Health, Safety, Environmental 
+(HSE) and Sustainability aspects in the Company’s product and technology development projects. R&D systematically and 
+comprehensively identifies and assesses health, safety and environmental risks and opportunities.
+	
+Guideline for material selection: Environmental impact of a product is determined by the material and energy inputs 
+and outputs generated at all stages of its life cycle: raw-​material acquisition, manufacture, distribution, use and disposal. 
+Material selection guidance on for energy conservation, pollution prevention, resource conservation, promotion of a safe work 
+environment is provided to reduce impact of product on the environment.
+	
+Every year projects focusing on environmental improvements are identified in our operations as part of their environment 
+management program and budget allocated.
+1.	
+a)	
+Does the entity have procedures in place for sustainable sourcing? (Yes/No)
+	
+	
+Yes
+	
+	
+Our dedicated team of supply chain specialists provides partners with a clear framework, tools, and feedback, including a 
+Supplier Code of Conduct, and a clearly defined pathway to becoming a partner, the Supply Base Management Process. 
+To mitigate significant sustainability risks, we also offer our partners and employees support, training, and evaluation via 
+our Supplier Sustainability Development Program. Furthermore, we combine this internal program with independently 
+verified assessments developed with leading provider, EcoVadis.
+	
+	
+Although the Company does not source raw minerals and ores directly, our Responsible Minerals Sourcing Program 
+offers regular training and communications for our suppliers and internal teams on compliance with our Conflict Minerals 
+Policy. These initiatives help us ensure that our suppliers can assess, maintain, and improve their performance, remaining 
+long‑term partners.
+	
+	
+These sustainability programs target and promote sustainable practices within our partners, such as CO2 reduction, human 
+rights, environmental performance, and diversity through the use of trainings, evaluations, and development programs.
+	
+	
+These programs are as follows:
+•	 The Supply Base Management Process enables us to understand the performance of suppliers across the entire supply 
+chain life cycle.
+•	 The Supplier Sustainability Development Program (SSDP) targets suppliers with higher sustainability risks and offers 
+the program by prioritizing the partners according to a risk matrix.
+•	 The Sustainability Assessment via EcoVadis evaluates suppliers across four areas: environmental, social, ethics, and 
+supply chain. This assessment was launched in 2021 as to augment the SSDP.
+•	 The Responsible Minerals Sourcing Program identifies suppliers in the conflict minerals survey and offers regular 
+training and communications for our suppliers and internal teams to work toward ensuring compliance with our Conflict 
+Minerals Policy.
+	
+b)	
+If yes, what percentage of inputs were sourced sustainably?
+	
+	
+In transformer business, the major components include transformer oil, electric steel, copper, insulation material etc., which 
+comprises of 80% of the total input are sourced sustainably.
+	
+	
+In high voltage products, 100% products are sourced from the suppliers who are sustainable and follow sustainable 
+practices. Suppliers are onboarded only after getting qualified through the Supplier Sustainability Development Program 
+(SSDP). Subsequently, suppliers also undergo assessment from the Company.
+75
+Hitachi Energy India Limited | Integrated Annual Report 2023-24
+Financial Statements
+Statutory Reports
+ Integrated Report
+Corporate Overview
+2.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end 
+of life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+	
+The Company recycles plastics from packaging and fulfills its extended producer responsibility requirement. The Company has 
+taken several initiatives for waste reduction and recycling. Steel, copper, aluminum, oil and plastics make up the majority of our 
+products. Most of these materials are reclaimable at the end of a product’s life and we also ‘design to recycle’. Product manual 
+specifically provides information on safe disposal as per local legislation.
+3.	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes/No). If yes, whether 
+the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution 
+Control Boards? If not, provide steps taken to address the same.
+	
+Yes, as an importer, EPR is applicable under plastic packaging Category II. Waste collection plan is in line with the EPR plan 
+and is periodically submitted to Central pollution control board as per the regulatory requirement.
+Leadership Indicators
+1.	
+Has the entity conducted Life Cycle Perspective/Assessments (LCA) for any of its products (for manufacturing 
+industry) or for its services (for service industry)? If yes, provide details in the following format?
+	
+At the Company, life-cycle perspective means looking beyond our own operations to include our supply chain, the use of our 
+products, and their end of life.
+	
+Lifecycle Assessments (LCAs) are key, providing us with quantitative environmental information to improve the environmental 
+performance of our products, systems, and services. We assess our main product groups’ LCA impacts and provide 
+comprehensive information to customers and regulators. We perform LCAs according to ISO 14040 and 14044 for different 
+purposes (such as guiding product innovation and R&D processes or delivering LCA studies and environmental product 
+declarations to customers on request.
+	
+To address the complexity of our portfolio and the high customization of the systems we deliver, we perform LCAs for the base 
+solutions of systems such as High Voltage Direct Current (HVDC), Flexible Alternating Current Transmission Systems (FACTS), 
+grid connections, e-mobility solutions, and EconiQ products, among others. For our service solutions and project installations, 
+we are implementing tools that allow us and our customers to directly assess project-specific configurations from their early-
+stage development. Furthermore, we are further developing our internal capabilities and tools for establishing LCA assessments 
+in engineering, design and product development processes across all product lines and factories.
+NIC Code
+Name of Product/Service
+% of total 
+Turnover 
+contributed
+Boundary for which the 
+Life Cycle Perspective/  
+Assessment was 
+conducted
+Whether conducted 
+by independent 
+external agency
+(Yes/No)
+Results communicated in public 
+domain (Yes/No). If yes, provide 
+the web-link.
+27102
+Transformer including 
+Distribution Transformer/
+Power Transformer and
+Traction Transformer
+90% of 
+transformer 
+business unit 
+(LCA models 
+available)
+From material extraction, 
+processing to end-of-life 
+treatment
+Yes
+Yes  
+https://www.epditaly.it/en/epd-
+search/
+2.	
+If there are any significant social or environmental concerns and/or risks arising from production or disposal of 
+your products/services, as identified in the Life Cycle Perspective/Assessments (LCA) or through any other means, 
+briefly describe the same along-with action taken to mitigate the same.
+Name of Product/Service
+Description of the risk/concern
+Action Taken
+Transformers including Power/Distribution 
+and Traction transformer
+End of life disposal of Product
+Decommissioning guidelines available
+Instrument Transformers
+Oil Spillage – Land Contamination/Water 
+Pollution
+Preventive maintenance program in place, oil 
+collection trays, spill kit and safe disposal
+Circuit Breakers
+SF6 Leakage – Global Warming
+SF6 Management system with Mass balance. 
+Leakage sensors.
+Gas Insulated & Hybrid Switchgear
+SF6 Leakage – Global Warming
+SF6 Management system with Mass balance. 
+Leakage sensors.
+	
+Life-cycle Assessments (LCAs) and risks as well as collaboration with and feedback from customers are used as input for 
+improving the environmental performance of its products, systems, and services.
+	
+Manufacturing processes are environment friendly, however the LCA assessment are being done internally, impacts will be 
+reviewed for social and environmental concerns.
+76
+3.	
+Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing 
+industry) or providing services (for service industry).
+Indicate input material
+Recycled or re-used input material to total material
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year
+NA
+NA
+	
+The Company manufactures and delivers transformers to customers. Transformers are designed by prioritizing their efficiency, 
+resilience, and longevity, by strategically selecting special component materials to accommodate high electrical, mechanical, and 
+thermal loads and stresses. They are customized designs with rigorous technical specifications to ensure efficient, reliable, and 
+safe operations that would last 30 to 40 years or even longer. Transformer services contribute to extending the service life and to 
+increasing the productivity of the built-in materials. We are also providing declarations on recyclability rates of our transformers 
+at their end of life and delivering decommissioning and materials recovery guidelines to maximizing material recovery and to 
+support an environmentally friendly and safe end of life management. With our supply chain we are continuously gathering data 
+on recycled content in sourced materials and partnering with stakeholders on establishing more circular material value chains. 
+As of today, the recycled content rate in sourced main materials varies between 10 and 100% for materials such as e-steel, 
+carbon steel, aluminium, copper and insulating mineral oil.
+4.	
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, 
+and safely disposed, as per the following format:
+Particulars
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year
+Re-Used
+Recycled
+Safely 
+Disposed
+Re-Used
+Recycled
+Safely 
+Disposed
+Plastics (including packaging)
+NA
+NA
+NA
+NA
+NA
+NA
+E-waste
+NA
+NA
+NA
+NA
+NA
+NA
+Hazardous waste
+NA
+NA
+NA
+NA
+NA
+NA
+Other waste
+NA
+NA
+NA
+NA
+NA
+NA
+	
+Majority of packaging material used are wood and recyclable plastic. Packaging wastes are disposed by the end user as per 
+local pollution control board requirements to authorized recyclers.
+5.	
+Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
+Indicate product category
+Reclaimed products and their packaging materials as % of total products sold in respective category
+Nil
+Nil
+PRINCIPLE 3: Businesses should respect and promote the well-being of all employees, including those in 
+their value chains
+People well-being
+The Company continues to attract top talent due to its inclusive culture and the immense opportunities available for nurturing their 
+talent. The people strategy is aligned with the Company’s overall ambition to be a pioneering technology leader. This requires a 
+stable work environment in a growing market by maximizing the potential of the Company’s workforce. To ensure that the Company 
+continues to attract top talent, multiple employer branding initiatives were launched not limiting to career fairs, recruitment drives, 
+university connect programs and internship opportunities. During the year, the Company has consistently set a clear path to learn 
+and adapt to perform better in the changing market situation with its enhanced performance management and talent strategy, 
+focusing on building a healthy pipeline by attracting, assessing and developing talent. In addition, persistent attention to provide an 
+inclusive environment to promote diversity in gender, age and culture, including opportunities for global mobility, also form a part of 
+the proactive plan to manage talent in key function areas. The Company’s competency has been aligned with the business strategy. 
+The Company recognized exceptional performance and behavior in line with organizational values through its rewards and recognition 
+program. There was continuous focus on improving the diversity in the workforce throughout the year. A diversity outreach program, 
+IGNITE 2.0 was also launched to encourage rehiring of performers who may have left their career for various reasons. The entire 
+approach to well-being was based on increasing diversity, promoting inclusion and recognizing performance. Multiple awareness 
+sessions on physical & mental health and well-being were organized in different office locations and factories to create awareness. 
+Annual medical check-ups and camps were set up through the year to promote physical well-being.
+Career development and opportunities
+Keeping a strong focus on future talent pipeline development, the Company has sustained its journey on ‘Develop & Grow’ pillar this 
+year, with the objective of enabling a powerful talent ecosystem that helps build and develop capabilities for the future. The Company 
+77
+Hitachi Energy India Limited | Integrated Annual Report 2023-24
+Financial Statements
+Statutory Reports
+ Integrated Report
+Corporate Overview
+have built a new paradigm of ‘hybrid jobs’ that combine technology, domain and industry experience. This enables us to attract 
+skillsets that complement its growth paradigm. The Company is also reskilling its workforce through structured learning paths and 
+offering them a new-age skill identity through various talent assessments & customized learning to bridge skill gaps. The Company 
+continues to enable internal talent growth and development by offering open dialogues, having regular performance and development 
+reviews including structured feedback, knowledge transfer and other opportunities for enriching their career. Talent redeployment has 
+been encouraged by providing avenues for internal mobility through talent rotation when any new opportunity of hire arises. Adding 
+to this, opportunities to work on different projects locally and across geographies/businesses have also been provided.
+The Company encourages its employees to progress within the organization as opportunities arise. The organization has a strong 
+talent management process to evaluate the best of talent, encourage and provide career development opportunities for promising 
+employees through individual career development plans. Developing leaders internally continues to be a priority for the Company 
+& with that in mind, succession plans are developed for all critical roles in the organization post talent risk assessments and 
+engagement study.
+Essential Indicators
+1.	
+a)	
+Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total  
+(A)
+Health insurance
+Accident insurance
+Maternity benefits
+Paternity Benefits
+Day Care facilities
+Number 
+(B)
+%
+(B/A)
+Number 
+(C)
+%
+(C/A)
+Number 
+(D)
+%
+(D/A)
+Number 
+(E)
+%
+(E/A)
+Number 
+(F)
+%
+(F/A)
+Permanent employees
+Male
+1625
+1625
+100%
+1625
+100%
+NA
+NA
+1625
+100%
+770
+47%
+Female
+185
+185
+100%
+185
+100%
+185
+100%
+NA
+NA
+97
+52%
+Total
+1810
+1810
+100%
+1810
+100%
+185
+100%
+1625
+100%
+867
+48%
+Other than Permanent employees
+Male
+53
+53
+100%
+53
+100%
+NA
+NA
+53
+100%
+36
+68%
+Female
+11
+11
+100%
+11
+100%
+11
+100%
+NA
+NA
+7
+64%
+Total
+64
+64
+100%
+64
+100%
+11
+100%
+53
+100%
+43
+67%
+	
+b)	
+Details of measures for the well-being of workers:
+Category
+% of workers covered by
+Total  
+(A)
+Health insurance
+Accident insurance
+Maternity benefits
+Paternity Benefits
+Day Care facilities*
+Number 
+(B)
+%
+(B/A)
+Number 
+(C)
+%
+(C/A)
+Number 
+(D)
+%
+(D/A)
+Number 
+(E)
+%
+(E/A)
+Number 
+(F)
+%
+(F/A)
+Permanent employees
+Male
+562
+562
+100%
+562
+100%
+NA
+NA
+562
+100%
+463
+82%
+Female
+3
+3
+100%
+3
+100%
+3
+100%
+NA
+NA
+1
+33%
+Total
+565
+565
+100%
+565
+100%
+3
+0.5%
+562
+99.5%
+464
+82%
+Other than Permanent employees
+Male
+491
+491
+100%
+491
+100%
+NA
+NA
+491
+100%
+374
+76%
+Female
+41
+41
+100%
+41
+100%
+41
+100%
+NA
+NA
+20
+49%
+Total
+532
+532
+100%
+532
+100%
+41
+7.7%
+491
+92.3%
+394
+74%
+	
+	
+* Day Care facilities are available in Peenya, Doddaballapur and Maneja.
+ 	
+c)	
+Spending on measures towards well-being of employees and workers (including permanent and other than 
+permanent) in the following format:
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year*
+Cost incurred on well-being measures as a % of total 
+revenue of the Company
+0.30%
+-
+	
+	
+* Data from previous year not included as information has been sourced and calculated from the current financial year only. 
+78
+2.	
+Details of retirement benefits, for Current FY and Previous Financial Year.
+Particulars
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year
+No of employee 
+covered as 
+a % of total 
+employees
+No of workers 
+covered as a % 
+of total workers
+Deducted and 
+deposited with 
+the authority 
+(Y/ N/ NA)
+No of employee 
+covered as 
+a % of total 
+employees
+No of workers 
+covered as a % 
+of total workers
+Deducted and 
+deposited with 
+the authority 
+(Y/ N/ NA)
+PF
+100
+100
+Y
+100
+100
+Y
+Gratuity
+100
+100
+Y
+100
+100
+Y
+ESI
+1
+2.47
+Y
+3
+0
+Y
+Others-please specify
+29
+0
+Y
+23
+0
+Y
+	
+Notes:
+•	 There are 25 employees covered under ESI
+•	 Superannuation is an optional retirement benefit for employees. Around 531 employees have availed the scheme.
+•	 Superannuation & Gratuity is deposited with respective trusts.
+3.	
+Accessibility of workplaces
+	
+Are the premises/offices of the entity accessible to differently abled employees and workers, as per the requirements of the 
+Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard.
+	
+Yes, the premises/offices of the entity accessible to differently abled employees and workers.
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, 
+provide a web-link to the policy.
+	
+Yes. Link provided in Annexure 1. 
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent employees
+Permanent employees
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+100%
+100%
+100%
+100%
+Female
+100%
+100%
+100%
+100%
+Total
+100%
+100%
+100%
+100%
+Note: 110 employees have availed maternity/ paternity and 100% of them have resumed work.
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+worker? If yes, give details of the mechanism in brief.
+	
+Yes, there are multiple ways, the employees can report their concerns/ grievances. The employees may use the Ethics helpline/
+dedicated e-mail ID, inform the Immediate reporting manager/ HR representative for the function or the country Integrity officer, 
+Internal committee – Prevention of sexual harassment (POSH) etc.
+	
+The Grievances received will be thoroughly examined and enquires will be done in the given timeframe to resolve the same.
+Particulars
+Yes/No
+(If Yes, then give details of the mechanism in brief)
+Permanent workers
+POSH policy, Ethics Global email
+Other than permanent workers
+POSH policy, Ethics Global email
+Permanent employees
+POSH policy, Ethics Global email
+Other than permanent employees
+POSH policy, Ethics Global email
+79
+Hitachi Energy India Limited | Integrated Annual Report 2023-24
+Financial Statements
+Statutory Reports
+ Integrated Report
+Corporate Overview
+7.	
+Membership of employees and worker in association(s) or Unions recognized by the listed entity:
+Particulars
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year
+Total 
+employees/ 
+workers in 
+respective 
+category (A)
+No of employees/ 
+workers in respective 
+category, who are part of 
+association(s) or Union 
+(B)
+% 
+(B / A)
+Total 
+employees/ 
+workers in 
+respective 
+category (C)
+No of employees/ 
+workers in respective 
+category, who are part of 
+association(s) or Union 
+(D)
+% 
+(C/D)
+Total permanent employees
+1810
+0
+0
+1765
+0
+0
+- Male
+1625
+0
+0
+1614
+0
+0
+- Female
+185
+0
+0
+151
+0
+0
+Total permanent workers
+565
+565
+100
+558
+558
+100
+- Male
+562
+562
+100
+554
+554
+100
+- Female
+3
+3
+100
+4
+4
+100
+8.	
+Details of training given to employees and workers:
+	
+Yes, all the Company employees underwent training on health & safety measures.
+	
+Skill upgradation programs are conducted on a periodical basis.
+	
+The casual/contractual employees are subjected to skill-based training depending on the work and job roles. Training matrix 
+is designed based on their job risk profiles. As and when required, refresher trainings are provided to upgrade skills based on 
+any changes in the work/job profiles of employees.
+Particulars
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year
+Total  
+(A)
+On health and 
+safety measures*
+On skill 
+upgradation
+Total  
+(D)
+On health and 
+safety measures*
+On skill 
+upgradation#
+No. (B)
+% (B/A)
+No C
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Male
+1625
+1625
+100
+1625
+100
+1614
+1614
+100
+1614
+100
+Female
+185
+185
+100
+185
+100
+151
+151
+100
+151
+100
+Total
+1810
+1810
+100
+1810
+100
+1765
+1765
+100
+1765
+100
+Workers
+Male
+562
+562
+100
+562
+100
+554
+554
+100
+554
+100
+Female
+3
+3
+100
+3
+100
+4
+4
+100
+4
+100
+Total
+565
+565
+100
+565
+100
+558
+558
+100
+558
+100
+	
+* Regular programs on health and safety measures are conducted for all employees and workers.
+9.	
+Details of performance and career development reviews of employees and worker: 
+Particulars
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No (D)
+% (D/C)
+Employees
+- Male
+1625
+1342
+83
+1614
+1366
+85
+- Female
+185
+121
+65
+151
+109
+72
+Total
+1810
+1463
+81
+1765
+1475
+84
+Workers
+- Male
+562
+Refer note below
+- Female
+3
+Refer note below
+Total
+565
+Refer note below
+	
+Note: Above numbers for employees are based on the Annual Salary Revision eligibility of the financial year.
+80
+	
+At the Company, Non-Management Staff (NMS) are also eligible for meritorious increment /promotion according to practice of 
+respective location in addition to normal increment. This practice differs based on the location and terms agreed with the Union. 
+Details given below:
+	
+1.	
+Peenya: 	Appraisal period April to March
+	
+	
+	
+	
+Each workman eligible for promotion after every 3rd year
+	
+2.	
+Mysuru:	 Appraisal period January to December
+	
+	
+	
+	
+All NMS eligible for promotion once in 4 years.
+	
+3.	
+Maneja:	 Appraisal period April to March
+	
+	
+	
+	
+35% of total strength eligible for promotion. Meritorious increment 15% of total strength discontinued w.e.f. April 1, 
+2023, as agreed in settlement with the Union dated December 23, 2022.
+10.	 Health and safety management system:
+	
+a)	
+Whether an occupational health and safety management system has been implemented by the entity? 
+(Yes/ No). If yes, the coverage such system?
+	
+	
+Yes, all our manufacturing sites have implemented and are certified for Occupational Health and Safety management 
+system as per ISO 45001:2018.
+	
+b)	
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine 
+basis by the entity?
+	
+	
+At the Company, we take the management of HSE and Sustainability risks very seriously and aim to reduce these risks to 
+the lowest practicable level and, where possible, eliminate them. Activity Based Risk Assessment (ABRA) is conducted 
+for all activities which present a risk to health safety and environment. ABRA is a 5-phase methodology which involves 
+– Identification of risks, Assessment/Prioritization of the risk of each hazard exposure, Implementation of the controls, 
+Communication of the risks and controls and Monitoring & Review of controls for effectiveness.
+	
+c)	
+Whether you have processes for workers to report the work-related hazards and to remove themselves from 
+such risks. (Y / N)
+	
+	
+Yes
+	
+d)	
+Do the employees/worker of the entity have access to non-occupational medical and healthcare services? 
+(Yes/No)
+	
+	
+Yes
+11.	 Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year*
+Lost Time Injury Frequency Rate (LTIFR) (per 
+one million-person hours worked)
+Employees
+0.67
+0.59
+Workers
+0.36
+1.00
+Total recordable work-related injuries
+Employees
+9
+7
+Workers
+3
+8
+No. of fatalities
+Employees
+0
+0
+Workers
+1
+0
+High consequence work-related injury or ill - 
+health (excluding fatalities)
+Employees
+0
+0
+Workers
+0
+0
+	
+* The data for the previous year has been revised to reflect the updated information and recalculated figures.
+12.	 Describe the measures taken by the entity to ensure a safe and healthy workplace.
+	
+Safety is vital to our ‘license to operate’ and being a business that people want to work for or with. We minimize risk of harm 
+and are committed to eradicating fatalities, life-changing injuries, and major environmental incidents.
+	
+Our long-term HSE commitments
+•	 Positive health and well-being work environments
+•	 Safe working conditions as well as continual improvement
+•	 Environmental protection to minimize our impact.
+•	 Learnings from successes and failures
+•	 Trust by open reporting and through external validation
+81
+Hitachi Energy India Limited | Integrated Annual Report 2023-24
+Financial Statements
+Statutory Reports
+ Integrated Report
+Corporate Overview
+	
+Our key safety programs include
+•	 The Life-Saving Rules (LSRs) apply to all employees and contractors regardless of work location or their role. Life-saving 
+rules – eLearning is now mandatory for the Company’s employees.
+•	 Electrical safety awareness (PICW) programs are organized for employees and contractors who perform an electrical work.
+•	 Contractor management – Management of contractors is critical to achieving good safety.
+•	 Risk management – We aim to reduce risks to the lowest practical level. Activity Based Risk Assessment is conducted for all 
+activities which present a risk to HSE. Risk Assessments periodically and on need basis. Controls are established to reduce 
+risks and communicated.
+•	 Manual material handling – The manual handling and transport of heavy loads can cause discomfort, muscular aches, back 
+pain or even injuries. Techniques for safe manual handling is provided as a guide to minimize manual material handling risks 
+and improve workplace ergonomics.
+•	 Safety Observation Tour (SOT) – SOT helps us learn and improve safety.
+•	 HSE training – Training plans are developed based on the assessment of the current level of competence and awareness. 
+Trainings are in consideration of individual capabilities and cultural aspects. All trainings shall consider the differing levels of 
+responsibility, risks, ability, language skills and literacy. All relevant staff and persons working on behalf of the Company shall 
+participate in trainings as defined in the training plan.
+•	 Internal & external audits are carried out to check the adequacy of systems, procedures, and control are implemented.
+•	 Management reviews the status of the HSE Management System with regards to suitability, effectiveness and adequacy 
+and opportunities for improvement.
+•	 HSE Management system has been implemented as per ISO 14001 & 45001 and continual improvements are carried out.
+13.	 Number of Complaints on the following made by employees and workers:
+Particulars
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year
+Filed during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Filed during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Working conditions
+0
+0
+Nil
+0
+0
+Nil
+Health & Safety
+0
+0
+Nil
+0
+0
+Nil
+14.	 Assessments for the year:
+Particulars
+% of your plants and offices that were assessed (by entity or statutory authorities or third parties)
+Health and safety practices
+100%
+Working conditions
+100%
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on 
+significant risks/concerns arising from assessments of health & safety practices and working conditions.
+	
+Owing to our operations, our significant risks are in areas involving electrical work, excavation/trenching, machine work, 
+mechanical lifting – suspended loads, work at height, confined spaces, working with chemical and work environments such as 
+mines, offshore works. The Company uses a simple-5 phase approach to manage HSE and Sustainability risks at all levels of 
+our organization which allows our risk owners to make good decisions based on sound risk assessments. Our approach is:
+•	 Identify the risks.
+•	 Assess/Prioritize the risk of each hazard exposure.
+•	 Implement the controls.
+•	 Communicate the risks and controls.
+•	 Monitor & Review controls for effectiveness.
+•	 Stop! Take 5 is the name given in the Company for a risk assessment that is conducted just before start of any activity.
+•	 The Life-Saving Rules (LSRs) apply to all employees and contractors regardless of work location or their role. Our safety rules 
+and procedures create ‘barriers’ that prevent potential incidents from happening. When fully applied they should prevent 
+incidents. A key role of the life-saving rules is to help keep our safety ‘barriers’ solid and everyone safe from harm. Our 10 Life 
+Saving Rules protect our employees and contractors from the activities most likely to cause serious harm or death if safety 
+rules are not fully and properly applied.
+82
+	
+In response to the fatality in one of our project sites in July, we took corrective action in the following areas at all our sites:
+•	 Identification of all high-risk activities at all sites and monitoring closely.
+•	 Implementation of Life Saving Rules with all the controls and monitoring.
+•	 Site physical inspection program and reporting (MySafety Focus App).
+•	 Site audit program
+•	 Contractors’ HSE behavior
+•	 Competency assessment of site management in managing HSE risk
+•	 Visible leadership in HSE.
+•	 Emphasis on site manager, HSE manager and PM’s accountability of “Duty of care” of HSE for all employees, contractors, 
+and partners.
+Leadership Indicators
+1.	
+Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees 
+(Y / N) (B) Workers (Y / N).
+	
+(A)	
+Employees – Yes
+	
+(B)	 Workers – Yes
+2.	
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited 
+by the value chain partners.
+	
+Periodic compliance audit of value chain partners is done for ensuring the statutory dues paid properly. Awareness sessions 
+are also being conducted on latest practices.
+3.	
+Provide the number of employees/ workers having suffered high consequence work-related injury/ ill-health/ 
+fatalities (as reported in Q11 of Essential Indicators above), who have been are rehabilitated and placed in suitable 
+employment or whose family members have been placed in suitable employment:
+	
+We had one fatality involving our worker in the current year.
+Particulars
+Total Number of affected  
+Employees/Workers
+No. of employees/workers that are rehabilitated and placed 
+in suitable employment or whose family members have been 
+placed in suitable employment
+April 1, 2023 – March 31, 2024
+Current Financial Year
+April 1, 2022 – March 31, 2023
+Previous Financial Year
+April 1, 2023 – March 31, 2024
+Current Financial Year
+April 1, 2022 – March 31, 2023
+Previous Financial Year
+Employee
+0
+0
+0
+0
+Workers
+1
+0
+0
+0
+4.	
+Does the entity provide transition assistance programs to facilitate continued employability and the management 
+of career endings resulting from retirement or termination of employment? (Yes/No)
+	
+No
+5.	
+Details on assessment of value chain partners:
+Particulars
+% of value chain partners (by value of business done with such partners) that were assessed
+Health and Safety Practice
+-
+Working Condition
+-
+6.	
+Provide details of any corrective actions taken or underway to address significant risks/concerns arising from 
+assessments of health and safety practices and working conditions of value chain partners.
+	
+The Responsible Manager ensure compliance regarding all legal country, state, or local regulations. Value chain partners/
+Contractor workers are trained and authorized to perform the assigned task and ensured each worker adheres to all applicable 
+HSE rules and site procedures of the Company.
+83
+Hitachi Energy India Limited | Integrated Annual Report 2023-24
+Financial Statements
+Statutory Reports
+ Integrated Report
+Corporate Overview
+PRINCIPLE 4: Businesses should respect the interests of and be responsive to all its stakeholders
+Essential Indicators
+Sustainability performance forms an important basis for the Company’s dialogue with its stakeholders. A comprehensive dialogue 
+with key stakeholders and its inputs and feedback enabled the Company to revisit its materiality matrix and developed the next level 
+2030 objectives. The Sustainability 2030 Objectives are established by the Group and the legal entity has incorporated the same 
+along with the local objectives.
+The Company had dialogues with various Government entities central and state with regards to policy and presentation on the 
+Company’s innovative sustainable solutions such as electric vehicle charging and “Make-in-India”, smart cities, sustainable mobility 
+solutions, energy efficiency, efficiency upgradation in the railways sector, renewable energy, growth developments & technology 
+keeping the climate change, job skilling, etc. The Company also carried out its Supplier Sustainable Development Program (SSDP) 
+across chosen vendors.
+As a part of continuous improvement in supplier sustainability, The Company have introduced a program to monitor and improve 
+Greenhouse gases emissions originating in the Company’s suppliers. In this direction, the Company collaborated with its third-party 
+service providers M/s Bureau Veritas India Ltd, to provide training to its key suppliers to identify, measure and monitor the emission 
+levels within their area of manufacturing.
+The Company during the period also organized several customer engagements events to bring the Company’s technologies closer 
+to the customers. The Company organized multiple customers connect programs on HSE/SA, to hear to the voice of the customer 
+to further improve the performance and to include the inputs of the customer into the strategy of the Company.
+1.	
+Describe the processes for identifying key stakeholder groups of the entity.
+	
+Leadership teams across businesses and functions review various audiences - primary to tertiary - to identify.
+	
+- those that we have most interactions and exchanges
+	
+- those whom we impact economically and socially, and vice versa
+	
+- with whom we create value and enable the energy transition
+	
+- communities and those whom we can support
+	
+These groups have been classified broadly as our key stakeholders, as listed below.
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each 
+stakeholder group.
+Stakeholder group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/No)
+Channels of Communication
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website), Other
+Frequency of 
+engagement
+(Annually/ Half yearly/ 
+Quarterly/ Others-
+please specify)
+Purpose and scope of engagement
+including key topics and concerns raised 
+during such engagement
+Business
+Customers
+No
+Emails,
+Meetings, Trainings, Webinars
+Ad hoc
+Knowledge sharing
+Presentation of innovative sustainable 
+solutions
+Suppliers
+No
+Development Programs,
+Meetings, Emails
+Annual
+Ongoing
+Supplier Sustainable Development program
+Investors
+No
+Email, Newspaper Advertisement, 
+Boards’ Report, Quarterly 
+Financials, Annual Financials, 
+Website, Analyst Call, Annual 
+General Meeting
+Annual, quarterly and 
+on a need basis
+Welfare of investors by management of 
+business operations in best possible way, 
+timely identification of risks and its mitigation 
+and imbibed with principles of integrity and 
+sustainability in all aspects of the Company 
+Business performance Annual general body 
+meeting
+Employees
+No
+HSE & Sustainability Programs & 
+Trainings, Townhalls,
+Employee Welfare Programs,
+Emails
+Ongoing
+Communication & feedback
+Competitors
+No
+Seminars,
+Industry Events
+& Associations
+Event based
+Networking & knowledge sharing
+84
+Stakeholder group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/No)
+Channels of Communication
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website), Other
+Frequency of 
+engagement
+(Annually/ Half yearly/ 
+Quarterly/ Others-
+please specify)
+Purpose and scope of engagement
+including key topics and concerns raised 
+during such engagement
+Government
+Government and 
+regulators
+No
+Meetings
+Need based
+Presentation of innovative sustainable 
+solutions
+Legislators and 
+the law
+No
+Meetings
+Need based
+Compliances
+Trade bodies
+No
+Seminars, Conferences
+Event based
+Networking & knowledge sharing
+Civil society
+International 
+organizations
+No
+Meetings
+Ad hoc
+Partner for Sustainability programs
+Local communities Yes
+Community Meetings
+Ongoing
+Engagement for CSR activities
+Academia 
+and scientific 
+community
+No
+Seminars, Meetings, Campus 
+Connect Programs
+Ad hoc
+R&D and educational partnerships
+Media
+No
+Meetings, Press Release, Events
+Quarterly
+Thought leadership, Communication & 
+branding
+NGOs and 
+civil society 
+organizations, 
+trade unions
+No
+Interactions, Meetings
+Ad hoc
+Implementation of CSR projects
+Employee welfare
+Leadership Indicators
+1.	
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, and 
+social topics or if consultation is delegated, how is feedback from such consultations provided to the Board.
+	
+The Company consults with stakeholders through various engagements and discussed with Board. Annual general meeting, 
+analyst calls, customer events, community engagement programs are some means consultation is carried out.
+2.	
+Whether stakeholder consultation is used to support the identification and management of  environmental, and 
+social topics (Yes/No). If so, provide details of instances as to how the inputs received from stakeholders on these 
+topics were incorporated into policies and activities of the entity.
+	
+Yes. Stakeholder consultation an important factor in identifying our material environmental and social topics. Resource efficiency 
+in our operations especially water and waste reduction, emissions reductions are key areas of interest to our stakeholders under 
+environment, while diversity equity and inclusion is one topic of importance which has driven us to act through various initiatives 
+within the organization as well as helped us identify it as an important topic in our community engagements.
+3.	
+Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ 
+marginalized stakeholder groups.
+	
+Yes. The Company has identified vulnerable/marginalized stakeholder groups and is creating an impact through its CSR projects 
+by providing quality education in technology institutes for girl students and through Women in Engineering program providing 
+scholarships across 6 states for nearly 250 young women.
+PRINCIPLE 5: Businesses should respect and promote human rights
+The Company values are rooted in respect, including respect for the human rights of every single person who works for or with us. 
+Respecting and promoting human rights in its business activities is one of its priorities in its community’s impact area. The Group 
+recognizes that respect for human rights is a basic requirement and that failure to do so can cause harm to people and adversely 
+affect business, with potential legal, financial and reputational consequences.
+The Company follows its Human Rights Policy and a Social Policy to respect human rights and to avoid causing or contributing to 
+adverse human rights impacts through own activities. The policy draws on the Universal Declaration of human rights, the International 
+Labor Organization (ILO) core conventions on labor standards, United Nations Global Compact (UNGC), The Organization for 
+Economic Co-operation and Development (OECD) Guidelines for Multinational Enterprises and UN Sustainable Development Goals 
+(SDG). All employees have access to the human rights e-learning, which describes the human rights principles and risks for the 
+Company. The Company has made a provision, employees shall report any human rights risk or violation that might occur during 
+projects, services and operations of the Company. Human Rights performance are being monitored based on relevant indicators 
+to evaluate and to prevent human rights impacts in all the Company’s operations and workplaces. The Company’s Human Rights 
+85
+Hitachi Energy India Limited | Integrated Annual Report 2023-24
+Financial Statements
+Statutory Reports
+ Integrated Report
+Corporate Overview
+and Social Policies specifically refer to the ILO core conventions as the minimum to be achieved, with respect to non-discrimination, 
+prohibition of child and enforced labor, freedom of association and the right to engage in collective bargaining. The United Nations 
+(UN) guiding principles are central to the Company’s human rights training. A global awareness-raising program for all focuses on 
+understanding how the Company can potentially impact human rights, the importance of due diligence and how the Company is 
+embedding human rights in business processes, a global capacity building program is under way.
+During the year under review, the Company has not received any grievances related to human rights. The Company, in line with the 
+Group policy, seeks to raise its standards, and increase its understanding, and mitigation of human rights risks.
+Essential Indicators
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in 
+the following format:
+Particulars
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year
+Total  
+(A)
+No. of 
+employees/
+workers 
+covered (B)
+% (B/A)
+Total  
+(C)
+No. of 
+employees/
+workers 
+covered (D)
+% (C/D)
+Permanent
+1,810
+1,810
+100
+1,765
+1,765
+100
+Other than permanent
+64
+64
+100
+64
+64
+100
+Total employees
+1,874
+1,874
+100
+1,829
+1,829
+100
+Workers
+Permanent
+565
+565
+100
+558
+558
+100
+Other than permanent
+532
+532
+100
+552
+552
+100
+Total workers
+1,097
+1,097
+100
+1,110
+1,110
+100
+2.	
+Details of minimum wages paid to employees and workers, in the following format:
+Particulars
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year
+Total (A)
+Equal to Minimum 
+wage
+More than 
+Minimum wage
+Total (D)
+Equal to Minimum 
+wage
+More than  
+Minimum wage
+No. B)
+% (B/A)
+No. C
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Permanent
+Male
+1,625
+0
+0
+1,625
+100
+1614
+0
+0
+1,614
+100
+Female
+185
+0
+0
+185
+100
+151
+0
+0
+151
+100
+Other than Permanent
+Male
+53
+0
+0
+53
+100
+44
+0
+0
+44
+100
+Female
+11
+0
+0
+11
+100
+20
+0
+0
+20
+100
+Workers
+Permanent
+Male
+562
+0
+0
+0
+100
+554
+0
+0
+554
+100
+Female
+3
+0
+0
+0
+100
+4
+0
+0
+4
+100
+Other than Permanent
+Male
+491
+0
+0
+491
+100
+521
+0
+0
+521
+100
+Female
+41
+0
+0
+41
+100
+31
+0
+0
+31
+100
+86
+3.	
+Details of remuneration/ salary/ wages, in the following format:
+	
+a)	
+Median remuneration/wages: 
+Particulars
+Male
+Female
+Number
+Median remuneration/ salary/ 
+wages of respective category K
+Number
+Median remuneration/ salary/ 
+wages of respective category
+Board of Directors (BOD)
+2*
+2,35,05,783
+2
+30,96,667
+Key managerial personnel (KMP)
+3
+2,36,82,862
+0
+NA
+Employees other than BOD and KMP
+2508
+11,08,153
+248
+7,30,431
+Workers
+562
+10,94,240
+3
+10,36,974
+* For the calculation of Median Remuneration, the remuneration paid to Managing Director & CEO relates to fixed component of salary and 
+excludes the performance bonus and long-term Incentive Plan payout as per the amount disclosed elsewhere in the Board’s Report.
+	
+b)	
+Gross wages paid to females as % of total wages paid by the entity, in the following format:
+Particulars
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year*
+Gross wages paid to females as % of total wages
+6.78%
+-
+* Data from previous year not included as information has been sourced and calculated from the current financial year only.
+4.	
+Do you have a focal point (Individual/Committee) responsible for addressing human rights impacts or issues 
+caused or contributed to by the business? (Yes/No) - Yes
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+	
+The Company has Internal committees to redress various grievances.
+6.	
+Number of Complaints on the following made by employees and workers:
+Particulars
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year
+Filed during 
+year
+Pending 
+resolution at the 
+end of the year
+Remarks
+Filed during 
+year
+Pending 
+resolution at the 
+end of the year
+Remarks
+Sexual harassment
+0
+0
+Nil
+0
+0
+Nil
+Discrimination at workplace
+11
+0
+Nil
+6
+0
+Nil
+Child labor
+0
+0
+Nil
+0
+0
+Nil
+Forced labor/Involuntary labor
+0
+0
+Nil
+0
+0
+Nil
+Wages
+0
+0
+Nil
+0
+0
+Nil
+Other human rights related issues
+0
+0
+Nil
+0
+0
+Nil
+7.	
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) 
+Act, 2013, in the following format:
+Particulars
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year
+Total Complaints reported under Sexual Harassment on of 
+Women at Workplace (Prevention, Prohibition and Redressal) 
+Act, 2013 (POSH)
+0
+0
+Complaints on POSH as a % of female employees/workers
+0
+0
+Complaints on POSH upheld
+0
+0
+8.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	
+Policies are made and awareness been given to employees on the same.
+9.	
+Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+	
+Yes
+87
+Hitachi Energy India Limited | Integrated Annual Report 2023-24
+Financial Statements
+Statutory Reports
+ Integrated Report
+Corporate Overview
+10.	 Assessments for the year:
+Particulars
+% of your plants and offices that were assessed (by entity or statutory authorities or third parties)
+Child labor
+100
+Forced/Involuntary labor
+100
+Sexual harassment
+100
+Discrimination at workplace
+100
+Wages
+100
+Others-please specify
+Nil
+11.	 Provide details of any corrective actions taken or underway to address significant risks/concerns arising from 
+the assessments at Question 9 above.
+	
+Not applicable
+Leadership Indictors
+1.	
+Details of a business process being modified/introduced as a result of addressing human rights grievances/
+complaints.
+	
+None received.
+2.	
+Details of the scope and coverage of any Human rights due diligence conducted.
+3.	
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights 
+of Persons with Disabilities Act, 2016?
+	
+Provisions are available.
+4.	
+Details on assessment of value chain partners:
+Particulars
+% of value chain partners (by value of business done with such partners) that were assessed
+Sexual harassment
+100
+Discrimination at workplace
+100
+Child labor
+100
+Forced Labor/ nvoluntary labor
+100
+Wages
+100
+Others-please specify
+100
+5.	
+Provide details of any corrective actions taken or underway to address significant risks/concerns arising from 
+the assessments at Question 4 above.
+	
+None
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the environment.
+The Company is shaping the future of sustainable energy by enabling the integration of renewables in an energy efficient and reliable 
+grid.  Enabling integration of renewable energy is at the core of our business. In all our operations, we strive to minimize waste, use of 
+natural resources, energy and hazardous substances, always in compliance with legislation. Our ambition is to become climate neutral.
+We are committed to engage with our stakeholders to reduce the environmental impact from our products and solutions along their 
+life cycle, from extraction of raw materials to customers’ use and end-of-life, to protect the planet from degradation. We collaborate 
+with customers, suppliers, external organizations and educational institutions to help the Company implement effective programs 
+that are good for the environment, and better for business.
+88
+Essential Indicators
+1.	
+Details of total energy consumption (in Giga Joules) and energy intensity, in the following format: 
+Parameter
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year *
+From renewable sources
+Total electricity consumption (A)
+1,77,402
+1,62,419
+Total fuel consumption (B)
+1,68,300
+1,74,235
+Energy consumption through other sources (C)
+0
+0
+Total energy consumed from renewable sources (A+B+C)
+3,45,702
+3,36,654
+From non-renewable sources
+Total electricity consumption (D)
+0
+0
+Total fuel consumption (E)
+49,821
+42,886
+Energy consumption through other sources (F)
+0
+0
+Total energy consumed from non- renewable sources (D+E+F)
+49,821
+42,886
+Total energy consumed (A+B+C+D+E+F)
+3,95,523
+3,79,540
+Energy intensity per rupee of turnover (Total energy consumed/
+Revenue from operations) (GJ/Crores H)
+75.52
+84.65
+Energy intensity per rupee of turnover adjusted for Purchasing 
+Power Parity (PPP) (Total energy consumed/Revenue from 
+operations adjusted for PPP)
+-
+-
+Energy intensity in terms of physical output
+-
+-
+Energy intensity (optional) – the relevant metric may be 
+selected by the entity
+-
+-
+	
+* The data for the previous year has been revised to reflect the updated information and recalculated figures.
+2.	
+Does the entity have any sites/facilities identified as designated consumers (DCs) under the Performance, Achieve 
+and Trade (PAT) Scheme of the Government of India? (Y / N) If yes, disclose whether targets set under the PAT 
+scheme have been achieved. In case targets have not been achieved, provide the remedial action taken, if any.
+	
+Not applicable
+3.	
+Provide details of the following disclosures related to water, in the following format: 
+Parameter
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year*
+Water withdrawal by source (in kiloliters)
+(i)	
+Surface water
+2,04,179
+2,16,657
+(ii)	 Groundwater
+1,32,012
+1,83,480
+(iii)	 Third party water
+32,365
+27,290
+(iv)	 Sea water/desalinated water
+0
+0
+(v)	 Others
+0
+0
+Total volume of water withdrawal (in kiloliters)  
+(i + ii + iii + iv + v)
+3,68,556
+4,27,427
+Total volume of water consumption (in kiloliters)
+3,68,556
+4,27,427
+Water intensity per rupee of turnover adjusted for Purchasing 
+Power Parity (PPP) (Total water consumption/Revenue from 
+operations adjusted for PPP)
+-
+-
+Water intensity in terms of physical output
+-
+-
+Water intensity (optional) – the relevant metric may be selected 
+by the entity (kL/Crores H)
+70.37
+95.33
+	
+*The data for the previous year has been revised to reflect the updated information and recalculated figures.
+	
+Note: Indicate if any independent assessment/ evaluation/ assurance has been carried out by an external agency? (Y / N) If yes, 
+name of the external agency.
+	
+No.
+89
+Hitachi Energy India Limited | Integrated Annual Report 2023-24
+Financial Statements
+Statutory Reports
+ Integrated Report
+Corporate Overview
+4.	
+Note: Indicate if any independent assessment/ evaluation/ assurance has been carried out by an external agency? 
+(Y / N) If yes, name of the external agency.
+Parameter
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year*
+Water discharge by destination and level of treatment (in kiloliters)
+(i) 	 To Surface water
+	
+- No treatment - With treatment
+	
+- With treatment - please specify level of treatment
+0
+0
+(ii) 	 To Groundwater
+	
+- No treatment 
+	
+- With treatment - please specify level of treatment
+0
+0
+(iii) 	 To Seawater
+	
+- No treatment
+	
+- With treatment – please specify level of treatment
+0
+0
+(iv) 	Sent to third-parties
+	
+- No treatment
+	
+Water treated in own sewage treatment plant and 
+discharged to municipal sewage
+26,996
+67,119
+(v) 	 Others - No treatment
+	
+- With treatment
+	
+Water treated in own sewage treatment plant and utilized 
+to irrigate garden and flush toilets.
+1,19,260
+1,37,496
+Total water discharged (in kL)
+1,46,255
+2,04,615
+	
+*The data for the previous year has been revised to reflect the updated information and recalculated figures.
+	
+Note: Indicate if any independent assessment/ evaluation/ assurance has been carried out by an external agency? (Y / N) If yes, 
+name of the external agency.
+	
+No.
+5.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage 
+and implementation.
+	
+Yes. The Company has taken various initiatives on water conservation to reduce freshwater consumption. All facilities have 
+installed sewage treatment plant to treat domestic sewage. In line with Zero Liquid discharge approach, the facilities reuse 
+treated wastewater for irrigating garden as well as for flushing purposes thereby reducing use of freshwater for the activity. Only 
+Maneja discharges treated sewage to municipal sewer. The facility is currently working towards utilizing the treated wastewater 
+within the site for irrigation, flushing and construction activities.
+6.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please specify unit
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year
+NOx
+PPM
+Complied
+Complied
+SOx
+PPM
+Complied
+Complied
+Particulate matter (PM)
+µg/m3
+Complied
+Complied
+Persistent organic pollutants (POP)
+NA
+NA
+Volatile organic compounds (VOC)
+µg/m3
+Complied
+Complied
+Hazardous air pollutant (HAP)
+NA
+NA
+Others – please specify
+-
+-
+Note: Indicate if any independent assessment/ evaluation/ assurance has been carried out by an external agency? (Y / N) If 
+yes, name of the external agency.
+	
+Yes, Environment assessment done by Pollution control board approved Laboratory in respective states.
+90
+4.	
+Note: Indicate if any independent assessment/ evaluation/ assurance has been carried out by an external agency? 
+(Y / N) If yes, name of the external agency.
+Parameter
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year*
+Water discharge by destination and level of treatment (in kiloliters)
+(i) 	 To Surface water
+	
+- No treatment - With treatment
+	
+- With treatment - please specify level of treatment
+0
+0
+(ii) 	 To Groundwater
+	
+- No treatment 
+	
+- With treatment - please specify level of treatment
+0
+0
+(iii) 	 To Seawater
+	
+- No treatment
+	
+- With treatment – please specify level of treatment
+0
+0
+(iv) 	Sent to third-parties
+	
+- No treatment
+	
+Water treated in own sewage treatment plant and 
+discharged to municipal sewage
+26,996
+67,119
+(v) 	 Others - No treatment
+	
+- With treatment
+	
+Water treated in own sewage treatment plant and utilized 
+to irrigate garden and flush toilets.
+1,19,260
+1,37,496
+Total water discharged (in kL)
+1,46,255
+2,04,615
+	
+*The data for the previous year has been revised to reflect the updated information and recalculated figures.
+	
+Note: Indicate if any independent assessment/ evaluation/ assurance has been carried out by an external agency? (Y / N) If yes, 
+name of the external agency.
+	
+No.
+5.	
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage 
+and implementation.
+	
+Yes. The Company has taken various initiatives on water conservation to reduce freshwater consumption. All facilities have 
+installed sewage treatment plant to treat domestic sewage. In line with Zero Liquid discharge approach, the facilities reuse 
+treated wastewater for irrigating garden as well as for flushing purposes thereby reducing use of freshwater for the activity. Only 
+Maneja discharges treated sewage to municipal sewer. The facility is currently working towards utilizing the treated wastewater 
+within the site for irrigation, flushing and construction activities.
+6.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please specify unit
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year
+NOx
+PPM
+Complied
+Complied
+SOx
+PPM
+Complied
+Complied
+Particulate matter (PM)
+µg/m3
+Complied
+Complied
+Persistent organic pollutants (POP)
+NA
+NA
+Volatile organic compounds (VOC)
+µg/m3
+Complied
+Complied
+Hazardous air pollutant (HAP)
+NA
+NA
+Others – please specify
+-
+-
+Note: Indicate if any independent assessment/ evaluation/ assurance has been carried out by an external agency? (Y / N) If 
+yes, name of the external agency.
+	
+Yes, Environment assessment done by Pollution control board approved Laboratory in respective states.
+90
+7.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format: 
+Parameter
+Please specify unit
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year*
+Total Scope 1 emissions
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available)
+Metric tonnes of CO2 
+equivalent
+3,285
+3,725
+Total Scope 2 emissions
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, 
+PFCs, SF6, NF3, if available)
+Metric tonnes of CO2 
+equivalent
+0
+0
+Total Scope 1 and Scope 2 emissions per rupee of 
+turnover
+(Total Scope 1 and Scope 2 GHG emissions/Revenue 
+from operations)
+tCO2e/Crores H
+0.63
+0.83
+Total Scope 1 and Scope 2 emission intensity per rupee 
+of turnover adjusted for Purchasing Power Parity (PPP)
+(Total Scope 1 and Scope 2 GHG emissions/Revenue 
+from operations adjusted for PPP)
+-
+-
+-
+Total Scope 1 and Scope 2 emission intensity in terms 
+of physical output
+-
+-
+-
+Total Scope 1 and Scope 2 emission intensity (optional) 
+– the relevant metric may be selected by the entity
+-
+-
+-
+	
+*The data for the previous year has been revised to reflect the updated information and recalculated figures
+	
+The CO2 emission is calculated considering International Renewable Energy Certification (I-REC) procured for electricity consumed.
+	
+Note: Indicate if any independent assessment/ evaluation/ assurance has been carried out by an external agency? (Y / N) If yes, 
+name of the external agency.
+	
+No.
+8.	
+Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide 	 details.
+	
+The main sources of the Company’s direct (Scope 1) Greenhouse Gas (GHG) emissions are the fuels used in our operations, 
+such as natural gas usage and SF6 losses during production processes and gas handling on site. Indirect (Scope 2) GHG 
+emissions from purchased electricity. The Company recognizes the need to limit global warming to no more than 1.5C above 
+pre-industrial levels, in order to avoid the worst affects of climate change. As such, our ambition is to become carbon neutral in 
+our own operations by 2030 and achieve Net Zero across the entire value chain by 2050. To achieve this, we have implemented 
+several projects and initiatives which include: Solar roof top installations at Maneja where 932 kW is installed of which 292 kW 
+is operational and Doddaballapur where 600 kW is installed. The installed capacity would meet 20-30% of total electricity 
+requirement in each of the facilities. Mysuru facility has Power Purchase Agreements which caters to nearly 90% of its electricity 
+requirement. The remaining GHG from grid electricity is covered by purchasing International Renewable Energy Certificates 
+(I-REC). Going forward we will move away from purchasing I-REC to more direct, and potentially more value adding methods 
+such as green tariffs, Power Purchase Agreements (PPAs) and own generation.
+	
+At project site, solar roof top installations are used to power offices at Adani HVDC project and 6 GPQS sites totaling 47.7 kW 
+capacity. 6 sets solar based mobile charging facility with 3 lights and 2 USB installed in rest sheds and worker colony and 7 CNG 
+vehicles are used at HVDC site.
+	
+Energy conservation activities include replacing conventional lamps with LED, installation of solar lights, electrical retrofits such 
+as replacement of old drives and compressors with energy efficient equipment; process improvements such as optimizing 
+operations of HVAC and AHUs and thermal insulation of hotlines to prevent heat loss. At Maneja, energy monitoring systems 
+were installed to monitor energy consumption patterns and take appropriate actions. 7 nos. of HT/LT substations and 53 energy 
+meters are connected to the monitoring system. At Halol and Maneja, LPG was replaced by low carbon PNG while Mysuru uses 
+biofuel such as paddy husk and waste dust from own operations to fuel its boilers. Replacing old R22 based HVAC systems to 
+high COP R410A at Maneja has also resulted in reduction in GHG emissions.
+91
+Hitachi Energy India Limited | Integrated Annual Report 2023-24
+Financial Statements
+Statutory Reports
+ Integrated Report
+Corporate Overview
+9.	
+Provide details related to waste management by the entity, in the following format: 
+Parameter
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year*
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+89.3
+107.2
+E-waste (B)
+13.2
+18.8
+Bio-medical waste (C)
+0.1
+0.05
+Construction and demolition waste (D)
+NA
+NA
+Battery waste (E)
+7.2
+8.8
+Radioactive waste (F)
+NA
+NA
+Other Hazardous waste. Please specify, if any. (G)
+(Used Oil, Resin, oily quartz & papers, glass wool, discarded 
+containers)
+277.8
+339.1
+Other Non-hazardous waste generated (H). Please specify, if 
+any. (Ferrous - MS & SS) & Nonferrous (Copper, Aluminum) 
+Wood waste & dust) (Break-up by composition i.e., by 
+materials relevant to the sector)
+7,438.3
+8,152.0
+Total (A + B + C + D + E + F + G + H)
+7,825.8
+8,625.9
+Waste intensity per rupee of turnover (Total waste generated / 
+cr revenue from operations)
+1.49
+1.92
+Waste intensity per rupee of turnover adjusted for Purchasing 
+Power Parity (PPP) (Total waste generated/Revenue from 
+operations adjusted for PPP)
+-
+-
+Waste intensity in terms of physical output
+-
+-
+Waste intensity (optional) – the relevant metric may be selected 
+by the entity
+-
+-
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations (in metric tonnes)
+Category of waste
+(i) 	 Recycled
+97%
+96%
+(ii) 	 Re-used
+-
+0
+(iii) 	 Other recovery operations
+-
+0
+Total
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i) 	 Incineration
+206
+230
+(ii) 	 Landfilling
+24
+81
+(iii) 	 Other disposal operations
+-
+0
+Total
+230
+311
+	
+*The data for the previous year has been revised to reflect the updated information and recalculated figures.
+	
+Note: Indicate if any independent assessment/ evaluation/ assurance has been carried out by an external agency? (Y / N) If yes, 
+name of the external agency.
+	
+No.
+10.	 Briefly describe the waste management practices adopted in your establishments. Describe the strategy 	
+adopted by your company to reduce usage of hazardous and toxic chemicals in your products and processes and 
+the practices adopted to manage such wastes.
+	
+Managing waste from its own operations has been the Company’s priority and has been continuously improved through the 
+Company management system standard for waste management. We strive to always 1) reduce waste generated 2) reuse what 
+we can, and 3) recycle all possible waste generated. We work continuously to move waste upwards in the waste hierarchy and, 
+finally, eliminate it. At a company level, we implement the 5Rs, where ‘rethink’ and ‘repair’ are included, mostly relating to the 
+way we deliver value to customers.
+	
+Integration of sustainability considerations in Research & Development (R&D) gate models to ensure that Health, Safety, and 
+Environment are considered and understood when assessing R&D projects. Environmentally Conscious Design (ECD) reduces 
+a product’s environmental impact, while maintaining or improving its functionality. Integration of environmental aspects as 
+early as possible into the product design and development process enables organizations to make effective decisions about 
+environmental aspects that they control.
+92
+	
+Reducing generation of waste and reducing the wastes that is sent to landfill or for incineration remains the Company’s focal 
+area. Waste reduction is incorporated in the product design stage to ensure waste minimization in manufacturing process. 
+Source segregation of waste, in-house recycling of packaging materials and reuse continues to add more value to waste and 
+reduces the quantum of non-recyclable wastes that are sent to landfill. All wastes are sent to relevant Pollution Control Board 
+(PCB) authorized recyclers.
+11.	 If the entity has operations/ offices in/ around ecologically sensitive areas (such as national parks, wildlife 
+sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where 
+environmental approvals/clearances are required, please specify details in the following format:
+Not applicable
+Sr. 
+No.
+Location of  
+operations/offices
+Type of operations
+Whether the conditions of environmental approval/clearance are being 
+complied with? (Y / N)
+If no, the reasons thereof and corrective action taken, if any.
+NA
+12.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in 
+the current financial year:
+Not applicable
+Name and brief details 
+of project
+EIA Notification 
+No.
+Date
+Whether conducted by independent 
+external agency (Yes/No)
+Results communicated in 
+public domain (Yes/No)
+Relevant  
+Web-link
+NA
+13.	 Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act 
+and rules thereunder (Y / N). If not, provide details of all such non-compliances, in the following format:
+	
+Yes, the Company has complied with the applicable environmental law/ regulations/ guidelines in India.
+Sr. 
+No.
+Specify the law/ regulation/ guidelines 
+which was not complied with
+Provide details of the 
+non-compliance
+Any fines/ penalties/ action taken by 
+regulatory agencies such as pollution 
+control boards or by courts
+Corrective action taken 
+if any
+NA
+Leadership Indicators
+1.	
+Provide break-up of the total energy consumed (in Joules or multiples) from renewable and non-renewable sources, 
+in the following format: 
+Parameter
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year*
+From renewable sources
+Total electricity consumption (A) # GJ
+1,77,402
+1,48,492
+Total fuel consumption (B)
+1,68,300
+1,75,558
+Energy consumption through other sources (C)
+0
+0
+Total energy consumed from renewable sources 
+(A+B+C)
+3,45,702
+3,24,050
+From non-renewable sources
+Total electricity consumption (D)
+0
+0
+Total fuel consumption (E) **
+49,821
+42,886
+Energy consumption through other sources (F)
+0
+0
+Total energy consumed from non-renewable sources 
+(D+E+F)
+3,95,523
+3,66,936
+	
+* The data for the previous year has been revised to reflect the updated information and recalculated figures.
+	
+# Total electricity consumption from renewable source consists of renewable energy from Power Purchase Agreements, in-house solar roof 
+top electricity generation and purchasing of International Renewable Energy Certificates (I-RECs).
+	
+** Fuel consumption does not include the fuels consumed from fleet operations.
+	
+Note: Indicate if any independent assessment/ evaluation/ assurance has been carried out by an external agency? (Y / N) If yes, 
+name of the external agency.
+	
+No.
+93
+Hitachi Energy India Limited | Integrated Annual Report 2023-24
+Financial Statements
+Statutory Reports
+ Integrated Report
+Corporate Overview
+2.	
+Provide the following details related to water discharged: 
+Parameter
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year*
+Water discharge by destination and level of treatment (in kiloliters)
+(i)	
+To Surface water
+	
+-	 No treatment
+0
+0
+	
+-	 With treatment - please specify level of treatment
+0
+0
+(ii)	 To Groundwater
+	
+-	 No treatment
+0
+0
+	
+-	 With treatment - please specify level of treatment
+0
+0
+(iii)	 To Seawater
+	
+-	 No treatment
+0
+0
+	
+-	 With treatment - please specify level of treatment
+0
+0
+(iv)	 Sent to third - parties
+	
+-	 No treatment
+0
+0
+	
+-	 With treatment - treated in own STP as per local 
+pollution control board norms and discharged to 
+municipal sewage in Maneja
+26,996
+67,119
+(v)	 Others
+	
+-	 No treatment
+	
+-	 With treatment – treated in own STP as per local 
+pollution control board norms used for irrigation and 
+flushing
+1,19,260
+1,37,496
+Total water discharged (in kiloliters)
+1,46,255
+2,04,615
+	
+* The data for the previous year has been revised to reflect the updated information and recalculated figures.
+	
+Water is treated in own sewage treatment plant as per local pollution control board norms to meet sewage treated water 
+quality requirements.
+	
+Note: Indicate if any independent assessment/ evaluation/ assurance has been carried out by an external agency? (Y / N) If yes, 
+name of the external agency.
+	
+No.
+3.	
+Water withdrawal, consumption and discharge in areas of water stress (in kiloliters):
+	
+For each facility/plant located in areas of water stress, provide the following information:
+	
+(i)	
+Name of the area:
+	
+	
+As per World Resources Institute in India, Karnataka, Tamil Nadu and Gujarat face high to extremely high water stress. 
+	
+(ii)	 Nature of operations:
+	
+	
+Manufacturing of Transformers, Bushings & Breakers
+	
+	
+Manufacturing of control panels, substation automation system & grid automation products
+	
+(iii)	 Water withdrawal, consumption and discharge in the following format:
+Parameter
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year*
+Water withdrawal by source (in kiloliters)
+(i)	
+Surface water
+2,04,179
+2,16,657
+(ii)	 Groundwater
+1,32,012
+1,83,480
+(iii)	 Third party water
+32,365
+27,290
+(iv)	 Seawater/desalinated water
+0
+0
+(v)	 Others
+0
+0
+Total volume of water withdrawal (in kiloliters)
+3,68,556
+4,27,427
+Total volume of water consumption (in kiloliters)
+3,68,556
+4,27,427
+94
+Parameter
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year*
+Water intensity per rupee of turnover (Water consumed  
+kL/Crores K
+70.37
+95.33
+Water intensity (optional) – the relevant metric may be 
+selected by the entity
+-
+-
+Water discharge by destination and level of treatment (in kiloliters)
+(i)	
+Into Surface water
+-
+-
+	
+-	
+No treatment
+0
+0
+	
+-	
+With treatment – please specify level of treatment
+0
+0
+(ii)	 Into Groundwater
+	
+-	
+No treatment
+0
+0
+	
+-	
+With treatment - please specify level of treatment
+0
+0
+(iii)	 Into Seawater
+	
+-	
+No treatment
+0
+0
+	
+-	
+With treatment - please specify level of treatment
+0
+0
+(iv)	 Sent to third parties
+	
+-	
+No treatment
+0
+0
+	
+-	
+With treatment - treated in own STP as per local 
+pollution control board norms
+26,996
+67,119
+(v)	 Others
+	
+-	
+No treatment
+0
+0
+	
+-	
+With treatment – STP treated and used for irrigation 
+and flushing
+1,19,260
+1,37,496
+Total water discharged (in kiloliters)
+1,46,255
+2,04,615
+	
+*The data for the previous year has been revised to reflect the updated information and recalculated figures.
+	
+Note: Indicate if any independent assessment/ evaluation/ assurance has been carried out by an external agency? (Y / N) If yes, 
+name of the external agency.
+	
+No.
+4.	
+Please provide details of total Scope 3 emissions & its intensity, in the following format:
+	
+The Company has developed the criteria for measurement and calculation of emissions of relevant categories as per GHG 
+protocol guidance. The scope 3 emission of significant categories shall be reported from FY 2023-24 onwards.
+Parameter
+Unit
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year
+Total Scope 3 emissions
+(Break-up of the GHG into CO2, CH4, N2O, 
+HFCs, PFCs, SF6, NF3, if available) Only 
+Category I Purchased Goods and Services
+Metric tonnes of 
+CO2 equivalent
+10,89,372
+9,98,961
+Total Scope 3 emissions per Crore H of 
+turnover
+tCO2e/Crores H
+223
+208
+Total Scope 3 emission intensity 
+(optional)
+ –	 the relevant metric may be selected by 
+the entity
+-
+-
+Note: Indicate if any independent assessment/ evaluation/ assurance has been carried out by an external agency? (Y / N) If 
+yes, name of the external agency. No
+5.	
+With respect to the ecologically sensitive areas reported at Question 10 of Essential Indicators above, provide 
+details of significant direct & indirect impact of the entity on biodiversity in such areas along- with prevention and 
+remediation activities.
+	
+Not applicable
+95
+Hitachi Energy India Limited | Integrated Annual Report 2023-24
+Financial Statements
+Statutory Reports
+ Integrated Report
+Corporate Overview
+6.	
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource 
+efficiency, or reduce impact due to emissions/ effluent discharge/ waste generated, please provide details of the 
+same as well as outcome of such initiatives, as per the following format:
+Sr. 
+No.
+Initiative undertaken
+Details of the initiative (Web-link, if any, 
+may be provided along-with summary)
+Outcome of the initiative
+1
+Installed new compressor
+No
+Annual energy saving of 35,868 kWh
+2
+Drives installed 
+No
+Hourly energy savings of 25kWh
+3
+Faulty capacitors replaced 
+No
+Power Factor increased from 0.94 to 0.96
+4
+HVAC optimization
+No
+Annual energy saving of 96,000 kWh
+5
+Installation of energy meters
+No
+Real time energy monitoring 
+6
+Installation of water meters
+No
+Monitoring water consumption and leakage
+7
+Installation of 3 rainwater harvest structures
+No
+Rainwater harvesting
+7.	
+Does the entity have a business continuity and disaster management plan? Give details in 100 words/web-link.
+	
+Yes, Business Continuity Planning (BCP) is part of the Company’s organizational resilience program. It is designed to reduce the 
+impact of a business interruption which could occur due to a range of events ranging from financial, natural causes or man-made 
+events. It helps Business Unit/Function to respond effectively to the disruption and restore its essential services and mission 
+critical processes as quickly as possible to ensure timely recovery. It provides a reference tool for the actions required during 
+or immediately following an emergency or incident that threatens to disrupt Business Unit/Function normal business activities.
+	
+The key objectives of this business continuity plan are to:
+	
+•	
+Identify advanced preparations and procedures that will enable Business Unit/Function to respond quickly to disruptive 
+incidents and ensure continuity of critical business functions.
+	
+•	
+Reduce employee injury or loss of life, and minimize damage and losses.
+	
+•	
+Have documented plans and procedures to ensure effective execution of recovery strategies for critical business functions.
+	
+•	
+Reduce and mitigate disruptions to business operations.
+	
+•	
+Identify teams which would need to respond to incidents and define specific responsibilities.
+	
+•	
+Quantify the impact of incidents in terms of monetary, time, operations, and work force.
+	
+•	
+Recover quickly from an emergency and resume full operations.
+	
+The various steps are:
+	
+Key Business Processes & Recovery Priorities
+	
+List all the key processes and sub processes of that must be maintained or quickly restored in the event of a disruptive incident. 
+It provides a high-level description for each of the process and assigns a priority (criticality) ranking to each of them.
+	
+Risk assessment
+	
+Risk assessment is one of the main parts of the BCM system. The RA process involves identification, analysis, and evaluation of 
+all possible risks, hazards, and threats to the operating environment, and defines likelihood/impact of disruptive events caused 
+by such threats.
+	
+Once the risks have been identified, their impact on different aspects of operations are gauged. Those risks which affect mission-
+critical operations should be handled first. The following strategy is used to handle risks:
+	
+•	
+Prevent – Risks which are of high probability with high impact. These risks must be attended first by using mitigation, 
+prevention or any other strategy to lessen or avoid its impact.
+	
+•	
+Accept – Risks which have low probability and low impact. Nothing specific needs to be done for such risks, but the 
+organization should be vigilant. If a back-up strategy is put in place for such a risk, all the better
+	
+•	
+Contain – Risks which have a high probability of occurring but having low impact on operations. Use mitigation strategies 
+to minimize impact of the risk on business operations.
+	
+•	
+Plan – Low probability but high impact events. Though this may be once in a lifetime event, its impact could be disastrous. 
+The business should plan the steps to be taken if such a risk occurs. Once the steps to be taken are in place, production 
+can be resumed in the shortest possible time with the least loss.
+	
+Business Impact Analysis
+	
+The Business Impact Analysis (BIA) identifies and prioritizes the mission-critical business processes and key functions, disruption 
+related operational impacts, and the resources (internal and external) required to recover critical operations.
+96
+	
+A properly executed BIA will guide in reducing the overall operational and financial impacts, reduce potential losses, and enhance 
+the business operations.
+	
+Business Continuity Strategy
+	
+Business Continuity Plan describes the strategy devised to maintain business continuity in the event of a disruption to operations. 
+This strategy will be invoked when the primary facility(ies) somehow be damaged or inaccessible, and business critical operations 
+are interrupted.
+	
+Recovery priorities
+	
+The strategy is to recover critical business functions at an alternate site location (if an off-site strategy has been put into effect 
+to provide recovery service). Critical business functions are the most critical for immediate recovery at the secondary location.
+8.	
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What 
+mitigation or adaptation measures have been taken by the entity in this regard.
+	
+Not available
+9.	
+Percentage of value chain partners (by value of business done with such partners) that were assessed for 
+environmental impacts.
+	
+Not available
+PRINCIPLE 7: Businesses, when engaging in influencing public and regulatory policy, should do so in a 
+manner that is responsible and transparent
+The Company is operating in a dynamic, competitive, and regulated environment, making the operations and compliance 
+more complex.
+The Company is committed to follow the law of the land and has a policy of zero tolerance to non-compliance which is an integral 
+part of its culture and operating philosophy. To support, streamline and adapt quickly with the ever-changing policy framework, The 
+Company have key industry memberships as given below.
+Essential Indicators
+1.	
+a)	
+Number of affiliations with trade and industry chambers/ associations - 4
+	
+b)	
+List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) the 
+entity is a member of/affiliated to.
+Sr. 
+No.
+Name of the trade and industry chambers/associations
+Reach of trade and industry Chambers/ 
+associations (State/National)
+1
+Confederation of Indian Industries
+State & National
+2
+Indian Electrical and Electronics Manufacturers’ Association
+National
+3
+Sweden Chamber of Commerce India
+National
+4
+Central Board of Irrigation and Power
+National
+2.	
+Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the 
+entity, based on adverse orders from regulatory authorities.
+	
+Not applicable since the Company has not received any adverse order from regulatory authorities towards issues related to 
+anti-competitive conduct.
+Name of authority
+Brief of the case
+Corrective action taken
+NA
+Leadership Indicators
+1.	
+Details of public policy positions advocated by the entity:
+Sr. 
+No.
+Public policy
+advocated
+Method resorted for such 
+advocacy
+Whether information 
+available in public domain 
+(Yes/No)
+Frequency of Review 
+by Board Annually/ Half 
+yearly/ Quarterly /
+Others - please specify)
+Web-link
+if available
+1
+NA
+-
+-
+-
+97
+Hitachi Energy India Limited | Integrated Annual Report 2023-24
+Financial Statements
+Statutory Reports
+ Integrated Report
+Corporate Overview
+PRINCIPLE 8: Businesses should promote inclusive growth and equitable development
+The Company’s Social Policy focuses on society, human rights, children and young workers, freedom of engagement, health and 
+safety, harassment and disciplinary practices, employee consultation, equality of opportunity working hours, compensation, suppliers, 
+community involvement and business ethics.
+The policy is drawn principally on six sources:
+a)	
+The Universal Declaration of Human Rights
+b)	
+The UN Guiding Principles on Business and Human Rights
+c)	
+The International Labor Organization’s Declaration on Fundamental Principles and Rights at work
+d)	
+The OECD Guidelines for Multinational Enterprises
+e)	
+The Global Sullivan Principles and
+f)	
+The Social Accountability 8000 (SA 8000) standard
+The Company has its Corporate Social Responsibility (CSR) policy and framework for action along with clear focal areas against 
+which community engagement projects are taken up predominantly in and around its factory locations.
+The details of beneficiaries of CSR Projects are given in response to clause 6 of Leadership indicators.
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the 
+current financial year.
+Not applicable
+Name and brief details of 
+project
+SIA Notification No.
+Date of notification
+Whether conducted by 
+independent external 
+agency (Yes/No)
+Results communicated 
+in public domain  
+(Yes/no)
+Relevant web-link
+NA
+NA
+NA
+NA
+NA
+NA
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being 	
+undertaken by your entity, in the following format:
+	
+Not applicable
+Sr. 
+No.
+Name of Project for which  
+R&R is ongoing
+State
+District
+No. of Project Affected 
+Families (PAFs)
+% of PAFs covered 
+by R&R
+NA
+NA
+NA
+NA
+NA
+NA
+3.	
+Describe the mechanisms to receive and redress grievances of the community.
+	
+The Company is committed to sustainable and inclusive development of the community’s social capital through active 
+engagement. Social surveys are organized through NGO partners to receive the grievances of community, if any. CSR projects 
+are identified and implemented in the following focus areas
+	
+•	
+Promote gender equality and empowering of women in engineering workforce.
+	
+•	
+Endorse Education, employability & healthcare.
+	
+•	
+Social impact projects to collaborate with communities to provide innovative off-grid solutions to improve access to 
+electricity in the country, especially in rural areas for its development.
+	
+•	
+Support national disaster management and other government initiatives.
+	
+•	
+Aid in sustainable development goals.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+Particulars
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year*
+Directly sourced from MSMEs/small producers
+18%
+-
+Directly from within India
+86%
+-
+	
+* Data from previous year not included as information has been sourced and calculated from the current financial year only.
+98
+5.	
+Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers 
+employed on a permanent or non-permanent/on contract basis) in the following locations, as % of total 
+wage cost.
+Pariculars
+April 1, 2023 - March 31, 2024
+Current Financial Year
+April 1, 2022 - March 31, 2023
+Previous Financial Year*
+Rural
+14%
+-
+Semi-urban
+5%
+-
+Urban
+74%
+-
+Metropolitan
+7%
+-
+	
+(Place to be categorized as per RBI Classification System - rural/ semi-urban/ urban/ metropolitan)
+	
+* Data from previous year not included as information has been sourced and calculated from the current financial year only.
+Leadership Indicators
+1.	
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments 
+(Reference: Question 1 of Essential Indicators above):
+	
+Not applicable
+Details of negative social impact identified
+Corrective action taken
+Nil
+NA
+2.	
+Provide the following information on CSR projects undertaken by your entity in designated aspirational districts 
+as identified by government bodies:
+Sr. 
+No.
+State
+Aspirational district
+Amount spent 
+(K in million)
+1
+Karnataka
+Bengaluru, Mandya, Chickballapur, Chamrajnagar
+8.70
+2
+Gujarat
+Vadodara, Anand
+7.76
+3
+Tamil Nadu
+Chennai
+8.27
+4
+Telangana
+Warangal
+3.40
+5
+Uttarakhand
+Roorkee
+3.60
+6
+West Bengal
+Kharagpur
+4.10
+7
+Delhi
+Delhi
+0.44
+8
+Assam
+Bongaigaon
+0.29
+9
+Haryana
+Gurugram
+0.24
+3.	
+(a)	
+Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising 
+marginalized/vulnerable groups? (Yes/No) – No
+	
+(b)	
+From which marginalized /vulnerable groups do you procure? – Not Applicable
+	
+(c)	
+What percentage of total procurement (by value) does it constitute? – Not Applicable
+4.	
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in 
+the current financial year), based on traditional knowledge:
+	
+Not applicable
+Sr. 
+No.
+Intellectual property based on 
+traditional knowledge
+Owned/Acquired  
+(Yes/No)
+Benefit shared  
+(Yes/No)
+Basis of calculating 
+benefit share
+5.	
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related 
+disputes wherein usage of traditional knowledge is involved
+	
+Not applicable
+Name of authority
+Brief of the case
+Corrective action taken
+NA
+NA
+NA
+99
+Hitachi Energy India Limited | Integrated Annual Report 2023-24
+Financial Statements
+Statutory Reports
+ Integrated Report
+Corporate Overview
+6.	
+Details of beneficiaries of CSR Projects:
+Sr. 
+No.
+CSR project
+No of persons 
+benefitted from CSR 
+projects
+% of beneficiaries 
+from vulnerable and 
+marginalized groups*
+1
+Women in Manufacturing, Engineering – empowering Girl students
+200
+100%
+2
+Maintenance of Medical equipment funded at Mysuru, Maneja Savli & Halol
+5000+
+100%
+3
+Healthcare project support
+50000+
+100%
+4
+Green initiative - Development of traffic islands at Vadodara
+General Public in the city
+100%
+5
+Urban afforestation - 2 Green cover development under Vadodara Municipal 
+Corporation
+General Public in the city
+100%
+6
+Development & maintenance of Green cover at National Highway Traffic median
+General Public in the city
+100%
+7
+‘Smart Electric Grid - Laboratory for quality education and skill development at NIT 
+Warangal
+10000+
+100%
+8
+“Collaborative Monitoring and Analytics Center” Smart & Sustainable Community - 
+Connecting industry, innovation and infrastructure at IIT Roorkee
+5000+
+100%
+9
+‘Sustainable Public Mobility - Piloting societal adaptation of clean energy in public 
+mobility at IIT Madras
+5000+
+100%
+10
+‘Sustainable Public Mobility - Piloting societal adaptation of clean energy in public 
+mobility at IIT Madras ‘Energy Simulation Lab for Diverse Sources Integration in 
+Power Systems’ at IIT Kharagpur
+1000+
+100%
+11
+‘Lab for Modeling and Simulation of Electric Energy Assets’ at BVM College of 
+Engineering
+1000+
+100%
+	
+* CSR initiatives focus on the well-being of marginalized communities by emphasizing education and healthcare support. Additionally, these 
+efforts extend to enhancing public spaces for universal accessibility and providing infrastructure to educational institutions that benefits the 
+entire community.
+PRINCIPLE 9: Businesses should engage with and provide value to their consumers in a responsible 
+manner
+Essential Indicators
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+The Company customers have following channels through which complaints can be sent and following mechanism is in place 
+to respond to the same:
+	
+i)	
+Customers can place the complaints through:
+	
+	
+a)	
+Contact Center
+	
+	
+b)	
+Through e-mail/Letter to the concerned area sales office or project management/order handling or through the EPC/
+OEM/ Distributor from which they have purchased the finished product.
+	
+ii)	
+Upon receipt of the complaint, the sales team or the factory team who have received the complaint, will raise in the system 
+thru Customer compliant resolution process (CCRP) tool. The progress of these CCRP tickets is tracked monthly.
+	
+iii)	
+Customers if not satisfied with pace of resolution or the resolution itself, can also request for an escalation matrix.
+	
+iv)	
+Transactional NPS (Net Promoter Score) is used to track the customer feedback and analyzed to take corrective action 
+if necessary.
+	
+v)	
+High severity customers complaints are monitored on monthly basis at management meetings.
+	
+vi)	
+Feedback from Customer visits are monitored at various steering committee levels.
+2.	
+Turnover of products and/ services as a percentage of turnover from all products/service that carry 
+information about:
+	
+The product manual provides information on Environmental and social parameters wherever it is relevant to the product.
+	
+For products installed in the field, the Company can offer lifecycle management solutions through its Service operations. This 
+will support decision-making for customers to manage and maintain their assets, including when it is time for upgrades and 
+decommissioning of assets. The Company is expanding its solutions for product end-of-life management, which have already 
+contributed to large amounts of recycled material in certain markets. One of the key pillars of its service strategy is extending 
+the life of its customers’ electrical infrastructure.
+Particulars
+As a percentage of total turnover
+Environmental and social parameters relevant to the product
+100%
+Safe and responsible usage
+100%
+Recycling and/or safe disposal
+100%
+100
+3.	
+Number of consumer complaints in respect of the following
+Particulars
+April 1, 2023 - March 31, 2024
+Current Financial Year
+Remarks
+April 1, 2022 - March 31, 2023
+Previous Financial Year
+Remarks
+Received during 
+the year
+Pending resolution 
+at end of year
+Received during 
+the year
+Pending resolution 
+at end of year
+Data privacy
+None
+None
+Nil
+None
+None
+Nil
+Advertising
+None
+None
+Nil
+None
+None
+Nil
+Cyber-security
+None
+None
+Nil
+None
+None
+Nil
+Delivery of essential services
+None
+None
+Nil
+None
+None
+Nil
+Restrictive trade practices
+None
+None
+Nil
+None
+None
+Nil
+Unfair trade practices
+None
+None
+Nil
+None
+None
+Nil
+Other
+4.	
+Details of instances of product recalls on account of safety issues:
+Particulars
+Number
+Reason for recall
+Voluntary recalls
+NIL
+NA
+Forced recalls
+NIL
+NA
+5.	
+Does the entity have a framework/policy on cyber security and risks related to data privacy? (Yes/No) If available, 
+provide a web-link of the policy.
+	
+Yes, the link is as follows - https://www.hitachienergy.com/offering/solutions/cybersecurity
+	
+The Company is certified for ISO/IEC: 27001:2013 for information security management systems.
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of 
+essential services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; 
+penalty/ action taken by regulatory authorities on safety of products/ services.
+	
+None
+7.	
+Provide the following information relating to data breaches:
+	
+a)	
+Number of instances of data breaches None
+	
+b)	
+Percentage of data breaches involving personally identifiable information of customers NA
+	
+c)	
+Impact, if any, of the data breaches NA
+Leadership Indicators
+1.	
+Channels/platforms where information on products and services of the entity can be accessed (provide web-link, 
+if available).
+	
+Yes, Web-link is as: https://www.hitachienergy.com/offering
+2.	
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.
+	
+The Company give the following to inform and educate consumers about safe and responsible usage of products and/or services.
+	
+-	
+Product operational Manual
+	
+-	
+Customer training on product, if required
+	
+-	
+Factory Acceptance Test (FAT) confirmation
+	
+-	
+On site commissioning support
+	
+-	
+On-site Service support to the customer.
+3.	
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.
+	
+In case of disruption/discontinuation of essential services the Company will ensure communication of the same through the 
+Company website and press releases.
+4.	
+Does the entity display product information on the product over and above what is mandated as per local laws? 
+(Yes/No/Not Applicable) If yes, provide details in brief.
+	
+No
+5. 	 Did your entity carry out any survey with regard to consumer satisfaction relating to the major products/services 
+of the entity, significant locations of operation of the entity or the entity as a whole? (Yes/No)
+	
+Yes. The Net Promoter Score (NPS) survey methodology is adopted to understand how the Company is perceived by its 
+customers. The surveys are administered online through a web-based application at planned interval.
+6.	
+Provide the following information relating to data breaches:
+	
+a)	
+Number of instances of data breaches along-with impact – None
+	
+b) 	
+Percentage of data breaches involving personally identifiable information of customers – Not Applicable
+101
+Hitachi Energy India Limited | Integrated Annual Report 2023-24
+Financial Statements
+Statutory Reports
+ Integrated Report
+Corporate Overview
+Health, Safety, Environment and Sustainability Policy
+https://publisher.hitachienergy.com/preview?DocumentID=8DBR001735&LanguageCode=en&DocumentPartId=&Action=launch
+Social Policy
+https://publisher.hitachienergy.com/preview?DocumentID=8DBR001736&LanguageCode=en&DocumentPartId=&Action=launch
+Human Rights Policy
+https://publisher.hitachienergy.com/preview?DocumentID=7HAA00003&LanguageCode=en&DocumentPartId=&Action=launch
+Corporate Social Responsibility Policy (Company)
+https://publisher.hitachienergy.com/preview?DocumentID=8DBR000673&LanguageCode=en&DocumentPartId=&Action=launch
+Sexual harassment of women at the workplace Policy (Company)
+https://publisher.hitachienergy.com/preview?DocumentID=8DBR000676&LanguageCode=en&DocumentPartId=&Action=launch
+Code of Conduct (Company)
+https://www.hitachienergy.com/about-us/integrity/standards/code-of-conduct
+Supplier Code of Conduct (Hitachi Energy Group)
+https://www.hitachienergy.com/in/en/about-us/supplying/supplier-code-of-conduct
+Sustainability commitment
+https://www.hitachienergy.com/in/en/sustainability/sustainability-overview#our-commitment
+Corporate Governance (Company):
+https://www.hitachienergy.com/in/en/investor-relations/corporate-governance
+Integrity Program (Hitachi Energy Group):
+https://www.hitachienergy.com/in/en/about-us/integrity
+Hitachi Energy Whistleblower - Protection Policy (Company):
+https://www.hitachienergy.com/in/en/about-us/integrity/reporting-channels/whistleblower-protection-policy
+Vulnerability Disclosure Policy:
+https://www.hitachienergy.com/products-and-solutions/cybersecurity/vulnerability-disclosure-policy
+Privacy Policy:
+https://www.hitachienergy.com/privacy-policy
+Equal Opportunity Policy:
+https://xecm.hitachienergy.com/otcs/llisapi.dll/8DAA5152964_en%20Equal%20Opportunity%20Policy%20%2D%20
+India?func=uniquenumberbox.oneviewopen&oneviewID=221731293&vernum=12&verType=PDF
+Annexure I
+Links to the Company Policies and 
+Programs’ section
+102

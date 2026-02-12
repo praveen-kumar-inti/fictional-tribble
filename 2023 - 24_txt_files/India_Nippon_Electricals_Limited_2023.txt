@@ -1,0 +1,4157 @@
+ 
+ 
+August 27, 2024 
+ 
+National Stock Exchange of India Limited 
+ 
+ 
+ 
+BSE Limited 
+Exchange Plaza, 5th Floor, 
+ 
+ 
+ 
+ 
+ 
+Phiroze Jeejeebhoy Towers 
+Plot no C 1, G Block, 
+ 
+ 
+ 
+ 
+ 
+ 
+Dalal Street, Fort  
+Bandra Kurla Complex,   
+ 
+ 
+ 
+ 
+ 
+Mumbai 400 001  
+Bandra (East), Mumbai 400 051  
+ 
+ 
+ 
+ 
+Scrip: 532240 
+Scrip: INDNIPPON 
+ 
+Subject: Business Responsibility and Sustainability Reporting - FY 2023-24 
+ 
+Dear Sir/Madam, 
+ 
+Pursuant to Regulation 34(2)(f) of Securities and Exchange Board of India (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, we are submitting herewith the Business Responsibility and Sustainability 
+Report for Financial Year (FY) 2023- 24, which also forms part of the Annual Report for FY 2023-24, submitted 
+to the Stock Exchanges.  
+ 
+The Annual Report containing AGM Notice and BRSR is also available on the website of the Company at 
+www.indianippon.com  
+ 
+We request you to take this on record. 
+ 
+Thanking You 
+ 
+Yours Sincerely  
+for India Nippon Electricals Limited 
+ 
+ 
+ 
+ 
+S Logitha 
+Company Secretary 
+Membership No. A29260 
+Encl: As Above 
+SEKAR 
+LOGITHA
+Digitally signed by 
+SEKAR LOGITHA 
+Date: 2024.08.27 
+18:22:27 +05'30'
+Business 
+Responsibility 
+and
+Sustainability 
+Report
+110
+Question 1
+Corporate Identity Number (CIN) of the listed entity
+L31901TN1984PLC011021
+Question 2
+Name of the listed entity
+india Nippon Electricals Limited
+Question 3
+Year of incorporation
+1984
+Question 4
+Registered office address
+11 & 13, Patullos Road, Chennai - 600 002
+Question 5
+Corporate address
+11 & 13, Patullos Road, Chennai - 600 002
+Question 6
+E-mail
+investors@inel.co.in
+Question 7
+Telephone
+044-2846 0063
+Question 8
+Website
+https://indianippon.com
+Question 9
+Financial year for which reporting is being done
+2023-2024
+Question 10
+Name of the Stock Exchange(s) where shares are listed
+BSE Ltd, Mumbai and National Stock Exchange of India 
+Limited, Mumbai
+Question 11
+Paid-up capital
+` 11,31,07,120
+Question 12
+Name and contact details (telephone, email address) of 
+the person who may be contacted in case of any queries 
+on the BRSR report
+Name: Ms. S Logitha
+Designation: Company Secretary
+Telephone: 044 - 2846 0073
+E-mail: logitha.s@inel.co.in
+Question 13
+Reporting boundary - Are the disclosures under this report 
+made on a standalone basis (i.e. only for the entity) or on 
+a consolidated basis (i.e. for the entity and all the entities 
+which form a part of its consolidated financial statements, 
+taken together).
+The disclosures made in this report are on a standalone 
+basis.
+Question 14
+Name of assurance provider
+Not Applicable
+Question 15
+Type of assurance obtained
+Not Applicable
+Details of Listed Entities
+Section A
+Corporate Overview
+Statutory Reports
+Financial Statements
+India Nippon Electricals Limited
+Annual Report 2023-24
+111
+Products/services
+Question 16
+Details of business activities (accounting for 90% of the turnover):
+Question 17
+Products/services sold by the entity (accounting for 90% of the entity’s turnover):
+Description of main activity
+Manufacturing
+Description of business activity
+INEL is a manufacturer within 
+the automotive industry, 
+specializing in producing 
+cutting-edge electronic ignition 
+systems, advanced mechatronic 
+products including sensors and 
+controllers.
+% of turnover of the entity
+100%
+S.no.
+Product/service
+NIC code
+% of total turnover contributed
+1
+Stator
+29304
+7.6
+2
+Rotor
+29304
+5.2
+3
+Flywheel Magneto
+29304
+64.8
+4
+TCI
+29304
+1.4
+5
+CDI
+29304
+2
+6
+Regulator & Rectifiers
+29304
+7.6
+7
+Ignition Coil
+29304
+3.3
+8
+EGR Controller
+29304
+0.1
+9
+Integral Unit
+29304
+4
+10
+DC-DC Convertor
+29304
+1.5
+11
+Sensor
+29304
+1.2
+12
+Others
+29304
+1.3
+112
+Operations
+Question 18
+Number of locations where plants and/or operations/offices of the entity are situated:
+National
+Number of plants & 
+Research Centre
+Number of offices
+Total
+4
+1
+5
+We have three manufacturing plants located in Hosur, Pondy, Rewari and a tech centre in Hosur. INEL’s registered office is 
+situated in Chennai.
+Question 19
+Markets served by the entity:
+a.
+Number of locations
+Locations
+Number
+National (No. of states)
+28 States and 8 Union Territories
+International (No. of countries)
+11
+b.
+What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+5%
+c.
+A brief on types of customers
+ 
+INEL is one of the largest automotive electrical manufacturers in the world. We cater to two-wheeler, three-wheeler, 
+general purpose engines, all terrain vehicles, snow mobiles, and recreational vehicles, among others.
+ 
+Our major customers - TVS Motor Company Limited, Hero MotoCorp Limited and Bajaj Auto Limited.
+Corporate Overview
+Statutory Reports
+Financial Statements
+India Nippon Electricals Limited
+Annual Report 2023-24
+113
+Question 20
+Details as at the end of financial year:
+a.
+Employees and workers (including differently abled):
+Employees
+S.no.
+Particulars
+Total
+(A)
+Male
+Female
+Other
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (D)
+% (D/A)
+Employees
+1.
+Permanent (D)
+370
+338
+91.351
+32
+8.649
+0.0
+0
+2.
+Other than permanent (E)
+0.0
+0.0
+0
+0.0
+0
+0.0
+0
+3.
+Total employees (D + E)
+370
+338
+91.351
+32
+8.649
+0
+0
+Workers
+4.
+Permanent (F)
+220
+176
+80
+44
+20
+0.0
+0
+5.
+Other than permanent (G)
+1,478
+1,203
+81.394
+275
+18.606
+0.0
+0
+6.
+Total workers (F + G)
+1,698
+1,379
+81.213
+319
+18.787
+0
+0
+b
+Differently abled employees and workers:
+S. no.
+Particula rs
+Total
+(A)
+Male
+Female
+Other
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (D)
+% (D/A)
+Differently abled employees
+1.
+Permanent (D)
+1
+0.0
+0
+1
+100
+0.0
+0
+2.
+Other than permanent (E)
+0.0
+0.0
+0
+0.0
+0
+0.0
+0
+3
+Total differently abled 
+employees (D + E)
+1
+0
+0
+1
+100
+0
+0
+Differently abled workers
+4.
+Permanent (F)
+0.0
+0.0
+0
+0.0
+0
+0.0
+0
+5.
+Other than permanent (G)
+0.0
+0.0
+0
+0.0
+0
+0.0
+0
+6.
+Total differently abled 
+workers (F + G)
+0
+0
+0
+0
+0
+0
+0
+114
+Question 21
+Participation/inclusion/representation of women
+No. (B)
+% (B/A)
+6
+2
+33.333
+3
+1
+33.333
+Board of Directors
+No. and percentage of females
+Total (A)
+Key Management 
+Personnel
+Question 22
+Turnover rate for permanent employees and workers
+FY 2023-24
+(Turnover rate in current FY)
+FY 2022-23
+(Turnover rate in previous FY)
+FY 2021-22
+(Turnover rate in the year prior to 
+the previous FY)
+Male
+Female
+Other
+Total
+Male
+Female
+Other
+Total
+Male
+Female
+Other
+Total
+Permanent employee
+13.29
+15.69
+0
+13.47
+20.71
+33.33
+0
+21.62
+22.53
+55.32
+0
+25.00
+Permanent workers
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Holding, subsidiary and associate companies (including joint ventures)
+S.no
+Name of the holding/
+subsidiary/associate 
+companies/joint ventures (A)
+Indicate whether holding/
+subsidiary/associate 
+company/joint venture
+% of shares held 
+by listed entity
+Does the entity indicated at 
+c o l u m n  ( A ) , participate in the 
+business responsibility initiatives 
+of the listed entity? (Yes/No)
+1
+PT Automotive Systems 
+Indonesia
+Subsidiary
+99.97
+No
+2
+Lucas Indian Service Limited
+Holding
+0
+No
+Question 23
+Names of holding/subsidiary/associate companies/joint ventures
+CSR details
+Question 24
+CSR Details
+(i)	
+Whether CSR is applicable as 
+per Section 135 of Companies 
+Act 2013: (Yes/No)
+(ii)	 Turnover (in `)
+(iii)	 Net worth (in `)
+Yes
+` 726.03 cr
+` 623.26 cr
+CSR contribution for 2023-24 is ` 95.96 lakhs
+Corporate Overview
+Statutory Reports
+Financial Statements
+India Nippon Electricals Limited
+Annual Report 2023-24
+115
+Question 25
+Complaints/grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible Business 
+Conduct:
+Transparency and Disclosures Compliances
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance 
+redressal 
+mechanism 
+in Place 
+(Yes/No)
+If yes, then 
+provide 
+web-link for 
+grievance 
+redress policy
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the year
+Remarks
+Communities
+Yes
+https://
+indianippon.
+com/policies/
+0
+0
+0
+0
+Investors
+(Other than 
+shareholder)
+Yes
+https://
+indianippon.
+com/policies/
+0
+0
+0
+0
+Shareholders
+Yes
+Shareholders 
+can lodge 
+complaints 
+by emailing at 
+investors @inel.
+co.in or to the 
+Registrar and 
+Share Transfer 
+Agent (RTA) who 
+is principally 
+responsible 
+for managing 
+the shares-
+related affairs 
+by emailing 
+at: investor @
+cameoindia.com
+0
+0
+0
+0
+Employees & 
+workers
+Yes
+https://
+indianippon.
+com/policies/
+7
+0
+2
+0
+Customers
+Yes
+https://
+indianippon.
+com/policies/
+0
+0
+0
+0
+Value chain 
+partners
+Yes
+https://
+indianippon.
+com/policies/
+0
+0
+0
+0
+Others 
+(please 
+specify here)
+No
+S. 
+No
+Material issue 
+identified
+Indicate 
+whether risk 
+or opportunity 
+(R/O)
+Rationale for identifying 
+the risk/opportunity
+In case of risk, approach to adapt 
+or mitigate
+Financial implications 
+of the risk or 
+opportunity (Indicate 
+positive or negative 
+implications)
+1
+Corporate 
+Social 
+Responsibility 
+(CSR)
+Opportunity
+Build trust with 
+stakeholders. Attract 
+socially conscious 
+customers and 
+investors.
+NA
+Elevated brand 
+visibility and value 
+via community 
+and stakeholder 
+engagement.
+2
+Employee 
+Well-Being
+Opportunity
+Improved well-being 
+can lead to better 
+performance and higher 
+quality of work and 
+reduced absenteeism 
+& employee turnover. 
+Positive employee 
+experience can lead to 
+attraction of talent and 
+improve the Company’s 
+reputation.
+NA
+Increase in efficiency, 
+assisting in managing 
+the employee cost.
+3
+Occupation 
+Health 
+and Safety 
+Management
+Risk
+Safeguarding our 
+workforce is a crucial 
+component of our 
+business strategy.
+We have implemented ISO 45001 
+for Health and Safety Management 
+System and certified for EOHS. A 
+Weekly Safety Audit is carried out 
+zone-wise by the Safety Team and 
+work related hazards are identified. 
+A Safety Committee meeting is 
+conducted every alternate month 
+and the members highlight safety 
+concerns noticed by them. An external 
+agency being engaged once in a year 
+to make a overall safety study.
+Zero fatality or loss of 
+asset and adherence 
+to legal compliance.
+4
+Data Security 
+and Privacy
+Risk
+Inadequate information 
+security and cyber 
+framework to protect 
+confidential and 
+sensitive information 
+from internal/external 
+threats.
+1. SIEM(Security Incident Event 
+Management) study conducted, 
+actions are identified and counter 
+measures are implemented
+2. An ISMS 27001 surveillance audit 
+is conducted to ensure that no 
+non-conformances are noticed 
+with reference to ISMS standards
+3. Cybersecurity awareness 
+programmes are conducted 
+through various forums
+Effective cybersecurity 
+control measures are 
+in place
+Question 26
+Overview of the entity’s material responsible business conduct issues
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters 
+that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or mitigate the risk 
+along-with its financial implications, as per the following format
+116
+Corporate Overview
+Statutory Reports
+Financial Statements
+India Nippon Electricals Limited
+Annual Report 2023-24
+117
+Section B
+Policy and management processes
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+1. 
+a. 
+Whether your 
+entity’s policy/
+policies cover each 
+principle and its 
+core elements of the 
+NGRBCs (Yes/No)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+ 
+b. 
+Has the policy been 
+approved by the 
+Board? (Yes/No)
+Yes
+No
+Yes
+Yes
+Yes
+No
+No
+Yes
+No
+ 
+c 
+Web link of the 
+policies, if available
+https://indianippon.com/policies/
+Question 2
+Policy and management processes related questions
+Question 1
+Policy and management processes related questions
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+2. 
+Whether the entity has translated the policy 
+into procedures. (Yes/No)
+Yes
+118
+Question 4
+Policy and management processes related 
+questions
+Question 5
+Policy and management processes related 
+questions
+Question 6
+Policy and management processes related 
+questions
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+4.	
+Name of the national and international 
+codes/certifications/labels/standards 
+(e.g. Forest Stewar dship Council, 
+Fairtrade, Rainfor est Alliance, Trustea) 
+standards (e.g. SA 8000, OHSAS, ISO, 
+BIS) adopted by your entity and mapped 
+to each principle. 
+IATF 
+16949: 
+2021 
+ISO45001: 
+2018
+ISO14001: 
+2015
+ISO9001: 
+2015
+ISO27001. 
+2013
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+6.	
+Performance of the entity against the 
+specific commit ments, goals and 
+targets along- with reasons in case the 
+same are not met.
+NA
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+5.	
+Specific commit ments, goals and targets set 
+by the entity with defined timelines, if any.
+The Company is in the process of defining an overall ESG 
+strategy with goals and targets on material issues.
+Question 3
+Policy and management processes related 
+questions
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+3.	
+Do the enlisted policies extend to your 
+value chain partners? (Yes/No)
+Yes
+118
+Corporate Overview
+Statutory Reports
+Financial Statements
+India Nippon Electricals Limited
+Annual Report 2023-24
+119
+Governance, leadership and oversight
+Subject for Review
+Indicate whether review was undertaken by Director/Committee of the Board/Any other Committee
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance 
+against above 
+policies and follow 
+up action
+The policies of the Company are reviewed 
+periodic ally/on a need basis by department 
+heads/director/Board commit tees/Board 
+members, wherever applicable.
+The Company complies 
+with all the applicable 
+statutory require ments 
+and rectifies, non- 
+compliance, if any.This 
+is reviewed by the Audit 
+Committee
+The policies of the 
+Company are reviewed 
+periodically/on a need 
+basis by department 
+heads/director/Board 
+committees/Board 
+members, wherever 
+applicable.
+Compliance 
+with statutory 
+requirements of 
+relevance to the 
+principles, and, 
+rectification of any 
+non-compliances
+The Company complies with all the applicable statutory requirements and rectifies non-compliance, if 
+any. This is reviewed by the Audit Committee
+Question 10
+Details of Review of NGRBCs by the Company:
+Question 7
+Statement by director responsible for the business responsibility report, highlighting ESG related challenges, targets and 
+achievements (listed entity has flexibility regarding the placement of this disclosure)
+INEL understands the importance of nurturing the environment and taking proactive measures to ensure sustainable practices. 
+Our Company’s commitment to reducing our carbon footprint is reflected in the integration of eco-friendly technologies into 
+our manufacturing processes. This has resulted in reduced energy consumption and emissions. We actively promote waste 
+recycling and water conservation initiatives across our facilities and support reforestation programs. Additionally, we encourage 
+our employees and stakeholders to participate in community-based environmental projects.
+Question 8
+Details of the highest authority responsible for implementation and oversight of the Business Responsibility policy (ies).
+Name: Mr. Arvind Balaji, 
+Designation: Managing Director
+Question 9
+Does the entity have a specified Committee of the Board/Director responsible for decision making on sustainability related 
+issues? (Yes/No). If yes, provide details. Yes or No?
+No
+The Managing Director and the President are responsible for decision-making on sustainability related issues.
+120
+Subject for review
+Frequency (Annually/Half yearly/Quarterly/Any other – please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Performance against above policies and 
+follow up action
+Ongoing basis
+Compliance with statutory requirements 
+of relevance to the principles, and, 
+rectification of any non-compliances
+Quarterly and as & when required according to statutory requirements
+Question 11
+Has the entity carried out independent assessment/evaluation of the working of its policies by an external agency? 
+(Yes/No). If yes, provide name of the agency.
+Question
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Has the entity carriedout independent 
+assessment/evaluation of the working of its 
+policies by an external agency?
+If yes, provide name of the agency
+NA
+ISMS policies 
+and procedures 
+were audited 
+by independent 
+agency by TUV 
+Nord.
+Question 12
+If answer to question (1) of this section B is “No” i.e. not all principles are covered by a policy, reasons to be stated:
+Question
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity does not consider the Principles 
+material to its business (Yes/No)
+N.A
+The entity is not at a stage where it is in a 
+position to formula te and implem ent the 
+policies on specifie d principles (Yes/No)
+The entity does not have the financial or/
+human and technical resources available for 
+the task (Yes/No)
+It is planned to be done in the next financial 
+year (Yes/No)
+Any other reason (please specify)
+Corporate Overview
+Statutory Reports
+Financial Statements
+India Nippon Electricals Limited
+Annual Report 2023-24
+121
+Section C
+Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable.
+PRINCIPLE 1
+Question E1
+Percentage coverage by training and awareness programmes on any of the principles during the financial year:
+Percentage coverage by training and awareness programmes
+Segment
+Total number of 
+training and awareness 
+programmes held
+Topics/principles covered under the 
+training and its impact
+%age of persons in respective 
+category covered by the 
+awareness programmes
+Board of Directors
+-
+Nil
+-
+Key Managerial 
+Personnel
+2
+ESG Roadmap, PoSH Awareness, 
+Cybersecurity
+100
+Employees other than 
+BoD and KMPs
+31
+Industry 4.0, Tryout Approval, Business 
+Responsibility & Sustainability 
+Reporting, Seminar on Quality 4.0, 
+APQP, PPAP, VDA FMEA, SPC & MSA,  
+GD&T. Cardiac Awareness, Obstetrics & 
+Gynaecology, ERT, Fire Fighting, TQM, 
+ISO Lead Auditors, Principles of Motion 
+Economy, Indian Production System/IPC 
+Standards, POSH, Safety, Environment, 
+Health,
+100
+Workers
+424
+Soldering Training, PDI Operators 
+Training, Stator Preparation, Measuring 
+Gauges & Instruments, CNC, ERT, Fire 
+Fighting, Obstetrics & Gynaecology, 
+Skill Level Upgradation, POSH, Safety, 
+Environment, Health
+100
+122
+Question E2
+Details of fines/penalties/punishment/award/compounding fees/settlement amount paid in proceedings (by the entity or 
+by directors/KMPs) with regulators/law enforcement agencies/judicial institutions, in the financial year, in the following 
+format (Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30 of SEBI (Listing 
+Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+Question E3
+Of the instances disclosed in Question 2 above, details of the Appeal/Revision preferred in cases where monetary or non-
+monetary action has been appealed.
+Monetary
+Details
+NGRBC 
+principle
+Name of the regulatory/
+enforcement agencies/judicial 
+institutions
+Amount 
+(In INR)
+Brief of the 
+case
+Has an appeal been 
+preferred? (Yes/No)
+Penalty/fine
+All
+Nil
+Nil
+NA
+No
+Settlement
+All
+Nil
+Nil
+NA
+No
+Compounding fee
+All
+Nil
+Nil
+NA
+No
+Non-Monetary
+Details
+NGRBC 
+principle
+Name of the regulatory/
+enforcement agencies/judicial 
+institutions
+Brief of the case
+Has an appeal been 
+preferred? (Yes/No)
+Imprisonment
+All
+Nil
+NA
+No
+Punishment
+All
+Nil
+NA
+No
+Case details
+Name of the regulatory/enforcement 
+agencies/judicial institutions
+NA
+NA
+Question E4
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide a 
+web-link to the policy.
+Yes. As a part of the Code of Conduct for all the employees, on discipline and misconduct, the Company states its anti-bribery 
+policy as “Accepting bribe or illegal gratification, in any form, from anyone, in connection with the Company’s business is 
+considered violation”. The policy emphasizes a zero tolerance approach towards corruption and bribery. The Company has 
+appropriate internal controls to ensure that the Company or its employees do not engage in unethical practices. The Company 
+conducts proactive reviews, audits and internal investigations to monitor compliance with the policy. The policy also provides 
+information and guidance on how to recognize and deal with bribery and corruption issues. As a part of the training on the Code 
+of Conduct, employees are also trained on Anti-Corruptionand Anti-bribery topics. The web-link of such policies covered under 
+the Code of Conduct and Business Ethics are available on the Company’s website.
+Corporate Overview
+Statutory Reports
+Financial Statements
+India Nippon Electricals Limited
+Annual Report 2023-24
+123
+Question E5
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement agency 
+for the charges of bribery/corruption:
+Question E6
+Details of complaints with regard to conflict of interest:
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+Directors
+0
+0
+KMPs
+0
+0
+Employees
+0
+0
+Workers
+0
+0
+Complaints
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+Number
+Remarks
+Number
+Remarks
+Number of complaints received 
+in relation to issues of conflict of 
+interest of the Directors
+0
+0
+Number of complaints received 
+in relation to issues of conflict of 
+interest of the KMPs
+0
+0
+Question E7
+Provide details of any corrective action taken or underway on issues related to fines/penalties/action taken by regulators/
+law enforcement agencies/judicial institutions, on cases of corruption and conflicts of interest.
+NIL
+124
+Question E8
+Number of days of accounts payables ((Accounts payable *365)/Cost of goods/services procured) in the following format:
+Question E9
+Open-ness of business Provide details of concentration of purchases and sales with trading houses, dealers, and related 
+parties along-with loans and advances & investments, with related parties, in the following format:
+82
+101
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+Number of days of 
+accounts payables
+Parameter
+Metrics
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+Concentration 
+of purchases
+a. 
+Purchases from trading houses as % of 
+total purchases
+69.9
+66.4
+b. 
+Number of trading houses where 
+purchases are made from
+170
+202
+c. 
+Purchases from top 10 trading houses 
+as % of total purchases from trading 
+houses
+50.2
+49.2
+Concentration 
+of sales
+a. 
+Sales to dealers/distributors as % of 
+total sales
+12
+11
+b. 
+Number of dealers/distributors to whom 
+sales are made
+118
+91
+c. 
+Sales to top 10 dealers/distributors as % 
+of total sales to dealers/distributors
+43.8
+45
+Share of the 
+RPTs in
+a. 
+Purchases (Purchases with related 
+parties/Total purchases)
+-
+-
+b. 
+Sales (Sales to related parties/Total 
+sales)
+360
+314
+c. 
+Loans & advances (Loans & advances 
+given to related parties/Total loans & 
+advances) 
+-
+-
+d. 
+Investments (Investments in related 
+parties/Total investments made) 
+-
+-
+Corporate Overview
+Statutory Reports
+Financial Statements
+India Nippon Electricals Limited
+Annual Report 2023-24
+125
+54
+14
+14
+Question L1
+Awareness programmes conducted for value chain partners on any of the Principles during the financial year:
+Total number of awareness 
+programmes held
+Topics/principles covered 
+under the training
+%age of value chain partners 
+covered (by value of business 
+done with such partners) under the 
+awareness programmes
+Programmes FY-23-24
+1.	
+Cost of Poor Qulaity
+2. 
+Customer Specific Requirement
+3.	
+Delivery Improvement 
+4.	
+IATF 16949 Standard 
+5.	
+VDA 6.3 Standards
+6.	
+Failure Mode Effects Analysis
+7.	
+Best Shopfloor Practices for Indian MSME's
+8.	
+Stores Management
+9.	
+Risk Management 
+10.	 Living 'Zero Defect' Quality
+11.	 Total Employee Involvement 
+12.	 Request for Quote process
+13.	 Stress Management 
+14.	 Principles of Motion Economy
+Question L2
+Does the entity have processes in place to avoid/manage conflict of interests involving members of the Board? (Yes/No) If 
+Yes, provide details of the same.
+Yes, the Company has in place a ‘Policy on Related Party Transactions’, which is applicable to our Board members. 
+Transactions with the Board members or any entity in which such Board members are concerned or interested are required 
+to be approved by the Audit Committee and the Board of Directors. In such cases, the interested Directors abstain themselves 
+from the discussions at the meeting.
+126
+Businesses should provide goods and services in a manner that is sustainable and safe
+PRINCIPLE 2
+Question E1
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental and 
+social impacts of product and processes to total R&D and capex investments made by the entity, respectively.
+Question E2
+Sustainable Sourcing
+Question E3
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, for (a) 
+Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+All our products are supplied to original equipment manufacturer. Hence the scope of disposal of such materials after end of 
+life is taken care by OEMs.
+Question E4
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes/No). If yes, whether the waste 
+collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control Boards? If not, 
+provide steps taken to address the same.
+Yes. We have applied for EPR with Central Pollution Control Board and it is currently under consideration.
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+Details of improvements 
+in environmental and 
+social impacts
+Capex
+R&D
+1.2
+0
+6.4
+0
+	
+Does the entity have procedures 
+in place for sustainable sourcing?
+	
+Yes
+	
+If yes, what percentage of inputs 
+were sourced sustainably?
+	
+75%
+a
+b
+Nil
+Nil
+Corporate Overview
+Statutory Reports
+Financial Statements
+India Nippon Electricals Limited
+Annual Report 2023-24
+127
+Question L1
+Has the entity conducted Life Cycle Perspective/Assessments (LCA) for any of its products (for manufacturing industry) 
+or for its services (for service industry)? If yes, provide details in the following format?
+Question L2
+If there are any significant social or environmental concerns and/or risks arising from production or disposal of your 
+products/services, as identified in the Life Cycle Perspective/Assessments (LCA) or through any other means, briefly 
+describe the same along with action taken to mitigate the same.
+Question L3
+Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing industry) 
+or providing services (for service industry).
+Question L4
+Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, and safely 
+disposed, as per the following format:
+NIC code
+Name of product/
+service
+% of total 
+turnover 
+contributed
+Boundary for which the 
+Life Cycle Perspective/
+Assessment was 
+conducted
+Whether conducted 
+by independent 
+external agency 
+(Yes/No)
+Results communicated 
+in public domain (Yes/
+No) If yes, provide the 
+web-link.
+This is not applicable as our products are assembled with an Engine/Vehicle and the Life Cycle Assessment of the Engine/
+Vehicle is dealt by customers.
+Name of product/service
+Description of the risk/concern
+Action taken
+NIL
+Indicate input material
+Recycled or re-used input material to total material
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+NIL
+Waste Type
+FY 2023-24
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+Re-Used
+Recycled
+Safely disposed
+Re-Used
+Recycled
+Safely disposed
+All our products are supplied to OEMs and hence reclaim/recycle/reuse will be under their scope.
+128
+Question L5
+Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
+Indicate product category
+Reclaimed products and their packaging materials as % of total 
+products sold in respective category
+Packing materials
+0.025
+Copper
+0.315
+Aluminium
+0.08
+Steel
+0.103
+Plastic
+0.012
+Apart from packaging materials copper, aluminium, steel and plastics are part of our products. The above items reclaimable 
+value is calculated with Total sales turnover.
+Corporate Overview
+Statutory Reports
+Financial Statements
+India Nippon Electricals Limited
+Annual Report 2023-24
+129
+Businesses should respect and promote the well-being of all employees, including those in their value 
+chains
+PRINCIPLE 3
+Question E1
+Well-being of employees and workers:
+a.
+Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total 
+(A)
+Health 
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+benefits
+Day care 
+Facilities
+Num 
+ber (B)
+% 
+(B/A)
+Num 
+ber (C)
+% 
+(C/A)
+Num 
+ber (D)
+% 
+(D/A)
+Num 
+ber (E)
+% 
+(E/A)
+Num 
+ber (F)
+% 
+(F/A)
+Permanent employees
+Male
+338
+338
+100
+338
+100
+0.0
+0
+0.0
+0
+0.0
+0
+Female
+32
+32
+100
+32
+100
+32
+100
+0.0
+0
+32
+100
+Other
+0.0
+0.0
+0
+0.0
+0
+0.0
+0
+0.0
+0
+0.0
+0
+Total
+370
+370
+100
+370
+100
+32
+8.649
+0.0
+0
+32
+8.649
+Other than permanent employees
+Male
+0.0
+0.0
+0
+0.0
+0
+0.0
+0
+0.0
+0
+0.0
+0
+Female
+0.0
+0.0
+0
+0.0
+0
+0.0
+0
+0.0
+0
+0.0
+0
+Other
+0.0
+0.0
+0
+0.0
+0
+0.0
+0
+0.0
+0
+0.0
+0
+Total
+0.0
+0.0
+0
+0.0
+0
+0.0
+0
+0.0
+0
+0.0
+0
+Category
+% of employees covered by
+Total 
+(A)
+Health 
+insurance
+Accident 
+insurance
+Maternity 
+benefits
+Paternity 
+benefits
+Day care 
+facilities
+Number 
+(B)
+% 
+(B/A)
+Number 
+(C)
+% 
+(C/A)
+Number 
+(D)
+% 
+(D/A)
+Number 
+(E)
+% 
+(E/A)
+Number 
+(F)
+% 
+(F/A)
+Permanent employees
+Male
+176
+176
+100
+176
+100
+0.0
+0
+0.0
+0
+0.0
+0
+Female
+44
+44
+100
+44
+100
+44
+100
+0.0
+0
+44
+100
+Other
+0.0
+0.0
+0
+0.0
+0
+0.0
+0
+0.0
+0
+0.0
+0
+Total
+220
+220
+100
+220
+100
+44
+20
+0.0
+0
+44
+20
+Other than permanent employees
+Male
+1203.0
+1096
+91.106
+1203
+100
+0.0
+0
+0.0
+0
+0.0
+0
+Female
+275.0
+250
+90.909 
+275
+100
+275
+100
+0.0
+0
+275
+100
+Other
+0.0
+0.0
+0
+0.0
+0
+0.0
+0
+0.0
+0
+0.0
+0
+Total
+1478
+1396
+91.746
+1356
+100
+275
+18.606
+0.0
+0
+275
+18.606
+b.
+Details of measures for the well-being of workers:
+130
+c.
+Spending on measures towards well-being of employees and workers (including permanent and other than permanent) 
+in the following format:
+Cost incurred on wellbeing 
+measures as a % of total revenue of 
+the company
+1.48
+1.61
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+All female employees and workers are extended with maternity benefit and day care facilities as and when required
+Question E2
+Details of retirement benefits, for current FY and previous financial year.
+Benefits
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+PF
+100
+100
+Y
+100
+100
+Y
+Gratuity
+100.0
+100
+Y
+100
+100
+Y
+ESI
+100
+100
+Y
+100
+100
+Y
+Superannuation
+9
+0
+Y
+9
+0
+Y
+Superannuation is an additional benefit extended to employees as part of their CTC.
+Question E3
+Are the premises/offices of the entity accessible to differently abled employees and workers, as per the requirements of the 
+Rights of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard.
+Yes, we have implemented requirements of the rights of persons with disabilities in one of our facilities.
+Question E4
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide a 
+web-link to the policy.
+No. However in practice we are ensuring the equal opportunity as per the rights of the persons with disabilities Act 2016
+Corporate Overview
+Statutory Reports
+Financial Statements
+India Nippon Electricals Limited
+Annual Report 2023-24
+131
+Question E5
+Return to work and retention rates of permanent employees and workers that took parental leave.
+Question E6
+Is there a mechanism available to receive and redress grievances for the following categories of employees and worker? If 
+yes, give details of the mechanism in brief.
+Gender
+Permanent employees
+Permanent workers
+Return to work rate
+Retention rate
+Return to work rate
+Retention rate
+Male
+-
+-
+-
+-
+Female
+100
+100
+100
+100
+Other
+-
+-
+-
+-
+Total
+-
+-
+-
+-
+Yes/No 
+(If Yes, then give details of the 
+mechanism in brief)
+YES
+Permanent workers
+Permanent employees
+Other than permanent workers
+Other than permanent employees
+1)	
+Whistle Blower Policy: We are engaging a professionally managed external agency where any employee can raise 
+their concern through e-mail/phone and the same is resolved as per the defined process.
+2)	
+Voice of The Employees (VOTE): HR will meet all the employees as per the schedule, understand their issues and 
+provide appropriate solution.
+3)	
+Trade Union: We have registered/recognized Trade Unions functioning within the Company. The Union office bearers 
+regularly interact with HR managers and amicably settle their grievances.
+4)	
+Monthly Gemba Meetings: The HR department addresses the above category of workers every month, understands 
+their concerns and addresses them appropriately
+5)	
+PoSH: The Committee meets every month, discuss the issues arising out of women employees and resolve them 
+appropriately.
+132
+Question E7
+Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+Category
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+Total 
+employees/
+workers in 
+respective 
+category (A)
+No. of employees/
+workers in 
+respective category, 
+who are part of 
+association( s) or 
+Union (B)
+% 
+(B/A)
+Total 
+employees/
+workers in 
+respective 
+category (C)
+No. of employees/
+workers in 
+respective category, 
+who are part of 
+association( s) or 
+Union (D)
+% 
+(D/C)
+Total permanent employees
+370
+-
+-
+342
+-
+-
+Male
+338
+-
+-
+316
+-
+-
+Female
+32
+-
+-
+26
+-
+-
+Other
+-
+-
+-
+-
+-
+-
+Total permanent workers
+220
+220
+100
+228
+228
+100
+Male
+176
+176
+100
+184
+184
+100
+Female
+44
+44
+100
+44
+44
+100
+Other
+-
+-
+-
+-
+-
+-
+Question E8
+Details of training given to employees and workers:
+Categ ory
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+Total 
+(A)
+On health and 
+safety measures
+On skill 
+upgradation
+Total 
+(D)
+On health and safety 
+measures
+On skill 
+upgradation
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Male
+338
+25
+7.396
+310
+91.716
+316
+30
+9.494
+285
+90.19
+Female
+32
+6
+318.75
+28
+87.5
+32
+15
+46.875
+27
+84.375
+Other
+0.0
+0.0
+0
+0.0
+0
+0
+0
+0
+0
+0
+Total
+370
+31
+8.378
+338
+91.351
+348
+45
+12.931
+312
+89.655
+Workers
+Male
+1379
+1106
+80.20%
+1124
+81.51%
+1256
+790
+62.90%
+1089
+86.70%
+Female
+319
+224
+70.22%
+118
+36.99%
+288
+160
+58.33%
+120
+41.67%
+Other
+0.0
+0.0
+0
+0.0
+0
+0
+0
+0
+0
+0
+Total
+1698
+1330
+78.33%
+1242
+73.14%
+1544
+958
+62.05%
+1209
+78.30%
+All new joinees are provided training on health and safety during the orientation. Emergency mock drills are conducted every six 
+months, which have not been covered above.
+Corporate Overview
+Statutory Reports
+Financial Statements
+India Nippon Electricals Limited
+Annual Report 2023-24
+133
+Question E9
+Details of performance and career development reviews of employees and worker:
+Category
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C)
+Employees
+Male
+338
+338
+100
+316
+316
+100
+Female
+32
+32
+100
+32
+32
+100
+Other
+0.0
+0.0
+0
+0
+0
+0
+Total
+370
+370
+100
+348
+348
+100
+Workers
+Male
+176
+176
+100
+184
+184
+100
+Female
+44
+44
+100
+44
+44
+100
+Other
+-
+-
+-
+-
+-
+-
+Total
+220
+220
+100
+228
+228
+100
+Question E10
+Health and safety management system:
+a
+Whether an occupational health and safety management system has been implemented by the entity? (Yes/No). If yes, 
+the coverage such system?
+ 
+Yes. We have implemented the standards of ISO 14001 for Environmental Management System and ISO 45001 for Health 
+and Safety Management System and certified for EOHS.
+b
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by 
+the entity?
+ 
+1) 
+Zone-wise weekly Safety Audits are carried out by the Safety Team and work-related hazards are identified.
+ 
+2) 
+A Safety Committee meeting is conducted every alternate month and the members highlight safety concerns noticed 
+by them.
+ 
+3) 
+An external agency is engaged once in a year to conduct an overall safety study.
+ 
+ 
+All safety hazards are identified in the above manner and actions arereviewed in the weekly/onthly review by the 
+leadership team.
+c
+Whether you have processes for workers to report the work related hazards and to remove themselves from such risks. 
+(Y/N)
+ 
+Yes.
+ 
+1) 
+We have a Safety Committee consisting of workers. This Committee reviews the safety issues once in two months 
+and addresses all the issues, thereby alleviating such risks. 
+ 
+2) 
+We have a practice of tracking near-miss and unsafe working conditions.
+ 
+3) 
+Employees are encouraged to participate in safety-related suggestions and competitions.
+134
+Question E12
+Describe the measures taken by the entity to ensure a safe and healthy work place.
+All employees are educated the importance of safe work practices. A simulation-based training is offered to help them 
+understand the importance of wearing Personal Protective Equipment (PPE). Emergency Mock drills and Fire safety 
+demonstrations are conducted every six months. Further.
+1) 
+Weekly Safety Audits are carried out zone-wise by the Safety Team and work-related hazards are identified. All machines 
+are equipped with safety curtains which prevent employees from work-related injuries
+2) 
+A Safety Committee meeting is conducted every alternate month and the members highlight safety concerns noticed by 
+them
+3) 
+External agency being engaged once in a year to prepare an overall safety study
+4) 
+Employees are rewarded for the safety-related suggestions/improvements
+5) 
+As per the various guidelines, health check-ups are carried out periodically
+6) 
+An annual health check-up is carried out for all employees
+All safety hazards are identified in the above manner and actions are reviewed on a weekly basis by the leadership team
+d
+Do the employees/worker of the entity have access to non-occupational medical and healthcare services? (Yes/No)
+ 
+Yes, we have tie-ups with nearby hospitals for non-occupational health services to all our employees. An Annual Master 
+Health check-up facility is extended to employees and appropriate medication is administered.
+Question E11
+Details of safety related incidents, in the following format: *Including in the contract workforce
+Safety Incident/Number
+Category*
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+Lost Time Injury Frequency Rate (LTIFR) 
+(per one million-person hours worked)
+Employees
+0
+149.58
+Workers
+9.68
+63.88
+Total recordable work- related injuries
+Employees
+0
+1
+Workers
+1
+2
+No. of fatalities
+Employees
+0.0
+0
+Workers
+0.0
+0
+High consequence work- related injury 
+or ill-health (excluding fatalities)
+Employees
+0.0
+0
+Workers
+0.0
+0
+Corporate Overview
+Statutory Reports
+Financial Statements
+India Nippon Electricals Limited
+Annual Report 2023-24
+135
+Question E13
+Number of Complaints on the following made by employees and workers:
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+Filed during 
+the year
+Pending resolution 
+at the end of year
+Remarks
+Filed during 
+the year
+Pending resolution at 
+the end of year
+Remarks
+Working conditions
+0
+0
+o
+o
+Health & safety
+0
+0
+o
+o
+Question E14
+Assessments for the year:
+Question E15
+Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant 
+risks/concerns arising from assessments of health & safety practices and working conditions.
+We have established a mechanism for taking corrective action for all the accidents/incidents//near misses. This has been 
+reviewed by our senior leadership team during a weekly review meeting.
+# Verification of safety curtain before start of operation - Part of Routine Maintenance Check
+Question L1
+Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees (Y/N) (B) 
+Workers (Y/N).
+Yes. We have the following provisions in this regard:
+1) 
+Group Personal Accident Policy (24-hours) - for all category of employees including workers
+2) 
+Apart from the above, we have an internal policy that, in the event of death of any employee and workers, all the employees 
+would contribute 1-day’s gross wages, while the management would contribute twice the contribution of the employees
+Question L2
+Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by the 
+value chain partners.
+The Company has implemented a system to ensure statutory dues are deducted and disposed by the value chain partners. 
+This is done by verifying the invoices submitted by vendors and contractors. In case of delay, the Company advises the 
+vendors and contractors suitably.
+% of your plants and offices that 
+were assessed (by entity or statutory 
+authorities or third parties)
+100
+Health and safety practices
+Working conditions
+EOHS audits are carried out periodically, which cover the working conditions & health and safety practices. Further, ‘Work 
+Permit’ and ‘HIRA’ is being carried out.
+We have implemented Safety and working condition practices in line with the ISO 14001:2015/ISO 45001:2018 standards.
+136
+Question L3
+Provide the number of employees/workers having suffered high consequence work-related injury/ill-health/fatalities (as 
+reported in Q11 of Essential Indicators above), who have been are rehabilitated and placed in suitable employment or whose 
+family members have been placed in suitable employment:
+Total no. of affected 
+employees/workers
+No. of employees/workers that are rehabilitated 
+and placed in suitable employment or whose 
+family members have been placed in suitable 
+employment
+FY 2023-24
+(Current financial year)
+FY 2022-23
+(Previous financial year)
+FY 2023-24 
+(Current financial year)
+FY 2022-23
+(Previous financial year)
+Employees
+0
+0
+1
+0
+Workers
+1
+0
+2
+0
+Question L4
+Does the entity provide transition assistance programs to facilitate continued employability and the management of career 
+endings resulting from retirement or termination of employment? (Yes/No)
+No
+Question L5
+Details on assessment of value chain partners:
+Question L6
+Provide details of any corrective actions taken or underway to address significant risks/concerns arising from assessments 
+of health and safety practices and working conditions of value chain partners.
+Currently, the compliance requirements in this regard are met by all our suppliers.
+% of value chain partners (by value 
+of business done with such partners) 
+that were assessed
+100
+Health and safety practices
+Working conditions
+Corporate Overview
+Statutory Reports
+Financial Statements
+India Nippon Electricals Limited
+Annual Report 2023-24
+137
+Question E1
+Describe the processes for identifying key stakeholder groups of the entity.
+Key stakeholders are identified on the basis of their material influence on the Company or on how they are impacted by the 
+Company’s corporate decisions and the consequences of those decisions.
+Through this mechanism, the Company has currently identified following internal and external stakeholder groups: Customers, 
+Employees, Workers, Investors and Community.
+Question E2
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.
+Businesses should respect the interests of and be responsive to all its stakeholders
+PRINCIPLE 4
+Stakeholder 
+group
+Whether 
+identified as 
+vulnerable & 
+marginalized 
+group (Yes/No)
+Channels of communication 
+(Email, SMS, newspaper, 
+pamphlets, advertisement, 
+community meetings, notice 
+board, website), Other
+Frequency of 
+engagement 
+(Annually/Half yearly/
+Quarterly/Others – 
+please specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Customers
+No
+Conferences, customer meets, 
+plant visits and surveys
+Regularly
+Product information, sales 
+service and grievance 
+redressal
+Employees
+No
+1. Mail communication, 
+WhatsApp group, workshops, 
+online portals, employee 
+surveys.
+2. One-on-one interactions 
+3. Employee engagement team 
+building 
+4. Townhall meeting 
+5. Notice board
+Periodically
+1. Inform important 
+advancements in the 
+Company. 
+2. Help the employees 
+expand their knowledge in 
+the industry. 
+3. Get employee feedback 
+and resolving their issues.
+Workers
+No
+Notice board, townhall meeting
+Periodically
+Getting feedback and 
+resolving their issues.
+Community
+Yes
+Community engagement 
+through CSR activities, meeting 
+local people in and around the 
+operating sites
+Periodically
+CSR community 
+engagement
+Shareholders/
+Investors
+No
+1. Annual report 
+2. Investor presentations 
+3. Corporate website
+4. Quarterly & annual results 
+5. Social media/newspaper 
+publication 
+6. Intimation to stock exchange
+Annually, periodically 
+and quarterly
+Sharing of key updates, 
+results, management 
+comment on the progress 
+of the Company including 
+financial and non-financial 
+disclosures
+Suppliers
+No
+Email, One on One interactions, 
+Virtual Meetings.
+Periodically
+NPD, QCD, Tech shows
+138
+Question L1
+Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social topics 
+or if consultation is delegated, how is feedback from such consultations provided to the Board.
+The management routinely engages with essential stakeholders such as investors, customers, channel partners, and analysts 
+to convey strategies and performance updates. These interactions are primarily managed by responsible business functions. 
+Subsequently, pertinent issues and feedback are deliberated upon with the appropriate Board committees.
+Question L2
+Whether stakeholder consultation is used to support the identification and management of environmental, and social 
+topics (Yes/No). If so, provide details of instances as to how the inputs received from stakeholders on these topics were 
+incorporated into policies and activities of the entity.
+Yes. In 2022, Government of Tamil Nadu proposed a scheme called ‘Kurungadukal’ (Development of Mini Forest) towards 
+environmental sustainability. We have developed the same in our Hosur factory premises, as directed by the Tamil Nadu 
+Pollution Control Board, Hosur. 
+Question L3
+Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/marginalized 
+stakeholder groups.
+The Company’s CSR initiatives focus on various aspects of society engagement. The Company has been able to deliver 
+significant value through its CSR initiatives. The CSR strategy is approved and periodically reviewed by the CSR Committee of 
+the Board and believes in Optimizing Impact on Communities and Beneficiaries. Constructed a Community Hall for vulnerable 
+groups in Sarandapalli village, Hosur. The hall is being used for children’s education and self-help group activities.
+Corporate Overview
+Statutory Reports
+Financial Statements
+India Nippon Electricals Limited
+Annual Report 2023-24
+139
+Businesses should respect and promote human rights
+PRINCIPLE 5
+Question E1
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the following 
+format:
+Category
+2023-24 Current financial year
+2022-23 Previous financial year
+Total (A)
+No. of employees/
+workers covered (B)
+% (B/A)
+Total (C)
+No. of employees/
+workers covered (D)
+% (D/C)
+Employees
+Permanent
+370
+81
+21.892
+378
+85
+22.487
+Other than permanent
+0.0
+0.0
+0
+0
+0
+0
+Total employees
+370
+81
+21.892
+378
+85
+22.487
+Workers
+Permanent
+220
+0
+0
+228
+0
+0
+Other than permanent
+1,478.0
+1,478
+100
+1,316
+1,316
+100
+Total workers
+1,698
+1,478
+87.044
+1,544
+1,316
+85.233
+Question E2
+Details of minimum wages paid to employees and workers, in the following format:
+Category
+2023-24
+Current financial year
+2022-23
+Previous financial year
+Total 
+(A)
+Equal to minimum 
+wage
+More than minimum 
+wage
+Total 
+(D)
+Equal to minimum 
+wage
+More than minimum 
+wage
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Permanent
+370
+0.0
+0.0
+370
+100
+376
+0
+0
+376
+100
+Male
+338
+0.0
+0.0
+338
+100
+332
+0
+0
+332
+100
+Female
+32
+0.0
+0.0
+32
+100
+44
+0
+0
+44
+100
+Other
+0.0
+0.0
+0.0
+0.0
+0
+0
+0
+0
+0
+0
+Other than 
+permanent 
+0.0
+0.0
+0.0
+0.0
+0
+0
+0
+0
+0
+0
+Male
+0.0
+0.0
+0.0
+0.0
+0
+0
+0
+0
+0
+0
+Female
+0.0
+0.0
+0.0
+0.0
+0
+0
+0
+0
+0
+0
+Other
+0.0
+0.0
+0.0
+0.0
+0
+0
+0
+0
+0
+0
+140
+Category
+2023-24
+Current financial year
+2022-23
+Previous financial year
+Total 
+(A)
+Equal to minimum 
+wage
+More than minimum 
+wage
+Total 
+(D)
+Equal to minimum 
+wage
+More than minimum 
+wage
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Workers
+Permanent
+220
+0.0
+0.0
+220
+100
+228
+0
+0
+228
+100
+Male
+176
+0.0
+0.0
+176
+100
+184
+0
+0
+184
+100
+Female
+44
+0.0
+0.0
+44
+100
+44
+0
+0
+44
+100
+Other
+0.0
+0.0
+0.0
+0.0
+0
+0
+0
+0
+0
+0
+Other than 
+permanent 
+1478.0
+600.0
+40.595
+878.0
+59.405
+1316
+520
+39.514
+796
+60.486
+Male
+1203.0
+442.0
+36.741
+761.0
+63.259
+1067
+400
+37.488
+667
+62.512
+Female
+275.0
+158.0
+57.455
+117.0
+42.545
+249
+120
+48.193
+129
+51.807
+Other
+0.0
+0.0
+0.0
+0.0
+0
+0
+0
+0
+0
+0
+Question E3
+Details of remuneration/salary/wages
+a.	
+Median remuneration/wages:
+Male
+Female
+Number
+Median remuneration/salary/
+wages of respective category
+Number
+Median remuneration/salary/
+wages of respective category
+
+Board of Directors (BOD)
+4
+16,72,500
+2
+13,32,500
+
+Key Managerial Personnel
+02
+1,91,83,713
+1
+Nil -
+ Remuneration is paid by 
+Holding Company
+
+Employees other than 
+BoD and KMP
+346
+7,72,850
+32
+5,49,072
+
+Workers
+176
+9,03,228
+43
+5,09,125
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+11.37
+10.80
+Gross wages paid to 
+females as % of total wages
+b	
+Gross wages paid to females as % of total wages paid by the entity, in the following format:
+Corporate Overview
+Statutory Reports
+Financial Statements
+India Nippon Electricals Limited
+Annual Report 2023-24
+141
+Question E4
+Do you have a focal point (Individual/Committee) responsible for addressing human rights impacts or issues caused or 
+contributed to by the business? (Yes/No)
+Yes. The Business Head and the HR Head are authorized to handle/address human rights impacts or issues caused or 
+contributed by the business.
+We have constituted a Safety Committee, Ethics Committee, POSH Committee and Trade Union, through which we receive 
+complaints/concerns and address them appropriately.
+Question E5
+Describe the internal mechanisms in place to redress grievances related to human rights issues..
+The Business Head and the HR Head are authorized to handle grievances related to human rights issues.
+Question E7
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013, 
+in the following format:
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+Total complaints reported under Sexual Harassment of Women at 
+Workplace (Prevention, Prohibition and Redressal) Act, 2013 (POSH)
+2
+0
+Complaints on POSH as a % of female employees/workers
+0.63
+0
+Complaints on POSH upheld
+2
+0
+Question E6
+Number of Complaints on the following made by employees and workers:
+FY 2023-24 (Current financial year)
+FY 2022-23 (Previous financial year)
+Filed during 
+the year
+Pending resolution 
+at end of year
+Remarks
+Filed during 
+the year
+Pending resolution 
+at end of year
+Remarks
+Sexual harassment
+2
+0
+Both 
+complaints 
+were enquired 
+and disposed
+0
+0
+Discrimination at 
+workplace
+0.0
+0.0
+0
+0
+Child labour
+0.0
+0.0
+0
+0
+Forced labour/
+Involuntary labour
+0.0
+0.0
+0
+0
+Wages
+0.0
+0.0
+0
+0
+Other human rights 
+related issues
+0.0
+0.0
+0
+0
+142
+Question E8
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases:
+Our POSH policy provides protection to the complainant to come out of facts and prevent retaliation. During the enquiry process, 
+we inform the alleged person not to discuss about the complaint/complainant to any person, till the completion of the enquiry 
+proceedings.
+Question E9
+Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+Yes.
+Question E10
+Assessments for the year:
+Sexual harassment
+Others – please specify
+Child labour
+Wages
+Forced/involuntary labour
+Discrimination at workplace
+100
+100
+100
+0
+100
+100
+Question E11
+Provide details of any corrective actions taken or underway to address significant risks/concerns arising from the 
+assessments at Question 10 above.
+No such incidents/observations/concerns were reported during any assessment on the above parameters.
+Question L1
+Details of a business process being modified/introduced as a result of addressing human rights grievances/complaints.
+Does not arise.
+Corporate Overview
+Statutory Reports
+Financial Statements
+India Nippon Electricals Limited
+Annual Report 2023-24
+143
+Question L3
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of Persons 
+with Disabilities Act, 2016?.
+Yes. We have made one of our facilities in line with the expectations under the Rights of Persons with Disabilities Act. We are 
+making an attempt to create such facilities in other units as well.
+Question L4
+Details on assessment of value chain partners:
+Question L5
+Provide details of any corrective actions taken or underway to address significant risks/concerns arising from the 
+assessments at Question 4 above.
+Currently, all corrective actions in this regard are met by the suppliers.
+Sexual harassment
+Others – please specify
+Child labour
+Wages
+Forced/involuntary labour
+Discrimination at workplace
+100
+100
+100
+0
+100
+100
+Question L2
+Details of the scope and coverage of any human rights due-diligence conducted.
+Necessary due-diligence will be carried out in the coming years.
+144
+Businesses should respect and make efforts to protect and restore the environment
+PRINCIPLE 6
+Question E1
+Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+Unit of 
+reporting
+From renewable sources
+Total electricity consumption (A)
+14,183
+12,372
+GJ
+Total fuel consumption (B)
+-
+-
+Energy consumption through other sources (C)
+-
+-
+Total energy consumed from renewable sources (A+B+C)
+14,183
+12,372
+GJ
+From non-renewable sources
+Total electricity consumption (D)
+18,925
+18,230
+GJ
+Total fuel consumption (E)
+4,040
+6,211
+GJ
+Energy consumption through other sources (F) 
+-
+-
+Total energy consumed from non-renewable sources 
+(D+E+F)
+22,965
+24,441
+Total energy consumed (A+B+C+D+E+F)
+37,148
+36,813
+GJ
+Energy intensity per rupee of turnover (Total energy 
+consumed/Revenue from operations)
+5.13
+5.63
+GJ
+Energy intensity per rupee of turnover adjusted for 
+Purchasing Power Parity (PPP) (Total energy consumed/
+Revenue from operations adjusted for PPP)
+-
+-
+KJ/rupee
+Energy intensity in terms of physical output
+-
+-
+Energy intensity (optional)– the relevant metric may be 
+selected by the entity
+-
+-
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+Yes/No
+No
+Additional Information (Optional)
+Not Applicable
+Corporate Overview
+Statutory Reports
+Financial Statements
+India Nippon Electricals Limited
+Annual Report 2023-24
+145
+Question E2
+Does the entity have any sites/facilities identified as designated consumers (DCs) under the Performance, Achieve and 
+Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme have been 
+achieved. In case targets have not been achieved, provide the remedial action taken, if any.
+None of the facilities of the Company are identified as ‘Designated Consumer’ under the PAT scheme.
+Question E3
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+Unit of 
+reporting
+Water withdrawal by source (in kilolitres)
+i) 
+Surface water
+-
+-
+-
+ii) 
+Ground water
+44,353
+45,352
+KL
+iii) 
+Third party water
+4,577
+3,519
+KL
+iv) 
+Seawater/desalinated water
+-
+-
+-
+v) 
+Others
+-
+-
+-
+Total volume of water withdrawal (in kilolitres) 
+(i + ii + iii + iv + v)
+48,930
+48,871
+KL
+Total volume of water consumption (in kilolitres)
+20,302.73
+23,637.82
+KL
+Water intensity per rupee of turnover (Total water 
+consumption/Revenue from operations)
+0.00000279
+0.00000361
+k liter/
+rupee
+Water intensity per rupee of turnover adjusted 
+for Purchasing Power Parity (PPP) (Total water 
+consumption/Revenue from operations adjusted for PPP)
+-
+-
+-
+Water intensity in terms of physical output
+-
+-
+-
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency
+Yes/No
+No
+Additional Information (Optional)
+NA
+146
+Question E4
+Provide the following details related to water discharged:
+Parameter
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+Specify the level of 
+treatment for with 
+treatment discharge
+(i) 
+To surface water
+-
+-
+-
+ 
+No treatment
+-
+-
+-
+	
+With treatment
+-
+-
+-
+(ii) 
+To groundwater
+-
+-
+-
+ 
+No treatment
+-
+-
+-
+	
+With treatment
+-
+-
+-
+(iii) To seawater
+-
+-
+-
+ 
+No treatment
+-
+-
+-
+	
+With treatment
+-
+-
+-
+(iv) Sent to third-parties
+-
+-
+-
+ 
+No treatment
+-
+-
+-
+	
+With treatment
+-
+-
+-
+(v) 
+Others
+28627.27
+25233.18
+Through STP & ETP
+ 
+No treatment
+-
+-
+-
+	
+With treatment
+28627.27
+25233.18
+Through STP & ETP
+Total water discharged (in kilolitres)
+28,627.27
+25,233.18
+-
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+Yes/No
+No
+Additional Information (Optional)
+NA
+Corporate Overview
+Statutory Reports
+Financial Statements
+India Nippon Electricals Limited
+Annual Report 2023-24
+147
+Question E5
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and implementation.
+Yes. All our plants comply with zero liquid discharge norms. We have installed STPs in all our facilities and an ETP facility  at 
+our Hosur factory.
+Question 6
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please specify 
+the unit
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+NOx
+-
+-
+-
+SOx
+-
+-
+-
+Particulate matter (PM)
+-
+-
+-
+Persistent organic pollutants (POP)
+-
+-
+-
+Volatile organic compounds (VOC)
+-
+-
+-
+Hazardous air pollutants (HAP)
+-
+-
+-
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency
+Yes/No
+No
+Ambient Air Quality monitoring is carried out by the following laboratories once in six months as stipulated by the State
+Pollution Control Boards and it is meeting the prescribed norms. Nawal Labs, Hosur, Chennai Mettex Lab, Puducherry, Universal
+Analytical Lab, Rewari. Quantitative data will be measured and presented in the subsequent report.
+148
+Question E7
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format :
+Parameter
+Please specify 
+the unit
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+Total Scope 1 emissions (Break-up of the GHG 
+into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if 
+available)
+Metric  tonnes of 
+CO2 equivalent
+1,828
+626
+Total Scope 2 emissions (Break-up of the GHG 
+into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if 
+available)
+Metric tonnes  of 
+CO2 equivalent
+3,764
+3,626
+Total Scope 1 and Scope 2 emission intensity 
+per rupee of turnover (Total Scope 1 and Scope 
+2 GHG emissions/Revenue from operations)
+KGs of CO2 
+equivalent
+0.00077
+0.00065
+Total Scope 1 and Scope 2 emission intensity 
+(optional) – the relevant metric may be selected 
+by the entity
+_
+_
+_
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+Yes/No
+No
+Question 8
+Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details.
+We have introduced LED lighting systems for the entire factory and have Solar PV power plants at all our facilities. We are also 
+procuring renewable wind power through a Power Purchase Agreement leveraging the discom’s open access facility.
+Corporate Overview
+Statutory Reports
+Financial Statements
+India Nippon Electricals Limited
+Annual Report 2023-24
+149
+Question E9
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+Unit of 
+reporting
+Total waste generated (in metric tonnes)
+Plastic waste (A)
+32.37
+31.14
+metric Ton
+E-waste (B)
+2.41
+5.47
+metric Ton
+Bio-medical waste (C)
+0.11
+0.382
+metric Ton
+Construction and demolition waste (D)
+0
+0
+-
+Battery waste (E)
+0.15
+0.12
+-
+Radioactive waste (F)
+0
+0
+-
+Other hazardous waste. Please specify, if any. (G)
+24.6
+29.89
+metric Ton
+Other non-hazardous waste generated (H)
+Please specify, if any. (Break-up by composition i.e. by 
+materials relevant to the sector)
+482.5
+381.37
+metric Ton
+Total (A + B + C + D + E + F + G + H)
+542.14
+448.372
+metric Ton
+Waste intensity per rupee of turnover (Total waste 
+generated/Revenue from operations)
+0.748
+0.685
+metric 
+Ton/` Cr.
+Total waste generated (in metric tonnes)
+Waste intensity per rupee of turnover adjusted for 
+Purchasing Power Parity (PPP) (Total waste generated/
+Revenue from operations adjusted for PPP)
+-
+-
+-
+Waste intensity in terms of physical output
+-
+-
+-
+Waste intensity (optional)– the relevant metric may be 
+selected by the entity
+-
+-
+-
+For each category of waste generated, total waste recovered through recycling, 
+re-using or other recovery operations (in metric tonnes)
+Category of waste
+(i) 
+Recycled
+515.05
+412.6
+metric Ton
+(ii) 
+Re-used
+0.0
+(iii) Other recovery operations
+27.09
+35.772
+metric Ton
+Total
+542.14
+448.372
+metric Ton
+150
+Parameter
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+Unit of 
+reporting
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i) 
+Incineration
+0
+0
+(ii) 
+Landfilling
+0
+0
+(iii) Other disposal operations
+542.14
+448.37
+metric Ton
+Total
+542.14
+448.37
+metric Ton
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency
+Yes/No
+No
+Question E10
+Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by your 
+company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices adopted to 
+manage such wastes.
+Practices adopted for waste management:-
+1. 
+Authorised scrap dealers are identified by E-Auction & Contract is made with the dealer.
+2. 
+Plastic & other non-hazardous wastes are disposed through authorized recyclers.
+3. 
+E-waste & hazardous wastes are disposed through authorized vendors.
+4. 
+Proper containers are used while handling waste.
+5. 
+Encouraging employees to participate in ‘Waste Reduction Kaizen’ programs & implement the same.
+Strategy adopted to reduce use of hazarduous & toxic chemicals:-
+1. 
+Installation of recovery machine for Solder Dross to reduce the disposal quantity
+2. 
+Introduction of welding in place of soldering.
+3. 
+Installation of part sensor detector in varnish and adhesive dispensing area.
+4. 
+Reduction in the consumption of adhesives by modifying the tube-type dispenser (Manual application) to 
+Cartridge type (auto application)
+Practices adopted to manage hazardous waste:-
+1. 
+Dedicated storage area for hazardous wastes
+2. 
+Regular disposal of hazardous waste through authorized recycler
+Corporate Overview
+Statutory Reports
+Financial Statements
+India Nippon Electricals Limited
+Annual Report 2023-24
+151
+Question E11
+If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals/
+clearances are required, please specify details in the following format:
+Question E12
+Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the current 
+financial year:
+Question E13
+Is the entity compliant with the applicable environmental law/regulations/guidelines in India; such as the Water (Prevention 
+and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and rules thereunder 
+(Y/N). If not, provide details of all such non-compliances, in the following format:
+Sr. 
+no.
+Location of 
+operations/offices
+Type of 
+operations
+Whether the conditions of environmental 
+approval/clearance are being complied with? 
+(Y/N)
+If no, the reasons thereof and 
+corrective action taken, if any
+Not Applicable
+Additional Information (Optional)
+Not Applicable
+Name and brief 
+details of project
+EIA notification 
+no.
+Date
+Whether conducted by 
+independent external agency 
+(Yes/No)
+Results communicated in 
+public domain (Yes/No)
+Relevant 
+Web link
+Not Applicable
+Additional Information (Optional)
+The necessity for EIAs did not arise during the reporting period. 
+Sr. 
+no.
+Specify the law/regulation/
+guidelines which was not 
+complied with
+Provide details of the 
+noncompliance
+Any fines/penalties/action taken by 
+regulatory agencies such as pollution 
+control boards or by courts
+Corrective action 
+taken, if any
+Nil
+Additional Information (Optional)
+Yes.
+152
+Question L1
+Water withdrawal, consumption and discharge in areas of water stress (in kilolitres): For each facility/plant located in areas 
+of water stress, provide the following information: (i) Name of the area (ii) Nature of operations (iii) Water withdrawal, 
+consumption and discharge in the following format:
+Parameter
+FY 2023-24
+(Current financial year)
+FY 2022-23
+(Previous financial year)
+Name of the area
+NA
+NA
+Nature of operations
+NA
+NA
+Water withdrawal by source (in kilolitres)
+(i) Surface water
+-
+-
+(ii) Groundwater
+-
+-
+(iii) Third party water
+-
+-
+(iv) Seawater/desalinated water
+-
+-
+(v) Others
+-
+-
+Total volume of water withdrawal (in kilolitres)
+-
+-
+Total volume of water consumption (in kilolitres)
+-
+-
+Water intensity per rupee of turnover (Water consumed/
+turnover)
+-
+-
+Water intensity (optional) – the relevant metric may be selected 
+by the entity
+-
+-
+Water discharge by destination and level of treatment (in kilolitres)
+(i) Into surface water
+-
+-
+- No treatment
+-
+-
+- With treatment – please specify level of treatment
+-
+-
+(ii) Into groundwater
+-
+-
+ - No treatment
+-
+-
+ - With treatment – please specify level of treatment
+-
+-
+(iii) Into seawater
+-
+-
+ - No treatment
+-
+-
+ - With treatment – please specify level of treatment
+-
+-
+Corporate Overview
+Statutory Reports
+Financial Statements
+India Nippon Electricals Limited
+Annual Report 2023-24
+153
+Parameter
+FY 2023-24
+(Current financial year)
+FY 2022-23
+(Previous financial year)
+(iv) Sent to third-parties
+-
+-
+ - No treatment
+-
+-
+ - With treatment – please specify level of treatment
+-
+-
+(v) Others
+-
+-
+ - No treatment
+-
+-
+ - With treatment – please specify level of treatment
+-
+-
+Total water discharged 
+(in kilolitres)
+-
+-
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+Not Applicable
+154
+Question L2
+Please provide details of total Scope 3 emissions & its intensity, in the following format:
+Question L3
+With respect to the ecologically sensitive areas reported at Question 11 of Essential Indicators above, provide details 
+of significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and remediation 
+activities.
+Not Applicable.
+Parameter
+Unit
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+Total Scope 3 emissions (Break-up of the GHG 
+into CO2, CH4, N2O, HFCs, PFCs ,SF6, NF3, if 
+available)
+Metric tonnes of 
+CO2 equivalent
+Total Scope 3 emissions per rupee of turnover
+Total Scope 3 emission intensity (optional) – the 
+relevant metric may be selected by the entity
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+In our Company, emissions as mentioned in Scope 3 are not calculated presently. We are in the process of collecting data on 
+the same and it would be reported in the coming years
+Corporate Overview
+Statutory Reports
+Financial Statements
+India Nippon Electricals Limited
+Annual Report 2023-24
+155
+Question L4
+If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource efficiency, 
+or reduce impact due to emissions/effluent discharge/waste generated, please provide details of the same as well as 
+outcome of such initiatives, as per the following format:
+S
+. 
+no
+Initiative undertaken
+Details of the initiative (Web-link, if any, may be 
+provided along-with summary)
+Outcome of the initiative
+01.
+Installed Wet Scrubber System
+In the FBC process, the EPOXY powder with 
+2- micron and above in size is filtered through 
+a fine filter bag and then collected and reused. 
+Powder particles of less than 2-micron are 
+collected through wet scrubber and disposed of as 
+hazardous waste.
+1. 
+Achieved powder-free 
+environment
+2. 
+Reduced air pollution
+3. 
+Reduced resource by reusing 
+filtered EPOXY powder.
+2.
+Lead free soldering wire
+We have introduced a Lead-Free Soldering Wire 
+in our soldering process in more than 85% of the 
+area.
+Improve employee health 
+and preserve environmental 
+pollution
+3.
+Electro static filter
+In-wave soldering (Surface Mounting Technology), 
+we have introduced the Electro Static Filter.
+This technology helps us to 
+reduce fume with flex at 95%
+4.
+Fume killer
+We have started implementing Fume Killer in 
+8-soldering stations.
+95% of the fume is killed
+5.
+Effluent treatment plant (ETP)
+The polluted water is being treated and reused.
+Zero liquid discharge
+6.
+Solar and LED lighting system, 
+rain water harvesting
+Lighting, established pond.
+Energy saving and water 
+conservation
+Question L7
+Percentage of value chain partners (by value of business done with such partners) that were assessed for environmental 
+impacts.
+We assessed 75% of our major suppliers for their environmental impact.
+Question L6
+Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation or 
+adaptation measures have been taken by the entity in this regard.
+No adverse impact.
+Question L5
+Does the entity have a business continuity and disaster management plan? Give details in100 words/web link.
+We have well documented on-site emergency plan, that covers
+1) 
+Emergency Response Team 
+2) 
+Fire Fighting Team
+3) 
+First Aiders and Ambulance Services
+4) 
+An Emergency Mockdrill is conducted once in six months to make employees aware of what is to be done in an emergency 
+situation, so that people, plants and machinery are protected.
+156
+Question E1
+Trade Affiliations
+b.	
+List the top 10 trade and industry chambers/associations (determined based on the total members of such body) the 
+entity is a member of/affiliated to.
+Reach of trade and industry 
+chambers/associations 
+(State/National)
+NATIONAL
+Name of the trade and industry 
+chambers/associations
+Confederation of Indian Industry (CII)
+Society of Indian Automobile Manufacturers (SIAM)
+Automotive Research Association of India (ARAI)
+Automobile Components Manufacturers Association (ACMA)
+Industrial Waste Management Association
+National Safety Council (NSC)
+a. 
+Number of affiliations with trade and industry chambers/associations.
+6
+Question E2
+Provide details of corrective action taken or underway on any issues related to anticompetitive conduct by the entity, based 
+on adverse orders from regulatory authorities.
+Name of authority
+Brief of the case
+Corrective action taken
+Nil
+Additional Information (Optional)
+No such orders were received by the Company.
+Question L1
+Details of public policy positions advocated by the entity:
+S. 
+no.
+Public policy 
+advocated
+Method resorted for 
+such advocacy
+Whether information 
+available in public 
+domain? (Yes/No)
+Frequency of Review by Board 
+(Annually/Half yearly/Quarterly/
+Others – please specify)
+Web Link, if 
+available
+Nil
+Additional Information (Optional)
+The Company directly or through trade bodies and other associations puts forth a number of suggestions with respect to the 
+industry in general and its activities in particular.
+Businesses, when engaging in influencing public and regulatory policy, should do so in a 
+manner that is responsible and transparent
+PRINCIPLE 7
+Corporate Overview
+Statutory Reports
+Financial Statements
+India Nippon Electricals Limited
+Annual Report 2023-24
+157
+Question E1
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the current 
+financial year.
+Name and brief 
+details of project
+SIA notification 
+no.
+Date of 
+notification
+Whether conducted by 
+independent external 
+agency (Yes/No)
+Results communicated 
+in public domain 
+(Yes/No)
+Relevant 
+web link
+Not Applicable
+Additional Information (Optional)
+No project was undertaken which required Social Impact Assessment (SIA) as per the applicable laws.
+Question E2
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement(R&R) is being undertaken by your 
+entity, in the following format:
+S. 
+no.
+Name of project for 
+which R&R is ongoing
+State
+District
+No. of project affected 
+families (PAFs)
+% of PAFs 
+covered by R&R
+Amounts paid to PAFs 
+in the FY (In INR)
+Not Applicable
+Additional Information (Optional)
+Not Applicable
+Question E3
+Describe the mechanisms to receive and redress grievances of the community.
+Some of our employees are living in and around our factories. They approach us for their larger community requirements. 
+Further, we interact with the local Panchayat President and address any of the community requirements under CSR initiatives. 
+In the recent past, we have taken up some of the projects like drainage facility, road laying and constructed water tank.
+Businesses should promote inclusive growth and equitable development
+PRINCIPLE 8
+Parameter
+FY 2023-24 
+(Current financial year)
+FY 2022-23 
+(Previous financial year)
+Directly sourced from MSMEs/small producers
+50
+50
+Directly from within India
+84
+85
+Question E4
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+158
+Question E5
+Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers employed on a 
+permanent or non-permanent/on contract basis) in the following locations, as % of total wage cost.
+Question L1
+Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments 
+(Reference: Question 1 of Essential Indicators above):
+Details of negative social impact identified
+Corrective action taken
+Not Applicable
+Question L2
+Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as identified 
+by government bodies:
+S. no.
+State
+Aspirational district
+Amount spent (In INR)
+NIL
+Question L3
+Procurement Policy
+a.	
+Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising 
+marginalized/vulnerable groups? (Yes/No)
+ 
+No
+b.	
+From which marginalized/vulnerable groups do you procure? 
+ 
+NA
+C.	
+What percentage of total procurement (by value) does it constitute?
+ 
+NA
+FY 2023-24  
+(Current financial year)
+Location
+FY 2022-23  
+(Previous financial year)
+35
+Rural
+35
+0
+Semi-urban
+0
+62
+Urban
+63
+3
+Metropolitan
+2
+Corporate Overview
+Statutory Reports
+Financial Statements
+India Nippon Electricals Limited
+Annual Report 2023-24
+159
+Question L4
+Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the current 
+financial year), based on traditional knowledge:
+S. no.
+Intellectual property  based on 
+traditional knowledge
+Owned/Acquired 
+(Yes/No)
+Benefit shared 
+(Yes/No)
+Basis of calculating 
+benefit share
+NIL
+Question L5
+Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes wherein 
+usage of traditional knowledge is involved.
+Name of authority
+Brief of the case
+Corrective action taken
+NIL
+Question L6
+Details of beneficiaries of CSR Projects:
+S. 
+no.
+CSR project
+No. of persons benefitted 
+from CSR projects
+% of beneficiaries from vulnerable 
+and marginalized groups
+1
+Construction of Compound Wall in Govt 
+High School, Salivaram, Denkanikottai.
+189
+100
+2
+4 Nos. of Writing Board for Government 
+School, Devaganapalli.
+52
+75
+3
+Construction of Classrooms at Panchayat 
+Union School, Pallalakuppam
+100
+100
+4.
+Renovation of 3 Classrooms at Sr. Secondary 
+School, Masani
+153
+100
+5.
+Renovation of Anganwadi Kendra, Dungarwas
+80
+100
+6.
+Smart Classroom and Upgradation of Library 
+at Govt Higher Secondary School, Madukarai
+220
+100
+7.
+RO Plant and Lab Equipment for Community 
+Health Centre, Karikalambakkam
+500
+100
+8.
+Bitumen road work at Uliveeranapalli.
+500
+100
+160
+Businesses should engage with and provide value to their consumers in a responsible 
+manner
+PRINCIPLE 9
+Question E1
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+Customer complaints are received and responded through emails as applicable.
+There is a key account manager assigned to each customer and they are responsible for tracking and resolving every complaint.
+Question E2
+Turnover of products and/services as a percentage of turnover from all products/service that carry information about:.
+Question E3
+Number of consumer complaints in respect of the following:
+As a percentage to total turnover
+Environmental and social parameters relevant to the product
+Nil
+Safe and responsible usage
+Nil
+Recycling and/or safe disposal
+Nil
+Additional Information (Optional)
+INEL manufactures products as per the specification of customers and  are directly supplied to the OEMs. The Company 
+has limited scope in providing information about environmental and social parameters relevant to the product, its safe and 
+responsible usage, and recycling and/or safe  disposal
+FY 2023-24 (Current financial year)
+FY 2022-23 (Previous financial year)
+Received 
+during the year
+Pending resolution 
+at end of year
+Remarks
+Received 
+during the year
+Pending resolution 
+at end of year
+Remarks
+Data privacy
+Nil
+Nil
+Nil
+Nil
+Advertising
+Nil
+Nil
+Nil
+Nil
+Cyber- security
+Nil
+Nil
+Nil
+Nil
+Delivery of essential 
+services
+Nil
+Nil
+Nil
+Nil
+Restrictive trade 
+practices
+Nil
+Nil
+Nil
+Nil
+Unfair trade practices
+Nil
+Nil
+Nil
+Nil
+Other
+Nil
+Nil
+Nil
+Nil
+Additional Information (Optional)
+Nil
+Corporate Overview
+Statutory Reports
+Financial Statements
+India Nippon Electricals Limited
+Annual Report 2023-24
+161
+Question E4
+Details of instances of product recalls on account of safety issues:
+Type of recalls
+Number
+Reasons for recall
+Voluntary recalls
+No recalls
+No recalls
+Forced recalls
+No recalls
+No recalls
+Additional Information (Optional)
+We have not had any instances of recall on account of product safety.
+Question E5
+Does the entity have a framework/policy on cyber security and risks related to data privacy? (Yes/No) If available, provide 
+a web-link of the policy.
+Yes .
+As per ISO 27001: 2013, we are following all IS and cybersecurity policies.
+Question E6
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential 
+services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty/action taken 
+by regulatory authorities on safety of products/services.
+The Company hasn’t received any complaints calling for corrective actions.
+Question E7
+Provide the following information relating to data breaches:
+a.	
+Number of instances of data breaches
+ 
+No data breaches.
+b. 
+Percentage of data breaches involving personally identifiable information of customers
+ 
+NA
+c.	
+Impact, if any, of the data breaches
+ 
+NA
+162
+Question L1
+Channels/platforms where information on products and services of the entity can be accessed (provide web link, if available).
+Information related to products and other services can be accessed from the following website: https://indianippon.com/
+Question L2
+Steps taken to inform and educate consumers about safe and responsible usage of products and/or services
+The Company’s products are designed and manufactured to customer specifications and supplied accordingly. Hence, the 
+need for educating customers on safe and responsible usage of products does not arise.
+Question L3
+Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.
+Since we are supplying to the OEMs directly, any risk of disruption or discontinuation of essential services to end consumer is 
+taken care by OEMs
+Question L4
+Does the entity display product information on the product over and above what is mandated as per local laws? (Yes/No/
+Not Applicable) If yes, provide details in brief. Did your entity carry out any survey with regard to consumer satisfaction 
+relating to the major products/services of the entity, significant locations of operation of the entity or the entity as a whole? 
+(Yes/No)
+Not Applicable

@@ -1,0 +1,3491 @@
+www.ideaforgetech.com  
+ 
+ideaForge Technology Limited 
+(Formerly ideaForge Technology Private Limited) 
+EL-146, T.T.C. Industrial Area, M.I.D.C. Mahape, Navi Mumbai - 400 710, Maharashtra (India) 
+Ph.(O): +91 (22) 6787 1000 (F) +91 (22) 6787 1007 
+Email: info@ideaforgetech.com CIN No. U31401MH2007PLC167669 
+July 12, 2024 
+ 
+To, 
+BSE Limited 
+Phiroze Jeejeebhoy Towers, Dalal Street,  
+Fort, Mumbai – 400 001. 
+BSE Scrip Code: 543932  
+To,  
+The National Stock Exchange of India Limited 
+“Exchange Plaza”, Bandra – Kurla Complex, 
+Bandra (EAST), Mumbai – 400 051 
+NSE SYMBOL: IDEAFORGE 
+ 
+Sub: Submission of Business Responsibility and Sustainability Report of the Company for the Financial 
+Year 2023-24. 
+ 
+Dear Sir/Ma’am, 
+ 
+Pursuant to Regulation 34(2)(f) of Securities and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, we are submitting herewith the Business Responsibility 
+and Sustainability Report for Financial Year (FY) 2023-24, which also forms part of the Annual Report for 
+FY 2023-24, submitted to the Exchanges on July 12, 2024. 
+ 
+You are requested to kindly take the same on your records. 
+ 
+Thanking you, 
+ 
+Yours truly,  
+For ideaForge Technology Limited 
+ 
+ 
+ 
+ 
+Sonam Gupta 
+Company Secretary 
+Membership No. A53881 
+ 
+Encl: As above 
+ 
+SONAM 
+DILIPKUMAR 
+GUPTA
+Digitally signed by 
+SONAM DILIPKUMAR 
+GUPTA 
+Date: 2024.07.12 
+15:54:52 +05'30'
+122
+ideaForge Technology Limited
+CORPORATE OVERVIEW
+02-55
+STATUTORY REPORTS
+56-152
+FINANCIAL STATEMENTS
+154-329
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of the listed entity
+1.
+Corporate Identity Number (CIN) of the Listed Entity
+U31401MH2007PLC167669
+2.
+Name of the Entity
+ideaForge Technology Limited
+3.
+Year of Incorporation
+2007
+4.
+Registered office address
+EL-146, T.T.C. Industrial Area, M.I.D.C. Mahape,  
+Navi Mumbai - 400 710. Maharashtra (India).
+5.
+Corporate address
+Unit 702, Q2 Bldg, Aurum Q Parc, Ghansoli,  
+Navi Mumbai - 400 710
+6.
+E-mail
+compliance@ideaforgetech.com
+7.
+Telephone
+022-67871000
+8.
+Website
+www.ideaforgetech.com
+9.
+Financial year for which reporting is being done
+2023-24
+10. Name of the Stock Exchange(s) where shares are 
+listed
+BSE Limited and National Stock Exchange of India Limited
+11. Paid-up Capital
+INR 42,88,53,220
+12. Name and contact details (telephone, email address) 
+of the person who may be contacted in case of any 
+queries on the BRSR report
+Ms. Sonam Gupta - Company Secretary & Compliance Officer 
+compliance@ideaforgetech.com 
+Tel. No: +91 (22) 6787 1000
+13. Reporting boundary
+Are the disclosures under this report made on a 
+standalone basis (i.e., only for the entity) or on a 
+consolidated basis (i.e., for the entity and all the 
+entities which form a part of its consolidated financial 
+statements, taken together).
+Disclosures made in this report are on a standalone basis and 
+pertain to ideaForge Technology Limited and its offices across 
+India and manufacturing facility in Maharashtra, India
+14. Name of assurance provider
+Assurance is not mandatory and has not been take up for the 
+financial year 2023-2024.
+15. Type of assurance obtained
+Not Applicable
+II.	
+Products/services
+16. Details of business activities (accounting for 90% of the turnover):
+SL. 
+No.
+Description of Main 
+Activity
+Description of Business Activity
+% Of Turnover of the 
+Entity (FY 2023-24)
+1.
+Manufacturing Unmanned 
+Aerial Vehicle (UAV),
+Hardware manufactures and assembly of Unmanned Aerial 
+Vehicles (UAVs) and its components such as payloads, batteries, 
+chargers, and communication systems.
+88%
+2.
+Unmanned Aerial Systems 
+(UAS)
+Software and embedded sub-systems, which includes the Ground 
+control station (GCS) software and autopilot sub-systems
+12%
+3.
+Solution Applications
+Applications for surveillance, mapping, and surveying
+Business Responsibility & Sustainability 
+Reporting (BRSR)
+Annual Report 2023-24
+123
+17. Products/Services sold by the entity (accounting for 90% of the entity’s Turnover)
+SL. 
+No. Product/Service
+NIC Code
+% Of Total Turnover 
+Contributed
+1.
+Unmanned Aerial Vehicle and Unmanned Aerial Systems
+26515
+88%
+2.
+Solution Applications
+62013
+12%
+III.	
+Operations
+18. Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number of operational locations
+Number of offices
+Total
+National
+1
+6
+7
+International
+0
+1
+1
+19. Markets served by the entity:
+ 
+a. 
+Number of locations
+Locations
+Number
+National (No. of States)
+28 states & 8 Union Territories
+International (No. of Countries)
+3 Countries (Bhutan, Nigeria, US)
+ 
+b. 
+What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+	
+In the financial year 2023-24, less than 1% of turnover was from exports outside India.
+ 
+c. 
+A brief on types of customers
+	
+	
+ideaForge is licensed manufacturer of UAVs. Our UAVs are used for surveillance, surveying and mapping, inspections. 
+Our main customers are enterprises, both private and public, including government entities both central and state 
+government agencies, state police departments, disaster management forces and forest departments. The Company is a 
+market leader in the Indian Unmanned Aircraft Systems. ideaForge had the largest operational deployment of indigenous 
+UAVs across India and ranked as 5th global dual category (civil & defence) drone manufacturer by Drone Industry 
+Insights (DII). ideaForge is expanding internationally, supplying drones to customers in Southeast Asia, Africa, and other 
+regions.
+IV. 
+Employees
+20. Details as at the end of Financial Year:
+ 
+a. 
+Employees and workers (including differently abled):
+S. 
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+Employees
+1.
+Permanent (D)
+413
+354
+85.71%
+59
+14.29%
+2.
+Other than Permanent (E)
+-
+-
+-
+-
+-
+3.
+Total employees (D + E)
+413
+354
+85.71%
+59
+14.29%
+Workers
+4.
+Permanent (F)
+-
+-
+-
+-
+-
+5.
+Other than Permanent (G)
+254
+162
+63.78%
+92
+36.22%
+6.
+Total employees (F + G)
+254
+162
+63.78%
+92
+36.22%
+124
+ideaForge Technology Limited
+CORPORATE OVERVIEW
+02-55
+STATUTORY REPORTS
+56-152
+FINANCIAL STATEMENTS
+154-329
+ 
+b. 
+Differently abled Employees:
+S. 
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+Employees
+1.
+Permanent (D)
+1
+1
+100%
+-
+-
+2.
+Other than Permanent (E)
+-
+-
+-
+-
+-
+3.
+Total employees (D + E)
+1
+1
+100%
+-
+-
+ 
+c. 
+Differently abled Workers:
+S. 
+No.
+Particulars
+Total (A)
+Male
+Female
+No. (B)
+% (B / A)
+No. (C)
+% (C / A)
+Workers
+1.
+Permanent (D)
+There are no differently abled workers.
+2.
+Other than Permanent (E)
+3.
+Total employees (D + E)
+21. Participation/Inclusion/Representation of women
+Category
+Total (A)
+No. and percentage 
+of Females
+No. (B)
+% (B/A)
+Board of Directors
+8
+1
+13%
+Key Management Personnel (KMP)
+6
+1
+17%
+22. Turnover rate for permanent employees and workers
+Category
+FY 2023-24
+FY 2022-23
+FY 2021-22
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+11.3%
+3.5%
+14.8%
+14.3%
+2.2%
+16.5%
+22.5%
+3.3%
+25.8%
+Permanent Workers
+-
+-
+-
+-
+-
+-
+-
+-
+-
+V. 
+Holding, Subsidiary and Associate Companies (including joint ventures)
+23. (a) Names of holding / subsidiary / associate companies / joint ventures
+S. 
+No.
+Name of the holding / 
+subsidiary / associate 
+companies / joint 
+ventures (A)
+Indicate whether 
+holding/ Subsidiary/ 
+Associate/ Joint Venture
+% of shares held 
+by listed entity
+Does the entity indicated at 
+column A, participate in the 
+Business Responsibility initiatives 
+of the listed entity? (Yes/No)
+1.
+ideaForge Technology Inc
+Subsidiary
+100%
+No
+VI. CSR Details
+24. (i)  Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No) – Yes
+Sr 
+No.
+Particulars
+Details (In Million)
+(i)
+Turnover (FY 2023-24) 
+3170.15
+(ii)
+Net worth (FY 2023-24) 
+6631.83
+Annual Report 2023-24
+125
+VII. Transparency and Disclosures Compliances
+25. Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+Stakeholder 
+group from 
+whom 
+complaint is 
+received
+Grievance 
+Redressal 
+Mechanism 
+in place 
+(Yes/No)
+FY 2023-24
+FY 2022-23
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the 
+year
+Remarks
+Number of 
+complaints 
+filed 
+during the 
+year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Communities
+Yes
+-
+-
+-
+-
+-
+-
+Investors 
+(other than 
+shareholders)
+Yes
+-
+-
+-
+-
+-
+-
+Shareholders
+Yes
+1297
+-
+All the 
+complaints 
+were resolved 
+before the end 
+of the financial 
+year 2023-
+2024.
+15
+-
+All the 
+complaints 
+were resolved 
+before the end 
+of the financial 
+year 2022-
+2023.
+Employees and 
+workers
+Yes
+-
+-
+-
+-
+-
+-
+Customers
+Yes
+730
+63
+All the 
+complaints will 
+be resolved 
+as per the 
+standard 
+agreed 
+timeline.
+676
+132
+All the 
+complaints will 
+be resolved 
+as per the 
+standard 
+agreed 
+timeline.
+Value Chain 
+Partners
+Yes
+-
+-
+-
+-
+-
+-
+Other (please 
+specify)
+-
+-
+-
+-
+-
+-
+-
+ideaForge has well established policies Grievance Redressal processes and policies in place. Policies such as Whistle blower 
+Policy, Grievance Redressal Policy and Customer care Policy detail out processes for any grievances from different Stakeholder 
+groups. The policies can be found at this link.
+126
+ideaForge Technology Limited
+CORPORATE OVERVIEW
+02-55
+STATUTORY REPORTS
+56-152
+FINANCIAL STATEMENTS
+154-329
+26. Overview of the entity’s material responsible business conduct issues
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters 
+that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or mitigate the risk 
+along-with its financial implications, as per the following format:
+Sr. 
+No.
+Material 
+issues 
+identified
+Indicate 
+Risk/ 
+Opportunity
+Rationale for 
+identifying the risk 
+/ opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial 
+implication of the 
+risk or opportunity 
+(Indicate 
+positive/ negative 
+implications)
+1
+Product 
+Safety & 
+Quality
+Risk & 
+Opportunity
+Product Safety is 
+one of the most 
+important aspects of 
+our business. Issues 
+such as accidents, 
+malfunctions, and 
+liability concerns can 
+arise from product 
+flaws can affect the 
+growth and safety 
+of our products. Any 
+regulation violations 
+could also affect the 
+product design and 
+use.
+ideaForge has taken steps to ensure 
+product safety through continuous 
+research, development, and testing. 
+Every UAV manufactured is tested and 
+certified by the Production Team.
+ideaForge Quality Control plans have 
+defined all Product Safety related 
+checkpoints to ensure the right quality 
+product is manufactured, tested, and 
+shipped to the customer.
+There are multiple Quality inspection 
+stages that are defined to ensure 
+the product safety including Product 
+Quality line, Incoming Goods inspection, 
+In-process Quality Inspection, Final 
+Quality Inspection, Out Box Audit. ISO 
+and AS9110 Audits are also conducted 
+externally.
+Negative- 
+Product Safety issues 
+can have a negative 
+impact affecting the 
+brand reputation
+Positive - Better 
+process for Product 
+manufacturing and 
+testing will have a 
+positive impact on the 
+business
+2
+Labor 
+Practices & 
+Supply Chain
+Risk & 
+Opportunity
+Labour standards and 
+potential disruptions 
+in the supply chain 
+pose risks and 
+opportunities. Worker 
+safety, training, fair 
+wages, focus on 
+sustainable and 
+ethical sourcing.
+ideaForge has taken steps to ensure 
+all Labour standards are met. The 
+Company has detailed internal policies 
+and processes.
+These include HR policy, Diversity 
+Inclusion and Equal Opportunity Policy. 
+This strengthens the Labour practices 
+and employee well-being.
+For the supply chain aspects - ideaForge 
+has taken up a Sustainable Supply Chain 
+& Responsible Sourcing Policy.
+This ensures ethical standards are 
+followed across the supply chain and 
+procurement practices.
+Health & Safety is also prioritized by 
+ideaForge and steps are taken to ensure 
+any incidents are reported an addressed.
+The Company follows a systematic 
+approach towards Hazard Identification 
+and Risk Assessment (HIRA) to identify 
+work-related hazards.
+Negative - 
+Production delays can 
+have a direct impact 
+on revenue.
+Positive - Improved 
+worker morale, brand 
+reputation, supply 
+chain resiliency can 
+have a positive impact 
+on the business.
+Annual Report 2023-24
+127
+Sr. 
+No.
+Material 
+issues 
+identified
+Indicate 
+Risk/ 
+Opportunity
+Rationale for 
+identifying the risk 
+/ opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial 
+implication of the 
+risk or opportunity 
+(Indicate 
+positive/ negative 
+implications)
+3
+Environmental 
+Impacts from 
+Production
+Risk & 
+Opportunity
+High Waste 
+generation, energy 
+consumption and 
+resource use in 
+the manufacturing 
+process could lead 
+to environmental 
+damage.
+This is a huge risk 
+to the business. 
+However, this also 
+offers an opportunity 
+to showcase a 
+commitment 
+to reducing 
+environmental 
+impacts arising 
+from manufacturing 
+processes.
+ideaForge has taken steps for 
+sustainable sourcing and conducts 
+review of suppliers across environmental 
+aspects.
+This helps in understanding and 
+addressing any environmental risk from 
+the suppliers.
+ideaForge has implemented specific 
+measures for sustainable sourcing and 
+regulatory compliance during supplier 
+onboarding, audits, conducting regular 
+reviews based on environmental 
+standards.
+This approach helps identify and address 
+any environmental risks linked to 
+suppliers and resources.
+The Company has actively taken steps 
+towards waste management in line with 
+CPCB regulations and State Pollution 
+Control Boards. All the waste is disposed 
+through authorized vendors.
+The Company looks to reduce waste 
+generation from its operations in the 
+coming years.
+The Company has taken steps for 
+energy efficiency initiatives across its 
+manufacturing units. LEDs were installed 
+to increase the energy efficiency. 
+ideaForge has also installed motion 
+sensors lights in common passage and 
+stairs case, this has resulted in reduction 
+of electricity consumption.
+The Company has also started 
+monitoring the Scope 1,2 and 3 
+emissions for the financial year 2023-
+2024, to understand the baseline 
+emissions.
+Negative- Increased 
+operating costs can 
+have a negative 
+impact on the 
+business.
+ 
+Positive- Reducing 
+the impacts on the 
+environment can 
+create a better brand 
+image and improve 
+environmental 
+management.
+128
+ideaForge Technology Limited
+CORPORATE OVERVIEW
+02-55
+STATUTORY REPORTS
+56-152
+FINANCIAL STATEMENTS
+154-329
+Sr. 
+No.
+Material 
+issues 
+identified
+Indicate 
+Risk/ 
+Opportunity
+Rationale for 
+identifying the risk 
+/ opportunity
+In case of risk, approach to adapt or 
+mitigate
+Financial 
+implication of the 
+risk or opportunity 
+(Indicate 
+positive/ negative 
+implications)
+4
+Data Privacy 
+and Security
+Risk
+Data Security is 
+most important 
+for the business as 
+any unauthorized 
+data access and 
+misuse, can affect 
+the company and 
+its operations. This 
+can also affect the 
+data collected by the 
+UAV which could be 
+potentially sensitive in 
+nature.
+ideaForge has established a strong 
+policy towards Information security 
+risk management, data protection and 
+privacy.
+These policies cover risk identification, 
+assessment, and mitigation measures/ 
+safeguards in place.
+The Data protection policy covers 
+data access, sharing, protection and 
+procedures in place.
+Negative – Any data 
+privacy or security 
+issues can have 
+regulatory fines and 
+reputational damage.
+Positive – Better data 
+security measures 
+can help improve 
+customer trust
+5
+Customer 
+Satisfaction 
+and Retention
+Risk & 
+Opportunity
+Customer satisfaction 
+and loyalty is an 
+important factor for 
+the business to be 
+successful and uphold 
+brand position in the 
+market.
+This can help grow 
+the business as well as 
+affect the reputation 
+of the Company.
+This is also an 
+opportunity for 
+the Company to 
+showcase customer 
+satisfaction from 
+effective customer 
+management 
+processes.
+The Company has robust mechanisms 
+to receive and respond to customer 
+complaints including, Customer Support 
+Center (CSS) phone numbers and 
+emails.
+All grievances are tracked and 
+addressed. Apart from this the Company 
+also has field teams to provide support 
+for any technical repairs and to gather 
+customer feedback. This ensures the 
+best services to all customers.
+Negative – 
+Decreased customer 
+satisfaction can have a 
+reputational damage 
+Positive - Improved 
+customer satisfaction 
+measures can increase 
+trust and brand loyalty
+6
+Community 
+Relations
+Risk & 
+Opportunity
+Impact from 
+operations on the 
+community.
+Opportunity 
+for job creation 
+and economic 
+development
+The Company has a CSR team and 
+proactively complies to the requirements 
+of CSR.
+For this financial year the Company has 
+taken up a variety of activities partnering 
+with NGOs for Quality Education, Health 
+and Well-being across Maharashtra.
+This helps in development of 
+surrounding communities and improving 
+their quality of life.
+Negative – No 
+community 
+development 
+can have a bad 
+reputational damage 
+for the Company.
+Positive - Improved 
+Community Relations 
+will create a positive 
+brand image for the 
+Company.
+Annual Report 2023-24
+129
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping business demonstrate the structures, policies and processes put in place towards adopting the NGRBC 
+Principles and Core Elements.
+S. 
+No.
+Principle Description
+Reference of Policies /Procedure/Standard
+P1
+Businesses should conduct and 
+govern themselves with integrity, 
+and in a manner that is Ethical, 
+Transparent and Accountable.
+•	
+Code of Conduct of Board and Senior Management
+•	
+Code of Conduct to Regulate Monitor and Report Trading by Insiders
+•	
+Dividend Distribution Policy
+•	
+Nomination Remuneration
+•	
+Vigil Mechanism
+•	
+Risk Management
+•	
+Prevention of Sexual Harassment at Workplace
+•	
+Policy and procedure for inquiry in case of leak of unpublished price sensitive 
+information or suspected leak of unpublished price sensitive information
+•	
+Plan for orderly succession for appointment of directors and senior management
+•	
+Familiarization programme for independent directors
+•	
+The diversity of board of directors
+•	
+Preservation of documents and archival of website disclosures
+•	
+Determination of material events and information
+•	
+Terms of Appointment of Independent director
+•	
+Anti-bribery policy and Anti-corruption policy
+P2
+Businesses should provide 
+goods and services in a manner 
+that is sustainable and safe
+•	
+Product Stewardship Policy
+•	
+Policy on Sustainable Supply Chain and Responsible Sourcing
+•	
+Business Continuity & Disaster Management
+P3
+Businesses should respect and 
+promote the well-being of all 
+employees, including those in 
+their value chains
+•	
+Vigil Mechanism
+•	
+Prevention of Sexual Harassment at Workplace
+•	
+Equal Opportunity Policy
+•	
+Diversity and Inclusion Policy
+•	
+Health and Safety Policy
+•	
+HR Policy
+P4
+Businesses should respect the 
+interests of and be responsive to 
+all its stakeholders
+•	
+Corporate Social Responsibility
+•	
+Stakeholder Engagement Policy
+P5
+Businesses should respect and 
+promote human rights
+•	
+Vigil Mechanism
+•	
+Prevention of Sexual Harassment at Workplace
+•	
+Human Rights Policy
+P6
+Businesses should respect and 
+make efforts to protect and 
+restore the environment
+•	
+Policy on Sustainable Supply Chain and Responsible Sourcing
+•	
+Business Continuity & Disaster Management
+•	
+ESG Policy
+P7
+Businesses, when engaging 
+in influencing public and 
+regulatory policy, should do so 
+in a manner that is responsible 
+and transparent
+•	
+Customer Care Policy
+•	
+Grievance Redressal Policy
+•	
+Stakeholder Engagement Policy
+130
+ideaForge Technology Limited
+CORPORATE OVERVIEW
+02-55
+STATUTORY REPORTS
+56-152
+FINANCIAL STATEMENTS
+154-329
+S. 
+No.
+Principle Description
+Reference of Policies /Procedure/Standard
+P8
+Businesses should promote 
+inclusive growth and equitable 
+development
+•	
+ESG Policy
+•	
+Corporate Social Responsibility
+P9
+Businesses should engage 
+with and provide value to their 
+consumers in a responsible 
+manner
+•	
+Customer Care Policy
+•	
+Grievance Redressal Policy
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1.	
+a. 	
+Whether your entity’s policy/policies cover 
+each principle and its core elements of the 
+NGRBCs. (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+	
+b.	
+Has the policy been approved by the Board? 
+(Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+	
+c.	
+Web Link of the Policies, if available
+Web Link to Policies
+2.	
+Whether the entity has translated the policy into 
+procedures. (Yes / No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+3.	
+Do the enlisted policies extend to your value 
+chain partners? (Yes/No)
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+4. 	
+Name of the national and international codes/ 
+certifications/ labels/ standards (e.g., Forest 
+Stewardship Council, Fairtrade, Rainforest 
+Alliance, Trustee) standards (e.g., SA 8000, 
+OHSAS, ISO, BIS) mapped to each principle.
+•	
+The Company has in place: ISO 45001:2018; 
+ISO 27001:2022
+•	
+Great Place to Work Certification
+•	
+DGCA certification
+5.	
+Specific commitments, goals and targets set by 
+the entity with defined timelines, if any.
+As this is the first year of ESG implementation, the Company has 
+initiated the process to understand the baseline ESG KPIs values 
+across operations and take up goals for the upcoming years.
+For this financial year the Company has started tracking ESG KPIs 
+such as greenhouse gas emissions, energy consumption, waste 
+generation, water consumption, wastewater generation etc.
+The Company looks to align ESG initiatives with business objectives 
+and develop an effective ESG strategy.
+6.	
+Performance of the entity against specific 
+commitments, goals, and targets along with 
+reasons in case the same are not met.
+The Company has initiated the is process to understand the 
+baseline ESG KPIs values across operations and take up goals 
+for the upcoming years. In this regard the Company will take up 
+performance against the specific commitments, goals, and targets 
+in the coming year.
+Annual Report 2023-24
+131
+Governance, leadership, and oversight
+7. 	
+Statement by director responsible for the business responsibility report, highlighting ESG related challenges, 
+targets and achievements (listed entity has flexibility regarding the placement of this disclosure)
+	
+We are happy to highlight our commitment to the BRSR principles and showcase our progress on ESG.
+	
+ideaForge is dedicated to integrating sustainability into our core business operations, prioritizing ethical business practices, 
+monitoring ESG KPIs and ensuring community engagement.
+	
+During the reporting period, we achieved milestones including monitoring various ESG KPIs, including Scope 1, 2, and 3 
+emissions, waste generation and water consumption.
+	
+Apart from this we have also identified material risks and opportunities across ESG that specific to our business. We have 
+also placed emphasis on engaging with the communities through our CSR initiatives.
+	
+Looking ahead, we aim to address challenges like supply chain resilience, resource efficiency and various steps towards our 
+ESG maturity through innovation, collaboration, and stakeholder engagement.
+	
+In summary, our approach underscores transparency, accountability, and value creation for all stakeholders as we continue 
+our sustainability journey.
+8.	
+Details of the highest authority responsible for 
+implementation and oversight of the Business 
+Responsibility policy/policies.
+The CEO is the ultimate authority for implementing and overseeing 
+Business Responsibility & Sustainability Policies, with the guidance 
+of the Board of Directors.
+9.	
+Does the entity have a specified Committee of 
+the Board/ Director responsible for decision 
+making on sustainability related issues? (Yes / 
+No). If yes, provide details.
+No, at present there is no separate committee for decision making 
+on sustainability related issues of the Company.
+10.	 Details of Review of NGRBCs by the Company:
+	
+Subject for Review
+Indicate whether review was 
+undertaken by Director / 
+Committee of the Board/Any 
+other Committee
+Frequency (Annually/Half 
+yearly/Quarterly/ Any other– 
+please specify)
+P 
+1
+P 
+2
+P 
+3
+P 
+4
+P 
+5
+P 
+6
+P 
+7
+P 
+8
+P 
+9
+P 
+1
+P 
+2
+P 
+3
+P 
+4
+P 
+5
+P 
+6
+P 
+7
+P 
+8
+P 
+9
+	
+Performance against above policies 
+and follow up action
+As this is the first year of 
+implementation for many policies, 
+no performance review or follow up 
+action has been carried out yet.
+Performance review and follow up 
+actions will be carried out as required 
+and detailed in the policies.
+	
+Compliance with statutory 
+requirements of relevance to the 
+principles, and rectification of any 
+non-compliances
+The company is in Compliance with all 
+statutory requirements.
+Throughout the year
+11.	 Has the entity carried out 
+independent assessment/ evaluation 
+of the working of its policies by an 
+external agency? (Yes/No). If yes, 
+provide the name of the agency.
+P 
+1
+P 
+2
+P 
+3
+P 
+4
+P 
+5
+P 
+6
+P 
+7
+P 
+8
+P 
+9
+At present no independent assessment/ evaluation of the working of policies was 
+carried out by any external agency. The Company will look to take this up in the 
+coming years.
+132
+ideaForge Technology Limited
+CORPORATE OVERVIEW
+02-55
+STATUTORY REPORTS
+56-152
+FINANCIAL STATEMENTS
+154-329
+12.	 If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated:
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+1.	
+The entity does not consider the principles material 
+to its business (Yes/No)
+All policies are in line with all BRSR principles. The company has taken 
+active steps to ensure all policies are created in line with BRSR and 
+responsible business conduct. More details can be found in this link.
+2.	
+The entity is not at a stage where it is in a position 
+to formulate and implement the policies on specified 
+principles (Yes/No)
+3. 	
+The entity does not have the financial or/human and 
+technical resources available for the task (Yes/No)
+4. 	
+It is planned to be done in the next financial year 
+(Yes/No)
+5. 	
+Any other reason (please specify)
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core Elements with key 
+processes and decisions. The information sought is categorized as “Essential” and “Leadership”. While the essential indicators are 
+expected to be disclosed by every entity that is mandated to file this report, the leadership indicators may be voluntarily disclosed by 
+entities who aspire to progress to a higher level in their quest to be socially, environmentally, and ethically responsible.
+I. 
+Principle 1: Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, 
+Transparent and Accountable
+	
+Essential Indicators
+1. 
+Percentage coverage by training and awareness programmes on any of the principles during the financial year:
+Segment
+Total number 
+of training 
+and awareness 
+programmes held
+Topics / principles covered under the 
+training and its impact
+%age of persons in 
+respective category 
+covered by the 
+awareness programmes
+Board of Directors 
+(BoD)
+1
+Familiarization Programme for Board Members, 
+Code of Conduct and other policies, ideaForge’s 
+focus on sustainability
+100%
+Key Managerial 
+Personnel (KMP)
+1
+Code of Conduct and other policies, ideaForge’s 
+focus on sustainability
+100%
+Employees other 
+than BoD and KMPs
+30
+Effective Communication, Presentation Skills, 
+Product Safety, Performance Management 
+Programme, Process Certification, POSH, 
+Experience Design, Managerial Effectiveness, 
+Insider Trading Familiarization, Drone Regulations, 
+GPS Fundamentals
+100%
+Workers
+36
+Product safety, FOD, MTS, PCB, Soldering, 
+Welding, Code of conduct, 5S, Kaizen
+100%
+2. 
+Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the 
+entity or by directors / KMPs) with regulators/ law enforcement agencies/judicial institutions, in the financial year, in 
+the following format (Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30 
+of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity’s website):
+	
+There are no fines or penalties paid with regulators/legal entities in this financial year.
+Annual Report 2023-24
+133
+3. 
+Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or 
+non-monetary action has been appealed.
+Case details
+Name of the regulatory/ enforcement agencies/ judicial institution
+DGCA vide Demand Notice dated 
+September 20, 2023 has imposed a penalty 
+of INR 1,00,000/- in exercise of the powers 
+conferred under Rule 50 of the Drone Rules 
+2021. The said penalty was imposed as in 
+their view, the Company failed to comply 
+with Rule 17 of the Drone Rules 2021.
+On October 18, 2023, the Company had filed an appeal to the Ministry of Civil 
+Aviation (MoCA) against the order passed by DGCA imposing penalty of  
+INR 1,00,000/-
+The Company was given an opportunity to appear in person before the MoCA 
+on March 21, 2024. The MoCA has passed the order on March 26, 2024, and 
+reduced the penalty from INR 1,00,000/- to INR 10,000/- Based on this, the 
+Company had deposited the penalty of INR 10,000/- against the Demand 
+Notice dated September 20, 2023, from DGCA. The Order from DGCA stands 
+withdrawn.
+In this regard at present there are no cases where there is any monetary or 
+non-monetary action that has been appealed.
+4. 
+Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide 
+a web-link to the policy.
+	
+The Company has a Policy on anti-corruption and anti-bribery (ABAC). This Policy applies to All Directors, Employees and 
+stakeholders.
+	
+The ABAC Policy defines corruption and bribery and details a strong commitment with zero-tolerance to any Bribery, Facilitation 
+Payments, Improper Use of Company Funds or Assets, Conflict of Interest, Gifts, Entertainment, and Hospitality and Political 
+Contributions and consequence of the same.
+	
+For any Whistle Blower, all Protected Disclosures should be addressed to the Vigilance Committee or to the Chairman of the 
+Audit Committee. The committee members will carry out an investigation if needed. The Audit Committee members, if deems 
+fit, may call for further information or particulars from the complainant or give requisite directions to the Vigilance Committee. 
+More details can be found in this link: https://ideaforgetech.com/uploads/Other/VigilMechanismPolicy(2).pdf
+5. 
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement 
+agency for the charges of bribery/corruption:
+	
+There are no directors/KMP/employees against whom disciplinary actions was taken by any agency in view of bribery/corruption.
+6. 
+Details of complaints with regard to conflict of interest:
+	
+There are complaints received in relation to issues of Conflict of Interest with respect to directors/KMP.
+7. 
+Provide details of any corrective action taken or underway on issues related to fines / penalties /action taken by 
+regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+	
+As there were no complaints received with respect to conflict of interest in the past 2 financial years, there has been no 
+need for corrective action on matters pertaining to fines/penalty/activity taken by regulators/law enforcement agencies/judicial 
+institutions.
+8. 
+Number of days of accounts payables ((Accounts payable*365) / Cost of goods/services procured) in the following 
+format:
+FY 2023-24
+FY 2022-23
+Number	 of days of accounts payables
+51 days
+53 days
+134
+ideaForge Technology Limited
+CORPORATE OVERVIEW
+02-55
+STATUTORY REPORTS
+56-152
+FINANCIAL STATEMENTS
+154-329
+9. 
+Open-ness of business
+	
+Provide details of concentration of purchases and sales with trading houses, dealers, and related parties along-with loans and 
+advances & investments, with related parties, in the following format:
+Parameter
+Metrics
+FY 2023-24
+FY 2022-23
+Concentration 
+of Purchases
+a. 	
+Purchases from trading houses as % of total purchases
+72%
+55%
+b. 	
+Number of trading houses where purchases are made from
+60
+58
+c. 	
+Purchases from top 10 trading houses as % of total purchases from 
+trading houses
+74%
+73%
+Concentration 
+of Sales
+a. 	
+Sales to dealers / distributors as % of total sales
+16%
+23%
+b. 	
+Number of dealers / distributors to whom sales are made
+24
+48
+c. 	
+Sales to top 10 dealers / distributors as % of total sales to dealers / 
+distributors
+16%
+21%
+Share of 
+Related Party 
+Transactions in
+a. 	
+Purchases (Purchases with related parties / Total Purchases)
+Nil
+Nil
+b. 	
+Sales (Sales to related parties / Total Sales)
+0.34%
+Nil
+c. 	
+Loans & advances (Loans & advances given to related parties / Total 
+loans & advances)
+Nil
+Nil
+d. 	
+Investments (Investments in related parties / Total Investments made)
+Nil
+Nil
+II. 
+Principle 2: Businesses should provide goods and services in a manner that is Sustainable and Safe
+	
+Essential Indicators
+1. 
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental 
+and social impacts of product and processes to total R&D and capex investments made by the entity, respectively.
+FY 2023-24
+FY 2022-23
+Details of improvements in environmental and social impacts
+R&D
+20%
+-
+•	
+Development of Surveillance Payloads for Forestry and Natural Habitat's 
+Monitoring to protect Environment.
+•	
+Development of Multispectral Payloads for Agriculture Plant Health 
+Monitoring and Precision Agriculture
+•	
+Mapping of Agricultural Land for Up-to-Date Land Records, Railway 
+Track Mapping, Urban Planning & Property Tax Collection, Urban Traffic 
+Management etc.
+•	
+Development of drones for Public Safety (during elections & riots in the city, 
+locate missing people/ suspects, bridge inspection etc.)
+•	
+Development of advanced features such as 20% longer endurance (flight 
+times), improved stability during night and adverse weather conditions  
+(e.g fog and rain).
+Capex
+10%
+-
+Necessary infrastructure related investments to the above R&D initiatives.
+	
+Note: The Company has started tracking the R&D investments in specific technologies to improve the environmental and social 
+impacts of product from the financial year 2023-2024
+2. 
+Does the entity have procedures in place for sustainable sourcing? (Yes/No) b. If yes, what percentage of inputs were 
+sourced sustainably?
+	
+Yes, ideaForge has a Policy on Sustainable Supply Chain and Responsible Sourcing. This Policy and procedures aims to integrate 
+ESG across Suppliers. This would help strengthen the ESG practices across the supply chain.
+	
+ideaForge also conducts an internal annual audit of suppliers across ESG aspects during the supplier on-boarding process. 
+At present we are not tracking the percentage of inputs were sourced sustainably and will look to track this in the coming years.
+Annual Report 2023-24
+135
+3. 
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, 
+for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+	
+•	
+E-Waste - ideaForge has partnered with a Producer Responsibility Organization who will support in the channelization of 
+e-waste from end customer for any used products to the recycling/dismantling premises, through the establishment of 
+collection centers. This is done with the support of registered recyclers for collection and disposal of waste.
+	
+•	
+Plastic Waste, Hazardous and other waste – The Company does not have any process to safely reclaim and recycle these 
+wastes at the end of life.
+4. 
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether the 
+waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control 
+Boards? If not, provide steps taken to address the same.
+	
+Yes, Extended Producer Responsibility (EPR) is applicable in the three categories i,e. plastic waste, battery waste and E-waste. 
+ideaForge has registered as an EPR for Battery and E-wastes and the waste collection plan is in line with the EPR plan submitted 
+to CPCB. ideaForge is also in process of registration of Plastic waste as an importer and brand owner category. The Company 
+continuously monitors the disposal of plastic, battery and electronics waste. The facility continues to monitor the generation of 
+plastic, battery and electronics waste and dispose of the same according to the Pollution Control Board (PCB) rules.
+III. 
+Principle 3: Businesses should respect and promote the well-being of all employees, including those in their value 
+chains
+	
+Essential Indicators
+1. 
+a.  
+Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total 
+(A)
+Health 
+Insurance
+Accident 
+Insurance
+Maternity 
+Benefits
+Paternity 
+Benefits
+Day Care 
+Facilities
+Number 
+(B)
+% 
+(B/A)
+Number 
+(C)
+% 
+(C/A)
+Number 
+(D)
+% 
+(D/A)
+Number 
+(E)
+% 
+(E/A)
+Number 
+(F)
+% 
+(F/A)
+Permanent Employees
+Male
+354
+354
+100%
+354
+100%
+-
+-
+354
+100%
+354
+100%
+Female
+59
+59
+100%
+59
+100%
+59
+100%
+-
+-
+59
+100%
+Total
+413
+413
+100%
+413
+100%
+59
+100%
+354
+100%
+413
+100%
+Other than Permanent Employees
+Male
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Female
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Total
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+ 
+b.  
+Details of measures for the well-being of workers:
+Category
+% of workers covered by
+Total 
+(A)
+Health 
+Insurance
+Accident 
+Insurance
+Maternity 
+Benefits
+Paternity 
+Benefits
+Day Care 
+Facilities
+Number 
+(B)
+% 
+(B/A)
+Number 
+(C)
+% 
+(C/A)
+Number 
+(D)
+% 
+(D/A)
+Number 
+(E)
+% 
+(E/A)
+Number 
+(F)
+% 
+(F/A)
+Permanent Workers
+Male
+The Company does not have permanent workers
+Female
+Total
+Other than Permanent Workers
+Male
+162
+162
+100%
+162
+100%
+-
+-
+-
+-
+162
+100%
+Female
+92
+92
+100%
+92
+100%
+92
+100%
+-
+-
+92
+100%
+Total
+254
+254
+100%
+254
+100%
+254
+100%
+-
+-
+254
+100%
+136
+ideaForge Technology Limited
+CORPORATE OVERVIEW
+02-55
+STATUTORY REPORTS
+56-152
+FINANCIAL STATEMENTS
+154-329
+ 
+c.  
+Spending on measures towards well-being of employees and workers (including permanent and other than 
+permanent) in the following format –
+FY 2023-24
+FY 2022-23
+Cost incurred on well- being measures as a % of total revenue of the company
+0.83%
+0.81%
+ 
+d. 
+Details of retirement benefits.
+Benefits
+FY 2023-24
+FY 2022-23
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+PF
+100%
+-
+Y
+100%
+-
+Y
+Gratuity
+100%
+-
+Y
+100%
+-
+Y
+ESI
+100%
+-
+Y
+100%
+-
+Y
+Others
+-
+-
+-
+-
+-
+-
+3. 
+Accessibility of workplaces: Are the premises / offices of the entity accessible to differently abled employees and 
+workers, as per the requirements of the Rights of Persons with Disabilities Act, 2016? If not, whether any steps are 
+being taken by the entity in this regard.
+	
+The number of differently abled employees and workers across ideaForge are very less. ideaForge has provisions of wheels and 
+rims for disabled employees at its offices and manufacturing facilities and offices.
+4. 
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide 
+a web-link to the policy.
+	
+Yes. ideaForge is committed to upholding the principles of equal opportunity and inclusivity in our workplace. Our equal 
+opportunity policy outlines our commitment to creating a supportive and accessible work environment for all employees. 
+ideaForge is committed to providing equal opportunities without any discrimination on the grounds of age, color, disability, 
+origin, nationality, religion, race, gender or sexual orientation. Our zero-tolerance stance extends to any form of verbal or physical 
+harassment related to these aspects. Additionally, ideaForge is dedicated to creating a safe and diverse work environment for 
+all employees. We ensure absolute impartiality in all employment-related decisions, including recruitment, development, and 
+retention. The equal opportunity policy can be found at this link.
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave:
+Gender
+Permanent employees
+Permanent workers
+Return to 
+work rate
+Retention 
+rate
+Return to 
+work rate
+Retention 
+rate
+Male
+100%
+100%
+NA
+NA
+Female
+100%
+100%
+NA
+NA
+Total
+100%
+100%
+NA
+NA
+Annual Report 2023-24
+137
+6. 
+Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+workers? If yes, give details of the mechanism in brief.
+Permanent workers
+Not Applicable
+Other than permanent workers
+Yes. ideaForge has established a Grievance Redressal Policy that provides a framework 
+to ensure all Employees and Workers are treated equally. All complaints are dealt within 
+appropriate time frame. The Policy provides the process for any employee/worker to raise 
+a grievance and details of procedure for resolution. More details can be found at this link.
+Permanent employee
+Other than permanent employee Not Applicable
+7. 
+Membership of employees and worker in association(s) or Unions recognized by the listed entity:
+	
+At present ideaForge does not track the membership of employees and worker in association(s) or Unions.
+8. 
+Details of training given to employees and workers: 
+Category
+FY 2023-24
+FY 2022-23
+Total 
+(A)
+On Health and 
+Safety Measures
+On Skill 
+Upgradation
+Total 
+(D)
+On Health and 
+Safety Measures
+On Skill 
+Upgradation
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Permanent Employees
+Male
+354
+354
+100%
+354
+100%
+354
+354
+100%
+354
+100%
+Female
+59
+59
+100%
+59
+100%
+59
+59
+100%
+59
+100%
+Total
+413
+413
+100%
+413
+100%
+413
+413
+100%
+413
+100%
+Permanent Workers
+Male
+The Company does not have any permanent workers.
+Female
+Total
+9. 
+Details of performance and career development reviews of employees and worker:
+Category
+FY 2023-24 Current Financial Year
+FY 2022-23  Previous Financial Year
+Total (A)
+No. (B)
+% (B/A)
+Total (C)
+No. (D)
+% (D/C)
+Employees
+Male
+354
+292
+82%
+234
+194
+83%
+Female
+59
+49
+83%
+44
+35
+80%
+Total
+413
+341
+83%
+278
+229
+82%
+Permanent Workers
+Male
+N.A
+Female
+Total
+138
+ideaForge Technology Limited
+CORPORATE OVERVIEW
+02-55
+STATUTORY REPORTS
+56-152
+FINANCIAL STATEMENTS
+154-329
+10. Health and safety management system:
+ 
+a. 
+Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No). 
+If yes, what is the coverage of such a system?
+	
+	
+Yes, the Company has implemented a robust Occupational Health and Safety Management System. We consider workplace 
+Health & Safety as a priority in our operations. The system covers the manufacturing unit.
+	
+	
+Periodic EHS communication and alerts are sent out to employees and awareness sessions are conducted on safety 
+related aspects periodic training on basic fire safety, including evacuation drills. The facility has a designated first-aider, with 
+minimum basic training so as to provide first aid in case of any medical emergencies.
+ 
+b. 
+What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis 
+by the entity?
+	
+	
+The Company follows a systematic approach towards Hazard Identification and Risk Assessment (HIRA) to identify 
+work-related hazards that includes the following steps:
+	
+	
+Hazard Identification: To identify any hazards that exist in the manufacturing unit of the Company follows workplace 
+inspections, and review of incident reports.
+	
+	
+Risk Assessment: The risks associated with each hazard is then assessed. This is done by evaluating the severity of potential 
+harm or injury.
+	
+	
+Controls: Next, we look to develop and implement controls to minimize the risk. The Company identified engineering 
+controls, administrative controls, or use Personal Protective Equipment (PPE) to mitigate the risks.
+	
+	
+Monitor: The Company looks to ensure continuous monitoring and improvement of occupational health and safety within 
+its operations
+	
+	
+The Company has several safety tools to ensure a safe working environment for its employees. These tools include:
+	
+	
+-	
+Safety Gemba, which involve regular inspections of the workplace to identify potential hazards and unsafe practices.
+	
+	
+-	
+Elimination of accepted unsafe practices, which targets practices that are commonly accepted but pose a risk to 
+employees’ safety
+	
+	
+-	
+Reviewing each stage of a workstation to identify potential hazards
+	
+	
+-	
+Take corrective measures accordingly
+ 
+c. 
+Whether you have processes for workers to report the work-related hazards and to remove themselves from 
+such risks.
+	
+	
+Yes.
+	
+	
+The Company has created awareness for employees and workers to report work related hazards.
+	
+	
+Employees/Workers can also report to their respective department. Further, these teams will coordinate with the designated 
+person to address the hazards to control the risk.
+	
+	
+Job specific trainings to employees & technician. The process of incident reporting and investigation has also been 
+implemented.
+	
+	
+Workmen were identified and deployed at workplaces to identify hazards and report them for immediate corrective action. 
+Workmen representatives from each department were also part of the Safety Committee. Monthly Safety Committee 
+meetings are conducted where workman’s representatives were participated to report the work and health related hazards/
+concerns at the workplace and discuss the mitigation measures.
+Annual Report 2023-24
+139
+ 
+d. 
+Do the employees/ workers of the entity have access to non-occupational medical and healthcare services?
+	
+	
+Employees/Workers of our manufacturing facility have access to non-occupational medical and healthcare services. This is 
+done through on-site medical services or through existing tie-ups with reputed hospitals located close to the facility. 
+We provide routine checkups of our employees and treatment for illnesses or injuries. In addition, personnel are also 
+trained to respond to any medical emergencies on-site. Employees are covered in medical insurance policy.
+11. Details of safety related incidents, in the following format: 
+Safety Incident/Number
+Category
+FY 2023-24
+FY 2022-23
+Lost Time Injury Frequency Rate (LTIFR) (per one million-
+person hours worked)
+Employee
+0
+0
+Worker
+0
+1.3
+Total recordable work-related injuries
+Employee
+0
+0
+Worker
+0
+1
+No. of fatalities
+Employee
+0
+0
+Worker
+0
+0
+High consequence work-related injury or ill-health 
+(excluding fatalities)
+Employee
+0
+0
+Worker
+0
+0
+12. Describe the measures taken by the company to ensure a safe and healthy workplace.
+	
+Details of measures taken by the Company at their manufacturing facility include:
+	
+A system with hierarchy of controls (method for identifying and ranking safeguards to protect workers from hazards) is followed 
+for the application of risk control measures. This is followed before the execution of any task. None of the tasks are executed 
+until the risks (if any) are brought to acceptable range. Safety training is provided to educate employees so that they can identify 
+potential hazards, use equipment correctly, and implement preventive measures.
+	
+These trainings help improve the safety culture within the facility and can significantly reduce the risk of accidents and injuries at 
+workplace. A PPE Matrix is displayed at workstations to ensure which PPE can be used during respective operation/work/ or any 
+task.
+	
+Periodic mock drills are conducted to ensure readiness, emergency preparedness, evaluate post-drill issues, identify emergency 
+gaps, validate response plans, and find improvements. Improvement of the Health & Safety system is assured through periodic 
+safety inspections across the facility. Monthly Safety Committees meeting were conducted to monitor the workplace for hazards 
+on a regular basis and mitigate the same ensuring a safe workplace.
+13. Number of complaints on the following made by employees and workers:
+Category
+FY 2023-24
+FY 2022-23
+Filed during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks Filed during 
+the year
+Pending 
+resolution at 
+the end of year
+Remarks
+Working Conditions
+The facility has not received any complaints on Health & Safety and Working Conditions for the 
+past two financial years.
+Health & Safety
+14. Assessments for the year: 
+Aspect
+% Of your plants and offices that were assessed (by entity or statutory authorities or 
+third parties)
+Health and safety practices
+At present the Company is conducting internal assessment for Health & Safety practices.
+The Company will conduct an external assessment in the coming year.
+Working Conditions
+140
+ideaForge Technology Limited
+CORPORATE OVERVIEW
+02-55
+STATUTORY REPORTS
+56-152
+FINANCIAL STATEMENTS
+154-329
+15. Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant 
+risks / concerns arising from assessments of health & safety practices and working conditions.
+	
+ideaForge ensures all safety related incidents are being investigated and reviewed. All safety related reports are shared across 
+the facility for any corrective actions to prevent any recurrence of such incidents.
+IV. 
+Principle 4: Businesses should respect the interests of and be responsive to all its stakeholders
+Essential Indicators
+1. 
+Describe the processes for identifying key stakeholder groups of the entity.
+	
+Stakeholders play an important role in our success. Stakeholder engagement helps the Company identify and understand 
+stakeholder concerns and incorporate them in into decision making. The Company identifies key stakeholders through the 
+following steps:
+	
+1. 	
+Understand Needs and Expectations
+	
+2. 	
+Identify Stakeholder Groups
+	
+3. 	
+Prioritize Stakeholder Groups
+	
+4. 	
+Engagement Plan for Stakeholder
+2. 
+List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder 
+group:
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/
+No)
+Channels of communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website), Other
+Frequency of 
+engagement 
+(Annually/ Half 
+yearly/ Quarterly 
+/ others – please 
+specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Government 
+and regulatory 
+authorities
+No
+• 	 Industry Associations 
+• 	 Corporate Presentations 
+• 	 Written Communications 
+• 	 Email 
+• 	 Website 
+• 	 One-to-one meetings
+Ongoing-
+throughout the 
+year
+Purpose and scope of 
+engagement 
+Compliance
+Key topics raised during the 
+engagement 
+Compliance monitoring and 
+reporting.
+Policies 
+Business updates
+NGOs
+Yes
+• 	 Email
+• 	 Letters
+• 	 Website
+Ongoing-
+throughout the 
+year
+Purpose and scope of 
+engagement 
+CSR initiatives
+Key topics raised during the 
+engagement 
+Identification of Target 
+population
+Budget and spend
+CSR Activities
+Annual Report 2023-24
+141
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalized 
+Group (Yes/
+No)
+Channels of communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website), Other
+Frequency of 
+engagement 
+(Annually/ Half 
+yearly/ Quarterly 
+/ others – please 
+specify)
+Purpose and scope of 
+engagement including key 
+topics and concerns raised 
+during such engagement
+Employees
+No
+• 	 Team Meetings 
+• 	 Email Communication 
+• 	 Employee Survey 
+• 	 Trainings 
+• 	 Town Halls 
+• 	 Annual Performance 
+• 	 Reviews
+Ongoing-
+throughout the 
+year
+Purpose and scope of 
+engagement 
+Employee Well being
+Key topics raised during the 
+engagement 
+Strategy, Policies, and 
+Procedures 
+Compensation and Benefits 
+Career Development 
+Opportunities 
+Training Programs
+Customers
+No
+• 	 Corporate Website
+• 	 Toll-free number
+• 	 Digital Platforms
+• 	 Customer Relationship 
+Managers
+• 	 Customer Satisfaction Surveys
+• 	 Media Campaigns and 
+Advertising
+• 	 Knowledge Seminars and 
+Events
+Ongoing-
+throughout the 
+year
+Purpose and scope of 
+engagement 
+Review customer needs and 
+expectations 
+Customer Feedback 
+Key topics raised during the 
+engagement 
+Product Specifications & Pricing 
+Product Delivery 
+Product Feedback
+Suppliers, 
+Vendors, 
+Business 
+Partners
+No
+•	
+In-person Visits 
+• 	 Telephonic 
+• 	 Supplier Onboarding 
+• 	 Trainings 
+• 	 Email Communication 
+• 	 Online one-to-one meeting 
+with the top management
+• 	 Channel Partner Meets 
+• 	 Conferences and Forums 
+• 	 Written Communications
+Ongoing-
+throughout the 
+year
+Purpose and scope of 
+engagement 
+Quality of products provided by 
+suppliers. 
+Supplier’s Delivery Capabilities 
+Key topics raised during the 
+engagement 
+Supplier’s QC process. 
+Delivery Timeframe
+Investors & 
+Shareholders
+No
+• 	 Annual General Meetings 
+• 	 Conferences 
+• 	 Investor Meets 
+• 	 Annual Reports 
+• 	 Investor Presentations 
+• 	 Company Announcements 
+• 	 Website 
+• 	 Media Releases
+Quarterly
+Purpose and scope of 
+engagement 
+Any concerns and inquiries 
+Company’s Financial 
+Performance 
+Corporate Strategy and 
+Governance 
+Key topics raised during the 
+engagement 
+Financial Results
+Corporate Strategy Updates
+142
+ideaForge Technology Limited
+CORPORATE OVERVIEW
+02-55
+STATUTORY REPORTS
+56-152
+FINANCIAL STATEMENTS
+154-329
+V. 
+Principle 5: Businesses should respect and promote human rights
+	
+Essential Indicators
+1. 
+Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the 
+following format:
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+No. of employees 
+/ workers 
+covered (B)
+% (B/A)
+Total (C)
+No. of employees 
+/ workers 
+covered (D)
+% (D/C)
+Employees
+Permanent
+413
+413
+100%
+278
+278
+100%
+Other than 
+permanent
+-
+-
+-
+-
+-
+-
+Total Employees
+413
+413
+100%
+278
+278
+100%
+Workers
+Permanent
+-
+-
+-
+-
+-
+-
+Other than 
+permanent
+254
+254
+100%
+248
+248
+100%
+Total Workers
+254
+254
+100%
+248
+248
+100%
+2. 
+Details of minimum wages paid to employees and workers, in the following format
+Category
+FY 2023-24
+FY 2022-23
+Total 
+(A)
+Equal to 
+Minimum Wage
+More than 
+minimum Wage
+Total 
+(D)
+Equal to 
+Minimum Wage
+More than 
+minimum wage
+No. (B) %(B/A)
+No.(C) %(C/A)
+No.(E) %(E/D)
+No.(F) %(F/D)
+Employees
+Permanent
+413
+-
+-
+413
+100%
+278
+-
+-
+278
+100%
+Other than Permanent
+354
+-
+-
+354
+100%
+234
+-
+-
+234
+100%
+Total employees
+59
+-
+-
+59
+100%
+44
+-
+-
+44
+100%
+Workers
+Permanent
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Other than permanent
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Total workers
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3. 
+a.  
+Details of remuneration/salary/wages, in the following format :
+ 
+Median remuneration / wages
+Category
+Male
+Female
+Number
+Median 
+remuneration/ 
+salary/ wages of 
+respective category
+Number
+Median 
+remuneration/ 
+salary/ wages of 
+respective category
+Board of Directors (BoD)
+7
+10,90,500
+1
+15,00,000
+Key Managerial Personnel (KMP)
+5
+12,45,078
+1
+79,177
+Employees other than BoD and KMP
+349
+68,140
+58
+61,211
+Workers
+-
+-
+-
+-
+Annual Report 2023-24
+143
+ 
+b. 
+Gross wages paid to females as % of total wages paid by the entity, in the following format:
+FY 2023-24
+FY 2022-23
+Gross wages paid to females as % of total wages
+10.52%
+10.45%
+4. 
+Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused 
+or contributed to by the business? (Yes/No)
+	
+Yes. Any complaints related to human rights can be raised to the concerned Head of Department or the HR Head. The Company 
+has also developed a Policy on “Prevention of Sexual Harassment at Workplace”(POSH). Any grievance related to POSH can 
+be reported to writing to HR, Executive Officer or Executive Director or the Internal Complaints Committee. Apart from this 
+the company has a developed a Vigil Mechanism/ Whistle Blower Policy. This been formulated to provide a mechanism to 
+employees and directors to report any grievances on suspected wrongful conducts or unethical behavior. Any grievances can 
+be shared to the Vigilance Committee or Chairman of the Audit Committee..
+5. 
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+	
+The Company has procedures in place to address grievances related to human rights issues. Grievances can be reported to the 
+concerned Head of Department or the HR Head for resolution. With respect to any issues related to POSH, for any issue should 
+be addressed in writing to HR, Executive Officer or Executive Director. They shall investigate and resolve the alleged incident. 
+In the event that resolution does not result in a satisfactory conclusion, a complaint should be shared in written and signed 
+statement on the appropriate complaint form to the HR department, CFO . The Internal Complaints Committee shall investigate 
+every formal written complaint of and take appropriate remedial measures.
+6. 
+Number of Complaints on the following made by employees and workers:
+Aspect
+FY 2023-24
+FY 2022-23
+Filed 
+during 
+the year
+Pending 
+resolution at 
+the end of 
+year
+Remarks
+Filed 
+during 
+the year
+Pending 
+resolution at 
+the end of 
+year
+Remarks
+Sexual Harassment
+There are no complaints filed by employees and workers related to human rights 
+issues for the past 2 financial years.
+Discrimination at workplace
+Child Labour
+Forced Labour/ Involuntary Labour
+Wages
+Other human rights related issues
+7. 
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 
+2013, in the following format:
+FY 2023-24
+FY 2022-23
+Total Complaints reported under Sexual Harassment on of Women at Workplace 
+(Prevention, Prohibition and Redressal) Act, 2013 (POSH)
+There are no complaints filed 
+under POSH in the current and 
+previous financial year.
+Complaints on POSH as a % of female employees / workers
+Complaints on POSH upheld
+8. 
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+	
+The Company has detailed policies and procedures on POSH and an employee code of conduct. All employees and workers are 
+trained on these aspects. In any issues related to discrimination and harassment the company will maintain confidentiality of the 
+persons involved.
+144
+ideaForge Technology Limited
+CORPORATE OVERVIEW
+02-55
+STATUTORY REPORTS
+56-152
+FINANCIAL STATEMENTS
+154-329
+9. 
+Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+	
+No.
+10. Assessments of the year
+Aspects
+% of your plants and offices that were assessed (by entity or statutory 
+authorities or third parties)
+Child labor
+The Company has not carried out any assessments for these aspects in the financial 
+year 2023-2024.
+Forced labor
+Sexual harassment
+Discrimination at workplace
+11. Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the 
+assessments at Question 10 above.
+	
+Not Applicable
+VI. Principle 6: Businesses should respect and make efforts to protect and restore the environment
+	
+Essential Indicators
+ 
+1. 
+Details of total energy consumption (in Joules or multiples) and energy intensity:
+Parameter
+Unit
+FY 2023-24
+FY 2022-23
+From renewable sources (in gigajoules)
+Total electricity consumption (A)
+GJ
+-
+-
+Total fuel consumption (B)
+GJ
+-
+-
+Energy consumption through other sources (C)
+GJ
+-
+-
+Total energy consumption from renewable sources 
+(A+B+C) (GJ)
+GJ
+-
+-
+From non - renewable sources (in gigajoules)
+Total electricity consumption (D)
+GJ
+1,759
+1,121
+Total fuel consumption – DG Sets (E)
+GJ
+2,781
+1,799
+Energy consumption through other sources – Diesel from 
+Company owned vehicles (F)
+GJ
+8,927
+5,303
+Total energy consumption from non - renewable sources 
+(D+E+F) (GJ)
+GJ
+13,467
+8,223
+Total energy consumption (A+B+C+D+E+F) (GJ)
+GJ
+13,467
+8,223
+Energy intensity per rupee of turnover
+(Total energy consumption in GJ/ Revenue from operations)
+GJ/Mn (INR)
+4.25
+4.42
+Energy intensity per rupee of turnover adjusted for Purchasing 
+Power Parity (PPP)
+(Total energy consumed / Revenue from operations adjusted for 
+PPP)
+GJ/Mn adjusted for 
+PPP
+PPP for India is taken 
+as 22.4 for FY 24 & 
+22.17 for FY23
+Source: IMF
+0.19
+0.20
+Energy intensity in terms of physical output
+-
+-
+-
+Energy intensity (optional) – the relevant metric may be selected by 
+the entity
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, 
+name of the external agency.
+	
+There is no Independent Assessment done.
+Annual Report 2023-24
+145
+2. 
+Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve 
+and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme 
+have been achieved. In case targets have not been achieved, provide the remedial action taken, if any.
+	
+ideaForge does not have any facilities that are designated consumers (DCs) under the Performance, Achieve and Trade (PAT) 
+Scheme of the Government of India.
+3. 
+Provide details of the following disclosures related to water
+Parameter
+Unit
+FY 2023-24
+FY 2022-23
+Water withdrawal by source (in kilolitres)
+(i) 	
+Surface water
+KL
+-
+-
+(ii) 	 Groundwater
+KL
+-
+-
+(iii) 	 Third party water
+KL
+-
+-
+(iv) 	 Seawater / desalinated water
+KL
+-
+-
+(v) 	 Others
+KL
+3,508
+1,863
+Total volume of water withdrawal (in kilolitres) 
+(i+ii+iii+iv+v)
+KL
+3,508
+1,863
+Total volume of water consumption (in kilolitres)
+KL
+3,508
+1,863
+Water intensity per rupee of turnover (Water consumed / turnover)
+KL/Mn (INR)
+1.11
+1.00
+Water intensity per rupee of turnover adjusted for Purchasing 
+Power Parity (PPP) (Total water consumption / Revenue from 
+operations adjusted for PPP)
+KL/Mn adjusted for 
+PPP
+PPP for India is taken 
+as 22.4 for FY 24 & 
+22.17 for FY23
+Source: IMF
+0.05
+0.05
+Water intensity in terms of physical output
+-
+-
+-
+Water intensity (optional)– the relevant metric may be selected by 
+the entity
+ 
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+There is no Independent Assessment done.
+4. 
+Provide the following details related to water discharged:
+Parameter
+Unit
+FY 2023-24
+FY 2022-23
+Water discharge by destination and level of treatment (in kilolitres)
+(i) 	
+Surface water
+KL
+	
+No treatment
+KL
+	
+With treatment – please specify the level of treatment
+KL
+(ii) 	 Ground water
+KL
+	
+No treatment
+KL
+	
+With treatment – please specify the level of treatment
+KL
+(iii) 	 Sea water
+KL
+	
+No treatment
+KL
+	
+With treatment – please specify the level of treatment
+KL
+(iv) 	 Sent to third parties
+KL
+	
+No treatment
+KL
+	
+With treatment – please specify the level of treatment
+KL
+(v) 	 Others
+KL
+	
+No treatment
+KL
+2,806
+1490
+	
+With treatment – please specify the level of treatment
+KL
+Total water discharged (in kilolitres)
+KL
+2,806
+1490
+	
+Domestic Sewage from the manufacturing facility is discharged to the Common Industrial area treatment plant.
+146
+ideaForge Technology Limited
+CORPORATE OVERVIEW
+02-55
+STATUTORY REPORTS
+56-152
+FINANCIAL STATEMENTS
+154-329
+ 
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+There is no Independent Assessment done.
+5. 
+Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and 
+implementation.
+	
+The Company has not implemented any system of Zero Liquid Discharge.
+6. 
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Unit
+FY 2023-24
+FY 2022-23
+NOx
+tones/annum
+0.0002
+0.0001
+Sox
+tones/annum
+0.0001
+0.0001
+Particulate matter (PM 10)
+tones/annum
+-
+-
+Persistent organic pollutants (POP)
+tones/annum
+-
+-
+Volatile organic compounds (VOC)
+tones/annum
+-
+-
+Hazardous air pollutants (HAP)
+tones/annum
+-
+-
+Others –
+tones/annum
+-
+-
+ 
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+There is no Independent Assessment done.
+7. 
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+Parameter
+Unit
+FY 2023-24
+FY 2022-23
+Scope 1
+Metric tons of CO2 equivalent
+77.43
+47.8
+Scope 2
+Metric tons of CO2 equivalent
+346.9
+221.06
+Total
+Metric tons of CO2 equivalent
+424.33
+268.86
+Total Scope 1 and Scope 2 emissions per rupee of turnover
+Metric tons of CO2 equivalent 
+/Mn (INR)
+0.13
+0.14
+Total Scope 1 and Scope 2 emission intensity per rupee of 
+turnover adjusted for Purchasing Power Parity (PPP)
+(Total Scope 1 and Scope 2 GHG emissions / Revenue from 
+operations adjusted for PPP)
+Metric tons of CO2 equivalent 
+/Mn adjusted for PPP
+PPP for India is taken as 22.4 
+for FY 24 & 22.17 for FY23 
+Source: IMF
+0.01
+0.01
+Total Scope 1 and Scope 2 emission intensity in terms of 
+physical output
+-
+-
+-
+Total Scope 1 and Scope 2 emission intensity (optional) – 
+the relevant metric may be selected by the entity
+The Scope 1 and Scope 2 calculations are from the electricity and fuel usage i.e -Diesel for Company owned vehicles and for 
+Diesel Generators at facility in India. Further, Scope 1 and 2 calculations are undertaken using guidelines and emissions factors 
+prescribed by globally accepted frameworks and standards such as USEPA guideline, applicable guidelines of GHG Protocol.
+ 
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+There is no Independent Assessment done.
+Annual Report 2023-24
+147
+8. 
+Does the entity have any project related to reducing Greenhouse Gas emission? If yes, then provide details.
+	
+ideaForge is committed to reduce Green House Gas emissions in its manufacturing processes. The Company has undertaken a 
+few projects to address greenhouse gas (GHG) emissions:
+	
+LED Lighting Implementation: The Company has switched from normal fluorescent tube lights to Energy-efficient LED Light 
+which has resulted in reduction in electricity consumption.
+	
+The Company has installed motion sensor-based LED tube lights in common passages, washrooms, and stairs cases
+	
+Motion Sensors: ideaForge has installed motion sensors lights in common passage and stairs case, this has resulted in 
+reduction of electricity consumption.
+	
+Tree Plantation: The Company has proposed 50 tree plantation which will enhance in absorption of Carbon dioxide from the 
+surrounding. Furthermore, the company recycles used cooking oil from its restaurants, converting it into biofuel/clean fuel.
+	
+We also use air compressor to supply pneumatic power for the operations of riveting gun, grinding machine and spray gun 
+resulting in reduction in power consumption.
+	
+To reduce non-essential electricity usage, we manually turn off all the electronic equipment after working hours.
+	
+The Company ensures to follow the scheduled equipment checks as per maintenance plan to ensure voltage imbalance, motor 
+failure, over exposure of equipment etc.
+9. 
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2023-24
+FY 2022-23
+Total Waste generated (in metric tons)
+Plastic waste (A)
+0.026
+0.023
+E-waste (B)
+0.2027
+-
+Bio-medical waste (C)
+-
+-
+Construction and demolition waste (D)
+-
+-
+Battery waste (E)
+0.4335
+0.006
+Radioactive waste (F)
+-
+-
+Other Hazardous waste. Please specify, if any. (G)
+0.00673
+-
+Other Non-hazardous waste generated (H).
+1.185
+0.086
+Total (A+B + C + D + E + F + G + H)
+1.854
+0.115
+Waste intensity per rupee of turnover (Total waste generated / Revenue from operations)
+0.00
+0.00
+Waste intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP) (Total 
+waste generated / Revenue from operations adjusted for PPP)
+0.00
+0.00
+Waste intensity in terms of physical output
+Waste intensity (optional) – the relevant metric may be selected by the entity
+ 
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations 
+(in metric tons)
+Category
+FY 2023-24
+FY 2022-23
+(i) 	
+Recycled
+1.8427
+0.115
+(ii) 	 Re-used
+-
+-
+(iii) 	 Other recovery operations
+ -
+-
+Total
+1.8427
+0.115
+148
+ideaForge Technology Limited
+CORPORATE OVERVIEW
+02-55
+STATUTORY REPORTS
+56-152
+FINANCIAL STATEMENTS
+154-329
+ 
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tons)
+Category of waste
+FY 2023-24
+FY 2022-23
+(i) 	
+Incineration:
+0.00417
+-
+(ii) 	 Landfilling
+0.00256
+-
+(iii)	 Other disposal operations
+ -
+-
+Total
+0.00673
+-
+ 
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+There is no Independent Assessment done.
+10. Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by 
+your company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices 
+adopted to manage such wastes.
+	
+ideaForge adhers to waste management by integrating the principles of the 3R. ideaForge adheres to waste management by 
+ensuring regulated waste is stored and handled in a strict accordance with all the applicable regulatory requirements. All waste 
+is segregated at its source before storage. There are different types of waste generated at the facility, i.e., hazardous waste, 
+non-hazardous waste, and other waste. Measures are taken to ensure that they are identified, segregated, stored, and handled 
+before disposal. The facility has a standard procedure for waste management and disposal. The different types of waste are 
+being stored in different bins with proper identification and nomenclature. The waste bins are color-coded and labelled in red, 
+yellow, blue, and green for their storage. Regulated wastes were stored and handled in strict accordance with all applicable 
+regulatory requirements. The facility non-hazardous waste generated is send/sold to MPCB authorised vendor/recycler to 
+ensure proper disposal of waste and for generated hazardous waste, it is sent to the Common Hazardous Waste Treatment, 
+Storage, and Disposal Facility, i.e., CHWTSDF, for their disposal.
+11. If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, 
+biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental 
+approvals / clearances are required, please specify details:
+	
+Not Applicable. The Company does not have any offices or manufacturing facility in the vicinity of any ecologically sensitive area.
+12. Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the 
+current financial year:
+	
+NA. There are no projects in the financial year 2023-2024 that attract the provisions of the environmental impact assessment.
+13. Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India, such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act 
+and rules thereunder (Y/N). If not, provide details of all such non-compliances, in the following format:
+	
+The Company is compliant with all applicable environmental laws/ regulations/ guidelines and there were no non-compliances.
+Leadership Indicators
+14. Please provide details of total Scope 3 emissions & its intensity, in the following format:
+Parameter
+Unit
+FY 2023-24
+FY 2022-23
+Total Scope 3 emissions (Break-up of the GHG into CO2, CH4, N2O, 
+HFCs, PFCs, SF6, NF3, if available)
+Metric tons of CO2 
+equivalent
+5,139.34
+-
+Total Scope 3 emissions per rupee of turnover
+Metric tons of CO2 
+equivalent/Mn
+1.62
+-
+Total Scope 3 emission intensity (optional) – the relevant 
+metric may be selected by the entity
+Metric tons of CO2 
+equivalent
+-
+-
+Annual Report 2023-24
+149
+Category 1 (Purchased Goods & Services)
+4141.3 tCO2e
+Category 2 (Capital Goods)
+35.9 tCO2e
+Category 3 (Fuel and Energy)
+160.1 tCO2e
+Category 5 (Waste generated from operations)
+0.16 tCO2e
+Category 6 (Business Travel)
+243.9 tCO2e
+Category 11 (Use of Sold Products)
+557.8 tCO2e
+	
+Scope 3 Categoies: For the financial year 2023-2024 the Company has carried out Scope 3 assessment for the following 
+categories – Category 1- Purchased Goods & Services, Category 2- Capital Goods, Category 3-Fuel and Energy-Related 
+Activities, Category 5-Waste generated from operations, Category 6-Business Travel, Category 11-Use of Sold Products.
+	
+Category 1 (Purchased Goods & Services) and Category 11 (Use of Sold Products) make major contributions to our estimated 
+Scope 3 emissions. Categories such as Category 10 (Processing of Sold Products), Category 13 (Downstream Leased Assets), 
+Category 14 (Franchises), and Category 15 (Investments) do not apply to our operations.
+	
+Data Sources: Data for this assessment was sourced from internal records, supplier information and other relevant sources.
+	
+Emission Factors: Emission factors used in this assessment are based on internationally recognized standards and methodologies, 
+such as the IPCC Guidelines for National Greenhouse Gas Inventories.
+ 
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? 
+(Y/N) If yes, name of the external agency.
+	
+There is no Independent Assessment done.
+VII. Principle 7 Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is 
+responsible and transparent
+Essential Indicators
+1. 
+a.  
+Number of affiliations with trade and industry chambers/ associations.
+	
+	
+ideaForge is affiliated with 4 National, 1 International, Trade and Industry Chambers.
+ 
+b. 
+List the top 10 trade and industry chambers/ associations (determined based on the total members of such a 
+body) the entity is a member of/ affiliated to.
+Sl. 
+No.
+Name of the trade and industry chambers/ associations
+Reach of trade and industry chambers/ 
+associations (State/National)
+1
+Federation of Indian Chambers of Commerce and Industry (FICCI)
+National
+2
+Society of Indian Defence Manufacturers (SIDM)
+National
+3
+National Association of Software and Service Companies (NASSCOM)
+National
+4
+Association for Uncrewed Vehicle Systems International (AUVSI)
+International
+5
+Drone Federation of India (DFI)
+National
+2. 
+Provide details of corrective action taken or underway on any issues related to anti-competitive conduct by the entity, 
+based on adverse orders from regulatory authorities.
+	
+There are no corrective action taken or underway on any issues based on adverse orders from regulatory authorities with 
+respect to anti-competitive conduct in the financial year 2023-2024.
+150
+ideaForge Technology Limited
+CORPORATE OVERVIEW
+02-55
+STATUTORY REPORTS
+56-152
+FINANCIAL STATEMENTS
+154-329
+VIII. Principle 8 Businesses should promote inclusive growth and equitable development
+Essential Indicators
+1. 
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the 
+current financial year.
+	
+There are no Projects in the financial year 2023-24 that attracts the requirements of Social Impact Assessment.
+2. 
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by 
+your entity, in the following format:
+	
+There are no projects in the financial year 2023-24 that attracts the requirements of Rehabilitation and Resettlement.
+3. 
+Describe the mechanisms to receive and redress grievances of the community.
+	
+At ideaForge we have a Grievance Redressal Policy which details grievance redressal mechanism for all stakeholders. 
+Various Stakeholders including members of communities can raise grievances through email csr@ideaforgetech.com.
+	
+We have also formed an internal CSR Team that actively engages with the NGOs in various communities. We have a dedicated 
+individual managing CSR grievance and ensuring compliance. The Company maintains open communication and engagement 
+with the local communities to address any grievances. Some of the NGOs we work with include: Nanhi Kali, YODA centre, 
+Paraplegic Rehab Center etc.
+4. 
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY 2023-24
+FY 2022-23
+Directly sourced from MSMEs/ small producers
+36.89%
+29.58%
+Sourced directly from within the district and neighboring districts
+64.02%
+57.44%
+5. 
+Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers employed 
+on a permanent or non-permanent / on contract basis) in the following locations, as % of total wage cost
+Location
+FY 2023-24
+FY 2022-23
+Rural
+-
+-
+Semi-urban
+-
+-
+Urban
+-
+-
+Metropolitan
+100%
+100%
+IX. Principle 9 Businesses should engage with and provide value to their consumers in a responsible manner
+	
+Essential Indicators
+1. 
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+ideaForge is primarily a Business to business Company in the sector of UAV manufacturing.
+	
+The mechanisms to receive and respond to customer complaints include:
+	
+Customers can log calls on the Support Center(CSS) at phone number 7778884719 or email css@ideaforgetech.com. The CSS 
+team registers all complaints on Orchestly (Software platoform) to systematically track and address the reported issues. 
+Key Account Managers are strategically assigned to specific verticals and projects to handle customer complaints and inquiries 
+with precision. For any immediate product repair services, there are four service centers located in Leh, Dibrugarh, Karanpur, 
+and Mumbai. Additionally, service engineers are stationed in key locations, including Mumbai, Bangalore, Jaipur, Lucknow, 
+Dibrugarh, Chandigarh, Shimla, Bhopal, Kolkata, Delhi, Leh, and Thiruvananthapuram.
+	
+Apart from these 2 vehicles are exclusively allocated for service and repairs under the ’Service on Wheels’ program, ensuring a 
+convenient door-to-door service experience for customers.
+Annual Report 2023-24
+151
+2. 
+Turnover of products and/ services as a percentage of turnover from all products / service that carry information 
+about:
+As a percentage to total turnover
+Environmental and social parameters relevant to the product
+NA
+Safe and responsible usage
+NA
+Recycling and/or Safe Disposal
+NA
+	
+Note: ideaForge is primarily in the business of UAV manufacturing. For products, the battery components carry information on 
+safe disposal of used batteries.
+3. 
+Number of consumer complaints in respect of the following:
+FY 2023-24
+FY 2022-23
+Received 
+during the 
+year
+Pending 
+resolution 
+at end of 
+year
+Remarks
+Received 
+during the 
+year
+Pending 
+resolution 
+at end of 
+year
+Remarks
+Data privacy
+0
+0
+NA
+0
+0
+NA
+Advertising
+0
+0
+NA
+0
+0
+NA
+Cyber-security
+0
+0
+NA
+0
+0
+NA
+Delivery of essential services
+0
+0
+NA
+0
+0
+NA
+Restrictive Trade Practices
+0
+0
+NA
+0
+0
+NA
+Unfair Trade Practices
+0
+0
+NA
+0
+0
+NA
+Others
+0
+0
+NA
+0
+0
+NA
+	
+There have been no consumer complaints received in the above categories for the financial year 2022-2023 and 2023-2024.
+4. 
+Details of instances of product recalls on account of safety issues:
+Aspect
+Number
+Reason for Recall
+Voluntary recall /Mock recall
+0
+NA
+Forced recall
+0
+NA
+	
+Note: There have been no product recalls in the Financial Year 2023-2024.
+5. 
+Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, 
+provide a web-link of the policy.
+	
+Yes, ideaForge has internal policies and processes for Cyber Security, Data Protection and Privacy. More details are provided 
+below:
+ 
+Information Security Risk Management Policy
+	
+Through this Policy, the Company covers risks and threats that may arise from IT systems. The Policy has a well-defined Risk 
+management framework and process to identify, assess, respond and monitor these risks. The processes ensure necessary 
+controls are in place and are monitored periodically.
+ 
+Data Protection & Privacy Policy
+	
+In line with the ISO/IEC 27001:2022, the policy covers detailed information for Privacy and protection of personal Information. 
+The Policy covers principles of good data governance for all employees, business partners and consultants. All employees 
+are provided with necessary training for Information systems management. This policy covers data protection of sensitive 
+information, compliance with regulations, and protecting customer data.
+152
+ideaForge Technology Limited
+CORPORATE OVERVIEW
+02-55
+STATUTORY REPORTS
+56-152
+FINANCIAL STATEMENTS
+154-329
+6. 
+Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential 
+services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action 
+taken by regulatory authorities on safety of products / services.
+	
+In the financial year 2023-24, there are no issues with respect to advertising, cyber security and data privacy of customers, hence 
+there are no corrective actions. ideaForge continuously looks to improve its systems and monitors for any risks and threats.
+7. 
+Provide the following information relating to data breaches:
+ 
+a.  
+Number of instances of data breaches
+ 
+b.  
+Percentage of data breaches involving personally identifiable information of customers
+ 
+c.  
+Impact, if any, of the data breaches
+	
+There have been no incidents of data breaches have taken place in the financial year 2023-2024.

@@ -1,0 +1,3181 @@
+(Business Responsibility and Sustainability Reporting (BRSR) is the practice of companies disclosing information about their 
+environmental, social, and governance (ESG) performance. It goes beyond financial reporting to provide stakeholders with 
+a comprehensive view of a company's non-financial impacts and contributions to sustainable development. BRSR covers 
+topics such as environmental impact, social responsibility, and governance practices, aiming to promote transparency and 
+accountability.)
+SECTION A: GENERAL DISCLOSURES
+I.	
+Details of the listed entity
+Sr. 
+No.
+Particulars
+FY 2023-2024
+1
+Corporate Identity Number (CIN) of the Listed Entity
+U74999DL2016PLC306016
+2
+Name of the Listed Entity
+Honasa Consumer Limited
+3
+Year of incorporation
+2016
+4
+Registered office address
+Unit No. 404, 4th Floor, City Centre,
+Plot No. 05, Sector – 12, Dwarka, New Delhi – 110075
+5
+Corporate address
+10th and 11th Floor, Capital Cyberscape
+Ullahwas, Bhondsi, Gurgaon, Haryana – 122102
+6
+E-mail
+dhanraj.d@honasa.in
+7
+Telephone
+011-44123544
+8
+Website
+www.honasa.in
+9
+Financial year for which reporting is being done
+2023-24
+10
+Name of the Stock Exchange(s) where shares are listed
+BSE Limited and National Stock Exchange of India Limited
+11
+Paid-up Capital
+3,24,24,41,570 divided into 32,42,44,157 equity shares of  
+₹10/- each
+12
+Name and contact details (telephone, email address) 
+of the person who may be contacted in case of any 
+queries on the BRSR report
+Dhanraj Dagar
+011-44123544
+dhanraj.d@honasa.in
+13
+Reporting boundary - Are the disclosures under this 
+report made on a standalone basis (i.e. only for the 
+entity) or on a consolidated basis (i.e. for the entity and 
+all the entities which form a part of its consolidated 
+financial statements, taken together).
+Standalone basis
+14
+Name of assurance provider
+NA
+15
+Type of assurance obtained
+NA
+II.	
+Products/services
+16.	 Details of business activities (accounting for 90% of the turnover):
+Sr. 
+No.
+Description of Main Activity
+Description of Business Activity
+% of Turnover of 
+the entity
+1.
+Trade
+Wholesale trading with our B2B and offline partners.
+55%
+2.
+Trade
+Retail trading with our consumers through online platform
+45%
+17.	
+Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+Sr. 
+No.
+Product/Service
+NIC Code
+% of total 
+Turnover 
+Contributed
+1.
+Beauty and Personal Care Products
+9961
+100%
+III.	
+Operations
+18.	 Number of locations where plants and/or operations/offices of the entity are situated:
+Location
+Number 
+of plants
+Number 
+of offices
+Total
+National
+0
+124*
+124*
+International
+0
+0
+0
+	
+*This consist of 111 Exclusive brand outlets
+Business Responsibility and Sustainability Report 
+01
+Business Responsibility and Sustainability Report 
+19.	 Markets served by the entity:
+a.	
+Number of locations
+Locations
+Number
+National (No. of States)
+20*
+International (No. of Countries)
+2
+	
+*No. of states where the entity has GST registration
+b.	
+What is the contribution of exports as a percentage of the total turnover of the entity?
+	
+3%
+c.	
+A brief on types of customers
+	
+Our customers are categorised as individuals and channel partners where we supply our products.
+	
+Individuals will include retail consumers and channel partners would include our offline channel partners, i.e., super-
+distributers, distributors, and B2B e-commerce platforms.
+IV.	 Employees
+20.	 Details as at the end of Financial Year:
+a.	
+Employees and workers (including differently abled):
+Sr. 
+No.
+Particulars
+Total
+Male
+Female
+(A)
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+EMPLOYEES
+1
+Permanent (D)
+842
+611
+72.57%
+231
+27.43%
+2
+Other than Permanent (E) 
+0
+0
+0%
+0
+0%
+3
+Total employees (D + E)
+842
+611
+72.57%
+231
+27.43%
+WORKERS
+4
+Permanent (F)
+NA*
+5
+Other than Permanent (G)
+6
+Total workers (F + G)
+	
+*The company captures the above mentioned data for permanent employees only.
+b.	
+Differently abled Employees and workers:
+Sr. 
+No.
+Particulars
+Total
+Male
+Female
+(A)
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+DIFFERENTLY ABLED EMPLOYEES
+1
+Permanent (D)
+0
+0
+0%
+0
+0%
+2
+Other than Permanent (E) 
+0
+0
+0%
+0
+0%
+3
+Total differently abled 
+employees (D + E)
+0
+0
+0%
+0
+0%
+DIFFERENTLY ABLED WORKERS
+4
+Permanent (F)
+NA*
+5
+Other than Permanent (E) 
+6
+Total differently abled 
+workers (F + G)
+	
+*The company captures the above mentioned data for permanent employees only.
+21.	 Participation/Inclusion/Representation of women
+Particular
+Total
+No. and percentage of Females
+(A)
+No. (B)
+% (B/A)
+Board of Directors
+6
+2
+33.33%
+Key Management Personnel
+4
+1
+25%
+22.	 Turnover rate for permanent employees and workers
+Particulars
+FY 2023-24
+FY 2022-23
+FY 2021-22
+(Turnover rate in 
+ current FY)
+(Turnover rate in  
+previous FY)
+(Turnover rate in the year 
+prior to the previous FY)
+Male
+Female
+Total
+Male
+Female
+Total
+Male
+Female
+Total
+Permanent Employees
+45.46%
+38.16%
+43.47%
+35.43%
+28.57%
+33.57%
+30.51%
+23.08%
+28.57%
+Permanent Workers
+NA*
+	
+*The company captures the above mentioned data for permanent employees only. 
+02
+Honasa Consumer Ltd.   |   Annual Report 2023-24
+Holding, Subsidiary and Associate Companies (including joint ventures)
+23.	 (a)	 Names of holding/subsidiary/associate companies/joint ventures
+Sr. 
+No.
+Name of the holding/subsidiary/associate 
+companies/joint ventures (A)
+Indicate whether holding/
+subsidiary/Associate/Joint 
+Venture
+% of shares held 
+by listed entity
+Does the entity 
+indicated at 
+column A, 
+participate in 
+the Business 
+responsibility 
+initiatives of the 
+listed entity? 
+(Yes/No)
+1.
+Bhabhani Blunt Hair Dressing Private Limited
+Wholly owned subsidiary
+100%
+No
+2.
+B:Blunt-Spratt Hairdressing Private Limited
+Wholly owned subsidiary
+100%
+No
+3.
+Fusion Cosmeceutics Private Limited
+Wholly owned subsidiary
+100%
+No
+4.
+Just4kids Services Private Limited
+Wholly owned subsidiary
+100%
+No
+5.
+Honasa Consumer General Trading LLC
+Wholly owned subsidiary
+100%
+No
+6.
+PT Honasa Consumer Indonesia
+Wholly owned subsidiary
+100%
+No
+VI.	 CSR Details
+24.	 (i)	 Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No)
+Particulars
+Yes
+a.	 Turnover (in ₹)
+17,64,38,89,392
+b.	 Net worth (in ₹)
+11,24,47,15,743 
+VII.	 Transparency and Disclosures Compliances
+25.	 Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on 
+Responsible Business Conduct:
+Stakeholder group 
+from whom complaint 
+is received
+Grievance Redressal 
+Mechanism in Place 
+(Yes/No) *
+FY 2023-24
+FY 2022-23
+Current Financial Year
+Previous Financial Year
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year
+Remarks
+Number of 
+complaints 
+filed during 
+the year
+Number of 
+complaints 
+pending 
+resolution at 
+close of the 
+year
+Remarks
+Communities**
+Yes, NIL
+0**
+0
+NA
+0
+0
+NA
+Investors (other 
+than shareholders)
+Yes, https://honasa.in/
+investor/
+0
+0
+NA
+0
+0
+NA
+Shareholders
+Yes, https://honasa.in/
+investor/
+1
+0
+NA
+0
+0
+NA
+Employees and 
+workers
+Yes, https://chat.
+infeedo.com/chat/
+amber
+6
+0
+NA
+4
+0
+NA
+Customers
+Yes, https://support.
+mamaearth.in/
+hc/en-us https://
+thedermaco.com/
+contact-us https://
+aqualogica.in/pages/
+contact https://ayuga.
+in/pages/contact 
+3,60,023
+1,248
+NA
+4,56,563
+1358
+NA
+Value Chain 
+Partners***
+Yes, NIL
+0***
+1
+NA
+1
+1
+NA
+Other  
+(please specify)
+NA, NIL
+-
+1
+-
+-
+-
+-
+	
+* Grievance Redressal Mechanism in Place (Yes/No) (If Yes, then provide web-link for grievance redress policy)
+	
+**The local communities communicate their grievances to the NGOs that the company has partnered with. The grievances 
+are channeled to the company’s SPOC, who shares a remedial measure through the NGO to resolve the matter.
+	
+***The company is working on establishing a formal ticketing system to receive and redress the grievances of value chain partners.
+03
+Business Responsibility and Sustainability Report 
+26.	 Overview of the entity’s material responsible business conduct issues
+	
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and 
+social matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to 
+adapt or mitigate the risk along-with its financial implications, as per the following format
+Sr. 
+No.
+Material issue 
+identified
+Indicate 
+whether 
+risk or 
+opportunity 
+(R/O)
+Rationale for identifying the risk/
+opportunity
+In case of risk, approach to adapt 
+or mitigate
+Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+1.
+Consumer 
+Safety & 
+Welfare
+Risk
+Ensuring consumer health and safety 
+is essential for building trust and 
+maintaining 
+transparency. 
+Non-
+compliance with product information, 
+labelling, 
+and 
+marketing 
+standards 
+can lead to serious adverse effects. 
+Additionally, 
+prioritising 
+health 
+and 
+safety measures helps prevent potential 
+hazards 
+and 
+protects 
+consumers 
+from harm, further reinforcing their 
+confidence in the company.
+1.	
+We have a functional CRM 
+team 
+to 
+track 
+consumer 
+feedback 
+and 
+respond 
+accordingly.
+2.	
+We 
+undertake 
+Consumer 
+satisfaction survey to seek 
+feedback proactively
+3	
+We conduct clinical trials 
+on 
+our 
+products 
+before 
+launching them to ensure 
+consumer safety
+4	
+We deploy stringent quality 
+control 
+measures 
+by 
+conducting 
+batch-level 
+quality checks along with 
+leveraging third-party quality 
+laboratories 
+to 
+carry 
+out 
+routine inspections.
+Negative
+2.
+Community
+Opportunity
+The company focuses on building 
+purpose led brands and has a strong CSR 
+practice in the areas of education and 
+environment, undertaking environmental 
+and social impact initiatives to benefit 
+the community as a whole. These 
+programmes focus on empowering 
+women and children, afforestation and 
+provision of freshwater for all.
+Positive
+3.
+Business 
+Ethics, 
+Governance 
+and 
+Transparency
+Opportunity
+Strong 
+governance 
+mechanisms 
+enhance 
+the 
+company’s 
+reputation, 
+improve 
+decision-making 
+processes, 
+and 
+strengthen 
+risk 
+management, 
+contributing to long-term sustainability. 
+They 
+foster 
+a 
+culture 
+of 
+integrity, 
+transparency, 
+and 
+accountability, 
+which builds trust with stakeholders. 
+By 
+identifying 
+and 
+mitigating 
+risks 
+proactively, the company can promote 
+ethical behaviour. Additionally, robust 
+governance frameworks align business 
+strategies with ESG principles, supporting 
+sustainable growth and resilience in the 
+market.
+Positive
+4.
+Sustainable 
+Packaging
+Opportunity
+By 
+incorporating 
+renewable 
+and 
+recycled 
+packaging 
+materials, 
+the 
+company reduces its dependence on 
+virgin resources, thereby decreasing 
+the consumption of non-renewable raw 
+materials. Additionally, this shift helps 
+lower 
+carbon 
+emissions, 
+minimises 
+waste, 
+and 
+promotes 
+a 
+circular 
+economy. 
+By 
+adopting 
+sustainable 
+practices, 
+the 
+company 
+not 
+only 
+conserves natural resources but also 
+enhances its environmental stewardship 
+and contributes to a healthier planet.
+Positive
+04
+Honasa Consumer Ltd.   |   Annual Report 2023-24
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards 
+adopting the NGRBC Principles and Core Elements.
+The National Guidelines for Responsible Business Conduct (NGBRC) as prescribed by the Ministry of Corporate Affairs 
+enumerates nine principles (P1-P9) as listed below:
+P1	
+Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, Transparent 
+and Accountable.
+P2	
+Businesses should provide goods and services in a manner that is sustainable and safe.
+P3	
+Businesses should respect and promote the well-being of all employees, including those in their value chains.
+P4	
+Businesses should respect the interests of and be responsive to all its stakeholders.
+P5	
+Businesses should respect and promote human rights.
+P6	
+Businesses should respect and make efforts to protect and restore the environment.
+P7	
+Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is responsible 
+and transparent.
+P8	
+Businesses should promote inclusive growth and equitable development.
+P9	
+Businesses should engage with and provide value to their consumers in a responsible manner
+Sr. 
+No
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Policy and management processes
+1. a
+Whether your entity’s policy/
+policies cover each principle 
+and its core elements of the 
+NGRBCs. (Yes/No/NA)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+b
+Has the policy been approved 
+by the Board? (Yes/No/NA)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+c
+Web Link of the Policies,  
+if available
+https://honasa.in/wp-content/uploads/2024/07/BRSR_Policy.pdf
+2
+Whether the entity has 
+translated the policy into 
+procedures.  
+(Yes/No/NA)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+3
+Do the enlisted policies extend 
+to your value chain partners?  
+(Yes/No/NA)
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+4
+Name of the national 
+and international codes/
+certifications/labels/standards 
+(e.g. Forest Stewardship 
+Council, Fairtrade, Rainforest 
+Alliance, Trustee) standards 
+(e.g. SA 8000, OHSAS, ISO, BIS) 
+adopted by your entity and 
+mapped to each principle.
+Made safe, cruelty free (by PETA) certified, best places to work in health and wellness 
+2023 (by great places to work ) , Best blended learning strategy (by vision and 
+innovation summit and awards,2024).
+5
+Specific commitments, goals 
+and targets set by the entity 
+with defined timelines, if any.
+No
+6
+Performance of the entity 
+against the specific 
+commitments, goals and 
+targets along-with reasons in 
+case the same are not met.
+NA
+05
+Business Responsibility and Sustainability Report 
+Sr. 
+No
+Disclosure Questions
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+Governance, leadership and oversight
+7
+Statement by director 
+responsible for the business 
+responsibility report, 
+highlighting ESG related 
+challenges, targets and 
+achievements (listed entity 
+has flexibility regarding the 
+placement of this disclosure)
+Dear Valued Stakeholders,
+I am delighted to connect with you and share some remarkable achievements and 
+initiatives undertaken by Honasa over the past year.
+This year marks our first year of Business Responsibility and Sustainability Reporting 
+(BRSR). We have collected and reported data from our locations all across the 
+country, ensuring transparency and accountability. Our dedication to sustainability 
+has been recognised through various certifications and awards, including Made Safe 
+certification, Cruelty-Free certification by PETA, certified “Great place to work” for the 4th 
+consecutive year and receiving the Best Blended Learning Strategy award by the Vision 
+and Innovation Summit and Awards 2024.
+We published our 1st Impact report this year, strengthening journey towards sustainability 
+and social responsibility. We thank our dedicated team and esteemed NGO partners: 
+Bhumi, SankalpTaru, Watershed Organisation Trust (WOTR), and Sambhav Foundation.
+We are proud to announce that our programmes now cover 14 states and 2 Union 
+Territories, reaching a national presence across Assam, Chhattisgarh, Haryana, 
+Himachal Pradesh, Karnataka, Madhya Pradesh, Uttar Pradesh, Rajasthan, Odisha, Tamil 
+Nadu, Telangana, Maharashtra, Sikkim, West Bengal, Delhi, and Puducherry.
+Through our partnership with the SankalpTaru Foundation, we implemented the 
+We Plant Goodness Initiative under the Mamaearth brand. This initiative promoted 
+afforestation and enhanced farmer livelihoods, reflecting our commitment to fostering 
+sustainable coexistence with nature. As part of the initiative, we have planted 6L+ trees 
+covering 3,800+ acre of land.
+Our efforts have led to the production of 12,000+ tonnes of fruit, generating an economic 
+value of over ₹20 Cr. In terms of plastic recycling, we recycled 9,000+ tonnes of plastic 
+waste since FY 2020-21, proudly recycling more plastic than we use.
+Our collaboration with Bhumi NGO brought the Young Scientists Program to life under 
+The Derma Co. brand. The programme has so far instilled a scientific understanding 
+of climate change among 20,000+ school children, empowering them to become 
+ambassadors of environmental sustainability.
+The Water for All initiative, executed by WOTR under the Aqualogica brand provided 
+clean water access to remote rural areas, benefiting over 500 families so far and 
+significantly improving their quality of life.
+In partnership with the Sambhav Foundation, we are running the BBlunt Shine Academy 
+initiative. This programme has so far empowered over 10,000 women through vocational 
+training in hairstyling, promoting skill development and financial independence.
+Our hiring policy emphasises on equal opportunity to candidates with a focus on 
+diversity, Women constitute more than 50% of our current workforce which includes our 
+off-roll employees as well. We are equally committed to our team’s welfare, with over 
+70% of our staff receiving skill development training and more than 75% undergoing 
+performance reviews. We have also drafted a robust BRSR policy and established a 
+strong governance system to guide our efforts.
+Our journey is a testament to the collective effort of our team, partners, and stakeholders. 
+We remain committed to driving positive change, fostering sustainability, and making 
+a tangible impact on the communities we serve.
+Thank you for your continued support and trust in our Company. Together, we will 
+continue to build a better, more sustainable future.
+Warm regards,
+Varun Alagh
+Chairman, Whole-Time Director & CEO
+8
+Details of the highest 
+authority responsible for 
+implementation and oversight 
+of the Business Responsibility 
+policy (ies).
+Varun Alagh (Chairman, Whole-Time Director & CEO)
+9
+Does the entity have a 
+specified Committee of the 
+Board/Director responsible 
+for decision making on 
+sustainability related issues? 
+(Yes/No/NA).
+If Yes please provide details
+Yes
+The CSR committee is responsible for decision making on sustainability related issues.
+06
+Honasa Consumer Ltd.   |   Annual Report 2023-24
+10	
+Details of Review of NGRBCs by the Company
+Subject for Review
+Indicate whether review was undertaken by Director/Committee of the Board/Any other 
+Committee, Frequency (Annually/Half yearly/Quarterly/Any other-please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+a.
+Performance against above 
+policies and follow up action
+The business responsibility performance of the Company is regularly monitored by 
+the Company and reviewed by the Chairman and respective departmental heads. 
+The Board of Directors reviews it annually.
+b.
+Compliance with statutory 
+requirements of relevance to 
+the principles and rectification 
+of any non-compliances
+The Company complies with all the applicable laws and a statutory compliance 
+certificate on applicable laws is provided by the CEO & WTD to the Board of 
+Directors on a quarterly basis.
+11
+Has the entity carried out 
+independent assessment/evaluation 
+of the working of its policies by an 
+external agency? (Yes/No). 
+No
+If yes, provide name of the agency.
+NA
+12
+If answer to question (1) above is “No” 
+i.e. not all Principles are covered by a 
+policy, reasons to be stated:
+Frequency
+(Annually/Half yearly/Quarterly/Any other-please specify)
+P1
+P2
+P3
+P4
+P5
+P6
+P7
+P8
+P9
+The entity does not consider the 
+Principles material to its business 
+(Yes/No)
+NA
+The entity is not at a stage where 
+it is in a position to formulate 
+and implement the policies on 
+specified principles (Yes/No)
+NA
+The entity does not have the 
+financial or/human and technical 
+resources available for the task 
+(Yes/No)
+NA
+It is planned to be done in the next 
+financial year (Yes/No)
+NA
+Any other reason  
+(please specify)
+NA
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+PRINCIPLE 1 Businesses should conduct and govern themselves with integrity, and in a manner that is 
+Ethical, Transparent and Accountable.
+(This principle focuses on the importance of ethical conduct and transparency in business operations. Companies should 
+follow ethical business practices and adhere to high standards of integrity. They should also be transparent about their 
+activities, operations, and financial reporting, as well as be accountable for their actions)
+Essential Indicators
+1.	
+Percentage coverage by training and awareness programmes on any of the principles during the 
+financial year:
+Segment
+Total number 
+of training and 
+awareness 
+programmes 
+held
+Topics/principles covered under the training and its impact
+%age of persons 
+in respective 
+category 
+covered by 
+the awareness 
+programmes
+Board of Directors
+2
+1.	
+Corporate Governance & Regulatory Updates
+2.	 Code of conduct under Insider Trading Regulations
+100%
+Key Managerial 
+Personnel
+7
+1.	
+De-stress with a Healthy Diet
+2.	 Bridging the Gap between Business & Data
+3.	 Ergonomic & Posture Correction
+4.	 Decoding P2P (Procurement To Payment) Cycle
+5.	 Retail Masterclass
+6.	 Marketing in Disruptive World
+7.	 POSH
+100%
+07
+Business Responsibility and Sustainability Report 
+Segment
+Total number 
+of training and 
+awareness 
+programmes 
+held
+Topics/principles covered under the training and its impact
+%age of persons 
+in respective 
+category 
+covered by 
+the awareness 
+programmes
+Employees other 
+than BOD and KMPs
+34
+1.	
+Negotiation Skills - 4.8
+2.	 Business Communication Skills - 4.8
+3.	 Time Intelligence & Prioritisation - 4.7
+4.	 Marketing in Disruptive World - 4.6
+5.	 Understanding Procurement to Payment - 4.6
+6.	 Retail Masterclass - 5
+7.	 Developing Business Acumen (Bridging Gap Between 
+Business & Data) - 4.6
+8.	 Data Analysis with Google Sheet - 4.5
+9.	 Leadership Cross Functional Skills (One Team One Goal) - 4.2
+10.	 Managerial Skills (Managers Winning Edge) - 4.8
+11.	 Digital learning (LinkedIn Learning, Coursera, Udemy) - 4.5
+12.	 Self Awareness - 4.9
+13.	 Decision Making Skills - 5
+14.	 Collaboration Skills - 4.9 
+15.	 Data Analysis with Excel (Basic & Advance) - 5
+16.	 Hiring & Interview Skills - 4.9
+17.	 Emerging Leaders Programme - 4.7
+18.	 Managing High Performing Teams Programme - 4.7
+19.	 Power of Communication - 4.8
+20.	Innovation-Ideation-Implementation - 4.5
+72%
+Workers
+NA*
+	
+*The company captures the above mentioned data for permanent employees only.
+2.	
+Details 
+of 
+fines/penalties/punishment/award/compounding 
+fees/settlement 
+amount 
+paid 
+in 
+proceedings (by the entity or by directors/KMPs) with regulators/law enforcement agencies/judicial 
+institutions, in the financial year, in the following format 
+Monetory
+Particular
+NGRBC 
+Principle
+Name of the 
+regulatory/
+enforcement 
+agencies/judicial 
+institutions
+Amount (In ₹)
+(For Monetory 
+Cases only)
+Brief of the Case
+Has an appeal 
+been preferred? 
+(Yes/No)
+Penalty/Fine
+NA
+BSE Limited and 
+National Stock 
+Exchange of India 
+Limited
+20,000/-
+Delay of 1 (one) day in providing the 
+prior intimation for convening the 
+Board Meeting to the stock exchanges 
+in pursuant to Regulation 29(1) of the 
+SEBI (Listing Obligation and Disclosure 
+Requirement Regulations) 2015.
+No
+Settlement
+NIL
+NIL
+NIL
+NIL
+NIL
+Compounding 
+fee
+NA
+Inspector Legal 
+Metrology Agra
+₹50,000/-
+Space near net quantity declaration on 
+the packaging was not sufficient on baby 
+wipes and hence not in compliance with 
+legal metrology requirements.
+No
+Compounding 
+fee
+NA
+Inspector Legal 
+Metrology
+₹30,000/-
+Rupee symbol missing in one product.
+No
+Non Monetory
+Particular
+NGRBC Principle
+Name of the regulatory/
+enforcement agencies/
+judicial institutions
+Brief of the Case
+Has an appeal 
+been preferred? 
+(Yes/No)
+Imprisonment
+ NIL
+ NIL
+ NIL
+ NIL
+Punishment
+ NIL
+ NIL
+ NIL
+ NIL
+08
+Honasa Consumer Ltd.   |   Annual Report 2023-24
+3.	
+Of the instances disclosed in Question 2 above, details of the Appeal/Revision preferred in cases where 
+monetary or non-monetary action has been appealed.
+Case Details
+Name of the regulatory/enforcement agencies/judicial institutions
+NA
+4.	
+Does the entity have anti-corruption or anti-bribery policy? (Yes/No) If Yes, provide details in brief 
+	
+Yes
+	
+The policy defines corrupt practices and bribery. It also provides for reporting mechanism. 
+	
+If Yes, Provide a web link to the policy, if available -Web link anti corruption or anti bribery policy is place
+	
+https://honasa.in/wp-content/uploads/2024/07/BRSR_Policy.pdf.
+5.	
+Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any 
+law enforcement agency for the charges of bribery/corruption:
+Particular
+FY 2023-24
+FY 2022-23 
+Directors
+0
+0
+KMPs
+0
+0
+Employees
+0
+0
+Workers
+NA*
+NA*
+	
+*The company captures the above mentioned data for permanent employees only.
+6.	
+Details of complaints with regard to conflict of interest:
+Case Details
+FY 2023-24
+FY 2022-23 
+Number
+Remark
+Number
+Remark
+Number of complaints received in relation to 
+issues of Conflict of Interest of the Directors
+0
+NA
+0
+NA
+Number of complaints received in relation to 
+issues of Conflict of Interest of the KMPs
+0
+NA
+0
+NA
+7.	
+Provide details of any corrective action taken or underway on issues related to fines/penalties/action 
+taken by regulators/law enforcement agencies/judicial institutions, on cases of corruption and conflicts 
+of interest.
+	
+NA*
+	
+*There were no instances related to corruption and conflicts of interest.
+8.	
+Number of days of accounts payables ((Accounts payable *365)/Cost of goods/services procured) in 
+the following format:
+Particular
+FY 2023-24
+FY 2022-23 
+Number of days of accounts payables
+56
+50
+9.	
+Open-ness of business
+	
+Provide details of concentration of purchases and sales with trading houses, dealers, and related parties along-with 
+loans and advances & investments, with related parties, in the following format:
+Parameter
+Metrics
+FY 2023-24
+FY 2022-23
+Concentration of  
+Purchases
+a.	 Purchases from trading houses as % of total 
+purchases
+0%
+0%
+b.	 Number of trading houses where purchases are 
+made from
+0
+0
+c.	 Purchases from top 10 trading houses as % of 
+total purchases from trading houses
+0%
+0%
+Concentration of Sales
+a.	 Sales to dealers/distributors as % of total sales
+26%
+30%
+b.	 Number of dealers/distributors to whom sales 
+are made 
+403
+363
+c.	 Sales to top 10 dealers/distributors as % of total 
+sales to dealers/distributors
+56%
+42%
+09
+Business Responsibility and Sustainability Report 
+Parameter
+Metrics
+FY 2023-24
+FY 2022-23
+Share of RPTs in
+a.	 Purchases (Purchases with related parties/Total 
+Purchases)
+0%
+0%
+b.	 Sales (Sales to related parties/Total Sales)
+0%
+0%
+c.	 Loans & advances (Loans & advances given to 
+related parties/Total loans & advances)
+100%
+100%
+d.	 Investments
+36%
+34%
+PRINCIPLE 2 Businesses should provide goods and services in a manner that is sustainable and safe.
+(This principle highlights the importance of sustainable and safe production practices. Companies should strive to minimise the 
+environmental impact of their activities and ensure that their products and services are safe for consumers and the environment.)
+Essential Indicator
+1.	
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve 
+the environmental and social impacts of product and processes to total R&D and capex investments 
+made by the entity, respectively.
+Sr. 
+No.
+Particular
+FY 2023-24
+FY 2022-23
+Details of improvements in 
+environmental and social impacts
+1
+R&D
+0%
+0%
+-
+2
+Capex
+0%
+0%
+-
+2	
+a.	
+Does the entity have procedures in place for sustainable sourcing? (Yes/No )	 No*
+	
+b.	
+If yes, what percentage of inputs were sourced sustainably?
+	
+*The company has initiated the process of establishing procedures for sustainable sourcing. As part of this initiative, the 
+company has begun using 70% recyclable plastic packaging for one of its segments in a brand
+3.	
+Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at 
+the end of life, for
+(a) 
+Plastics (including packaging)
+NIL
+(b) 
+E-waste
+NA*
+(c) 
+Hazardous waste
+NA*
+(d) 
+other waste
+NIL
+	
+*The company is primarily engaged in activities that do not generate e-waste or hazardous waste.
+4.	
+a	
+Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes/No)
+	
+	
+Yes
+	
+b	
+If yes, whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan 
+submitted to Pollution Control Boards?
+	
+	
+Yes
+	
+c	
+If not, provide steps taken to address the same
+	
+	
+NA
+PRINCIPLE 3 Businesses should respect and promote the well-being of all employees, including those in 
+their value chains.
+(This principle emphasises the importance of employee well-being. Companies should provide safe and healthy working 
+conditions, fair wages, and opportunities for career development to all employees in their value chains, including suppliers, 
+contractors, and temporary workers.)
+Essential Indicators
+1 a. Details of measures for the well-being of employees:
+Category
+% of employees covered by
+Total
+(A)
+Health  
+insurance
+Accident 
+insurance
+Maternity  
+benefits
+Paternity  
+Benefits
+Day Care  
+facilities
+Number 
+(B)
+%
+(B/A)
+Number 
+(C)
+% 
+(C/A)
+Number 
+(D)
+% 
+(D/A)
+Number 
+(E)
+% 
+(E/A)
+Number 
+(F)
+% 
+(F/A)
+Permanent employees
+Male
+611
+611
+100%
+611
+100%
+0
+0%
+611
+100%
+342 55.97%*
+Female
+231
+231
+100%
+231
+100%
+231
+100%
+0
+0%
+208 90.43%*
+Total
+842
+842
+100%
+842
+100%
+231
+27.43%
+611
+72.57%
+550
+65.32%
+10
+Honasa Consumer Ltd.   |   Annual Report 2023-24
+Category
+% of employees covered by
+Total
+(A)
+Health  
+insurance
+Accident 
+insurance
+Maternity  
+benefits
+Paternity  
+Benefits
+Day Care  
+facilities
+Number 
+(B)
+%
+(B/A)
+Number 
+(C)
+% 
+(C/A)
+Number 
+(D)
+% 
+(D/A)
+Number 
+(E)
+% 
+(E/A)
+Number 
+(F)
+% 
+(F/A)
+Other than permanent employees
+Male
+0
+0
+0%
+0
+0%
+0
+0%
+0%
+0%
+0%
+0%
+Female
+0
+0
+0%
+0
+0%
+0
+0%
+0%
+0%
+0%
+0%
+Total
+0
+0
+0%
+0
+0%
+0
+0%
+0%
+0%
+0%
+0%
+*The company extends daycare facilities to employees who work out of the headquarters.
+1. b. Details of measures for the well-being of workers:
+Category
+% of employees covered by
+Total 
+(A)
+Health  
+insurance
+Accident 
+insurance
+Maternity  
+benefits
+Paternity  
+Benefits
+Day Care  
+facilities
+Number 
+(B)
+% 
+(B/A)
+Number 
+(C)
+% 
+(C/A)
+Number 
+(D)
+% 
+(D/A)
+Number 
+(E)
+% 
+(E/A)
+Number 
+(F)
+% 
+(F/A)
+Permanent employees
+Male
+NA*
+Female
+Total
+Other than permanent employees
+Male
+NA*
+Female
+Total
+*The company captures the above mentioned data for permanent employees only. 
+1. c. Spending on measures towards well-being of employees and workers (including permanent and other 
+than permanent) in the following format
+Name of the KMP (Along with their Designation)
+FY 2023-24
+FY 2022-23
+Cost incurred on well- being measures as a % of total revenue of the company
+0.042%
+0.0419%
+2.	
+Details of retirement benefits, for Current FY and Previous Financial Year.
+Benefits
+FY 2023-24
+FY 2022-23
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted 
+and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+No. of 
+employees 
+covered as 
+a % of total 
+employees
+No. of 
+workers 
+covered as 
+a % of total 
+workers
+Deducted 
+and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+PF
+100%
+NA*
+Yes
+100%
+NA*
+Y
+Gratuity
+100%
+NA*
+Yes
+100%
+NA*
+Y
+ESI
+0%
+NA*
+No
+0%
+NA*
+No
+Others – please specify
+0%
+NA*
+No
+0%
+NA*
+No
+	
+*The company captures the above mentioned data for permanent employees only.
+3.	
+Accessibility of workplaces
+	
+Are the premises/offices of the entity accessible to differently abled employees and workers, as per 
+the requirements of the Rights of Persons with Disabilities Act, 2016? 	
+	
+Yes
+4.	
+Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016?
+	
+Yes
+	
+If so, provide a web-link to the policy.
+	
+https://honasa.in/wp-content/uploads/2024/07/BRSR_Policy.pdf
+11
+Business Responsibility and Sustainability Report 
+5.	
+Return to work and Retention rates of permanent employees and workers that took parental leave.
+Gender
+Permanent Employees
+Permanent Workers
+Return to 
+work rate
+Retention Rate
+Return to 
+work rate
+Retention Rate
+Male
+100%
+100%
+NA
+NA
+Female
+100%
+75%
+NA
+NA
+Total
+100%
+87.5%
+NA*
+NA*
+	
+*The company captures the above mentioned data for permanent employees only.
+6.	
+Is there a mechanism available to receive and redress grievances for the following categories of 
+employees and worker? If yes, give details of the mechanism in brief.
+Category
+Yes/No
+If Yes, then give details of the mechanism in brief
+Permanent Workers
+NA
+Other than Permanent Workers
+NA*
+Permanent Employees
+Yes 
+ We have an internal chat based tool for employees to 
+register their grievances additionally, the employees 
+can also reach out to dedicated HR Business Partners for 
+grievance resolution.
+Other than Permanent Employees
+NA**
+	
+*The company captures the above mentioned data for permanent employees only.
+	
+**The company does not have any ‘Other than permanent’ employees
+7.	
+Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+Category
+FY 2023-24
+FY 2022-23
+Total 
+employees/
+workers in 
+respective 
+category
+(A)
+No. of 
+employees/
+workers in 
+respective 
+category, who 
+are part of 
+association(s) 
+or Union (B)
+% (B/A)
+Total 
+employees/
+workers in 
+respective 
+category
+(C.)
+No. of 
+employees/
+workers in 
+respective 
+category, who 
+are part of 
+association(s) 
+or Union (D)
+% (D/c)
+Total Permanent employees
+Male
+611
+0
+0%
+546
+0
+0%
+Female
+231
+0
+0%
+204
+0
+0%
+Total Permanent Workers
+Male
+NA*
+Female
+	
+*The company captures the above mentioned data for permanent employees only.
+8.	
+Details of training given to employees and workers:
+Category
+FY 2023-24
+FY 2022-23
+Total 
+(A)
+On Health and 
+Safety Measures
+On Skill 
+Upgradation
+Total 
+(D)
+On Health and Safety 
+Measures
+On Skill Upgradation
+Number 
+(B)
+% 
+(B/A)
+Number 
+(C)
+% 
+(C/A)
+Number 
+(E)
+% 
+(E/D)
+Number 
+(F)
+% 
+(F/D)
+Employees
+Male
+611
+611
+100%
+429
+70.21%
+546
+546
+100%
+376
+68.86%
+Female
+231
+231
+100%
+172
+74.46%
+204
+204
+100%
+143
+70.09%
+Total
+842
+842
+100%
+601
+71.38%
+750
+750
+100%
+519
+69.2%
+Workers
+Male
+NA*
+Female
+Total
+	
+*The company captures the above mentioned data for permanent employees only.
+12
+Honasa Consumer Ltd.   |   Annual Report 2023-24
+9.	
+Details of performance and career development reviews of employees and worker:
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+No. (B)
+% (B/A)
+Total (D)
+No. (E)
+% (E/D)
+Employees
+Male
+611
+472
+77.25%
+546
+411
+75.27%
+Female
+231
+188
+81.38%
+204
+151
+74.02%
+Total
+842
+660
+78.38%
+750
+562
+74.93%
+Workers
+Male
+NA*
+Female
+Total
+	
+*The company captures the above mentioned data for permanent employees only.
+10.	 Health and safety management system
+a.	
+Whether an occupational health and safety management system has been implemented by the 
+entity? (Yes/No) Yes
+	
+If Yes, the Coverage such systems?
+	
+i.)	
+10 Housekeeping staff who are responsible for maintaining daily cleanliness and hygiene on both the floors, 
+laboratory, and male washrooms.
+	
+ii.)	
+2 female support staff responsible for maintaining daily cleanliness and hygiene of female and differently abled 
+washrooms on both the floors.
+	
+iii.)	
+3 Pantry staff responsible for maintaining and ensuring daily pantry cleanliness and hygiene including washing 
+utensils, coffee machine and water cooler maintenance and refilling as and when required.
+	
+iv.)	
+1 supervisor and 1 Multi-Support Task Staff to ensure uniformity, standard adherence, and ad hoc support as and 
+when required.
+	
+v.)	
+Menstrual hygiene support: To provide extended support for women hygiene, sanitary pads and toilet seat 
+disinfectant spray is placed in all women washrooms.
+	
+	
+As an extension to this support, effective 5th May 2023, we introduced Honasa Period Support Policy that gives all 
+female employees (in the entire organisation) the option to:
+•	 Avail 1 ‘Work from Home’ option every month when experiencing severe discomfort due to this.
+•	 Make use of our sick leave policy whenever required.
+	
+vi.)	
+Infirmary: Whenever employees feel any discomfort or sickness during working hours along with on-call doctor 
+service in case of emergency and usage of medical room located in our office. In addition, there is a medical 
+facility in our office building with an an in-house medical support staff.
+b.	
+What are the processes used to identify work-related hazards and assess risks on a routine and non-
+routine basis by the entity?
+	
+i.)	
+3 Security Guards stationed at the entrance of the floor to monitor in and out movement of employees and 
+external stakeholders.
+	
+ii.)	
+Access Control System installed to prohibit unauthorised entry and exit from the corporate office premises.
+	
+iii.)	
+124 CCTV cameras installed across both the floors and laboratory to monitor and prohibit any incorrect activities.
+	
+iv.)	
+Fire Safety Measures: In order to detect fire, smoke sensors have been installed on the floors as per the fire safety 
+norms of the building
+	
+v.)	
+Fire Fighting Measures: Following measures are in place in case of fire emergencies:
+•	 Water sprinklers installed as per fire safety norms
+•	 4 Fire Hydrants installed on each floor
+•	 3 emergency/fire exits on each floor with appropriate fire door norms
+•	 28 Fire extinguishers placed across the floors (20 – Type ABC; 8 – Type CO2)
+13
+Business Responsibility and Sustainability Report 
+•	 Proper signage along with 8 floor plans directing towards emergency exit displayed across the floor
+•	 Emergency assembly area present on the floor in case on any natural calamity
+c.	
+Whether you have processes for workers to report the work related hazards and to remove themselves 
+from such risks? (Yes/No)
+	
+Yes
+d.	
+Do the employees/worker of the entity have access to non-occupational medical and healthcare 
+services? (Yes/No)
+	
+Yes
+11.	
+Details of safety related incidents, in the following format:
+Safety Incident/Number
+Category*
+FY 2023-24
+FY 2022-23
+Lost Time Injury Frequency Rate (LTIFR) (per one million-person 
+hours worked)
+Employees
+3.49
+0
+Workers
+0
+0
+Total recordable work-related injuries
+ 
+Employees
+7
+0
+Workers
+0
+0
+No. of fatalities
+Employees
+0
+0
+Workers
+0
+0
+High-consequence work-related injury or ill health (excluding 
+fatalities)
+Employees
+0
+0
+Workers
+0
+0
+	
+*Including in the contract workforce
+12.	 Describe the measures taken by the entity to ensure a safe and healthy work place.
+A.	
+Group Health Insurance
+	
+This policy covers all employees along with their spouse and 2 dependent children (up to 25 years age) with a sum 
+insured of ₹3,00,000 or ₹5,00,000 or ₹7,00,000 depending on their employee band.
+B.	
+Group Accidental Policy
+	
+Depending on the employee's band, this policy provides a principal sum of ₹15,00,000 or ₹25,00,000 or ₹40,00,000 or 
+₹75,00,000 or ₹1,00,00,000 to the nominees of the employees in case of accidental death of the employee.
+C.	
+Wellness Exclusive Offerings
+	
+Beyond the group health and accidental policies, employees are also extended more than 20 exclusive wellness 
+offerings as part of the Employee Insurance programme.
+13.	 Number of Complaints on the following made by employees and workers:
+Particulars
+FY 2023-24
+FY 2022-23
+Filed during 
+the year
+Pending 
+resolution 
+at the end of 
+year
+Remarks
+Filed during 
+the year
+Pending 
+resolution 
+at the end of 
+year
+Remarks
+Working Conditions
+0
+0
+NA
+0
+0
+NA
+Health & Safety
+0
+0
+NA
+0
+0
+NA
+14.	 Assessment for the year:
+Particulars
+% of your plants and offices 
+that were assessed 
+(by entity or statutory 
+authorities or third parties) 
+Health and safety practices
+100%
+Working Conditions
+100%
+14
+Honasa Consumer Ltd.   |   Annual Report 2023-24
+15.	 Provide details of any corrective action taken or underway to address safety-related incidents (if any) 
+and on significant risks/concerns arising from assessments of health & safety practices and working 
+conditions.
+	
+NA*
+	
+*There were no safety-related incidents that occurred.
+PRINCIPLE 4: Businesses should respect the interests of and be responsive to all its stakeholders.
+(This principle highlights the importance of stakeholder engagement. Companies should consider the interests and 
+perspectives of all stakeholders, including shareholders, employees, customers, suppliers, and the communities in which 
+they operate. They should also be responsive to stakeholder concerns and feedback.)
+Essential Indicators
+1.	
+Describe the processes for identifying key stakeholder groups of the entity .
+	
+The identification of key stakeholders involves assessing and recognising individuals, groups, or institutions that 
+significantly contribute to the company’s operations. The company has identified 7 key stakeholders on the basis of 
+criticality to its operations and success. The company engages extensively with these stakeholders on a regular basis 
+to understand their concerns, complaints, and suggestions, incorporating their feedback into the decision-making 
+process. Stakeholder groups are identified based on the mutual impact they have on the company and the company 
+has on them.
+2.	
+List stakeholder groups identified as key for your entity and the frequency of engagement with each 
+stakeholder group.
+Stakeholder 
+Group
+Whether 
+identified as 
+Vulnerable & 
+Marginalised 
+Group
+Channels of communication 
+(Email, SMS, Newspaper, 
+Pamphlets, Advertisement, 
+Community Meetings, Notice 
+Board, Website, Other – 
+Please Specify)
+Frequency of 
+engagement 
+(Annually, Half-
+yearly, Quarterly, 
+others – Please 
+specify)
+Purpose and scope of engagement including 
+key topics and concerns raised during such 
+engagement
+Consumers
+N
+Advertisements, emails, 
+Website, newspaper, 
+SMS, social media, calls, 
+community meetings
+Others –  
+As required
+1.	
+Advertise about the product offerings
+2.	 Resolve product related queries
+3.	 Ascertain product satisfaction
+4.	 Identify needs and preferences for new 
+product development
+5.	 Engage with consumers to sell the products
+Customers
+N
+Emails, Website SMS, 
+Online & Offline calls
+Others –  
+As required
+1.	
+Communicate about the product 
+offerings, trade schemes etc.
+2.	 Resolve product related queries
+3.	 Ascertain product satisfaction amongst 
+consumers
+4.	 Engage with customers to list the products
+Employees
+N
+Emails, online messages, 
+SMS, feedback portal, 
+offline and online meetings
+Others –  
+As required
+1.	
+Continuous business updates
+2.	 Ascertain workplace satisfaction 
+Business-as-usual communication
+Communities
+Y
+Via NGO partners
+Others –  
+As required
+1.	
+Communicate the modus operandi and 
+benefits of the programme implemented
+2.	 Redress grievances
+Shareholders 
+and Investors
+N
+Earnings call and 
+presentation, website, 
+Emails, SMS, Newspaper, 
+social media, offline and 
+online meetings
+Others –  
+As required
+1.	
+Highlight performance of the company
+2.	 Updates as required as per the regulatory 
+bodies
+Vendors
+N
+Emails, offline and online 
+meetings, SMS
+Others –  
+As required
+1.	
+Contract based negotiations.
+2.	 Business deliverable Update
+3.	 Grievance redressal
+Regulatory 
+Body
+N
+Emails, offline and online 
+meetings, SMS
+Others –  
+As required
+Comply with the government regulations
+15
+Business Responsibility and Sustainability Report 
+PRINCIPLE 5 Businesses should respect and promote human rights.
+(This principle focuses on the importance of human rights. Companies should respect and promote human rights, including 
+the rights to freedom of expression, association, and privacy. They should also prevent and address human rights violations 
+in their operations and value chains.)
+Essential Indicators
+1.	
+Employees and workers who have been provided training on human rights issues and policy(ies) of the 
+entity, in the following format
+Benefits
+FY 2023-24
+FY 2022-23
+Total (A)
+No. of 
+employees/
+workers 
+covered (B)
+% (B/A)
+Total (C)
+No. of 
+employees/
+workers 
+covered (D)
+% (D/C)
+Employees
+Permanent
+842
+842
+100%
+750
+750
+100%
+Other than permanent
+0
+0
+0%
+0
+0
+0%
+Total Employees
+842
+842
+100%
+750
+750
+100%
+Workers
+Permanent
+NA*
+Other than permanent
+Total Workers
+	
+*The company captures the above mentioned data for permanent employees only.
+2.	
+Details of minimum wages paid to employees and workers
+Category
+FY 2023-24
+FY 2022-23
+Total (A)
+Equal to  
+Minimum Wage
+More than Minimum 
+Wage
+Total (D)
+Equal to  
+Minimum Wage
+More than  
+Minimum Wage
+No. (B)
+% (B/A)
+No. (C)
+% (C/A)
+No. (E)
+% (E/D)
+No. (F)
+% (F/D)
+Employees
+Permanent
+Male
+611
+0
+0%
+611
+100%
+546
+0
+0%
+546
+100%
+Female
+231
+0
+0%
+231
+100%
+204
+0
+0%
+204
+100%
+Total
+842
+0
+0%
+842
+100%
+750
+0
+0%
+750
+100%
+Other than Permanent
+Male
+0
+0
+0%
+0
+0%
+0
+0
+0%
+0
+0%
+Female
+0
+0
+0%
+0
+0%
+0
+0
+0%
+0
+0%
+Total
+0
+0
+0%
+0
+0%
+0
+0
+0%
+0
+0%
+Workers
+Permanent
+Male
+NA*
+Female
+Total
+Other than Permanent
+Male
+NA*
+Female
+Total
+	
+*The company captures the above mentioned data for permanent employees only.
+16
+Honasa Consumer Ltd.   |   Annual Report 2023-24
+3.	
+Details of remuneration/salary/wages
+a.	
+Median remuneration/wages:
+Particular
+Male
+Female
+Number
+Median 
+remuneration/
+salary/wages 
+of respective 
+category
+Number
+Median 
+remuneration/
+salary/wages of
+respective 
+category
+Board of Directors (BoD)
+1
+1,99,78,404
+1
+1,43,78,400
+Key Managerial Personnel
+3
+1,99,78,404
+1
+1,43,78,400
+Employees other than BoD and KMP
+608
+7,75,000
+230
+8,78,400
+Workers
+NA*
+	
+*The company captures the above mentioned data for permanent employees only.
+b.	
+Gross wages paid to females as % of total wages paid by the entity, in the following format:
+Particulars
+FY 2023-24
+FY 2022-23
+Gross wages paid to females as % of total wages
+26%
+26%
+4.	
+Do you have a focal point (Individual/Committee) responsible for addressing human rights impacts or 
+issues caused or contributed to by the business?
+	
+Yes
+5.	
+Describe the internal mechanisms in place to redress grievances related to human rights issues.
+	
+Aggrieved employee can write to the Internal Complains Committee (ICC) who will then conduct an investigation for 
+complaints related to sexual harassment.
+6.	
+Number of Complaints on the following made by employees and workers:
+Particulars
+FY 2023-24
+FY 2022-23
+Filed during 
+the year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Filed during 
+the year
+Pending 
+resolution 
+at the end 
+of year
+Remarks
+Sexual Harassment
+0
+0
+NA
+2
+0
+ICC recommended 
+actions executed
+Discrimination at 
+workplace
+0
+0
+NA
+0
+0
+NA
+Child Labour
+0
+0
+NA
+0
+0
+NA
+Forced Labour/
+Involuntary Labour
+0
+0
+NA
+0
+0
+NA
+Wages
+0
+0
+NA
+0
+0
+NA
+Other human rights 
+related issues
+1
+0
+Complaint not 
+substantiated,
+ICC sent the
+final response 
+to complainant
+3
+0
+ICC recommended 
+actions executed
+7.	
+Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and 
+Redressal) Act, 2013, in the following format:
+Particulars
+FY 2023-24
+FY 2022-23
+Total Complaints reported under Sexual Harassment on of Women at Workplace 
+(Prevention, Prohibition and Redressal) Act, 2013 (POSH)
+0
+2
+Complaints on POSH as a % of female employees/workers
+0%
+0.98%
+Complaints on POSH upheld
+0
+1
+8.	
+Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment 
+cases.
+	
+Confidentiality is maintained throughout the investigation, and interim relief may be provided to the complainant.
+9.	
+Do human rights requirements form part of your business agreements and contracts? 
+(Yes/No/NA)	
+	
+No
+17
+Business Responsibility and Sustainability Report 
+10.	 Assessments for the year:
+Name of the assessment
+% of your plants and offices 
+that were assessed (by entity 
+or statutory authorities or 
+third parties)
+Child labour 
+0%
+Forced/involuntary labour 
+0%
+Sexual harassment
+0%
+Discrimination at workplace
+0%
+Wages
+0%
+Others – please specify
+0%
+11.	
+Provide details of any corrective actions taken or underway to address significant risks/concerns 
+arising from the assessments at Question 10 above.
+	
+NA
+Leadership Indicators
+1.	
+Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the 
+Rights of Persons with Disabilities Act, 2016? (Yes/No)	
+	
+Yes
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the environment.
+(This principle emphasises the importance of environmental stewardship. Companies should minimise their impact on the 
+environment, conserve natural resources, and promote environmental sustainability. They should also take steps to restore 
+and rehabilitate degraded ecosystems.)
+Essential Indicators
+1.	
+Details of total energy consumption (in Gigajoules) and energy intensity, in the following format:
+Parameter
+FY 2023-24
+FY 2022-23
+From renewable sources
+Total electricity consumption (A)
+0
+0
+Total fuel consumption (B)
+0
+0
+Energy consumption through other sources (C.)
+0
+0
+Total energy consumed from renewable sources (A+B+C)
+0
+0
+From non-renewable sources
+Total electricity consumption (D)
+4,843.56
+2,138.64
+Total fuel consumption (E )
+0
+0
+Energy consumption through other sources (F)
+0
+0
+Total energy consumed from non-renewable sources (D+E+F)
+4,843.56
+2,138.64
+Total energy consumed (A+B+C+D+E+F)
+4,843.56
+2,138.64
+Energy intensity per rupee of turnover
+(Total energy consumed/Revenue from operations)
+0.00000027452
+0.00000015333
+Energy intensity per rupee of turnover adjusted for Purchasing Power Parity 
+(PPP) (Total energy consumed/Revenue from operations adjusted for PPP)
+0.00000007578
+0.00000004431
+Energy intensity in terms of physical output 
+(Total energy consumed/Number of units)
+0.00004927785
+0.00002823561
+Energy intensity (optional) – the relevant metric may be selected by the entity
+Note: Indicate if any independent assessment/evaluation/assurance has been 
+carried out by an external agency?
+No
+If yes, name of the external agency. 
+NA
+2.	
+Does the entity have any sites/facilities identified as designated consumers (DCs) under the 
+Performance, Achieve and Trade (PAT) Scheme of the Government of India? (Yes/No)
+	
+No
+18
+Honasa Consumer Ltd.   |   Annual Report 2023-24
+	
+If yes, disclose whether targets set under the PAT scheme have been achieved. In case targets have not been 
+achieved, provide the remedial action taken, if any.
+3.	
+Provide details of the following disclosures related to water, in the following format:
+Parameter
+Water withdrawal by source (in kilolitres)
+FY 2023-24
+FY 2022-23
+(i)	 Surface water
+0
+0
+(ii)	 Groundwater
+0
+0
+(iii)	Third party water
+436.33
+205.82
+(iv)	Seawater/desalinated water
+0
+0
+(v)	Others
+0
+0
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+ 436.33
+ 205.82
+Total volume of water consumption (in kilolitres)
+ 436.33
+205.82 
+Water intensity per rupee of turnover 
+(Total water consumption/Revenue from operations)
+0.00000002473 
+0.00000001476 
+Water intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP)
+(Total water consumption/Revenue from operations adjusted for PPP)
+0.00000000683
+0.00000000426
+Water intensity in terms of physical output 
+(Total water consumption/Number of units)
+0.00000443917
+0.00000271736
+Note: Indicate if any independent assessment/evaluation/assurance has been 
+carried out by an external agency? (Yes/No)
+No
+If yes, name of the external agency.
+ NA
+4.	
+Provide the following details related to water discharged:
+Parameter
+FY 2023-24
+FY 2022-23
+Water discharge by destination and level of treatment (in kilolitres)
+(i)	 To Surface water
+	
+No treatment
+0
+0
+	
+With treatment – please specify level of treatment
+0
+0
+(ii)	To Groundwater
+	
+No treatment
+0
+0
+	
+With treatment – please specify level of treatment
+0
+0
+(iii) To Seawater
+	
+No treatment
+0
+0
+	
+With treatment – please specify level of treatment
+0
+0
+(iv) Sent to third-parties
+	
+No treatment
+0
+0
+	
+With treatment – please specify level of treatment
+0
+0
+(v)	Others
+	
+No treatment
+0
+0
+	
+With treatment – please specify level of treatment
+0
+0
+Total water discharged (in kilolitres)
+0
+0
+Note: Indicate if any independent assessment/evaluation/assurance has been 
+carried out by an external agency? (Y/N)
+No
+If yes, name of the external agency.
+NA
+19
+Business Responsibility and Sustainability Report 
+5.	
+Has the entity implemented a mechanism for Zero Liquid Discharge?
+	
+No
+	
+If yes, provide details of its coverage and implementation.
+6.	
+Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter
+Please 
+specify unit
+FY 2023-24
+FY 2022-23
+NOx
+NA*
+0
+0
+SOx
+NA
+0
+0
+Particulate matter (PM)
+NA
+0
+0
+Persistent organic pollutants (POP)
+NA
+0
+0
+Volatile organic compounds (VOC)
+NA
+0
+0
+Hazardous air pollutants (HAP)
+NA
+0
+0
+Others – please specify
+NA
+0
+0
+Note: Indicate if any independent assessment/evaluation/assurance has been 
+carried out by an external agency? (Y/N)
+No
+If yes, name of the external agency.
+ NA
+	
+*The nature of our business activities is such that there are no air emissions.
+7.	
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the 
+following format:
+Parameter
+Unit
+FY 2023-24
+FY 2022-23
+Total Scope 1 emissions (Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of  
+CO2 equivalent
+63.35
+81.45
+Total Scope 2 emissions (Break-up of the GHG into CO2, CH4, 
+N2O, HFCs, PFCs, SF6, NF3, if available)
+Metric tonnes of  
+CO2 equivalent
+963.33
+425.35
+Total Scope 1 and Scope 2 emissions per rupee of turnover
+ (Total Scope 1 
+and Scope 2 GHG 
+emissions/Revenue 
+from operations)
+0.00000005819
+0.00000003633
+Total Scope 1 and Scope 2 emission intensity per rupee of 
+turnover adjusted for Purchasing Power Parity (PPP)
+ (Total Scope 1 and 
+Scope 2 GHG 
+emissions/Revenue 
+from operations
+adjusted for PPP)
+0.00000001606
+0.00000001050
+Total Scope 1 and Scope 2 emission intensity in terms of 
+physical output
+Total Scope 1 and 
+Scope 2 emission 
+per number of units 
+produced
+0.00001044533
+0.00000669108
+Note: Indicate if any independent assessment/evaluation/assurance has been 
+carried out by an external agency? (Y/N)
+No
+If yes, name of the external agency.
+NA
+8.	
+Does the entity have any project related to reducing Green House Gas emission? (Yes/No)
+	
+No
+	
+If Yes, then provide details.
+20
+Honasa Consumer Ltd.   |   Annual Report 2023-24
+9.	
+Provide details related to waste management by the entity, in the following format:
+Parameter
+FY 2023-24
+FY 2022-23
+Total Waste generated (in metric tonnes)
+Plastic waste (A)
+0
+0
+E-waste (B)*
+0
+0
+Bio-medical waste (C)
+0
+0
+Construction and demolition waste (D)
+0
+0
+Battery waste (E)
+0
+0
+Radioactive waste (F)
+0
+0
+Other Hazardous waste. Please specify, if any. (G)
+0
+0
+Other Non-hazardous waste generated (H). Please specify, if any.  
+(Break-up by composition i.e. by materials relevant to the sector)
+Office waste
+142.53
+74.19
+Total (A+B + C + D + E + F + G + H)
+142.53
+74.19
+Waste intensity per rupee of turnover (Total waste generated/Revenue from operations)
+0.00000000808
+0.00000000532
+Waste intensity per rupee of turnover adjusted for Purchasing Power Parity 
+(PPP) (Total waste generated/Revenue from operations adjusted for PPP)
+0.00000000223
+0.00000000154
+Waste intensity in terms of physical output 
+(Total waste generated/Number of units)
+0.00000145008
+0.00000097950
+	
+*The company operates on a lease for its electronic equipments with a third party vendor. The equipments gets replaced by 
+the vendor post any malfunction.
+	
+For each category of waste generated, total waste recovered through recycling, re-using or other 
+recovery operations (in metric tonnes)
+Parameter
+FY 2023-24
+FY 2022-23
+(i)	 Recycled
+ 0
+ 0
+(ii)	 Re-used
+ 0
+ 0
+(iii)	Other recovery operations
+ 0
+ 0
+Total
+ 0
+ 0
+	
+For each category of waste generated, total waste disposed by nature of disposal method  
+(in metric tonnes)
+Parameter
+FY 2023-24
+FY 2022-23
+(i)	 Incineration
+0
+0
+(ii)	 Landfilling
+0
+0
+(iii)	Other disposal operations
+142.53
+74.19
+Total
+142.53
+74.19
+	
+Note: Indicate if any independent assessment/evaluation/assurance has been carried out by an external agency? (Y/N)
+	
+No
+	
+If yes, name of the external agency.
+	
+NA
+10.	 Briefly describe the waste management practices adopted in your establishments. Describe the 
+strategy adopted by your company to reduce usage of hazardous and toxic chemicals in your products 
+and processes and the practices adopted to manage such wastes.
+	
+The business is such that we do not use hazardous and toxic chemicals.
+11.	
+If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, 
+wildlife sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation 
+zones etc.) where environmental approvals/clearances are required, please specify details in the 
+following format:
+Sr. 
+No.
+Location of operations/offices
+Type of operations
+Whether the conditions of 
+environmental approval/
+clearance are being 
+complied with? (Y/N)
+If no, the reasons 
+thereof and corrective 
+action taken, if any.
+ NIL
+21
+Business Responsibility and Sustainability Report 
+12.	 Details of environmental impact assessments of projects undertaken by the entity based on applicable 
+laws, in the current financial year:
+Name and brief 
+details of project
+EIA Notification No.
+Date
+Whether conducted by 
+independent external 
+agency (Yes/No)
+Results communicated in 
+public domain (Yes/No)
+Relevant Web link
+NIL
+13.	 Is the entity compliant with the applicable environmental law/regulations/guidelines in India; such 
+as the Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, 
+Environment protection act and rules thereunder (Y/N/NA).
+	
+Yes
+	
+If not, provide details of all such non-compliances, in the following format:
+Specify the law/regulation/
+guidelines which was not  
+complied with
+Provide details of the  
+non-compliance
+Any fines/penalties/action taken 
+by regulatory agencies such as 
+pollution control boards or by 
+courts
+Corrective action taken,  
+if any
+PRINCIPLE 7 Businesses, when engaging in influencing public and regulatory policy, should do so in a 
+manner that is responsible and transparent.
+(This principle highlights the importance of responsible advocacy. Companies should engage in policy advocacy in a 
+responsible and transparent manner, and avoid engaging in activities that could undermine the public interest or the 
+democratic process.)
+Essential Indicators
+1.	
+a.	
+Number of affiliations with trade and industry chambers/associations.
+	
+	
+5
+	
+b.	
+List the top 10 trade and industry chambers/associations (determined based on the total members 
+of such body) the entity is a member of/affiliated to.
+Sr. 
+No.
+Name of the trade and industry chambers/associations
+Reach of trade and 
+industry chambers/
+associations 
+(State/National/
+International)
+1.
+FICCI- Sectoral Committee Co-Chair (Start-up)
+National
+2.
+MAARG (InvestIndia)
+National
+3.
+CII Committee Member
+National
+4.
+ASCI
+National
+5.
+ASSOCHAM
+National
+2.	
+Provide details of corrective action taken or underway on any issues related to anti- competitive 
+conduct by the entity, based on adverse orders from regulatory authorities.
+Name of authority
+Brief of the case
+Corrective action taken
+NIL
+	
+*There were no issues related to anti-competitive conduct by the entity
+PRINCIPLE 8 Businesses should promote inclusive growth and equitable development.
+(This principle emphasises the importance of promoting inclusive and equitable economic development. Companies should 
+create economic opportunities for all, including disadvantaged and marginalised groups. They should also contribute to 
+the development of local communities and support social and economic empowerment.)
+Essential Indicators
+1.	
+Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable 
+laws, in the current financial year.
+Name and brief 
+details of project
+SIA Notification 
+No.
+Date of 
+notification
+Whether conducted by 
+independent external 
+agency (Yes/No)
+Results communicated in 
+public domain (Yes/No)
+Relevant Web link
+NIL
+22
+Honasa Consumer Ltd.   |   Annual Report 2023-24
+2.	
+Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being 
+undertaken by your entity, in the following format:
+Sr. 
+No.
+Name of Project for 
+which R&R is ongoing
+State
+District
+No. of Project Affected 
+Families (PAFs)
+% of PAFs covered 
+by R&R
+Amounts paid to 
+PAFs in the FY  
+(In ₹)
+NIL
+3.	
+Describe the mechanisms to receive and redress grievances of the community.
+	
+The local bodies communicate their grievance to the NGO partner and they then cascade it to the company’s SPOC 
+who then shares remedial measures to the NGO. The NGO, in turn, resolves the matter with the local bodies.
+4.	
+Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+Parameter
+FY 2023-24
+FY 2022-23
+Directly sourced from MSMEs/small producers
+64%
+55.4%
+Directly from within India
+99%
+98.8%
+5.	
+Job creation in smaller towns – Disclose wages paid to persons employed (including employees or 
+workers employed on a permanent or non-permanent/on contract basis) in the following locations, as 
+% of total wage cost
+Parameter
+FY 2023-24
+FY 2022-23
+Rural
+0%
+0%
+Semi-urban
+0%
+0%
+Urban
+0%
+0%
+Metropolitan
+100%
+100%
+(Place to be categorised as per RBI Classification System - rural/semi-urban/urban/metropolitan)
+Leadership Indicators
+1.	
+Details of beneficiaries of CSR projects:
+Sr. 
+No.
+CSR Project
+No. of persons 
+benefitted from CSR 
+Projects
+% of beneficiaries 
+from vulnerable and 
+marginalised groups
+1.
+Say trees 
+Village residents
+NA*
+2.
+IamGurgaon
+Forest restoration
+NA*
+	
+* These projects were initiated in March 2024, and tracking the percentage of beneficiaries from vulnerable and marginalised 
+groups is currently in progress.
+PRINCIPLE 9 Businesses should engage with and provide value to their consumers in a responsible manner.
+(This principle highlights the importance of responsible consumer engagement. Companies should provide safe, high-quality 
+products and services, and ensure that they are marketed and sold ethically and responsibly. They should also be transparent 
+about their products and services, and provide consumers with the information they need to make informed choices.)
+Essential Indicators
+1.	
+Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+	
+Customers can reach out to the company through following the channels:
+	
+https://support.mamaearth.in/hc/en-us
+	
+https://ayuga.in/pages/contact
+	
+https://bblunt.com/contact-us
+	
+https://thedermaco.com/contact-us
+	
+https://aqualogica.in/pages/contact
+	
+https://support.stazebeauty.com/hc/en-us
+	
+A dedicated team handles these complains received though above mentioned portals and respective social media 
+platforms, ensuring they are resolved in an efficient and prompt manner.
+23
+Business Responsibility and Sustainability Report 
+2.	
+Turnover of products and/services as a percentage of turnover from all products/service that carry 
+information about
+Particular
+As a percentage to  
+total turnover
+Environmental and social parameters relevant to the product
+72%
+Safe and responsible usage
+100%
+Recycling and/or safe disposal
+60% 
+3.	
+Number of consumer complaints in respect of the following:
+Particular
+FY 2023-24
+Remark
+FY 2022-23
+Remark
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Received 
+during the 
+year
+Pending 
+resolution at 
+end of year
+Data privacy
+2323
+0
+0
+762
+0
+0
+Advertising
+0
+0
+0
+0
+0
+0
+Cyber-security
+4
+0
+0
+1
+0
+0
+Delivery of essential services
+0
+0
+0
+0
+0
+0
+Restrictive Trade Practices
+0
+0
+0
+0
+0
+0
+Unfair Trade Practices
+0
+0
+0
+0
+0
+0
+Other
+0
+1
+0
+0
+1
+0
+4.	
+Details of instances of product recalls on account of safety issues:
+Particular
+Number
+Reason for recall
+Voluntary recalls
+13
+1 recall due to IP breach claim by third party and 12 instances of 
+product recall
+Forced recalls
+0
+0
+5.	
+Does the entity have a framework/policy on cyber security and risks related to data privacy? (Yes/No)
+	
+Yes
+	
+https://honasa.in/wp-content/uploads/2024/07/Honasa_Consumer_Limited_Cybersecurity-Policy_V1.0.pdf
+6.	
+Provide details of any corrective actions taken or underway on issues relating to advertising, and 
+delivery of essential services; cyber security and data privacy of customers; re-occurrence of instances 
+of product recalls; penalty/action taken by regulatory authorities on safety of products/services.
+	
+NA*
+	
+*There were no issues relating to to advertising, and delivery of essential services; cyber security and data privacy of customers
+7.	
+Provide the following information relating to data breaches
+	
+a.	
+Number of instances of data breaches along-with impact
+	
+	
+0
+	
+b.	
+Percentage of data breaches involving personally identifiable information of customers
+	
+	
+0
+	
+c.	
+Impact, if any, of the data breaches
+	
+	
+NIL
+24
+Honasa Consumer Ltd.   |   Annual Report 2023-24
